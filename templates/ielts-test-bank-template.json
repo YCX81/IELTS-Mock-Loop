@@ -1,0 +1,99 @@
+{
+  "tests": [
+    {
+      "mode": "reading",
+      "id": "my-reading-test-001",
+      "title": "My Reading Test 001",
+      "source": "Cambridge / official sample / owned material",
+      "durationSec": 3600,
+      "passageTitle": "Passage title",
+      "passage": [
+        "Paste paragraph 1 here.",
+        "Paste paragraph 2 here."
+      ],
+      "questions": [
+        {
+          "id": "Q1",
+          "number": 1,
+          "type": "tfng",
+          "prompt": "Statement for TRUE/FALSE/NOT GIVEN",
+          "options": ["TRUE", "FALSE", "NOT GIVEN"],
+          "answer": "TRUE",
+          "evidence": "minimal source phrase",
+          "explanation": "why the answer is correct",
+          "card": {
+            "front": "question wording = source wording",
+            "back": "explain the paraphrase",
+            "tags": "ielts reading"
+          }
+        },
+        {
+          "id": "Q2",
+          "number": 2,
+          "type": "completion",
+          "prompt": "The answer is ______.",
+          "answer": "example",
+          "evidence": "answer evidence"
+        },
+        {
+          "id": "Q3",
+          "number": 3,
+          "type": "mcq",
+          "prompt": "Choose the correct answer.",
+          "options": ["A", "B", "C", "D"],
+          "answer": "B",
+          "evidence": "answer evidence"
+        }
+      ]
+    },
+    {
+      "mode": "listening",
+      "id": "my-listening-test-001",
+      "title": "My Listening Test 001",
+      "source": "owned audio or official practice link",
+      "durationSec": 1800,
+      "audioUrl": "http://127.0.0.1:5178/media/listening-001.mp3",
+      "questions": [
+        { "id": "L1", "number": 1, "prompt": "Answer 1", "answer": "" },
+        { "id": "L2", "number": 2, "prompt": "Answer 2", "answer": "" }
+      ],
+      "officialLinks": []
+    },
+    {
+      "mode": "writing",
+      "id": "my-writing-test-001",
+      "title": "My Writing Test 001",
+      "source": "owned writing prompt",
+      "durationSec": 3600,
+      "task1": {
+        "title": "Task 1",
+        "instruction": "Paste Task 1 prompt here.",
+        "data": []
+      },
+      "task2": {
+        "title": "Task 2",
+        "instruction": "Paste Task 2 prompt here."
+      }
+    },
+    {
+      "mode": "speaking",
+      "id": "my-speaking-test-001",
+      "title": "My Speaking Test 001",
+      "source": "owned speaking prompt",
+      "durationSec": 900,
+      "cue": {
+        "topic": "Describe ...",
+        "bullets": [
+          "what it was",
+          "why it mattered",
+          "what happened",
+          "how you felt"
+        ],
+        "followUps": [
+          "Part 3 question 1",
+          "Part 3 question 2"
+        ]
+      }
+    }
+  ]
+}

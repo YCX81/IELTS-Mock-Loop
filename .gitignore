@@ -1,0 +1,23 @@
+server-*.log
+*.err.log
+*.out.log
+
+__pycache__/
+*.py[cod]
+
+# Local IELTS source materials and generated OCR/audio artifacts.
+data/**/*.pdf
+data/**/*.zip
+data/**/*.mp3
+data/**/*.m4a
+data/**/*.wav
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg
+data/generated/
+
+# Keep lightweight public data/index files tracked.
+!data/materials.js
+!data/cambridge-resource-index.js
+!data/cambridge-test-bank.js
+
