@@ -1139,6 +1139,10 @@ th {
   border-right: 1px solid #c9d3d7;
 }
 
+.cbt-reading-body .cbt-passage-pane p {
+  max-width: none;
+}
+
 .split-handle {
   position: absolute;
   top: 50%;
