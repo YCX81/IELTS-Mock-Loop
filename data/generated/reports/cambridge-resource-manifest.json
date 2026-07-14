@@ -1,0 +1,2877 @@
+{
+  "generatedAt": "2026-07-02T13:08:57",
+  "summary": {
+    "pdfs": 18,
+    "listeningZips": 18,
+    "textExtracted": 4,
+    "needsOcr": 0,
+    "ocrExtracted": 14,
+    "errors": 0,
+    "audioTracks": 288,
+    "extractedAudioTracks": 288
+  },
+  "books": [
+    {
+      "book": "04",
+      "title": "Cambridge IELTS 4",
+      "pdf": "data/Cambridge-IELTS-04.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-04.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-04.zip",
+        "bytes": 47886577,
+        "entries": [
+          "Test 1/IELTS04-Test 1-Section 1.mp3",
+          "Test 1/IELTS04-Test 1-Section 2.mp3",
+          "Test 1/IELTS04-Test 1-Section 3.mp3",
+          "Test 1/IELTS04-Test 1-Section 4.mp3",
+          "Test 2/IELTS04-Test 2-Section 1.mp3",
+          "Test 2/IELTS04-Test 2-Section 2.mp3",
+          "Test 2/IELTS04-Test 2-Section 3.mp3",
+          "Test 2/IELTS04-Test 2-Section 4.mp3",
+          "Test 3/IELTS04-Test 3-Section 1.mp3",
+          "Test 3/IELTS04-Test 3-Section 2.mp3",
+          "Test 3/IELTS04-Test 3-Section 3.mp3",
+          "Test 3/IELTS04-Test 3-Section 4.mp3",
+          "Test 4/IELTS04-Test 4-Section 1.mp3",
+          "Test 4/IELTS04-Test 4-Section 2.mp3",
+          "Test 4/IELTS04-Test 4-Section 3.mp3",
+          "Test 4/IELTS04-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Test 1/IELTS04-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 1/IELTS04-Test 1-Section 1.mp3",
+            "bytes": 3618724,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS04-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 1/IELTS04-Test 1-Section 2.mp3",
+            "bytes": 2893983,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS04-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 1/IELTS04-Test 1-Section 3.mp3",
+            "bytes": 3242352,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS04-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 1/IELTS04-Test 1-Section 4.mp3",
+            "bytes": 2839439,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS04-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 2/IELTS04-Test 2-Section 1.mp3",
+            "bytes": 3489157,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS04-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 2/IELTS04-Test 2-Section 2.mp3",
+            "bytes": 2792001,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS04-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 2/IELTS04-Test 2-Section 3.mp3",
+            "bytes": 2418136,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS04-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 2/IELTS04-Test 2-Section 4.mp3",
+            "bytes": 3920491,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS04-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 3/IELTS04-Test 3-Section 1.mp3",
+            "bytes": 3503785,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS04-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 3/IELTS04-Test 3-Section 2.mp3",
+            "bytes": 2885833,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS04-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 3/IELTS04-Test 3-Section 3.mp3",
+            "bytes": 3253010,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS04-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 3/IELTS04-Test 3-Section 4.mp3",
+            "bytes": 2844664,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS04-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 4/IELTS04-Test 4-Section 1.mp3",
+            "bytes": 4020592,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS04-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 4/IELTS04-Test 4-Section 2.mp3",
+            "bytes": 2678525,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS04-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 4/IELTS04-Test 4-Section 3.mp3",
+            "bytes": 3670342,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS04-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-04/Test 4/IELTS04-Test 4-Section 4.mp3",
+            "bytes": 2884370,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-04.zip"
+      },
+      "extraction": {
+        "book": "04",
+        "pdf": "data/Cambridge-IELTS-04.pdf",
+        "pdfBytes": 1031150,
+        "pages": 128,
+        "avgCharsFirstPages": 529,
+        "status": "text_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-04.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-04.pages.json",
+        "ocrChars": 0,
+        "ocrPagesWithText": 0,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "05",
+      "title": "Cambridge IELTS 5",
+      "pdf": "data/Cambridge-IELTS-05.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-05.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-05.zip",
+        "bytes": 19386716,
+        "entries": [
+          "Test 1/IELTS05-Test 1-Section 1.m4a",
+          "Test 1/IELTS05-Test 1-Section 2.m4a",
+          "Test 1/IELTS05-Test 1-Section 3.m4a",
+          "Test 1/IELTS05-Test 1-Section 4.m4a",
+          "Test 2/IELTS05-Test 2-Section 1.m4a",
+          "Test 2/IELTS05-Test 2-Section 2.m4a",
+          "Test 2/IELTS05-Test 2-Section 3.m4a",
+          "Test 2/IELTS05-Test 2-Section 4.m4a",
+          "Test 3/IELTS05-Test 3-Section 1.m4a",
+          "Test 3/IELTS05-Test 3-Section 2.m4a",
+          "Test 3/IELTS05-Test 3-Section 3.m4a",
+          "Test 3/IELTS05-Test 3-Section 4.m4a",
+          "Test 4/IELTS05-Test 4-Section 1.m4a",
+          "Test 4/IELTS05-Test 4-Section 2.m4a",
+          "Test 4/IELTS05-Test 4-Section 3.m4a",
+          "Test 4/IELTS05-Test 4-Section 4.m4a"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Test 1/IELTS05-Test 1-Section 1.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 1/IELTS05-Test 1-Section 1.m4a",
+            "bytes": 1532068,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS05-Test 1-Section 2.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 1/IELTS05-Test 1-Section 2.m4a",
+            "bytes": 1471636,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS05-Test 1-Section 3.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 1/IELTS05-Test 1-Section 3.m4a",
+            "bytes": 1460772,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS05-Test 1-Section 4.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 1/IELTS05-Test 1-Section 4.m4a",
+            "bytes": 1384159,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS05-Test 2-Section 1.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 2/IELTS05-Test 2-Section 1.m4a",
+            "bytes": 895047,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS05-Test 2-Section 2.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 2/IELTS05-Test 2-Section 2.m4a",
+            "bytes": 1272408,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS05-Test 2-Section 3.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 2/IELTS05-Test 2-Section 3.m4a",
+            "bytes": 1540813,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS05-Test 2-Section 4.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 2/IELTS05-Test 2-Section 4.m4a",
+            "bytes": 975939,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS05-Test 3-Section 1.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 3/IELTS05-Test 3-Section 1.m4a",
+            "bytes": 1182636,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS05-Test 3-Section 2.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 3/IELTS05-Test 3-Section 2.m4a",
+            "bytes": 1163002,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS05-Test 3-Section 3.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 3/IELTS05-Test 3-Section 3.m4a",
+            "bytes": 1211018,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS05-Test 3-Section 4.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 3/IELTS05-Test 3-Section 4.m4a",
+            "bytes": 1286451,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS05-Test 4-Section 1.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 4/IELTS05-Test 4-Section 1.m4a",
+            "bytes": 1224891,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS05-Test 4-Section 2.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 4/IELTS05-Test 4-Section 2.m4a",
+            "bytes": 1449215,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS05-Test 4-Section 3.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 4/IELTS05-Test 4-Section 3.m4a",
+            "bytes": 1318804,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS05-Test 4-Section 4.m4a",
+            "path": "data/generated/audio/cambridge-ielts-05/Test 4/IELTS05-Test 4-Section 4.m4a",
+            "bytes": 1099515,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-05.zip"
+      },
+      "extraction": {
+        "book": "05",
+        "pdf": "data/Cambridge-IELTS-05.pdf",
+        "pdfBytes": 13800808,
+        "pages": 178,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-05.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-05.pages.json",
+        "ocrChars": 274535,
+        "ocrPagesWithText": 178,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "06",
+      "title": "Cambridge IELTS 6",
+      "pdf": "data/Cambridge-IELTS-06.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-06.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-06.zip",
+        "bytes": 70757657,
+        "entries": [
+          "Test 1/IELTS06-Test 1-Section 1.mp3",
+          "Test 1/IELTS06-Test 1-Section 2.mp3",
+          "Test 1/IELTS06-Test 1-Section 3.mp3",
+          "Test 1/IELTS06-Test 1-Section 4.mp3",
+          "Test 2/IELTS06-Test 2-Section 1.mp3",
+          "Test 2/IELTS06-Test 2-Section 2.mp3",
+          "Test 2/IELTS06-Test 2-Section 3.mp3",
+          "Test 2/IELTS06-Test 2-Section 4.mp3",
+          "Test 3/IELTS06-Test 3-Section 1.mp3",
+          "Test 3/IELTS06-Test 3-Section 2.mp3",
+          "Test 3/IELTS06-Test 3-Section 3.mp3",
+          "Test 3/IELTS06-Test 3-Section 4.mp3",
+          "Test 4/IELTS06-Test 4-Section 1.mp3",
+          "Test 4/IELTS06-Test 4-Section 2.mp3",
+          "Test 4/IELTS06-Test 4-Section 3.mp3",
+          "Test 4/IELTS06-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Test 1/IELTS06-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 1/IELTS06-Test 1-Section 1.mp3",
+            "bytes": 7053027,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS06-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 1/IELTS06-Test 1-Section 2.mp3",
+            "bytes": 4582888,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS06-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 1/IELTS06-Test 1-Section 3.mp3",
+            "bytes": 5437197,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS06-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 1/IELTS06-Test 1-Section 4.mp3",
+            "bytes": 5361964,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS06-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 2/IELTS06-Test 2-Section 1.mp3",
+            "bytes": 6500903,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS06-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 2/IELTS06-Test 2-Section 2.mp3",
+            "bytes": 5299688,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS06-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 2/IELTS06-Test 2-Section 3.mp3",
+            "bytes": 5899042,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS06-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 2/IELTS06-Test 2-Section 4.mp3",
+            "bytes": 6565687,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS06-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 3/IELTS06-Test 3-Section 1.mp3",
+            "bytes": 6480423,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS06-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 3/IELTS06-Test 3-Section 2.mp3",
+            "bytes": 6458689,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS06-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 3/IELTS06-Test 3-Section 3.mp3",
+            "bytes": 5440541,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS06-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 3/IELTS06-Test 3-Section 4.mp3",
+            "bytes": 7314670,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS06-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 4/IELTS06-Test 4-Section 1.mp3",
+            "bytes": 5493622,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS06-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 4/IELTS06-Test 4-Section 2.mp3",
+            "bytes": 6172805,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS06-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 4/IELTS06-Test 4-Section 3.mp3",
+            "bytes": 5909491,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS06-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-06/Test 4/IELTS06-Test 4-Section 4.mp3",
+            "bytes": 5822555,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-06.zip"
+      },
+      "extraction": {
+        "book": "06",
+        "pdf": "data/Cambridge-IELTS-06.pdf",
+        "pdfBytes": 21967415,
+        "pages": 177,
+        "avgCharsFirstPages": 13,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-06.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-06.pages.json",
+        "ocrChars": 270956,
+        "ocrPagesWithText": 177,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "07",
+      "title": "Cambridge IELTS 7",
+      "pdf": "data/Cambridge-IELTS-07.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-07.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-07.zip",
+        "bytes": 121381613,
+        "entries": [
+          "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 1.mp3",
+          "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 2.mp3",
+          "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 3.mp3",
+          "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 4.mp3",
+          "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 1.mp3",
+          "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 2.mp3",
+          "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 3.mp3",
+          "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 4.mp3",
+          "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 1.mp3",
+          "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 2.mp3",
+          "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 3.mp3",
+          "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 4.mp3",
+          "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 1.mp3",
+          "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 2.mp3",
+          "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 3.mp3",
+          "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 1.mp3",
+            "bytes": 13341772,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 2.mp3",
+            "bytes": 9766915,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 3.mp3",
+            "bytes": 10902928,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 1/IELTS07-Test 1-Section 4.mp3",
+            "bytes": 9776319,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 1.mp3",
+            "bytes": 10047783,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 2.mp3",
+            "bytes": 7569494,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 3.mp3",
+            "bytes": 10286020,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 2/IELTS07-Test 2-Section 4.mp3",
+            "bytes": 10657168,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 1.mp3",
+            "bytes": 11005119,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 2.mp3",
+            "bytes": 9265991,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 3.mp3",
+            "bytes": 9212074,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 3/IELTS07-Test 3-Section 4.mp3",
+            "bytes": 9531186,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 1.mp3",
+            "bytes": 10220818,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 2.mp3",
+            "bytes": 9236524,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 3.mp3",
+            "bytes": 7469811,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-07/Cambridge IELTS 07/Test 4/IELTS07-Test 4-Section 4.mp3",
+            "bytes": 8366960,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-07.zip"
+      },
+      "extraction": {
+        "book": "07",
+        "pdf": "data/Cambridge-IELTS-07.pdf",
+        "pdfBytes": 16265932,
+        "pages": 180,
+        "avgCharsFirstPages": 102,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-07.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-07.pages.json",
+        "ocrChars": 283369,
+        "ocrPagesWithText": 180,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "08",
+      "title": "Cambridge IELTS 8",
+      "pdf": "data/Cambridge-IELTS-08.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-08.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-08.zip",
+        "bytes": 45138894,
+        "entries": [
+          "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 1.wma",
+          "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 2.wma",
+          "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 3.wma",
+          "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 4.wma",
+          "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 1.wma",
+          "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 2.wma",
+          "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 3.wma",
+          "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 4.wma",
+          "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 1.wma",
+          "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 2.wma",
+          "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 3.wma",
+          "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 4.wma",
+          "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 1.wma",
+          "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 2.wma",
+          "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 3.wma",
+          "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 4.wma"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 1.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 1.mp3",
+            "bytes": 4385427,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 1.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 2.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 2.mp3",
+            "bytes": 3763838,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 2.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 3.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 3.mp3",
+            "bytes": 5543360,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 3.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 4.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 4.mp3",
+            "bytes": 4734425,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 1/IELTS08-Test 1-Section 4.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 1.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 1.mp3",
+            "bytes": 5295553,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 1.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 2.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 2.mp3",
+            "bytes": 4121705,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 2.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 3.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 3.mp3",
+            "bytes": 4617598,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 3.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 4.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 4.mp3",
+            "bytes": 4533337,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 2/IELTS08-Test 2-Section 4.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 1.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 1.mp3",
+            "bytes": 4844321,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 1.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 2.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 2.mp3",
+            "bytes": 3770482,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 2.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 3.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 3.mp3",
+            "bytes": 4242470,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 3.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 4.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 4.mp3",
+            "bytes": 5029520,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 3/IELTS08-Test 3-Section 4.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 1.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 1.mp3",
+            "bytes": 4126388,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 1.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 2.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 2.mp3",
+            "bytes": 3737306,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 2.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 3.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 3.mp3",
+            "bytes": 4246923,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 3.wma",
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 4.wma",
+            "path": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 4.mp3",
+            "bytes": 4246293,
+            "originalPath": "data/generated/audio/cambridge-ielts-08/Cambridge IELTS 08/Test 4/IELTS08-Test 4-Section 4.wma",
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-08.zip"
+      },
+      "extraction": {
+        "book": "08",
+        "pdf": "data/Cambridge-IELTS-08.pdf",
+        "pdfBytes": 15260010,
+        "pages": 173,
+        "avgCharsFirstPages": 102,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-08.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-08.pages.json",
+        "ocrChars": 277458,
+        "ocrPagesWithText": 173,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "09",
+      "title": "Cambridge IELTS 9",
+      "pdf": "data/Cambridge-IELTS-09.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-09.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-09.zip",
+        "bytes": 121481414,
+        "entries": [
+          "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 1.mp3",
+          "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 2.mp3",
+          "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 3.mp3",
+          "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 4.mp3",
+          "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 1.mp3",
+          "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 2.mp3",
+          "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 3.mp3",
+          "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 4.mp3",
+          "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 1.mp3",
+          "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 2.mp3",
+          "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 3.mp3",
+          "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 4.mp3",
+          "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 1.mp3",
+          "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 2.mp3",
+          "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 3.mp3",
+          "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 1.mp3",
+            "bytes": 9191238,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 2.mp3",
+            "bytes": 6807786,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 3.mp3",
+            "bytes": 9248658,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 1/IELTS09-Test 1-Section 4.mp3",
+            "bytes": 7941570,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 1.mp3",
+            "bytes": 8871774,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 2.mp3",
+            "bytes": 7566252,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 3.mp3",
+            "bytes": 8427030,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 2/IELTS09-Test 2-Section 4.mp3",
+            "bytes": 7534410,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 1.mp3",
+            "bytes": 12327936,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 2.mp3",
+            "bytes": 7247310,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 3.mp3",
+            "bytes": 7233738,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 3/IELTS09-Test 3-Section 4.mp3",
+            "bytes": 8234412,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 1.mp3",
+            "bytes": 8735010,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 2.mp3",
+            "bytes": 8174904,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 3.mp3",
+            "bytes": 7615320,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-09/Cambridge IELTS 09/Test 4/IELTS09-Test 4-Section 4.mp3",
+            "bytes": 6999360,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-09.zip"
+      },
+      "extraction": {
+        "book": "09",
+        "pdf": "data/Cambridge-IELTS-09.pdf",
+        "pdfBytes": 6028946,
+        "pages": 170,
+        "avgCharsFirstPages": 1052,
+        "status": "text_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-09.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-09.pages.json",
+        "ocrChars": 0,
+        "ocrPagesWithText": 0,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "10",
+      "title": "Cambridge IELTS 10",
+      "pdf": "data/Cambridge-IELTS-10.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-10.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-10.zip",
+        "bytes": 74314233,
+        "entries": [
+          "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 1.mp3",
+          "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 2.mp3",
+          "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 3.mp3",
+          "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 4.mp3",
+          "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 1.mp3",
+          "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 2.mp3",
+          "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 3.mp3",
+          "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 4.mp3",
+          "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 1.mp3",
+          "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 2.mp3",
+          "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 3.mp3",
+          "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 4.mp3",
+          "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 1.mp3",
+          "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 2.mp3",
+          "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 3.mp3",
+          "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 1.mp3",
+            "bytes": 7279536,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 2.mp3",
+            "bytes": 6071070,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 3.mp3",
+            "bytes": 6227862,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 1/IELTS10-Test 1-Section 4.mp3",
+            "bytes": 6381735,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 1.mp3",
+            "bytes": 6318351,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 2.mp3",
+            "bytes": 5778753,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 3.mp3",
+            "bytes": 7166946,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 2/IELTS10-Test 2-Section 4.mp3",
+            "bytes": 6562713,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 1.mp3",
+            "bytes": 8051820,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 2.mp3",
+            "bytes": 6361302,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 3.mp3",
+            "bytes": 6761205,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 3/IELTS10-Test 3-Section 4.mp3",
+            "bytes": 7812879,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 1.mp3",
+            "bytes": 6878382,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 2.mp3",
+            "bytes": 6246627,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 3.mp3",
+            "bytes": 6913410,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-10/Cambridge IELTS 10/Test 4/IELTS10-Test 4-Section 4.mp3",
+            "bytes": 7128582,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-10.zip"
+      },
+      "extraction": {
+        "book": "10",
+        "pdf": "data/Cambridge-IELTS-10.pdf",
+        "pdfBytes": 40769281,
+        "pages": 165,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-10.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-10.pages.json",
+        "ocrChars": 221231,
+        "ocrPagesWithText": 165,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "11",
+      "title": "Cambridge IELTS 11",
+      "pdf": "data/Cambridge-IELTS-11.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-11.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-11.zip",
+        "bytes": 88210173,
+        "entries": [
+          "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 1.mp3",
+          "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 2.mp3",
+          "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 3.mp3",
+          "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 4.mp3",
+          "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 1.mp3",
+          "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 2.mp3",
+          "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 3.mp3",
+          "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 4.mp3",
+          "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 1.mp3",
+          "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 2.mp3",
+          "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 3.mp3",
+          "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 4.mp3",
+          "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 1.mp3",
+          "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 2.mp3",
+          "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 3.mp3",
+          "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 1.mp3",
+            "bytes": 9250424,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 2.mp3",
+            "bytes": 6398689,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 3.mp3",
+            "bytes": 7879518,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 1/IELTS11-Test 1-Section 4.mp3",
+            "bytes": 8168328,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 1.mp3",
+            "bytes": 8062584,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 2.mp3",
+            "bytes": 6902747,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 3.mp3",
+            "bytes": 7317363,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 2/IELTS11-Test 2-Section 4.mp3",
+            "bytes": 7156031,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 1.mp3",
+            "bytes": 7732396,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 2.mp3",
+            "bytes": 6842143,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 3.mp3",
+            "bytes": 6369849,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 3/IELTS11-Test 3-Section 4.mp3",
+            "bytes": 8200929,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 1.mp3",
+            "bytes": 7852769,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 2.mp3",
+            "bytes": 5806022,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 3.mp3",
+            "bytes": 6993027,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-11/Cambridge IELTS 11/Test 4/IELTS11-Test 4-Section 4.mp3",
+            "bytes": 8030401,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-11.zip"
+      },
+      "extraction": {
+        "book": "11",
+        "pdf": "data/Cambridge-IELTS-11.pdf",
+        "pdfBytes": 27540879,
+        "pages": 143,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-11.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-11.pages.json",
+        "ocrChars": 230607,
+        "ocrPagesWithText": 143,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "12",
+      "title": "Cambridge IELTS 12",
+      "pdf": "data/Cambridge-IELTS-12.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-12.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-12.zip",
+        "bytes": 143892167,
+        "entries": [
+          "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 1.mp3",
+          "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 2.mp3",
+          "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 3.mp3",
+          "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 4.mp3",
+          "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 1.mp3",
+          "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 2.mp3",
+          "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 3.mp3",
+          "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 4.mp3",
+          "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 1.mp3",
+          "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 2.mp3",
+          "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 3.mp3",
+          "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 4.mp3",
+          "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 1.mp3",
+          "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 2.mp3",
+          "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 3.mp3",
+          "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 1.mp3",
+            "bytes": 12015790,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 2.mp3",
+            "bytes": 9802107,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 3.mp3",
+            "bytes": 9558228,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 5/IELTS12-Test 5-Section 4.mp3",
+            "bytes": 12678533,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 1.mp3",
+            "bytes": 12986322,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 2.mp3",
+            "bytes": 11268517,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 3.mp3",
+            "bytes": 10340647,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 6/IELTS12-Test 6-Section 4.mp3",
+            "bytes": 12413307,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 1.mp3",
+            "bytes": 13131772,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 2.mp3",
+            "bytes": 10449735,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 3.mp3",
+            "bytes": 12234629,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 7/IELTS12-Test 7-Section 4.mp3",
+            "bytes": 11786368,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 1.mp3",
+            "bytes": 11488565,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 2.mp3",
+            "bytes": 8868595,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 3.mp3",
+            "bytes": 11165699,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-12/Cambridge IELTS 12/Test 8/IELTS12-Test 8-Section 4.mp3",
+            "bytes": 11386381,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-12.zip"
+      },
+      "extraction": {
+        "book": "12",
+        "pdf": "data/Cambridge-IELTS-12.pdf",
+        "pdfBytes": 37202777,
+        "pages": 136,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-12.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-12.pages.json",
+        "ocrChars": 227855,
+        "ocrPagesWithText": 136,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "13",
+      "title": "Cambridge IELTS 13",
+      "pdf": "data/Cambridge-IELTS-13.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-13.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-13.zip",
+        "bytes": 58815929,
+        "entries": [
+          "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 1.mp3",
+          "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 2.mp3",
+          "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 3.mp3",
+          "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 4.mp3",
+          "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 1.mp3",
+          "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 2.mp3",
+          "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 3.mp3",
+          "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 4.mp3",
+          "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 1.mp3",
+          "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 2.mp3",
+          "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 3.mp3",
+          "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 4.mp3",
+          "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 1.mp3",
+          "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 2.mp3",
+          "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 3.mp3",
+          "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 1.mp3",
+            "bytes": 5380592,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 2.mp3",
+            "bytes": 4868211,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 3.mp3",
+            "bytes": 3420928,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 1/IELTS13-Test 1-Section 4.mp3",
+            "bytes": 5030345,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 1.mp3",
+            "bytes": 6252297,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 2.mp3",
+            "bytes": 5279180,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 3.mp3",
+            "bytes": 5142399,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 2/IELTS13-Test 2-Section 4.mp3",
+            "bytes": 6521790,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 1.mp3",
+            "bytes": 6581260,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 2.mp3",
+            "bytes": 4570861,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 3.mp3",
+            "bytes": 4776502,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 3/IELTS13-Test 3-Section 4.mp3",
+            "bytes": 4789022,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 1.mp3",
+            "bytes": 5594997,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 2.mp3",
+            "bytes": 4945835,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 3.mp3",
+            "bytes": 5403441,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-13/Cambridge IELTS 13/Test 4/IELTS13-Test 4-Section 4.mp3",
+            "bytes": 5733969,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-13.zip"
+      },
+      "extraction": {
+        "book": "13",
+        "pdf": "data/Cambridge-IELTS-13.pdf",
+        "pdfBytes": 18981385,
+        "pages": 141,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-13.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-13.pages.json",
+        "ocrChars": 235915,
+        "ocrPagesWithText": 141,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "14",
+      "title": "Cambridge IELTS 14",
+      "pdf": "data/Cambridge-IELTS-14.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-14.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-14.zip",
+        "bytes": 60832743,
+        "entries": [
+          "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 1.mp3",
+          "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 2.mp3",
+          "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 3.mp3",
+          "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 4.mp3",
+          "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 1.mp3",
+          "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 2.mp3",
+          "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 3.mp3",
+          "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 4.mp3",
+          "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 1.mp3",
+          "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 2.mp3",
+          "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 3.mp3",
+          "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 4.mp3",
+          "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 1.mp3",
+          "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 2.mp3",
+          "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 3.mp3",
+          "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 1.mp3",
+            "bytes": 4237568,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 2.mp3",
+            "bytes": 3277773,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 3.mp3",
+            "bytes": 3492815,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 1/IELTS14-Test 1-Section 4.mp3",
+            "bytes": 3951446,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 1.mp3",
+            "bytes": 3742405,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 2.mp3",
+            "bytes": 3589443,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 3.mp3",
+            "bytes": 3741650,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 2/IELTS14-Test 2-Section 4.mp3",
+            "bytes": 8428196,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 1.mp3",
+            "bytes": 4255683,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 2.mp3",
+            "bytes": 3220940,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 3.mp3",
+            "bytes": 3090103,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 3/IELTS14-Test 3-Section 4.mp3",
+            "bytes": 3955205,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 1.mp3",
+            "bytes": 3982646,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 2.mp3",
+            "bytes": 3503663,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 3.mp3",
+            "bytes": 3751801,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-14/Cambridge IELTS 14/Test 4/IELTS14-Test 4-Section 4.mp3",
+            "bytes": 4522548,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-14.zip"
+      },
+      "extraction": {
+        "book": "14",
+        "pdf": "data/Cambridge-IELTS-14.pdf",
+        "pdfBytes": 9566815,
+        "pages": 142,
+        "avgCharsFirstPages": 1522,
+        "status": "text_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-14.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-14.pages.json",
+        "ocrChars": 0,
+        "ocrPagesWithText": 0,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "15",
+      "title": "Cambridge IELTS 15",
+      "pdf": "data/Cambridge-IELTS-15.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-15.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-15.zip",
+        "bytes": 107310348,
+        "entries": [
+          "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 1.mp3",
+          "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 2.mp3",
+          "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 3.mp3",
+          "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 4.mp3",
+          "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 1.mp3",
+          "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 2.mp3",
+          "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 3.mp3",
+          "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 4.mp3",
+          "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 1.mp3",
+          "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 2.mp3",
+          "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 3.mp3",
+          "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 4.mp3",
+          "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 1.mp3",
+          "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 2.mp3",
+          "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 3.mp3",
+          "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 1.mp3",
+            "bytes": 7345682,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 2.mp3",
+            "bytes": 6678482,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 3.mp3",
+            "bytes": 6908249,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 1/IELTS15-Test 1-Section 4.mp3",
+            "bytes": 8724701,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 1.mp3",
+            "bytes": 19477068,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 2.mp3",
+            "bytes": 6761882,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 3.mp3",
+            "bytes": 6825683,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 2/IELTS15-Test 2-Section 4.mp3",
+            "bytes": 8376506,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 1.mp3",
+            "bytes": 7510814,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 2.mp3",
+            "bytes": 6775226,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 3.mp3",
+            "bytes": 6544208,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 3/IELTS15-Test 3-Section 4.mp3",
+            "bytes": 7454102,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 1.mp3",
+            "bytes": 7575866,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 2.mp3",
+            "bytes": 6083006,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 3.mp3",
+            "bytes": 6684737,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-15/Cambridge IELTS 15/Test 4/IELTS15-Test 4-Section 4.mp3",
+            "bytes": 7466195,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-15.zip"
+      },
+      "extraction": {
+        "book": "15",
+        "pdf": "data/Cambridge-IELTS-15.pdf",
+        "pdfBytes": 29128839,
+        "pages": 147,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-15.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-15.pages.json",
+        "ocrChars": 239758,
+        "ocrPagesWithText": 147,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "16",
+      "title": "Cambridge IELTS 16",
+      "pdf": "data/Cambridge-IELTS-16.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-16.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-16.zip",
+        "bytes": 72373396,
+        "entries": [
+          "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 1.mp3",
+          "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 2.mp3",
+          "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 3.mp3",
+          "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 4.mp3",
+          "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 1.mp3",
+          "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 2.mp3",
+          "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 3.mp3",
+          "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 4.mp3",
+          "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 1.mp3",
+          "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 2.mp3",
+          "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 3.mp3",
+          "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 4.mp3",
+          "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 1.mp3",
+          "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 2.mp3",
+          "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 3.mp3",
+          "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 1.mp3",
+            "bytes": 4424613,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 2.mp3",
+            "bytes": 4480232,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 3.mp3",
+            "bytes": 4374875,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 1/IELTS16-Test 1-Section 4.mp3",
+            "bytes": 5407378,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 1.mp3",
+            "bytes": 4194284,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 2.mp3",
+            "bytes": 5016102,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 3.mp3",
+            "bytes": 4480964,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 2/IELTS16-Test 2-Section 4.mp3",
+            "bytes": 5645099,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 1.mp3",
+            "bytes": 5135751,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 2.mp3",
+            "bytes": 4331415,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 3.mp3",
+            "bytes": 4409065,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 3/IELTS16-Test 3-Section 4.mp3",
+            "bytes": 5535953,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 1.mp3",
+            "bytes": 4552062,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 2.mp3",
+            "bytes": 4184845,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 3.mp3",
+            "bytes": 4355950,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-16/Cambridge IELTS 16/Test 4/IELTS16-Test 4-Section 4.mp3",
+            "bytes": 5675617,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-16.zip"
+      },
+      "extraction": {
+        "book": "16",
+        "pdf": "data/Cambridge-IELTS-16.pdf",
+        "pdfBytes": 37220433,
+        "pages": 144,
+        "avgCharsFirstPages": 2,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-16.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-16.pages.json",
+        "ocrChars": 234396,
+        "ocrPagesWithText": 144,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "17",
+      "title": "Cambridge IELTS 17",
+      "pdf": "data/Cambridge-IELTS-17.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-17.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-17.zip",
+        "bytes": 83311585,
+        "entries": [
+          "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 1.mp3",
+          "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 2.mp3",
+          "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 3.mp3",
+          "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 4.mp3",
+          "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 1.mp3",
+          "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 2.mp3",
+          "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 3.mp3",
+          "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 4.mp3",
+          "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 1.mp3",
+          "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 2.mp3",
+          "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 3.mp3",
+          "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 4.mp3",
+          "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 1.mp3",
+          "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 2.mp3",
+          "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 3.mp3",
+          "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 1.mp3",
+            "bytes": 5099995,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 2.mp3",
+            "bytes": 5176557,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 3.mp3",
+            "bytes": 5541298,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 1/IELTS17-Test 1-Section 4.mp3",
+            "bytes": 5509372,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 1.mp3",
+            "bytes": 5914472,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 2.mp3",
+            "bytes": 5409250,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 3.mp3",
+            "bytes": 4985435,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 2/IELTS17-Test 2-Section 4.mp3",
+            "bytes": 5343867,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 1.mp3",
+            "bytes": 5085631,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 2.mp3",
+            "bytes": 5653465,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 3.mp3",
+            "bytes": 5647180,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 3/IELTS17-Test 3-Section 4.mp3",
+            "bytes": 5912168,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 1.mp3",
+            "bytes": 4808573,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 2.mp3",
+            "bytes": 5620903,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 3.mp3",
+            "bytes": 5068113,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-17/Cambridge IELTS 17/Test 4/IELTS17-Test 4-Section 4.mp3",
+            "bytes": 6338262,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-17.zip"
+      },
+      "extraction": {
+        "book": "17",
+        "pdf": "data/Cambridge-IELTS-17.pdf",
+        "pdfBytes": 36521253,
+        "pages": 135,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-17.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-17.pages.json",
+        "ocrChars": 223836,
+        "ocrPagesWithText": 135,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "18",
+      "title": "Cambridge IELTS 18",
+      "pdf": "data/Cambridge-IELTS-18.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-18.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-18.zip",
+        "bytes": 112984537,
+        "entries": [
+          "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 1.mp3",
+          "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 2.mp3",
+          "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 3.mp3",
+          "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 4.mp3",
+          "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 1.mp3",
+          "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 2.mp3",
+          "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 3.mp3",
+          "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 4.mp3",
+          "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 1.mp3",
+          "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 2.mp3",
+          "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 3.mp3",
+          "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 4.mp3",
+          "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 1.mp3",
+          "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 2.mp3",
+          "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 3.mp3",
+          "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 1.mp3",
+            "bytes": 6949492,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 2.mp3",
+            "bytes": 6408725,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 3.mp3",
+            "bytes": 6439233,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 1/IELTS18-Test 1-Section 4.mp3",
+            "bytes": 8477113,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 1.mp3",
+            "bytes": 7524461,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 2.mp3",
+            "bytes": 7030024,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 3.mp3",
+            "bytes": 6923017,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 2/IELTS18-Test 2-Section 4.mp3",
+            "bytes": 6990305,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 1.mp3",
+            "bytes": 7586980,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 2.mp3",
+            "bytes": 7506482,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 3.mp3",
+            "bytes": 5741380,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 3/IELTS18-Test 3-Section 4.mp3",
+            "bytes": 7368452,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 1.mp3",
+            "bytes": 7168955,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 2.mp3",
+            "bytes": 7131092,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 3.mp3",
+            "bytes": 6768143,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-18/Cambridge IELTS 18/Test 4/IELTS18-Test 4-Section 4.mp3",
+            "bytes": 7909090,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-18.zip"
+      },
+      "extraction": {
+        "book": "18",
+        "pdf": "data/Cambridge-IELTS-18.pdf",
+        "pdfBytes": 10682252,
+        "pages": 147,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-18.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-18.pages.json",
+        "ocrChars": 240530,
+        "ocrPagesWithText": 147,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "19",
+      "title": "Cambridge IELTS 19",
+      "pdf": "data/Cambridge-IELTS-19.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-19.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-19.zip",
+        "bytes": 102183287,
+        "entries": [
+          "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 1.mp3",
+          "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 2.mp3",
+          "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 3.mp3",
+          "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 4.mp3",
+          "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 1.mp3",
+          "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 2.mp3",
+          "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 3.mp3",
+          "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 4.mp3",
+          "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 1.mp3",
+          "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 2.mp3",
+          "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 3.mp3",
+          "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 4.mp3",
+          "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 1.mp3",
+          "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 2.mp3",
+          "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 3.mp3",
+          "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 1.mp3",
+            "bytes": 7563057,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 2.mp3",
+            "bytes": 6996304,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 3.mp3",
+            "bytes": 6724631,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 1/IELTS19-Test 1-Section 4.mp3",
+            "bytes": 6637277,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 1.mp3",
+            "bytes": 7711015,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 2.mp3",
+            "bytes": 6147011,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 3.mp3",
+            "bytes": 6573330,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 2/IELTS19-Test 2-Section 4.mp3",
+            "bytes": 6832046,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 1.mp3",
+            "bytes": 6339690,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 2.mp3",
+            "bytes": 5949735,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 3.mp3",
+            "bytes": 6755142,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 3/IELTS19-Test 3-Section 4.mp3",
+            "bytes": 6567478,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 1.mp3",
+            "bytes": 6483050,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 2.mp3",
+            "bytes": 6226424,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 3.mp3",
+            "bytes": 6870917,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-19/Cambridge IELTS 19/Test 4/IELTS19-Test 4-Section 4.mp3",
+            "bytes": 8303263,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-19.zip"
+      },
+      "extraction": {
+        "book": "19",
+        "pdf": "data/Cambridge-IELTS-19.pdf",
+        "pdfBytes": 27794573,
+        "pages": 138,
+        "avgCharsFirstPages": 1,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-19.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-19.pages.json",
+        "ocrChars": 236379,
+        "ocrPagesWithText": 138,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "20",
+      "title": "Cambridge IELTS 20",
+      "pdf": "data/Cambridge-IELTS-20.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-20.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-20.zip",
+        "bytes": 85774610,
+        "entries": [
+          "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 1.mp3",
+          "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 2.mp3",
+          "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 3.mp3",
+          "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 4.mp3",
+          "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 1.mp3",
+          "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 2.mp3",
+          "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 3.mp3",
+          "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 4.mp3",
+          "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 1.mp3",
+          "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 2.mp3",
+          "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 3.mp3",
+          "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 4.mp3",
+          "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 1.mp3",
+          "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 2.mp3",
+          "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 3.mp3",
+          "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 1.mp3",
+            "bytes": 8021054,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 2.mp3",
+            "bytes": 8235049,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 3.mp3",
+            "bytes": 7667042,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 1/IELTS20-Test 1-Section 4.mp3",
+            "bytes": 7563806,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 1.mp3",
+            "bytes": 6534791,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 2.mp3",
+            "bytes": 6864561,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 3.mp3",
+            "bytes": 6761325,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 2/IELTS20-Test 2-Section 4.mp3",
+            "bytes": 9146200,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 1.mp3",
+            "bytes": 7037596,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 2.mp3",
+            "bytes": 8408920,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 3.mp3",
+            "bytes": 7147519,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 3/IELTS20-Test 3-Section 4.mp3",
+            "bytes": 8209553,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 1.mp3",
+            "bytes": 7079810,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 2.mp3",
+            "bytes": 8138500,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 3.mp3",
+            "bytes": 7565060,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-20/Cambridge IELTS 20/Test 4/IELTS20-Test 4-Section 4.mp3",
+            "bytes": 7725139,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-20.zip"
+      },
+      "extraction": {
+        "book": "20",
+        "pdf": "data/Cambridge-IELTS-20.pdf",
+        "pdfBytes": 3352141,
+        "pages": 183,
+        "avgCharsFirstPages": 844,
+        "status": "text_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-20.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-20.pages.json",
+        "ocrChars": 0,
+        "ocrPagesWithText": 0,
+        "ocrError": null,
+        "error": null
+      }
+    },
+    {
+      "book": "21",
+      "title": "Cambridge IELTS 21",
+      "pdf": "data/Cambridge-IELTS-21.pdf",
+      "listeningZip": "data/Cambridge-IELTS---Listening-21.zip",
+      "listening": {
+        "file": "Cambridge-IELTS---Listening-21.zip",
+        "bytes": 155522894,
+        "entries": [
+          "Test 1/IELTS21-Test 1-Section 1.mp3",
+          "Test 1/IELTS21-Test 1-Section 2.mp3",
+          "Test 1/IELTS21-Test 1-Section 3.mp3",
+          "Test 1/IELTS21-Test 1-Section 4.mp3",
+          "Test 2/IELTS21-Test 2-Section 1.mp3",
+          "Test 2/IELTS21-Test 2-Section 2.mp3",
+          "Test 2/IELTS21-Test 2-Section 3.mp3",
+          "Test 2/IELTS21-Test 2-Section 4.mp3",
+          "Test 3/IELTS21-Test 3-Section 1.mp3",
+          "Test 3/IELTS21-Test 3-Section 2.mp3",
+          "Test 3/IELTS21-Test 3-Section 3.mp3",
+          "Test 3/IELTS21-Test 3-Section 4.mp3",
+          "Test 4/IELTS21-Test 4-Section 1.mp3",
+          "Test 4/IELTS21-Test 4-Section 2.mp3",
+          "Test 4/IELTS21-Test 4-Section 3.mp3",
+          "Test 4/IELTS21-Test 4-Section 4.mp3"
+        ],
+        "audioEntries": 16,
+        "extractedAudio": [
+          {
+            "source": "Test 1/IELTS21-Test 1-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 1/IELTS21-Test 1-Section 1.mp3",
+            "bytes": 11216033,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS21-Test 1-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 1/IELTS21-Test 1-Section 2.mp3",
+            "bytes": 10693167,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS21-Test 1-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 1/IELTS21-Test 1-Section 3.mp3",
+            "bytes": 9998518,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 1/IELTS21-Test 1-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 1/IELTS21-Test 1-Section 4.mp3",
+            "bytes": 13067124,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS21-Test 2-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 2/IELTS21-Test 2-Section 1.mp3",
+            "bytes": 12081800,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS21-Test 2-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 2/IELTS21-Test 2-Section 2.mp3",
+            "bytes": 8834920,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS21-Test 2-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 2/IELTS21-Test 2-Section 3.mp3",
+            "bytes": 10705079,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 2/IELTS21-Test 2-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 2/IELTS21-Test 2-Section 4.mp3",
+            "bytes": 10971902,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS21-Test 3-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 3/IELTS21-Test 3-Section 1.mp3",
+            "bytes": 10367812,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS21-Test 3-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 3/IELTS21-Test 3-Section 2.mp3",
+            "bytes": 9853069,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS21-Test 3-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 3/IELTS21-Test 3-Section 3.mp3",
+            "bytes": 9407315,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 3/IELTS21-Test 3-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 3/IELTS21-Test 3-Section 4.mp3",
+            "bytes": 13445228,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS21-Test 4-Section 1.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 4/IELTS21-Test 4-Section 1.mp3",
+            "bytes": 10216946,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS21-Test 4-Section 2.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 4/IELTS21-Test 4-Section 2.mp3",
+            "bytes": 10391610,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS21-Test 4-Section 3.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 4/IELTS21-Test 4-Section 3.mp3",
+            "bytes": 9368445,
+            "originalPath": null,
+            "conversionError": null
+          },
+          {
+            "source": "Test 4/IELTS21-Test 4-Section 4.mp3",
+            "path": "data/generated/audio/cambridge-ielts-21/Test 4/IELTS21-Test 4-Section 4.mp3",
+            "bytes": 10655146,
+            "originalPath": null,
+            "conversionError": null
+          }
+        ],
+        "error": null,
+        "path": "data/Cambridge-IELTS---Listening-21.zip"
+      },
+      "extraction": {
+        "book": "21",
+        "pdf": "data/Cambridge-IELTS-21.pdf",
+        "pdfBytes": 43787170,
+        "pages": 146,
+        "avgCharsFirstPages": 0,
+        "status": "ocr_extracted",
+        "textMarkdown": "data/generated/text-pages/cambridge-ielts-21.raw.md",
+        "pagesJson": "data/generated/page-json/cambridge-ielts-21.pages.json",
+        "ocrChars": 244168,
+        "ocrPagesWithText": 146,
+        "ocrError": null,
+        "error": null
+      }
+    }
+  ]
+}

@@ -429,6 +429,58 @@ body.is-exam-running {
   margin: 8px 0;
 }
 
+.ocr-table-wrap {
+  margin: 12px 0;
+  overflow-x: auto;
+}
+
+.ocr-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  background: #fff;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.ocr-table th,
+.ocr-table td {
+  border: 1px solid var(--border);
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.ocr-table th {
+  background: #eef3f4;
+  font-weight: 700;
+}
+
+.ocr-image {
+  margin: 12px 0;
+}
+
+.ocr-image img {
+  display: block;
+  width: 100%;
+  max-height: 520px;
+  object-fit: contain;
+  border: 1px solid var(--border);
+  background: #fff;
+}
+
+.ocr-option {
+  display: grid;
+  grid-template-columns: 24px 1fr;
+  gap: 8px;
+  align-items: start;
+}
+
+.ocr-option strong,
+.ocr-passage-label {
+  font-weight: 700;
+}
+
 .structured-scroll {
   max-height: 440px;
   margin-top: 12px;

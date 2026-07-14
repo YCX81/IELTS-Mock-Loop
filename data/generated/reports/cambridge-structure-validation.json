@@ -1,0 +1,401 @@
+{
+  "generatedAt": "2026-07-14T01:56:57.017Z",
+  "books": [
+    {
+      "book": "04",
+      "priority": "critical",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "05",
+      "priority": "critical",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "06",
+      "priority": "high",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "07",
+      "priority": "high",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "08",
+      "priority": "high",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "09",
+      "priority": "high",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "10",
+      "priority": "critical",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "11",
+      "priority": "normal",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "12",
+      "priority": "normal",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "13",
+      "priority": "normal",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "14",
+      "priority": "high",
+      "expectedListeningLabel": "SECTION",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "15",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "16",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "17",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "18",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "19",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "20",
+      "priority": "critical",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    },
+    {
+      "book": "21",
+      "priority": "normal",
+      "expectedListeningLabel": "PART",
+      "status": "pass",
+      "generatedJsonContinuity": {
+        "byMode": {
+          "listening": 4,
+          "reading": 4
+        },
+        "ok": true,
+        "bad": []
+      },
+      "blockingIssues": [],
+      "warnings": [],
+      "shortPages": [],
+      "answerPagesInBody": [],
+      "imageReviewPages": [],
+      "residuals": [],
+      "suspiciousRanges": [],
+      "invalidRanges": []
+    }
+  ]
+}

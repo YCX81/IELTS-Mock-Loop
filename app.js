@@ -1000,12 +1000,11 @@
     const group = activeQuestionGroup(session);
     const groupIndex = questionGroupIndex(session, group);
     const sections = Array.isArray(test.readingSections) ? test.readingSections : [];
-    const passages = sections.filter((section) => section.kind !== "questions");
     let questionSections = sections.filter((section) => section.kind === "questions" && sectionOverlapsGroup(section, group));
     if (!questionSections.length) {
       questionSections = sections.filter((section) => section.kind === "questions").slice(groupIndex, groupIndex + 1);
     }
-    const passage = passages[groupIndex] || passages[0];
+    const passage = readingPassageForGroup(sections, groupIndex, questionSections);
     return `
       <section class="exam-shell cbt-shell text-size-${escapeHtml(examTextSize(session))}">
         ${renderExamTop(session, test.title)}
@@ -1024,6 +1023,32 @@
         ${renderExamOverlays(session)}
       </section>
     `;
+  }
+
+  function readingPassageForGroup(sections, groupIndex, questionSections) {
+    const contentSections = sections.filter((section) => section.kind !== "questions");
+    const expectedTitle = `Reading Passage ${groupIndex + 1}`.toLowerCase();
+    const namedPassage = contentSections.find(
+      (section) => String(section.title || "").trim().toLowerCase() === expectedTitle,
+    );
+    if (namedPassage) return namedPassage;
+
+    const firstQuestionIndex = Math.min(
+      ...questionSections.map((section) => sections.indexOf(section)).filter((index) => index >= 0),
+    );
+    if (Number.isFinite(firstQuestionIndex)) {
+      for (let index = firstQuestionIndex - 1; index >= 0; index -= 1) {
+        const candidate = sections[index];
+        if (candidate.kind !== "questions" && String(candidate.title || "").trim().toLowerCase() !== "overview") {
+          return candidate;
+        }
+      }
+    }
+
+    const withoutOverview = contentSections.filter(
+      (section) => String(section.title || "").trim().toLowerCase() !== "overview",
+    );
+    return withoutOverview[groupIndex] || withoutOverview[0] || contentSections[groupIndex] || contentSections[0];
   }
 
   function renderQuestion(question, answer) {
@@ -1067,9 +1092,58 @@
     `;
   }
 
+  function markdownTableRows(value) {
+    const lines = String(value || "")
+      .split(/\r?\n/)
+      .map((line) => line.trim())
+      .filter(Boolean);
+    if (lines.length < 2 || !lines.every((line) => line.startsWith("|") && line.endsWith("|"))) return null;
+    const rows = lines
+      .filter((line) => !/^\|\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|$/.test(line))
+      .map((line) => line.slice(1, -1).split("|").map((cell) => cell.trim()));
+    return rows.length >= 2 ? rows : null;
+  }
+
+  function renderMarkdownTable(paragraph) {
+    const rows = markdownTableRows(paragraph);
+    if (!rows) return "";
+    const [header, ...body] = rows;
+    return `
+      <div class="ocr-table-wrap">
+        <table class="ocr-table">
+          <thead><tr>${header.map((cell) => `<th>${escapeHtml(cell)}</th>`).join("")}</tr></thead>
+          <tbody>
+            ${body.map((row) => `<tr>${row.map((cell) => `<td>${escapeHtml(cell)}</td>`).join("")}</tr>`).join("")}
+          </tbody>
+        </table>
+      </div>
+    `;
+  }
+
+  function renderStructuredParagraph(paragraph) {
+    const text = String(paragraph || "").trim();
+    if (!text) return "";
+    const image = text.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if (image) {
+      return `
+        <figure class="ocr-image">
+          <img src="${escapeHtml(image[2])}" alt="${escapeHtml(image[1] || "Question image")}" loading="lazy" />
+        </figure>
+      `;
+    }
+    if (markdownTableRows(text)) return renderMarkdownTable(text);
+    const option = text.match(/^([A-P])\s+(.+)$/);
+    if (option) {
+      return `<p class="ocr-option"><strong>${escapeHtml(option[1])}</strong><span>${escapeHtml(option[2])}</span></p>`;
+    }
+    const passageLabel = text.match(/^([A-G])$/);
+    if (passageLabel) return `<p class="ocr-passage-label">${escapeHtml(passageLabel[1])}</p>`;
+    return `<p>${escapeHtml(text)}</p>`;
+  }
+
   function renderStructuredSections(sections, fallbackParagraphs = []) {
     if (!Array.isArray(sections) || !sections.length) {
-      return fallbackParagraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join("");
+      return fallbackParagraphs.map((p) => renderStructuredParagraph(p)).join("");
     }
     return `
       <div class="structured-text">
@@ -1080,7 +1154,7 @@
             return `
               <section class="text-section ${section.kind === "questions" ? "is-questions" : ""}">
                 <h3>${escapeHtml(section.title || "Section")}${pages}</h3>
-                ${paragraphs.map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`).join("")}
+                ${paragraphs.map((paragraph) => renderStructuredParagraph(paragraph)).join("")}
               </section>
             `;
           })

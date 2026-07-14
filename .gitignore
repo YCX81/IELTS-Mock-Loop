@@ -14,7 +14,11 @@ data/**/*.wav
 data/**/*.png
 data/**/*.jpg
 data/**/*.jpeg
-data/generated/
+data/generated/audio/
+data/generated/paddle-cache/
+data/generated/answer-pages/
+tmp/
+data.7z
 
 # Keep lightweight public data/index files tracked.
 !data/materials.js

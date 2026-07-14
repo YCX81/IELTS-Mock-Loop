@@ -134,9 +134,9 @@ def classify_page(page: dict) -> str | None:
         and has_question_marker(early)
     ):
         return "listening"
-    if "READING PASSAGE 1" in "\n".join(early).upper():
+    if re.search(r"\bREADING PASSAGE\s+(?:1|I)\b", "\n".join(early).upper()):
         return "reading"
-    if any("TASK 1" in line.upper() for line in early) and "SPEND ABOUT 20 MINUTES" in upper_text:
+    if any(re.search(r"\bTASK\s+(?:1|I)\b", line.upper()) for line in early) and "SPEND ABOUT 20 MINUTES" in upper_text:
         return "writing"
     return None
 
@@ -189,17 +189,53 @@ def fallback_test_events(pages: list[dict]) -> list[dict]:
     return events
 
 
-def page_range_text(pages_by_no: dict[int, dict], start: int, end: int) -> tuple[list[str], list[int]]:
+def is_writing_tail_page(page: dict) -> bool:
+    lines = page_lines(page)
+    if not lines:
+        return False
+    first = lines[0].upper()
+    early = "\n".join(lines[:10]).upper()
+    if first == "SPEAKING" or first.startswith("SPEAKING "):
+        return True
+    if re.match(r"^TEST\s+\d+$", first) and "NUMBER OF QUESTIONS" in early:
+        return True
+    if any(
+        marker in early
+        for marker in (
+            "ANSWER KEY",
+            "ANSWER KEYS",
+            "SAMPLE ANSWER",
+            "SAMPLE WRITING",
+            "MODEL ANSWER",
+            "MODEL AND SAMPLE",
+            "AUDIOSCRIPT",
+            "TAPESCRIPT",
+        )
+    ):
+        return True
+    return False
+
+
+def is_writing_task2_completion_page(page: dict) -> bool:
+    text = "\n".join(page_lines(page)).upper()
+    return "WRITING TASK 2" in text and "AT LEAST 250 WORDS" in text
+
+
+def page_range_text(pages_by_no: dict[int, dict], start: int, end: int, mode: str | None = None) -> tuple[list[str], list[int]]:
     selected = []
     selected_pages = []
     for page_no in range(start, max(start, end)):
         page = pages_by_no.get(page_no)
         if not page:
             continue
+        if mode == "writing" and selected_pages and is_writing_tail_page(page):
+            break
         text = str(page.get("text") or "").strip()
         if text:
             selected.append(text)
             selected_pages.append(page_no)
+        if mode == "writing" and is_writing_task2_completion_page(page):
+            break
     return selected, selected_pages
 
 
@@ -214,10 +250,26 @@ def clean_page_lines(page: dict) -> list[str]:
             continue
         if re.match(r"^p\.\s*\d+$", line, re.IGNORECASE):
             continue
-        lines.append(line)
+        lines.extend(split_inline_option_line(line))
     while lines and re.match(r"^\d{1,3}$", lines[-1]):
         lines.pop()
     return lines
+
+
+def split_inline_option_line(line: str) -> list[str]:
+    if not re.match(r"^[A-P]\s+", line):
+        return [line]
+    matches = list(re.finditer(r"(?:^|\s)([A-P])\s+(?=[A-Z0-9'\"(])", line))
+    if len(matches) < 2:
+        return [line]
+    parts = []
+    for index, match in enumerate(matches):
+        start = match.start(1)
+        end = matches[index + 1].start(1) if index + 1 < len(matches) else len(line)
+        part = line[start:end].strip()
+        if part:
+            parts.append(part)
+    return parts or [line]
 
 
 def line_starts_section(line: str, mode: str) -> str | None:
@@ -233,8 +285,9 @@ def line_starts_section(line: str, mode: str) -> str | None:
         if re.match(r"^QUESTIONS?\s+\d+", upper):
             return line
     if mode == "writing":
-        if re.search(r"TASK\s+[12]$", upper) or re.search(r"TASK\s+[12]\b", upper):
-            return "Writing Task " + re.search(r"TASK\s+([12])", upper).group(1)
+        if re.search(r"TASK\s+(?:[12]|I)$", upper) or re.search(r"TASK\s+(?:[12]|I)\b", upper):
+            task = re.search(r"TASK\s+([12I])", upper).group(1)
+            return "Writing Task " + ("1" if task == "I" else task)
     return None
 
 
@@ -252,22 +305,53 @@ def should_skip_display_line(line: str, mode: str) -> bool:
 def paragraphize(lines: list[str]) -> list[str]:
     paragraphs = []
     buffer = []
+    table_buffer = []
+
+    def join_buffer() -> str:
+        return re.sub(r"([A-Za-z])-\s+([a-z])", r"\1\2", " ".join(buffer))
+
+    def flush_buffer() -> None:
+        nonlocal buffer
+        if buffer:
+            paragraphs.append(join_buffer())
+            buffer = []
+
+    def flush_table() -> None:
+        nonlocal table_buffer
+        if table_buffer:
+            paragraphs.append("\n".join(table_buffer))
+            table_buffer = []
+
     for line in lines:
+        if line.startswith("|"):
+            flush_buffer()
+            table_buffer.append(line)
+            continue
+        flush_table()
+
+        if re.match(r"^!\[[^\]]*\]\([^)]+\)$", line):
+            flush_buffer()
+            paragraphs.append(line)
+            continue
+
+        is_bullet = bool(re.match(r"^[-•]\s+", line))
+        if buffer and re.match(r"^[-•]\s+", buffer[-1]) and not is_bullet:
+            flush_buffer()
+
         starts_new = (
             re.match(r"^[A-G]\s*$", line)
             or re.match(r"^\d{1,2}\s+", line)
-            or re.match(r"^[A-D]\s+", line)
-            or line.endswith("?")
+            or re.match(r"^[A-P]\s+", line)
+            or re.match(r"^Experiment\s+\d+\s*:", line, re.IGNORECASE)
+            or is_bullet
         )
         if buffer and starts_new:
-            paragraphs.append(" ".join(buffer))
-            buffer = []
+            flush_buffer()
         buffer.append(line)
         if line.endswith((".", "?", "!", ":")) and len(" ".join(buffer)) > 90:
-            paragraphs.append(" ".join(buffer))
-            buffer = []
-    if buffer:
-        paragraphs.append(" ".join(buffer))
+            flush_buffer()
+    flush_table()
+    flush_buffer()
     return paragraphs
 
 
@@ -275,7 +359,10 @@ def build_structured_text(mode: str, pages_by_no: dict[int, dict], page_numbers:
     sections = []
     current = None
     raw_blocks = []
+    stop = False
     for page_no in page_numbers:
+        if stop:
+            break
         page = pages_by_no.get(page_no)
         if not page:
             continue
@@ -283,6 +370,8 @@ def build_structured_text(mode: str, pages_by_no: dict[int, dict], page_numbers:
         if lines:
             raw_blocks.append("\n".join(lines))
         for line in lines:
+            if stop:
+                break
             if should_skip_display_line(line, mode):
                 continue
             title = line_starts_section(line, mode)
@@ -302,6 +391,12 @@ def build_structured_text(mode: str, pages_by_no: dict[int, dict], page_numbers:
             if page_no not in current["pages"]:
                 current["pages"].append(page_no)
             current["lines"].append(line)
+            if (
+                mode == "writing"
+                and str(current.get("title") or "").lower() == "writing task 2"
+                and re.search(r"at least 250 words\.?$", line, re.IGNORECASE)
+            ):
+                stop = True
 
     for section in sections:
         section["paragraphs"] = paragraphize(section.pop("lines"))
@@ -330,6 +425,28 @@ def question_shells(prefix: str, total: int = 40) -> list[dict]:
         }
         for number in range(1, total + 1)
     ]
+
+
+def structured_section_text(section: dict) -> str:
+    parts = [str(section.get("title") or "").strip()]
+    parts.extend(str(paragraph).strip() for paragraph in section.get("paragraphs", []) if str(paragraph).strip())
+    return "\n".join(part for part in parts if part).strip()
+
+
+def writing_task_text(writing_structured: dict, task_no: int, fallback: str) -> str:
+    title = f"Writing Task {task_no}"
+    sections = [
+        structured_section_text(section)
+        for section in writing_structured.get("sections", [])
+        if str(section.get("title") or "").strip().lower() == title.lower()
+    ]
+    text = "\n\n".join(section for section in sections if section).strip()
+    if text:
+        return text
+    next_task = 2 if task_no == 1 else None
+    stop = rf"(?=Writing Task {next_task}\b|\Z)" if next_task else r"(?=\Z)"
+    match = re.search(rf"(Writing Task {task_no}\b.*?){stop}", fallback, flags=re.IGNORECASE | re.DOTALL)
+    return match.group(1).strip() if match else fallback
 
 
 def split_audio_tracks(book: dict) -> list[list[dict]]:
@@ -386,10 +503,10 @@ def build_tests_for_book(book: dict, pages_payload: dict, project_root: Path) ->
         writing_start = int(events[test_index * 3 + 2]["page"])
         next_start = int(events[test_index * 3 + 3]["page"]) if test_index < 3 else answer_start
 
-        listening_text, listening_pages = page_range_text(pages_by_no, listening_start, reading_start)
-        reading_text, reading_pages = page_range_text(pages_by_no, reading_start, writing_start)
-        writing_text, writing_pages = page_range_text(pages_by_no, writing_start, next_start)
-        answer_text, answer_pages = page_range_text(pages_by_no, answer_start, min(len(pages) + 1, answer_start + 18))
+        listening_text, listening_pages = page_range_text(pages_by_no, listening_start, reading_start, "listening")
+        reading_text, reading_pages = page_range_text(pages_by_no, reading_start, writing_start, "reading")
+        writing_text, writing_pages = page_range_text(pages_by_no, writing_start, next_start, "writing")
+        answer_text, answer_pages = page_range_text(pages_by_no, answer_start, min(len(pages) + 1, answer_start + 18), "answer")
         listening_structured = build_structured_text("listening", pages_by_no, listening_pages)
         reading_structured = build_structured_text("reading", pages_by_no, reading_pages)
         writing_structured = build_structured_text("writing", pages_by_no, writing_pages)
@@ -437,14 +554,16 @@ def build_tests_for_book(book: dict, pages_payload: dict, project_root: Path) ->
             "sourcePages": reading_pages,
         })
         writing_body = writing_structured["text"] or "\n\n".join(writing_text)
+        task1_body = writing_task_text(writing_structured, 1, writing_body)
+        task2_body = writing_task_text(writing_structured, 2, writing_body)
         tests.append({
             **common,
             "mode": "writing",
             "id": f"cambridge-{book_no}-writing-test-{test_no}",
             "title": f"Cambridge IELTS {int(book_no)} Writing Test {test_no}",
             "durationSec": 3600,
-            "task1": {"title": "Task 1", "instruction": writing_body, "data": []},
-            "task2": {"title": "Task 2", "instruction": writing_body},
+            "task1": {"title": "Task 1", "instruction": task1_body, "data": []},
+            "task2": {"title": "Task 2", "instruction": task2_body},
             "rawOcrText": writing_structured["rawText"],
             "writingSections": writing_structured["sections"],
             "sourcePages": writing_pages,

@@ -1,0 +1,692 @@
+{
+  "book": "04",
+  "method": "pdfplumber_text",
+  "pages": [
+    {
+      "page": 1,
+      "text": "Test 1\nLISTENING\nSECTION 1 Questions 1-10\nQuestions 1-4\nComplete the notes below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for\neach answer.\nNOTES ON SOCIAL PROGRAMME\nExample Answer\nNumber of trips per month 5\nVisit places which have:\n· Historical interest\n· good 1__________________\n· 2_______________________\nCost: between ￡5.00 and ￡15.00 per person\nNote: special trips organized for groups of 3_______people\nTime: departure – 8.30 a.m.\nreturn – 6.00 p.m.\nTo reserve a seat: sign name on the 4___________3 days in advance"
+    },
+    {
+      "page": 2,
+      "text": "Questions 5-10\nComplete the table below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\nWEEKEND TRIPS\n\n| Place | Date | Number of seats | Optional extra |\n| --- | --- | --- | --- |\n| St Ives | 5 __________ | 16 | Hepworth Museum |\n| London | 16th February | 45 | 6 __________ |\n| 7 __________ | 3rd March | 18 | S.S. Great Britain |\n| Salisbury | 18th March | 50 | Stonehenge |\n| Bath | 23rd March | 16 | 8 __________ |\n\nFor further information:\nRead the 9 __________ or see Social Assistant: Jane 10 __________",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-002.png"
+      }
+    },
+    {
+      "page": 3,
+      "text": "SECTION 2 Questions 11-20\nQuestions 11-13\nComplete the sentence below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\nRIVERSIDE INDUSTRIAL VILLAGE\n\n11 Riverside Village was a good place to start an industry because it had water, raw\nmaterials and fuels such as ______________ and ______________.\n12 The metal industry was established at Riverside Village by ______________ who\nlived in the area.\n13 There were over ______________ water-powered mills in the area in the\neighteenth century.\n\nQuestions 14-20\nLabel the plan below.\nWrite NO MORE THAN THREE WORDS for each answer.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 4,
+      "text": "Riverside Industrial Village plan\n\nFixed labels:\n- River\n- The Engine Room\n- The Grinding Shop\n- Yard\n- The Stables\n- The Works Office\n- Car Park\n- Entrance\n- Toilets\n\nQuestion labels:\n14 ______ Road\n15 The ______\n16 The ______\n17 The ______\n18 The ______\n19 The ______\n20 The ______ for the workers\n\n![Cambridge IELTS 04 page 004 figure](data/generated/image-review/cambridge-ielts-04/page-004-riverside-industrial-village-plan.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-004-riverside-industrial-village-plan.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 5,
+      "text": "SECTION 3 Questions 21-30\nQuestions 21 and 22\nChoose the correct letter, A, B or C.\nExample\nMelanie could not borrow any books from the library because\nA the library was out.\nB she didn’t have time to look.\nC the books had already been borrowed.\n21 Melanie says she has not started the assignment because\nA she was doing work for another course.\nB it was s really big assignment.\nC she hasn’t spent time in the library.\n22 The lecture says that reasonable excuses for extensions are\nA planning problems.\nB problems with assignment.\nC personal illness or accident.\nQuestions 23-27\nWhat recommendation does Dr Johnson make about the journal articles?\nChoose your answers for the box and write the letters A-G next to\nquestions 23-27."
+    },
+    {
+      "page": 6,
+      "text": "A must read\nB useful\nC limited value\nD read first section\nE read research methods\nF read conclusion\nG don't read\n\nExample\nAnderson and Hawker: A\n\nJackson: 23 ______\nRoberts: 24 ______\nMorris: 25 ______\nCooper: 26 ______\nForster: 27 ______\n\nQuestions 28-30\nLabel the chart below.\nChoose your answer from the box below and write the letters A-H next to\nquestions 28-30.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 7,
+      "text": "Population studies\nReasons for changing accommodation\n\nBar chart labels:\n1 C\n2 28 ______\n3 E\n4 29 ______\n5 G\n6 30 ______\n\nPossible reasons\nA uncooperative landlord\nB environment\nC space\nD noisy neighbors\nE near city\nF work location\nG transport\nH rent\n\n![Cambridge IELTS 04 page 007 figure](data/generated/image-review/cambridge-ielts-04/page-007-population-studies-bar-chart.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-007-population-studies-bar-chart.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 8,
+      "text": "SECTION 4 Questions 31-40\nComplete the notes below\nWrite NO MORE THAN TWO WORDS for each answer.\nTHE URBAN LANDSCAPE\nTwo areas of focus:\n· the effect of vegetation on the urban climate\n· ways of planning our 31______________ better\nLarge-scale impact of trees:\n· they can make cities more or less 32______________\n· in summer they can make cities cooler\n· they can make inland cities more 33______________\nLocal impact of trees:\n· they can make local areas\n-- more 34_______________\n-- cooler\n-- more humid\n-- less windy\n-- less 35__________________\nComparing trees and buildings\nTemperature regulation:\n· trees evaporate water through their 36__________________\n· building surfaces may reach high temperatures\nwind force:\n· tall buildings cause more wind at 37___________________ level\n· these 38__________________ the wind force\nNoise:\n· trees have a small effect on traffic noise\n· 39_________________ frequency noise passes through trees\nImportant points to consider:\n· trees require a lot of sunlight, water and 40______________ to grow"
+    },
+    {
+      "page": 9,
+      "text": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1-14 which are based on\nReading Passage 1 below.\nAdults and children are frequently confronted with statements about the alarming rate\nof loss of tropical rainforests. For example, one graphic illustration to which children\nmight readily relate is the estimate that rainforests are being destroyed at a rate\nequivalent to one thousand football fields every forty minutes – about the duration of\na normal classroom period. In the face of the frequent and often vivid media coverage,\nit is likely that children will have formed ideas about rainforests – what and where\nthey are, why they are important, what endangers them – independent of any formal\ntuition. It is also possible that some of these ideas will be mistaken.\nMany studies have shown that children harbor misconceptions about ‘pure’,\ncurriculum science. These misconceptions do not remain isolated but become\nincorporated into a multifaceted, but organized, conceptual framework, making it and\nthe component ideas, some of which are erroneous, more robust but also accessible to\nmodification. These ideas may be developed by children absorbing ideas through the\npopular media. Sometimes this information may be erroneous. It seems schools may\nnot be providing an opportunity for children to re-express their ideas and so have\nthem tested and refined by teachers and their peers.\nDespite the extensive coverage in the popular media of the destruction of\nrainforests, little formal information is available about children’s ideas in this area,\nthe aim of the present study is to start to provide such information, to help teachers\ndesign their educational strategies to build upon correct ideas and to displace\nmisconceptions and to plan programs in environmental studies in their schools.\nThe study surveys children’s scientific knowledge and attitudes to rainforests.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 10,
+      "text": "Secondary school children were asked to complete a questionnaire containing five\nopen-form questions. The most frequent responses to the first question were\ndescriptions which are self-evident from the term 'rainforest'. Some children\ndescribed them as damp, wet or hot. The second question concerned the geographical\nlocation of rainforests. The commonest responses were continents or countries: Africa\n(given by 43% of children), South America (30%), Brazil (25%). Some children also\ngave more general locations, such as being near the Equator.\n\nResponses to question three concerned the importance of rainforests. The dominant\nidea, raised by 64% of the pupils, was that rainforests provide animals with habitats.\nFewer students responded that rainforests provide plant habitats, and even fewer\nmentioned the indigenous populations of rainforests. More girls (70%) than boys\n(60%) raised the idea of rainforest as animal habitats.\n\nSimilarly, but at a lower level, more girls (13%) than boys (5%) said that\nrainforests provided human habitats. These observations are generally consistent with\nour previous studies of pupils' views about the use and conservation of rainforests, in\nwhich girls were shown to be more sympathetic to animals and expressed views\nwhich seem to place an intrinsic value on non-human animal life.\n\nThe fourth question concerned the causes of the destruction of rainforests. Perhaps\nencouragingly, more than half of the pupils (59%) identified that it is human activities\nwhich are destroying rainforests, some personalising the responsibility by the use of\nterms such as 'we are'. About 18% of the pupils referred specifically to logging\nactivity.\n\nOne misconception, expressed by some 10% of the pupils, was that acid rain is\nresponsible for rainforest destruction; a similar proportion said that pollution is\ndestroying rainforests. Here, children are confusing rainforest destruction with\ndamage to the forests of Western Europe by these factors. While two fifths of the\nstudents provided the information that the rainforests provide oxygen, in some cases\nthis response also embraced the misconception that rainforest destruction would\nreduce atmospheric oxygen, making the atmosphere incompatible with human life on\nEarth.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 11,
+      "text": "In answer to the final question about the importance of rainforest conservation, the\nmajority of children simply said that we need rainforests to survive. Only a few of the\npupils (6%) mentioned that rainforest destruction may contribute to global warming.\nThis is surprising considering the high level of media coverage on this issue. Some\nchildren expressed the idea that the conservation of rainforests is not important.\nThe results of this study suggest that certain ideas predominate in the thinking of\nchildren about rainforests. Pupils’ responses indicate some misconceptions in basic\nscientific knowledge of rainforests’ ecosystems such as their ideas about rainforests as\nhabitats for animals, plants and humans and the relationship between climatic change\nand destruction of rainforests.\nPupils did not volunteer ideas that suggested that they appreciated the complexity\nof causes of rainforest destruction. In other words, they gave no indication of an\nappreciation of either the range of ways in which rainforests are important or the\ncomplex social, economic and political factors which drive the activities which are\ndestroying the rainforests. One encouragement is that the results of similar studies\nabout other environmental issues suggest that older children seem to acquire the\nability to appreciate value and evaluate conflicting views. Environmental education\noffers an arena in which these skills can be developed, which is essential for these\nchildren as future decision –makers.\nQuestions 1-8\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 1-8 on your answer sheet write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this"
+    },
+    {
+      "page": 12,
+      "text": "1 The plight of the rainforests has largely been ignored by the media.\n2 Children only accept opinions on rainforests that they encounter in their\nclassrooms.\n3 It has been suggested that children hold mistaken views about the ‘pure’\nscience that they study at school.\n4 The fact that children’s ideas about science from part of a larger framework of\nideas means that it is easier to change them.\n5 The study involved asking children a number of yes/no questions such as ‘Are\nthere any rainforests in Africa?’\n6 Girls are more likely than boys to hold mistaken views about the rainforests’\ndestruction.\n7 The study reported here follows on from a series of studies that have looked at\nchildren’s understanding of rainforests.\n8 A second study has been planned to investigate primary school children’s ideas\nabout rainforests.\nQuestions 9-13\nThe box below gives a list of responses A-P to the questionnaire discussed\nin Reading Passage 1.\nAnswer the following questions by choosing the correct responses A-P.\nWrite your answers in boxes 9-13 on your answer sheet.\n9 What was the children’s most frequent response when asked where the\nrainforests were?\n10 What was the most common response to the question about the importance of\nthe rainforests?\n11 What did most children give as the reason for the loss of the rainforests?\n12 Why did most children think it important for the rainforests to be protected?"
+    },
+    {
+      "page": 13,
+      "text": "13 Which of the responses is cited as unexpectedly uncommon, given the amount\nof time spent on the issue by the newspapers and television?\nA There is a complicated combination of reasons for the loss of the rain-\nforests.\nB The rainforests are being destroyed by the same things that are destroy-\ning the forests of Western Europe.\nC Rainforests are located near the Equator.\nD Brazil is home to the rainforests.\nE Without rainforests some animals would have nowhere to live.\nF Rainforests are important habitats for a lot of plants.\nG People are responsible for the loss of the rainforests.\nH The rainforests are a source of oxygen.\nI Rainforests are of consequence for a number of different reasons.\nJ As the rainforests are destroyed, the world gets warmer.\nK Without rainforests there would not be enough oxygen in the air.\nL There are people for whom the rainforests are home.\nM Rainforests are found in Africa.\nN Rainforests are not really important to human life.\nO The destruction of the rainforests is the direct result of logging activity.\nP Humans depend on the rainforests for their continuing existence."
+    },
+    {
+      "page": 14,
+      "text": "Question 14\nChoose the correct letter, A, B, C, D or E.\nWrite your answer in box 14 on your answer sheet.\nWhich of the following is the most suitable title for Reading Passage 1?\nA The development of a program in environmental studies within a science\ncurriculum\nB Children’s ideas about the rainforests and the implications for course\ndesign\nC The extent to which children have been misled by the media concerning\nthe rainforests\nD How to collect, collate and describe the ideas of secondary school children\nE The importance of the rainforests and the reasons for their destruction\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 15-26 which are based\non Reading Passage 2 below.\nWhat Do Whales Feel?"
+    },
+    {
+      "page": 15,
+      "text": "An examination of the functioning of the senses in cetaceans, the group of mammals\ncomprising whales, dolphins and porpoises\nSome of the senses that we and other terrestrial mammals take for granted are\neither reduced or absent in cetaceans or fail to function well in water. For example, it\nappears from their brain structure that toothed species are unable to smell. Baleen\nspecies, on the other hand, appear to have some related brain structures but it is not\nknown whether these are functional. It has been speculated that, as the blowholes\nevolved and migrated to the top of the head, the neural pathways serving sense of\nsmell may have been nearly all sacrificed. Similarly, although at least some cetaceans\nhave taste buds, the nerves serving these have degenerated or are rudimentary.\nThe sense of touch has sometimes been described as weak too, but this view is\nprobably mistaken. Trainers of captive dolphins and small whales often remark on\ntheir animals’ responsiveness to being touched or rubbed, and both captive and\nfreeranging cetacean individuals of all species (particularly adults and calves, or\nmembers of the same subgroup) appear to make frequent contact. This contact may\nhelp to maintain order within a group, and stroking or touching are part of the\ncourtship ritual in most species. The area around the blowhole is also particularly\nsensitive and captive animals often object strongly to being touched there.\nThe sense of vision is developed to different degrees in different species. Baleen\nspecies studied at close quarters underwater – specifically a grey whale calf in cap-\ntivity for a year, and free-ranging right whales and humpback whales studied and"
+    },
+    {
+      "page": 16,
+      "text": "filmed off Argentina and Hawaii – have obviously tracked objects with vision under-\nwater, and they can apparently see moderately well both in water and in air. However,\nthe position of the eyes so restricts the field of vision in baleen whales that they pro-\nbably do not have stereoscopic vision.\nOn the other hand, the position of the eyes in most dolphins and porpoises\nsuggests that they have stereoscopic vision forward and downward. Eye position in\nfreshwater dolphins, which often swim on their side or upside down while feeding,\nsuggests that what vision they have is stereoscopic forward and upward. By compare-\nson, the bottlenose dolphin has extremely keen vision in water. Judging from the way\nit watches and tracks airborne flying fish, it can apparently see fairly well through the\nair–water interface as well. And although preliminary experimental evidence suggests\nthat their in-air vision is poor, the accuracy with which dolphins leap high to take\nsmall fish out of a trainer’s hand provides anecdotal evidence to the contrary.\nSuch variation can no doubt be explained with reference to the habitats in which\nindividual species have developed. For example, vision is obviously more useful to\nspecies inhabiting clear open waters than to those living in turbid rivers and flooded\nplains. The South American boutu and Chinese beiji, for instance, appear to have very\nlimited vision, and the Indian susus are blind, their eyes reduced to slits that probably\nallow them to sense only the direction and intensity of light.\nAlthough the senses of taste and smell appear to have deteriorated, and vision in\nwater appears to be uncertain, such weaknesses are more than compensated for by\ncetaceans’ well-developed acoustic sense. Most species are highly vocal, although"
+    },
+    {
+      "page": 17,
+      "text": "they vary in the range of sounds they produce, and many forage for food using echo-location. Large baleen whales primarily use the lower frequencies and are often limited in their repertoire. Notable exceptions are the nearly song-like choruses of bowhead whales in summer and the complex, haunting utterances of the humpback whales. Toothed species in general employ more of the frequency spectrum, and produce a wider variety of sounds, than baleen species (though the sperm whale apparently produces a monotonous series of high-energy clicks and little else). Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and 'culture' of cetaceans has been more the subject of wild speculation than of solid science.\n\nEcholocation: the perception of objects by means of sound wave echoes.\n\nQuestions 15-21\n\nComplete the table below.\nChoose NO MORE THAN THREE WORDS from Reading Passage 2 for each answer.\nWrite your answers in boxes 15-21 on your answer sheet.\n\n| SENSE | SPECIES | ABILITY | COMMENTS |\n| --- | --- | --- | --- |\n| Smell | toothed | no | evidence from brain structure |\n| Smell | baleen | not certain | related brain structures are present |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "tmp/review/cam04-page-017.png"
+      }
+    },
+    {
+      "page": 18,
+      "text": "| Taste | some types | poor | nerves linked to their 15 __________ are underdeveloped |\n| Touch | all | yes | region around the blowhole very sensitive |\n| Vision | 16 __________ | yes | probably do not have stereoscopic vision |\n| Vision | dolphins, porpoises | yes | probably have stereoscopic vision 17 __________ and __________ |\n| Vision | 18 __________ | yes | probably have stereoscopic vision forward and upward |\n| Vision | bottlenose dolphin | yes | exceptional in 19 __________ and good in air-water interface |\n| Vision | boutu and beiji | poor | have limited vision |\n| Vision | Indian susu | no | probably only sense direction and intensity of light |\n| Hearing | most large baleen | yes | usually use 20 __________; repertoire limited |\n| Hearing | 21 __________ whales and __________ whales | yes | song-like |\n| Hearing | toothed | yes | use more of frequency spectrum; have wider repertoire |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "tmp/review/cam04-page-018.png"
+      }
+    },
+    {
+      "page": 19,
+      "text": "Questions 22–26\nAnswer the questions below using NO MORE THAN THREE WORDS\nfrom the passage for each answer.\nWrite your answers in boxes 22–26 on your answer sheet.\n22 Which of the senses is described here as being involved in mating?\n23 Which species swims upside down while eating?\n24 What can bottlenose dolphins follow from under the water?\n25 Which type of habitat is related to good visual ability?\n26 Which of the senses is best developed in cetaceans?"
+    },
+    {
+      "page": 20,
+      "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40 which are based\non Reading Passage 3 below.\nVisual Symbols and the Blind\nPart 1\nFrom a number of recent studies, it has become clear that blind people can\nappreciate the use of outlines and perspectives to describe the arrangement of objects\nand other surfaces in space. But pictures are more than literal representations. This\nfact was drawn to my attention dramatically when a blind woman in one of my\ninvestigations decided on her own initiative to draw a wheel as it was spinning. To\nshow this motion, she traced a curve inside the circle (Fig. 1). I was taken aback.\nLines of motion, such as the one she used, are a very recent invention in the history of\nillustration. Indeed, as art scholar David Kunzle notes, Wilhelm Busch, a trend-set-\nting nineteenth-century cartoonist, used virtually no motion lines in his popular\nfigures until about 1877.\nWhen I asked several other blind study subjects to draw a spinning wheel, one\nparticularly clever rendition appeared repeatedly: several subjects showed the wheel’s\n\n![Cambridge IELTS 04 page 020 figure](data/generated/image-review/cambridge-ielts-04/page-020-reading-spinning-wheel-figure.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-020-reading-spinning-wheel-figure.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 21,
+      "text": "spokes as curved lines. When asked about these curves, they all described them as\nmetaphorical ways of suggesting motion. Majority rule would argue that this device\nsomehow indicated motion very well. But was it a better indicator than, say, broken\nor wavy lines – or any other kind of line, for that matter? The answer was not clear.\nSo I decided to test whether various lines of motion were apt ways of showing move-\nment or if they were merely idiosyncratic marks. Moreover, I wanted to discover\nwhether there were differences in how the blind and the sighted interpreted lines of\nmotion.\nTo search out these answers, I created raised-line drawings of five different\nwheels, depicting spokes with lines that curved, bent, waved, dashed and extended\nbeyond the perimeter of the wheel. I then asked eighteen blind volunteers to feel the\nwheels and assign one of the following motions to each wheel: wobbling, spinning\nfast, spinning steadily, jerking or braking. My control group consisted of eighteen\nsighted undergraduates from the University of Toronto.\nAll but one of the blind subjects assigned distinctive motions to each wheel. Most\nguessed that the curved spokes indicated that the wheel was spinning steadily; the\nwavy spokes, they thought, suggested that the wheel was wobbling; and the bent\nspokes were taken as a sign that the wheel was jerking. Subjects assumed that spokes\nextending beyond the wheel’s perimeter signified that the wheel had its brakes on and\nthat dashed spokes indicated the wheel was spinning quickly.\nIn addition, the favored description for the sighted was the favored description for\nthe blind in every instance. What is more, the consensus among the sighted was bare-"
+    },
+    {
+      "page": 22,
+      "text": "ly higher than that among the blind. Because motion devices are unfamiliar to the\nblind, the task I gave them involved some problem solving. Evidently, however, the\nblind not only figured out meanings for each line of motion, but as a group they gene-\nrally came up with the same meaning at least as frequently as did sighted subjects.\nPart 2\nWe have found that the blind understand other kinds of visual metaphors as well.\nOne blind woman drew a picture of a child inside a heart – choosing that symbol, she\nsaid, to show that love surrounded the child. With Chang Hong Liu, a doctoral stu-\ndent from China, I have begun exploring how well blind people understand the sym-\nbolism behind shapes such as hearts that do not directly represent their meaning. We\ngave a list of twenty pairs of words to sighted subjects and asked them to pick from\neach pair the term that best related to a circle and the term that best related to a square.\nFor example, we asked: What goes with soft? A circle or a square? Which shape goes\nwith hard?\nAll our subjects deemed the circle soft and the square hard. A full 94% ascribed\nhappy to the circle, instead of sad. But other pairs revealed less agreement: 79%\nmatched fast to slow and weak to strong, respectively. And only 51% linked deep to\ncircle and shallow to square. (See Fig. 2) When we tested four totally blind volun-\nteers using the same list, we found that their choices closely resembled those made by\nthe sighted subjects. One man, who had been blind since birth, scored extremely well.\nHe made only one match differing from the consensus, assigning ‘far’ to square and"
+    },
+    {
+      "page": 23,
+      "text": "'near' to circle. In fact, only a small majority of sighted subjects - 53% - had paired\nfar and near to the opposite partners. Thus, we concluded that the blind interpret\nabstract shapes as sighted people do.\n\n| Words associated with circle/square | Agreement among subjects (%) |\n| --- | ---: |\n| SOFT-HARD | 100 |\n| MOTHER-FATHER | 94 |\n| HAPPY-SAD | 94 |\n| GOOD-EVIL | 89 |\n| LOVE-HATE | 89 |\n| ALIVE-DEAD | 87 |\n| BRIGHT-DARK | 87 |\n| LIGHT-HEAVY | 85 |\n| WARM-COLD | 81 |\n| SUMMER-WINTER | 81 |\n| WEAK-STRONG | 79 |\n| FAST-SLOW | 79 |\n| CAT-DOG | 74 |\n| SPRING-FALL | 74 |\n| QUIET-LOUD | 62 |\n| WALKING-STANDING | 62 |\n| ODD-EVEN | 57 |\n| FAR-NEAR | 53 |\n| PLANT-ANIMAL | 53 |\n| DEEP-SHALLOW | 51 |\n\nFig. 2 Subjects were asked which word in each pair fits best with a circle and\nwhich with a square. These percentages show the level of consensus among\nsighted subjects.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair"
+      }
+    },
+    {
+      "page": 24,
+      "text": "Questions 27-29\nChoose the correct letter, A, B, C or D.\nWrite your answers in boxes 27-29 on your answer sheet.\n27 In the first paragraph the writer makes the point that blind people\nA may be interested in studying art.\nB can draw outlines of different objects and surfaces.\nC can recognize conventions such as perspective.\nD can draw accurately.\n28 The writer was surprised because the blind woman\nA drew a circle on her own initiative.\nB did not understand what a wheel looked like.\nC included a symbol representing movement.\nD was the first person to use lines of motion.\n29 From the experiment described in Part 1, the writer found that the blind subjects\nA had good understanding of symbols representing movement.\nB could control the movement of wheels very accurately.\nC worked together well as a group in solving problems.\nD got better results than the sighted undergraduates."
+    },
+    {
+      "page": 25,
+      "text": "Questions 30–32\nLook at the following diagrams (Questions 30–32), and the list of types of\nmovement below.\nMatch each diagram to the type of movement A–E generally assigned to it\nin the experiment.\nChoose the correct letter A–E and write them in boxes 30–32 on your\nanswer sheet.\nA steady spinning\nB jerky movement\nC rapid spinning\nD wobbling movement\nE use of brakes\n\n![Cambridge IELTS 04 page 025 figure](data/generated/image-review/cambridge-ielts-04/page-025-reading-wheel-movement-diagrams.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-025-reading-wheel-movement-diagrams.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 26,
+      "text": "Questions 33–39\nComplete the summary below using words from the box.\nWrite your answers in boxes 33–39 on your answer sheet.\nNB You may use any word more than once.\nIn the experiment described in Part 2, a set of word 33_____________ was used to\ninvestigate whether blind and sighted people perceived the symbolism in abstract\n34__________ in the same way. Subjects were asked which word fitted best with a\ncircle and which with a square. From the 35______________ volunteers, everyone\nthought a circle fitted ‘soft’ while a square fitted ‘hard’. However, only 51% of the\n36____________ volunteers assigned a circle to 37_____________. When the test\nwas later repeated with 38_____________ volunteers, it was found that they made\n39_____________ choices.\nassociations blind deep hard\nhundred identical pairs shapes\nsighted similar shallow soft\nwords"
+    },
+    {
+      "page": 27,
+      "text": "Question 40\nChoose the correct letter, A, B, C or D.\nWrite your answer in box 40 on your answer sheet.\nWhich of the following statements best summarizes the writer’s general\nconclusion?\nA The blind represent some aspects of reality differently from sighted people.\nB The blind comprehend visual metaphors in similar ways to sighted people.\nC The blind may create unusual and effective symbols to represent reality.\nD The blind may be successful artists if given the right training."
+    },
+    {
+      "page": 28,
+      "text": "WRITING TASK 1\nYou should spend about 20 minutes on this task.\n\nThe table below shows the proportion of different categories of families\nliving in poverty in Australia in 1999.\n\nSummarize the information by selecting and reporting the main features,\nand make comparisons where relevant.\n\nWrite at least 150 words.\n\n| Family type | Proportion of people from each household type living in poverty |\n| --- | --- |\n| single aged person | 6% (54,000) |\n| aged couple | 4% (48,000) |\n| single, no children | 19% (359,000) |\n| couple, no children | 7% (211,000) |\n| sole parent | 21% (232,000) |\n| couple with children | 12% (933,000) |\n| all households | 11% (1,837,000) |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair"
+      }
+    },
+    {
+      "page": 29,
+      "text": "WRITING TASK 2\nYou should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\nCompare the advantages and disadvantages of three of the following as media\nfor communicating information. State which you consider to be the most effective.\n\n- comics\n- books\n- radio\n- television\n- film\n- theatre\n\nGive reasons for your answer and include any relevant examples from your own\nknowledge or experience.\n\nWrite at least 250 words.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 30,
+      "text": "SPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or\nstudies and other familiar topics.\nEXAMPLE\nFriends\n· Are your friends mostly your age or different ages? [Why?]\n· Do you usually see your friends during the week or at weekends? [Why?]\n· The last time you saw your friends, what did you do together?\n· In what ways are your friends important to you?\nPART 2\nDescribe an interesting historic place.\nYou should say:\nwhat it is\nwhere it is located\nwhat you can see there now\nand explain why this place is interesting.\nYou will have to talk about the topic for one to two minutes.\nYou have one minute to think about what you’re going to say."
+    },
+    {
+      "page": 31,
+      "text": "You can make some notes to help you if you wish.\nPART 3\nDiscussion topics:\nLooking after historic places\nExample questions:\nHow do people in your country feel about protecting historic buildings?\nDo you think an area can benefit from having an interesting historic place locally? In\nwhat way?\nWhat do you think will happen to historic places or buildings in the future? Why?\nThe teaching of history at school\nExample questions:\nHow were you taught history when you were at school?\nAre there other ways people can learn about history, apart from at school? How?\nDo you think history will still be a school subject in the future? Why?"
+    },
+    {
+      "page": 32,
+      "text": "TEST 2\nLISTENING：\nNUMBER OF QUESTIONS：42\nTIME ALLOWED：40 minutes(听力 30 分钟，抄答案 10 分钟)\nREADING：\nNUMBER OF QUESTIONS：40\nTIME ALLOWED：60 minutes\nWRITING:\nTIME ALLOWED：60 minutes"
+    },
+    {
+      "page": 33,
+      "text": "Test 2\nLISTENING\nSECTION 1 Questions 1—10\nQuestions 1—5\nChoose the correct letter, A, B or C.\nExample:\nHow long has Sally been waiting?\nA five minutes\nB twenty minutes\n○\nC thirty minutes\n1 What does Peter want to drink?\nA tea\nB coffee\nC a cold drink\n2 What caused Peter problems at the bank?\nA The exchange rate was down.\nB He was late.\nC The computers weren’t working."
+    },
+    {
+      "page": 34,
+      "text": "3 Who did Peter talk to at the bank?\nA an old friend\nB an American man\nC a German man\n\n4 Henry gave Peter a map of\nA the city.\nB the bus routes.\nC the train system.\n\n5 What do Peter and Sally decide to order?\nA food and drinks\nB just food\nC just drinks\n\nQuestions 6-8\nComplete the notes below using words from the box.\n\nArt Gallery\nCathedral\nCastle\nGardens\nMarkets",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 35,
+      "text": "Tourist attractions open all day: 6 ______________________ and Gardens\nTourist attractions NOT open on Mondays: 7 ______________________ and Castle\nTourist attractions which have free entry: 8 ______________________ and Markets\n\nQuestions 9 and 10\nComplete the sentences below.\nWrite NO MORE THAN THREE WORDS for each answer.\n\n9 The first place Peter and Sally will visit is the ______________________.\n10 At the Cathedral, Peter really wants to ______________________.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair"
+      }
+    },
+    {
+      "page": 36,
+      "text": "SECTION 2 Questions 11—20\nQuestions 11—20\nChoose the correct letter, A, B or C.\n11 The Counseling Service may contact tutors if\nA they are too slow in marking assignments.\nB they give students a lot of work.\nC they don’t inform students about their progress.\n12 Stress may be caused by\nA new teachers.\nB time pressure.\nC unfamiliar subject matter.\n13 International students may find stress difficult to handle because\nA they lack support from family and friends.\nB they don’t have time to make new friends.\nC they find it difficult to socialize.\n14 A personal crisis may be caused by\nA studying for too long overseas.\nB business problems in the student’s own country.\nC disruptions to personal relationships.\n15 Students may lose self-esteem if\nA they have to change courses.\nB they don’t complete a course."
+    },
+    {
+      "page": 37,
+      "text": "C their family puts too much pressure on them.\n16 Students should consult Glenda Roberts if\nA their general health is poor.\nB their diet is too strict.\nC they can’t eat the local food.\n17 Students in financial difficulties can receive\nA assistance to buy books.\nB a loan to pay their course fees.\nC a no-interest loan to cover study expenses.\n18 Loans are also available to students who\nA can’t pay their rent.\nB need to buy furniture.\nC can’t cover their living expenses.\n19 The number of students counseled by the service last year was\nA 214.\nB 240.\nC 2,600.\n20 The speaker thinks the Counseling Service\nA has been effective in spite of staff shortages.\nB is under-used by students.\nC has suffered badly because of staff cuts."
+    },
+    {
+      "page": 38,
+      "text": "SECTION 3 Questions 21—30\nQuestions 21—24\nComplete the notes below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each\nanswer.\nDETAILS OF ASSIGNMENT\nPart 1 Essay\nTitle: ‘Assess the two main methods of 21________________\nin social science research’\nNumber of words: 22__________\nPart 2 Small-scale study\nChoose one method.\nGather data from at least 23__________ subjects.\nPart 3 Report on study\nNumber of words: 24__________\nQuestions 25 and 26\nChoose TWO letters A—E.\nWhat TWO disadvantages of the questionnaire form of data collection do the"
+    },
+    {
+      "page": 39,
+      "text": "students discuss?\n\nA The data is sometimes invalid.\nB Too few people may respond.\nC It is less likely to reveal the unexpected.\nD It can only be used with literate populations.\nE There is a delay between the distribution and return of questionnaires.\n\nQuestions 27-30\nComplete the table below.\nWrite NO MORE THAN THREE WORDS OR A NUMBER for each answer.\n\n| Author | Title | Publisher | Year of publication |\n| --- | --- | --- | --- |\n| 27 __________ | 'Sample Surveys in Social Science Research' |  |  |\n| Bell | 28 __________ | 29 __________ |  |\n| Wilson | 'Interviews that work' | Oxford University Press | 30 __________ |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-039.png"
+      }
+    },
+    {
+      "page": 40,
+      "text": "SECTION 4 Questions 31-40\nQuestions 31and 32\nChoose the correct letter, A, B or C.\n31 Corporate crime is generally committed\nA against individuals.\nB by groups.\nC for companies.\n32 Corporate crime does NOT include\nA employees stealing from their company.\nB unintentional crime by employees.\nC fraud resulting from company policy."
+    },
+    {
+      "page": 41,
+      "text": "Questions 33—38\nComplete the notes below.\nWrite NO MORE THAN THREE WORDS for each answer.\nCorporate crime has been ignored by:\na) the 33______________________ e.g. films.\nb) 34_________________________________.\nReasons:\na) often more complex and needing 35_________________.\nb) less human interest than conventional crime.\nc) victims often 36_______________________.\nEffects:\na) Economic costs\n·may appear unimportant to 37________________\n·can make large 38___________________ for company\n·cause more losses to individuals than conventional crimes\nb) Social costs\n·make people lose trust in business world\n·affect poorer people most"
+    },
+    {
+      "page": 42,
+      "text": "Questions 39 and 40\nChoose TWO letters A—F.\nThe oil tanker explosion was an example of a crime which\nA was no-one’s fault.\nB was not a corporate crime.\nC was intentional.\nD was caused by indifference.\nE had tragic results.\nF made a large profit for the company."
+    },
+    {
+      "page": 43,
+      "text": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1—13 which are based on\nReading Passage 1 below.\nLost for Words\nMany minority languages are on the danger lists\nIn the Native American Navajo nation, which sprawls across four states in the\nAmerican south-west, the native language is dying. Most of its speakers are middle-aged\nor elderly. Although many students take classes in Navajo, the schools are run in English.\nStreet signs, supermarket goods and even their own newspaper are all in English. Not\nsurprisingly, linguists doubt that any native speakers of Navajo will remain in a hundred\nyears’ time.\nNavajo is far from alone. Half the world’s 6,800 languages are likely to vanish within\ntwo generations—that’s one language lost every ten days. Never before has the planet’s\nlinguistic diversity shrunk at such a pace. ‘At the moment, we are heading for about\nthree or four languages dominating the world,’ says Mark Pagel, an evolutionary biologist\nat the University of Reading. ‘It’s a mass extinction, and whether we will ever rebound\nfrom the loss is difficult to know.’\nIsolation breeds linguistic diversity: as a result, the world is peppered with languages\nspoken by only a few people. Only 250 languages have more than a million speakers, and"
+    },
+    {
+      "page": 44,
+      "text": "at least 3,000 have fewer than 2,500. It is not necessarily these small languages that are\nabout to disappear. Navajo is considered endangered despite having 150,000 speakers.\nWhat makes a language endangered is not just the number of speakers, but how old they\nare. If it is spoken by children it is relatively safe. The critically endangered languages are\nthose that are only spoken by the elderly, according to Michael Krauss, director of the\nAlassk Native Language Center, in Fairbanks.\nWhy do people reject the language of their parents? It begins with a crisis of\nconfidence, when a small community finds itself alongside a larger, wealthier society,\nsays Nicholas Ostler, of Britain’s Foundation for Endangered Languages, in Bath.\n‘People lose faith in their culture,’ he says. ‘When the next generation reaches their\nteens, they might not want to be induced into the old traditions.’\nThe change is not always voluntary. Quite often, governments try to kill off a\nminority language by banning its use in public or discouraging its use in schools, all to\npromote national unity. The former US policy of running Indian reservation schools in\nEnglish, for example, effectively put languages such as Navajo on the danger list. But\nSalikoko Mufwene, who chairs the Linguistics department at the University of Chicago,\nargues that the deadliest weapon is not government policy but economic globalization.\n‘Native Americans have not lost pride in their language, but they have had to adapt to\nsocio-economic pressures,’ he says. ‘They cannot refuse to speak English if most\ncommercial activity is in English.’ But are languages worth saving? At the very least,\nthere is a loss of data for the study of languages and their evolution, which relies on\ncomparisons between languages, both living and dead. When an unwritten and"
+    },
+    {
+      "page": 45,
+      "text": "unrecorded language disappears, it is lost to science.\nLanguage is also intimately bound up with culture, so it may be difficult to preserve\none without the other. ‘If a person shifts from Navajo to English, they lose something,’\nMufwene says. ‘Moreover, the loss of diversity may also deprive us of different ways of\nlooking at the world.’ says Pagel. There is mounting evidence that learning a language\nproduces physiological changes in the brain. ‘Your brain and mine are different from the\nbrain of someone who speaks French, for instance,’ Pagel says, and this could affect our\nthoughts and perceptions. ‘The patterns and connections we make among various\nconcepts may be structured by the linguistic habits of our community.’\nSo despite linguists’ best efforts, many languages will disappear over the next century.\nBut a growing interest in cultural identity may prevent the direst predictions from coming\ntrue. ‘The key to fostering diversity is for people to learn their ancestral tongue, as well\nas the dominant language,’ says Doug Whalen, founder and president of the Endangered\nLanguage Fund in New Haven, Connecticut . ‘Most of these languages will not survive\nwithout a large degree of bilingualism,’ he says. In New Zealand, classes for children\nhave slowed the erosion of Maori and rekindled interest in the language. A similar\napproach in Hawaii has produced about 8,000 new speakers of Polynesian languages in\nthe past few years. In California,‘apprentice’ programs have provided life support to\nseveral indigenous languages. Volunteer ‘apprentices’ pair up with one of the last living\nspeakers of a Native American tongue to learn a traditional skill such as basket weaving,\nwith instruction exclusively in the endangered language. After about 300 hours of\ntraining they are generally sufficiently fluent to transmit the language to the next"
+    },
+    {
+      "page": 46,
+      "text": "generation. But Mufwene says that preventing a language dying out is not the same as\ngiving it new life by using it every day. ‘Preserving a language is more like preserving\nfruits in a jar,’ he says.\nHowever, preservation can bring a language back from the dead. There are examples\nof languages that have survived in written form and then been revived by later\ngenerations. But a written form is essential for this, so the mere possibility of revival has\nled many speakers of endangered languages to develop systems of writing where none\nexisted before.\nQuestions 1—4\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 1—4 on your answer sheet.\nThere are currently approximately 6,800 languages in the world. This great variety of\nlanguages came about largely as a result of geographical 1___________. But in today’s\nworld, factors such as government initiatives and 2___________ are contributing to a\nhuge decrease in the number of languages. One factor which may help to ensure that\nsome endangered languages do not die out completely is people’s increasing appreciation\nof their 3_________. This has been encouraged through programs of language classes for\nchildren and through‘apprentice’ schemes, in which the endangered language is used as\nthe medium of instruction to teach people a 4__________. Some speakers of endangered"
+    },
+    {
+      "page": 47,
+      "text": "languages have been produced writing systems in order to help secure the survival of\ntheir mother tongue.\nQuestions 5—9\nLook at the following statements(Questions5—9)and the list of people in the\nbox below.\nMatch each statement with the correct person A—E.\nWrite the appropriate letter A—E in boxes 5—9 on your answer sheet.\nNB You may use any letter more than once.\n5 Endangered languages cannot be saved unless people learn to speak more than one\nlanguage.\n6 Saving languages from extinction is not in itself a satisfactory goal.\n7 The way we think may be determined by our language.\n8 Young people often reject the established way of life in their community.\n9 A change of language may mean a loss of traditional culture.\nA Michael Krauss\nB Salikoko Mufwene\nC Nicholas Ostler\nD Mark Pagel\nE Doug Whalen"
+    },
+    {
+      "page": 48,
+      "text": "Questions 10—13\nDo the following statements agree with the views of the writer in Reading\nPassage 1?\nIn boxes 10—13 on your answer sheet write\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n10 The Navajo language will die out because it currently has too few speakers.\n11 A large number of native speakers fail to guarantee the survival of a language.\n12 National governments could do more to protect endangered languages.\n13 The loss of linguistic diversity is inevitable.\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26 which are based on\nReading Passage 2 below.\nAlternative Medicine in Australia\nThe first students to study alternative medicine at university level in Australia began\ntheir four-year, full-time course at the University of Technology Sydney, in early 1994.\nTheir course covered, among other therapies, acupuncture. The theory they learnt is based"
+    },
+    {
+      "page": 49,
+      "text": "on the traditional Chinese explanation of this ancient healing art that it can regulate the\nflow of‘Qi’ or energy through pathways in the body. This course reflects how far some\nalternative therapies have come in their struggle for acceptance by the medical\nestablishment.\nAustralia has been unusual in the Western world in having a very conservative\nattitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public\nHealth at the University of Sydney.‘We’ve had a tradition of doctors being fairly\npowerful and I guess they are pretty loath to allow any pretenders to their position to\ncome into it.’ In many other industrialized countries, orthodox and alternative medicine\nhave worked‘hand in glove’ for years. In Europe, only orthodox doctors can prescribe\nherbal medicine. In Germany, plant remedies account for 10% of the national turnover of\npharmaceuticals. Americans made more visits to alternative therapists than to orthodox\ndoctors in 1990, and each year they spend about $US12 billion on therapies that have not\nbeen scientifically tested.\nDisenchantment with orthodox medicine has seen the popularity of alternative\ntherapies in Australia climb steadily during the past 20 years. In a 1983 national health\nsurvey, 1.9% of people said they had contacted a chiropractor, naturopath, osteopath,\nacupuncturist or herbalist in the two weeks prior to the survey. By 1990, this figure had\nrisen to 2.6% of the population. The 550,000 consultations with alternative therapists\nreported in the 1990 survey represented about an eighth of the total number of\nconsultations with medically qualified personnel covered by the survey, according to Dr\nLaver and colleagues writing in the Australian Journal of Public Health in1993. ‘A",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 50,
+      "text": "better educated and less accepting public has become disillusioned with the experts in\ngeneral, and increasingly skeptical about science and empirically based knowledge,’ they\nsaid.‘The high standing of professionals, including doctors, has been eroded as a\nconsequence.’\nRather than resisting or criticizing this trend, increasing numbers of Australian\ndoctors, particularly younger ones, are forming group practices with alternative therapists\nor taking courses themselves, particularly in acupuncture and herbalism. Part of the\nincentive was financial, Dr Laver said. ‘The bottom line is that most general\npractitioners are business people. If they see potential clientele going elsewhere, they\nmight want to be able to offer a similar service.'\nIn 1993, Dr Laver and his colleagues published a survey of 289 Sydney people who\nattended eight alternative therapists’ practices in Sydney. These practices offered a wide\nrange of alternative therapies from 25 therapists. Those surveyed had experienced\nchronicillnesses, for which orthodox medicine had been able to provide little relief. They\ncommented that they liked the holistic approach of their alternative therapists and the\nfriendly, concerned and detailed attention they had received. The cold, impersonal\nmanner of orthodox doctors featured in the survey. An increasing exodus from their\nclinics, coupled with this and a number of other relevant surveys carried out in Australia,\nall pointing to orthodox doctors’ inadequacies, have led mainstream doctors themselves\nto begin to admit they could learn from the personal style of alternative therapists. Dr\nPatrick Store, President of the Royal College of General Practitioners, concurs that\northodox doctors could learn a lot about bedside manner and advising patients on"
+    },
+    {
+      "page": 51,
+      "text": "preventative health from alternative therapists.\nAccording to the Australian Journal of Public Health, 18% of patients visiting\nalternative therapists do so because they suffer from musculo-skeletal complaints, 12%\nsuffer from digestive problems, which is only 1% more than those suffering from\nemotional problems. Those suffering from respiratory complaints represent 7% of their\npatients, and candida sufferers represent an equal percentage. Headache sufferers and\nthose complaining of general ill health represent 6% and 5% of patients respectively and\na further 4% see therapists for general health maintenance.\nThe survey suggested that complementary medicine is probably a better term than\nalternative medicine. Alternative medicine appears to be an adjunct sought in times of\ndisenchantment when conventional medicine seems not to offer the answer.\nQuestions 14 and 15\nChoose the correct letter, A, B, C or D\nWrite your answers in boxes 14 and 15 on your answer sheet.\n14 Traditionally, how have Australian doctors differed from doctors in many\nWestern countries?\nA They have worked closely with pharmaceutical companies.\nB They have often worked alongside other therapists.\nC They have been reluctant to accept alternative therapists."
+    },
+    {
+      "page": 52,
+      "text": "D They have regularly prescribed alternative remedies.\n15 In 1990, Americans\nA were prescribed more herbal medicines than in previous years.\nB consulted alternative therapists more often than doctors.\nC spent more on natural therapies than orthodox medicines.\nD made more complaints about doctors than in previous years.\nQuestions 16-23\nDo the following statements agree with the views of the writer in Reading\nPassage 2?\nIn boxes 16-23 on your answer sheet write\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n16 Australians have been turning to alternative therapies in increasing numbers over the\npast 20 years.\n17 Between 1983 and 1990 the numbers of patients visiting alternative therapists rose to\ninclude a further 8% of the population.\n18 The 1990 survey related to 550,000 consultations with alternative therapists.\n19 In the past, Australians had a higher opinion of doctors than they do today.\n20 Some Australian doctors are retraining in alternative therapies."
+    },
+    {
+      "page": 53,
+      "text": "21 Alternative therapists earn higher salaries than doctors.\n22 The 1993 Sydney survey involved 289 patients who visited alternative therapists for\nacupuncture treatment.\n23 All the patients in the 1993 Sydney survey had long-term medical complaints.\nQuestions 24-26\nComplete the vertical axis on the table below.\nChoose NO MORE THAN THREE WORDS from Reading Passage 2 for\neach answer.\nWrite your answers in boxes 24-26 on your answer sheet.\n\n![Cambridge IELTS 04 page 053 figure](data/generated/image-review/cambridge-ielts-04/page-053-reading-medical-complaints-bar-chart.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-053-reading-medical-complaints-bar-chart.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 54,
+      "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40 which are based on\nReading Passage 3 below.\nPlay is a Serious Business\nDoes play help develop bigger, better brains?\nBryant Furlow investigates.\nA Playing is a serious business. Children engrossed in a make-believe world, fox cubs\nplay-fighting or kittens teasing a ball of string aren’t just having fun. Play may look like a\ncarefree and exuberant way to pass the time before the hard work of adulthood comes\nalong, but there’s much more to it than that. For a start, play can even cost animals their\nlives. Eighty percent of deaths among juvenile fur seals occur because playing pups fail\nto spot predators approaching. It is also extremely expensive in terms of energy. Playful\nyoung animals use around two or three percent of their energy cavorting, and in children\nthat figure can be closer to fifteen percent. ‘Even two or three percent is huge,’ says John\nByers of Idaho University. ‘You just don’t find animals wasting energy like that,’ he\nadds. There must be a reason.\nB But if play is not simply a developmental hiccup, as biologists once thought, why did\nit evolve? The latest idea suggests that play has evolved to build big brains. In other\nwords, playing makes you intelligent. Playfulness, it seems, is common only among\nmammals, although a few of the larger-brained birds also indulge. Animals at play often\nuse unique signs-tail-wagging in dogs, for example—to indicate that activity superficially",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 55,
+      "text": "resembling adult behavior is not really in earnest. A popular explanation of play has been\nthat it helps juveniles develop the skills they will need to hunt, mate and socialize as\nadults. Another has been that it allows young animals to get in shape for adult life by\nimproving their respiratory endurance. Both these ideas have been questioned in recent\nyears.\nC Take the exercise theory. If play evolved to build muscle or as a kind of endurance\ntraining, then you would expect to see permanent benefits. But Byers points out that the\nbenefits of increased exercise disappear rapidly after training stops, so any improvement\nin endurance resulting from juvenile play would be lost by adulthood. ‘If the function\nof play was to get into shape,’ says Byers, ‘the optimum time for playing would depend\non when it was most advantageous for the young of a particular species to do so. But it\ndoesn’t work like that.’ Across species, play tends to peak about halfway through the\nsuckling stage and then decline.\nD Then there’s the skills-training hypothesis. At first glance, playing animals do appear\nto be practicing the complex manoeuvres they will need in adulthood. But a closer\ninspection reveals this interpretation as too simplistic. In one study, behavioral ecologist\nTim Caro, from the University of California, looked at the predatory play of kittens and\ntheir predatory behavior when they reached adulthood. He found that the way the cats\nplayed had no significant effect on their hunting prowess in later life.\nE Earlier this year, Sergio Pellis of Lethbridge University, Canada, reported that there is\na strong positive link between brain size and playfulness among mammals in general.\nComparing measurements for fifteen orders of mammal, he and his team found larger"
+    },
+    {
+      "page": 56,
+      "text": "brains (for a given body size) are linked to greater playfulness. The converse was also\nfound to be true. Robert Barton of Durham University believes that, because large brains\nare more sensitive to developmental stimuli than smaller brains, they require more play to\nhelp mould them for adulthood. ‘I concluded it’s to do with learning, and with the\nimportance of environmental data to the brain during development,’ he says.\nF According to Byers, the timing of the playful stage in young animals provides an\nimportant clue to what’s going on. If you plot the amount of time a juvenile devotes to\nplay each day over the course of its development, you discover a pattern typically\nassociated with a ‘sensitive period’-a brief development window during which the brain\ncan actually be modified in ways that are not possible earlier or later in life. Think of the\nrelative ease with which young children-but not infants or adults-absorb language. Other\nresearchers have found that play in cats, rats and mice is at its most intense just as this\n‘window of opportunity’ reaches its peak.\nG ‘People have not paid enough attention to the amount of the brain activated by play,’\nsays Marc Bekoff from Colorado University. Bekoff studied coyote pups at play and\nfound that the kind of behavior involved was markedly more variable and unpredictable\nthan that of adults. Such behavior activates many different parts of the brain, he reasons.\nBekoff likens it to a behavioral kaleidoscope, with animals at play jumping rapidly\nbetween activities. ‘They use behavior from a lot of different context-- predation,\naggression, reproduction,’ he says. ‘Their developing brain is getting all sorts of\nstimulation.’\nH Not only is more of the brain involved in play than was suspected, but it also seems"
+    },
+    {
+      "page": 57,
+      "text": "to activate higher cognitive processes. ‘There’s enormous cognitive, involvement in play,’\nsays Bekoof. He points out that play often involves complex assessments of playmates,\nideas of reciprocity and the use of specialized signals and rules. He believes that play\ncreates a brain that has greater behavioral flexibility and improved potential for learning\nlater in life. The idea is backed up by the work of Stephen Siviy of Gettysburg College.\nSiviy studied how bouts of play affected the brain’s levels of a particular chemical\nassociated with the stimulation and growth of nerve cells. He was surprised by the extent\nof the activation. ‘Play just lights everything up,’ he says. By allowing link-ups between\nbrain areas that might not normally communicate with each other, play may enhance\ncreativity.\nI What might further experimentation suggest about the way children are raised in\nmany societies today? We already know that rat pups denied the chance to play grow\nsmaller brain components and fail to develop the ability to apply social rules when they\ninteract with their peers. With schooling beginning earlier and becoming increasingly\nexam-orientated, play is likely to get even less of a look-in. Who knows what the result of\nthat will be?\nQuestions 27-32\nReading Passage 3 has nine paragraphs labeled A—I.\nWhich paragraph contains the following information?"
+    },
+    {
+      "page": 58,
+      "text": "Write the correct letter A—I in boxes 27-32 on your answer sheet.\nNB You may use any letter more than once.\n27 the way play causes unusual connections in the brain which are beneficial\n28 insights from recording how much time young animals spend playing\n29 a description of the physical hazards that can accompany play\n30 a description of the mental activities which are exercised and developed during play\n31 the possible effects that a reduction in play opportunities will have on humans\n32 the classes of animals for which play is important\nQuestions 33—35\nChoose THREE letters A—F.\nWrite your answers in boxes 33—35 on your answer sheet.\nThe list below gives some ways of regarding play.\nWhich THREE ways are mentioned by the writer of the text?\nA a rehearsal for later adult activities\nB a method animals use to prove themselves to their peer group\nC an activity intended to build up strength for adulthood\nD a means of communicating feelings\nE a defensive strategy\nF an activity assisting organ growth"
+    },
+    {
+      "page": 59,
+      "text": "Questions 36-40\nLook at the following researchers(Questions36—40)and the list of findings\nbelow.\nMatch each researcher with the correct finding.\nWrite the correct letter A—H in boxes 36-40 on your answer sheet.\n36 Robert Barton\n37 Marc Bekoff\n38 John Byers\n39 Sergio Pellis\n40 Stephen Siviy\nList of Findings\nA There is a link between a specific substance in the brain and playing.\nB Play provides input concerning physical surroundings.\nC Varieties of play can be matched to different stages of evolutionary\nhistory.\nD There is a tendency for mammals with smaller brains to play less.\nE Play is not a form of fitness training for the future.\nF Some species of larger-brained birds engage in play.\nG A wide range of activities are combined during play.\nH Play is a method of teaching survival techniques."
+    },
+    {
+      "page": 60,
+      "text": "WRITING\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\n\nThe graph below shows the demand for electricity in England during\ntypical days in winter and summer. The pie chart shows how electricity is used\nin an average English home.\n\nSummarize the information by selecting and reporting the main features,\nand make comparisons where relevant.\n\nWrite at least 150 words.\n\nLine graph: Typical daily demand for electricity\nY-axis: Units of electricity, from 0 to 40,000+.\nX-axis: 0 hrs, 3, 6, 9, 12, 15, 18, 21, 24.\nSeries:\n- Winter: about 35,000 units at 0 hrs; rises to nearly 40,000 around 3 hrs; falls to about 30,000 around 9 hrs; rises to around 40,000 from 15-18 hrs; peaks above 40,000 around 21 hrs; drops to about 35,000 by 24 hrs.\n- Summer: about 18,000 units at 0 hrs; gradually falls to about 13,000 around 9 hrs; rises to about 20,000 around 14-15 hrs; falls to around 16,000; rises again to just under 20,000 by 24 hrs.\n\nThe pie chart continues on page 61.\n\n![Cambridge IELTS 04 page 060 figure](data/generated/image-review/cambridge-ielts-04/page-060-061-electricity-demand-and-use.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-060-061-electricity-demand-and-use.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 61,
+      "text": "Pie chart: What the electricity is used for\n1 52.5% Heating rooms, heating water\n2 17.5% Ovens, kettles, washing machines\n3 15% Lighting, TV, radio\n4 15% Vacuum cleaners, food mixers, electric tools\n\nWRITING TASK 2\nYou should spend about 40 minutes on this task.\n\nWrite about the following topic:\n\nHappiness is considered very important in life.\nWhy is it difficult to define?\nWhat factors are important in achieving happiness?\n\nGive reasons for your answer and include any relevant examples from your\nown knowledge or experience.\n\nWrite at least 250 words.\n\n![Cambridge IELTS 04 page 061 figure](data/generated/image-review/cambridge-ielts-04/page-060-061-electricity-demand-and-use.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-060-061-electricity-demand-and-use.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 62,
+      "text": "SPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or\nstudies and other familiar topics.\nEXAMPLE\nFood and cooking\n·What kinds of food do you like to eat?\n·What kind of new food would you like to try? [Why?]\n·Do you like cooking? [Why/ Why not?]\n·What was the last meal you cooked?\n·Do you prefer home-cooked food or food from restaurants? [Why?]\nPART 2\nDescribe an interest or hobby that you enjoy.\nYou should say:\nhow you became interested in it\nhow long you have been doing it\nwhy you enjoy it\nand explain what benefits you get from this interest or hobby.\nYou will have to talk about the topic for one to two minutes."
+    },
+    {
+      "page": 63,
+      "text": "You have one minute to think about what you’re going to say.\nYou can make some notes to help you if you wish.\nPART 3\nDiscussion topics:\nThe social benefits of hobbies\nExample questions:\nDo you think having a hobby is good for people’s social life? In what way?\nAre there any negative effects of a person spending too much time on their hobby? What\nare they?\nWhy do you think people need to have an interest or hobby?\nLeisure time\nExample questions:\nIn your country, how much time do people spend on work and how much time on leisure?\nIs this a good balance, do you think?\nWould you say the amount of free time has changed much in the last fifty years?\nDo you think people will have more or less free time in the future? Why?"
+    },
+    {
+      "page": 64,
+      "text": "Test 3\nLISTENING\nSECTION 1 Questions 1—10\nQuestions 1—4\nComplete the form below.\nWrite NO MORE THAN THREE WORDS AND/OR NUMBERS for each\nanswer.\nAccommodation Request Form\nName Sara\nAge 23\nLength of time in Australia: 1___________________\nPresent address: Flat 1,\n539, 2_______________Road\nCanterbury 2036\nPresent course: 3_______________English\nAccommodation required form: 4_______________,\nth\n7 September"
+    },
+    {
+      "page": 65,
+      "text": "Questions 5—7\nChoose the correct letter, A, B or C.\n5 Sara requires a\nA single room.\nB twin room.\nC triple room.\n6 She would prefer to live with a\nA family.\nB single person.\nC couple.\n7 She would like to live in a\nA flat.\nB house.\nC studio apartment.\nQuestions 8—10\nComplete the sentences below.\nWrite NO MORE THAN ONE WORD for each answer.\n8 The ___________________ will be $320.\n9 She needs to pay the rent by cash or cheque on a _______________ basis.\n10 She needs to pay her part of the ___________________ bill."
+    },
+    {
+      "page": 66,
+      "text": "SECTION 2 Questions 11—20\nQuestions 11—14\nChoose the correct letter, A, B or C.\n11 When is this year’s festival being held?\nA 1—13 January\nB 5—17 January\nC 25—31 January\n12 What will the reviewer concentrate on today?\nA theatre\nB dance\nC exhibitions\n13 How many circuses are there in the festival?\nA one\nB two\nC several\n14 Where does Circus Romano perform?\nA in a theatre\nB in a tent\nC in a stadium"
+    },
+    {
+      "page": 67,
+      "text": "Questions 15-20\nComplete the notes below.\nWrite NO MORE THAN THREE WORDS for each answer.\nWhere Type of Highlights Type of\nperformance audience\nCircus Clowns and Music and 16__________\nRomano acrobats 15_________\nCircus 17___________ Dancers and Aerial displays 18__________\nElectrica _____________ magician\nMekong 19___________ Puppets Seeing the 20__________\nWater ____________ puppeteers at the ____________\nPuppets end"
+    },
+    {
+      "page": 68,
+      "text": "SECTION 3 Questions 21—30\nQuestions 21—25\nChoose the correct letter, A, B or C.\n21 The man wants information on courses for\nA people going back to college.\nB postgraduate students.\nC business executives.\n22 The‘Study for Success’ seminar lasts for\nA one day.\nB two days.\nC three days.\n23 In the seminar the work on writing aims to improve\nA confidence.\nB speed.\nC clarity.\n24 Reading sessions help students to read\nA analytically.\nB as fast as possible.\nC thoroughly.\n25 The seminar tries to\nA prepare learners physically.\nB encourage interest in learning."
+    },
+    {
+      "page": 69,
+      "text": "C develop literacy skills.\nQuestions 26-30\nChoose the correct letter, A, B or C.\n26 A key component of the course is learning how to\nA use time effectively.\nB stay healthy.\nC select appropriate materials.\n27 Students who want to do the‘Study for Success’ seminar should\nA register with the Faculty Office.\nB contact their Course Convenor.\nC reserve a place in advance.\n28 The‘Learning Skills for University Study’ course takes place on\nA Monday, Wednesday and Friday.\nB Monday, Tuesday and Wednesday.\nC Monday, Thursday and Friday.\n29 A feature of this course is\nA a physical training component.\nB advice on coping with stress.\nC a detailed weekly planner.\n30 The man chooses the‘Study for Success’ seminar because"
+    },
+    {
+      "page": 70,
+      "text": "A he is over forty.\nB he wants to start at the beginning.\nC he seeks to revise his skills."
+    },
+    {
+      "page": 71,
+      "text": "SECTION 4 Questions 31-40\n\nQuestions 31 and 32\nComplete the notes below.\nWrite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.\n\nNew Union Building\n\nProcedures to establish student opinion:\n- students were asked to give written suggestions on the building's design\n- these points informed the design of a 31 __________\n  (there were 32 __________ respondents)\n- results collated and report produced by Union Committee\n\nQuestions 33-37\nComplete the table below.\nWrite NO MORE THAN THREE WORDS for each answer.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-071.png"
+      }
+    },
+    {
+      "page": 72,
+      "text": "CHOICE OF SITE\n\n|  | Site One | Site Two | Site Three |\n| --- | --- | --- | --- |\n| Location | City centre near Faculty of 33 __________ | Outskirts near park | Out of town near the 34 __________ |\n| Advantages and/or disadvantages | Problems with 35 __________ and __________ | Close to 36 __________ | Access to living quarters. Larger site, so more 37 __________ |\n\nQuestion 38\nChoose TWO letters A-G.\nWhich TWO facilities did the students request in the new Union building?\n\nA a library\nB a games room\nC a student health centre\nD a mini fitness centre\nE a large swimming pool\nF a travel agency\nG a lecture theatre",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-072.png"
+      }
+    },
+    {
+      "page": 73,
+      "text": "Questions 3-9\nChoose the correct letter, A, B or C.\nWhich argument was used AGAINST having a drama theatre?\nA It would be expensive and no students would use it.\nB It would be a poor use of resources because only a minority would use it.\nC It could not accommodate large productions of plays.\nQuestions 40\nChoose TWO letters A—E.\nWhich TWO security measures have been requested?\nA closed-circuit TV\nB show Union Card on entering the building\nC show Union Card when asked\nD spot searchers of bags\nE permanent Security Office on site"
+    },
+    {
+      "page": 74,
+      "text": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1—13 which are based on\nReading Passage 1 below.\nMicro-Enterprise Credit for Street Youth\n‘I am from a large, poor family and for many years we have done without breakfast. Ever\nsince I joined the Street Kids International program I have been able to buy my family\nsugar and buns for breakfast. I have also bought myself decent second-hand clothes and\nshoes.’\nDoreen Soko\n‘We’ve had business experience. Now I’m confident to expand what we’ve been doing.\nI’ve learnt cash management, and the way of keeping money so we save for reinvestment.\nNow business is a part of our lives. As well, we didn’t know each other before—now\nwe’ve made new friends.’\nFan Kaoma\nParticipants in the Youth skills Enterprise Initiative Program, Zambia"
+    },
+    {
+      "page": 75,
+      "text": "Introduction\nAlthough small-scale business training and credit programs have become more common\nthroughout the world, relatively little attention has been paid to the need to direct such\nopportunities to young people. Even less attention has been paid to children living on the\nstreet or in difficult circumstance.\nOver the past nine years, Street Kids International (S.K.I.) has been working with partner\norganizations in Africa, Latin America and India to support the economic lives of street\nchildren. The purpose of this paper is to share some of the lessons S.K.I and our partners\nhave learned.\nBackground\nTypically, children do not end up on the streets due to a single cause, but to a combination\nof factors: a dearth of adequately funded schools, the demand for income at home, family\nbreakdown and violence. The street may be attractive to children as a place to find\nadventurous play and money. However, it is also a place where some children are\nexposed, with little or no protection, to exploitative employment, urban crime, and abuse.\nChildren who work on the streets are generally involved in unskilled, labor-intensive\ntasks which require long hours, such as shining shoes, carrying goods, guarding or\nwashing cars, and informal trading. Some may also earn income through begging, or\nthrough theft and other illegal activities. At the same time, there are street children who\ntake pride in supporting themselves and their families and who often enjoy their work.\nMany children may choose entrepreneurship because it allows them a degree of"
+    },
+    {
+      "page": 76,
+      "text": "independence, is less exploitative than many forms of paid-employment, and is flexible\nenough to allow them to participate in other activities such as education and domestic\ntask.\nStreet Business Partnerships\nS.K.I. has worked with partner organizations in Latin America, Africa and India to\ndevelop innovative opportunities for street children to earn income.\n• The S.K.I. Bicycle Courier Service first started in the Sudan. Participants in this\nenterprise were supplied with bicycles, which they used to deliver parcels and\nmessages, and which they were required to pay for gradually from their wages. A\nsimilar program was taken up in Bangalore, India.\n• Another successful project, The Shoe Shine Collective, was a partnership program\nwith the Y.W.C.A. in the Dominican Republic. In this project, participants were lent\nmoney to purchase shoe shine boxes. They were also given a safe place to store their\nequipment, and facilities for individual savings plans.\n• The Youth Skills Enterprise Initiative in Zambia is a joint program with the Red Cross\nSociety and the Y.W.C.A. Street youths are supported to start their own small business\nthrough business training, life skills training and access to credit.\nLessons learned\nThe following lessons have emerged from the programs that S.K.I. and partner\norganizations have created.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 77,
+      "text": "• Being an entrepreneur is not for everyone, nor for every street child. Ideally, potential\nparticipants will have been involved in the organization’s programs for at least six\nmonths, and trust and relationship building will have already been established.\n• The involvement of the participants has been essential to the development of relevant\nprograms. When children have had a major role in determining procedures, they are\nmore likely to abide by and enforce them.\n• It is critical for all loans to be linked to training programs that include the\ndevelopment of basic business and life skills.\n• There are tremendous advantages to involving parents or guardians in the program,\nwhere such relationships exist. Home visits allow staff the opportunity to know where\nthe participants live, and to understand more about each individual’s situation.\n• Small loans are provided initially for purchasing fixed assets such as bicycles, shoe\nshine kits and basic building materials for a market stall. As the entrepreneurs gain\nexperience, the enterprises can be gradually expanded and consideration can be given\nto increasing loan amounts. The loan amount in S.K.I. programs have generally\nranged from US$30-$100.\n• All S.K.I. programs have charged interest on the loans, primarily to get the\nentrepreneurs used to the concept of paying interest on borrowed money. Generally\nthe rates have been modest (lower than bank rates.)\nConclusion\nThere is a need to recognize the importance of access to credit for impoverished young"
+    },
+    {
+      "page": 78,
+      "text": "people seeking to fulfill economic needs. The provision of small loans to support the\nentrepreneurial dreams and ambitions of youth can be an effective means to help them\nchange their lives. However, we believe hat credit must be extended in association with\nother types of support that help participants develop critical life skills as well as\nproductive businesses.\nQuestions 1—4\nChoose the correct letter, A, B, C or D.\nWrite your answers in boxes 1—4 on your answer sheet.\n1 The quotations in the box at the beginning of the article\nA exemplify the effects of S.K.I.\nB explain why S.K.I. was set up.\nC outline the problems of street children.\nD highlight the benefits to society of S.K.I.\n2 The main purpose of S.K.I. is to\nA draw the attention of governments to the problem of street children.\nB provide schools and social support for street children.\nC encourage the public to give money to street children.\nD give business training and loans to street children.\n3 Which of the following is mentioned by the writer as a reason why children end up\nliving on the streets?"
+    },
+    {
+      "page": 79,
+      "text": "A unemployment\nB war\nC poverty\nD crime\n\n4 In order to become more independent, street children may\n\nA reject paid employment.\nB leave their families.\nC set up their own businesses.\nD employ other children.\n\nQuestions 5-8\nComplete the table below.\nChoose NO MORE THAN THREE WORDS from Reading Passage 1 for each answer.\nWrite your answer in boxes 5-8 on your answer sheet.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-079.png"
+      }
+    },
+    {
+      "page": 80,
+      "text": "| Country | Organizations involved | Type of project | Support provided |\n| --- | --- | --- | --- |\n| 5 __________ and __________ | S.K.I. | courier service | provision of 6 __________ |\n| Dominican Republic | S.K.I.; Y.W.C.A. | 7 __________ | loans; storage facilities; savings plans |\n| Zambia | S.K.I.; The Red Cross; Y.W.C.A. | setting up small businesses | business training; 8 __________ training; access to credit |\n\nQuestions 9-12\nDo the following statements agree with the claims of the writer in Reading Passage 1?\nIn boxes 9-12 on your answer sheet write\n\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n\n9 Any street child can set up their own small business if given enough support.\n10 In some cases, the families of street children may need financial support from S.K.I.",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-080.png"
+      }
+    },
+    {
+      "page": 81,
+      "text": "11 Only one fixed loan should be given to each child.\n12 The children have to pay back slightly more money than they borrowed.\nQuestions 1-3\nChoose the correct letter, A, B, C or D.\nWrite your answer in box 13 on your answer sheet.\nThe writers conclude that money should only be lent to street children\nA as part of a wider program of aid.\nB for programs that are not too ambitious.\nC when programs are supported by local businesses.\nD if the projects planned are realistic and useful."
+    },
+    {
+      "page": 82,
+      "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26 which are based on\nReading Passage 2 on the following pages.\nQuestions 1-3\nReading Passage 2 has four sections A—D.\nChoose the correct heading for each section from the list of headings below.\nWrite the correct numberⅠ—Ⅵ in the boxes 14-17 on your answer sheet.\nList of Headings\nⅠ Causes of volcanic eruption\nⅡ Efforts to predict volcanic eruption\nⅢ Volcanoes and the features of our planet\nⅣ Different types of volcanic eruption\nⅤ International relief efforts\nⅥ The unpredictability of volcanic eruptions\n14 Section A\n15 Section B\n16 Section C\n17 Section D"
+    },
+    {
+      "page": 83,
+      "text": "Volcanoes — earth-shattering news\nWhen Mount Pinatubo suddenly erupted on 9 June 1991, the power of volcanoes past\nand present again hit the headlines.\nA Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow the\ntop few kilometers off a mountain, scatter fine ash practically all over the globe and hurl\nrock fragments into the stratosphere to darken the skies a continent away.\nBut the classic eruption — cone-shaped mountain, big bang, mushroom cloud and\nsurges of molten lava — is only a tiny part of a global story. Volcanism, the name given\nto volcanic processes, really has shaped the world. Eruptions have rifted continents,\nraised mountain chains, constructed islands and shaped the topography of the earth. The\nentire ocean floor has a basement of volcanic basalt.\nVolcanoes have not only made the continents, they are also thought to have made the\nworld’s first stable atmosphere and provided all the water for the oceans, rivers and\nice-caps. There are now about 600 active volcanoes. Every year they add two or three\ncubic kilometers of rock to the continents. Imagine a similar number of volcanoes\nsmoking away for the last 3,500 million years. That is enough rock to explain the\ncontinental crust.\nWhat comes out of volcanic craters is mostly gas. More than 90% of this gas is water\nvapor from the deep earth: enough to explain, over 3,500 million years, the water in the\noceans. The rest of the gas is nitrogen, carbon dioxide, sulphur dioxide, methane,\nammonia and hydrogen. The quantity of these gases, again multiplied over 3,500 million\nyears, is enough to explain the mass of the world’s atmosphere. We are alive because"
+    },
+    {
+      "page": 84,
+      "text": "volcanoes provided the soil, air and water we need.\nB Geologists consider the earth as having a molten core, surrounded by a semi-molten\nmantle and a brittle, outer skin. It helps to think of a soft-boiled egg with a runny yolk, a\nfirm but squishy white and a hard shell. If the shell is even slightly cracked during boiling,\nthe white material bubbles out and sets like a tiny mountain chain over the crack — like\nan archipelago of volcanic islands such as the Hawaiian Islands. But the earth is so much\nbigger and the mantle below is so much hotter.\nEven though the mantle rocks are kept solid by overlying pressure, they can still\nslowly ‘flow’ like thick treacle. The flow, thought to be in the form of convection currents,\nis powerful enough to fracture the ‘eggshell’ of the crust into plates, and keep them\nbumping and grinding against each other, or even overlapping, at the rate of a few\ncentimeters a year. These fracture zones, where the collisions occur, are where\nearthquakes happen. And, very often, volcanoes.\nC These zones are lines of weakness, or hot spots. Every eruption is different, but put at\nits simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350℃，\nwill start to expand and rise. As they do so, the pressure drops, and they expand and\nbecome liquid and rise more swiftly.\nSometimes it is slow: vast bubbles of magma — molten rock from the mantle —\ninch lowards the surface, cooling slowly, to show through as granite extrusions(as on\nSkye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part\nof Hadrian’s Wall in northern England). Sometimes — as in Northern Ireland, Wales and\nthe Karoo in South Africa — the magma rose faster, and then flowed out horizontally on"
+    },
+    {
+      "page": 85,
+      "text": "to the surface in vast thick sheets. In the Deccan plateau in western India, there are more\nthan two million cubic kilometers of lava, some of it 2,400 meters thick, formed over\n500,000 years of slurping eruption.\nSometimes the magma moves very swiftly indeed. It does not have time to cool as it\nsurges upwards. The gases trapped inside the boiling rock expand suddenly, the lava\nglows with heat, it begins to froth, and it explodes with tremendous force. Then the\nslightly cooler lava following it begins to flow over the lip of the crater. It happens on\nMars, it happened on the moon, it even happens on some of the moons of Jupiter and\nUranus. By studying the evidence, vulcanologists can read the force of the great blasts of\nthe past. Is the pumice light and full of holes? The explosion was tremendous. Are the\nrocks heavy, with huge crystalline basalt shapes, like the Giant’s Causeway in Northern\nIreland? It was a slow, gentle eruption.\nThe biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the\ncontinents apart and widening the Atlantic by perhaps five centimeters a year. Look at\nmaps of volcanoes, earthquakes and island chains like the Philippines and Japan, and you\ncan see the rough outlines of what are called tectonic plates — the plates which make up\nthe earth’s crust and mantel. The most dramatic of these is the Pacific ‘ring of fire’ where\nthere have been the most violent explosions — Mount Pinatubo near Manila, Mount St\nHelen’s in the Rockies and El Chichón in Mexico about a decade ago, not to mention\nworld-shaking blasts like Krakatoa in the Sunda Straits in 1883.\nD But volcanoes are not very predictable. That is because geological time is not like\nhuman time. During quiet periods, volcanoes cap themselves with their own lava by",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 86,
+      "text": "forming a powerful cone from the molten rocks slopping over the rim of the crater; later\nthe lava cools slowly into a huge, hard, stable plug which blocks one further eruption\nuntil the pressure below becomes irresistible. In the case of Mount Pinatubo, this took\n600 years.\nThen, sometimes, with only a small warning, the mountain blows its top. It did this at\nMont Pelée in Martinique at 7.49 a.m. on 8 May, 1902. Of a town of 28,000, only two\npeople survived. In 1815, a sudden blast removed the top 1,280 meters of Mount\nTambora in Indonesia. The eruption was so fierce that dust thrown into the stratosphere\ndarkened the skies, cancelling the following summer in Europe and North America.\nThousands starved as the harvests failed, after snow in June and frosts in August.\nVolcanoes are potentially world news, especially the quiet ones.\nQuestions 18-21\nAnswer the questions below using NO MORE THAN THREE WORDS\nAND/OR A NUMBER from the passage for each answer.\nWrite your answers in boxes 18-21 on your answer sheet.\n18 What are the sections of the earth’s crust, often associated with volcanic activity,\ncalled?\n19 What is the name given to molten rock from the mantle?\n20 What is the earthquake zone on the Pacific Ocean called?\n21 For how many years did Mount Pinatubo remain inactive?"
+    },
+    {
+      "page": 87,
+      "text": "Questions 22—26\nComplete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 22—26 on your answer sheet.\nVolcanic eruptions have shaped the earth’s land surface. They may also have produced\nthe world’s atmosphere and 22_________. Eruptions occur when molten rocks from the\nearth’s mantle rise and expand. When they become liquid, they move more quickly\nthrough cracks in the surface. There are different types of eruption. Sometimes the\n23_________ moves slowly and forms outcrops of granite on the earth’s surface. When it\nmoves more quickly it may flow out in thick horizontal sheets. Examples of this type of\neruption can be found in Northern Ireland, Wales, South Africa and 24_________. A third\ntype of eruption occurs when the lava emerges very quickly and 25_________ violently.\nThis happens because the magma moves so suddenly that 26_________ are emitted."
+    },
+    {
+      "page": 88,
+      "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27-40 which are based on\nReading Passage 3 below.\nObtaining Linguistic Data\nA Many procedures are available for obtaining data about a language. They range from\na carefully planned, intensive field investigation in a foreign country to a casual intro-\nspection about one's mother tongue carried out in an armchair at home.\nB In all cases, someone has to act as a source of language data — an informant. Infor-\nmants are (ideally) native speakers of a language, who provide utterances for analysis and\nother kinds of information about the language (e.g. translations, comments about correct-\nness, or judgments on usage). Often, when studying their mother tongue, linguists act as\ntheir own informants, judging the ambiguity, acceptability, or other properties of utte-\nrances against their own intuitions. The convenience of this approach makes it widely\nused, and it is considered the norm in the generative approach to linguistics. But a\nlinguist’s personal judgments are often uncertain, or disagree with the judgments of other\nlinguists, at which point recourse is needed to more objective methods of enquiry, using\nnon-linguists as informants. The latter procedure is unavoidable when working on foreign\nlanguages, or child speech.\nC Many factors must be considered when selecting informants — whether one is\nworking with single speakers (a common situation when languages have not been\ndescribed before), two people interacting, small groups or large-scale samples. Age, sex,"
+    },
+    {
+      "page": 89,
+      "text": "social background and other aspects of identity are important, as these factors are known\nto influence the kind of language used. The topic of conversation and the characteristics\nof the social setting (e.g. the level of formality) are also highly relevant, as are the per-\nsonal qualities of the informants (e.g. their fluency and consistency). For larger studies,\nscrupulous attention has been paid to the sampling theory employed, and in all cases,\ndecisions have to be made about the best investigative techniques to use.\nD Today, researchers often tape-record informants. This enables the linguist’s claims\nabout the language to be checked, and provides a way of making those claims more\naccurate (‘difficult’pieces of speech can be listened to repeatedly). But obtaining natural-\nistic, good-quality data is never easy. People talk abnormally when they know they are\nbeing recorded, and sound quality can be poor. A variety of tape-recording procedures\nhave thus been devised to minimize the ‘observer’s paradox’ (how to observe the way\npeople behave when they are not being observed). Some recordings are made without the\nspeakers being aware of the fact — a procedure that obtains very natural data, though\nethical objections must be anticipated. Alternatively, attempts can be made to make the\nspeaker forget about the recording, such as keeping the tape recorder out of sight, or us-\ning radio microphones. A useful technique is to introduce a topic that quickly involves\nthe speaker, and stimulates a natural language style (e.g. asking older informants about\nhow times have changed in their locality).\nE An audio tape recording does not solve all the linguist’s problems, however. Speech\nis often unclear and ambiguous. Where possible, therefore, the recording has to be\nsupplemented by the observer’s written comments on the non-verbal behavior of the"
+    },
+    {
+      "page": 90,
+      "text": "participants, and about the context in general. A facial expression, for example, can\ndramatically alter the meaning of what is-said. Video recordings avoid these problems to\na large extent, but even they have limitations (the camera cannot be everywhere), and\ntranscriptions always benefit from any additional commentary provided by an observer.\nF Linguists also make great use of structured sessions, in which they systematically ask\ntheir informants for utterances that describe certain actions, objects or behavior. With a\nbilingual informant, or through use of an interpreter, it is possible to use translation tech-\nniques (‘How do you say table in your language?’). A large number of points can be\ncovered in a short time, using interview worksheets and questionnaires. Often, the re-\nsearcher wishes to obtain information about just a single variable, in which case a re-\nstricted set of questions may be used: a particular feature of pronunciation, for example,\ncan be elicited by asking the informant to say a restricted set of words. There are also\nseveral direct methods of elicitation, such as asking informants to fill in the blanks in a\nsubstitution frame (e.g. I ___ see a car), or feeding them the wrong stimulus for correc-\ntion (‘Is it possible to say I no can see?’).\nG A representative sample of language, compiled for the purpose of linguistic analysis,\nis known as a corpus. A corpus enables the linguist to make unbiased statements about\nfrequency of usage, and it provides accessible data for the use of different researchers. Its\nrange and size are variable. Some corpora attempt to cover the language as a whole, tak-\ning extracts from many kinds of text; others are extremely selective, providing a collec-\ntion of material that deals only with a particular linguistic feature. The size of the corpus\ndepends on practical factors, such as the time available to collect, process and store the",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 91,
+      "text": "data: it can take up to several hours to provide an accurate transcription of a few minutes\nof speech. Sometimes a small sample of data will be enough to decide a linguistic hypo-\nthesis; by contrast, corpora in major research projects can total millions of words. An\nimportant principle is that all corpora, whatever their size, are inevitably limited in their\ncoverage, and always need to be supplemented by data derived from the intuitions of\nnative speakers of the language, through either introspection or experimentation.\nQuestions 27-31\nReading Passage 3 has seven paragraphs labeled A—G.\nWhich paragraph contains the following information?\nWrite the correct letter A—G in boxes 27-31 on your answer sheet.\nNB You may use any letter more than once.\n27 the effect of recording on the way people talk\n28 the importance of taking notes on body language\n29 the fact that language is influenced by social situation\n30 how informants can be helped to be less self-conscious\n31 various methods that can be used to generate specific data"
+    },
+    {
+      "page": 92,
+      "text": "Questions 32-36\nComplete the table below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nWrite your answers in boxes 32-36 on your answer sheet.\n\n| Methods of obtaining linguistic data | Advantages | Disadvantages |\n| --- | --- | --- |\n| 32 __________ as informant | convenient | method of enquiry not objective enough |\n| non-linguist as informant | necessary with 33 __________ and child speech | the number of factors to be considered |\n| recording an informant | allows linguists' claims to be checked | 34 __________ of sound |\n| videoing an informant | allows speakers' 35 __________ to be observed | 36 __________ might miss certain things |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-092.png"
+      }
+    },
+    {
+      "page": 93,
+      "text": "Questions 37-40\nComplete the summary of paragraph G below.\nChoose NO MORE THAN THREE WORDS from the passage for each\nanswer.\nWrite your answers in boxes 37-40 on your answer sheet.\nA linguist can use a corpus to comment objectively on 37__________. Some corpora\ninclude a wide range of language while others are used to focus on a 38__________. The\nlength of time the process takes will affect the 39__________ of the corpus. No corpus\ncan ever cover the whole language and so linguists often find themselves relying on the\nadditional information that can be gained from the 40__________ of those who speak the\nlanguage concerned."
+    },
+    {
+      "page": 94,
+      "text": "WRITING\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\n\nThe chart below shows the different levels of post-school qualifications in\nAustralia and the proportion of men and women who held them in 1999.\n\nSummarize the information by selecting and reporting the main features,\nand make comparisons where relevant.\n\nWrite at least 150 words.\n\nBar chart: Post-school qualifications in Australia according to gender, 1999\nLegend: black bars = Females; shaded bars = Males.\nApproximate percentages:\n- Skilled vocational diploma: Females 10%, Males 90%.\n- Undergraduate diploma: Females 70%, Males 35%.\n- Bachelor's degree: Females 55%, Males 45%.\n- Postgraduate diploma: Females 30%, Males 70%.\n- Master's degree: Females 40%, Males 60%.\n\n![Cambridge IELTS 04 page 094 figure](data/generated/image-review/cambridge-ielts-04/page-094-post-school-qualifications-gender.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-094-post-school-qualifications-gender.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 95,
+      "text": "WRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nCreative artists should always be given the freedom to express their own\nideas (in words, pictures, music or film) in whichever way they wish.\nThere should be no government restrictions on what they do.\nTo what extent do you agree or disagree with this opinion?\nGive reasons for your answer and include any relevant examples from your\nown knowledge or experience.\nWrite at least 250 words."
+    },
+    {
+      "page": 96,
+      "text": "SPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or\nstudies and other familiar topics.\nEXAMPLE\nLeisure\n·Do you have any hobbies or interests? [What are they?]\n·How did you become interested in (whatever hobby/ interest the candidate mentions)?\n·What is there to do in your free time in (candidate’s home town/ village)?\n·How do you usually spend your holidays?\n·Is there anywhere you would particularly like to visit? [Why?]\nPART 2\nDescribe a river, lake or sea which you like.\nYou should say:\nwhat the river, lake or sea is called\nwhere it is\nwhat the land near it is like\nand explain why you like this river, lake or sea.\nYou will have to talk about the topic for one to two minutes.\nYou have one minute to think about what you’re going to say."
+    },
+    {
+      "page": 97,
+      "text": "You can make some notes to help you if you wish.\nPART 3\nDiscussion topics:\nWater-based leisure activities\nExample questions:\nWhat do people enjoy doing when they visit rivers, lakes or the sea? Why do you think\nthese activities are popular?\nWhat benefits do you think people get from the activities they enjoy in the water?\nWhat are the different advantages of going to the sea or to a swimming pool to enjoy\nyourself? What do you think the disadvantages are?\nThe economic importance of rivers, lakes and the sea\nExample questions:\nHow does water transport, like boats and ships, compare with other kinds? Are there any\nadvantages/ disadvantages of water transport?\nHow important is it for a town or city to be located near a river or the sea? Why?\nHave there been any changes in the number of jobs available in fishing and water\ntransport industries, do you think? Why do you think this is?"
+    },
+    {
+      "page": 98,
+      "text": "Test 4\nLISTENING\nSECTION 1 Questions 1—10\nQuestions 1—10\nComplete the notes below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each\nanswer.\nGOODBYE PARTY FOR JOHN\nExample Answer\nnd\nData 22 .December\nVenue: 1_________________\nInvitations (Tony)\nWho to invite: -- John and his wife\n-- Director\n-- the 2_________________\n-- all the teachers\n-- all the 3_______________\nDate for sending invitations: 4____________________\nPresent (Lisa)"
+    },
+    {
+      "page": 99,
+      "text": "Collect money during the 5___________________\nSuggested amount per person: 6 $____________________\nCheck prices for: -- CD players\n-- 7______________________\n-- coffee maker\nAsk guests to bring: -- snacks\n-- 8_______________________\n-- 9_______________________\nAsk student representative to prepare a 10_______________________"
+    },
+    {
+      "page": 100,
+      "text": "SECTION 2 Questions 11—20\nQuestions 11—15\nChoose the correct letter, A, B or C.\n11 To find out how much holidays cost, you should press button\nA one.\nB two.\nC three.\n12 Travelite currently offer walking holidays\nA only in Western Europe.\nB all over Europe.\nC outside Europe.\n13 The walks offered by Travelite\nA cater for a range of walking abilities.\nB are planned by guides from the local area.\nC are for people with good fitness levels.\n14 On Travelite holidays, people holidaying alone pay\nA the same as other clients.\nB only a little more than other clients.\nC extra only if they stay in a large room.\n15 Entertainment is provided\nA when guests request it.\nB most nights."
+    },
+    {
+      "page": 101,
+      "text": "C every night.\n\nQuestions 16-20\nComplete the table below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\n| Length of holiday | Cost per person (including all accommodation costs) | Special offers included in price |\n| --- | --- | --- |\n| 3 days | 16 $ __________ | Pick up from the 17 __________ |\n| 7 days | $350 | As above plus book of 18 __________; maps |\n| 14 days | 19 $ __________ | As above plus membership of a 20 __________ |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-101.png"
+      }
+    },
+    {
+      "page": 102,
+      "text": "SECTION 3 Questions 21-30\n\nQuestions 21-26\nComplete the table below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.\n\n| Experiment number | Equipment | Purpose |\n| --- | --- | --- |\n| Experiment 1 | 21 __________ and a table | To show how things move on a cushion of air |\n| Experiment 2 | Lots of paperclips | To show why we need standard 22 __________ |\n| Experiment 3 | 23 __________ and a jar of water | To show how 24 __________ grow |\n| Experiment 4 | Cardboard, colored pens and a 25 __________ | To teach children about how 26 __________ is made up |\n| Experiment 5 | A drill, an old record, a pin/needle, paper, a bolt | To make a record player in order to learn about recording sound |",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "structured_table_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-102.png"
+      }
+    },
+    {
+      "page": 103,
+      "text": "Questions 27-30\nWhat problems do the speakers identify for each experiment?\nChoose your answers from the box and write the letters A-H next to questions 27-30.\n\nProblems\n\nA too messy\nB too boring\nC too difficult\nD too much equipment\nE too long\nF too easy\nG too noisy\nH too dangerous\n\nExperiment 1: 27 __________\nExperiment 2: 28 __________\nExperiment 3: 29 __________\nExperiment 4: Example F\nExperiment 5: 30 __________",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "text_structure_repair",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-103.png"
+      }
+    },
+    {
+      "page": 104,
+      "text": "SECTION 3 Questions 31—40\nQuestions 31—34\nComplete the notes below.\nWrite NO MORE THAN THREE WORDS AND/OR A NUMBER for each\nanswer.\nSharks in Australia\nLength largest caught: 16 meters\nWeight heaviest: 31_____________kg\nSkeleton cartilage\nSkin texture rough barbs\nSwimming aide fins and 32____________\nFood gathered from the ocean 33___________\nSharks locate food by using their 34___________"
+    },
+    {
+      "page": 105,
+      "text": "Questions 35-38\nChoose the correct letter, A, B or C.\n35 Shark meshing uses nets laid\nA along the coastline.\nB at an angle to the beach.\nC from the beach to the sea.\n36 Other places that have taken up shark meshing include\nA South Africa.\nB New Zealand.\nC Tahiti.\n37 The average number of sharks caught in nets cash year is\nA 15.\nB 150.\nC 1,500.\n38 Most sharks are caught in\nA spring.\nB summer.\nC winter."
+    },
+    {
+      "page": 106,
+      "text": "Questions 39 and 40\nChoose TWO letters A—G.\nWhich TWO factors reduce the benefits of shark nets?\nA nets wrongly positioned\nB strong waves and currents\nC too many fish\nD sharks eat holes in nets\nE moving sands\nF nets too short\nG holes in nets scare sharks"
+    },
+    {
+      "page": 107,
+      "text": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1—13 which are based on\nReading Passage 1 below.\nHow Much Higher? How Much Faster?\n— Limits to human sporting performance are not yet in sight —\nSince the early years of the twentieth century, when the International Athletic Federa-\ntion began keeping records, there has been a steady improvement in how fast athletes run,\nhow high they jump and how far they are able to hurl massive objects, themselves\nincluded, through space. For the so-called power events — that require a relatively brief,\nexplosive release of energy, like the 100-metre sprint and the long jump — times and\ndistances have improved ten to twenty percent. In the endurance events the results have\nbeen more dramatic. At the 1908 Olympics, John Hayes of the U.S. team ran a marathon\nin a time of 2:55:18. In 1999, Morocco's Khalid Khannouchi set a new world record of\n2:05:42, almost thirty percent faster.\nNo one theory can explain improvements in performance, but the most important fac-\ntor has been genetics. ‘The athlete must choose his parents carefully,’ says Jesus Dapena,\na sports scientist at Indiana University, invoking an oft-cited adage. Over the past century,\nthe composition of the human gene pool has not changed appreciably, but with increasing\nglobal participation in athletics — and greater rewards to tempt athletes — it is more"
+    },
+    {
+      "page": 108,
+      "text": "likely that individuals possessing the unique complement of genes for athletic perfor-\nmance can be identified early. ‘Was there someone like [sprinter] Michael Johnson in the\n1920s?’ Dapena asks. ‘I’m sure that there was, but his talent was probably never realiz-\ned.’\nIdentifying genetically talented individuals is only the first step. Michael Yessis, an\nemeritus professor of Sports Science at California State University at Fullerton, maintains\nthat ‘genetics only determines about one third of what an athlete can do. But with the\nright training we can go much further with that one third than we’ve been going.’ Yessis\nbelieves that U.S. runners, despite their impressive achievements, are ‘running on their\ngenetics’. By applying more scientific methods, ‘they’re going to go much faster’. These\nmethods include strength training that duplicates what they are doing in their running\nevents as well as plyometrics, a technique pioneered in the former Soviet Union.\nWhereas most exercises are designed to build up strength or endurance, plyometrics\nfocuses on increasing power — the rate at which an athlete can expend energy. When a\nsprinter runs, Yessis explains, her foot stays in contact with the ground for just under a\ntenth of a second, half of which is devoted to landing and the other half to pushing off.\nPlyometric exercises help athletes make the best use of this brief interval.\nNutrition is another area that sports trainers have failed to address adequately. ‘Many\nathletes are not getting the best nutrition, even through supplements,’ Yessis insists. Each\nactivity has its own nutritional needs. Few coaches, for instance, understand how\ndeficiencies in trace mineral can lead to injuries."
+    },
+    {
+      "page": 109,
+      "text": "Focused training will also play a role in enabling records to be broken. ‘If we applied\nthe Russian training model to some of the outstanding runners we have in this country,’\nYessis asserts, ‘they would be breaking records left and right.’ He will not predict by how\nmuch, however: ‘Exactly what the limits are it’s hard to say, but there will be increase\neven if only by hundredths of a second, as long as our training continues to improve.’\nOne of the most important new methodologies is biomechanics, the study of the body\nin motion. A biomechanics films an athlete in action and then digitizes her performance,\nrecording the motion of every joint and limb in three dimensions. By applying Newton’s\nlaws to these motions, ‘we can say that this athlete’s run is not fast enough; that this one\nis not using his arms strongly enough during take-off,’ says Dapena, who uses these\nmethods to help high jumpers. To date, however, biomechan- ics has made only a small\ndifference to athletic performance.\nRevolutionary ideas still come from the athletes themselves. For example, during the\n1968 Olympics in Mexico City, a relatively unknown high jumper named Dick Fosbury\nwon the gold by going over the bar backwards, in complete contradiction of all the\nreceived high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury him-\nself did not know what he was doing. That understanding took the later analysis of bio-\nmechanics, who put their minds to comprehending something that was too complex and\nunorthodox ever to have been invented through their own mathe- maticcal simula- tions.\nFosbury also required another element that lies behind many improvements in athletic\nperformance: an innovation in athletic equipment. In Fosbury’s case, it was the cushions\nthat jumpers land on. Traditionally, high jumpers would land in pits filled with sawdust."
+    },
+    {
+      "page": 110,
+      "text": "But by Fosbury’s time, sawdust pits had been replaced by soft foam cushions, ideal for\nflopping.\nIn the end, most people who examination human performance are humbled by the\nresourcefulness of athletes and the powers of the human body. ‘Once you study athletics,\nyou learn that it’s a vexingly complex issue,’ says John S.Raglin, a sports psychologist at\nIndiana University. ‘Core performance is not a simple of mundane thing of higher, faster,\nlonger. So many variables enter into the equation, and our understanding in many cases is\nfundamental. We’ve got a long way to go.’ For the foreseeable future, records will be\nmade to be broken.\nQuestions 1—6\nDo the following statements agree with the information given in Reading\nPassage 1?\nIn boxes 1-6 on your answer sheet write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n1 Modern official athletic records date from about 1900.\n2 There was little improvement in athletic performance before the twentieth century.\n3 Performance has improved most greatly in events requiring an intensive burst of\nenergy.\n4 Improvements in athletic performance can be fully explained by genetics.\n5 The parents of top athletes have often been successful athletes themselves."
+    },
+    {
+      "page": 111,
+      "text": "6 The growing international importance of athletics means that gifted athletes can be\nrecognized at a younger age.\nQuestions 7—10\nComplete the sentences below with words taken from Reading Passage 1.\nUse ONE WORD for each answer.\nWrite your answers in boxes 7—10 on your answer sheet.\n7 According to Professor Yessis, American runners are relying for their current\nsuccess on _________________.\n8 Yessis describes a training approach from the former Soviet Union that aims to\ndevelop an athlete’s __________________.\n9 Yessis links an inadequate diet to __________________.\n10 Yessis claims that the key to setting new records is better _________________.\nQuestions 11—13\nChoose the correct letter, A, B, C or D.\nWrite your answers in boxes 11—13 on your answer sheet.\n11 Biomechanics films are proving particularly useful because they enable trainers to\nA highlight areas for improvement in athletes.\nB assess the fitness levels of athletes.\nC select top athletes."
+    },
+    {
+      "page": 112,
+      "text": "D predict the success of athletes.\n12 Biomechanics specialists used theoretical models to\nA soften the Fosbury flop.\nB create the Fosbury flop.\nC correct the Fosbury flop.\nD explain the Fosbury flop.\n13 John S.Raglin believes our current knowledge of athletics is\nA mistaken.\nB basic.\nC diverse.\nD theoretical."
+    },
+    {
+      "page": 113,
+      "text": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-27 which are based on\nReading Passage 2 below.\nThe Nature and Aims of Archaeology\nArchaeology is partly the discovery of the treasures of the past, partly the careful\nwork of the scientific analyst, partly the exercise of the creative imagination. It is toiling\nin the sun on an excavation in the Middle-East, it is working with living Inuit in the\nsnows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the\npainstaking task of interpretation, so that we come to understand what these things mean\nfor the human story. And it is the conservation of the world's cultural heritage against\nlooting and careless harm.\nArchaeology, then, is both a physical activity out in the field, and an intellectual pur-\nsuit in the study or laboratory. That is part of its great attraction. The rich mixture of dan-\nger and detective work has also made it the perfect vehicle for fiction writers and film-\nmakers, from Agatha Christie with Murder in Mesopotamia to Stephen Spielberg with\nIndiana Jones. However far from reality such portrayals are, they capture the essential\ntruth that archaeology is an exciting quest — the quest for knowledge about ourselves\nand our past.\nBut how does archaeology relate to disciplines such as anthropology and history, that\nare also concerned with the human story? Is archaeology itself a science? And what are\nthe responsibilities of the archaeologist in today's world?"
+    },
+    {
+      "page": 114,
+      "text": "Anthropology, at its broadest, is the study of humanity — our physical characteristic\nas animals and our unique non-biological characteristics that we call culture. Culture in\nthis sense includes what the anthropologist, Edward Tylor, summarized in 1871 as\n‘knowledge, belief, art, morals, custom and any other capabilities and habits acquired by\nman as a member of society’. Anthropologists also use the term ‘culture’ in a more re-\nstricted sense when they refer to the ‘culture’ of a particular society, meaning the non-\nbiological characteristics unique to that society, which distinguish it from other societies.\nAnthropology is thus a broad discipline — so broad that it is generally broken down into\nthree smaller disciplines: physical anthropology, cultural anthropology and archaeology.\nPhysical anthropology, or biological anthropology as it is also called, concerns the\nstudy of human biological or physical characteristics and how they evolved. Cultural\nanthropology — or social anthropology — analyses human culture and society. Two of\nits branches are ethnography (the study at first hand of individual living cultures) and\nethnology (which sets out to compare cultures using ethnographic evidence to derive\ngeneral principles about human society).\nArchaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropolo-\ngists will often base their conclusions on the experience of living within contemporary\ncommunities, archaeologists study past societies primarily through their material remains\n— the buildings, tools and other artefacts that constitutes what is known as the material\nculture left over from former societies.\nNevertheless, one of the most important tasks for the archaeologist today is to know\nhow to interpret material culture in human terms. How were those pots used? Why are"
+    },
+    {
+      "page": 115,
+      "text": "some dwellings round and others square? Here the methods of archaeology and ethno-\ngraphy overlap. Archaeologists in recent decades have developed ‘ethnography’, where,\nlike ethnographers, they live among contemporary communities, but with the specific\npurpose of learning how such societies use material culture — how they make their\ntools and weapons, why they build their settlements where they do, and so on. Moreover,\narchaeology has an active role to play in the field of conservation. Heritage studies con-\nstitutes a developing field, where it is realized that the world’s cultural heritage is a\ndiminishing resource which holds different meanings for different people.\nIf, then archaeology deals with the past, in what way does it differ from history? In\nthe broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of\nhistory — where we mean the whole history of humankind from its beginnings over\nthree million years ago. Indeed, for more than ninety-nine percent of that huge span of\ntime, archaeology — the study of past material culture — is the only significant source\nof information. Conventional historical sources begin only with the introduction of writt-\nen records around 3000 BC in western Asia, and much later in most other parts of the\nworld.\nA commonly drawn distinction is between pre-history, i.e. the period before written\nrecords — and history in the narrow sense, meaning the study of the past using written\nevidence. To archaeology, which studies all cultures and periods, whether with or without\nwriting, the distinction between history and pre-history is a convenient dividing line that\nrecognizes the importance of the written word, but in no way lessens the importance of\nthe useful information contained in oral histories."
+    },
+    {
+      "page": 116,
+      "text": "Since the aim of archaeology is the understanding of humankind, it is a humanistic\nstudy, and since it deals with the human past, it is a historical discipline. But it differs\nfrom the study of written history in a fundamental way. The material the archaeologist\nfinds does not tell us directly what to think. Historical records make statements, offer\nopinions and pass judgments. The objects the archaeologists discover, on the other hand,\ntell us nothing directly in themselves. In this respect, the practice of the archaeologist is\nrather like that of the scientist, who collects data, conducts experiments, formulates a\nhypothesis, tests the hypothesis against more data, and then, in conclusion, devises a\nmodel that seems best to summarize the pattern observed in the data. The archaeologist\nhas to develop a picture of the past, just as the scientist has to develop a coherent view of\nthe natural world.\nQuestions 14-19\nDo the following statements agree with the claims of the writer in Reading\nPassage 2?\nIn boxes 14-19 on your answer sheet write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n14 Archaeology involves creativity as well as careful investigative work.\n15 Archaeologists must be able to translate texts from ancient languages."
+    },
+    {
+      "page": 117,
+      "text": "16 Movies give a realistic picture of the work of archaeologists.\n17 Anthropologists define culture in more than one way.\n18 Archaeology is a more demanding field of study than anthropology.\n19 The history of Europe has been documented since 3,000 BC.\nQuestions 20 and 21\nChoose TWO letters A—E.\nWrite your answers in boxes 20 and 21 on your answer sheet.\nThe list below gives some statements about anthropology.\nWhich TWO statements are mentioned by the writer of the text?\nA It is important for government planners.\nB It is a continually growing field of study.\nC It often involves long periods of fieldwork.\nD It is subdivided for study purposes.\nE It studies human evolutionary patterns."
+    },
+    {
+      "page": 118,
+      "text": "Questions 22 and 23\nChoose TWO letters A—E.\nWrite your answers in boxes 22 and 23 on your answer sheet.\nThe list below gives some of the tasks of an archaeologist.\nWhich TWO of these tasks are mentioned by the writer of the text?\nA examining ancient waste sites to investigate diet\nB studying cave art to determine its significance\nC deducing reasons for the shape of domestic buildings\nD investigating the way different cultures make and use objects.\nE examining evidence for past climate changes\nQuestions 24-27\nComplete the summary of the last two paragraphs of Reading Passage 2.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 24-27 on your answer sheet.\nMuch of the work of archaeologists can be done using written records but they find\n24_______________ equally valuable. The writer describes archaeology as both a\n25_______________ and a 26_______________. However, as archaeologists do not try\nto influence human behavior, the writer compares their style of working to that of a\n27_______________."
+    },
+    {
+      "page": 119,
+      "text": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 28-40 which are based on\nReading Passage 3 on the following pages.\nQuestions 28-31\nReading Passage 3 has five sections A—E.\nChoose the correct heading for section A and C—E from the list of headings\nbelow.\nWrite the correct number i—viii in the boxes 28-31 on your answer sheet.\nList of Headings\ni The connection between health-care and other human rights\nii The development of market-based health systems\niii The role of the state in health-care\niv A problem shared by every economically developed country\nv The impact of recent change\nvi The views of the medical establishment\nvii The end of an illusion\nviii Sustainable economic development\n28 Section A\n29\nExample Answer\nSection B viii"
+    },
+    {
+      "page": 120,
+      "text": "29 Section C\n30 Section D\n31 Section E\nThe Problem of Scarce Resources\nSection A\nThe problem of how health-care resources should be allocated or apportioned, so that\nthey are distributed in both the most just and most efficient way, is not a new one. Every\nhealth system in an economically developed society is faced with the need to decide\n(either formally or informally) what proportion of the community’s total resources should\nbe spent on health-care; how resources are to be apportioned; what diseases and\ndisabilities and which forms of treatment are to be given priority; which members of the\ncommunity are to be given special consideration in respect of their health needs; and\nwhich forms of treatment are the most cost-effective.\nSection B\nWhat is new is that, from the 1950s onwards, there have been certain general changes\nin outlook about the finitude of resources as a whole and of health-care resources in\nparticular, as well as more specific changes regarding the clientele of health-care\nresources and the cost to the community of those resources. Thus, in the 1950s and 1960s,\nthere emerged an awareness in Western societies that resources for the provision of fossil"
+    },
+    {
+      "page": 121,
+      "text": "fuel energy were finite and exhaustible and that the capacity of nature or the environment\nto sustain economic development and population was also finite. In other words, we\nbecame aware of the obvious fact that there were ‘limits to growth’. The new\nconsciousness that there were also severe limits to health-care resources was part of this\ngeneral revelation of the obvious. Looking back, it now seems quite incredible that in the\nnational health systems that emerged in many counties in the years immediately after the\n1939—45 World War, it was assumed without question that all the basic health needs of\nany community could be satisfied, at least in principle; the ‘invisible hand’ of economic\nprogress would provide.\nSection C\nHowever, at exactly the same time as this new realization of the finite character of\nhealth-care resources was sinking in, an awareness of a contrary kind was developing in\nWestern societies: that people have a basic right to health-care as a necessary condition of\na proper human life. Like education, political and legal processes and institutions, public\norder, communication, transport and money supply, health-care came to be seen as one of\nthe fundamental social facilities necessary for people to exercise their other rights as\nautonomous human beings. People are not in a position to exercise personal liberty and to\nbe self-determining if they are poverty-stricken, or deprived of basic education, or do not\nlive within a context of law and order. In the same way, basic health-care is a condition of\nthe exercise of autonomy."
+    },
+    {
+      "page": 122,
+      "text": "Section D\nAlthough the language of ‘rights’ sometimes leads to confusion, by the late 1970s it\nwas recognized in most societies that people have a right to health-care (though there has\nbeen considerable resistance in the United States to the idea that there is a formal right to\nhealth-care). It is also accepted that this right generates an obligation or duty for the state\nto ensure that adequate health-care resources are provided out of the public purse. The\nstate has no obligation to provide a health-care system itself, but to ensure that such a\nsystem is provided. Put another way, basic health-care is now recognized as a ‘public\ngood’, rather than a ‘private good’ that one is expected to buy for oneself. As the 1976\ndeclaration of the World Health Organization put it: ‘The enjoyment of the highest\nattainable standard of health is one of the fundamental rights of every human being\nwithout distinction of race, religion, political belief, economic or social condition.’ As has\njust been remarked, in a liberal society basic health is seen as one of the indispensable\nconditions for the exercise of personal autonomy.\nSection E\nJust at the time when it became obvious that health-care resources could not possibly\nmeet the demands being made upon them, people were demanding that their fundamental\nright to health-care be satisfied by the state. The second set of more specific changes that\nhave led to the present concern about the distribution of health-care resources stems from\nthe dramatic rise in health costs in most OECD① countries, accompanied by large-scale\ndemographic and social changes which have meant, to take one example, that elderly"
+    },
+    {
+      "page": 123,
+      "text": "people are now major (and relatively very expensive) consumers of health-care resources.\nThus in OECD countries as a whole, health costs increased from 3.8% of GDP② in 1960\nto 7% of GDP in 1980, and it has been predicted that the proportion of health costs to\nGDP will continue to increase. (In the US the current figure is about 12% of GDP, and in\nAustralia about 7.8% of GDP.)\nAs a consequence, during the 1980s a kind of doomsday scenario (analogous to similar\ndoomsday extrapolations about energy needs and fossil fuels or about population\nincreases) was projected by health administrators, economists and politicians. In this\nscenario, ever-rising health costs were matched against static or declining resources.\n①. Organization for Economic Cooperation and Development\n②. Gross Domestic Product\nQuestions 32—35\nClassify the following as first occurring\nA between 1945 and 1950\nB between 1950 and 1980\nC after 1980\nWrite the correct letter A, B or C in boxes 32—35 on your answer sheet.\n32 the realization that the resources of the national health systems were limited.\n33 a sharp rise in the cost of health-care",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "false_positive_text_page"
+      }
+    },
+    {
+      "page": 124,
+      "text": "34 a belief that all the health-care resources the community needed would be produced\nby economic growth\n35 an acceptance of the role of the state in guaranteeing the provision of health-care\nQuestions 36-40\nDo the following statements agree with the views of the writer in Reading\nPassage 3?\nIn boxes 36-40 on your answer sheet write\nYES if the statement agrees with the views of the writer\nNO if the statement contradicts the views of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n36 Personal liberty and independence have never been regarded as directly linked to\nhealth-care.\n37 Health-care came to be seen as a right at about the same time that the limits of\nhealth-care resources became evident.\n38 In OECD countries population changes have had an impact on health-care costs in\nrecent years.\n39 OECD governments have consistently underestimated the level of health-care\nprovision needed.\n40 In most economically developed countries the elderly will have to make special\nprovision for their health-care in the future."
+    },
+    {
+      "page": 125,
+      "text": "WRITING\nWRITING TASK 1\nYou should spend about 20 minutes on this task.\nThe charts below give information about travel to and from the UK, and\nabout the most popular countries for UK residents to visit.\nSummarize the information by selecting and reporting the main features,\nand make comparisons where relevant.\nWrite at least 150 words.\n\n![Cambridge IELTS 04 page 125 figure](data/generated/image-review/cambridge-ielts-04/page-125-writing-task-1-uk-travel-charts.png)",
+      "calibration": {
+        "status": "calibrated",
+        "reason": "visual_review",
+        "image": "data/generated/image-review/cambridge-ielts-04/page-125-writing-task-1-uk-travel-charts.png",
+        "embeddedInText": true
+      }
+    },
+    {
+      "page": 126,
+      "text": "WRITING TASK 2\nYou should spend about 40 minutes on this task.\nWrite about the following topic:\nIn many countries schools have severe problems with student behavior.\nWhat do you think are the causes of this?\nWhat solutions can you suggest?\nGive reasons for your answer and include any relevant examples from your\nown knowledge or experience.\nWrite at least 250 words."
+    },
+    {
+      "page": 127,
+      "text": "SPEAKING\nPART 1\nThe examiner asks the candidate about him/herself, his/her home, work or\nstudies and other familiar topics.\nEXAMPLE\nYour favorite place\n·What place do you most like to visit?\n·How often do you visit this place?\n·Why do you like it so much?\n·Is it popular with many other people?\n·Has it changed very much since you first went there? [In what way?]\nPART 2\nDescribe a useful website you have visited.\nYou should say:\nwhat the website was\nhow you found the address for this website\nwhat the website contained\nand explain why it was useful to you.\nYou will have to talk about the topic for one to two minutes."
+    },
+    {
+      "page": 128,
+      "text": "You have one minute to think about what you’re going to say.\nYou can make some notes to help you if you wish.\nPART 3\nDiscussion topics:\nThe internet and communication\nExample questions:\nWhat effect has the internet had on the way people generally communicate with each\nother?\nWhy do you think the internet is being used more and more for communication?\nHow reliable do you think information from the internet is? Why? What about the news\non the internet?\nThe internet and shopping\nExample questions:\nWhy do you think some people use the internet for shopping? Why doesn’t everyone use\nit in this way?\nWhat kinds of things are easy to buy and sell online? Can you give me some examples?\nDo you think shopping on the internet will be more or less popular in the future? Why?"
+    }
+  ]
+}
