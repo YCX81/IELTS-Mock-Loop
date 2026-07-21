@@ -1074,9 +1074,9 @@ place by 40...........................
 Test 2
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
-Alexander Henderson (1831-1913)
+Alexander Henderson (1831–1913)
 Born in Scotland, Henderson emigrated to Canada in 1855 and became a
 well-known landscape photographer
 Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.
@@ -1092,21 +1092,21 @@ accountant. Although he never liked the prospect of a business career, he stayed
 please his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder
 Robertson and they settled in Montreal.
 Henderson learned photography in Montreal around the year 1857 and quickly took it up
-as a serious amateu匸 He became a personal friend and colleague of the Scottish-Canadian
+as a serious amateur. He became a personal friend and colleague of the Scottish–Canadian
 photographer William Notman. The two men made a photographic excursion to Niagara Falls in
 1860 and they cooperated on experiments with magnesium flares as a source of artificial light
 in 1865. They belonged to the same societies and were among the founding members of the Art
-Association of Montreal. Henderson acted as chairman of the association's first meeting, which
-was held in Notmanstudio on 11 January 1860.
-In spite of their friendship, their styles of photography were quite different・ While Notman's
+Association of Montreal. Henderson acted as chairman of the association’s first meeting, which
+was held in Notman’s studio on 11 January 1860.
+In spite of their friendship, their styles of photography were quite different. While Notman’s
 landscapes were noted for their bold realism, Henderson for the first 20 years of his career
 produced romantic images, showing the strong influence of the British landscape tradition. His
 artistic and technical progress was rapid and in 1865 he published his first major collection of
 landscape photographs. The publication had limited circulation (only seven copies have ever been
-found), and was called Canadian Views and Studies、The contents of each copy vary significantly
-and have proved a useful source for evaluating Henderson^ early work.
-This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography \fo\urne XIV (1911-1920). For design purposes,
-quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexande「_J831_J9彳3_14E,html. Reproduced
+found), and was called Canadian Views and Studies. The contents of each copy vary significantly
+and have proved a useful source for evaluating Henderson’s early work.
+This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911–1920). For design purposes,
+quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced
 with permission.
 38
 
@@ -1132,174 +1132,191 @@ for landscapes using the Lambertype process. In 1878 his work won second prize a
 exhibition in Paris.
 In the 1870s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada,
 documenting the major cities of the two provinces and many of the villages in Quebec. He was
-especially fond of the wilderness and often travelled by canoe on the Blanche, du Lievre, and
+especially fond of the wilderness and often travelled by canoe on the Blanche, du Lièvre, and
 other noted eastern rivers. He went on several occasions to the Maritimes and in 1872 he sailed
 by yacht along the lower north shore of the St Lawrence River. That same year, while in the lower
 St Lawrence River region, he took some photographs of the construction of the Intercolonial
 Railway. This undertaking led in 1875 to a commission from the railway to record the principal
 structures along the almost-completed line connecting Montreal to Halifax. Commissions from
 other railways followed. In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and
-Occidental Railway between Montreal and Ottawa・ In 1885 he went west along the Canadian
+Occidental Railway between Montreal and Ottawa. In 1885 he went west along the Canadian
 Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of
 the mountains and the progress of construction.
 In 1892 Henderson accepted a full-time position with the CPR as manager of a photographic
-department which he was to set up and administe匚 His duties included spending four months
+department which he was to set up and administer. His duties included spending four months
 in the field each year. That summer he made his second trip west, photographing extensively
 along the railway line as far as Victoria. He continued in this post until 1897, when he retired
 completely from photography.
 When Henderson died in 1913, his huge collection of glass negatives was stored in the basement
 of his house. Today collections of his work are held at the National Archives of Canada, Ottawa,
 and the McCord Museum of Canadian History, Montreal.
-即
-This text is taken, for the most part, verbatim from the Dictionary of Canadian Biogr hy Volume XIV (1911-1920). For design purposes,
+This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911–1920). For design purposes,
 quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced
-with permissi on.
+with permission.
 39
 
 ## Page 40
 
 Test 2
-Questions 1-8
+Questions 1–8
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-8 on your answer sheet, write
+In boxes 1–8 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
 1 Henderson rarely visited the area around Press estate when he was younger.
-2 Hen ders on pursued a busi ness career because it was what his family wan ted.
-3 Henderson and Notman were surprised by the results of their 1865 experiment
-4 There were many similarities between Henderson's early Iandscapes and those
-of Notma n.
+2 Henderson pursued a business career because it was what his family wanted.
+3 Henderson and Notman were surprised by the results of their 1865 experiment.
+4 There were many similarities between Henderson’s early landscapes and those
+of Notman.
 5 The studio that Henderson opened in 1866 was close to his home.
 6 Henderson gave up portraiture so that he could focus on taking photographs of
-see nery.
+scenery.
 7 When Henderson began work for the Intercolonial Railway, the Montreal to Halifax
 line had been finished.
-8 Henderson's last work as a photographer was with the Canadian Pacific Railway.
+8 Henderson’s last work as a photographer was with the Canadian Pacific Railway.
 40
 
 ## Page 41
 
 Reading
-Questions 9-13
+Questions 9–13
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 9-13 on your answer sheet.
-Alexander Hende『son
-◎ was born in Scotia nd in 1831 - father was a 9...............................
-® trained as an accountant, emigrated to Canada in 1855
-Start ©f a photographic career
-® opened up a photographic studio in 1866
-® took photos of city life, but preferred Iandscape photography
-® people bought Henderson's photos because photography took up
-considerable time and the 10................................was heavy
-the photographs Henderson sold were 11................................or souvenirs
-Travellmg as a professional photographer
-® travelled widely in Quebec and Ontario in 1870s and 1880s
-® took many trips along eastern rivers in a 12...............................
-® worked for Canadian railways between 1875 and 1897
-® worked for CPR in 1885 and photographed the 13...............................
+Write your answers in boxes 9–13 on your answer sheet.
+Alexander Henderson
+Early life
+• was born in Scotland in 1831 – father was a 9 ................................
+• trained as an accountant, emigrated to Canada in 1855
+Start of a photographic career
+• opened up a photographic studio in 1866
+• took photos of city life, but preferred landscape photography
+• people bought Henderson’s photos because photography took up
+considerable time and the 10 ................................ was heavy
+• the photographs Henderson sold were 11 ................................ or souvenirs
+Travelling as a professional photographer
+• travelled widely in Quebec and Ontario in 1870s and 1880s
+• took many trips along eastern rivers in a 12 ................................
+• worked for Canadian railways between 1875 and 1897
+• worked for CPR in 1885 and photographed the 13 ................................
 and the railway at Rogers Pass
 41
 
 ## Page 42
 
 Test 2
-READING PASSAGE
-2
-You should spend about 20 minutes on Questions 件26, which are based on Reading
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 Back to the future of skyscraper design
 Answers to the problem of excessive electricity use by skyscrapers
 and large public buildings can be found in ingenious but forgotten
 architectural designs of the 19th and early-20th centuries
-A The Recovery of Natural Environments in Architecture by Professor Alan Short is
+A  The Recovery of Natural Environments in Architecture by Professor Alan Short is
 the culmination of 30 years of research and award-winning green building design
 by Short and colleagues in Architecture, Engineering, Applied Maths and Earth
 Sciences at the University of Cambridge.
-The crisis in building design is already here,' said Short. Policy makers think
-you can solve energy and building problems with gadgets. You can't. As global
+
+‘The crisis in building design is already here,’ said Short. ‘Policy makers think
+you can solve energy and building problems with gadgets. You can’t. As global
 temperatures continue to rise, we are going to continue to squander more and more
-energy on keeping our buildings mechanically cool until we have run out of capacity.5
-B Short is calling for a sweeping reinvention of how skyscrapers and major public
-buildings are designed - to end the reliance on sealed buildings which exist solely
-via the life supporf system of vast air conditioning units.
-In stead, he shows it is en tirely possible to accommodate n atural ventilatio n
+energy on keeping our buildings mechanically cool until we have run out of capacity.’
+
+B  Short is calling for a sweeping reinvention of how skyscrapers and major public
+buildings are designed – to end the reliance on sealed buildings which exist solely
+via the ‘life support’ system of vast air conditioning units.
+
+Instead, he shows it is entirely possible to accommodate natural ventilation
 and cooling in large buildings by looking into the past, before the widespread
-introduction of air conditioning systems, which were Telentlessly and aggressively
-marketed5 by their inventors.
-C Short points out that to make most contemporary buildings habitable, they have
-to be sealed and air condition ed. The en ergy use and carb on emissi ons this
-gen erates is spectacular and largely unn ecessary. Buildings in the West account for
-40-50% of electricity usage, gen erati ng substa ntial carb on emissi ons, and the rest
-of the world is catchi ng up at a frighteni ng rate. Short regards glass, steel and
+introduction of air conditioning systems, which were ‘relentlessly and aggressively
+marketed’ by their inventors.
+
+C  Short points out that to make most contemporary buildings habitable, they have
+to be sealed and air conditioned. The energy use and carbon emissions this
+generates is spectacular and largely unnecessary. Buildings in the West account for
+40–50% of electricity usage, generating substantial carbon emissions, and the rest
+of the world is catching up at a frightening rate. Short regards glass, steel and
 air-conditioned skyscrapers as symbols of status, rather than practical ways of
 meeting our requirements.
-D Shorfs book highlights a developing and sophisticated art and scienee of ventilating
+
+D  Short’s book highlights a developing and sophisticated art and science of ventilating
 buildings through the 19th and earlier-20th centuries, including the design of
 ingeniously ventilated hospitals. Of particular interest were those built to the
-desig ns of John Shaw Billin gs, includi ng the first Johns Hopkins Hospital in the US
-city of Baltimore (1873-1889).
-'We spe nt three years digitally modelli ng Billings' final desig ns,' says Short. £We
-put pathoge ns* in the airstreams, modelled for some one with tuberculosis (TB)
+designs of John Shaw Billings, including the first Johns Hopkins Hospital in the US
+city of Baltimore (1873–1889).
+
+‘We spent three years digitally modelling Billings’ final designs,’ says Short. ‘We
+put pathogens* in the airstreams, modelled for someone with tuberculosis (TB)
 coughing in the wards and we found the ventilation systems in the room would
 have kept other patients safe from harm.
-pathogens: microorganisms that can cause disease
+
+* pathogens: microorganisms that can cause disease
 42
 
 ## Page 43
 
 Reading
-£We discovered that 19th-century hospital wards could generate up to 24 air changes
-an hour 一 thafs similar to the performa nee of a moder n・day, computer-c on trolled
+E  ‘We discovered that 19th-century hospital wards could generate up to 24 air changes
+an hour – that’s similar to the performance of a modern-day, computer-controlled
 operating theatre. We believe you could build wards based on these principles now.
+
 Single rooms are not appropriate for all patients. Communal wards appropriate for
-certain patients 一 older people with dementia, for example 一 would work just as well
-in today's hospitals, at a fraction of the energy cost/
+certain patients – older people with dementia, for example – would work just as well
+in today’s hospitals, at a fraction of the energy cost.’
+
 Professor Short contends the mindset and skill-sets behind these designs have
-been completely lost, lamenting the disappearanee of expertly designed theatres,
+been completely lost, lamenting the disappearance of expertly designed theatres,
 opera houses, and other buildings where up to half the volume of the building was
-give n over to ensuri ng every one got fresh air.
-Much of the in genuity prese nt in 19th-ce ntury hospital a nd building design was
+given over to ensuring everyone got fresh air.
+
+F  Much of the ingenuity present in 19th-century hospital and building design was
 driven by a panicked public clamouring for buildings that could protect against
-what was thought to be the lethal threat of miasmas - toxic air that spread disease.
+what was thought to be the lethal threat of miasmas – toxic air that spread disease.
 Miasmas were feared as the principal agents of disease and epidemics for
 centuries, and were used to explain the spread of infection from the Middle Ages
 right through to the cholera outbreaks in London and Paris during the 1850s. Foul
-air, rather than germs, was believed to be the main driver of 'hospital fever5, leading
+air, rather than germs, was believed to be the main driver of ‘hospital fever’, leading
 to disease and frequent death. The prosperous steered clear of hospitals.
+
 While miasma theory has been long since disproved, Short has for the last 30 years
 advocated a return to some of the building design principles produced in its wake.
-Today, huge amounts of a building's space and construction cost are given over to
-air conditioning. But I have designed and built a series of buildings over the past
+
+G  Today, huge amounts of a building’s space and construction cost are given over to
+air conditioning. ‘But I have designed and built a series of buildings over the past
 three decades which have tried to reinvent some of these ideas and then measure
 what happens.
-'To go forward into our new low-energy, low-carb on future, we would be well
-advised to look back at design before our high-e nergy, high-carb on prese nt
-appeared. What is surprising is what a rich legacy we have abandoned.'
-Successful examples of Shorfs approach include the Queen's Building at De
+
+‘To go forward into our new low-energy, low-carbon future, we would be well
+advised to look back at design before our high-energy, high-carbon present
+appeared. What is surprising is what a rich legacy we have abandoned.’
+
+H  Successful examples of Short’s approach include the Queen’s Building at De
 Montfort University in Leicester. Containing as many as 2,000 staff and students,
 the entire building is naturally ventilated, passively cooled and naturally lit, including
 the two largest auditoria, each seating more than 150 people. The award-winning
 building uses a fraction of the electricity of comparable buildings in the UK.
+
 Short contends that glass skyscrapers in London and around the world will become
 a liability over the next 20 or 30 years if climate modelling predictions and energy
 price rises come to pass as expected.
-He is convinced that sufficiently cooled skyscrapers using the natural environment
+
+I  He is convinced that sufficiently cooled skyscrapers using the natural environment
 can be produced in almost any climate. He and his team have worked on hybrid
-buildings in the harsh climates of Beijing and Chicago 一 built with natural ventilation
-assisted by back-up air conditioning - which, surprisingly perhaps, can be switched
+buildings in the harsh climates of Beijing and Chicago – built with natural ventilation
+assisted by back-up air conditioning – which, surprisingly perhaps, can be switched
 off more than half the time on milder days and during the spring and autumn.
+
 Short looks at how we might reimagine the cities, offices and homes of the future.
-Maybe ifs time we changed our outlook, 43
+Maybe it’s time we changed our outlook.
+43
 
 ## Page 44
 
 Test 2
-Questions 14-18
-Reading Passage 2 has nine sections, A-!.
+Questions 14–18
+Reading Passage 2 has nine sections, A–I.
 Which section contains the following information?
-Write the correct letter, A-l, in boxes 14-18 on your answer sheet.
+Write the correct letter, A–I, in boxes 14–18 on your answer sheet.
 14 why some people avoided hospitals in the 19th century
 15 a suggestion that the popularity of tall buildings is linked to prestige
 16 a comparison between the circulation of air in a 19th-century building and modern
@@ -1311,45 +1328,44 @@ standards
 ## Page 45
 
 Reading
-Questions 19-26
+Questions 19–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 19-26 on your answer sheet.
+Write your answers in boxes 19–26 on your answer sheet.
 Ventilation in 19th-century hospital wards
 Professor Alan Short examined the work of John Shaw Billings, who influenced the
-architectural 19................................of hospitals to ensure they had good ventilation.
-He calculated that 20...............................in the air comi ng from patie nts sufferi ng from
-21...............................would not have harmed other patients. He also found that the air
-in 22...............................in hospitals could change as often as in a modern operating
+architectural 19 ................................ of hospitals to ensure they had good ventilation.
+He calculated that 20 ................................ in the air coming from patients suffering from
+21 ................................ would not have harmed other patients. He also found that the air
+in 22 ................................ in hospitals could change as often as in a modern operating
 theatre. He suggests that energy use could be reduced by locating more patients in
-23...............................areas.
+23 ................................ areas.
+
 A major reason for improving ventilation in 19th-century hospitals was the demand from
-the 24...............................for protection against bad air, known as 25..................................
+the 24 ................................ for protection against bad air, known as 25 ................................ .
 These were blamed for the spread of disease for hundreds of years, including epidemics
-of 26...............................in London and Paris in the middle of the 19th century.
+of 26 ................................ in London and Paris in the middle of the 19th century.
 45
 
 ## Page 46
 
 Test 2
-READJNG PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on pages 47 and 48.
-Questions 27-34
-Reading Passage 3 has eight sections, A-HI.
+READING PASSAGE 3
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on pages 47 and 48.
+Questions 27–34
+Reading Passage 3 has eight sections, A–H.
 Choose the correct heading for each section from the list of headings below.
-Write the correct number, i-ix, in boxes 27-34 on your answer sheet.
+Write the correct number, i–ix, in boxes 27–34 on your answer sheet.
 List of Headings
 i Complaints about the impact of a certain approach
-ii Fun dame ntal beliefs that are in fact in correct
+ii Fundamental beliefs that are in fact incorrect
 iii Early recommendations concerning business activities
 iv Organisations that put a new approach into practice
 v Companies that have suffered from changing their approach
 vi What people are increasingly expected to do
 vii How to achieve outcomes that are currently impossible
 viii Neither approach guarantees continuous improvement
-ix Evidenee that a certain approach can have more
-disadvantages than advantages
+ix Evidence that a certain approach can have more disadvantages than advantages
 27 Section A
 28 Section B
 29 Section C
@@ -1364,94 +1380,45 @@ disadvantages than advantages
 
 Reading
 Why companies should welcome disorder
-A Organisation is big business. Whether it is of our lives 一 all those inboxes and calendars 一
-or how companies are structured, a multi-billion dollar industry helps to meet this need.
-We have more strategies for time management, project management and
-self-organisation than at any other time in human history. We are told that we ought to
-organise our company, our home life, our week, our day and even our sleep, all as a means
-to becoming more productive. Every week, countless seminars and workshops take place
-around the world to tell a paying public that they ought to structure their lives in order to
-achieve this.
-This rhetoric has also crept into the thinking of business leaders and entrepreneurs, much
-to the delight of self-proclaimed perfectionists with the need to get everything right・ The
-number of business schools and graduates has massively increased over the past 50 years,
-essentially teaching people how to organise well.
-B Ironically, however, the number of businesses that fail has also steadily increased.
-Work-related stress has increased. A large proportion of workers from all demographics
-claim to be dissatisfied with the way their work is structured and the way they are managed.
-This begs the question: what has gone wrong? Why is it that on paper the drive for
-organisation seems a sure shot for increasing productivity, but in reality fells well short of
-what is expected?
-C This has been a problem for a while now. Frederick Taylor was one of the forefathers of
-scientific management. Writing in the first half of the 20th century, he designed a number
-of principles to improve the efficiency of the work process, which have since become
-widespread in modern companies・ So the approach has been around for a while.
-D New research suggests that this obsession with efficiency is misguided. The problem is not
-necessarily the management theories or strategies we use to organise our work; ifs the basic
-assumptions we hold in approaching how we work. Here it's the assumption that order is a
-necessary condition for productivity. This assumption has also fostered the idea that disorder
-must be detrimental to organisational productivity. The result is that businesses and people
-spend time and money organising themselves for the sake of organising, rather than actually
-looking at the end goal and usefulness of such an effort,
-E Whafs more, recent studies show that order actually has diminishing returns. Order does
-increase productivity to a certain extent, but eventually the usefulness of the process of
-organisation, and the benefit it yields, reduce until the point where any further increase in
-order reduces productivity. Some argue that in a business, if the cost of formally structuring
-something outweighs the benefit of doing it, then that thing ought not to be formally
-structured. Instead, the resources involved can be better used elsewhere.
+A Organisation is big business. Whether it is of our lives – all those inboxes and calendars – or how companies are structured, a multi-billion dollar industry helps to meet this need.
+We have more strategies for time management, project management and self-organisation than at any other time in human history. We are told that we ought to organise our company, our home life, our week, our day and even our sleep, all as a means to becoming more productive. Every week, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve this.
+This rhetoric has also crept into the thinking of business leaders and entrepreneurs, much to the delight of self-proclaimed perfectionists with the need to get everything right. The number of business schools and graduates has massively increased over the past 50 years, essentially teaching people how to organise well.
+B Ironically, however, the number of businesses that fail has also steadily increased. Work-related stress has increased. A large proportion of workers from all demographics claim to be dissatisfied with the way their work is structured and the way they are managed.
+This begs the question: what has gone wrong? Why is it that on paper the drive for organisation seems a sure shot for increasing productivity, but in reality falls well short of what is expected?
+C This has been a problem for a while now. Frederick Taylor was one of the forefathers of scientific management. Writing in the first half of the 20th century, he designed a number of principles to improve the efficiency of the work process, which have since become widespread in modern companies. So the approach has been around for a while.
+D New research suggests that this obsession with efficiency is misguided. The problem is not necessarily the management theories or strategies we use to organise our work; it’s the basic assumptions we hold in approaching how we work. Here it’s the assumption that order is a necessary condition for productivity. This assumption has also fostered the idea that disorder must be detrimental to organisational productivity. The result is that businesses and people spend time and money organising themselves for the sake of organising, rather than actually looking at the end goal and usefulness of such an effort.
+E What’s more, recent studies show that order actually has diminishing returns. Order does increase productivity to a certain extent, but eventually the usefulness of the process of organisation, and the benefit it yields, reduce until the point where any further increase in order reduces productivity. Some argue that in a business, if the cost of formally structuring something outweighs the benefit of doing it, then that thing ought not to be formally structured. Instead, the resources involved can be better used elsewhere.
 47
 
 ## Page 48
 
 Test 2
-F In fact, research shows that, when innovating, the best approach is to create an environment
-devoid of structure and hierarchy and enable everyone involved to engage as one organic
-group・ These environments can lead to new solutions that, under conventionally structured
-environments (filled with bottlenecks in terms of information flow, power structures, rules,
-and routines) would never be reached.
-G In recent times companies have slowly started to embrace this disorganisation. Many of
-them embrace it in terms of perception (embracing the idea of disorder, as opposed to
-fearing it) and in terms of process (putting mechanisms in place to reduce structure).
-For example, Oticon, a large Danish manufacturer of hearing aids, used what it called a
-'spaghetti5 structure in order to reduce the organisation^ rigid hierarchies. This involved
-scrapping formal job titles and giving staff huge amounts of ownership over their own time
-and projects. This approach proved to be highly successful initially, with clear improvements
-in worker productivity in all facets of the business.
-In similar fashion, the former chairman of General Electric embraced disorganisation,
-putting forward the idea of the "boundaryless9 organisation. Again, it involves breaking
-down the barriers between different parts of a company and encouraging virtual
-collaboration and flexible working. Google and a number of other tech companies have
-embraced (at least in part) these kinds of flexible structures, facilitated by technology and
-strong company values which glue people together.
-H A word of warning to others thinking of jumping on this bandwagon: the evidence so far
-suggests disorder, much like order, also seems to have diminishing utility, and can also have
-detrimental effects on performance if overused. Like order, disorder should be embraced
-only so far as it is useful. But we should not fear it 一 nor venerate one over the other.
-This research also shows that we should continually question whether or not our existing
-assumptions work.
+F In fact, research shows that, when innovating, the best approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group. These environments can lead to new solutions that, under conventionally structured environments (filled with bottlenecks in terms of information flow, power structures, rules, and routines) would never be reached.
+G In recent times companies have slowly started to embrace this disorganisation. Many of them embrace it in terms of perception (embracing the idea of disorder, as opposed to fearing it) and in terms of process (putting mechanisms in place to reduce structure).
+For example, Oticon, a large Danish manufacturer of hearing aids, used what it called a ‘spaghetti’ structure in order to reduce the organisation’s rigid hierarchies. This involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects. This approach proved to be highly successful initially, with clear improvements in worker productivity in all facets of the business.
+In similar fashion, the former chairman of General Electric embraced disorganisation, putting forward the idea of the ‘boundaryless’ organisation. Again, it involves breaking down the barriers between different parts of a company and encouraging virtual collaboration and flexible working. Google and a number of other tech companies have embraced (at least in part) these kinds of flexible structures, facilitated by technology and strong company values which glue people together.
+H A word of warning to others thinking of jumping on this bandwagon: the evidence so far suggests disorder, much like order, also seems to have diminishing utility, and can also have detrimental effects on performance if overused. Like order, disorder should be embraced only so far as it is useful. But we should not fear it – nor venerate one over the other. This research also shows that we should continually question whether or not our existing assumptions work.
 48
 
 ## Page 49
 
 Reading
-35-37
-Questions
+Questions 35–37
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 35-37 on your answer sheet.
-35 Numerous training sessions are aimed at people who feel they are not
-enough.
-36 Being organised appeals to people who regard themselves as..............................
-37 Many people feel...............................with aspects of their work.
-Questions 38-40
+Write your answers in boxes 35–37 on your answer sheet.
+35 Numerous training sessions are aimed at people who feel they are not __________ enough.
+36 Being organised appeals to people who regard themselves as __________.
+37 Many people feel __________ with aspects of their work.
+Questions 38–40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38–40 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
 38 Both businesses and people aim at order without really considering its value.
-39 Innovation is most successful if the people invoIved have distinct roles.
-40 Google was in spired to adopt flexibility by the success of Gen eral Electric.
+39 Innovation is most successful if the people involved have distinct roles.
+40 Google was inspired to adopt flexibility by the success of General Electric.
 49
 
 ## Page 50
@@ -3995,41 +3962,59 @@ before you take IELTS. you take IELTS. scores acceptable.
 Listening and Reading answer keys
 TEST 2
 READING
-Reading Passage 1, 20 pathogens
-Questions 1-13 21 tuberculosis
-4 22 wards
-2 FALSE 23 communal
-3 TRUE 24 public
-4 NOT GIVEN 25 miasmas
-5 FALSE 26 cholera
-6 NOT GIVEN
-7 TRUE Reading Passage 3,
-8 FALSE
-Questions 27-40
-9 TRUE
-4 mercha nt 27 vi
-equipme nt 28 i
-11 gifts 29 iii
-12 canoe 30 ii
-13 mountains 31 ix
-32 vii
-Reading Passage 2, 33 iv
-Questions 14-26 34 viii
-i4 F 35 productive
-1 5 c 36 perfectionists
-1 6 E 37 dissatisfied
-1 7 D 38 TRUE
-1 8 B 39 FALSE
-40 NOT GIVEN
+Reading Passage 1,
+Questions 1–13
+1 FALSE
+2 TRUE
+3 NOT GIVEN
+4 FALSE
+5 NOT GIVEN
+6 TRUE
+7 FALSE
+8 TRUE
+9 merchant
+10 equipment
+11 gifts
+12 canoe
+13 mountains
+Reading Passage 2,
+Questions 14–26
+14 F
+15 C
+16 E
+17 D
+18 B
 19 design(s)
-If you score …
-0-18 19-27 28-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score under examination acceptable score under
-examination conditions and we conditions but we recommend examination conditions but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+20 pathogens
+21 tuberculosis
+22 wards
+23 communal
+24 public
+25 miasmas
+26 cholera
+Reading Passage 3,
+Questions 27–40
+27 vi
+28 i
+29 iii
+30 ii
+31 ix
+32 vii
+33 iv
+34 viii
+35 productive
+36 perfectionists
+37 dissatisfied
+38 TRUE
+39 FALSE
+40 NOT GIVEN
+If you score ...
+0–18
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+19–27
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+28–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 122
 
 ## Page 123
