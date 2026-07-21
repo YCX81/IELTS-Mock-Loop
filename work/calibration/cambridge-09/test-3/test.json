@@ -1,0 +1,1534 @@
+{
+  "schemaVersion": 1,
+  "book": 9,
+  "test": 3,
+  "mode": "reading",
+  "testId": "cambridge-09-reading-test-3",
+  "status": "manually_calibrated",
+  "calibrationDate": "2026-07-21",
+  "calibrationMethod": "original PDF visual inspection at 300 DPI with existing extraction used only for comparison",
+  "sourcePdf": "data/Cambridge-IELTS-09.pdf",
+  "sourcePages": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "answerKeyPage": 152,
+  "pages": {
+    "64": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1—13, which are based on\nReading Passage 1 below.\nAttitudes to Language\nIt is not easy to be systematic and objective about language study. Popular linguistic\ndebate regularly deteriorates into invective and polemic. Language belongs to\neveryone, so most people feel they have a right to hold an option about it. And when\noptions differ, emotions can run high. Arguments can start as easily over minor points\nof usage as over major policies of linguistic education.\nLanguage, moreover, is a very public behavior, so it is easy for different usages to be\nnoted and criticised. No part of society or social behavior is exempt. Linguistic factors\ninfluence how we judge personality, intelligence, social status, educational standards,\njob aptitude, and many other areas of identity and social survival. As a result, it is\neasy to hurt, and to be hurt, when language use is unfeelingly attacked.\nIn its most general sense, prescriptivism is the view that one variety of language has\nan inherently higher value than others and that this ought to be imposed on the whole\nof the speech community. The view is propounded especially in relation to grammar\nand vocabulary, and frequently with reference to pronunciation. The variety which is\nfavoured, in this account, is usually a version of the ‘standard’ written language,",
+    "65": "especially as encountered in literature, or in the formal spoken language which most\nclosely reflects this style. Adherents to this variety are said to speak or write ‘correctly’\ndeviations from it are said to be ‘incorrect’.\nAll the main languages have been studied prescriptively, especially in the 18th\ncentury approach to the writing of grammar and dictionaries. The aims of these early\ngrammarians were threefold: (a) they wanted to codify the principles of their\nlanguages, to show that there was a system beneath the apparent chaos of usage; (b)\nthey wanted a means of settling disputes over usage, and (c) they wanted to point out\nwhat they felt to be common errors, in order to ‘improve’ the language. The\nauthoritarian nature of the approach is best characterized by its reliance on ‘rules’ of\ngrammar. Some usages are ‘prescribed’, to be learnt and followed accurately; others\nare ‘proscribed’, to be avoided. In this early period, there were no half-measures:\nusage was either right or wrong, and it was the task of the grammarian not simply to\nrecord alternatives, but to pronounce judgment upon them.\nThese attitudes are still with us, and they motivate a widespread concern that\nlinguistic standards should be maintained. Nevertheless, there is an alternative point\nof view that is concerned less with standards than with the facts of linguistic usage.\nThis approach is summarized in the statement that it is the task of the grammarian to\ndescribe, not prescribe—to record the facts of linguistic diversity, and not to attempt\nthe impossible tasks of evaluating language variation or halting language change. In\nthe second half of the 18th century, we already find advocates of this view, such as\nJoseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the",
+    "66": "custom of speaking is the original and only just standard of any language’. Linguistic\nissues, it is argued, cannot be solved by logic and legislation. And this view has\nbecome the tenet of the modern linguistic approach to grammatical analysis.\nIn our own time, the opposition between ‘descriptivists’ and ‘prescriptivists’ has often\nbecome extreme, with both sides painting unreal pictures of the other. Descriptive\ngrammarians have been presented as people who do not care about standards,\nbecause of the way they see all forms of usage as equally valid. Prescriptive\ngrammarians have been presented as blind adherents to a historical tradition. The\nopposition has even been presented in quasi-political terms—of radical liberalism vs\nelitist conservatism.\nQuestion 1—8\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1—8 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALES if the statement contradicts the information\nNOT GIVEN if there is no information on this\n1 There are understandable reasons why arguments occur about language.\n2 People feel more strongly about language education than about small\ndifferences in language usage.\n3 our assessment of a person’s intelligence is affected by the way he or she uses\nlanguage.",
+    "67": "4 Prescriptive grammar books cost a lot of money to buy in the 18th century.\n5 Prescriptivism still exists today.\n6 According to descriptivist it is pointless to try to stop language change.\n7 Descriptivism only appeared after the 18th century.\n8 Both descriptivists and prescriptivists have been misrepresented.\nQuestion 9-12\nComplete the summary using the list of words, A—I, below.\nWrite the correct letter, A—I, in boxes 9—12 on your answer sheet.\nThe language debate\nAccording to 9……………., there is only one correct form of language. Linguists who\ntake this approach to language place great importance on grammatical\n10……………. .\nConversely, the view of 11……………., such as Joseph Priestley, is that grammar\nshould be based on 12…………….\nA descriptivists B language experts C popular speech\nD formal language E evaluation F rules\nG modern linguists H prescriptivists I change\nQuestion 13\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in box 13 on your answer sheet.",
+    "68": "What is the writer’s purpose in Reading Passage 1?\nA to argue in favour of a particular approach to writing dictionaries and grammar\nbooks\nB to present a historical account of differing views of language\nC to describe the differences between spoken and written language\nD to show how a certain view of language has been discredited.",
+    "69": "READING PASSAGE 2\nYou should spend about 20 minutes on Question 14—26, which are based on\nReading Passage 2 below.\nTidal Power\nUndersea turbines which produce electricity from the tides are set to become an\nimportant source of renewable energy for Britain. It is still too early to predict the\nextent of the impact they may have, but all the signs are that they will play a\nsignificant role in the future\nA. Operating on the same principle as wind turbines, the power in sea turbines\ncomes from tidal currents which turn blades similar to ships propellers, but, unlike\nwind, the tides are predictable and the power input is constant. The technology\nraises the prospect of Britain becoming self-sufficient in renewable energy and\ndrastically reducing its carbon dioxide emissions. If tide, wind and wave-power\nare all developed, Britain would be able to close gas, coal and nuclear plants and\nexport renewable power to other parts of Europe. Unlike wind power which Britain\noriginally developed and then abandoned for 20 years allowing the Dutch to make\nit a major industry, undersea turbines could become a big export earner to island\nnations such as Japan and New Zealand.\nB. Tidal sites have already been identified that will produce one sixth or more of the\nUK’s power—and at prices competitive with modern gas turbines and",
+    "70": "undercutting those of the already ailing nuclear industry. One site alone, the\nPentland Firth, between Orkney and mainland Scotland, could produce 10% of\nthe country’s electricity with banks of turbines under the sea, and another at\nAlderney in the Channel Islands three times the 1,2000 megawatts of Britain’s\nlargest and newest nuclear plant, Sizewell B, in Suffolk. Other sites identified\ninclude the Bristol Channel and the west coast of Scotland, particularly the\nchannel between Campbelttown and Northern Irealand.\nC. Work on designs for the new turbine blades and sites are well advanced at the\nuniversity of Southampton’s sustainable energy research group. The first station\nis expected to be installed off Lynmouth in Devon shortly to test the technology in\na venture jointly funded by the department of Trade and Industry and the\nEuropean Union. AbuBakn Bahaj, in charge of the Southampton research, said:\n‘The prospects for energy from tidal currents are far better than from wind\nbecause the flows of water are predictable and constant. The technology for\ndealing with the hostile saline environment under the sea has been developed in\nthe North Sea oil industry and much is already known about turbine blade design,\nbecause of wind power and ship propellers. There are a few technical difficulties,\nbut I believe in the next five to ten years we will be installing commercial marine\nturbine farm. Southampton has been rewarded £215,000 over three years to\ndevelop the turbines and is working with Marine Current Turbines, a subsidiary of\nIT power, on the Lynmouth project. EU research has now identified 106 potential\nsites for tidal power, 80% round the coasts of Britain. The best sites are between",
+    "71": "islands or around heavily indented coasts where there are strong tidal currents.\nD. A marine turbine blade needs to be only one third of the size of a wind generator\nto produce three times as much power. The blades will be about 20 meters in\ndiameter, so around 30 meters of water is required. Unlike wind power, there are\nunlikely to be environmental objections. Fish and other creatures are thought\nunlikely to be at risk from the relatively slow-turning blades. Each turbine will be\nmounted on a tower which will connect to the national power supply grid via\nunderwater cables. The towers will stick out of the water and be lit, to warn\nshipping, and also be designed to be lifted out of the water for maintenance and\nto clean seaweed from the blades.\nE. Dr Bahaj has done most work on the Alderney site, where there are powerful\ncurrents. The single undersea turbine farm would produce far more power than\nneeded for the Channel Isalands and most would be fed into the French Grid and\nbe re-imported into Britain via the cable under the Channel.\nF. One technical difficulty is cavitation, where low pressure behind a turning blade\ncauses air bubbles. These can cause vibration and damage the blades of the\nturbines. Dr Bahaj said: ‘We have to test a number of blade types to avoid this\nhappening or at least make sure it does not damage the turbines or reduce\nperformance. Another slight concern is submerged debris floating into the blades.\nSo far we do not know how much of a problem it might be. We will have to make\nthe turbines robust because the sea is a hostile environment, but all the signs that\nwe can do it are good.",
+    "72": "Question14-17\nReading Passage 2 has six paragraphs, A—F.\nWhich paragraph contains the following information?\nWrite the correct letter, A—F, in boxes 14—17 on your answer sheet.\nNB You may use any letter more than once.\n14 The location of the first test site\n15 a way of bringing the power produced on one site back into Britain\n16 a reference to a previous attempt by Britain to find an alternative source of\nenergy\n17 mention of the possibility of applying technology from another industry\nQuestion18-22\nChoose FIVE letters, A—J.\nWrite the correct letters in boxes 18—22 on your answer sheet.\nWhich FIVE of the following claims about tidal power are made by the writer?\nA It is a more reliable source of energy than wind power.\nB It would replace all other forms of energy in Britain\nC Its introduction has come as a result of public pressure.\nD It would cut down on air pollution.",
+    "73": "Reading\nE It could contribute to the closure of many existing power stations in Britain.\nF It could be a means of increasing national income.\nG It could face a lot of resistance from other fuel industries.\nH It could be sold more cheaply than any other type of fuel.\nI It could compensate for the shortage of inland sites for energy production.\nJ It is best produced in the vicinity of coastlines with particular features.\nQuestion 23—26\nLabel the diagram below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 23—26 on your answer sheet.\nWhole tower can be raised for 23 ______________ and the extraction\nof seaweed from the blades\nAir bubbles result from the 25 ______________ behind blades.\nThis is known as 26 ______________\nSea life not in danger due to the fact that blades are comparatively\n24 ______________",
+    "74": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27—40, which are based on\nReading Passage 3 below.\nInformation theory — the big idea\nInformation theory lies at the heart of everything—from DVD players and the genetic\ncode of DNA to the physics of the universe at its most fundamental. It has been\ncentral t the development of the science of communication, which enables data to be\nsent electronically and has therefore had a major impact on our lives\nA. In April 2002 an event took place which demonstrated one of the many\napplications of information theory. The space probe Voyager I, launched in 1977,\nhad sent back spectacular images of Jupiter and Saturn and then soared out of\nthe Solar System on a one-way mission to the stars. After 25 years of exposure to\nthe freezing temperatures of deep space, the probe was beginning to show its\nage. Sensors and circuits were on the brink of failing and NASA experts realized\nthat they had to do something or lose contact with their probe forever. The\nsolution was to get a message to Voyager I to instruct it to use spares to change\nthe failing parts. With the probe 12 billion kilometers from Earth, this was not an\neasy task. By means of a radio dish belonging to NASA’s Deep Space Network,\nthe message was sent out into the depths of space. Even travelling at the speed\nof light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet,\nincredibly, the little probe managed to hear the faint call from its home planet and\nsuccessfully made the switchover.",
+    "75": "B. It was the longest-distance repair job history, and a triumph for the NASA\nengineers. But it also highlighted the astonishing power of the techniques\ndeveloped by American communications engineer Claude Shannon, who had\ndied just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an\nearly talent for maths and for building gadgets, and made breakthroughs in the\nfoundations of computer technology when still a student. While at Bell\nLaboratories, Shannon developed information theory, but shunned the resulting\nacclaim. In the 1940s, he singe-handedly created an entire science of\ncommunication which has since inveigled its way into a host of applications, from\nDVDs to satellite communications to bar codes— any area, in short, where data\nhas to be conveyed rapidly yet accurately.\nC. This all seems light years away from the down-to earth uses Shannon originally\nhad for his work, which began when he was a 22-year-old graduate engineering\nstudent at the prestigious Massachusetts Institute of Technology in 1939. He set\nout with an apparently simple aim: to pin down the precise meaning of the\nconcept of ‘information’. The most basic form of information, Shannon argued, is\nwhether something is true or false—which can be captured in the binary unit, or\n‘bit’, of the form 1 or 0. Having identified this fundamental unit, Shannon set about\ndefining otherwise vague ideas about information and how to transit it from place\nto place. In the process he discovered something surprising: it is always possible\nto guarantee information will get through random interference—‘noise’—intact.\nD. Noise usually means unwanted sounds which interfere with genuine information.",
+    "76": "Information theory generalizes this idea via theorems that capture the effects of\nnoise with mathematical precise. In particular,Shannon showed that noise sets a\nlimit on the rate at which information can pass along communication channels\nwhile remaining error-free. This rate depends on the relative strengths of the\nsignal and noise travelling down the communication channel, and on its capacity\n(its ‘bandwidth’). The resulting limit, given in units of bits per second, is the\nabsolute maximum rate of error-free communication given signal strength and\nnoise level. The trick, Shannon showed, is to find ways of packaging\nup—‘coding’—information to cope with the ravages of noise, while staying within\nthe information-carrying capacity—‘bandwidth’—of the communication system\nbeing used.\nE. Over the years scientists have devised many such coding methods, and they\nhave proved crucial in many technological feats. The voyager spacecraft\ntransmitted data using codes which added one extra bit for every single bit of\ninformation; the result was an error rate of just one bit in 10,000—and stunningly\nclear pictures of the planets. Other codes have become part of everyday\nlife—such as the Universal Product Code, or bar code. Which uses a simple\nerror—detecting systems that ensures supermarket check-out lasers can read\nthe price even on, say, a crumpled bag of crisps. As recently as 1993, engineers\nmade a major breakthrough by discovering so-called turbo—which come very\nclose to Shannon’s ultimate limit for the maximum rate that data can be\ntransmitted reliably, and now play a key role in the mobile videophone revolution.",
+    "77": "F. Shannon also laid the foundations of more efficient ways of storing information,\nby stripping out superfluous (‘redundant’) bits from data which contributed little\nreal information. As mobile phone text messages like ‘ I CN C U’ show, it is often\npossible to leave out a lot of data without losing much meaning. As with error\ncorrection, however, there’s a limit beyond which message become too\nambiguous. Shannon showed how to calculate this limit, opening the way to the\ndesign of compression methods that cram maximum information into the\nminimum space.\nQuestion27-32\nReading Passage 3 has six paragraphs, A—F.\nWhich paragraph contains the following information?\nWrite the correct letter, A—F, in boxes 27—32 on your answer sheet.\n27 an explanation of the factors affecting the transmission of the information\n28 an example of how unnecessary information can be omitted\n29 a reference to Shannon’s attitude to fame\n30 details of a machine capable of interpreting incomplete information\n31 a detailed account of an incident involving information theory\n32 a reference to what Shannon initially intended to achieve in his research",
+    "78": "Question33-37\nComplete the notes below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 33—37 on your answer sheet.\nThe Voyager 1 Space Probe\n The probe transmitted pictures of both 33…………………and …………………….,\nthen left the 34…………………..\n The freezing temperatures were found to have a negative effect on parts of the\nspace probe.\n Scientists feared that both the 35…………………and ………………..were about\nto stop working.\n The only hope was to tell the probe to replace them with 36…………….—but\ndistance made communication with probe difficult.\n A 37………………..was used to transmit the message at the speed of light.\n The message was picked up by the probe and the switchover toll place.",
+    "79": "Question38-40\nDo the following statements agree with the information given in Reading Passage 3?\nIn boxes 38—40 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALES if the statement contradicts the information\nNOT GIVEN if there is no information on this\n38 The concept of describing something as true or false was the starting point for\nShannon in his attempts to send message over distances.\n39 The amount of information that can be sent in a given time period is determined\nwith reference to the signal strength and poise level.\n40 Products have now been developed which can convey more information than\nShannon had anticipated as possible."
+  },
+  "answerKeyText": "Listening and Reading Answer Keys\nACADEMIC READING\nReading Passage 1, Questions 1–13\n1 YES\n2 NO\n3 YES\n4 NOT GIVEN\n5 YES\n6 YES\n7 NO\n8 YES\n9 H\n10 F\n11 A\n12 C\n13 B\nReading Passage 2, Questions 14–26\n14 C\n15 E\n16 A\n17 C\n18–22 IN ANY ORDER: A; D; E; F; J\n23 maintenance\n24 slow (turning)\n25 low pressure\n26 cavitation\nReading Passage 3, Questions 27–40\n27 D\n28 F\n29 B\n30 E\n31 A\n32 C\n33 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: Jupiter; Saturn\n34 Solar System\n35 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: sensors; circuits\n36 spares\n37 radio dish\n38 TRUE\n39 TRUE\n40 FALSE",
+  "passages": [
+    {
+      "passage": 1,
+      "title": "Attitudes to Language",
+      "subtitle": null,
+      "instruction": "You should spend about 20 minutes on Questions 1—13, which are based on Reading Passage 1 below.",
+      "sourcePages": [
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "bodyPages": [
+        64,
+        65,
+        66
+      ],
+      "questionPages": [
+        66,
+        67,
+        68
+      ],
+      "bodyParagraphs": [
+        "It is not easy to be systematic and objective about language study. Popular linguistic debate regularly deteriorates into invective and polemic. Language belongs to everyone, so most people feel they have a right to hold an option about it. And when options differ, emotions can run high. Arguments can start as easily over minor points of usage as over major policies of linguistic education.",
+        "Language, moreover, is a very public behavior, so it is easy for different usages to be noted and criticised. No part of society or social behavior is exempt. Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival. As a result, it is easy to hurt, and to be hurt, when language use is unfeelingly attacked.",
+        "In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others and that this ought to be imposed on the whole of the speech community. The view is propounded especially in relation to grammar and vocabulary, and frequently with reference to pronunciation. The variety which is favoured, in this account, is usually a version of the ‘standard’ written language, especially as encountered in literature, or in the formal spoken language which most closely reflects this style. Adherents to this variety are said to speak or write ‘correctly’ deviations from it are said to be ‘incorrect’.",
+        "All the main languages have been studied prescriptively, especially in the 18th century approach to the writing of grammar and dictionaries. The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage; (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to ‘improve’ the language. The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar. Some usages are ‘prescribed’, to be learnt and followed accurately; others are ‘proscribed’, to be avoided. In this early period, there were no half-measures: usage was either right or wrong, and it was the task of the grammarian not simply to record alternatives, but to pronounce judgment upon them.",
+        "These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained. Nevertheless, there is an alternative point of view that is concerned less with standards than with the facts of linguistic usage. This approach is summarized in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change. In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language’. Linguistic issues, it is argued, cannot be solved by logic and legislation. And this view has become the tenet of the modern linguistic approach to grammatical analysis.",
+        "In our own time, the opposition between ‘descriptivists’ and ‘prescriptivists’ has often become extreme, with both sides painting unreal pictures of the other. Descriptive grammarians have been presented as people who do not care about standards, because of the way they see all forms of usage as equally valid. Prescriptive grammarians have been presented as blind adherents to a historical tradition. The opposition has even been presented in quasi-political terms—of radical liberalism vs elitist conservatism."
+      ],
+      "questionRange": "1-13",
+      "images": [],
+      "sentenceUnits": [
+        {
+          "number": 1,
+          "paragraph": 1,
+          "text": "It is not easy to be systematic and objective about language study."
+        },
+        {
+          "number": 2,
+          "paragraph": 1,
+          "text": "Popular linguistic debate regularly deteriorates into invective and polemic."
+        },
+        {
+          "number": 3,
+          "paragraph": 1,
+          "text": "Language belongs to everyone, so most people feel they have a right to hold an option about it."
+        },
+        {
+          "number": 4,
+          "paragraph": 1,
+          "text": "And when options differ, emotions can run high."
+        },
+        {
+          "number": 5,
+          "paragraph": 1,
+          "text": "Arguments can start as easily over minor points of usage as over major policies of linguistic education."
+        },
+        {
+          "number": 6,
+          "paragraph": 2,
+          "text": "Language, moreover, is a very public behavior, so it is easy for different usages to be noted and criticised."
+        },
+        {
+          "number": 7,
+          "paragraph": 2,
+          "text": "No part of society or social behavior is exempt."
+        },
+        {
+          "number": 8,
+          "paragraph": 2,
+          "text": "Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival."
+        },
+        {
+          "number": 9,
+          "paragraph": 2,
+          "text": "As a result, it is easy to hurt, and to be hurt, when language use is unfeelingly attacked."
+        },
+        {
+          "number": 10,
+          "paragraph": 3,
+          "text": "In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others and that this ought to be imposed on the whole of the speech community."
+        },
+        {
+          "number": 11,
+          "paragraph": 3,
+          "text": "The view is propounded especially in relation to grammar and vocabulary, and frequently with reference to pronunciation."
+        },
+        {
+          "number": 12,
+          "paragraph": 3,
+          "text": "The variety which is favoured, in this account, is usually a version of the ‘standard’ written language, especially as encountered in literature, or in the formal spoken language which most closely reflects this style."
+        },
+        {
+          "number": 13,
+          "paragraph": 3,
+          "text": "Adherents to this variety are said to speak or write ‘correctly’"
+        },
+        {
+          "number": 14,
+          "paragraph": 3,
+          "text": "deviations from it are said to be ‘incorrect’."
+        },
+        {
+          "number": 15,
+          "paragraph": 4,
+          "text": "All the main languages have been studied prescriptively, especially in the 18th century approach to the writing of grammar and dictionaries."
+        },
+        {
+          "number": 16,
+          "paragraph": 4,
+          "text": "The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage; (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to ‘improve’ the language."
+        },
+        {
+          "number": 17,
+          "paragraph": 4,
+          "text": "The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar."
+        },
+        {
+          "number": 18,
+          "paragraph": 4,
+          "text": "Some usages are ‘prescribed’, to be learnt and followed accurately; others are ‘proscribed’, to be avoided."
+        },
+        {
+          "number": 19,
+          "paragraph": 4,
+          "text": "In this early period, there were no half-measures: usage was either right or wrong, and it was the task of the grammarian not simply to record alternatives, but to pronounce judgment upon them."
+        },
+        {
+          "number": 20,
+          "paragraph": 5,
+          "text": "These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained."
+        },
+        {
+          "number": 21,
+          "paragraph": 5,
+          "text": "Nevertheless, there is an alternative point of view that is concerned less with standards than with the facts of linguistic usage."
+        },
+        {
+          "number": 22,
+          "paragraph": 5,
+          "text": "This approach is summarized in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change."
+        },
+        {
+          "number": 23,
+          "paragraph": 5,
+          "text": "In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language’."
+        },
+        {
+          "number": 24,
+          "paragraph": 5,
+          "text": "Linguistic issues, it is argued, cannot be solved by logic and legislation."
+        },
+        {
+          "number": 25,
+          "paragraph": 5,
+          "text": "And this view has become the tenet of the modern linguistic approach to grammatical analysis."
+        },
+        {
+          "number": 26,
+          "paragraph": 6,
+          "text": "In our own time, the opposition between ‘descriptivists’ and ‘prescriptivists’ has often become extreme, with both sides painting unreal pictures of the other."
+        },
+        {
+          "number": 27,
+          "paragraph": 6,
+          "text": "Descriptive grammarians have been presented as people who do not care about standards, because of the way they see all forms of usage as equally valid."
+        },
+        {
+          "number": 28,
+          "paragraph": 6,
+          "text": "Prescriptive grammarians have been presented as blind adherents to a historical tradition."
+        },
+        {
+          "number": 29,
+          "paragraph": 6,
+          "text": "The opposition has even been presented in quasi-political terms—of radical liberalism vs elitist conservatism."
+        }
+      ]
+    },
+    {
+      "passage": 2,
+      "title": "Tidal Power",
+      "subtitle": "Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain. It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future",
+      "instruction": "You should spend about 20 minutes on Question 14—26, which are based on Reading Passage 2 below.",
+      "sourcePages": [
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "bodyPages": [
+        69,
+        70,
+        71
+      ],
+      "questionPages": [
+        72,
+        73
+      ],
+      "bodyParagraphs": [
+        "Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain. It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future",
+        {
+          "label": "A",
+          "text": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant. The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions. If tide, wind and wave-power are all developed, Britain would be able to close gas, coal and nuclear plants and export renewable power to other parts of Europe. Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."
+        },
+        {
+          "label": "B",
+          "text": "Tidal sites have already been identified that will produce one sixth or more of the UK’s power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry. One site alone, the Pentland Firth, between Orkney and mainland Scotland, could produce 10% of the country’s electricity with banks of turbines under the sea, and another at Alderney in the Channel Islands three times the 1,2000 megawatts of Britain’s largest and newest nuclear plant, Sizewell B, in Suffolk. Other sites identified include the Bristol Channel and the west coast of Scotland, particularly the channel between Campbelttown and Northern Irealand."
+        },
+        {
+          "label": "C",
+          "text": "Work on designs for the new turbine blades and sites are well advanced at the university of Southampton’s sustainable energy research group. The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union. AbuBakn Bahaj, in charge of the Southampton research, said: ‘The prospects for energy from tidal currents are far better than from wind because the flows of water are predictable and constant. The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers. There are a few technical difficulties, but I believe in the next five to ten years we will be installing commercial marine turbine farm. Southampton has been rewarded £215,000 over three years to develop the turbines and is working with Marine Current Turbines, a subsidiary of IT power, on the Lynmouth project. EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents."
+        },
+        {
+          "label": "D",
+          "text": "A marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power. The blades will be about 20 meters in diameter, so around 30 meters of water is required. Unlike wind power, there are unlikely to be environmental objections. Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades. Each turbine will be mounted on a tower which will connect to the national power supply grid via underwater cables. The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades."
+        },
+        {
+          "label": "E",
+          "text": "Dr Bahaj has done most work on the Alderney site, where there are powerful currents. The single undersea turbine farm would produce far more power than needed for the Channel Isalands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel."
+        },
+        {
+          "label": "F",
+          "text": "One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles. These can cause vibration and damage the blades of the turbines. Dr Bahaj said: ‘We have to test a number of blade types to avoid this happening or at least make sure it does not damage the turbines or reduce performance. Another slight concern is submerged debris floating into the blades. So far we do not know how much of a problem it might be. We will have to make the turbines robust because the sea is a hostile environment, but all the signs that we can do it are good."
+        }
+      ],
+      "questionRange": "14-26",
+      "images": [
+        {
+          "kind": "diagram",
+          "path": "data/generated/intensive-reading/cambridge-07-09/assets/cambridge-ielts-09-test-03-passage-02-tidal-turbine-diagram.png",
+          "questions": [
+            23,
+            24,
+            25,
+            26
+          ],
+          "alt": "潮汐发电涡轮结构与四个标注位置"
+        }
+      ],
+      "sentenceUnits": [
+        {
+          "number": 1,
+          "paragraph": 1,
+          "text": "Undersea turbines which produce electricity from the tides are set to become an important source of renewable energy for Britain."
+        },
+        {
+          "number": 2,
+          "paragraph": 1,
+          "text": "It is still too early to predict the extent of the impact they may have, but all the signs are that they will play a significant role in the future"
+        },
+        {
+          "number": 3,
+          "paragraph": "A",
+          "text": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant."
+        },
+        {
+          "number": 4,
+          "paragraph": "A",
+          "text": "The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions."
+        },
+        {
+          "number": 5,
+          "paragraph": "A",
+          "text": "If tide, wind and wave-power are all developed, Britain would be able to close gas, coal and nuclear plants and export renewable power to other parts of Europe."
+        },
+        {
+          "number": 6,
+          "paragraph": "A",
+          "text": "Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."
+        },
+        {
+          "number": 7,
+          "paragraph": "B",
+          "text": "Tidal sites have already been identified that will produce one sixth or more of the UK’s power—and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry."
+        },
+        {
+          "number": 8,
+          "paragraph": "B",
+          "text": "One site alone, the Pentland Firth, between Orkney and mainland Scotland, could produce 10% of the country’s electricity with banks of turbines under the sea, and another at Alderney in the Channel Islands three times the 1,2000 megawatts of Britain’s largest and newest nuclear plant, Sizewell B, in Suffolk."
+        },
+        {
+          "number": 9,
+          "paragraph": "B",
+          "text": "Other sites identified include the Bristol Channel and the west coast of Scotland, particularly the channel between Campbelttown and Northern Irealand."
+        },
+        {
+          "number": 10,
+          "paragraph": "C",
+          "text": "Work on designs for the new turbine blades and sites are well advanced at the university of Southampton’s sustainable energy research group."
+        },
+        {
+          "number": 11,
+          "paragraph": "C",
+          "text": "The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union."
+        },
+        {
+          "number": 12,
+          "paragraph": "C",
+          "text": "AbuBakn Bahaj, in charge of the Southampton research, said: ‘The prospects for energy from tidal currents are far better than from wind because the flows of water are predictable and constant."
+        },
+        {
+          "number": 13,
+          "paragraph": "C",
+          "text": "The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers."
+        },
+        {
+          "number": 14,
+          "paragraph": "C",
+          "text": "There are a few technical difficulties, but I believe in the next five to ten years we will be installing commercial marine turbine farm."
+        },
+        {
+          "number": 15,
+          "paragraph": "C",
+          "text": "Southampton has been rewarded £215,000 over three years to develop the turbines and is working with Marine Current Turbines, a subsidiary of IT power, on the Lynmouth project."
+        },
+        {
+          "number": 16,
+          "paragraph": "C",
+          "text": "EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain."
+        },
+        {
+          "number": 17,
+          "paragraph": "C",
+          "text": "The best sites are between islands or around heavily indented coasts where there are strong tidal currents."
+        },
+        {
+          "number": 18,
+          "paragraph": "D",
+          "text": "A marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power."
+        },
+        {
+          "number": 19,
+          "paragraph": "D",
+          "text": "The blades will be about 20 meters in diameter, so around 30 meters of water is required."
+        },
+        {
+          "number": 20,
+          "paragraph": "D",
+          "text": "Unlike wind power, there are unlikely to be environmental objections."
+        },
+        {
+          "number": 21,
+          "paragraph": "D",
+          "text": "Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades."
+        },
+        {
+          "number": 22,
+          "paragraph": "D",
+          "text": "Each turbine will be mounted on a tower which will connect to the national power supply grid via underwater cables."
+        },
+        {
+          "number": 23,
+          "paragraph": "D",
+          "text": "The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades."
+        },
+        {
+          "number": 24,
+          "paragraph": "E",
+          "text": "Dr Bahaj has done most work on the Alderney site, where there are powerful currents."
+        },
+        {
+          "number": 25,
+          "paragraph": "E",
+          "text": "The single undersea turbine farm would produce far more power than needed for the Channel Isalands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel."
+        },
+        {
+          "number": 26,
+          "paragraph": "F",
+          "text": "One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles."
+        },
+        {
+          "number": 27,
+          "paragraph": "F",
+          "text": "These can cause vibration and damage the blades of the turbines."
+        },
+        {
+          "number": 28,
+          "paragraph": "F",
+          "text": "Dr Bahaj said: ‘We have to test a number of blade types to avoid this happening or at least make sure it does not damage the turbines or reduce performance."
+        },
+        {
+          "number": 29,
+          "paragraph": "F",
+          "text": "Another slight concern is submerged debris floating into the blades."
+        },
+        {
+          "number": 30,
+          "paragraph": "F",
+          "text": "So far we do not know how much of a problem it might be."
+        },
+        {
+          "number": 31,
+          "paragraph": "F",
+          "text": "We will have to make the turbines robust because the sea is a hostile environment, but all the signs that we can do it are good."
+        }
+      ]
+    },
+    {
+      "passage": 3,
+      "title": "Information theory — the big idea",
+      "subtitle": "Information theory lies at the heart of everything—from DVD players and the genetic code of DNA to the physics of the universe at its most fundamental. It has been central t the development of the science of communication, which enables data to be sent electronically and has therefore had a major impact on our lives",
+      "instruction": "You should spend about 20 minutes on Questions 27—40, which are based on Reading Passage 3 below.",
+      "sourcePages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "bodyPages": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "questionPages": [
+        77,
+        78,
+        79
+      ],
+      "bodyParagraphs": [
+        "Information theory lies at the heart of everything—from DVD players and the genetic code of DNA to the physics of the universe at its most fundamental. It has been central t the development of the science of communication, which enables data to be sent electronically and has therefore had a major impact on our lives",
+        {
+          "label": "A",
+          "text": "In April 2002 an event took place which demonstrated one of the many applications of information theory. The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars. After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever. The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12 billion kilometers from Earth, this was not an easy task. By means of a radio dish belonging to NASA’s Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet, incredibly, the little probe managed to hear the faint call from its home planet and successfully made the switchover."
+        },
+        {
+          "label": "B",
+          "text": "It was the longest-distance repair job history, and a triumph for the NASA engineers. But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student. While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim. In the 1940s, he singe-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes— any area, in short, where data has to be conveyed rapidly yet accurately."
+        },
+        {
+          "label": "C",
+          "text": "This all seems light years away from the down-to earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939. He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’. The most basic form of information, Shannon argued, is whether something is true or false—which can be captured in the binary unit, or ‘bit’, of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transit it from place to place. In the process he discovered something surprising: it is always possible to guarantee information will get through random interference—‘noise’—intact."
+        },
+        {
+          "label": "D",
+          "text": "Noise usually means unwanted sounds which interfere with genuine information. Information theory generalizes this idea via theorems that capture the effects of noise with mathematical precise. In particular,Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free. This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’). The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level. The trick, Shannon showed, is to find ways of packaging up—‘coding’—information to cope with the ravages of noise, while staying within the information-carrying capacity—‘bandwidth’—of the communication system being used."
+        },
+        {
+          "label": "E",
+          "text": "Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats. The voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000—and stunningly clear pictures of the planets. Other codes have become part of everyday life—such as the Universal Product Code, or bar code. Which uses a simple error—detecting systems that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps. As recently as 1993, engineers made a major breakthrough by discovering so-called turbo—which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution."
+        },
+        {
+          "label": "F",
+          "text": "Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous (‘redundant’) bits from data which contributed little real information. As mobile phone text messages like ‘ I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning. As with error correction, however, there’s a limit beyond which message become too ambiguous. Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space."
+        }
+      ],
+      "questionRange": "27-40",
+      "images": [],
+      "sentenceUnits": [
+        {
+          "number": 1,
+          "paragraph": 1,
+          "text": "Information theory lies at the heart of everything—from DVD players and the genetic code of DNA to the physics of the universe at its most fundamental."
+        },
+        {
+          "number": 2,
+          "paragraph": 1,
+          "text": "It has been central t the development of the science of communication, which enables data to be sent electronically and has therefore had a major impact on our lives"
+        },
+        {
+          "number": 3,
+          "paragraph": "A",
+          "text": "In April 2002 an event took place which demonstrated one of the many applications of information theory."
+        },
+        {
+          "number": 4,
+          "paragraph": "A",
+          "text": "The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars."
+        },
+        {
+          "number": 5,
+          "paragraph": "A",
+          "text": "After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age."
+        },
+        {
+          "number": 6,
+          "paragraph": "A",
+          "text": "Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever."
+        },
+        {
+          "number": 7,
+          "paragraph": "A",
+          "text": "The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts."
+        },
+        {
+          "number": 8,
+          "paragraph": "A",
+          "text": "With the probe 12 billion kilometers from Earth, this was not an easy task."
+        },
+        {
+          "number": 9,
+          "paragraph": "A",
+          "text": "By means of a radio dish belonging to NASA’s Deep Space Network, the message was sent out into the depths of space."
+        },
+        {
+          "number": 10,
+          "paragraph": "A",
+          "text": "Even travelling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto."
+        },
+        {
+          "number": 11,
+          "paragraph": "A",
+          "text": "Yet, incredibly, the little probe managed to hear the faint call from its home planet and successfully made the switchover."
+        },
+        {
+          "number": 12,
+          "paragraph": "B",
+          "text": "It was the longest-distance repair job history, and a triumph for the NASA engineers."
+        },
+        {
+          "number": 13,
+          "paragraph": "B",
+          "text": "But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier."
+        },
+        {
+          "number": 14,
+          "paragraph": "B",
+          "text": "Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student."
+        },
+        {
+          "number": 15,
+          "paragraph": "B",
+          "text": "While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim."
+        },
+        {
+          "number": 16,
+          "paragraph": "B",
+          "text": "In the 1940s, he singe-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes— any area, in short, where data has to be conveyed rapidly yet accurately."
+        },
+        {
+          "number": 17,
+          "paragraph": "C",
+          "text": "This all seems light years away from the down-to earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939."
+        },
+        {
+          "number": 18,
+          "paragraph": "C",
+          "text": "He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’."
+        },
+        {
+          "number": 19,
+          "paragraph": "C",
+          "text": "The most basic form of information, Shannon argued, is whether something is true or false—which can be captured in the binary unit, or ‘bit’, of the form 1 or 0."
+        },
+        {
+          "number": 20,
+          "paragraph": "C",
+          "text": "Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transit it from place to place."
+        },
+        {
+          "number": 21,
+          "paragraph": "C",
+          "text": "In the process he discovered something surprising: it is always possible to guarantee information will get through random interference—‘noise’—intact."
+        },
+        {
+          "number": 22,
+          "paragraph": "D",
+          "text": "Noise usually means unwanted sounds which interfere with genuine information."
+        },
+        {
+          "number": 23,
+          "paragraph": "D",
+          "text": "Information theory generalizes this idea via theorems that capture the effects of noise with mathematical precise."
+        },
+        {
+          "number": 24,
+          "paragraph": "D",
+          "text": "In particular,Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free."
+        },
+        {
+          "number": 25,
+          "paragraph": "D",
+          "text": "This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’)."
+        },
+        {
+          "number": 26,
+          "paragraph": "D",
+          "text": "The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level."
+        },
+        {
+          "number": 27,
+          "paragraph": "D",
+          "text": "The trick, Shannon showed, is to find ways of packaging up—‘coding’—information to cope with the ravages of noise, while staying within the information-carrying capacity—‘bandwidth’—of the communication system being used."
+        },
+        {
+          "number": 28,
+          "paragraph": "E",
+          "text": "Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats."
+        },
+        {
+          "number": 29,
+          "paragraph": "E",
+          "text": "The voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000—and stunningly clear pictures of the planets."
+        },
+        {
+          "number": 30,
+          "paragraph": "E",
+          "text": "Other codes have become part of everyday life—such as the Universal Product Code, or bar code."
+        },
+        {
+          "number": 31,
+          "paragraph": "E",
+          "text": "Which uses a simple error—detecting systems that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps."
+        },
+        {
+          "number": 32,
+          "paragraph": "E",
+          "text": "As recently as 1993, engineers made a major breakthrough by discovering so-called turbo—which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution."
+        },
+        {
+          "number": 33,
+          "paragraph": "F",
+          "text": "Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous (‘redundant’) bits from data which contributed little real information."
+        },
+        {
+          "number": 34,
+          "paragraph": "F",
+          "text": "As mobile phone text messages like ‘ I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning."
+        },
+        {
+          "number": 35,
+          "paragraph": "F",
+          "text": "As with error correction, however, there’s a limit beyond which message become too ambiguous."
+        },
+        {
+          "number": 36,
+          "paragraph": "F",
+          "text": "Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space."
+        }
+      ]
+    }
+  ],
+  "questionGroups": [
+    {
+      "passage": 1,
+      "range": "1-8",
+      "displayTitle": "Question 1—8",
+      "type": "yes_no_not_given",
+      "pages": [
+        66,
+        67
+      ],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 1?",
+        "In boxes 1—8 on your answer sheet, write"
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALES",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompts": {
+        "1": "There are understandable reasons why arguments occur about language.",
+        "2": "People feel more strongly about language education than about small differences in language usage.",
+        "3": "our assessment of a person’s intelligence is affected by the way he or she uses language.",
+        "4": "Prescriptive grammar books cost a lot of money to buy in the 18th century.",
+        "5": "Prescriptivism still exists today.",
+        "6": "According to descriptivist it is pointless to try to stop language change.",
+        "7": "Descriptivism only appeared after the 18th century.",
+        "8": "Both descriptivists and prescriptivists have been misrepresented."
+      }
+    },
+    {
+      "passage": 1,
+      "range": "9-12",
+      "displayTitle": "Question 9-12",
+      "type": "summary_completion_options",
+      "pages": [
+        67
+      ],
+      "instructions": [
+        "Complete the summary using the list of words, A—I, below.",
+        "Write the correct letter, A—I, in boxes 9—12 on your answer sheet."
+      ],
+      "templateTitle": "The language debate",
+      "options": [
+        {
+          "label": "A",
+          "text": "descriptivists"
+        },
+        {
+          "label": "B",
+          "text": "language experts"
+        },
+        {
+          "label": "C",
+          "text": "popular speech"
+        },
+        {
+          "label": "D",
+          "text": "formal language"
+        },
+        {
+          "label": "E",
+          "text": "evaluation"
+        },
+        {
+          "label": "F",
+          "text": "rules"
+        },
+        {
+          "label": "G",
+          "text": "modern linguists"
+        },
+        {
+          "label": "H",
+          "text": "prescriptivists"
+        },
+        {
+          "label": "I",
+          "text": "change"
+        }
+      ],
+      "prompts": {
+        "9": "According to 9……………., there is only one correct form of language.",
+        "10": "Linguists who take this approach to language place great importance on grammatical 10……………. .",
+        "11": "Conversely, the view of 11……………., such as Joseph Priestley, is that grammar should be based on 12…………….",
+        "12": "grammar should be based on 12……………."
+      }
+    },
+    {
+      "passage": 1,
+      "range": "13",
+      "displayTitle": "Question 13",
+      "type": "multiple_choice",
+      "pages": [
+        67,
+        68
+      ],
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in box 13 on your answer sheet."
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "to argue in favour of a particular approach to writing dictionaries and grammar books"
+        },
+        {
+          "label": "B",
+          "text": "to present a historical account of differing views of language"
+        },
+        {
+          "label": "C",
+          "text": "to describe the differences between spoken and written language"
+        },
+        {
+          "label": "D",
+          "text": "to show how a certain view of language has been discredited."
+        }
+      ],
+      "prompts": {
+        "13": "What is the writer’s purpose in Reading Passage 1?"
+      }
+    },
+    {
+      "passage": 2,
+      "range": "14-17",
+      "displayTitle": "Question14-17",
+      "type": "matching_information",
+      "pages": [
+        72
+      ],
+      "instructions": [
+        "Reading Passage 2 has six paragraphs, A—F.",
+        "Which paragraph contains the following information?",
+        "Write the correct letter, A—F, in boxes 14—17 on your answer sheet.",
+        "NB You may use any letter more than once."
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        }
+      ],
+      "prompts": {
+        "14": "The location of the first test site",
+        "15": "a way of bringing the power produced on one site back into Britain",
+        "16": "a reference to a previous attempt by Britain to find an alternative source of energy",
+        "17": "mention of the possibility of applying technology from another industry"
+      }
+    },
+    {
+      "passage": 2,
+      "range": "18-22",
+      "displayTitle": "Question18-22",
+      "type": "multiple_choice_multiple_answer",
+      "pages": [
+        72,
+        73
+      ],
+      "instructions": [
+        "Choose FIVE letters, A—J.",
+        "Write the correct letters in boxes 18—22 on your answer sheet.",
+        "Which FIVE of the following claims about tidal power are made by the writer?"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a more reliable source of energy than wind power."
+        },
+        {
+          "label": "B",
+          "text": "It would replace all other forms of energy in Britain"
+        },
+        {
+          "label": "C",
+          "text": "Its introduction has come as a result of public pressure."
+        },
+        {
+          "label": "D",
+          "text": "It would cut down on air pollution."
+        },
+        {
+          "label": "E",
+          "text": "It could contribute to the closure of many existing power stations in Britain."
+        },
+        {
+          "label": "F",
+          "text": "It could be a means of increasing national income."
+        },
+        {
+          "label": "G",
+          "text": "It could face a lot of resistance from other fuel industries."
+        },
+        {
+          "label": "H",
+          "text": "It could be sold more cheaply than any other type of fuel."
+        },
+        {
+          "label": "I",
+          "text": "It could compensate for the shortage of inland sites for energy production."
+        },
+        {
+          "label": "J",
+          "text": "It is best produced in the vicinity of coastlines with particular features."
+        }
+      ],
+      "prompts": {
+        "18": "Which FIVE of the following claims about tidal power are made by the writer?",
+        "19": "Which FIVE of the following claims about tidal power are made by the writer?",
+        "20": "Which FIVE of the following claims about tidal power are made by the writer?",
+        "21": "Which FIVE of the following claims about tidal power are made by the writer?",
+        "22": "Which FIVE of the following claims about tidal power are made by the writer?"
+      }
+    },
+    {
+      "passage": 2,
+      "range": "23-26",
+      "displayTitle": "Question 23—26",
+      "type": "diagram_label_completion",
+      "pages": [
+        73
+      ],
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "instructions": [
+        "Label the diagram below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 23—26 on your answer sheet."
+      ],
+      "diagramPath": "data/generated/intensive-reading/cambridge-07-09/assets/cambridge-ielts-09-test-03-passage-02-tidal-turbine-diagram.png",
+      "prompts": {
+        "23": "Whole tower can be raised for 23 ______________ and the extraction of seaweed from the blades",
+        "24": "Sea life not in danger due to the fact that blades are comparatively 24 ______________",
+        "25": "Air bubbles result from the 25 ______________ behind blades.",
+        "26": "This is known as 26 ______________"
+      }
+    },
+    {
+      "passage": 3,
+      "range": "27-32",
+      "displayTitle": "Question27-32",
+      "type": "matching_information",
+      "pages": [
+        77
+      ],
+      "instructions": [
+        "Reading Passage 3 has six paragraphs, A—F.",
+        "Which paragraph contains the following information?",
+        "Write the correct letter, A—F, in boxes 27—32 on your answer sheet."
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "Paragraph A"
+        },
+        {
+          "label": "B",
+          "text": "Paragraph B"
+        },
+        {
+          "label": "C",
+          "text": "Paragraph C"
+        },
+        {
+          "label": "D",
+          "text": "Paragraph D"
+        },
+        {
+          "label": "E",
+          "text": "Paragraph E"
+        },
+        {
+          "label": "F",
+          "text": "Paragraph F"
+        }
+      ],
+      "prompts": {
+        "27": "an explanation of the factors affecting the transmission of the information",
+        "28": "an example of how unnecessary information can be omitted",
+        "29": "a reference to Shannon’s attitude to fame",
+        "30": "details of a machine capable of interpreting incomplete information",
+        "31": "a detailed account of an incident involving information theory",
+        "32": "a reference to what Shannon initially intended to achieve in his research"
+      }
+    },
+    {
+      "passage": 3,
+      "range": "33-37",
+      "displayTitle": "Question33-37",
+      "type": "note_completion",
+      "pages": [
+        78
+      ],
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "instructions": [
+        "Complete the notes below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 33—37 on your answer sheet."
+      ],
+      "templateTitle": "The Voyager 1 Space Probe",
+      "prompts": {
+        "33": "The probe transmitted pictures of both 33…………………and …………………….,",
+        "34": "then left the 34…………………..",
+        "35": "Scientists feared that both the 35…………………and ………………..were about to stop working.",
+        "36": "The only hope was to tell the probe to replace them with 36…………….—but distance made communication with probe difficult.",
+        "37": "A 37………………..was used to transmit the message at the speed of light."
+      }
+    },
+    {
+      "passage": 3,
+      "range": "38-40",
+      "displayTitle": "Question38-40",
+      "type": "true_false_not_given",
+      "pages": [
+        79
+      ],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 3?",
+        "In boxes 38—40 on your answer sheet, write"
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALES",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompts": {
+        "38": "The concept of describing something as true or false was the starting point for Shannon in his attempts to send message over distances.",
+        "39": "The amount of information that can be sent in a given time period is determined with reference to the signal strength and poise level.",
+        "40": "Products have now been developed which can convey more information than Shannon had anticipated as possible."
+      }
+    }
+  ],
+  "answers": {
+    "1": {
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES",
+        "TRUE"
+      ]
+    },
+    "2": {
+      "answer": "NO",
+      "acceptedAnswers": [
+        "NO",
+        "FALSE",
+        "FALES"
+      ]
+    },
+    "3": {
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES",
+        "TRUE"
+      ]
+    },
+    "4": {
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ]
+    },
+    "5": {
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES",
+        "TRUE"
+      ]
+    },
+    "6": {
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES",
+        "TRUE"
+      ]
+    },
+    "7": {
+      "answer": "NO",
+      "acceptedAnswers": [
+        "NO",
+        "FALSE",
+        "FALES"
+      ]
+    },
+    "8": {
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES",
+        "TRUE"
+      ]
+    },
+    "9": {
+      "answer": "H",
+      "acceptedAnswers": [
+        "H"
+      ]
+    },
+    "10": {
+      "answer": "F",
+      "acceptedAnswers": [
+        "F"
+      ]
+    },
+    "11": {
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    "12": {
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    "13": {
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    "14": {
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    "15": {
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ]
+    },
+    "16": {
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    "17": {
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    "18": {
+      "answer": "A",
+      "acceptedAnswers": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "answerItems": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "scoringNote": "IN ANY ORDER"
+    },
+    "19": {
+      "answer": "D",
+      "acceptedAnswers": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "answerItems": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "scoringNote": "IN ANY ORDER"
+    },
+    "20": {
+      "answer": "E",
+      "acceptedAnswers": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "answerItems": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "scoringNote": "IN ANY ORDER"
+    },
+    "21": {
+      "answer": "F",
+      "acceptedAnswers": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "answerItems": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "scoringNote": "IN ANY ORDER"
+    },
+    "22": {
+      "answer": "J",
+      "acceptedAnswers": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "answerItems": [
+        "A",
+        "D",
+        "E",
+        "F",
+        "J"
+      ],
+      "scoringNote": "IN ANY ORDER"
+    },
+    "23": {
+      "answer": "maintenance",
+      "acceptedAnswers": [
+        "maintenance"
+      ]
+    },
+    "24": {
+      "answer": "slow (turning)",
+      "acceptedAnswers": [
+        "slow",
+        "slow turning",
+        "slow-turning"
+      ]
+    },
+    "25": {
+      "answer": "low pressure",
+      "acceptedAnswers": [
+        "low pressure"
+      ]
+    },
+    "26": {
+      "answer": "cavitation",
+      "acceptedAnswers": [
+        "cavitation"
+      ]
+    },
+    "27": {
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ]
+    },
+    "28": {
+      "answer": "F",
+      "acceptedAnswers": [
+        "F"
+      ]
+    },
+    "29": {
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ]
+    },
+    "30": {
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ]
+    },
+    "31": {
+      "answer": "A",
+      "acceptedAnswers": [
+        "A"
+      ]
+    },
+    "32": {
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ]
+    },
+    "33": {
+      "answer": "Jupiter; Saturn",
+      "acceptedAnswers": [
+        "Jupiter; Saturn",
+        "Saturn; Jupiter"
+      ],
+      "answerItems": [
+        "Jupiter",
+        "Saturn"
+      ],
+      "scoringNote": "IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK"
+    },
+    "34": {
+      "answer": "Solar System",
+      "acceptedAnswers": [
+        "Solar System"
+      ]
+    },
+    "35": {
+      "answer": "sensors; circuits",
+      "acceptedAnswers": [
+        "sensors; circuits",
+        "circuits; sensors"
+      ],
+      "answerItems": [
+        "sensors",
+        "circuits"
+      ],
+      "scoringNote": "IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK"
+    },
+    "36": {
+      "answer": "spares",
+      "acceptedAnswers": [
+        "spares"
+      ]
+    },
+    "37": {
+      "answer": "radio dish",
+      "acceptedAnswers": [
+        "radio dish"
+      ]
+    },
+    "38": {
+      "answer": "TRUE",
+      "acceptedAnswers": [
+        "TRUE"
+      ]
+    },
+    "39": {
+      "answer": "TRUE",
+      "acceptedAnswers": [
+        "TRUE"
+      ]
+    },
+    "40": {
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ]
+    }
+  },
+  "evidence": {
+    "1": "Language belongs to everyone, so most people feel they have a right to hold an option about it.",
+    "2": "Arguments can start as easily over minor points of usage as over major policies of linguistic education.",
+    "3": "Linguistic factors influence how we judge personality, intelligence, social status, educational standards, job aptitude, and many other areas of identity and social survival.",
+    "4": "The aims of these early grammarians were threefold: (a) they wanted to codify the principles of their languages, to show that there was a system beneath the apparent chaos of usage; (b) they wanted a means of settling disputes over usage, and (c) they wanted to point out what they felt to be common errors, in order to ‘improve’ the language.",
+    "5": "These attitudes are still with us, and they motivate a widespread concern that linguistic standards should be maintained.",
+    "6": "This approach is summarized in the statement that it is the task of the grammarian to describe, not prescribe—to record the facts of linguistic diversity, and not to attempt the impossible tasks of evaluating language variation or halting language change.",
+    "7": "In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language’.",
+    "8": "Descriptive grammarians have been presented as people who do not care about standards, because of the way they see all forms of usage as equally valid. Prescriptive grammarians have been presented as blind adherents to a historical tradition.",
+    "9": "In its most general sense, prescriptivism is the view that one variety of language has an inherently higher value than others and that this ought to be imposed on the whole of the speech community.",
+    "10": "The authoritarian nature of the approach is best characterized by its reliance on ‘rules’ of grammar.",
+    "11": "Nevertheless, there is an alternative point of view that is concerned less with standards than with the facts of linguistic usage.",
+    "12": "In the second half of the 18th century, we already find advocates of this view, such as Joseph Priestley, whose Rudiments of English Grammar (1761) insists that ‘the custom of speaking is the original and only just standard of any language’.",
+    "13": "In our own time, the opposition between ‘descriptivists’ and ‘prescriptivists’ has often become extreme, with both sides painting unreal pictures of the other.",
+    "14": "The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union.",
+    "15": "The single undersea turbine farm would produce far more power than needed for the Channel Isalands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel.",
+    "16": "Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand.",
+    "17": "The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers.",
+    "18": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships propellers, but, unlike wind, the tides are predictable and the power input is constant.",
+    "19": "The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions.",
+    "20": "If tide, wind and wave-power are all developed, Britain would be able to close gas, coal and nuclear plants and export renewable power to other parts of Europe.",
+    "21": "Unlike wind power which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand.",
+    "22": "The best sites are between islands or around heavily indented coasts where there are strong tidal currents.",
+    "23": "The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades.",
+    "24": "Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades.",
+    "25": "One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.",
+    "26": "One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles.",
+    "27": "This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’).",
+    "28": "As mobile phone text messages like ‘ I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning.",
+    "29": "While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim.",
+    "30": "Which uses a simple error—detecting systems that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps.",
+    "31": "In April 2002 an event took place which demonstrated one of the many applications of information theory.",
+    "32": "He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’.",
+    "33": "The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars.",
+    "34": "The space probe Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars.",
+    "35": "Sensors and circuits were on the brink of failing and NASA experts realized that they had to do something or lose contact with their probe forever.",
+    "36": "The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts.",
+    "37": "By means of a radio dish belonging to NASA’s Deep Space Network, the message was sent out into the depths of space.",
+    "38": "He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’. The most basic form of information, Shannon argued, is whether something is true or false—which can be captured in the binary unit, or ‘bit’, of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transit it from place to place. In the process he discovered something surprising: it is always possible to guarantee information will get through random interference—‘noise’—intact.",
+    "39": "This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’).",
+    "40": "As recently as 1993, engineers made a major breakthrough by discovering so-called turbo—which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution."
+  },
+  "evidenceLocations": {
+    "1": "Passage 1, paragraph 1, physical page 64",
+    "2": "Passage 1, paragraph 1, physical page 64",
+    "3": "Passage 1, paragraph 2, physical page 64",
+    "4": "Passage 1, paragraph 4, physical page 65 (cost is not stated)",
+    "5": "Passage 1, paragraph 5, physical page 65",
+    "6": "Passage 1, paragraph 5, physical page 65",
+    "7": "Passage 1, paragraph 5, physical pages 65–66",
+    "8": "Passage 1, paragraph 6, physical page 66",
+    "9": "Passage 1, paragraph 3, physical pages 64–65",
+    "10": "Passage 1, paragraph 4, physical page 65",
+    "11": "Passage 1, paragraph 5, physical page 65",
+    "12": "Passage 1, paragraph 5, physical pages 65–66",
+    "13": "Passage 1 overall, paragraphs 3–6, physical pages 64–66",
+    "14": "Passage 2, paragraph C, physical page 70",
+    "15": "Passage 2, paragraph E, physical page 71",
+    "16": "Passage 2, paragraph A, physical page 69",
+    "17": "Passage 2, paragraph C, physical page 70",
+    "18": "Passage 2, paragraph A, physical page 69",
+    "19": "Passage 2, paragraph A, physical page 69",
+    "20": "Passage 2, paragraph A, physical page 69",
+    "21": "Passage 2, paragraph A, physical page 69",
+    "22": "Passage 2, paragraph C, physical pages 70–71",
+    "23": "Passage 2, paragraph D, physical page 71",
+    "24": "Passage 2, paragraph D, physical page 71",
+    "25": "Passage 2, paragraph F, physical page 71",
+    "26": "Passage 2, paragraph F, physical page 71",
+    "27": "Passage 3, paragraph D, physical page 76",
+    "28": "Passage 3, paragraph F, physical page 77",
+    "29": "Passage 3, paragraph B, physical page 75",
+    "30": "Passage 3, paragraph E, physical page 76",
+    "31": "Passage 3, paragraph A, physical page 74",
+    "32": "Passage 3, paragraph C, physical page 75",
+    "33": "Passage 3, paragraph A, physical page 74",
+    "34": "Passage 3, paragraph A, physical page 74",
+    "35": "Passage 3, paragraph A, physical page 74",
+    "36": "Passage 3, paragraph A, physical page 74",
+    "37": "Passage 3, paragraph A, physical page 74",
+    "38": "Passage 3, paragraph C, sentences 18—21, physical page 75",
+    "39": "Passage 3, paragraph D, physical page 76",
+    "40": "Passage 3, paragraph E, physical page 76"
+  },
+  "distractors": {
+    "1": "The passage explicitly gives shared ownership of language and emotional disagreement as reasons; this is not an inference from outside knowledge.",
+    "2": "The writer says arguments start as easily over minor usage as over major education policy, so “more strongly” reverses the comparison.",
+    "3": "The explicit list says language affects judgments of intelligence.",
+    "4": "The passage describes eighteenth-century grammar aims but gives no purchase price.",
+    "5": "“These attitudes are still with us” directly rejects the idea that prescriptivism disappeared.",
+    "6": "The descriptivist task excludes attempting the impossible task of halting change.",
+    "7": "Advocates already existed in the second half of the eighteenth century, so “only after” is false.",
+    "8": "Both schools are said to have been presented in unreal or distorted ways.",
+    "9": "Only prescriptivism asserts one inherently superior variety.",
+    "10": "The prescriptive approach relies on rules, not evaluation or change.",
+    "11": "Priestley is introduced as an advocate of the descriptive alternative.",
+    "12": "Priestley bases the standard on custom of speaking, i.e. popular speech.",
+    "13": "The passage presents the historical development and later polarization of two views; it does not endorse one, compare media, or show one wholly discredited.",
+    "14": "Paragraph C alone names the first station and Lynmouth test location.",
+    "15": "Paragraph E explains the Channel cable and re-importation; other sites only discuss generation.",
+    "16": "Paragraph A mentions Britain’s earlier wind-power development and abandonment.",
+    "17": "Paragraph C names technology from the North Sea oil industry and wind/ship propellers.",
+    "18": "A is supported by predictable, constant tides; H overstates the price comparison.",
+    "19": "D follows directly from reduced carbon-dioxide emissions; C public pressure is absent.",
+    "20": "E is supported conditionally by closing gas, coal and nuclear plants; B wrongly says tidal power alone replaces all energy.",
+    "21": "F is supported by “big export earner”; G resistance from fuel industries is not stated.",
+    "22": "J matches islands and heavily indented coasts; I invents a shortage of inland sites.",
+    "23": "The tower is lifted for maintenance and seaweed removal; “shipping” is warned by lights, not the reason for raising it.",
+    "24": "The blades are relatively slow-turning, not small or shallow.",
+    "25": "The text identifies low pressure as the cause of air bubbles.",
+    "26": "Cavitation names the low-pressure bubble phenomenon, not vibration.",
+    "27": "Paragraph D lists signal/noise strength and channel capacity; other paragraphs give applications.",
+    "28": "The abbreviated text-message example shows omitted redundant information.",
+    "29": "“shunned the resulting acclaim” gives Shannon’s attitude to fame.",
+    "30": "The bar-code laser reads a crumpled label despite incomplete/corrupted information.",
+    "31": "Paragraph A narrates the Voyager incident in detail.",
+    "32": "Paragraph C states Shannon’s original simple aim to define information precisely.",
+    "33": "Both planet names are required; one name alone does not earn the mark.",
+    "34": "The probe left the Solar System, not merely Earth or Pluto’s orbit.",
+    "35": "Both sensors and circuits are required; “failing parts” is too general.",
+    "36": "Spares are the replacement parts; the radio dish carries the message.",
+    "37": "The radio dish sent the message; the Deep Space Network is its owner.",
+    "38": "True/false as a binary bit was Shannon’s conceptual starting point for defining and transmitting information.",
+    "39": "The printed question says “poise level”, but the official key marks TRUE and the source sentence says noise level; preserve the print anomaly and official answer.",
+    "40": "Turbo methods come very close to Shannon’s limit; the passage does not say they exceed what he thought possible."
+  },
+  "visualAudit": {
+    "renderDpi": 300,
+    "manuallyInspectedPages": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      152
+    ],
+    "notes": [
+      "All body, question, option, diagram and answer text was checked against the rendered PDF.",
+      "Source anomalies including option/options, FALES, 1,2000, central t, mathematical precise, poise level and toll place are preserved.",
+      "Physical page 73 was fully retranscribed; a tight answer-bearing diagram crop is retained because spatial arrows affect Questions 23–26."
+    ]
+  }
+}

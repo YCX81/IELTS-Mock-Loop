@@ -1474,11 +1474,11 @@ because of the way they see all forms of usage as equally valid. Prescriptive
 grammarians have been presented as blind adherents to a historical tradition. The
 opposition has even been presented in quasi-political terms—of radical liberalism vs
 elitist conservatism.
-Questions 1-8
+Question 1—8
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—8 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 1 There are understandable reasons why arguments occur about language.
 2 People feel more strongly about language education than about small
@@ -1493,7 +1493,7 @@ language.
 6 According to descriptivist it is pointless to try to stop language change.
 7 Descriptivism only appeared after the 18th century.
 8 Both descriptivists and prescriptivists have been misrepresented.
-Questions 9-12
+Question 9-12
 Complete the summary using the list of words, A—I, below.
 Write the correct letter, A—I, in boxes 9—12 on your answer sheet.
 The language debate
@@ -1521,7 +1521,7 @@ D to show how a certain view of language has been discredited.
 ## Page 69
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Question 14—26, which are based on
 Reading Passage 2 below.
 Tidal Power
 Undersea turbines which produce electricity from the tides are set to become an
@@ -1593,19 +1593,19 @@ we can do it are good.
 
 ## Page 72
 
-Questions 14-17
+Question14-17
 Reading Passage 2 has six paragraphs, A—F.
 Which paragraph contains the following information?
-Write the correct letter, A—F, in boxes 14-17 on your answer sheet.
+Write the correct letter, A—F, in boxes 14—17 on your answer sheet.
 NB You may use any letter more than once.
 14 The location of the first test site
 15 a way of bringing the power produced on one site back into Britain
 16 a reference to a previous attempt by Britain to find an alternative source of
 energy
 17 mention of the possibility of applying technology from another industry
-Questions 18-22
+Question18-22
 Choose FIVE letters, A—J.
-Write the correct letters in boxes 18-22 on your answer sheet.
+Write the correct letters in boxes 18—22 on your answer sheet.
 Which FIVE of the following claims about tidal power are made by the writer?
 A It is a more reliable source of energy than wind power.
 B It would replace all other forms of energy in Britain
@@ -1615,27 +1615,27 @@ D It would cut down on air pollution.
 ## Page 73
 
 Reading
-Questions 23-26
+E It could contribute to the closure of many existing power stations in Britain.
+F It could be a means of increasing national income.
+G It could face a lot of resistance from other fuel industries.
+H It could be sold more cheaply than any other type of fuel.
+I It could compensate for the shortage of inland sites for energy production.
+J It is best produced in the vicinity of coastlines with particular features.
+Question 23—26
 Label the diagram below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
-
-Tidal power turbine diagram
-
-Label prompts:
-- Whole tower can be raised for 23 ______________ and the extraction of seaweed
-  from the blades.
-- Sea life not in danger due to the fact that blades are comparatively
-  24 ______________.
-- Air bubbles result from the 25 ______________ behind blades.
-  This is known as 26 ______________.
-
-![Cambridge IELTS 09 page 073 figure](data/generated/image-review/cambridge-ielts-09/page-073-reading-tidal-power-turbine-diagram.png)
+Write your answers in boxes 23—26 on your answer sheet.
+Whole tower can be raised for 23 ______________ and the extraction
+of seaweed from the blades
+Air bubbles result from the 25 ______________ behind blades.
+This is known as 26 ______________
+Sea life not in danger due to the fact that blades are comparatively
+24 ______________
 
 ## Page 74
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27—40, which are based on
 Reading Passage 3 below.
 Information theory — the big idea
 Information theory lies at the heart of everything—from DVD players and the genetic
@@ -1717,10 +1717,10 @@ correction, however, there’s a limit beyond which message become too
 ambiguous. Shannon showed how to calculate this limit, opening the way to the
 design of compression methods that cram maximum information into the
 minimum space.
-Questions 27-32
+Question27-32
 Reading Passage 3 has six paragraphs, A—F.
 Which paragraph contains the following information?
-Write the correct letter, A—F, in boxes 27-32 on your answer sheet.
+Write the correct letter, A—F, in boxes 27—32 on your answer sheet.
 27 an explanation of the factors affecting the transmission of the information
 28 an example of how unnecessary information can be omitted
 29 a reference to Shannon’s attitude to fame
@@ -1730,7 +1730,7 @@ Write the correct letter, A—F, in boxes 27-32 on your answer sheet.
 
 ## Page 78
 
-Questions 33-37
+Question33-37
 Complete the notes below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 33—37 on your answer sheet.
@@ -1748,11 +1748,11 @@ distance made communication with probe difficult.
 
 ## Page 79
 
-Questions 38-40
+Question38-40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38—40 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 38 The concept of describing something as true or false was the starting point for
 Shannon in his attempts to send message over distances.
@@ -3767,7 +3767,47 @@ Reading Passage 3, Questions 27–40
 
 ## Page 152
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 YES
+2 NO
+3 YES
+4 NOT GIVEN
+5 YES
+6 YES
+7 NO
+8 YES
+9 H
+10 F
+11 A
+12 C
+13 B
+Reading Passage 2, Questions 14–26
+14 C
+15 E
+16 A
+17 C
+18–22 IN ANY ORDER: A; D; E; F; J
+23 maintenance
+24 slow (turning)
+25 low pressure
+26 cavitation
+Reading Passage 3, Questions 27–40
+27 D
+28 F
+29 B
+30 E
+31 A
+32 C
+33 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: Jupiter; Saturn
+34 Solar System
+35 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: sensors; circuits
+36 spares
+37 radio dish
+38 TRUE
+39 TRUE
+40 FALSE
 ## Page 153
 
 
