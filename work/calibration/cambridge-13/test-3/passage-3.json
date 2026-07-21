@@ -1,0 +1,743 @@
+{
+  "book": 13,
+  "test": 3,
+  "passage": 3,
+  "passageNumber": 3,
+  "status": "manually_calibrated",
+  "title": "Whatever happened to the Harappan Civilisation?",
+  "subtitle": "New research sheds light on the disappearance of an ancient society",
+  "overallInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "overallInstructionZh": "你应当用大约20分钟完成第27—40题；这些题目基于下面的阅读文章3。",
+  "instructionZh": "你应当用大约20分钟完成第27—40题；这些题目基于下面的阅读文章3。",
+  "sourcePages": [
+    67,
+    68,
+    69,
+    70,
+    71
+  ],
+  "bodySourcePages": [
+    67,
+    68
+  ],
+  "questionPages": [
+    69,
+    70,
+    71
+  ],
+  "answerKeyPage": 122,
+  "bodyParagraphs": [
+    {
+      "label": "A",
+      "sourcePage": 67,
+      "sentences": [
+        "The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned.",
+        "The Harappan Civilisation was a sophisticated Bronze Age society who built ‘megacities’ and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves.",
+        "But their lack of self-imagery – at a time when the Egyptians were carving and painting representations of themselves all over their temples – is only part of the mystery."
+      ]
+    },
+    {
+      "label": "B",
+      "sourcePage": 67,
+      "sentences": [
+        "‘There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron Petrie of the University of Cambridge.",
+        "‘As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors.",
+        "Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems.",
+        "It was very much a “thriving” civilisation.’",
+        "Then around 2100 BC, a transformation began.",
+        "Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use.",
+        "After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia."
+      ]
+    },
+    {
+      "label": "C",
+      "sourcePage": 67,
+      "sentences": [
+        "Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision.",
+        "‘It is unlikely that there was a single cause for the decline of the civilisation.",
+        "But the fact is, until now, we have had little solid evidence from the area for most of the key elements,’ said Petrie.",
+        "‘A lot of the archaeological debate has really only been well-argued speculation.’"
+      ]
+    },
+    {
+      "label": "D",
+      "sourcePage": 67,
+      "sentences": [
+        "A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past.",
+        "When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres.",
+        "They realised that any attempts to use the existing data were likely to be fundamentally flawed.",
+        "Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown."
+      ]
+    },
+    {
+      "label": "E",
+      "sourcePage": 68,
+      "sentences": [
+        "Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge’s Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated.",
+        "The researchers gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region.",
+        "‘As today, the major source of water into the lake is likely to have been the summer monsoon,’ says Dixit.",
+        "‘But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall – indicative of a drought.’",
+        "Hodell adds: ‘We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.’"
+      ]
+    },
+    {
+      "label": "F",
+      "sourcePage": 68,
+      "sentences": [
+        "It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause.",
+        "While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations.",
+        "‘Considering the vast area of the Harappan Civilisation with its variable weather systems,’ explains Singh, ‘it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.’"
+      ]
+    },
+    {
+      "label": "G",
+      "sourcePage": 68,
+      "sentences": [
+        "Petrie and Singh’s team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago.",
+        "They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems.",
+        "They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas.",
+        "This gives us insight into the types of interactive networks that the population was involved in, and whether those changed."
+      ]
+    },
+    {
+      "label": "H",
+      "sourcePage": 68,
+      "sentences": [
+        "Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change.",
+        "‘By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.’"
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "number": 1,
+      "text": "The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years ago, but a thousand years later their cities were abandoned.",
+      "paragraph": "A",
+      "sourcePage": 67
+    },
+    {
+      "number": 2,
+      "text": "The Harappan Civilisation was a sophisticated Bronze Age society who built ‘megacities’ and traded internationally in luxury craft products, and yet seemed to have left almost no depictions of themselves.",
+      "paragraph": "A",
+      "sourcePage": 67
+    },
+    {
+      "number": 3,
+      "text": "But their lack of self-imagery – at a time when the Egyptians were carving and painting representations of themselves all over their temples – is only part of the mystery.",
+      "paragraph": "A",
+      "sourcePage": 67
+    },
+    {
+      "number": 4,
+      "text": "‘There is plenty of archaeological evidence to tell us about the rise of the Harappan Civilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron Petrie of the University of Cambridge.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 5,
+      "text": "‘As populations increased, cities were built that had great baths, craft workshops, palaces and halls laid out in distinct sectors.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 6,
+      "text": "Houses were arranged in blocks, with wide main streets and narrow alleyways, and many had their own wells and drainage systems.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 7,
+      "text": "It was very much a “thriving” civilisation.’",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 8,
+      "text": "Then around 2100 BC, a transformation began.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 9,
+      "text": "Streets went uncleaned, buildings started to be abandoned, and ritual structures fell out of use.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 10,
+      "text": "After their final demise, a millennium passed before really large-scale cities appeared once more in South Asia.",
+      "paragraph": "B",
+      "sourcePage": 67
+    },
+    {
+      "number": 11,
+      "text": "Some have claimed that major glacier-fed rivers changed their course, dramatically affecting the water supply and agriculture; or that the cities could not cope with an increasing population, they exhausted their resource base, the trading economy broke down or they succumbed to invasion and conflict; and yet others that climate change caused an environmental change that affected food and water provision.",
+      "paragraph": "C",
+      "sourcePage": 67
+    },
+    {
+      "number": 12,
+      "text": "‘It is unlikely that there was a single cause for the decline of the civilisation.",
+      "paragraph": "C",
+      "sourcePage": 67
+    },
+    {
+      "number": 13,
+      "text": "But the fact is, until now, we have had little solid evidence from the area for most of the key elements,’ said Petrie.",
+      "paragraph": "C",
+      "sourcePage": 67
+    },
+    {
+      "number": 14,
+      "text": "‘A lot of the archaeological debate has really only been well-argued speculation.’",
+      "paragraph": "C",
+      "sourcePage": 67
+    },
+    {
+      "number": 15,
+      "text": "A research team led by Petrie, together with Dr Ravindanath Singh of Banaras Hindu University in India, found early in their investigations that many of the archaeological sites were not where they were supposed to be, completely altering understanding of the way that this region was inhabited in the past.",
+      "paragraph": "D",
+      "sourcePage": 67
+    },
+    {
+      "number": 16,
+      "text": "When they carried out a survey of how the larger area was settled in relation to sources of water, they found inaccuracies in the published geographic locations of ancient settlements ranging from several hundred metres to many kilometres.",
+      "paragraph": "D",
+      "sourcePage": 67
+    },
+    {
+      "number": 17,
+      "text": "They realised that any attempts to use the existing data were likely to be fundamentally flawed.",
+      "paragraph": "D",
+      "sourcePage": 68
+    },
+    {
+      "number": 18,
+      "text": "Over the course of several seasons of fieldwork they carried out new surveys, finding an astonishing 198 settlement sites that were previously unknown.",
+      "paragraph": "D",
+      "sourcePage": 68
+    },
+    {
+      "number": 19,
+      "text": "Now, research published by Dr Yama Dixit and Professor David Hodell, both from Cambridge’s Department of Earth Sciences, has provided the first definitive evidence for climate change affecting the plains of north-western India, where hundreds of Harappan sites are known to have been situated.",
+      "paragraph": "E",
+      "sourcePage": 68
+    },
+    {
+      "number": 20,
+      "text": "The researchers gathered shells of Melanoides tuberculata snails from the sediments of an ancient lake and used geochemical analysis as a means of tracing the climate history of the region.",
+      "paragraph": "E",
+      "sourcePage": 68
+    },
+    {
+      "number": 21,
+      "text": "‘As today, the major source of water into the lake is likely to have been the summer monsoon,’ says Dixit.",
+      "paragraph": "E",
+      "sourcePage": 68
+    },
+    {
+      "number": 22,
+      "text": "‘But we have observed that there was an abrupt change about 4,100 years ago, when the amount of evaporation from the lake exceeded the rainfall – indicative of a drought.’",
+      "paragraph": "E",
+      "sourcePage": 68
+    },
+    {
+      "number": 23,
+      "text": "Hodell adds: ‘We estimate that the weakening of the Indian summer monsoon climate lasted about 200 years before recovering to the previous conditions, which we still see today.’",
+      "paragraph": "E",
+      "sourcePage": 68
+    },
+    {
+      "number": 24,
+      "text": "It has long been thought that other great Bronze Age civilisations also declined at a similar time, with a global-scale climate event being seen as the cause.",
+      "paragraph": "F",
+      "sourcePage": 68
+    },
+    {
+      "number": 25,
+      "text": "While it is possible that these local-scale processes were linked, the real archaeological interest lies in understanding the impact of these larger-scale events on different environments and different populations.",
+      "paragraph": "F",
+      "sourcePage": 68
+    },
+    {
+      "number": 26,
+      "text": "‘Considering the vast area of the Harappan Civilisation with its variable weather systems,’ explains Singh, ‘it is essential that we obtain more climate data from areas close to the two great cities at Mohenjodaro and Harappa and also from the Indian Punjab.’",
+      "paragraph": "F",
+      "sourcePage": 68
+    },
+    {
+      "number": 27,
+      "text": "Petrie and Singh’s team is now examining archaeological records and trying to understand details of how people led their lives in the region five millennia ago.",
+      "paragraph": "G",
+      "sourcePage": 68
+    },
+    {
+      "number": 28,
+      "text": "They are analysing grains cultivated at the time, and trying to work out whether they were grown under extreme conditions of water stress, and whether they were adjusting the combinations of crops they were growing for different weather systems.",
+      "paragraph": "G",
+      "sourcePage": 68
+    },
+    {
+      "number": 29,
+      "text": "They are also looking at whether the types of pottery used, and other aspects of their material culture, were distinctive to specific regions or were more similar across larger areas.",
+      "paragraph": "G",
+      "sourcePage": 68
+    },
+    {
+      "number": 30,
+      "text": "This gives us insight into the types of interactive networks that the population was involved in, and whether those changed.",
+      "paragraph": "G",
+      "sourcePage": 68
+    },
+    {
+      "number": 31,
+      "text": "Petrie believes that archaeologists are in a unique position to investigate how past societies responded to environmental and climatic change.",
+      "paragraph": "H",
+      "sourcePage": 68
+    },
+    {
+      "number": 32,
+      "text": "‘By investigating responses to environmental pressures and threats, we can learn from the past to engage with the public, and the relevant governmental and administrative bodies, to be more proactive in issues such as the management and administration of water supply, the balance of urban and rural development, and the importance of preserving cultural heritage in the future.’",
+      "paragraph": "H",
+      "sourcePage": 68
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "27–31",
+      "type": "matching_paragraphs",
+      "instruction": "Reading Passage 3 has eight paragraphs, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 27–31 on your answer sheet. NB You may use any letter more than once.",
+      "instructionZh": "阅读文章3共有A—H八段。判断下列信息出现在哪一段，把正确字母A—H写在答题纸第27—31格；同一字母可以使用多次。",
+      "labels": {
+        "A": "The civilisation’s prosperity and unusual lack of self-images",
+        "B": "Urban design and the beginning of decline",
+        "C": "Proposed causes but little firm evidence",
+        "D": "Correcting inaccurate archaeological locations",
+        "E": "Definitive lake evidence of drought",
+        "F": "Need for more local climate data",
+        "G": "Research into crops, pottery and networks",
+        "H": "Modern lessons from past responses"
+      },
+      "labelTranslations": {
+        "A": "文明的繁荣及不同寻常的自我图像缺失",
+        "B": "城市设计与衰落开端",
+        "C": "各种衰落假说与坚实证据不足",
+        "D": "纠正考古地点位置错误",
+        "E": "湖泊材料提供的干旱确证",
+        "F": "需要更多当地气候数据",
+        "G": "对作物、陶器和网络的研究",
+        "H": "从过去应对方式中提炼现代启示"
+      },
+      "questions": [
+        {
+          "number": 27,
+          "prompt": "proposed explanations for the decline of the Harappan Civilisation",
+          "promptZh": "关于哈拉帕文明衰落原因的若干解释",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C"
+          ],
+          "evidence": "Some have claimed that ...; or that ...; and yet others that climate change ...",
+          "location": "Paragraph C, sentence 11",
+          "distractors": "A describes Harappan prosperity and the absence of self-imagery, not explanations for decline; B describes urban features and the symptoms of decline, not proposed causes; D reports corrections to settlement locations; E provides one later piece of climate evidence rather than the list of proposed explanations; F calls for more local climate data; G outlines research into crops, pottery and interaction networks; H gives present-day applications of lessons from the past."
+        },
+        {
+          "number": 28,
+          "prompt": "reference to a present-day application of some archaeological research findings",
+          "promptZh": "提到某些考古研究发现的当代应用",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H"
+          ],
+          "evidence": "we can learn from the past ... to be more proactive in issues such as the management and administration of water supply",
+          "location": "Paragraph H, sentence 32",
+          "distractors": "A describes the civilisation's achievements and lack of self-imagery; B describes urban design and the beginning of decline; C lists hypotheses for the decline; D corrects published settlement locations; E presents lake-based climate evidence; F calls for more local climate data; G describes research into crops, pottery and interaction networks. Only H explains how archaeological lessons can guide present-day public administration."
+        },
+        {
+          "number": 29,
+          "prompt": "a difference between the Harappan Civilisation and another culture of the same period",
+          "promptZh": "哈拉帕文明与同一时期另一文化之间的一项差异",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "evidence": "their lack of self-imagery – at a time when the Egyptians were carving and painting representations of themselves",
+          "location": "Paragraph A, sentence 3",
+          "distractors": "B describes Harappan urban design without comparing it with another culture; C lists decline hypotheses; D concerns errors in settlement locations; E presents climate evidence; F discusses the need for more climate data; G studies Harappan crops, pottery and networks; H draws modern lessons. Only A explicitly contrasts the Harappans with the contemporary Egyptians."
+        },
+        {
+          "number": 30,
+          "prompt": "a description of some features of Harappan urban design",
+          "promptZh": "对哈拉帕城市设计若干特征的描述",
+          "answer": "B",
+          "acceptableAnswers": [
+            "B"
+          ],
+          "evidence": "great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways",
+          "location": "Paragraph B, sentences 5–6",
+          "distractors": "A mentions megacities but gives no internal design details; C lists explanations for decline; D concerns the geographic locations of settlements, not their internal layout; E presents lake-based climate evidence; F calls for more local climate data; G concerns crops, pottery and interaction networks; H discusses present-day applications."
+        },
+        {
+          "number": 31,
+          "prompt": "reference to the discovery of errors made by previous archaeologists",
+          "promptZh": "提到发现以往考古学家所犯的错误",
+          "answer": "D",
+          "acceptableAnswers": [
+            "D"
+          ],
+          "evidence": "they found inaccuracies in the published geographic locations of ancient settlements",
+          "location": "Paragraph D, sentence 16",
+          "distractors": "A describes prosperity and the absence of self-imagery; B notes that little is known about the fall but identifies no earlier archaeological error; C calls earlier explanations speculation but does not identify mapped-location errors; E presents new climate evidence; F calls for more local climate data; G outlines ongoing research; H discusses lessons for present policy. Only D explicitly reports inaccuracies in previously published settlement locations."
+        }
+      ]
+    },
+    {
+      "range": "32–36",
+      "type": "summary_completion",
+      "title": "Looking at evidence of climate change",
+      "titleZh": "考察气候变化的证据",
+      "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 32–36 on your answer sheet.",
+      "instructionZh": "完成下面的摘要。每题只能从文章中选择一个单词作答，并把答案写在答题纸第32—36格。",
+      "summaryText": "Yama Dixit and David Hodell have found the first definitive evidence of climate change affecting the plains of north-western India thousands of years ago. By collecting the 32 __________ of snails and analysing them, they discovered evidence of a change in water levels in a 33 __________ in the region. This occurred when there was less 34 __________ than evaporation, and suggests that there was an extended period of drought. Petrie and Singh’s team are using archaeological records to look at 35 __________ from five millennia ago, in order to know whether people had adapted their agricultural practices to changing climatic conditions. They are also examining objects including 36 __________, so as to find out about links between inhabitants of different parts of the region and whether these changed over time.",
+      "summaryZh": "Yama Dixit和David Hodell发现了数千年前影响印度西北部平原的气候变化的首个确凿证据。他们收集并分析蜗牛的32__________，发现了该地区一处33__________水位变化的证据。变化发生在34__________少于蒸发量之时，表明当地经历了一段持续较久的干旱。Petrie和Singh团队利用考古记录研究五千年前的35__________，以判断人们是否曾调整农业实践来适应气候变化。他们还研究包括36__________在内的物品，以了解不同地区居民之间的联系以及这些联系是否随时间改变。",
+      "questions": [
+        {
+          "number": 32,
+          "prompt": "By collecting the 32 __________ of snails and analysing them",
+          "promptZh": "通过收集并分析蜗牛的32__________",
+          "answer": "shells",
+          "acceptableAnswers": [
+            "shells"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "The researchers gathered shells of Melanoides tuberculata snails",
+          "location": "Paragraph E, sentence 20",
+          "distractors": "snails names the animals, sediments the deposit they came from, and analysis the method; the collected objects were shells."
+        },
+        {
+          "number": 33,
+          "prompt": "a change in water levels in a 33 __________ in the region",
+          "promptZh": "该地区一处33__________水位的变化",
+          "answer": "lake",
+          "acceptableAnswers": [
+            "lake"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "from the sediments of an ancient lake",
+          "location": "Paragraph E, sentence 20",
+          "distractors": "region is the wider area and sediments are material from the lake; only lake fits both grammar and water-level meaning."
+        },
+        {
+          "number": 34,
+          "prompt": "when there was less 34 __________ than evaporation",
+          "promptZh": "当34__________少于蒸发量时",
+          "answer": "rainfall",
+          "acceptableAnswers": [
+            "rainfall"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "the amount of evaporation from the lake exceeded the rainfall",
+          "location": "Paragraph E, sentence 22",
+          "distractors": "drought is the consequence, monsoon is the seasonal system, and water is too general; the direct comparison is evaporation versus rainfall."
+        },
+        {
+          "number": 35,
+          "prompt": "look at 35 __________ from five millennia ago",
+          "promptZh": "研究五千年前的35__________",
+          "answer": "grains",
+          "acceptableAnswers": [
+            "grains"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "They are analysing grains cultivated at the time",
+          "location": "Paragraph G, sentence 28",
+          "distractors": "crops follows later as combinations being adjusted; the physical evidence explicitly being analysed is grains."
+        },
+        {
+          "number": 36,
+          "prompt": "examining objects including 36 __________",
+          "promptZh": "研究包括36__________在内的物品",
+          "answer": "pottery",
+          "acceptableAnswers": [
+            "pottery"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "the types of pottery used, and other aspects of their material culture",
+          "location": "Paragraph G, sentence 29",
+          "distractors": "material culture is the larger category and networks are inferred relationships; pottery is the named object type."
+        }
+      ]
+    },
+    {
+      "range": "37–40",
+      "type": "matching_researchers",
+      "instruction": "Look at the following statements (Questions 37–40) and the list of researchers below. Match each statement with the correct researcher, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 37–40 on your answer sheet. NB You may use any letter more than once.",
+      "instructionZh": "阅读第37—40题陈述和下方研究者列表，把每项陈述与正确研究者A、B、C或D配对，并将字母写入答题纸；同一字母可以使用多次。",
+      "labels": {
+        "A": "Cameron Petrie",
+        "B": "Ravindanath Singh",
+        "C": "Yama Dixit",
+        "D": "David Hodell"
+      },
+      "labelTranslations": {
+        "A": "Cameron Petrie（卡梅伦·皮特里）",
+        "B": "Ravindanath Singh（拉温达纳特·辛格）",
+        "C": "Yama Dixit（雅玛·迪克西特）",
+        "D": "David Hodell（戴维·霍德尔）"
+      },
+      "questions": [
+        {
+          "number": 37,
+          "prompt": "Finding further information about changes to environmental conditions in the region is vital.",
+          "promptZh": "进一步获取该地区环境条件变化的信息至关重要。",
+          "answer": "B",
+          "acceptableAnswers": [
+            "B"
+          ],
+          "evidence": "it is essential that we obtain more climate data from areas close to the two great cities",
+          "location": "Paragraph F, sentence 26 (Singh)",
+          "distractors": "D estimates drought duration, A discusses missing decline evidence and future lessons, while Singh explicitly says more local climate data is essential."
+        },
+        {
+          "number": 38,
+          "prompt": "Examining previous patterns of behaviour may have long-term benefits.",
+          "promptZh": "研究过去的行为模式可能带来长期益处。",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "evidence": "By investigating responses ... we can learn from the past ... preserving cultural heritage in the future",
+          "location": "Paragraph H, sentence 32 (Petrie)",
+          "distractors": "Singh requests more regional data; Dixit identifies abrupt drought evidence; Hodell estimates duration. Petrie alone connects past responses to future policy benefits."
+        },
+        {
+          "number": 39,
+          "prompt": "Rough calculations indicate the approximate length of a period of water shortage.",
+          "promptZh": "粗略计算表明了一段缺水时期的大致持续时间。",
+          "answer": "D",
+          "acceptableAnswers": [
+            "D"
+          ],
+          "evidence": "Hodell adds: ‘We estimate that ... lasted about 200 years’",
+          "location": "Paragraph E, sentence 23 (Hodell)",
+          "distractors": "A Petrie comments on the shortage of evidence about the decline and on lessons for the future, not the drought's duration; B Singh calls for more local climate data, not a duration estimate; C Dixit identifies when evaporation exceeded rainfall but does not estimate the 200-year duration. The quoted estimate belongs to D Hodell."
+        },
+        {
+          "number": 40,
+          "prompt": "Information about the decline of the Harappan Civilisation has been lacking.",
+          "promptZh": "关于哈拉帕文明衰落的信息一直不足。",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "evidence": "relatively little about its fall",
+          "location": "Paragraph B, sentence 4 (Petrie)",
+          "distractors": "B Singh says that more local climate data are needed, rather than that information about the civilisation's decline has generally been lacking; C Dixit reports the lake evidence and the rainfall-evaporation shift; D Hodell estimates the drought's duration. Only A Petrie contrasts abundant evidence for the rise with relatively little about the fall."
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 27,
+      "prompt": "proposed explanations for the decline of the Harappan Civilisation",
+      "promptZh": "关于哈拉帕文明衰落原因的若干解释",
+      "answer": "C",
+      "acceptableAnswers": [
+        "C"
+      ],
+      "evidence": "Some have claimed that ...; or that ...; and yet others that climate change ...",
+      "location": "Paragraph C, sentence 11",
+      "distractors": "A describes Harappan prosperity and the absence of self-imagery, not explanations for decline; B describes urban features and the symptoms of decline, not proposed causes; D reports corrections to settlement locations; E provides one later piece of climate evidence rather than the list of proposed explanations; F calls for more local climate data; G outlines research into crops, pottery and interaction networks; H gives present-day applications of lessons from the past.",
+      "sectionRange": "27–31",
+      "type": "matching_paragraphs"
+    },
+    {
+      "number": 28,
+      "prompt": "reference to a present-day application of some archaeological research findings",
+      "promptZh": "提到某些考古研究发现的当代应用",
+      "answer": "H",
+      "acceptableAnswers": [
+        "H"
+      ],
+      "evidence": "we can learn from the past ... to be more proactive in issues such as the management and administration of water supply",
+      "location": "Paragraph H, sentence 32",
+      "distractors": "A describes the civilisation's achievements and lack of self-imagery; B describes urban design and the beginning of decline; C lists hypotheses for the decline; D corrects published settlement locations; E presents lake-based climate evidence; F calls for more local climate data; G describes research into crops, pottery and interaction networks. Only H explains how archaeological lessons can guide present-day public administration.",
+      "sectionRange": "27–31",
+      "type": "matching_paragraphs"
+    },
+    {
+      "number": 29,
+      "prompt": "a difference between the Harappan Civilisation and another culture of the same period",
+      "promptZh": "哈拉帕文明与同一时期另一文化之间的一项差异",
+      "answer": "A",
+      "acceptableAnswers": [
+        "A"
+      ],
+      "evidence": "their lack of self-imagery – at a time when the Egyptians were carving and painting representations of themselves",
+      "location": "Paragraph A, sentence 3",
+      "distractors": "B describes Harappan urban design without comparing it with another culture; C lists decline hypotheses; D concerns errors in settlement locations; E presents climate evidence; F discusses the need for more climate data; G studies Harappan crops, pottery and networks; H draws modern lessons. Only A explicitly contrasts the Harappans with the contemporary Egyptians.",
+      "sectionRange": "27–31",
+      "type": "matching_paragraphs"
+    },
+    {
+      "number": 30,
+      "prompt": "a description of some features of Harappan urban design",
+      "promptZh": "对哈拉帕城市设计若干特征的描述",
+      "answer": "B",
+      "acceptableAnswers": [
+        "B"
+      ],
+      "evidence": "great baths, craft workshops, palaces and halls laid out in distinct sectors. Houses were arranged in blocks, with wide main streets and narrow alleyways",
+      "location": "Paragraph B, sentences 5–6",
+      "distractors": "A mentions megacities but gives no internal design details; C lists explanations for decline; D concerns the geographic locations of settlements, not their internal layout; E presents lake-based climate evidence; F calls for more local climate data; G concerns crops, pottery and interaction networks; H discusses present-day applications.",
+      "sectionRange": "27–31",
+      "type": "matching_paragraphs"
+    },
+    {
+      "number": 31,
+      "prompt": "reference to the discovery of errors made by previous archaeologists",
+      "promptZh": "提到发现以往考古学家所犯的错误",
+      "answer": "D",
+      "acceptableAnswers": [
+        "D"
+      ],
+      "evidence": "they found inaccuracies in the published geographic locations of ancient settlements",
+      "location": "Paragraph D, sentence 16",
+      "distractors": "A describes prosperity and the absence of self-imagery; B notes that little is known about the fall but identifies no earlier archaeological error; C calls earlier explanations speculation but does not identify mapped-location errors; E presents new climate evidence; F calls for more local climate data; G outlines ongoing research; H discusses lessons for present policy. Only D explicitly reports inaccuracies in previously published settlement locations.",
+      "sectionRange": "27–31",
+      "type": "matching_paragraphs"
+    },
+    {
+      "number": 32,
+      "prompt": "By collecting the 32 __________ of snails and analysing them",
+      "promptZh": "通过收集并分析蜗牛的32__________",
+      "answer": "shells",
+      "acceptableAnswers": [
+        "shells"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "evidence": "The researchers gathered shells of Melanoides tuberculata snails",
+      "location": "Paragraph E, sentence 20",
+      "distractors": "snails names the animals, sediments the deposit they came from, and analysis the method; the collected objects were shells.",
+      "sectionRange": "32–36",
+      "type": "summary_completion"
+    },
+    {
+      "number": 33,
+      "prompt": "a change in water levels in a 33 __________ in the region",
+      "promptZh": "该地区一处33__________水位的变化",
+      "answer": "lake",
+      "acceptableAnswers": [
+        "lake"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "evidence": "from the sediments of an ancient lake",
+      "location": "Paragraph E, sentence 20",
+      "distractors": "region is the wider area and sediments are material from the lake; only lake fits both grammar and water-level meaning.",
+      "sectionRange": "32–36",
+      "type": "summary_completion"
+    },
+    {
+      "number": 34,
+      "prompt": "when there was less 34 __________ than evaporation",
+      "promptZh": "当34__________少于蒸发量时",
+      "answer": "rainfall",
+      "acceptableAnswers": [
+        "rainfall"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "evidence": "the amount of evaporation from the lake exceeded the rainfall",
+      "location": "Paragraph E, sentence 22",
+      "distractors": "drought is the consequence, monsoon is the seasonal system, and water is too general; the direct comparison is evaporation versus rainfall.",
+      "sectionRange": "32–36",
+      "type": "summary_completion"
+    },
+    {
+      "number": 35,
+      "prompt": "look at 35 __________ from five millennia ago",
+      "promptZh": "研究五千年前的35__________",
+      "answer": "grains",
+      "acceptableAnswers": [
+        "grains"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "evidence": "They are analysing grains cultivated at the time",
+      "location": "Paragraph G, sentence 28",
+      "distractors": "crops follows later as combinations being adjusted; the physical evidence explicitly being analysed is grains.",
+      "sectionRange": "32–36",
+      "type": "summary_completion"
+    },
+    {
+      "number": 36,
+      "prompt": "examining objects including 36 __________",
+      "promptZh": "研究包括36__________在内的物品",
+      "answer": "pottery",
+      "acceptableAnswers": [
+        "pottery"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "evidence": "the types of pottery used, and other aspects of their material culture",
+      "location": "Paragraph G, sentence 29",
+      "distractors": "material culture is the larger category and networks are inferred relationships; pottery is the named object type.",
+      "sectionRange": "32–36",
+      "type": "summary_completion"
+    },
+    {
+      "number": 37,
+      "prompt": "Finding further information about changes to environmental conditions in the region is vital.",
+      "promptZh": "进一步获取该地区环境条件变化的信息至关重要。",
+      "answer": "B",
+      "acceptableAnswers": [
+        "B"
+      ],
+      "evidence": "it is essential that we obtain more climate data from areas close to the two great cities",
+      "location": "Paragraph F, sentence 26 (Singh)",
+      "distractors": "D estimates drought duration, A discusses missing decline evidence and future lessons, while Singh explicitly says more local climate data is essential.",
+      "sectionRange": "37–40",
+      "type": "matching_researchers"
+    },
+    {
+      "number": 38,
+      "prompt": "Examining previous patterns of behaviour may have long-term benefits.",
+      "promptZh": "研究过去的行为模式可能带来长期益处。",
+      "answer": "A",
+      "acceptableAnswers": [
+        "A"
+      ],
+      "evidence": "By investigating responses ... we can learn from the past ... preserving cultural heritage in the future",
+      "location": "Paragraph H, sentence 32 (Petrie)",
+      "distractors": "Singh requests more regional data; Dixit identifies abrupt drought evidence; Hodell estimates duration. Petrie alone connects past responses to future policy benefits.",
+      "sectionRange": "37–40",
+      "type": "matching_researchers"
+    },
+    {
+      "number": 39,
+      "prompt": "Rough calculations indicate the approximate length of a period of water shortage.",
+      "promptZh": "粗略计算表明了一段缺水时期的大致持续时间。",
+      "answer": "D",
+      "acceptableAnswers": [
+        "D"
+      ],
+      "evidence": "Hodell adds: ‘We estimate that ... lasted about 200 years’",
+      "location": "Paragraph E, sentence 23 (Hodell)",
+      "distractors": "A Petrie comments on the shortage of evidence about the decline and on lessons for the future, not the drought's duration; B Singh calls for more local climate data, not a duration estimate; C Dixit identifies when evaporation exceeded rainfall but does not estimate the 200-year duration. The quoted estimate belongs to D Hodell.",
+      "sectionRange": "37–40",
+      "type": "matching_researchers"
+    },
+    {
+      "number": 40,
+      "prompt": "Information about the decline of the Harappan Civilisation has been lacking.",
+      "promptZh": "关于哈拉帕文明衰落的信息一直不足。",
+      "answer": "A",
+      "acceptableAnswers": [
+        "A"
+      ],
+      "evidence": "relatively little about its fall",
+      "location": "Paragraph B, sentence 4 (Petrie)",
+      "distractors": "B Singh says that more local climate data are needed, rather than that information about the civilisation's decline has generally been lacking; C Dixit reports the lake evidence and the rainfall-evaporation shift; D Hodell estimates the drought's duration. Only A Petrie contrasts abundant evidence for the rise with relatively little about the fall.",
+      "sectionRange": "37–40",
+      "type": "matching_researchers"
+    }
+  ]
+}

@@ -2104,14 +2104,14 @@ This may be in order to reduce chances of 40
 Test 3
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The coconut palm
 For millennia, the coconut has been central to the lives of Polynesian and Asian peoples.
 In the western world, on the other hand, coconuts have always been exotic and unusual,
 sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts
 in South Asia in the late 13th century, and among the mid-14th-century travel writings
-of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India).
+of Sir John Mandeville there is mention of ‘great Notes of Ynde’ (great Nuts of India).
 Today, images of palm-fringed tropical beaches are clichés in the west to sell holidays,
 chocolate bars, fizzy drinks and even romance.
 Typically, we envisage coconuts as brown cannonballs that, when opened, provide
@@ -2128,8 +2128,8 @@ by boiling to produce a type of sugar used for cooking.
 Coconut palms produce as many as seventy fruits per year, weighing more than a
 kilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous
 middle layer and a hard, inner layer. The thick fibrous middle layer produces coconut
-fibre, 'coir', which has numerous uses and is particularly important in manufacturing
-ropes. The woody innermost layer, the shell, with its three prominent 'eyes', surrounds
+fibre, ‘coir’, which has numerous uses and is particularly important in manufacturing
+ropes. The woody innermost layer, the shell, with its three prominent ‘eyes’, surrounds
 the seed. An important product obtained from the shell is charcoal, which is widely used
 in various industries as well as in the home as a cooking fuel. When broken in half, the
 shells are also used as bowls in many parts of Asia.
@@ -2137,7 +2137,7 @@ Inside the shell are the nutrients (endosperm) needed by the developing seed. In
 the endosperm is a sweetish liquid, coconut water, which is enjoyed as a drink, but also
 provides the hormones which encourage other plants to grow more rapidly and produce
 higher yields. As the fruit matures, the coconut water gradually solidifies to form the
-brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, 'copra', is made into
+brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, ‘copra’, is made into
 coconut oil and coconut milk, which are widely used in cooking in different parts of the
 world, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic
 60
@@ -2166,7 +2166,7 @@ America. But the origin of coconuts discovered along the west coast of America b
 16th century sailors has been the subject of centuries of discussion. Two diametrically
 opposed origins have been proposed: that they came from Asia, or that they were native
 to America. Both suggestions have problems. In Asia, there is a large degree of coconut
-diversity and evidence of millennia of human use - but there are no relatives growing
+diversity and evidence of millennia of human use – but there are no relatives growing
 in the wild. In America, there are close coconut relatives, but no evidence that coconuts
 are indigenous. These problems have led to the intriguing suggestion that coconuts
 originated on coral islands in the Pacific and were dispersed from there.
@@ -2174,10 +2174,10 @@ originated on coral islands in the Pacific and were dispersed from there.
 
 ## Page 61
 
-Questions 1-8
+Questions 1–8
 Complete the table below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 1-8 on your answer sheet.
+Write your answers in boxes 1–8 on your answer sheet.
 
 THE COCONUT PALM
 
@@ -2195,9 +2195,9 @@ THE COCONUT PALM
 ## Page 62
 
 Reading
-Questions 9-13
+Questions 9–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 9-13 on your answer sheet, write
+In boxes 9–13 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -2220,37 +2220,37 @@ Coconuts are cultivated in different ways in America and the Pacific.
 
 Test 3
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 How baby talk gives infant brains a boost
 A
-The typical way of talking to a baby - high-pitched, exaggerated and repetitious - is
-a source of fascination for linguists who hope to understand how 'baby talk' impacts
+The typical way of talking to a baby – high-pitched, exaggerated and repetitious – is
+a source of fascination for linguists who hope to understand how ‘baby talk’ impacts
 on learning. Most babies start developing their hearing while still in the womb,
 prompting some hopeful parents to play classical music to their pregnant bellies.
 Some research even suggests that infants are listening to adult speech as early
-as 10 weeks before being born, gathering the basic building blocks of their family's
+as 10 weeks before being born, gathering the basic building blocks of their family’s
 native tongue.
 B
-Early language exposure seems to have benefits to the brain - for instance, studies
+Early language exposure seems to have benefits to the brain – for instance, studies
 suggest that babies raised in bilingual homes are better at learning how to mentally
 prioritize information. So how does the sweet if sometimes absurd sound of infant-
-directed speech influence a baby's development? Here are some recent studies
+directed speech influence a baby’s development? Here are some recent studies
 that explore the science behind baby talk.
 C
-Fathers don't use baby talk as often or in the same ways as mothers - and that's
+Fathers don’t use baby talk as often or in the same ways as mothers – and that’s
 perfectly OK, according to a new study. Mark VanDam of Washington State
 University at Spokane and colleagues equipped parents with recording devices and
 speech-recognition software to study the way they interacted with their youngsters
-during a normal day. 'We found that moms do exactly what you'd expect and what's
-been described many times over,' VanDam explains. 'But we found that dads aren't
-doing the same thing. Dads didn't raise their pitch or fundamental frequency when
-they talked to kids.' Their role may be rooted in what is called the bridge hypothesis,
+during a normal day. ‘We found that moms do exactly what you’d expect and what’s
+been described many times over,’ VanDam explains. ‘But we found that dads aren’t
+doing the same thing. Dads didn’t raise their pitch or fundamental frequency when
+they talked to kids.’ Their role may be rooted in what is called the bridge hypothesis,
 which dates back to 1975. It suggests that fathers use less familial language to
-provide their children with a bridge to the kind of speech they'll hear in public. 'The
+provide their children with a bridge to the kind of speech they’ll hear in public. ‘The
 idea is that a kid gets to practice a certain kind of speech with mom and another
 kind of speech with dad, so the kid then has a wider repertoire of kinds of speech to
-practice,' says VanDam.
+practice,’ says VanDam.
 D
 Scientists from the University of Washington and the University of Connecticut
 collected thousands of 30-second conversations between parents and their babies,
@@ -2258,48 +2258,48 @@ fitting 26 children with audio-recording vests that captured language and sound
 during a typical eight-hour day. The study found that the more baby talk parents
 used, the more their youngsters began to babble. And when researchers saw
 the same babies at age two, they found that frequent baby talk had dramatically
-boosted vocabulary, regardless of socioeconomic status. 'Those children who
+boosted vocabulary, regardless of socioeconomic status. ‘Those children who
 listened to a lot of baby talk were talking more than the babies that listened to more
 64
 
 ## Page 64
 
 Reading
-adult talk or standard speech,' says Nairán Ramírez-Esparza of the University of
-Connecticut. 'We also found that it really matters whether you use baby talk in a
-one-on-one context,' she adds. 'The more parents use baby talk one-on-one, the
+adult talk or standard speech,’ says Nairán Ramírez-Esparza of the University of
+Connecticut. ‘We also found that it really matters whether you use baby talk in a
+one-on-one context,’ she adds. ‘The more parents use baby talk one-on-one, the
 more babies babble, and the more they babble, the more words they produce later
-in life.'
+in life.’
 E
 Another study suggests that parents might want to pair their youngsters up so
 they can babble more with their own kind. Researchers from McGill University
 and Université du Québec à Montréal found that babies seem to like listening to
-each other rather than to adults - which may be why baby talk is such a universal
+each other rather than to adults – which may be why baby talk is such a universal
 tool among parents. They played repeating vowel sounds made by a special
 synthesizing device that mimicked sounds made by either an adult woman or
 another baby. This way, only the impact of the auditory cues was observed. The
-team then measured how long each type of sound held the infants' attention. They
-found that the 'infant' sounds held babies' attention nearly 40 percent longer. The
+team then measured how long each type of sound held the infants’ attention. They
+found that the ‘infant’ sounds held babies’ attention nearly 40 percent longer. The
 baby noises also induced more reactions in the listening infants, like smiling or lip
 moving, which approximates sound making. The team theorizes that this attraction
 to other infant sounds could help launch the learning process that leads to speech.
-'It may be some property of the sound that is just drawing their attention,' says
-study co-author Linda Polka. 'Or maybe they are really interested in that particular
+‘It may be some property of the sound that is just drawing their attention,’ says
+study co-author Linda Polka. ‘Or maybe they are really interested in that particular
 type of sound because they are starting to focus on their own ability to make
 sounds. We are speculating here but it might catch their attention because they
-recognize it as a sound they could possibly make.'
+recognize it as a sound they could possibly make.’
 F
 In a study published in Proceedings of the National Academy of Sciences, a total
-of 57 babies from two slightly different age groups - seven months and eleven and
-a half months - were played a number of syllables from both their native language
+of 57 babies from two slightly different age groups – seven months and eleven and
+a half months – were played a number of syllables from both their native language
 (English) and a non-native tongue (Spanish). The infants were placed in a brain-
 activation scanner that recorded activity in a brain region known to guide the motor
 movements that produce speech. The results suggest that listening to baby talk
-prompts infant brains to start practicing their language skills. 'Finding activation in
+prompts infant brains to start practicing their language skills. ‘Finding activation in
 motor areas of the brain when infants are simply listening is significant, because
 it means the baby brain is engaged in trying to talk back right from the start, and
-suggests that seven-month-olds' brains are already trying to figure out how to make
-the right movements that will produce words,' says co-author Patricia Kuhl. Another
+suggests that seven-month-olds’ brains are already trying to figure out how to make
+the right movements that will produce words,’ says co-author Patricia Kuhl. Another
 interesting finding was that while the seven-month-olds responded to all speech
 sounds regardless of language, the brains of the older infants worked harder at the
 motor activations of non-native sounds compared to native sounds. The study may
@@ -2310,10 +2310,10 @@ their native language and other tongues.
 ## Page 65
 
 Test 3
-Questions 14-17
-Look at the following ideas (Questions 14-17) and the list of researchers below.
+Questions 14–17
+Look at the following ideas (Questions 14–17) and the list of researchers below.
 Match each idea with the correct researcher, A, B or C.
-Write the correct letter, A, B or C, in boxes 14-17 on your answer sheet.
+Write the correct letter, A, B or C, in boxes 14–17 on your answer sheet.
 NB You may use any letter more than once.
 14
 the importance of adults giving babies individual attention when talking to them
@@ -2328,7 +2328,7 @@ List of Researchers
 A
 Mark VanDam
 B
-Nairán Ramirez-Esparza
+Nairán Ramírez-Esparza
 C
 Patricia Kuhl
 66
@@ -2336,67 +2336,60 @@ Patricia Kuhl
 ## Page 66
 
 Reading
-Questions 18-23
+Questions 18–23
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 18-23 on your answer sheet.
+Write your answers in boxes 18–23 on your answer sheet.
 Research into how parents talk to babies
-Researchers at Washington State University used 18
-, together with
+Researchers at Washington State University used 18 __________, together with
 specialised computer programs, to analyse how parents interacted with their babies
-during a normal day. The study revealed that 19
-tended not to modify
+during a normal day. The study revealed that 19 __________ tended not to modify
 their ordinary speech patterns when interacting with their babies. According to an idea
-known as the 20
-, they may use a more adult type of speech to
+known as the 20 __________, they may use a more adult type of speech to
 prepare infants for the language they will hear outside the family home. According to the
-researchers, hearing baby talk from one parent and 'normal' language from the other
-expands the baby's 21
-of types of speech which they can practise.
+researchers, hearing baby talk from one parent and ‘normal’ language from the other
+expands the baby’s 21 __________ of types of speech which they can practise.
 Meanwhile, another study carried out by scientists from the University of Washington
-and the University of Connecticut recorded speech and sound using special
-22
-that the babies were equipped with. When they studied the babies
+and the University of Connecticut recorded speech and sound using special 22 __________ that the babies were equipped with. When they studied the babies
 again at age two, they found that those who had heard a lot of baby talk in infancy had a
-much larger 23
-than those who had not.
-Questions 24-26
-Reading Passage 2 has six paragraphs, A-F.
+much larger 23 __________ than those who had not.
+Questions 24–26
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
-Write the correct letter, A-F, in boxes 24-26 on your answer sheet.
+Write the correct letter, A–E, in boxes 24–26 on your answer sheet.
 24
-a reference to a change which occurs in babies' brain activity before the end of their
+a reference to a change which occurs in babies’ brain activity before the end of their
 first year
 25
-an example of what some parents do for their baby's benefit before birth
+an example of what some parents do for their baby’s benefit before birth
 26
-a mention of babies' preference for the sounds that other babies make
+a mention of babies’ preference for the sounds that other babies make
 67
 
 ## Page 67
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Whatever happened to the Harappan Civilisation?
 New research sheds light on the disappearance of an ancient society
 A
 The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years
 ago, but a thousand years later their cities were abandoned. The Harappan
-Civilisation was a sophisticated Bronze Age society who built 'megacities' and
+Civilisation was a sophisticated Bronze Age society who built ‘megacities’ and
 traded internationally in luxury craft products, and yet seemed to have left almost
-no depictions of themselves. But their lack of self-imagery - at a time when the
+no depictions of themselves. But their lack of self-imagery – at a time when the
 Egyptians were carving and painting representations of themselves all over their
-temples - is only part of the mystery.
+temples – is only part of the mystery.
 B
-'There is plenty of archaeological evidence to tell us about the rise of the Harappan
-Civilisation, but relatively little about its fall,' explains archaeologist Dr Cameron
-Petrie of the University of Cambridge. 'As populations increased, cities were
+‘There is plenty of archaeological evidence to tell us about the rise of the Harappan
+Civilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron
+Petrie of the University of Cambridge. ‘As populations increased, cities were
 built that had great baths, craft workshops, palaces and halls laid out in distinct
 sectors. Houses were arranged in blocks, with wide main streets and narrow
 alleyways, and many had their own wells and drainage systems. It was very much
-a "thriving" civilisation.' Then around 2100 BC, a transformation began. Streets
+a “thriving” civilisation.’ Then around 2100 BC, a transformation began. Streets
 went uncleaned, buildings started to be abandoned, and ritual structures fell out of
 use. After their final demise, a millennium passed before really large-scale cities
 appeared once more in South Asia.
@@ -2406,10 +2399,10 @@ affecting the water supply and agriculture; or that the cities could not cope wi
 increasing population, they exhausted their resource base, the trading economy
 broke down or they succumbed to invasion and conflict; and yet others that climate
 change caused an environmental change that affected food and water provision.
-'It is unlikely that there was a single cause for the decline of the civilisation. But the
+‘It is unlikely that there was a single cause for the decline of the civilisation. But the
 fact is, until now, we have had little solid evidence from the area for most of the key
-elements,' said Petrie. 'A lot of the archaeological debate has really only been well-
-argued speculation.'
+elements,’ said Petrie. ‘A lot of the archaeological debate has really only been well-
+argued speculation.’
 D
 A research team led by Petrie, together with Dr Ravindanath Singh of Banaras
 Hindu University in India, found early in their investigations that many of the
@@ -2428,28 +2421,28 @@ Over the course of several seasons of fieldwork they carried out new surveys,
 finding an astonishing 198 settlement sites that were previously unknown.
 E
 Now, research published by Dr Yama Dixit and Professor David Hodell, both
-from Cambridge's Department of Earth Sciences, has provided the first definitive
+from Cambridge’s Department of Earth Sciences, has provided the first definitive
 evidence for climate change affecting the plains of north-western India, where
 hundreds of Harappan sites are known to have been situated. The researchers
 gathered shells of Melanoides tuberculata snails from the sediments of an ancient
 lake and used geochemical analysis as a means of tracing the climate history of
-the region. 'As today, the major source of water into the lake is likely to have been
-the summer monsoon,' says Dixit. 'But we have observed that there was an abrupt
+the region. ‘As today, the major source of water into the lake is likely to have been
+the summer monsoon,’ says Dixit. ‘But we have observed that there was an abrupt
 change about 4,100 years ago, when the amount of evaporation from the lake
-exceeded the rainfall - indicative of a drought.' Hodell adds: 'We estimate that the
+exceeded the rainfall – indicative of a drought.’ Hodell adds: ‘We estimate that the
 weakening of the Indian summer monsoon climate lasted about 200 years before
-recovering to the previous conditions, which we still see today.'
+recovering to the previous conditions, which we still see today.’
 F
 It has long been thought that other great Bronze Age civilisations also declined at
 a similar time, with a global-scale climate event being seen as the cause. While it
 is possible that these local-scale processes were linked, the real archaeological
 interest lies in understanding the impact of these larger-scale events on different
-environments and different populations. 'Considering the vast area of the Harappan
-Civilisation with its variable weather systems,' explains Singh, 'it is essential that we
+environments and different populations. ‘Considering the vast area of the Harappan
+Civilisation with its variable weather systems,’ explains Singh, ‘it is essential that we
 obtain more climate data from areas close to the two great cities at Mohenjodaro
-and Harappa and also from the Indian Punjab.'
+and Harappa and also from the Indian Punjab.’
 G
-Petrie and Singh's team is now examining archaeological records and trying to
+Petrie and Singh’s team is now examining archaeological records and trying to
 understand details of how people led their lives in the region five millennia ago.
 They are analysing grains cultivated at the time, and trying to work out whether
 they were grown under extreme conditions of water stress, and whether they
@@ -2460,21 +2453,21 @@ similar across larger areas. This gives us insight into the types of interactive
 networks that the population was involved in, and whether those changed.
 H
 Petrie believes that archaeologists are in a unique position to investigate how
-past societies responded to environmental and climatic change. 'By investigating
+past societies responded to environmental and climatic change. ‘By investigating
 responses to environmental pressures and threats, we can learn from the past to
 engage with the public, and the relevant governmental and administrative bodies,
 to be more proactive in issues such as the management and administration of
 water supply, the balance of urban and rural development, and the importance of
-preserving cultural heritage in the future.'
+preserving cultural heritage in the future.’
 69
 
 ## Page 69
 
 Test 3
-Questions 27-31
-Reading Passage 3 has eight paragraphs, A-H.
+Questions 27–31
+Reading Passage 3 has eight paragraphs, A–H.
 Which paragraph contains the following information?
-Write the correct letter, A-H, in boxes 27-31 on your answer sheet.
+Write the correct letter, A–H, in boxes 27–31 on your answer sheet.
 NB You may use any letter more than once.
 27
 proposed explanations for the decline of the Harappan Civilisation
@@ -2492,35 +2485,28 @@ reference to the discovery of errors made by previous archaeologists
 ## Page 70
 
 Reading
-Questions 32-36
+Questions 32–36
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 32-36 on your answer sheet.
+Write your answers in boxes 32–36 on your answer sheet.
 Looking at evidence of climate change
 Yama Dixit and David Hodell have found the first definitive evidence of climate change
-affecting the plains of north-western India thousands of years ago. By collecting the
-32
-of snails and analysing them, they discovered evidence of a
-change in water levels in a 33
-in the region. This occurred when
-there was less 34
-than evaporation, and suggests that there was an
+affecting the plains of north-western India thousands of years ago. By collecting the 32 __________ of snails and analysing them, they discovered evidence of a
+change in water levels in a 33 __________ in the region. This occurred when
+there was less 34 __________ than evaporation, and suggests that there was an
 extended period of drought.
-Petrie and Singh's team are using archaeological records to look at 35
-from five millennia ago, in order to know whether people had adapted their agricultural
-practices to changing climatic conditions. They are also examining objects including
-36
-... , so as to find out about links between inhabitants of different parts
+Petrie and Singh’s team are using archaeological records to look at 35 __________ from five millennia ago, in order to know whether people had adapted their agricultural
+practices to changing climatic conditions. They are also examining objects including 36 __________, so as to find out about links between inhabitants of different parts
 of the region and whether these changed over time.
 71
 
 ## Page 71
 
 Test 3
-Questions 37-40
-Look at the following statements (Questions 37-40) and the list of researchers below.
+Questions 37–40
+Look at the following statements (Questions 37–40) and the list of researchers below.
 Match each statement with the correct researcher, A, B, C or D.
-Write the correct letter, A, B, C or D, in boxes 37-40 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 37–40 on your answer sheet.
 NB You may use any letter more than once.
 37
 Finding further information about changes to environmental conditions in the region
@@ -5351,114 +5337,56 @@ scores acceptable.
 Listening and Reading Answer Keys
 TEST 3
 READING
-Reading Passage 1,
-Questions 1-13
-20
-bridge hypothesis
-21
-repertoire
-1
-furniture
-22
-(audio-recording) vests
-2
-sugar
-23
-vocabulary
-3
-ropes
-24
-F
-4
-charcoal
-25
-A
-5
-bowls
-26
-E
-6
-hormones
-7
-cosmetics
-Reading Passage 3,
-8
-dynamite
-Questions 27-40
-9
-FALSE
-10
-FALSE
-27
-C
-11
-NOT GIVEN
-28
-H
-12
-TRUE
-29
-A
-13
-NOT GIVEN
-30
-B
-31
-D
-Reading Passage 2,
-32
-shells
-Questions 14-26
-33
-lake
-34
-rainfall
-14
-B
-35
-grains
-15
-C
-36
-pottery
-16
-A
-37
-B
-17
-B
-38
-A
-18
-recording devices
-39
-D
-19
-fathers / dads
-40
-A
+Reading Passage 1, Questions 1–13
+1 furniture
+2 sugar
+3 ropes
+4 charcoal
+5 bowls
+6 hormones
+7 cosmetics
+8 dynamite
+9 FALSE
+10 FALSE
+11 NOT GIVEN
+12 TRUE
+13 NOT GIVEN
+Reading Passage 2, Questions 14–26
+14 B
+15 C
+16 A
+17 B
+18 recording devices
+19 fathers / dads
+20 bridge hypothesis
+21 repertoire
+22 (audio-recording) vests
+23 vocabulary
+24 F
+25 A
+26 E
+Reading Passage 3, Questions 27–40
+27 C
+28 H
+29 A
+30 B
+31 D
+32 shells
+33 lake
+34 rainfall
+35 grains
+36 pottery
+37 B
+38 A
+39 D
+40 A
 If you score ...
-0-16
-17-24
-25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0–16
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+17–24
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+25–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 123
 
 ## Page 123
