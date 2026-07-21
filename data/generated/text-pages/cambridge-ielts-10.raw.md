@@ -1447,557 +1447,298 @@ Leaders' actions affect which focus people use
 Test 3
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 on the following pages.
-Questions 1-4
-Reading Passage 1 has five paragraphs, A-E.
-Choose the correct heading for paragraphs B-E from the list of headings below.
-Write the correct number, i-vii, in boxes 1-4 on your answer sheet.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 on the following pages.
+
+Questions 1–4
+Reading Passage 1 has five paragraphs, A–E.
+Choose the correct heading for paragraphs B–E from the list of headings below.
+Write the correct number, i–vii, in boxes 1–4 on your answer sheet.
+
 List of Headings
-Economic and social significance of tourism
-"-
-ii
-The development of mass tourism
-iii
-Travel for the wealthy
-iv
-Earning foreign exchange through tourism
-Difficulty in recognising the economic effects of tourism
-V
-vi
-The contribution of air travel to tourism
-The world impact of tourism
-vii
-viiiThe history of travel
+i Economic and social significance of tourism
+ii The development of mass tourism
+iii Travel for the wealthy
+iv Earning foreign exchange through tourism
+v Difficulty in recognising the economic effects of tourism
+vi The contribution of air travel to tourism
+vii The world impact of tourism
+viii The history of travel
+
 Example
-Answer
-Paragraph A
-viii
-7
-Paragraph B
-2
-Paragraph C
-3
-Paragraph D
-4
-Paragraph E
+Paragraph A viii
+
+1 Paragraph B
+2 Paragraph C
+3 Paragraph D
+4 Paragraph E
+
 64
 
 ## Page 57
 
-government officials also travelled for pleasure. Seaside resorts located at Pompeii
-and Herculaneum afforded citizens the opportunity to escape to their vacation villas
-in order to avoid the summer heat of Rome. Travel, except during the Dark Ages,
-has continued to grow and, throughout recorded history, has played a vital role in the
-development of civilisations and their economies.
-Tourism in the mass form as we know it today is a distinctly twentieth-century
-phenomenon. Historians suggest that the advent of mass tourism began in England
-during the industrial revolution with the rise of the middle class and the availability
-of relatively inexpensive transportation. The creation of the commercial airline
-industry following the Second World War and the subsequent development of the
-jet aircraft in the 1950s signalled the rapid growth and expansion of international
-travel. This growth led to the development of a major new industry: tourism. In turn,
-international tourism became the concern of a number of world governments since
-it not only provided new employment opportunities but also produced a means of
-earning foreign exchange.
-Tourism today has grown significantly in both economic and social importance. In
-most industrialised countries over the past few years the fastest growth has been
-seen in the area of services. One of the largest segments of the service industry,
-although largely unrecognised as an entity in some of these countries, is travel
-and tourism. According to the World Travel and Tourism Council (1992), 'Travel
-and tourism is the largest industry in the world on virtually any economic measure
-including value-added capital investment, employment and tax contributions'. In
-1992, the industry's gross output was estimated to be $3.5 trillion, over 12 per cent
-of all consumer spending. The travel and tourism industry is the world's largest
-employer with almost 130 million jobs, or almost 7 per cent of all employees. This
-industry is the world's leading industrial contributor, producing over 6 per cent of
-the world's gross national product and ad
-accounting for capital investment in excess
-of $422 billion in direct, indirect and p
-ersonal taxes each year. Thus, tourism has a
-profound impact both on the world economy and, because of the educative effect of
-travel and the effects on employment, on society itself.
+Reading
+
+The Context, Meaning and Scope of Tourism
+
+A
+Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure. Seaside resorts located at Pompeii and Herculaneum afforded citizens the opportunity to escape to their vacation villas in order to avoid the summer heat of Rome. Travel, except during the Dark Ages, has continued to grow and, throughout recorded history, has played a vital role in the development of civilisations and their economies.
+
+B
+Tourism in the mass form as we know it today is a distinctly twentieth-century phenomenon. Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation. The creation of the commercial airline industry following the Second World War and the subsequent development of the jet aircraft in the 1950s signalled the rapid growth and expansion of international travel. This growth led to the development of a major new industry: tourism. In turn, international tourism became the concern of a number of world governments since it not only provided new employment opportunities but also produced a means of earning foreign exchange.
+
+C
+Tourism today has grown significantly in both economic and social importance. In most industrialised countries over the past few years the fastest growth has been seen in the area of services. One of the largest segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism. According to the World Travel and Tourism Council (1992), 'Travel and tourism is the largest industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions'. In 1992, the industry's gross output was estimated to be $3.5 trillion, over 12 per cent of all consumer spending. The travel and tourism industry is the world's largest employer with almost 130 million jobs, or almost 7 per cent of all employees. This industry is the world's leading industrial contributor, producing over 6 per cent of the world's gross national product and accounting for capital investment in excess of $422 billion in direct, indirect and personal taxes each year. Thus, tourism has a profound impact both on the world economy and, because of the educative effect of travel and the effects on employment, on society itself.
+
 65
 
 ## Page 58
 
 Test 3
-However, the major problems of the travel and tourism industry that have hidden,
+
 D
-or obscured, its economic impact are the diversity and fragmentation of the
-industry itself. The travel industry includes: hotels, motels and other types of
-accommodation; restaurants and other food services; transportation services and
-facilities; amusements, attractions and other leisure facilities; gift shops and a
-large number of other enterprises. Since many of these businesses also serve
-local residents, the impact of spending by visitors can easily be overlooked or
-underestimated. In addition, Meis (1992) points out that the tourism industry
-involves concepts that have remained amorphous to both analysts and decision
-makers. Moreover, in all nations this problem has made it difficult for the industry
-to develop any type of reliable or credible tourism information base in order to
-estimate the contribution it makes to regional, national and global economies.
-However, the nature of this very diversity makes travel and tourism ideal vehicles
-for economic development in a wide variety of countries, regions or communities.
-Once the exclusive province of the wealthy, travel and tourism have become an
+However, the major problems of the travel and tourism industry that have hidden, or obscured, its economic impact are the diversity and fragmentation of the industry itself. The travel industry includes: hotels, motels and other types of accommodation; restaurants and other food services; transportation services and facilities; amusements, attractions and other leisure facilities; gift shops and a large number of other enterprises. Since many of these businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated. In addition, Meis (1992) points out that the tourism industry involves concepts that have remained amorphous to both analysts and decision makers. Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable or credible tourism information base in order to estimate the contribution it makes to regional, national and global economies. However, the nature of this very diversity makes travel and tourism ideal vehicles for economic development in a wide variety of countries, regions or communities.
+
 E
-institutionalised way of life for most of the population. In fact, McIntosh and
-Goeldner (1990) suggest that tourism has become the largest commodity in
-international trade for many nations and, for a significant number of other countries,
-it ranks second or third. For example, tourism is the major source of income in
-Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries. In
-addition, Hawkins and Ritchie, quoting from data published by the American
-Express Company, suggest that the travel and tourism industry is the number
-one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West
-Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and
-the United States. However, because of problems of definition, which directly affect
-statistical measurement, it is not possible with any degree of certainty to provide
-precise, valid or reliable data about the extent of world-wide tourism participation
-or its economic impact. In many cases, similar difficulties arise when attempts are
-made to measure domestic tourism.
+Once the exclusive province of the wealthy, travel and tourism have become an institutionalised way of life for most of the population. In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third. For example, tourism is the major source of income in Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries. In addition, Hawkins and Ritchie, quoting from data published by the American Express Company, suggest that the travel and tourism industry is the number one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and the United States. However, because of problems of definition, which directly affect statistical measurement, it is not possible with any degree of certainty to provide precise, valid or reliable data about the extent of world-wide tourism participation or its economic impact. In many cases, similar difficulties arise when attempts are made to measure domestic tourism.
+
 66
 
 ## Page 59
 
 Reading
-Questions 5-10
+
+Questions 5–10
 Do the following statements agree with the information given in Reading Passage 1?
-boxes 5-10 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-5
-The largest employment figures in the world are found in the travel and tourism
-industry.
-Tourism contributes over six per cent of the Australian gross national product.
-Tourism has a social impact because it promotes recreation.
-Two main features of the travel and tourism industry make its economic significance
-B
-difficult to ascertain.
-Visitor spending is always greater than the spending of residents in tourist areas.
-9
-10
-It is easy to show statistically how tourism affects individual economies.
-Questions 11-13
+In boxes 5–10 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+5 The largest employment figures in the world are found in the travel and tourism industry.
+6 Tourism contributes over six per cent of the Australian gross national product.
+7 Tourism has a social impact because it promotes recreation.
+8 Two main features of the travel and tourism industry make its economic significance difficult to ascertain.
+9 Visitor spending is always greater than the spending of residents in tourist areas.
+10 It is easy to show statistically how tourism affects individual economies.
+
+Questions 11–13
 Complete the sentences below.
 Choose NO MORE THAN THREE WORDS from the passage for each answer.
-Write your answers in boxes 11-13 on your answer sheet.
-11
-In Greece, tourism is the most important .
-12
-The travel and tourism industry in Jamaica is the major
-13
-The problems associated with measuring international tourism are often reflected in
-the measurement of
+Write your answers in boxes 11–13 on your answer sheet.
+
+11 In Greece, tourism is the most important ............... .
+12 The travel and tourism industry in Jamaica is the major ............... .
+13 The problems associated with measuring international tourism are often reflected in the measurement of ............... .
+
 67
 
 ## Page 60
 
 Test 3
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
-leaves
-Autumn
-Canadian writer Jay Ingram investigates the
-mystery of why leaves turn red in the fall
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+
+Autumn leaves
+Canadian writer Jay Ingram investigates the mystery of why leaves turn red in the fall
+
 A
-One of the most captivating natural events of the year in many areas throughout
-North America is the turning of the leaves in the fall. The colours are magnificent,
-but the question of exactly why some trees turn yellow or orange, and others red or
-purple, is something which has long puzzled scientists.
+One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists.
+
 B
-Summer leaves are green because they are full of chlorophyll, the molecule that
-captures sunlight and converts that energy into new building materials for the tree.
-As fall approaches in the northern hemisphere, the amount of solar energy available
-declines considerably. For many trees - evergreen conifers being an exception -
-the best strategy is to abandon photosynthesis" until the spring. So rather than
-maintaining the now redundant leaves throughout the winter, the tree saves its
-precious resources and discards them. But before letting its leaves go, the tree
-dismantles their chlorophyll molecules and ships their valuable nitrogen back into
-the twigs. As chlorophyll is depleted, other colours that have been dominated by it
-throughout the summer begin to be revealed. This unmasking explains the autumn
-colours of yellow and orange, but not the brilliant reds and purples of trees such as
-the maple or sumac.
+Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees – evergreen conifers being an exception – the best strategy is to abandon photosynthesis* until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac.
+
 C
-The source of the red is widely known: it is created by anthocyanins, water-soluble
-plant pigments reflecting the red to blue range of the visible spectrum. They belong to
-a class of sugar-based chemical compounds also known as flavonoids. What's puzzling
-is that anthocyanins are actually newly minted, made in the leaves at the same time as
-the tree is preparing to drop them. But it is hard to make sense of the manufacture of
-anthocyanins - why should a tree bother making new chemicals in its leaves when it's
-already scrambling to withdraw and preserve the ones already there?
+The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What's puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins – why should a tree bother making new chemicals in its leaves when it's already scrambling to withdraw and preserve the ones already there?
+
 D
-Some theories about anthocyanins have argued that they might act as a chemical
-defence against attacks by insects or fungi, or that they might attract fruit-eating
-birds or increase a leaf's tolerance to freezing. However there are problems with
-each of these theories, including the fact that leaves are red for such a relatively
-short period that the expense of energy needed to manufacture the anthocyanins
-would outweigh any anti-fungal or anti-herbivore activity achieved.
+Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf's tolerance to freezing. However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.
+
 * photosynthesis: the production of new material from sunlight, water and carbon dioxide
 68
 
 ## Page 61
 
 Reading
-It has also been proposed that trees may produce vivid red colours to convince
-herbivorous insects that they are healthy and robust and would be easily able
-to mount chemical defences against infestation. If insects paid attention to
-such advertisements, they might be prompted to lay their eggs on a duller, and
-presumably less resistant host. The flaw in this theory lies in the lack of proof
-to support it. No one has as yet ascertained whether more robust trees sport the
-brightest leaves, or whether insects make choices according to colour intensity.
-Perhaps the most plausible suggestion as to why leaves would go to the trouble
-of making anthocyanins when they're busy packing up for the winter is the
-theory known as the 'light screen' hypothesis. It sounds paradoxical, because the
-idea behind this hypothesis is that the red pigment is made in autumn leaves to
-protect chlorophyll, the light-absorbing chemical, from too much light. Why does
-chlorophyll need protection when it is the natural world's supreme light absorber?
-Why protect chlorophyll at a time when the tree is breaking it down to salvage as
-much of it as possible?
-Chlorophyll, although exquisitely evolved to capture the energy of sunlight,
-can sometimes be overwhelmed by it, especially in situations of drought, low
-temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity
-to light is even more acute in the fall, when the leaf is busy preparing for winter
-by dismantling its internal machinery. The energy absorbed by the chlorophyll
-molecules of the unstable autumn leaf is not immediately channelled into useful
-products and processes, as it would be in an intact summer leaf. The weakened fall
-leaf then becomes vulnerable to the highly destructive effects of the oxygen created
-by the excited chlorophyll molecules.
-Even if you had never suspected that this is what was going on when leaves turn
-red, there are clues out there. One is straightforward: on many trees, the leaves that
-are the reddest are those on the side of the tree which gets most sun. Not only that,
-but the red is brighter on the upper side of the leaf. It has also been recognised for
-decades that the best conditions for intense red colours are dry, sunny days and cool
-nights, conditions that nicely match those that make leaves susceptible to excess
-light. And finally, trees such as maples usually get much redder the more north you
-travel in the northern hemisphere. It's colder there, they're more stressed, their
-chlorophyll is more sensitive and it needs more sunblock.
-What is still not fully understood, however, is why some trees resort to producing
-red pigments while others don't bother, and simply reveal their orange or yellow
-hues. Do these trees have other means at their disposal to prevent overexposure to
-light in autumn? Their story, though not as spectacular to the eye, will surely turn
-out to be as subtle and as complex.
+
+E
+It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity.
+
+F
+Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the 'light screen' hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light. Why does chlorophyll need protection when it is the natural world's supreme light absorber? Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible?
+
+G
+Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules.
+
+H
+Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It's colder there, they're more stressed, their chlorophyll is more sensitive and it needs more sunblock.
+
+I
+What is still not fully understood, however, is why some trees resort to producing red pigments while others don't bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex.
+
 69
 
 ## Page 62
 
 Test 3
-Questions 14-18
-Reading Passage 2 has nine paragraphs, A-I.
+Questions 14–18
+Reading Passage 2 has nine paragraphs, A–I.
 Which paragraph contains the following information?
-Write the correct letter, AI, in boxes 14-18 on your answer sheet.
+Write the correct letter, A–I, in boxes 14–18 on your answer sheet.
 NB You may use any letter more than once.
+
 14 a description of the substance responsible for the red colouration of leaves
 15 the reason why trees drop their leaves in autumn
-some evidence to confirm a theory about the purpose of the red leaves
-17
-an explanation of the function of chlorophyll
-Questions 19-22
+16 some evidence to confirm a theory about the purpose of the red leaves
+17 an explanation of the function of chlorophyll
+18 a suggestion that the red colouration in leaves could serve as a warning signal
+
+Questions 19–22
 Complete the notes below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 19-22 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 19–22 on your answer sheet.
+
 Why believe the 'light screen' hypothesis?
-The most vividly coloured red leaves are found on the side of the tree facing the
-19 ...
-The 20
-. surfaces of leaves contain the most red pigment.
-Red leaves are most abundant when daytime weather conditions are 21
-and sunny.
-The intensity of the red colour of leaves increases as you go further 22
+
+19 The most vividly coloured red leaves are found on the side of the tree facing the ______.
+20 The ______ surfaces of leaves contain the most red pigment.
+21 Red leaves are most abundant when daytime weather conditions are ______ and sunny.
+22 The intensity of the red colour of leaves increases as you go further ______.
 70
 
 ## Page 63
 
 Reading
-estions 23-25
-the following statements agree with the information given in Reading Passage 2?
-boxes 23-25 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-It is likely that the red pigments help to protect the leaf from freezing temperatures.
-The 'light screen' hypothesis would initially seem to contradict what is known about
-chlorophyll.
-Leaves which turn colours other than red are more likely to be damaged by
-sunlight.
+Questions 23–25
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 23–25 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+23 It is likely that the red pigments help to protect the leaf from freezing temperatures.
+24 The 'light screen' hypothesis would initially seem to contradict what is known about chlorophyll.
+25 Leaves which turn colours other than red are more likely to be damaged by sunlight.
+
 Question 26
 Choose the correct letter A, B, C or D.
 Write the correct letter in box 26 on your answer sheet.
-For which of the following questions does the writer offer an explanation?
-A
-why conifers remain green in winter
-B
-how leaves turn orange and yellow in autumn
-UD
-how herbivorous insects choose which trees to lay their eggs in
-why anthocyanins are restricted to certain trees
+
+26 For which of the following questions does the writer offer an explanation?
+A why conifers remain green in winter
+B how leaves turn orange and yellow in autumn
+C how herbivorous insects choose which trees to lay their eggs in
+D why anthocyanins are restricted to certain trees
 71
 
 ## Page 64
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 Beyond the blue horizon
-Ancient voyagers who settled the far-flung islands of the
-Pacific Ocean
-An important archaeological discovery on
-USA
-the island of Éfaté in the Pacific archipelago
-Hawaii
-of Vanuatu has revealed traces of an ancient
+Ancient voyagers who settled the far-flung islands of the Pacific Ocean
 Guam
-seafaring people, the distant ancestors of today's
-Polynesians. The site came to light only by chance.
+Hawaii
+USA
 Papua New Guinea
-An agricultural worker, digging in the grounds of
-a derelict plantation, scraped open a grave — the
 Solomon
-first of dozens in a burial ground some 3,000
-Samoa
 Vanuatu
-years old. It is the oldest cemetery ever found in the
 Fiji
+Samoa
 Tahiti
 Australia
-Pacific islands, and it harbors the remains of an
-ancient people archaeologists call the Lapita.
-the international team digging up the site, 'for it
-conclusively identifies the remains as Lapita.'
-They were daring blue-water adventurers
-who used basic canoes to rove across the ocean.
-DNA teased from these human remains may
-But they were not just explorers. They were also
-help answer one of the most puzzling questions in
-pioneers who carried with them everything they
-Pacific anthropology: did all Pacific islanders spring
-would need to build new lives — their livestock,
-from one source or many? Was there only one
-taro seedlings and stone tools. Within the span
-outward migration from a single point in Asia, or
-of several centuries, the Lapita stretched the
-several from different points? 'This represents the
-boundaries of their world from the jungle-clad
-best opportunity we've had yet,' says Spriggs, to
-volcanoes of Papua New Guinea to the loneliest
-find out who the Lapita actually were, where they
-coral outliers of Tonga.
-came from, and who their closest descendants are
-today.'
-The Lapita left precious few clues about
-themselves, but Éfaté expands the volume of data
-There is one stubborn question for which
-available to researchers dramatically. The remains
-archaeology has yet to provide any answers: how
-of 62 individuals have been uncovered so far,
-did the Lapita accomplish the ancient equivalent
-and archaeologists were also thrilled to find six
-of a moon landing, many times over? No-one
-complete Lapita pots. Other items included a
-has found one of their canoes or any rigging,
-Lapita burial urn with modeled birds arranged
-which could reveal how the canoes were sailed.
-on the rim as though peering down at the human
-Nor do the oral histories and traditions of later
-remains sealed inside. 'It's an important discovery,'
-Polynesians offer any insights, for they turn into
-says Matthew Spriggs, professor of archaeology at
-myths long before they reach as far back in time
-the Australian National University and head of
-as the Lapita.
+
+An important archaeological discovery on the island of Éfaté in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today’s Polynesians. The site came to light only by chance. An agricultural worker, digging in the grounds of a derelict plantation, scraped open a grave – the first of dozens in a burial ground some 3,000 years old. It is the oldest cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita.
+
+They were daring blue-water adventurers who used basic canoes to rove across the ocean. But they were not just explorers. They were also pioneers who carried with them everything they would need to build new lives – their livestock, taro seedlings and stone tools. Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
+
+The Lapita left precious few clues about themselves, but Éfaté expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots. Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, ‘for it conclusively identifies the remains as Lapita.’
+
+DNA teased from these human remains may help answer one of the most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many? Was there only one outward migration from a single point in Asia, or several from different points? ‘This represents the best opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’
+
+There is one stubborn question for which archaeology has yet to provide any answers: how did the Lapita accomplish the ancient equivalent of a moon landing, many times over? No-one has found one of their canoes or any rigging, which could reveal how the canoes were sailed. Nor do the oral histories and traditions of later Polynesians offer any insights, for they turn into myths long before they reach as far back in time as the Lapita.
 72
 
 ## Page 65
 
 Reading
-All we can say for certain is that the Lapita
-easy. Vanuatu, for example, stretches more than
-canoes that were capable of ocean voyages,
-500 miles in a northwest-southeast trend, its
-they had the ability to sail them,' says Geoff
-scores of intervisible islands forming a backstop
-, a professor of archaeology at the University
-for mariners riding the trade winds home.
-Auckland. Those sailing skills, he says, were
-All this presupposes one essential detail, says
-doped and passed down over thousands of
-Atholl Anderson, professor of prehistory at the
-by earlier mariners who worked their way
-Australian National University: the Lapita had
-gh the archipelagoes of the western Pacific,
-mastered the advanced art of sailing against the
-ing short crossings to nearby islands. The real
-wind. And there's no proof they could do any
-enture didn't begin, however, until their Lapita
-such thing,' Anderson says. 'There has been
-cendants sailed out of sight of land, with
-this assumption they did, and people have built
-pty horizons on every side. This must have
-canoes to re-create those early voyages based on that
-as difficult for them as landing on the moon
-assumption. But nobody has any idea what their
-r us today. Certainly it distinguished them
-canoes looked like or how they were rigged.'
-their ancestors, but what gave them the
-rage to launch out on such risky voyages?
-Rather than give all the credit to human
-skill, Anderson invokes the winds of chance. El
-The Lapita's thrust into the Pacific was
-Nino, the same climate disruption that affects the
-ward, against the prevailing trade winds,
-Pacific today, may have helped scatter the Lapita,
-notes. Those nagging headwinds, he argues,
-Anderson suggests. He points out that climate data
-have been the key to their success. "They
-obtained from slow-growing corals around the
-Id sail out for days into the unknown and assess
-Pacific indicate a series of unusually frequent El
-area, secure in the knowledge that if they
-Niños around the time of the Lapita expansion. By
-t find anything, they could turn about
-reversing the regular east-to-west flow of the trade
-catch a swift ride back on the trade winds.
-winds for weeks at a time, these 'super El Ninos'
-is what would have made the whole thing
-might have taken the Lapita on long unplanned
-.' Once out there, skilled seafarers would
-detected abundant leads to follow to land:
-voyages.
-birds, coconuts and twigs carried out to sea by
-However they did it, the Lapita spread
-tides, and the afternoon pile-up of clouds on
-themselves a third of the way across the Pacific,
-horizon which often indicates an island in the
-then called it quits for reasons known only to
-ance.
-them. Ahead lay the vast emptiness of the central
-Pacific and perhaps they were too thinly stretched
-For returning explorers, successful or not, the
-to venture farther. They probably never numbered
-graphy of their own archipelagoes would have
-more than a few thousand in total, and in their
-ided a safety net. Without this to go by,
-rapid migration eastward they encountered
-eshooting their home ports, getting lost and
-hundreds of islands - more than 300 in Fiji alone.
-ing off into eternity would have been all too
+‘All we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland. Those sailing skills, he says, were developed and passed down over thousands of years by earlier mariners who worked their way through the archipelagoes of the western Pacific, making short crossings to nearby islands. The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on every side. This must have been as difficult for them as landing on the moon is for us today. Certainly it distinguished them from their ancestors, but what gave them the courage to launch out on such risky voyages?
+
+The Lapita’s thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. Those nagging headwinds, he argues, may have been the key to their success. ‘They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn’t find anything, they could turn about and catch a swift ride back on the trade winds. This is what would have made the whole thing work.’ Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance.
+
+For returning explorers, successful or not, the geography of their own archipelagoes would have provided a safety net. Without this to go by, overshooting their home ports, getting lost and sailing off into eternity would have been all too easy. Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home.
+
+All this presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind. ‘And there’s no proof they could do any such thing,’ Anderson says. ‘There has been this assumption they did, and people have built canoes to re-create those early voyages based on that assumption. But nobody has any idea what their canoes looked like or how they were rigged.’
+
+Rather than give all the credit to human skill, Anderson invokes the winds of chance. El Niño, the same climate disruption that affects the Pacific today, may have helped scatter the Lapita, Anderson suggests. He points out that climate data obtained from slow-growing corals around the Pacific indicate a series of unusually frequent El Niños around the time of the Lapita expansion. By reversing the regular east-to-west flow of the trade winds for weeks at a time, these ‘super El Niños’ might have taken the Lapita on long unplanned voyages.
+
+However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them. Ahead lay the vast emptiness of the central Pacific and perhaps they were too thinly stretched to venture farther. They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone.
 73
 
 ## Page 66
 
 Test 3
-Questions 27-31
-Complete the summary using the list of words and phrases, A-J, below.
-Write the correct letter, A-J, in boxes 27-31 on your answer sheet.
+Questions 27–31
+Complete the summary using the list of words and phrases, A–J, below.
+Write the correct letter, A–J, in boxes 27–31 on your answer sheet.
 The Éfaté burial site
-A 3,000-year-old burial ground of a seafaring people called the Lapita has been found
-on an abandoned 27 .. on the Pacific island of Efaté. The cemetery, which is a
-significant 28 ...
-.. , was uncovered accidentally by an agricultural worker.
-The Lapita explored and colonised many Pacific islands over several centuries. They
-took many things with them on their voyages including 29 ....
-and tools.
-The burial ground increases the amount of information about the Lapita available to
-scientists. A team of researchers, led by Matthew Spriggs from the Australian National
-University, are helping with the excavation of the site. Spriggs believes the 30 ...
-which was found at the site is very important since it confirms that the 31 ....
-.. found
-inside are Lapita.
-AB
-proof
-plantation
-C
-harbour
-D
-bones
-E
-data
-F
-archaeological discovery
-G
-burial urn
-H
-source
--
-animals
-J
-maps
+A 3,000-year-old burial ground of a seafaring people called the Lapita has been found on an abandoned 27 ............... on the Pacific island of Éfaté. The cemetery, which is a significant 28 ..............., was uncovered accidentally by an agricultural worker.
+The Lapita explored and colonised many Pacific islands over several centuries. They took many things with them on their voyages including 29 ............... and tools.
+The burial ground increases the amount of information about the Lapita available to scientists. A team of researchers, led by Matthew Spriggs from the Australian National University, are helping with the excavation of the site. Spriggs believes the 30 ............... which was found at the site is very important since it confirms that the 31 ............... found inside are Lapita.
+A proof
+B plantation
+C harbour
+D bones
+E data
+F archaeological discovery
+G burial urn
+H source
+I animals
+J maps
 74
 
 ## Page 67
 
 Reading
-Questions 32-35
+Questions 32–35
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 32-35 on your answer sheet.
-According to the writer, there are difficulties explaining how the Lapita
-32
-accomplished their journeys because
-the canoes that have been discovered offer relatively few clues.
-A
-archaeologists have shown limited interest in this area of research.
-B
-little information relating to this period can be relied upon for accuracy.
-C
-technological advances have altered the way such achievements are viewed.
-D
-According to the sixth paragraph, what was extraordinary about the Lapita?
-33
-They sailed beyond the point where land was visible.
-A
-Their cultural heritage discouraged the expression of fear.
-B
-They were able to build canoes that withstood ocean voyages.
-C
-Their navigational skills were passed on from one generation to the next.
-D
-What does 'This' refer to in the seventh paragraph?
-34
-the Lapita's seafaring talent
-A
-B
-the Lapita's ability to detect signs of land
-the Lapita's extensive knowledge of the region
-C
-the Lapita's belief they would be able to return home
-D
-According to the eighth paragraph, how was the geography of the region
-35
-significant?
-A
-It played an important role in Lapita culture.
-It meant there were relatively few storms at sea.
-B
-C
-It provided a navigational aid for the Lapita.
-D
-It made a large number of islands habitable.
+Write the correct letter in boxes 32–35 on your answer sheet.
+32 According to the writer, there are difficulties explaining how the Lapita accomplished their journeys because
+A the canoes that have been discovered offer relatively few clues.
+B archaeologists have shown limited interest in this area of research.
+C little information relating to this period can be relied upon for accuracy.
+D technological advances have altered the way such achievements are viewed.
+33 According to the sixth paragraph, what was extraordinary about the Lapita?
+A They sailed beyond the point where land was visible.
+B Their cultural heritage discouraged the expression of fear.
+C They were able to build canoes that withstood ocean voyages.
+D Their navigational skills were passed on from one generation to the next.
+34 What does ‘This’ refer to in the seventh paragraph?
+A the Lapita’s seafaring talent
+B the Lapita’s ability to detect signs of land
+C the Lapita’s extensive knowledge of the region
+D the Lapita’s belief they would be able to return home
+35 According to the eighth paragraph, how was the geography of the region significant?
+A It played an important role in Lapita culture.
+B It meant there were relatively few storms at sea.
+C It provided a navigational aid for the Lapita.
+D It made a large number of islands habitable.
+75
 
 ## Page 68
 
 Test 3
-Questions 36-40
+Questions 36–40
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 36-40 on your answer sheet, write
-if the statement agrees with the views of the writer
-YES
-NO
-if the statement contradicts the views of the writer
-NOT GIVEN
-if it is impossible to say what the writer thinks about this
-36
-It is now clear that the Lapita could sail into a prevailing wind.
-Extreme climate conditions may have played a role in Lapita migration.
-37
+In boxes 36–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+36 It is now clear that the Lapita could sail into a prevailing wind.
+37 Extreme climate conditions may have played a role in Lapita migration.
 38 The Lapita learnt to predict the duration of El Niños.
 39 It remains unclear why the Lapita halted their expansion across the Pacific.
-40It is likely that the majority of Lapita settled on Fiji.
+40 It is likely that the majority of Lapita settled on Fiji.
 76
 
 ## Page 69
@@ -6061,7 +5802,7 @@ scores acceptable.
 Listening and Reading Answer Keys
 ACADEMIC READING
 
-Reading Passage 1, Questions 1-13
+Reading Passage 1, Questions 1–13
 1 ii
 2 i
 3 v
@@ -6072,11 +5813,11 @@ Reading Passage 1, Questions 1-13
 8 TRUE
 9 NOT GIVEN
 10 FALSE
-11 source of income / industry
+11 source of income/industry
 12 employer
 13 domestic tourism
 
-Reading Passage 2, Questions 14-26
+Reading Passage 2, Questions 14–26
 14 C
 15 B
 16 H
@@ -6091,7 +5832,7 @@ Reading Passage 2, Questions 14-26
 25 NOT GIVEN
 26 B
 
-Reading Passage 3, Questions 27-40
+Reading Passage 3, Questions 27–40
 27 B
 28 F
 29 I
@@ -6108,12 +5849,12 @@ Reading Passage 3, Questions 27-40
 40 NOT GIVEN
 
 If you score...
-0-11: you are unlikely to get an acceptable score under examination conditions and
-we recommend that you spend a lot of time improving your English before you take IELTS.
-12-27: you may get an acceptable score under examination conditions but we recommend
-that you think about having more practice or lessons before you take IELTS.
-28-40: you are likely to get an acceptable score under examination conditions but
-remember that different institutions will find different scores acceptable.
+0–11
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12–27
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+28–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 149
 
