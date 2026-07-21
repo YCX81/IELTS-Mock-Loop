@@ -775,7 +775,7 @@ Suitable employee: likes to work in groups
 
 READING
 READING PASSAGE 1
-You should spend about 20 minutes an Questions 1-13, which are based on
+You should spend about 20 minutes an Question 1—13, which are based on
 Reading Passage 1 below.
 A. Hearing impairment or other auditory function deficit in young children can have a
 major impact on their development of speech and communication, resulting in a
@@ -908,7 +908,7 @@ C cooling systems
 D large class sizes
 E loud-voiced teachers
 F playground games
-Questions 1-3
+Questions 13
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 13 on your answer sheet.
 What is the writer’s overall purpose in writing this article?
@@ -920,7 +920,7 @@ D to promote New Zealand as a model for other countries to follow
 ## Page 41
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Question 14—26, which are based on
 Reading Passage 2 below.
 Venus in transit
 June 2004 saw the first passage, known as a ‘transit’, of the planet Venus across the
@@ -1005,10 +1005,10 @@ G. June 2004’s transit of Venus was thus more of an astronomical spectacle tha
 a scientifically important event. But such transits have paved the way for what
 might prove to be one of the most vital breakthrough in the cosmos—detecting
 Earth-sized planets orbiting other stars.
-Questions 14-17
+Questions 14—17
 Reading Passage 2 has seven paragraphs, A—G.
 Which paragraph contains the following information?
-Write the correct letter, A—G, in boxes 14-17 on your answer sheet.
+Write the correct letter, A—G, in boxes 14—17 on your answer sheet.
 14 examples of different ways in which the parallax principle has been applied
 15 a description of an event which prevented a transit observation
 16 a statement about potential future discoveries leading on from transit
@@ -1019,9 +1019,9 @@ instruments failed to overcome
 ## Page 45
 
 Questions 18-21
-Look at the following statements (Questions 18-21) and the list of people below.
+Look at the following statements (Questions 18—21) and the list of people below.
 Match each statement with the correct person, A, B, C or D.
-Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 18—21 on your answer sheet.
 18 He calculated the distance of the Sun from the Earth based one observations of
 Venus with a fair degree of accuracy.
 19 He understood that the distance of the Sun from the Earth could be worked out
@@ -1041,7 +1041,7 @@ Questions 22—26
 Do the following statements agree with the information given in Reading Passage 2?
 In boxes 22—26 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 22 Halley observed one transit of the Planet Venus.
 23 Le Gentil managed to observe a second Venus transit.
@@ -1053,7 +1053,7 @@ stars are from the Earth.
 ## Page 47
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27—40, which are based on
 Reading Passage 3 below.
 A neuroscientist reveals how to think differently
 In the last decade a revolution has occurred in the way that scientists think about the
@@ -1134,9 +1134,9 @@ technology to business. They supply creativity and innovation not easily
 accomplished by committees. Rules aren’t important to them. Iconoclasts face
 alienation and failure, but can also be a major asset to any organization. It is crucial
 for success in any field to understand how the iconoclastic mind works.
-Questions 27-31
+Questions 27—31
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-31 on your answer sheet.
+Write the correct letter in boxes 27—31 on your answer sheet.
 27 Neuroeconomics is a field of study which seeks to
 A cause a change in how scientists understand brain chemistry.
 B understand how good decisions are made in the brain.
@@ -1169,7 +1169,7 @@ Questions 32—37
 Do the following statements agree with the information given in Reading Passage 3?
 In boxes 32—37 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 
 ## Page 52
@@ -1183,7 +1183,7 @@ irrelevant.
 37 Fear of public speaking is a psychological illness.
 Questions 38-40
 Complete each sentence with the correct ending, A—E, below.
-Write the correct letter, A—E, in boxes 38-40 on your answer sheet.
+Write the correct letter, A—E, in boxes 38—40 on your answer sheet.
 38 Thinking like a successful iconoclast is demanding because it
 39 The concept of the social brain is useful to iconoclasts because it
 40 Iconoclasts are generally an asset because their way of thinking
@@ -3718,7 +3718,50 @@ Reading Passage 3, Questions 27–40
 
 ## Page 150
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 H
+2 C
+3 B
+4 I
+5 D
+6 A
+7 two decades
+8 crowd (noise)
+9 invisible (disabilities/disability)
+10 Objective 3
+11&12 IN EITHER ORDER: A; C
+13 C
+Reading Passage 2, Questions 14–26
+14 F
+15 D
+16 G
+17 E
+18 D
+19 A
+20 B
+21 C
+22 FALSE
+23 FALSE
+24 TRUE
+25 NOT GIVEN
+26 TRUE
+Reading Passage 3, Questions 27–40
+27 C
+28 B
+29 D
+30 C
+31 B
+32 YES
+33 YES
+34 NOT GIVEN
+35 NO
+36 NOT GIVEN
+37 NO
+38 A
+39 B
+40 C
 ## Page 151
 
 
