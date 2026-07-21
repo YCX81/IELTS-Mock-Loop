@@ -1,0 +1,204 @@
+{
+  "book": 11,
+  "test": 1,
+  "passage": 3,
+  "status": "manually_calibrated",
+  "title": "Reducing the Effects of Climate Change",
+  "subtitle": "Mark Rowe reports on the increasingly ambitious geo-engineering projects being explored by scientists",
+  "overallInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "sourcePages": [23, 24, 25, 26, 27],
+  "passagePages": [23, 24],
+  "questionPages": [25, 26, 27],
+  "answerKeyPage": 123,
+  "paragraphs": [
+    {
+      "label": "A",
+      "sentences": [
+        "Such is our dependence on fossil fuels, and such is the volume of carbon dioxide already released into the atmosphere, that many experts agree that significant global warming is now inevitable.",
+        "They believe that the best we can do is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions.",
+        "But while a few countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it.",
+        "Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering – a term which generally refers to the intentional large-scale manipulation of the environment.",
+        "According to its proponents, geo-engineering is the equivalent of a backup generator: if Plan A – reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming."
+      ]
+    },
+    {
+      "label": "B",
+      "sentences": [
+        "Geo-engineering has been shown to work, at least on a small localised scale.",
+        "For decades, May Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry ice, silver iodide and cement powder to disperse clouds.",
+        "Many of the schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet.",
+        "The most eye-catching idea of all is suggested by Professor Roger Angel of the University of Arizona.",
+        "His scheme would employ up to 16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth.",
+        "This could, argues Angel, reduce the amount of light reaching the Earth by two per cent."
+      ]
+    },
+    {
+      "label": "C",
+      "sentences": [
+        "The majority of geo-engineering projects so far carried out – which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae – have focused on achieving a general cooling of the Earth.",
+        "But some look specifically at reversing the melting at the poles, particularly the Arctic.",
+        "The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes, more light will be reflected back into space, so reducing the warming of the oceans and atmosphere."
+      ]
+    },
+    {
+      "label": "D",
+      "sentences": [
+        "The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists.",
+        "This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.",
+        "The idea is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5 °C.",
+        "Scientists have also scrutinised whether it’s possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.",
+        "Meanwhile in the Russian Arctic, geo-engineering plans include the planting of millions of birch trees.",
+        "Whereas the region’s native evergreen pines shade the snow and absorb radiation, birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.",
+        "Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists."
+      ]
+    },
+    {
+      "label": "E",
+      "sentences": [
+        "But will such schemes ever be implemented?",
+        "Generally speaking, those who are most cautious about geo-engineering are the scientists involved in the research.",
+        "Angel says that his plan is ‘no substitute for developing renewable energy: the only permanent solution’.",
+        "And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering: ‘I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to its pre-engineered condition very rapidly, and probably within ten to twenty years.",
+        "That’s certainly something to worry about.’"
+      ]
+    },
+    {
+      "label": "F",
+      "sentences": [
+        "The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean.",
+        "‘Geo-engineering plans to inject stratospheric aerosols or to seed clouds would act to cool the planet, and act to increase the extent of sea ice,’ says Rasch.",
+        "‘But all the models suggest some impact on the distribution of precipitation.’"
+      ]
+    },
+    {
+      "label": "G",
+      "sentences": [
+        "‘A further risk with geo-engineering projects is that you can “overshoot”,’ says Dr Dan Lunt, from the University of Bristol’s School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate.",
+        "‘You may bring global temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than they should be and the tropics will be cooler than before industrialisation.’",
+        "To avoid such a scenario, Lunt says Angel’s project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether."
+      ]
+    },
+    {
+      "label": "H",
+      "sentences": [
+        "The main reason why geo-engineering is supported by many in the scientific community is that most researchers have little faith in the ability of politicians to agree – and then bring in – the necessary carbon cuts.",
+        "Even leading conservation organisations see the value of investigating the potential of geo-engineering.",
+        "According to Dr Martin Sommerkorn, climate change advisor for the World Wildlife Fund’s International Arctic Programme, ‘Human-induced climate change has brought humanity to a position where we shouldn’t exclude thinking thoroughly about this topic and its possibilities.’"
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "27–29",
+      "type": "matching_information",
+      "instructions": [
+        "Reading Passage 3 has eight paragraphs A–H.",
+        "Which paragraph contains the following information?",
+        "Write the correct letter, A–H, in boxes 27–29 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "prompt": "mention of a geo-engineering project based on an earlier natural phenomenon",
+          "answer": "D",
+          "acceptableAnswers": ["D"],
+          "evidence": "The idea is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5 °C.",
+          "location": "Paragraph D",
+          "distractorBasis": "B describes an earlier successful human use, not a scheme copied from a natural phenomenon; A defines geo-engineering rather than identifying such a model."
+        },
+        {
+          "number": 28,
+          "prompt": "an example of a successful use of geo-engineering",
+          "answer": "B",
+          "acceptableAnswers": ["B"],
+          "evidence": "Geo-engineering has been shown to work, at least on a small localised scale. For decades, May Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry ice, silver iodide and cement powder to disperse clouds.",
+          "location": "Paragraph B",
+          "distractorBasis": "D lists proposed interventions and a volcanic model; none is presented as the already successful geo-engineering example requested."
+        },
+        {
+          "number": 29,
+          "prompt": "a common definition of geo-engineering",
+          "answer": "A",
+          "acceptableAnswers": ["A"],
+          "evidence": "Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering – a term which generally refers to the intentional large-scale manipulation of the environment.",
+          "location": "Paragraph A",
+          "distractorBasis": "Other paragraphs give projects, risks or opinions; the wording 'a term which generally refers to' explicitly signals the general definition in A."
+        }
+      ]
+    },
+    {
+      "range": "30–36",
+      "type": "table_completion",
+      "title": "GEO-ENGINEERING PROJECTS",
+      "instructions": [
+        "Complete the table below.",
+        "Choose ONE WORD from the passage for each answer.",
+        "Write your answers in boxes 30–36 on your answer sheet."
+      ],
+      "columns": ["Procedure", "Aim"],
+      "rows": [
+        {"procedure": "put a large number of tiny spacecraft into orbit far above Earth", "aim": "to create a 30 __________ that would reduce the amount of light reaching Earth"},
+        {"procedure": "place 31 __________ in the sea", "aim": "to encourage 32 __________ to form"},
+        {"procedure": "release aerosol sprays into the stratosphere", "aim": "to create 33 __________ that would reduce the amount of light reaching Earth"},
+        {"procedure": "fix strong 34 __________ to Greenland ice sheets", "aim": "to prevent icebergs moving into the sea"},
+        {"procedure": "plant trees in the Russian Arctic that would lose their leaves in winter", "aim": "to allow the 35 __________ to reflect radiation"},
+        {"procedure": "change the direction of 36 __________", "aim": "to bring more cold water into ice-forming areas"}
+      ],
+      "questions": [
+        {"number": 30, "prompt": "to create a 30 __________ that would reduce the amount of light reaching Earth", "answer": "sunshade", "acceptableAnswers": ["sunshade"], "wordLimit": "ONE WORD", "evidence": "His scheme would employ up to 16 trillion minute spacecraft ... to form a transparent, sunlight-refracting sunshade ...", "location": "Paragraph B", "distractorBasis": "spacecraft is the material/procedure; orbit is the location; sunshade alone names the object created."},
+        {"number": 31, "prompt": "place 31 __________ in the sea", "answer": "iron", "acceptableAnswers": ["iron"], "wordLimit": "ONE WORD", "evidence": "... depositing iron in the ocean to stimulate the growth of algae ...", "location": "Paragraph C", "distractorBasis": "algae is the organism encouraged to grow and therefore belongs in Question 32, not the substance placed in the sea."},
+        {"number": 32, "prompt": "to encourage 32 __________ to form", "answer": "algae", "acceptableAnswers": ["algae"], "wordLimit": "ONE WORD", "evidence": "... depositing iron in the ocean to stimulate the growth of algae ...", "location": "Paragraph C", "distractorBasis": "iron is deposited; algae is what grows. The table paraphrases stimulate the growth of as encourage ... to form."},
+        {"number": 33, "prompt": "to create 33 __________ that would reduce the amount of light reaching Earth", "answer": "clouds", "acceptableAnswers": ["clouds"], "wordLimit": "ONE WORD", "evidence": "... sulphur dioxide would form clouds, which would, in turn, lead to a global dimming.", "location": "Paragraph D", "distractorBasis": "aerosols and sulphur are inputs; clouds are the result that causes dimming."},
+        {"number": 34, "prompt": "fix strong 34 __________ to Greenland ice sheets", "answer": "cables", "acceptableAnswers": ["cables"], "wordLimit": "ONE WORD", "evidence": "... preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea.", "location": "Paragraph D", "distractorBasis": "reinforced and high-tension are modifiers; the required noun after strong is cables."},
+        {"number": 35, "prompt": "to allow the 35 __________ to reflect radiation", "answer": "snow", "acceptableAnswers": ["snow"], "wordLimit": "ONE WORD", "evidence": "... birches would shed their leaves in winter, thus enabling radiation to be reflected by the snow.", "location": "Paragraph D, sentence crossing source pages 23-24", "distractorBasis": "birches lose their leaves and enable the process; snow is the surface that reflects radiation."},
+        {"number": 36, "prompt": "change the direction of 36 __________", "answer": "rivers", "acceptableAnswers": ["rivers"], "wordLimit": "ONE WORD", "evidence": "Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming ...", "location": "Paragraph D", "distractorBasis": "water is what flows; rivers are what the procedure re-routes, matching change the direction of."
+        }
+      ]
+    },
+    {
+      "range": "37–40",
+      "type": "matching_features",
+      "instructions": [
+        "Look at the following statements (Questions 37–40) and the list of scientists below.",
+        "Match each statement with the correct scientist, A–D.",
+        "Write the correct letter, A–D, in boxes 37–40 on your answer sheet."
+      ],
+      "optionsTitle": "List of Scientists",
+      "options": [
+        {"letter": "A", "text": "Roger Angel"},
+        {"letter": "B", "text": "Phil Rasch"},
+        {"letter": "C", "text": "Dan Lunt"},
+        {"letter": "D", "text": "Martin Sommerkorn"}
+      ],
+      "questions": [
+        {"number": 37, "prompt": "The effects of geo-engineering may not be long-lasting.", "answer": "B", "acceptableAnswers": ["B"], "evidence": "Phil Rasch says that if geo-engineering ended, the planet would return to its pre-engineered condition ‘very rapidly, and probably within ten to twenty years’.", "location": "Paragraph E", "distractorBasis": "Angel discusses renewable energy; Lunt discusses overshooting and half strength; Sommerkorn argues the topic should be considered."},
+        {"number": 38, "prompt": "Geo-engineering is a topic worth exploring.", "answer": "D", "acceptableAnswers": ["D"], "evidence": "Martin Sommerkorn says humanity is in a position where ‘we shouldn’t exclude thinking thoroughly about this topic and its possibilities.’", "location": "Paragraph H", "distractorBasis": "Angel, Rasch and Lunt mainly stress limitations or risks; Sommerkorn explicitly supports continued consideration."},
+        {"number": 39, "prompt": "It may be necessary to limit the effectiveness of geo-engineering projects.", "answer": "C", "acceptableAnswers": ["C"], "evidence": "Lunt says Angel’s project would have to operate at half strength to avoid an uneven climate outcome.", "location": "Paragraph G", "distractorBasis": "Rasch warns about reversibility and precipitation; Angel says geo-engineering cannot replace renewables; Sommerkorn supports investigation."},
+        {"number": 40, "prompt": "Research into non-fossil-based fuels cannot be replaced by geo-engineering.", "answer": "A", "acceptableAnswers": ["A"], "evidence": "Angel says that his plan is ‘no substitute for developing renewable energy: the only permanent solution’.", "location": "Paragraph E", "distractorBasis": "Rasch discusses duration and rainfall, Lunt project strength, and Sommerkorn the value of considering possibilities; only Angel contrasts geo-engineering with renewable-energy development."}
+      ]
+    }
+  ],
+  "officialAnswers": {
+    "27": "D", "28": "B", "29": "A", "30": "sunshade", "31": "iron", "32": "algae", "33": "clouds", "34": "cables", "35": "snow", "36": "rivers", "37": "B", "38": "D", "39": "C", "40": "A"
+  },
+  "calibrationFindings": [
+    "Paragraph D crosses source pages 23-24: 'birches would shed their' continues with 'leaves in winter ...'.",
+    "Corrected OCR 'ice-forming arcas' to source-verified 'ice-forming areas'.",
+    "Corrected OCR 'geo-engincering' to source-verified 'geo-engineering'.",
+    "Restored the closing single quotation marks in the quotations in paragraphs E, F and H.",
+    "Verified all table cells, Questions 27–40, scientist labels A–D and official answers against the rendered source pages."
+  ],
+  "selfCheck": {
+    "paragraphCount": 8,
+    "sentenceCount": 35,
+    "questionSectionCount": 3,
+    "questionCount": 14,
+    "questionRange": "27–40",
+    "answerCount": 14,
+    "allInstructionsCaptured": true,
+    "allTableFieldsCaptured": true,
+    "allOptionsCaptured": true,
+    "visualReviewCompleted": true,
+    "sourceImages": 0
+  }
+}
