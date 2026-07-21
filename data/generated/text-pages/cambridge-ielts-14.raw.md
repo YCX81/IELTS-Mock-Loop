@@ -1661,77 +1661,86 @@ Concert 3
 Reading
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13 which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The concept of intelligence
-A Looked at in one way, everyone knows what intelligence is; looked at in another way, no one
-does. In other words, people all have unconscious notions 一 lcnown as "implicit theories9 -
+A  Looked at in one way, everyone knows what intelligence is; looked at in another way, no one
+does. In other words, people all have unconscious notions – known as ‘implicit theories’ –
 of intelligence, but no one knows for certain what it actually is. This chapter addresses how
 people conceptualize intelligence, whatever it may actually be.
+
 But why should we even care what people think intelligence is, as opposed only to valuing
-whatever it actually is? There are at least four reasons people's conceptions of intelligence
+whatever it actually is? There are at least four reasons people’s conceptions of intelligence
 matter.
-B First, implicit theories of intelligence drive the way in which people perceive and evaluate
+
+B  First, implicit theories of intelligence drive the way in which people perceive and evaluate
 their own intelligence and that of others. To better understand the judgments people make
-about their own and others' abilities, it is useful to learn about peopled implicit theories.
-For example, parents9 implicit theories of their children's language development will
-determine at what ages they will be willing to make various corrections in their children^
-speech. More generally, parents9 implicit theories of intelligence will determine at what ages
+about their own and others’ abilities, it is useful to learn about people’s implicit theories.
+For example, parents’ implicit theories of their children’s language development will
+determine at what ages they will be willing to make various corrections in their children’s
+speech. More generally, parents’ implicit theories of intelligence will determine at what ages
 they believe their children are ready to perform various cognitive tasks. Job interviewers
 will make hiring decisions on the basis of their implicit theories of intelligence. People
-will decide who to be friends with on the basis of such theories. In sum, laiowledge about
+will decide who to be friends with on the basis of such theories. In sum, knowledge about
 implicit theories of intelligence is important because this knowledge is so often used by
 people to make judgments in the course of their everyday lives.
-C Second, the implicit theories of scientific investigators ultimately give rise to their explicit
+
+C  Second, the implicit theories of scientific investigators ultimately give rise to their explicit
 theories. Thus it is useful to find out what these implicit theories are. Implicit theories
-provide a framework that is useful in defining the general scope of a phenomenon 一
-especially a not-well-understood phenomenon・ These implicit theories can suggest what
+provide a framework that is useful in defining the general scope of a phenomenon –
+especially a not-well-understood phenomenon. These implicit theories can suggest what
 aspects of the phenomenon have been more or less attended to in previous investigations.
-D Third, implicit theories can be useful when an investigator suspects that existing explicit
+
+D  Third, implicit theories can be useful when an investigator suspects that existing explicit
 theories are wrong or misleading. If an investigation of implicit theories reveals little
 correspondence between the extant implicit and explicit theories, the implicit theories may
 be wrong. But the possibility also needs to be taken into account that the explicit theories
 are wrong and in need of correction or supplementation. For example, some implicit
 theories of intelligence suggest the need for expansion of some of our explicit theories of
-the construct・
+the construct.
 59
 
 ## Page 60
 
 Test 3
-E Finally, understanding implicit theories of intelligence can help elucidate developmental and
+E  Finally, understanding implicit theories of intelligence can help elucidate developmental and
 cross-cultural differences. As mentioned earlier, people have expectations for intellectual
-performances that differ for children of different ages・ How these expectations differ is
+performances that differ for children of different ages. How these expectations differ is
 in part a function of culture. For example, expectations for children who participate in
 Western-style schooling are almost certain to be different from those for children who do
 not participate in such schooling.
-F I have suggested that there are three major implicit theories of how intelligence relates to
+
+F  I have suggested that there are three major implicit theories of how intelligence relates to
 society as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and
 Jacksonian. These views are not based strictly, but rather, loosely, on the philosophies of
 Alexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the
 history of the United States.
-G The Hamiltonian view, which is similar to the Platonic view, is that people are born with
+
+G  The Hamiltonian view, which is similar to the Platonic view, is that people are born with
 different levels of intelligence and that those who are less intelligent need the good offices
 of the more intelligent to keep them in line, whether they are called government officials or,
-in Plato5s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this
+in Plato’s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this
 belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually
 would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ)
 people who cannot take care of themselves. Left to themselves, the unintelligent would
 create, as they always have created, a kind of chaos.
-H The Jeffersonian view is that people should have equal opportunities, but they do not
+
+H  The Jeffersonian view is that people should have equal opportunities, but they do not
 necessarily avail themselves equally of these opportunities and are not necessarily equally
 rewarded for their accomplishments. People are rewarded for what they accomplish, if given
 equal opportunity. Low achievers are not rewarded to the same extent as high achievers.
 In the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the
 Hamiltonian tradition, but rather to allow children the opportunities to make full use of the
-skills they have・ My own views are similar to these (Sternberg, 1997).
-I The Jacksonian view is that all people are equal, not only as human beings but in terms
-of their competencies — that one person would serve as well as another in government or
+skills they have. My own views are similar to these (Sternberg, 1997).
+
+I  The Jacksonian view is that all people are equal, not only as human beings but in terms
+of their competencies – that one person would serve as well as another in government or
 on a jury or in almost any position of responsibility. In this view of democracy, people are
-essentially intersubstitutable except for specialized skills, all of which can be learned・ In
+essentially intersubstitutable except for specialized skills, all of which can be learned. In
 this view, we do not need or want any institutions that might lead to favoring one group
 over another.
-J Implicit theories of intelligence and of the relationship of intelligence to society perhaps
+
+J  Implicit theories of intelligence and of the relationship of intelligence to society perhaps
 need to be considered more carefully than they have been because they often serve as
 underlying presuppositions for explicit theories and even experimental designs that are then
 taken as scientific contributions. Until scholars are able to discuss their implicit theories
@@ -1742,289 +1751,166 @@ discussing their explicit theories and their data.
 ## Page 61
 
 Reading
-Questions 1-3
-Reading Passage 1 has ten sections, A-J.
+Questions 1–3
+Reading Passage 1 has ten sections, A–J.
 Which section contains the following information?
-Write the correct letter, A-J, in boxes 1_3 on your answer sheet.
-1 information about how non-scientists, assumptions about intelligence influence their
+Write the correct letter, A–J, in boxes 1–3 on your answer sheet.
+1 information about how non-scientists’ assumptions about intelligence influence their
 behaviour towards others
-2 a reference to lack of clarity over the definition of intelligenee
-3 the point that a researcher's implicit and explicit theories may be very different
-Questions 4-6
+2 a reference to lack of clarity over the definition of intelligence
+3 the point that a researcher’s implicit and explicit theories may be very different
+
+Questions 4–6
 Do the following statements agree with the claims of the writer in Reading Passage 1?
-In boxes 4-6 on your answer sheet, write
+In boxes 4–6 on your answer sheet, write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-4 Slow language developme nt in chi Id re n is likely to prove disappoi nting to their
-pare nts.
-5 People's expectations of what children should gain from education are universal.
+4 Slow language development in children is likely to prove disappointing to their
+parents.
+5 People’s expectations of what children should gain from education are universal.
 6 Scholars may discuss theories without fully understanding each other.
 61
 
 ## Page 62
 
 Test 3
-Questions 7-13
-Look at the following statements (Questions 7-13) and the list of theories below.
+Questions 7–13
+Look at the following statements (Questions 7–13) and the list of theories below.
 Match each statement with the correct theory, A, B, or C.
-Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet.
+Write the correct letter, A, B, or C, in boxes 7–13 on your answer sheet.
 NB You may use any letter more than once.
-7 It is desirable for the same possibilities to be ope n to every one.
+7 It is desirable for the same possibilities to be open to everyone.
 8 No section of society should have preferential treatment at the expense of another.
 9 People should only gain benefits on the basis of what they actually achieve.
-10 Variation in intelligenee begins at birth.
+10 Variation in intelligence begins at birth.
 11 The more intelligent people should be in positions of power.
-12 Every one can develop the same abilities.
-13 People of low intelligenee are likely to lead uncontrolled lives.
+12 Everyone can develop the same abilities.
+13 People of low intelligence are likely to lead uncontrolled lives.
 List of Theories
-A Hamilt onian
-B Jeffers onian
-C Jacksonia n
+A Hamiltonian
+B Jeffersonian
+C Jacksonian
 62
 
 ## Page 63
 
 Reading
-READSNG PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
-Ssiviing bugs to find new drugs
-Zoologist Ross Piper looks at the potential of insects in
-pharmaceutical research
-A More drugs than you might think are derived from, or inspired by, compounds found
-in living things. Looking to nature for the soothing and curing of our ailments is
-nothing new 一 we have been doing it for tens of thousands of years. You only have
-to look at other primates 一 such as the capuchi n mon keys who rub themselves with
-toxin・oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious
-forest plants to rid themselves of intestinal parasites - to realise that our ancient
-ancestors too probably had a basic grasp of medicine.
-B Pharmaceutical science and chemistry built on these ancient foundations and
-perfected the extract!on, characterisation, modification and testing of these natural
-products. Then, for a while, modern pharmaceutical scienee moved its focus away
-from nature and into the laboratory, designing chemical compounds from scratch.
-The main cause of this shift is that although there are plenty of promising chemical
-compo unds in n ature, fin ding them is far from easy. Securing sufficie nt numbers of
-the organism in question, isolating and characterising the compounds of interest,
-and producing large quantities of these compounds are all significant hurdles.
-C Laboratory-based drug discovery has achieved varying levels of success,
-something which has now prompted the development of new approaches focusing
-once again on natural products. With the ability to mine genomes for useful
-compounds, it is now evident that we have barely scratched the surface of nature's
-molecular diversity. This realisation, together with several looming health crises,
-such as antibiotic resistance, has put bioprospecting — the search for useful
-compounds in nature - firmly back on the map.
-D Insects are the undisputed masters of the terrestrial domain, where they occupy
-every possible niche. Consequently, they have a bewildering array of interactions
-with other organisms, something which has driven the evolution of an enormous
-range of very interesting compounds for defensive and offensive purposes・ Their
-remarkable diversity exceeds that of every other group of animals on the plznet
-combi ned. Yet eve n though in sects are far and away the most diverse animals in
-existence, their potential as sources of therapeutic compounds is yet to be realised.
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+Saving bugs to find new drugs
+Zoologist Ross Piper looks at the potential of insects in pharmaceutical research
+A More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new – we have been doing it for tens of thousands of years. You only have to look at other primates – such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites – to realise that our ancient ancestors too probably had a basic grasp of medicine.
+B Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.
+C Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature’s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map.
+D Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised.
 63
 
 ## Page 64
 
 Test 3
-E From the tiny proporti on of in sects that have bee n inv estigated, several promisi ng
-compounds have been identified. For example, alloferon, an antimicrobial
-compound produced by blow fly larvae, is used as an antiviral and antitumor agent
-in South Korea and Russia. The larvae of a few other insect species are being
-in vestigated for the pote nt antimicrobial compo unds they produce. Mean while, a
-compound from the venom of the wasp Polybia paulista has potential in cancer
-treatment.
-F Why is it that in sects have received relatively little atte ntion in bioprospecti ng?
-Firstly, there are so many in sects that, without some manner of targeted approach,
-investigating this huge variety of species is a daunting task. Secondly, insects are
-gen erally very small, and the glands in side them that secrete pote ntially useful
-compounds are smaller still. This can make it difficult to obtain sufficient quantities
-of the compound for subsequent testing. Thirdly, although we consider insects to be
-everywhere, the reality of this ubiquity is vast numbers of a few extremely common
-species. Many insect species are infrequently encountered and very difficult to rear
-in captivity, which, again, can leave us with insufficient material to work with.
-G My colleagues and I at Aberystwyth University in the UK have developed an
-approach in which we use our knowledge of ecology as a guide to target our
-efforts. The creatures that particularly interest us are the many insects that secrete
-powerful poison for subduing prey and keeping it fresh for future consumption.
-There are even more in sects that are masters of exploiti ng filthy habitats, such as
-faeces and carcasses, where they are regularly challenged by thousands of micro-
-orga nisrns. These in sects have many an timicrobial compo unds for deali ng with
-pathogenic bacteria and fungi, suggesting that there is certainly potential to find
-many compounds that can serve as or inspire new antibiotics.
-H Although n atural history kno wledge points us in the right direction, it does n't
-solve the problems associated with obtai ning useful compo unds from in sects.
-Fort un ately, it is now possible to snip out the stretches of the in sect's DNAthat
-carry the codes for the interesting compounds and insert them into cell lines that
-allow larger quantities to be produced. And although the road from isolating and
-characterising compounds with desirable qualities to developing a commercial
-product is very long and full of pitfalls, the variety of successful animal-derived
-pharmaceuticals on the market demonstrates there is a precedent here that is
-worth exploring.
-I With every bit of wilderness that disappears, we deprive ourselves of potential
-medici nes. As much as I'd love to help develop a groun dbreaki ng in sect-derived
-medicine, my main motivation for looking at insects in this way is conservation. I
-sincerely believe that all species, however small and seemingly insignificant, have
-a right to exist for their own sake. If we can shine a light on the darker recesses
-of nature's medicine cabinet, exploring the useful chemistry of the most diverse
-animals on the planet, I believe we can make people think differently about the
-value of nature.
+E From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment.
+F Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with.
+G My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics.
+H Although natural history knowledge points us in the right direction, it doesn’t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.
+I With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.
 64
 
 ## Page 65
 
 Reading
-Questions 14-20
-Reading Passage 2 has nine paragraphs, A-l.
-Which paragraph contains the following in formation?
-Write the correct letter, A-i, in boxes 1-4一20 on your answer sheet.
+Questions 14–20
+Reading Passage 2 has nine paragraphs, A–I.
+Which paragraph contains the following information?
+Write the correct letter, A–I, in boxes 14–20 on your answer sheet.
 14 mention of factors driving a renewed interest in natural medicinal compounds
-15 how recent tech no logical adva nces have made insect research easier
+15 how recent technological advances have made insect research easier
 16 examples of animals which use medicinal substances from nature
-17 reasons why it is challe nging to use in sects in drug research
-18 reference to how interest in drug research may ben efit wildlife
+17 reasons why it is challenging to use insects in drug research
+18 reference to how interest in drug research may benefit wildlife
 19 a reason why nature-based medicines fell out of favour for a period
 20 an example of an insect-derived medicine in use at the moment
 Questions 21 and 22
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 21 and 22 on your answer sheet.
 Which TWO of the following make insects interesting for drug research?
-A the huge number of individual insects in the World
+A the huge number of individual insects in the world
 B the variety of substances insects have developed to protect themselves
-C the pote ntial to extract and make use of in sects1 ge netic codes
-D the similarities between differe nt species of in sect
-E the manageable size of most in sects
+C the potential to extract and make use of insects’ genetic codes
+D the similarities between different species of insect
+E the manageable size of most insects
 65
 
 ## Page 66
 
 Test 3
-Questions 23-26
+Questions 23–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
+Write your answers in boxes 23–26 on your answer sheet.
 Research at Aberystwyth University
-Ross Piper and fellow zoologists at Aberystwyth University are using their expertise
-in 23...............................when undertaking bioprospecting with insects. They are
-especially in terested in the compounds that in sects produce to overpower and
-preserve their 24..................................They are also interested in compounds which
-insects use to protect themselves from pathogenic bacteria and fungi found in their
-25................................Piper hopes that these substances will be useful in the
-development of drugs such as 26................................
+Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in 23 __________ when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their 24 __________. They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their 25 __________. Piper hopes that these substances will be useful in the development of drugs such as 26 __________.
 66
 
 ## Page 67
 
 Reading
-READBNG PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+READING PASSAGE 3
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 The power of play
-Virtually every child, the world over, plays. The drive to play is so intense that children will do so
-in any circumstances, for instance when they have no real toys, or when parents do not actively
-encourage the behavior. In the eyes of a young child, running, pretending, and building are fim.
-Researchers and educators know that these playful activities benefit the development of the
-whole child across social, cognitive, physical, and emotional domains. Indeed, play is such an
-instrumental component to healthy child development that the United Nations High Commission
-on Human Rights (1989) recognized play as a fundamental right of every child.
-Yet, while experts continue to expound a powerful argument for the importance of play in
-children's lives, the actual time children spend playing continues to decrease. Today, children play
-eight hours less each week than their counterparts did two decades ago (Elkind 2008). Under
-pressure of rising academic standards, play is being replaced by test preparation in kindergartens
-and grade schools, and parents who aim to give their preschoolers a leg up are led to believe
-that flashcards and educational 'toys' are the path to success. Our society has created a false
-dichotomy between play and learning.
-Through play, children learn to regulate their behavior, lay the foundations for later learning in
-science and mathematics, figure out the complex negotiations of social relationships, build a
-repertoire of creative problem-solving skills, and so much more. There is also an important role
-for adults in guiding children through playful learning opportunities・
-Full consensus on a formal definition of play continues to elude the researchers and theorists who
-study it. Definitions range from discrete descriptions of various types of play such as physical,
-construction, language, or symbolic play (Miller & Almon 2009), to lists of broad criteria, based
-on observations and attitudes, that are meant to capture the essence of all play behaviors (e.g.
-Rubin et al. 1983).
-A majority of the contemporary definitions of play focus on several key criteria. The founder of
-the National Institute for Play, Stuart Brown, has described play as 'anything that spontaneously
-is done for its own sake'. More specifically, he says it 'appears purposeless, produces pleasure
-and joy, [and] leads one to the next stage of mastery5 (as quoted in Tippett 2008). Similarly, Miller
-and Almon (2009) say that play includes 'activities that are freely chosen and directed by children
-and arise from intrinsic motivation5. Often, play is defined along a continuum as more or less
-playful using the following set of behavioral and dispositional criteria (e.g. Rubin et al. 1983):
-Play is pleasurable: Children must enjoy the activity or it is not play. It is intrinsically
-motivated: Children engage in play simply for the satisfaction the behavior itself brings.
-It has no extrinsically motivated function or goal. Play is process oriented: When children
+Virtually every child, the world over, plays. The drive to play is so intense that children will do so in any circumstances, for instance when they have no real toys, or when parents do not actively encourage the behavior. In the eyes of a young child, running, pretending, and building are fun. Researchers and educators know that these playful activities benefit the development of the whole child across social, cognitive, physical, and emotional domains. Indeed, play is such an instrumental component to healthy child development that the United Nations High Commission on Human Rights (1989) recognized play as a fundamental right of every child.
+Yet, while experts continue to expound a powerful argument for the importance of play in children’s lives, the actual time children spend playing continues to decrease. Today, children play eight hours less each week than their counterparts did two decades ago (Elkind 2008). Under pressure of rising academic standards, play is being replaced by test preparation in kindergartens and grade schools, and parents who aim to give their preschoolers a leg up are led to believe that flashcards and educational ‘toys’ are the path to success. Our society has created a false dichotomy between play and learning.
+Through play, children learn to regulate their behavior, lay the foundations for later learning in science and mathematics, figure out the complex negotiations of social relationships, build a repertoire of creative problem-solving skills, and so much more. There is also an important role for adults in guiding children through playful learning opportunities.
+Full consensus on a formal definition of play continues to elude the researchers and theorists who study it. Definitions range from discrete descriptions of various types of play such as physical, construction, language, or symbolic play (Miller & Almon 2009), to lists of broad criteria, based on observations and attitudes, that are meant to capture the essence of all play behaviors (e.g. Rubin et al. 1983).
+A majority of the contemporary definitions of play focus on several key criteria. The founder of the National Institute for Play, Stuart Brown, has described play as ‘anything that spontaneously is done for its own sake’. More specifically, he says it ‘appears purposeless, produces pleasure and joy, [and] leads one to the next stage of mastery’ (as quoted in Tippett 2008). Similarly, Miller and Almon (2009) say that play includes ‘activities that are freely chosen and directed by children and arise from intrinsic motivation’. Often, play is defined along a continuum as more or less playful using the following set of behavioral and dispositional criteria (e.g. Rubin et al. 1983):
+Play is pleasurable: Children must enjoy the activity or it is not play. It is intrinsically motivated: Children engage in play simply for the satisfaction the behavior itself brings. It has no extrinsically motivated function or goal. Play is process oriented: When children
 67
 
 ## Page 68
 
 Test 3
-play, the means are more important than the ends. It is freely chosen, spontaneous and
-voluntary. If a child is pressured, they will likely not think of the activity as play. Play is
-actively engaged: Players must be physically and/or mentally involved in the activity. Play
-is non-literal・ It involves make-believe.
-According to this view, children's playful behaviors can range in degree from 0% to 100%
-playful. Rubin and colleagues did not assign greater weight to any one dimension in determining
-playfulness; however, other researchers have suggested that process orientation and a lack of
-obvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).
-From the perspective of a continuum, play can thus blend with other motives and attitudes that
-are less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is
-extrinsically motivated (i.e. it is goal oriented)・ Researcher Joan Goodman (1994) suggested that
-hybrid forms of work and play are not a detriment to learning; rather, they can provide optimal
-contexts for learning. For example, a child may be engaged in a difficult, goal-directed activity
-set up by their teacher, but they may still be actively engaged and intrinsically motivated. At this
-mid-point between play and work, the child's motivation, coupled with guidance from an adult,
-can create robust opportunities for playful learning.
-Critically, recent research supports the idea that adults can facilitate children's learning while
-maintaining a playfill approach in interactions known as 'guided play9 (Fisher et al. 2011). The
-adulfs role in play varies as a function of their educational goals and the child's developmental
-level (Hirsch-Pasek et al. 2009).
-Guided play takes two forms. At a very basic level, adults can enrich the child's environment by
-providing objects or experiences that promote aspects of a curriculum .In the more direct form
-of guided play, parents or other adults can support children's play by joining in the fun as a
-co-player, raising thoughtful questions, commenting on children's discoveries, or encouraging
-further exploration or new facets to the child's activity. Although playful learning can be
-somewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem
-from the child's own desire・
-Both free and guided play are essential elements in a child-centered approach to playful learning.
-Intrinsically motivated free play provides the child with true autonomy, while guided play is an
-avenue through which parents and educators can provide more targeted learning experiences.
-In either case, play should be actively engaged, it should be predominantly child-directed, and it
-must be fun.
+play, the means are more important than the ends. It is freely chosen, spontaneous and voluntary. If a child is pressured, they will likely not think of the activity as play. Play is actively engaged: Players must be physically and/or mentally involved in the activity. Play is non-literal. It involves make-believe.
+According to this view, children’s playful behaviors can range in degree from 0% to 100% playful. Rubin and colleagues did not assign greater weight to any one dimension in determining playfulness; however, other researchers have suggested that process orientation and a lack of obvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).
+From the perspective of a continuum, play can thus blend with other motives and attitudes that are less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is extrinsically motivated (i.e. it is goal oriented). Researcher Joan Goodman (1994) suggested that hybrid forms of work and play are not a detriment to learning; rather, they can provide optimal contexts for learning. For example, a child may be engaged in a difficult, goal-directed activity set up by their teacher, but they may still be actively engaged and intrinsically motivated. At this mid-point between play and work, the child’s motivation, coupled with guidance from an adult, can create robust opportunities for playful learning.
+Critically, recent research supports the idea that adults can facilitate children’s learning while maintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The adult’s role in play varies as a function of their educational goals and the child’s developmental level (Hirsch-Pasek et al. 2009).
+Guided play takes two forms. At a very basic level, adults can enrich the child’s environment by providing objects or experiences that promote aspects of a curriculum. In the more direct form of guided play, parents or other adults can support children’s play by joining in the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity. Although playful learning can be somewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem from the child’s own desire.
+Both free and guided play are essential elements in a child-centered approach to playful learning. Intrinsically motivated free play provides the child with true autonomy, while guided play is an avenue through which parents and educators can provide more targeted learning experiences. In either case, play should be actively engaged, it should be predominantly child-directed, and it must be fun.
 68
 
 ## Page 69
 
 Reading
-Questions 27-31
-Look at the following statements (Questions 27-31) and the list of researchers below.
-Match each statement with the correct researcher, A-G.
-Write the correct letter, A-G, in boxes 27-31 on your answer sheet.
+Questions 27–31
+Look at the following statements (Questions 27–31) and the list of researchers below.
+Match each statement with the correct researcher, A–G.
+Write the correct letter, A–G, in boxes 27–31 on your answer sheet.
 27 Play can be divided into a number of separate categories.
-28 Adults' intended goals affect how they play with children.
-29 Combining work with play may be the best way for children to tearn.
+28 Adults’ intended goals affect how they play with children.
+29 Combining work with play may be the best way for children to learn.
 30 Certain elements of play are more significant than others.
 31 Activities can be classified on a scale of playfulness.
 List of Researchers
 A Elkind
-同 Miller & Almon
+B Miller & Almon
 C Rubin et al.
-B Stuart Brown
+D Stuart Brown
 E Pellegrini
-IF Joan Goodman
+F Joan Goodman
 G Hirsch-Pasek et al.
 69
 
 ## Page 70
 
 Test 3
-Questions 32-36
+Questions 32–36
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 32-36 on your answer sheet, write
+In boxes 32–36 on your answer sheet, write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
 32 Children need toys in order to play.
 33 It is a mistake to treat play and learning as separate types of activities.
-34 Play helps children to develop their artistic talents・
+34 Play helps children to develop their artistic talents.
 35 Researchers have agreed on a definition of play.
 36 Work and play differ in terms of whether or not they have a target.
 70
@@ -2032,19 +1918,13 @@ NOT GIVEN if it is impossible to say what the writer thinks about this
 ## Page 71
 
 Reading
-Questions 37-40
+Questions 37–40
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 37-40 on your answer sheet.
+Write your answers in boxes 37–40 on your answer sheet.
 Guided play
-In the simplest form of guided play, an adult contributes to the environment in which
-the child is playing. Alternatively, an adult can play with a child and develop the play,
-for instance by 37................................the child to investigate ditferent aspects of their
-game. Adults can help children to learn through play, and may make the activity rather
-structured, but it should still be based on the child's 38................................to play.
-Play without the interventio n of adults gives chi Id re n real 39.................................; with
-adults, play can be 40...............................at particular goals. However, all forms of play
-should be an opport unity for childre n to have furu
+In the simplest form of guided play, an adult contributes to the environment in which the child is playing. Alternatively, an adult can play with a child and develop the play, for instance by 37 __________ the child to investigate different aspects of their game. Adults can help children to learn through play, and may make the activity rather structured, but it should still be based on the child’s 38 __________ to play.
+Play without the intervention of adults gives children real 39 __________; with adults, play can be 40 __________ at particular goals. However, all forms of play should be an opportunity for children to have fun.
 71
 
 ## Page 72
@@ -4062,45 +3942,59 @@ Listening and Reading answer keys
 TEST 3
 READING
 Reading Passage 1,
-Questions 1-13 21&22 IN EITHER ORDER
-4 B
-2 B C
-3 A 23 ecology
-4 D 24 prey
-5 NOT GIVEN 25 habitats
-6 NO 26 antibiotics
-7 YES
-8 B
-Reading Passage 33
-9 C
-Questions 27-40
-B
-巾
-1 A 27 B
-1 A 28 G
-C 29 F
-12
-A 30 E
-13
-31 C
-Reading Passage 2, 32 NO
-Questions 14-26 33 YES
-34 NOT GIVEN
-14 c 35 NO
-15 H 36 YES
-16 A 37 en couragi ng
-17 F 38 desire
-18 I 39 autonomy
-19 B 40 targeted
+Questions 1–13
+1 B
+2 A
+3 D
+4 NOT GIVEN
+5 NO
+6 YES
+7 B
+8 C
+9 B
+10 A
+11 A
+12 C
+13 A
+Reading Passage 2,
+Questions 14–26
+14 C
+15 H
+16 A
+17 F
+18 I
+19 B
 20 E
-If you score ・・・
-0-17 18-26 27-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score under examinmtion acceptable score under
-examination conditions and we conditions but we recommend examination conditions but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+21&22 IN EITHER ORDER
+B
+C
+23 ecology
+24 prey
+25 habitats
+26 antibiotics
+Reading Passage 3,
+Questions 27–40
+27 B
+28 G
+29 F
+30 E
+31 C
+32 NO
+33 YES
+34 NOT GIVEN
+35 NO
+36 YES
+37 encouraging
+38 desire
+39 autonomy
+40 targeted
+If you score ...
+0–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–26
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+27–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 124
 
 ## Page 125
