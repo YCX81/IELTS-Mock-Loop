@@ -528,16 +528,16 @@ may not be 40
 Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Case Study: Tourism New Zealand website
 New Zealand is a small country of four million inhabitants, a long-haul flight from all the
 major tourist-generating markets of the world. Tourism currently makes up 9% of the
-country's gross domestic product, and is the country's largest export sector. Unlike other
+country’s gross domestic product, and is the country’s largest export sector. Unlike other
 export sectors, which make products and then sell them overseas, tourism brings its
-customers to New Zealand. The product is the country itself - the people, the places and
+customers to New Zealand. The product is the country itself – the people, the places and
 the experiences. In 1999, Tourism New Zealand launched a campaign to communicate
-a new brand position to the world. The campaign focused on New Zealand's scenic
+a new brand position to the world. The campaign focused on New Zealand’s scenic
 beauty, exhilarating outdoor activities and authentic Maori culture, and it made New
 Zealand one of the strongest national brands in the world.
 A key feature of the campaign was the website www.newzealand.com, which provided
@@ -557,7 +557,7 @@ To communicate the New Zealand experience, the site also carried features relati
 to famous people and places. One of the most popular was an interview with former
 New Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a
 lot of attention was an interactive journey through a number of the locations chosen
-for blockbuster films which had made use of New Zealand's stunning scenery as a
+for blockbuster films which had made use of New Zealand’s stunning scenery as a
 backdrop. As the site developed, additional features were added to help independent
 travellers devise their own customised itineraries. To make it easier to plan motoring
 holidays, the site catalogued the most popular driving routes in the country, highlighting
@@ -567,12 +567,12 @@ different routes according to the season and indicating distances and times.
 ## Page 18
 
 Reading
-Later, a Travel Planner feature was added, which allowed visitors to click and 'bookmark'
+Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’
 places or attractions they were interested in, and then view the results on a map. The
 Travel Planner offered suggested routes and public transport options between the
 chosen locations. There were also links to accommodation in the area. By registering
 with the website, users could save their Travel Plan and return to it later, or print it out
-to take on the visit. The website also had a 'Your Words' section where anyone could
+to take on the visit. The website also had a ‘Your Words’ section where anyone could
 submit a blog of their New Zealand travels for possible inclusion on the website.
 The Tourism New Zealand website won two Webby awards for online achievement
 and innovation. More importantly perhaps, the growth of tourism to New Zealand was
@@ -590,24 +590,24 @@ undertake, the more satisfied they will be. It has also been found that visitors
 cultural activities most when they are interactive, such as visiting a marae (meeting
 ground) to learn about traditional Maori life. Many long-haul travellers enjoy such
 learning experiences, which provide them with stories to take home to their friends and
-family. In addition, it appears that visitors to New Zealand don't want to be 'one of the
-crowd' and find activities that involve only a few people more special and meaningful.
+family. In addition, it appears that visitors to New Zealand don’t want to be ‘one of the
+crowd’ and find activities that involve only a few people more special and meaningful.
 It could be argued that New Zealand is not a typical destination. New Zealand is a small
 country with a visitor economy composed mainly of small businesses. It is generally
 perceived as a safe English-speaking country with a reliable transport infrastructure.
 Because of the long-haul flight, most visitors stay for longer (average 20 days) and want
 to see as much of the country as possible on what is often seen as a once-in-a-lifetime
-visit. However, the underlying lessons apply anywhere - the effectiveness of a strong
+visit. However, the underlying lessons apply anywhere – the effectiveness of a strong
 brand, a strategy based on unique experiences and a comprehensive and user-friendly
 website.
 17
 
 ## Page 19
 
-Questions 1-7
+Questions 1–7
 Complete the table below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 1-7 on your answer sheet.
+Write your answers in boxes 1–7 on your answer sheet.
 
 | Section of website | Comments |
 | --- | --- |
@@ -615,14 +615,14 @@ Write your answers in boxes 1-7 on your answer sheet.
 | Special features on local topics | e.g. an interview with a former sports 3 __________, and an interactive tour of various locations used in 4 __________ |
 | Information on driving routes | varied depending on the 5 __________ |
 | Travel Planner | included a map showing selected places, details of public transport and local 6 __________ |
-| 'Your Words' | travellers could send a link to their 7 __________ |
+| ‘Your Words’ | travellers could send a link to their 7 __________ |
 
 ## Page 20
 
 Reading
-Questions 8-13
+Questions 8–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 8-13 on your answer sheet, write
+In boxes 8–13 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -648,14 +648,14 @@ Many visitors feel it is unlikely that they will return to New Zealand after the
 
 Test 1
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 on pages 21 and 22.
-Questions 14-19
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–19
+Reading Passage 2 has six paragraphs, A–F.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, i-viii, in boxes 14-19 on your answer sheet.
+Write the correct number, i–viii, in boxes 14–19 on your answer sheet.
 List of Headings
-:
+i
 The productive outcomes that may result from boredom
 ii
 What teachers can do to prevent boredom
@@ -663,7 +663,7 @@ iii
 A new explanation and a new cure for boredom
 iv
 Problems with a scientific approach to boredom
-V
+v
 A potential danger arising from boredom
 vi
 Creating a system of classification for feelings of boredom
@@ -688,39 +688,39 @@ Paragraph F
 ## Page 22
 
 Reading
-Why being bored is stimulating - and useful, too
+Why being bored is stimulating – and useful, too
 This most common of emotions is turning out to be more interesting than
 we thought
 A
-We all know how it feels - it's impossible to keep your mind on anything, time
+We all know how it feels – it’s impossible to keep your mind on anything, time
 stretches out, and all the things you could do seem equally unlikely to make you
 feel better. But defining boredom so that it can be studied in the lab has proved
 difficult. For a start, it can include a lot of other mental states, such as frustration,
-apathy, depression and indifference. There isn't even agreement over whether
+apathy, depression and indifference. There isn’t even agreement over whether
 boredom is always a low-energy, flat kind of emotion or whether feeling agitated
 and restless counts as boredom, too. In his book, Boredom: A Lively History, Peter
-Toohey at the University of Calgary, Canada, compares it to disgust - an emotion
-that motivates us to stay away from certain situations. 'If disgust protects humans
-from infection, boredom may protect them from "infectious" social situations,'
+Toohey at the University of Calgary, Canada, compares it to disgust – an emotion
+that motivates us to stay away from certain situations. ‘If disgust protects humans
+from infection, boredom may protect them from “infectious” social situations,’
 he suggests.
 B
 By asking people about their experiences of boredom, Thomas Goetz and his team
 at the University of Konstanz in Germany have recently identified five distinct types:
 indifferent, calibrating, searching, reactant and apathetic. These can be plotted on
-two axes - one running left to right, which measures low to high arousal, and the
+two axes – one running left to right, which measures low to high arousal, and the
 other from top to bottom, which measures how positive or negative the feeling is.
 Intriguingly, Goetz has found that while people experience all kinds of boredom,
-they tend to specialise in one. Of the five types, the most damaging is 'reactant'
+they tend to specialise in one. Of the five types, the most damaging is ‘reactant’
 boredom with its explosive combination of high arousal and negative emotion. The
-most useful is what Goetz calls 'indifferent' boredom: someone isn't engaged in
+most useful is what Goetz calls ‘indifferent’ boredom: someone isn’t engaged in
 anything satisfying but still feels relaxed and calm. However, it remains to be seen
 whether there are any character traits that predict the kind of boredom each of us
 might be prone to.
 C
 Psychologist Sandi Mann at the University of Central Lancashire, UK, goes further.
-'All emotions are there for a reason, including boredom,' she says. Mann has found
-that being bored makes us more creative. 'We're all afraid of being bored but in
-actual fact it can lead to all kinds of amazing things,' she says. In experiments
+‘All emotions are there for a reason, including boredom,’ she says. Mann has found
+that being bored makes us more creative. ‘We’re all afraid of being bored but in
+actual fact it can lead to all kinds of amazing things,’ she says. In experiments
 published last year, Mann found that people who had been made to feel bored by
 copying numbers out of the phone book for 15 minutes came up with more creative
 ideas about how to use a polystyrene cup than a control group. Mann concluded
@@ -728,10 +728,10 @@ that a passive, boring activity is best for creativity because it allows the min
 to wander. In fact, she goes so far as to suggest that we should seek out more
 boredom in our lives.
 D
-Psychologist John Eastwood at York University in Toronto, Canada, isn't convinced.
-'If you are in a state of mind-wandering you are not bored,' he says. 'In my view,
-by definition boredom is an undesirable state.' That doesn't necessarily mean
-that it isn't adaptive, he adds. 'Pain is adaptive - if we didn't have physical pain,
+Psychologist John Eastwood at York University in Toronto, Canada, isn’t convinced.
+‘If you are in a state of mind-wandering you are not bored,’ he says. ‘In my view,
+by definition boredom is an undesirable state.’ That doesn’t necessarily mean
+that it isn’t adaptive, he adds. ‘Pain is adaptive – if we didn’t have physical pain,
 bad things would happen to us. Does that mean that we should actively cause
 pain? No. But even if boredom has evolved to help us survive, it can still be toxic
 21
@@ -739,15 +739,15 @@ pain? No. But even if boredom has evolved to help us survive, it can still be to
 ## Page 23
 
 Test 1
-if allowed to fester.' For Eastwood, the central feature of boredom is a failure to
-put our 'attention system' into gear. This causes an inability to focus on anything,
-which makes time seem to go painfully slowly. What's more, your efforts to improve
-the situation can end up making you feel worse. 'People try to connect with the
-world and if they are not successful there's that frustration and irritability,' he says.
+if allowed to fester.’ For Eastwood, the central feature of boredom is a failure to
+put our ‘attention system’ into gear. This causes an inability to focus on anything,
+which makes time seem to go painfully slowly. What’s more, your efforts to improve
+the situation can end up making you feel worse. ‘People try to connect with the
+world and if they are not successful there’s that frustration and irritability,’ he says.
 Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention
-can lead to a state where we don't know what to do any more, and no longer care.
+can lead to a state where we don’t know what to do any more, and no longer care.
 E
-Eastwood's team is now trying to explore why the attention system fails. It's early
+Eastwood’s team is now trying to explore why the attention system fails. It’s early
 days but they think that at least some of it comes down to personality. Boredom
 proneness has been linked with a variety of traits. People who are motivated by
 pleasure seem to suffer particularly badly. Other personality traits, such as curiosity,
@@ -755,15 +755,15 @@ are associated with a high boredom threshold. More evidence that boredom has
 detrimental effects comes from studies of people who are more or less prone to
 boredom. It seems those who bore easily face poorer prospects in education,
 their career and even life in general. But of course, boredom itself cannot kill —
-it's the things we do to deal with it that may put us in danger. What can we do to
-alleviate it before it comes to that? Goetz's group has one suggestion. Working with
-teenagers, they found that those who 'approach' a boring situation - in other words,
-see that it's boring and get stuck in anyway - report less boredom than those who
+it’s the things we do to deal with it that may put us in danger. What can we do to
+alleviate it before it comes to that? Goetz’s group has one suggestion. Working with
+teenagers, they found that those who ‘approach’ a boring situation – in other words,
+see that it’s boring and get stuck in anyway – report less boredom than those who
 try to avoid it by using snacks, TV or social media for distraction.
 F
 Psychologist Francoise Wemelsfelder speculates that our over-connected lifestyles
-might even be a new source of boredom. 'In modern human society there is a lot of
-overstimulation but still a lot of problems finding meaning,' she says. So instead of
+might even be a new source of boredom. ‘In modern human society there is a lot of
+overstimulation but still a lot of problems finding meaning,’ she says. So instead of
 seeking yet more mental stimulation, perhaps we should leave our phones alone,
 and use boredom to motivate us to engage with the world in a more
 meaningful way.
@@ -772,10 +772,10 @@ meaningful way.
 ## Page 24
 
 Reading
-Questions 20-23
-Look at the following people (Questions 20-23) and the list of ideas below.
-Match each person with the correct idea, A-E.
-Write the correct letter, A-E, in boxes 20-23 on your answer sheet.
+Questions 20–23
+Look at the following people (Questions 20–23) and the list of ideas below.
+Match each person with the correct idea, A–E.
+Write the correct letter, A–E, in boxes 20–23 on your answer sheet.
 20
 Peter Toohey
 21
@@ -795,14 +795,14 @@ D
 Trying to cope with boredom can increase its negative effects.
 E
 Boredom may encourage us to avoid an unpleasant experience.
-Questions 24-26
+Questions 24–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 24-26 on your answer sheet.
+Write your answers in boxes 24–26 on your answer sheet.
 Responses to boredom
 For John Eastwood, the central feature of boredom is that people cannot
 24
-, due to a failure in what he calls the 'attention system', and as a
+, due to a failure in what he calls the ‘attention system’, and as a
 result they become frustrated and irritable. His team suggests that those for whom
 25
 is an important aim in life may have problems in coping with
@@ -815,7 +815,7 @@ generally cope with it.
 
 Test 1
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Artificial artists
 Can computers really create works of art?
@@ -827,67 +827,67 @@ in prestigious galleries. And software has been built which creates art that cou
 have been imagined by the programmer.
 Human beings are the only species to perform sophisticated creative acts regularly.
 If we can break this process down into computer code, where does that leave human
-creativity? 'This is a question at the very core of humanity,' says Geraint Wiggins, a
-computational creativity researcher at Goldsmiths, University of London. 'It scares a lot
+creativity? ‘This is a question at the very core of humanity,’ says Geraint Wiggins, a
+computational creativity researcher at Goldsmiths, University of London. ‘It scares a lot
 of people. They are worried that it is taking something special away from what it means
-to be human.'
+to be human.’
 To some extent, we are all familiar with computerised art. The question is: where does
 the work of the artist stop and the creativity of the computer begin? Consider one of the
-oldest machine artists, Aaron, a robot that has had paintings exhibited in London's Tate
+oldest machine artists, Aaron, a robot that has had paintings exhibited in London’s Tate
 Modern and the San Francisco Museum of Modern Art. Aaron can pick up a paintbrush
 and paint on canvas on its own. Impressive perhaps, but it is still little more than a tool to
-realise the programmer's own creative ideas.
+realise the programmer’s own creative ideas.
 Simon Colton, the designer of the Painting Fool, is keen to make sure his creation
-doesn't attract the same criticism. Unlike earlier 'artists' such as Aaron, the Painting Fool
+doesn’t attract the same criticism. Unlike earlier ‘artists’ such as Aaron, the Painting Fool
 only needs minimal direction and can come up with its own concepts by going online for
 material. The software runs its own web searches and trawls through social media sites.
 It is now beginning to display a kind of imagination too, creating pictures from scratch.
 One of its original works is a series of fuzzy landscapes, depicting trees and sky. While
 some might say they have a mechanical look, Colton argues that such reactions arise
-from people's double standards towards software-produced and human-produced
+from people’s double standards towards software-produced and human-produced
 art. After all, he says, consider that the Painting Fool painted the landscapes without
-referring to a photo. 'If a child painted a new scene from its head, you'd say it has a
-certain level of imagination,' he points out. 'The same should be true of a machine.'
-Software bugs can also lead to unexpected results. Some of the Painting Fool's
+referring to a photo. ‘If a child painted a new scene from its head, you’d say it has a
+certain level of imagination,’ he points out. ‘The same should be true of a machine.’
+Software bugs can also lead to unexpected results. Some of the Painting Fool’s
 paintings of a chair came out in black and white, thanks to a technical glitch. This gives
 the work an eerie, ghostlike quality. Human artists like the renowned Ellsworth Kelly are
-lauded for limiting their colour palette - so why should computers be any different?
+lauded for limiting their colour palette – so why should computers be any different?
 24
 
 ## Page 26
 
 Reading
-Researchers like Colton don't believe it is right to measure machine creativity directly
-to that of humans who 'have had millennia to develop our skills'. Others, though, are
+Researchers like Colton don’t believe it is right to measure machine creativity directly
+to that of humans who ‘have had millennia to develop our skills’. Others, though, are
 fascinated by the prospect that a computer might create something as original and
 subtle as our best artists. So far, only one has come close. Composer David Cope
-invented a program called Experiments in Musical Intelligence, or EMl. Not only did
-EMl create compositions in Cope's style, but also that of the most revered classical
+invented a program called Experiments in Musical Intelligence, or EMI. Not only did
+EMI create compositions in Cope’s style, but also that of the most revered classical
 composers, including Bach, Chopin and Mozart. Audiences were moved to tears, and
-EMl even fooled classical music experts into thinking they were hearing genuine Bach.
-Not everyone was impressed however. Some, such as Wiggins, have blasted Cope's
+EMI even fooled classical music experts into thinking they were hearing genuine Bach.
+Not everyone was impressed however. Some, such as Wiggins, have blasted Cope’s
 work as pseudoscience, and condemned him for his deliberately vague explanation of
 how the software worked. Meanwhile, Douglas Hofstadter of Indiana University said
-EMl created replicas which still rely completely on the original artist's creative impulses.
+EMI created replicas which still rely completely on the original artist’s creative impulses.
 When audiences found out the truth they were often outraged with Cope, and one music
-lover even tried to punch him. Amid such controversy, Cope destroyed EMl's
+lover even tried to punch him. Amid such controversy, Cope destroyed EMI’s
 vital databases.
 But why did so many people love the music, yet recoil when they discovered how it
 was composed? A study by computer scientist David Moffat of Glasgow Caledonian
 University provides a clue. He asked both expert musicians and non-experts to assess
-six compositions. The participants weren't told beforehand whether the tunes were
+six compositions. The participants weren’t told beforehand whether the tunes were
 composed by humans or computers, but were asked to guess, and then rate how much
 they liked each one. People who thought the composer was a computer tended to dislike
 the piece more than those who believed it was human. This was true even among the
 experts, who might have been expected to be more objective in their analyses.
 Where does this prejudice come from? Paul Bloom of Yale University has a suggestion:
 he reckons part of the pleasure we get from art stems from the creative process behind
-the work. This can give it an 'irresistible essence', says Bloom. Meanwhile, experiments
-by Justin Kruger of New York University have shown that people's enjoyment of an
+the work. This can give it an ‘irresistible essence’, says Bloom. Meanwhile, experiments
+by Justin Kruger of New York University have shown that people’s enjoyment of an
 artwork increases if they think more time and effort was needed to create it. Similarly,
 Colton thinks that when people experience art, they wonder what the artist might have
 been thinking or what the artist is trying to tell them. It seems obvious, therefore, that
-with computers producing art, this speculation is cut short - there's nothing to explore.
+with computers producing art, this speculation is cut short – there’s nothing to explore.
 But as technology becomes increasingly complex, finding those greater depths in
 computer art could become possible. This is precisely why Colton asks the Painting
 Fool to tap into online social networks for its inspiration: hopefully this way it will choose
@@ -897,14 +897,14 @@ themes that will already be meaningful to us.
 ## Page 27
 
 Test 1
-Questions 27-31
+Questions 27–31
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-31 on your answer sheet.
+Write the correct letter in boxes 27–31 on your answer sheet.
 27
 What is the writer suggesting about computer-produced works in the
 first paragraph?
 A
-People's acceptance of them can vary considerably.
+People’s acceptance of them can vary considerably.
 B
 A great deal of progress has already been attained in this field.
 C
@@ -924,7 +924,7 @@ It will lead to a deterioration in human ability.
 29
 What is a key difference between Aaron and the Painting Fool?
 A
-its programmer's background
+its programmer’s background
 B
 public response to its work
 C
@@ -957,21 +957,21 @@ highlights the technical limitations of the software.
 ## Page 28
 
 Reading
-Questions 32-37
-Complete each sentence with the correct ending, A-G below.
-Write the correct letter, A-G, in boxes 32-37 on your answer sheet.
+Questions 32–37
+Complete each sentence with the correct ending, A–G below.
+Write the correct letter, A–G, in boxes 32–37 on your answer sheet.
 32
 Simon Colton says it is important to consider the long-term view when
 33
-David Cope's EMI software surprised people by
+David Cope’s EMI software surprised people by
 34
 Geraint Wiggins criticised Cope for not
 35
-Douglas Hofstadter claimed that EMl was
+Douglas Hofstadter claimed that EMI was
 36
-Audiences who had listened to EMl's music became angry after
+Audiences who had listened to EMI’s music became angry after
 37
-The participants in David Moffat's study had to assess music without
+The participants in David Moffat’s study had to assess music without
 List of Ideas
 A
 generating work that was virtually indistinguishable from that of humans.
@@ -992,20 +992,20 @@ discovering that it was the product of a computer program.
 ## Page 29
 
 Test 1
-Questions 38-40
+Questions 38–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38–40 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
 if the statement contradicts the claims of the writer
-NOT GIvEN if it is impossible to say what the writer thinks about this
+NOT GIVEN if it is impossible to say what the writer thinks about this
 38
-Moffat's research may help explain people's reactions to EMl.
+Moffat’s research may help explain people’s reactions to EMI.
 39
-The non-experts in Moffat's study all responded in a predictable way.
+The non-experts in Moffat’s study all responded in a predictable way.
 40
-Justin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice
+Justin Kruger’s findings cast doubt on Paul Bloom’s theory about people’s prejudice
 towards computer art.
 28
 
@@ -4967,7 +4967,7 @@ Listening and Reading Answer Keys
 TEST 1
 READING
 Reading Passage 1,
-Questions 1-13
+Questions 1–13
 20
 E
 21
@@ -5001,7 +5001,7 @@ Reading Passage 3,
 FALSE
 9
 NOT GIVEN
-Questions 27-40
+Questions 27–40
 10
 FALSE
 27
@@ -5023,7 +5023,7 @@ A
 Reading Passage 2,
 32
 D
-Questions 14-26
+Questions 14–26
 33
 A
 34
@@ -5053,9 +5053,9 @@ iii
 40
 NO
 If you score ...
-0-16
-17-25
-26-40
+0–16
+17–25
+26–40
 you are unlikely to get an
 you may get an acceptable
 you are likely to get an
