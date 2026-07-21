@@ -1,0 +1,789 @@
+{
+  "book": 12,
+  "test": 1,
+  "bookTestLabel": "Test 5",
+  "passage": 1,
+  "status": "manually_calibrated",
+  "title": "Cork",
+  "sourcePages": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "answerKeyPage": 117,
+  "pageTexts": [
+    {
+      "page": 16,
+      "text": "Test 5\nREADING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\nCork\nCork – the thick bark of the cork oak tree (Quercus suber) – is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals.\nAnd the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20°C all year round. Developed most probably as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating. The cells are filled with air, which is why cork is so buoyant. It also has an elasticity that means you can squash it and watch it spring back to its original size and shape when you release the pressure.\nCork oaks grow in a number of Mediterranean countries, including Portugal, Spain, Italy, Greece and Morocco. They flourish in warm, sunny climates where there is a minimum of 400 millimetres of rain per year, and not more than 800 millimetres. Like grape vines, the trees thrive in poor soil, putting down deep roots in search of moisture and nutrients. Southern Portugal's Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world's largest producer of cork, and why today it accounts for roughly half of all cork production around the world.\nMost cork forests are family-owned. Many of these family businesses, and indeed many of the trees themselves, are around 200 years old. Cork production is, above all, an exercise in patience. From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree. And for top-quality cork, it's necessary to wait a further 15 or 20 years. You even have to wait for the right kind of summer's day to harvest cork. If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged.\n16"
+    },
+    {
+      "page": 17,
+      "text": "Reading\nCork harvesting is a very specialised profession. No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers. First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they can manage. The most skilful cork-strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches. It is then dried on the ground for about four months, before being taken to factories, where it is boiled to kill any insects that might remain in the cork. Over 60% of cork then goes on to be made into traditional bottle stoppers, with most of the remainder being used in the construction trade. Corkboard and cork tiles are ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete.\nRecent years have seen the end of the virtual monopoly of cork as the material for bottle stoppers, due to concerns about the effect it may have on the contents of the bottle. This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which forms through the interaction of plant phenols, chlorine and mould. The tiniest concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle. The result has been a gradual yet steady move first towards plastic stoppers and, more recently, to aluminium screw caps. These substitutes are cheaper to manufacture and, in the case of screw caps, more convenient for the user.\nThe classic cork stopper does have several advantages, however. Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly – and very importantly – cork is a sustainable product that can be recycled without difficulty. Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted. So, given the current concerns about environmental issues, the future of this ancient material once again looks promising.\n17"
+    },
+    {
+      "page": 18,
+      "text": "Test 5\nQuestions 1–5\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 1–5 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n1 The cork oak has the thickest bark of any living tree.\n2 Scientists have developed a synthetic cork with the same cellular structure as natural cork.\n3 Individual cork oak trees must be left for 25 years between the first and second harvest.\n4 Cork bark should be stripped in dry atmospheric conditions.\n5 The only way to remove the bark from cork oak trees is by hand.\n18"
+    },
+    {
+      "page": 19,
+      "text": "Reading\nQuestions 6–13\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 6–13 on your answer sheet.\nComparison of aluminium screw caps and cork bottle stoppers\nAdvantages of aluminium screw caps\n• do not affect the 6 __________ of the bottle contents\n• are 7 __________ to produce\n• are 8 __________ to use\nAdvantages of cork bottle stoppers\n• suit the 9 __________ of quality products\n• made from a 10 __________ material\n• easily 11 __________\n• cork forests aid 12 __________\n• cork forests stop 13 __________ happening\n19"
+    }
+  ],
+  "section": {
+    "title": "Cork",
+    "instruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+    "pages": [
+      16,
+      17
+    ],
+    "questionPages": [
+      18,
+      19
+    ],
+    "questionRange": [
+      1,
+      13
+    ],
+    "paragraphs": [
+      {
+        "id": "A",
+        "pages": [
+          16
+        ],
+        "sentenceIds": [
+          1,
+          2,
+          3
+        ],
+        "text": "Cork – the thick bark of the cork oak tree (Quercus suber) – is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals."
+      },
+      {
+        "id": "B",
+        "pages": [
+          16
+        ],
+        "sentenceIds": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "And the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20°C all year round. Developed most probably as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating. The cells are filled with air, which is why cork is so buoyant. It also has an elasticity that means you can squash it and watch it spring back to its original size and shape when you release the pressure."
+      },
+      {
+        "id": "C",
+        "pages": [
+          16
+        ],
+        "sentenceIds": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Cork oaks grow in a number of Mediterranean countries, including Portugal, Spain, Italy, Greece and Morocco. They flourish in warm, sunny climates where there is a minimum of 400 millimetres of rain per year, and not more than 800 millimetres. Like grape vines, the trees thrive in poor soil, putting down deep roots in search of moisture and nutrients. Southern Portugal's Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world's largest producer of cork, and why today it accounts for roughly half of all cork production around the world."
+      },
+      {
+        "id": "D",
+        "pages": [
+          16
+        ],
+        "sentenceIds": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "text": "Most cork forests are family-owned. Many of these family businesses, and indeed many of the trees themselves, are around 200 years old. Cork production is, above all, an exercise in patience. From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree. And for top-quality cork, it's necessary to wait a further 15 or 20 years. You even have to wait for the right kind of summer's day to harvest cork. If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged."
+      },
+      {
+        "id": "E",
+        "pages": [
+          17
+        ],
+        "sentenceIds": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "text": "Cork harvesting is a very specialised profession. No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers. First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they can manage. The most skilful cork-strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches. It is then dried on the ground for about four months, before being taken to factories, where it is boiled to kill any insects that might remain in the cork. Over 60% of cork then goes on to be made into traditional bottle stoppers, with most of the remainder being used in the construction trade. Corkboard and cork tiles are ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete."
+      },
+      {
+        "id": "F",
+        "pages": [
+          17
+        ],
+        "sentenceIds": [
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "text": "Recent years have seen the end of the virtual monopoly of cork as the material for bottle stoppers, due to concerns about the effect it may have on the contents of the bottle. This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which forms through the interaction of plant phenols, chlorine and mould. The tiniest concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle. The result has been a gradual yet steady move first towards plastic stoppers and, more recently, to aluminium screw caps. These substitutes are cheaper to manufacture and, in the case of screw caps, more convenient for the user."
+      },
+      {
+        "id": "G",
+        "pages": [
+          17
+        ],
+        "sentenceIds": [
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "text": "The classic cork stopper does have several advantages, however. Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly – and very importantly – cork is a sustainable product that can be recycled without difficulty. Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted. So, given the current concerns about environmental issues, the future of this ancient material once again looks promising."
+      }
+    ],
+    "sentences": [
+      {
+        "number": 1,
+        "paragraph": "A",
+        "page": 16,
+        "text": "Cork – the thick bark of the cork oak tree (Quercus suber) – is a remarkable material."
+      },
+      {
+        "number": 2,
+        "paragraph": "A",
+        "page": 16,
+        "text": "It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes."
+      },
+      {
+        "number": 3,
+        "paragraph": "A",
+        "page": 16,
+        "text": "It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals."
+      },
+      {
+        "number": 4,
+        "paragraph": "B",
+        "page": 16,
+        "text": "And the cork oak itself is an extraordinary tree."
+      },
+      {
+        "number": 5,
+        "paragraph": "B",
+        "page": 16,
+        "text": "Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20°C all year round."
+      },
+      {
+        "number": 6,
+        "paragraph": "B",
+        "page": 16,
+        "text": "Developed most probably as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating."
+      },
+      {
+        "number": 7,
+        "paragraph": "B",
+        "page": 16,
+        "text": "The cells are filled with air, which is why cork is so buoyant."
+      },
+      {
+        "number": 8,
+        "paragraph": "B",
+        "page": 16,
+        "text": "It also has an elasticity that means you can squash it and watch it spring back to its original size and shape when you release the pressure."
+      },
+      {
+        "number": 9,
+        "paragraph": "C",
+        "page": 16,
+        "text": "Cork oaks grow in a number of Mediterranean countries, including Portugal, Spain, Italy, Greece and Morocco."
+      },
+      {
+        "number": 10,
+        "paragraph": "C",
+        "page": 16,
+        "text": "They flourish in warm, sunny climates where there is a minimum of 400 millimetres of rain per year, and not more than 800 millimetres."
+      },
+      {
+        "number": 11,
+        "paragraph": "C",
+        "page": 16,
+        "text": "Like grape vines, the trees thrive in poor soil, putting down deep roots in search of moisture and nutrients."
+      },
+      {
+        "number": 12,
+        "paragraph": "C",
+        "page": 16,
+        "text": "Southern Portugal's Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world's largest producer of cork, and why today it accounts for roughly half of all cork production around the world."
+      },
+      {
+        "number": 13,
+        "paragraph": "D",
+        "page": 16,
+        "text": "Most cork forests are family-owned."
+      },
+      {
+        "number": 14,
+        "paragraph": "D",
+        "page": 16,
+        "text": "Many of these family businesses, and indeed many of the trees themselves, are around 200 years old."
+      },
+      {
+        "number": 15,
+        "paragraph": "D",
+        "page": 16,
+        "text": "Cork production is, above all, an exercise in patience."
+      },
+      {
+        "number": 16,
+        "paragraph": "D",
+        "page": 16,
+        "text": "From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree."
+      },
+      {
+        "number": 17,
+        "paragraph": "D",
+        "page": 16,
+        "text": "And for top-quality cork, it's necessary to wait a further 15 or 20 years."
+      },
+      {
+        "number": 18,
+        "paragraph": "D",
+        "page": 16,
+        "text": "You even have to wait for the right kind of summer's day to harvest cork."
+      },
+      {
+        "number": 19,
+        "paragraph": "D",
+        "page": 16,
+        "text": "If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged."
+      },
+      {
+        "number": 20,
+        "paragraph": "E",
+        "page": 17,
+        "text": "Cork harvesting is a very specialised profession."
+      },
+      {
+        "number": 21,
+        "paragraph": "E",
+        "page": 17,
+        "text": "No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers."
+      },
+      {
+        "number": 22,
+        "paragraph": "E",
+        "page": 17,
+        "text": "First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they can manage."
+      },
+      {
+        "number": 23,
+        "paragraph": "E",
+        "page": 17,
+        "text": "The most skilful cork-strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches."
+      },
+      {
+        "number": 24,
+        "paragraph": "E",
+        "page": 17,
+        "text": "It is then dried on the ground for about four months, before being taken to factories, where it is boiled to kill any insects that might remain in the cork."
+      },
+      {
+        "number": 25,
+        "paragraph": "E",
+        "page": 17,
+        "text": "Over 60% of cork then goes on to be made into traditional bottle stoppers, with most of the remainder being used in the construction trade."
+      },
+      {
+        "number": 26,
+        "paragraph": "E",
+        "page": 17,
+        "text": "Corkboard and cork tiles are ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete."
+      },
+      {
+        "number": 27,
+        "paragraph": "F",
+        "page": 17,
+        "text": "Recent years have seen the end of the virtual monopoly of cork as the material for bottle stoppers, due to concerns about the effect it may have on the contents of the bottle."
+      },
+      {
+        "number": 28,
+        "paragraph": "F",
+        "page": 17,
+        "text": "This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which forms through the interaction of plant phenols, chlorine and mould."
+      },
+      {
+        "number": 29,
+        "paragraph": "F",
+        "page": 17,
+        "text": "The tiniest concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle."
+      },
+      {
+        "number": 30,
+        "paragraph": "F",
+        "page": 17,
+        "text": "The result has been a gradual yet steady move first towards plastic stoppers and, more recently, to aluminium screw caps."
+      },
+      {
+        "number": 31,
+        "paragraph": "F",
+        "page": 17,
+        "text": "These substitutes are cheaper to manufacture and, in the case of screw caps, more convenient for the user."
+      },
+      {
+        "number": 32,
+        "paragraph": "G",
+        "page": 17,
+        "text": "The classic cork stopper does have several advantages, however."
+      },
+      {
+        "number": 33,
+        "paragraph": "G",
+        "page": 17,
+        "text": "Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated."
+      },
+      {
+        "number": 34,
+        "paragraph": "G",
+        "page": 17,
+        "text": "Secondly – and very importantly – cork is a sustainable product that can be recycled without difficulty."
+      },
+      {
+        "number": 35,
+        "paragraph": "G",
+        "page": 17,
+        "text": "Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted."
+      },
+      {
+        "number": 36,
+        "paragraph": "G",
+        "page": 17,
+        "text": "So, given the current concerns about environmental issues, the future of this ancient material once again looks promising."
+      }
+    ]
+  },
+  "questionSections": [
+    {
+      "id": "q1-5",
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "pages": [
+        18
+      ],
+      "questionRange": [
+        1,
+        5
+      ],
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1–5 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this."
+    },
+    {
+      "id": "q6-13",
+      "type": "NOTE_COMPLETION",
+      "pages": [
+        19
+      ],
+      "questionRange": [
+        6,
+        13
+      ],
+      "title": "Comparison of aluminium screw caps and cork bottle stoppers",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 6–13 on your answer sheet.",
+      "labels": [
+        "Advantages of aluminium screw caps",
+        "Advantages of cork bottle stoppers"
+      ],
+      "wordLimit": "ONE WORD ONLY"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+      "prompt": "The cork oak has the thickest bark of any living tree.",
+      "translation": "软木橡树的树皮是所有现存树木中最厚的。",
+      "options": [
+        {
+          "label": "TRUE",
+          "translation": "正确"
+        },
+        {
+          "label": "FALSE",
+          "translation": "错误"
+        },
+        {
+          "label": "NOT GIVEN",
+          "translation": "未提及"
+        }
+      ],
+      "answer": "NOT GIVEN",
+      "acceptableAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "Its bark grows up to 20 cm in thickness...",
+      "location": "Paragraph B, sentence 5",
+      "distractorAnalysis": "原文只给出厚度可达20厘米，没有与所有其他树种比较；不能把‘很厚’扩大成‘最厚’。",
+      "wordLimit": null,
+      "sourcePages": [
+        16,
+        18
+      ],
+      "answers": [
+        "NOT GIVEN"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+      "prompt": "Scientists have developed a synthetic cork with the same cellular structure as natural cork.",
+      "translation": "科学家已经研制出一种细胞结构与天然软木相同的合成软木。",
+      "options": [
+        {
+          "label": "TRUE",
+          "translation": "正确"
+        },
+        {
+          "label": "FALSE",
+          "translation": "错误"
+        },
+        {
+          "label": "NOT GIVEN",
+          "translation": "未提及"
+        }
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "...a particular cellular structure ... that technology has never succeeded in replicating.",
+      "location": "Paragraph B, sentence 6",
+      "distractorAnalysis": "题干说已成功制造相同结构，原文明确说技术从未成功复制，正面矛盾。",
+      "wordLimit": null,
+      "sourcePages": [
+        16,
+        18
+      ],
+      "answers": [
+        "FALSE"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+      "prompt": "Individual cork oak trees must be left for 25 years between the first and second harvest.",
+      "translation": "每棵软木橡树在第一次和第二次采剥之间必须间隔25年。",
+      "options": [
+        {
+          "label": "TRUE",
+          "translation": "正确"
+        },
+        {
+          "label": "FALSE",
+          "translation": "错误"
+        },
+        {
+          "label": "NOT GIVEN",
+          "translation": "未提及"
+        }
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree.",
+      "location": "Paragraph D, sentence 16",
+      "distractorAnalysis": "25年是种植到首次采剥；相邻两次采剥约隔十年。题干偷换了两个时间段。",
+      "wordLimit": null,
+      "sourcePages": [
+        16,
+        18
+      ],
+      "answers": [
+        "FALSE"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+      "prompt": "Cork bark should be stripped in dry atmospheric conditions.",
+      "translation": "剥取软木树皮应当在空气干燥的条件下进行。",
+      "options": [
+        {
+          "label": "TRUE",
+          "translation": "正确"
+        },
+        {
+          "label": "FALSE",
+          "translation": "错误"
+        },
+        {
+          "label": "NOT GIVEN",
+          "translation": "未提及"
+        }
+      ],
+      "answer": "TRUE",
+      "acceptableAnswers": [
+        "TRUE"
+      ],
+      "evidence": "If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged.",
+      "location": "Paragraph D, sentence 19",
+      "distractorAnalysis": "原文说空气潮湿时剥皮会伤树，因此干燥条件符合要求；这是反向同义改写。",
+      "wordLimit": null,
+      "sourcePages": [
+        16,
+        18
+      ],
+      "answers": [
+        "TRUE"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+      "prompt": "The only way to remove the bark from cork oak trees is by hand.",
+      "translation": "从软木橡树上取下树皮的唯一方式是人工操作。",
+      "options": [
+        {
+          "label": "TRUE",
+          "translation": "正确"
+        },
+        {
+          "label": "FALSE",
+          "translation": "错误"
+        },
+        {
+          "label": "NOT GIVEN",
+          "translation": "未提及"
+        }
+      ],
+      "answer": "TRUE",
+      "acceptableAnswers": [
+        "TRUE"
+      ],
+      "evidence": "No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers.",
+      "location": "Paragraph E, sentence 21",
+      "distractorAnalysis": "没有机械剥皮方法，因此工作由工人完成，等价于只能人工去皮。",
+      "wordLimit": null,
+      "sourcePages": [
+        17,
+        18
+      ],
+      "answers": [
+        "TRUE"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of aluminium screw caps",
+      "prompt": "do not affect the 6 __________ of the bottle contents",
+      "translation": "不会影响瓶中内容物的__________",
+      "options": [],
+      "answer": "taste",
+      "acceptableAnswers": [
+        "taste"
+      ],
+      "evidence": "The tiniest concentrations ... can spoil the taste of the product contained in the bottle.",
+      "location": "Paragraph F, sentence 29",
+      "distractorAnalysis": "contents/product只是容器内容物，题干空格要求被影响的属性；原文对应名词是taste。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "taste"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of aluminium screw caps",
+      "prompt": "are 7 __________ to produce",
+      "translation": "生产起来更__________",
+      "options": [],
+      "answer": "cheaper",
+      "acceptableAnswers": [
+        "cheaper"
+      ],
+      "evidence": "These substitutes are cheaper to manufacture...",
+      "location": "Paragraph F, sentence 31",
+      "distractorAnalysis": "题干用produce改写manufacture；比较级cheaper必须原样填入，不能写cheap或more cheap。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "cheaper"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of aluminium screw caps",
+      "prompt": "are 8 __________ to use",
+      "translation": "使用起来更__________",
+      "options": [],
+      "answer": "convenient",
+      "acceptableAnswers": [
+        "convenient"
+      ],
+      "evidence": "...in the case of screw caps, more convenient for the user.",
+      "location": "Paragraph F, sentence 31",
+      "distractorAnalysis": "题干to use对应原文for the user；空格需形容词convenient，more已由比较语义隐含而非另填。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "convenient"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of cork bottle stoppers",
+      "prompt": "suit the 9 __________ of quality products",
+      "translation": "契合优质产品的__________",
+      "options": [],
+      "answer": "image",
+      "acceptableAnswers": [
+        "image"
+      ],
+      "evidence": "Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated.",
+      "location": "Paragraph G, sentence 33",
+      "distractorAnalysis": "suit改写be in keeping with；空格指优质商品的形象，不是quality或goods。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "image"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of cork bottle stoppers",
+      "prompt": "made from a 10 __________ material",
+      "translation": "由一种__________材料制成",
+      "options": [],
+      "answer": "sustainable",
+      "acceptableAnswers": [
+        "sustainable"
+      ],
+      "evidence": "...cork is a sustainable product...",
+      "location": "Paragraph G, sentence 34",
+      "distractorAnalysis": "题干以material改写product，所需修饰词为sustainable；recycled对应下一空。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "sustainable"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of cork bottle stoppers",
+      "prompt": "easily 11 __________",
+      "translation": "很容易被__________",
+      "options": [],
+      "answer": "recycled",
+      "acceptableAnswers": [
+        "recycled"
+      ],
+      "evidence": "...can be recycled without difficulty.",
+      "location": "Paragraph G, sentence 34",
+      "distractorAnalysis": "easily改写without difficulty；被动意义需要过去分词recycled。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "recycled"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of cork bottle stoppers",
+      "prompt": "cork forests aid 12 __________",
+      "translation": "软木林有助于__________",
+      "options": [],
+      "answer": "biodiversity",
+      "acceptableAnswers": [
+        "biodiversity"
+      ],
+      "evidence": "Moreover, cork forests are a resource which support local biodiversity...",
+      "location": "Paragraph G, sentence 35",
+      "distractorAnalysis": "aid对应support；local只是修饰语，核心宾语是biodiversity。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "biodiversity"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "NOTE_COMPLETION",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "sectionLabel": "Advantages of cork bottle stoppers",
+      "prompt": "cork forests stop 13 __________ happening",
+      "translation": "软木林阻止__________发生",
+      "options": [],
+      "answer": "desertification",
+      "acceptableAnswers": [
+        "desertification"
+      ],
+      "evidence": "...and prevent desertification in the regions where they are planted.",
+      "location": "Paragraph G, sentence 35",
+      "distractorAnalysis": "stop ... happening改写prevent；所填事件名词为desertification。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        17,
+        19
+      ],
+      "answers": [
+        "desertification"
+      ]
+    }
+  ],
+  "officialAnswers": {
+    "1": "NOT GIVEN",
+    "2": "FALSE",
+    "3": "FALSE",
+    "4": "TRUE",
+    "5": "TRUE",
+    "6": "taste",
+    "7": "cheaper",
+    "8": "convenient",
+    "9": "image",
+    "10": "sustainable",
+    "11": "recycled",
+    "12": "biodiversity",
+    "13": "desertification"
+  }
+}
