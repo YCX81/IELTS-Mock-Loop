@@ -2875,7 +2875,7 @@ Industrial workers found coffee helped them to work at 40
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Cutty Sark: the fastest sailing ship of all time
 The nineteenth century was a period of great technological development in Britain, and for
@@ -2885,16 +2885,16 @@ transport goods around the world, although some also took passengers. From the 1
 1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated
 world trade. Although many were built, only one has survived more or less intact: Cutty Sark,
 now on display in Greenwich, southeast London.
-Cutty Sark's unusual name comes from the poem Tam O'Shanter by the Scottish poet Robert
-Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a 'cutty sark' - an
-old Scottish name for a short nightdress. The witch is depicted in Cutty Sark's figurehead  the
-carving of a woman typically at the front of old sailing ships. In legend, and in Burns's poem,
+Cutty Sark’s unusual name comes from the poem Tam O’Shanter by the Scottish poet Robert
+Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a ‘cutty sark’ – an
+old Scottish name for a short nightdress. The witch is depicted in Cutty Sark’s figurehead – the
+carving of a woman typically at the front of old sailing ships. In legend, and in Burns’s poem,
 witches cannot cross water, so this was a rather strange choice of name for a ship.
 Cutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John
 Willis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and
 ensured that the contract with them put him in a very strong position. In the end, the firm was
 forced out of business, and the ship was finished by a competitor.
-Willis's company was active in the tea trade between China and Britain, where speed could
+Willis’s company was active in the tea trade between China and Britain, where speed could
 bring shipowners both profits and prestige, so Cutty Sark was designed to make the journey
 more quickly than any other ship. On her maiden voyage, in 1870, she set sail from London,
 carrying large amounts of goods to China. She returned laden with tea, making the journey back
@@ -2902,7 +2902,7 @@ to London in four months. However, Cutty Sark never lived up to the high expecta
 owner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and
 a rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean,
 Cutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy
-seas, making her impossible to steer. The ship's crew had the daunting task of repairing the
+seas, making her impossible to steer. The ship’s crew had the daunting task of repairing the
 rudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after
 Thermopylae.
 82
@@ -2916,14 +2916,14 @@ had a serious impact. While steam ships could make use of the quick, direct rout
 Mediterranean and the Red Sea, the canal was of no use to sailing ships, which needed the much
 stronger winds of the oceans, and so had to sail a far greater distance. Steam ships reduced the
 journey time between Britain and China by approximately two months.
-By 1878, tea traders weren't interested in Cutty Sark, and instead, she took on the much less
+By 1878, tea traders weren’t interested in Cutty Sark, and instead, she took on the much less
 prestigious work of carrying any cargo between any two ports in the world. In 1880, violence
 aboard the ship led ultimately to the replacement of the captain with an incompetent drunkard
-who stole the crew's wages. He was suspended from service, and a new captain appointed. This
-marked a turnaround and the beginning of the most successful period in Cutty Sark's working
+who stole the crew’s wages. He was suspended from service, and a new captain appointed. This
+marked a turnaround and the beginning of the most successful period in Cutty Sark’s working
 life, transporting wool from Australia to Britain. One such journey took just under 12 weeks,
 beating every other ship sailing that year by around a month.
-The ship's next captain, Richard Woodget, was an excellent navigator, who got the best out of
+The ship’s next captain, Richard Woodget, was an excellent navigator, who got the best out of
 both his ship and his crew. As a sailing ship, Cutty Sark depended on the strong trade winds of the
 southern hemisphere, and Woodget took her further south than any previous captain, bringing her
 dangerously close to icebergs off the southern tip of South America. His gamble paid off, though,
@@ -2945,9 +2945,9 @@ Cutty Sark attracts a quarter of a million visitors a year.
 ## Page 83
 
 Test 4
-Questions 1-8
+Questions 1–8
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-8 on your answer sheet, write
+In boxes 1–8 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -2971,49 +2971,46 @@ and China faster than clippers.
 Steam ships sometimes used the ocean route to travel between London and China.
 8
 Captain Woodget put Cutty Sark at risk of hitting an iceberg.
-Questions 9-13
+Questions 9–13
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 9-13 on your answer sheet.
+Write your answers in boxes 9–13 on your answer sheet.
 9
-After 1880, Cutty Sark carried
-... as its main cargo during its most
+After 1880, Cutty Sark carried __________ as its main cargo during its most
 successful time.
 10
-As a captain and ..
-, Woodget was very skilled.
+As a captain and __________, Woodget was very skilled.
 11
-Fer. w..  am...t r p..e . h. ..a d .h hused.
+Ferreira went to Falmouth to repair damage that a __________ had caused.
 12
-Between 1923 and 1954, Cutty Sark was used for ..
+Between 1923 and 1954, Cutty Sark was used for __________.
 13
-Cut...... .. tury.
+Cutty Sark has twice been damaged by __________ in the 21st century.
 84
 
 ## Page 84
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 SAVING THE SOIL
-More than a third of the Earth's top layer is at risk. Is there hope for our planet's
+More than a third of the Earth’s top layer is at risk. Is there hope for our planet’s
 most precious resource?
 A
-More than a third of the world's soil is endangered, according to a recent UN report.
-If we don't slow the decline, all farmable soil could be gone in 60 years. Since soil
+More than a third of the world’s soil is endangered, according to a recent UN report.
+If we don’t slow the decline, all farmable soil could be gone in 60 years. Since soil
 grows 95% of our food, and sustains human life in other more surprising ways, that
 is a huge problem.
 B
 Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points
-out that soil scientists have been warning about the degradation of the world's soil
+out that soil scientists have been warning about the degradation of the world’s soil
 for decades. At the same time, our understanding of its importance to humans has
 grown. A single gram of healthy soil might contain 100 million bacteria, as well as
 other microorganisms such as viruses and fungi, living amid decomposing plants
 and various minerals.
 That means soils do not just grow our food, but are the source of nearly all our
-existing antibiotics, and could be our best hope in the fight against antibiotic-
-resistant bacteria. Soil is also an ally against climate change: as microorganisms
+existing antibiotics, and could be our best hope in the fight against antibiotic-resistant bacteria. Soil is also an ally against climate change: as microorganisms
 within soil digest dead animals and plants, they lock in their carbon content, holding
 three times the amount of carbon as does the entire atmosphere. Soils also store
 water, preventing flood damage: in the UK, damage to buildings, roads and bridges
@@ -3040,7 +3037,7 @@ putting this synthetic fertiliser on their fields ever since.
 ## Page 85
 
 Test 4
-But over the past few decades, it has become clear this wasn't such a bright idea.
+But over the past few decades, it has become clear this wasn’t such a bright idea.
 Chemical fertilisers can release polluting nitrous oxide into the atmosphere and
 excess is often washed away with the rain, releasing nitrogen into rivers. More
 recently, we have found that indiscriminate use of fertilisers hurts the soil itself,
@@ -3048,18 +3045,18 @@ turning it acidic and salty, and degrading the soil they are supposed to nourish
 E
 One of the people looking for a solution to this problem is Pius Floris, who started
 out running a tree-care business in the Netherlands, and now advises some of the
-world's top soil scientists. He came to realise that the best way to ensure his trees
+world’s top soil scientists. He came to realise that the best way to ensure his trees
 flourished was to take care of the soil, and has developed a cocktail of beneficial
 bacteria, fungi and humus* to do this. Researchers at the University of Valladolid in
 Spain recently used this cocktail on soils destroyed by years of fertiliser overuse.
-When they applied Floris's mix to the desert-like test plots, a good crop of plants
+When they applied Floris’s mix to the desert-like test plots, a good crop of plants
 emerged that were not just healthy at the surface, but had roots strong enough to
 pierce dirt as hard as rock. The few plants that grew in the control plots, fed with
 traditional fertilisers, were small and weak.
 F
 However, measures like this are not enough to solve the global soil degradation
 problem. To assess our options on a global scale we first need an accurate picture
-of what types of soil are out there, and the problems they face. That's not easy. For
+of what types of soil are out there, and the problems they face. That’s not easy. For
 one thing, there is no agreed international system for classifying soil. In an attempt
 to unify the different approaches, the UN has created the Global Soil Map project.
 Researchers from nine countries are working together to create a map linked to a
@@ -3070,9 +3067,9 @@ Within the next four years, they aim to have mapped soils worldwide to a depth o
 G
 But this is only a first step. We need ways of presenting the problem that bring
 it home to governments and the wider public, says Pamela Chasek at the
-International Institute for Sustainable Development, in Winnipeg, Canada. 'Most
-scientists don't speak language that policy-makers can understand, and vice versa.'
-Chasek and her colleagues have proposed a goal of 'zero net land degradation'.
+International Institute for Sustainable Development, in Winnipeg, Canada. ‘Most
+scientists don’t speak language that policy-makers can understand, and vice versa.’
+Chasek and her colleagues have proposed a goal of ‘zero net land degradation’.
 Like the idea of carbon neutrality, it is an easily understood target that can help
 shape expectations and encourage action.
 For soils on the brink, that may be too late. Several researchers are agitating for
@@ -3087,24 +3084,21 @@ Whatever we do, if we want our soils to survive, we need to take action now.
 ## Page 86
 
 Reading
-Questions 14-17
+Questions 14–17
 Complete the summary below.
 Write ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 14-17 on your answer sheet.
+Write your answers in boxes 14–17 on your answer sheet.
 Why soil degradation could be a disaster for humans
 Healthy soil contains a large variety of bacteria and other microorganisms, as well
-as plant remains and 14
-. It provides us with food and also with
-antibiotics, and its function in storing 15
-.. has a significant effect on the
+as plant remains and 14 __________. It provides us with food and also with
+antibiotics, and its function in storing 15 __________ has a significant effect on the
 climate. In addition, it prevents damage to property and infrastructure because it
-holds 16
+holds 16 __________.
 If these microorganisms are lost, soil may lose its special properties. The main factor
-contributing to soil degradation is the 17
-carried out by humans.
-Questions 18-21
-Complete each sentence with the correct ending, A-F, below.
-Write the correct letter, A-F, in boxes 18-21 on your answer sheet.
+contributing to soil degradation is the 17 __________ carried out by humans.
+Questions 18–21
+Complete each sentence with the correct ending, A–F, below.
+Write the correct letter, A–F, in boxes 18–21 on your answer sheet.
 18
 Nutrients contained in the unused parts of harvested crops
 19
@@ -3130,13 +3124,13 @@ may be better for use at a global level.
 ## Page 87
 
 Test 4
-Questions 22-26
-Reading Passage 2 has seven paragraphs, A-G.
+Questions 22–26
+Reading Passage 2 has seven paragraphs, A–G.
 Which section contains the following information?
-Write the correct letter, A-G, in boxes 22-26 on your answer sheet.
+Write the correct letter, A–G, in boxes 22–26 on your answer sheet.
 NB You may use any letter more than once.
 22
-a reference to one person's motivation for a soil-improvement project
+a reference to one person’s motivation for a soil-improvement project
 23
 an explanation of how soil stayed healthy before the development of farming
 24
@@ -3151,63 +3145,63 @@ a reason why it is difficult to provide an overview of soil degradation
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Book Review
 The Happiness Industry: How the Government and Big Business
 Sold Us Well-Being
 By William Davies
-'Happiness is the ultimate goal because it is self-evidently good. If we are asked why
-happiness matters we can give no further external reason. It just obviously does matter.' This
-pronouncement by Richard Layard, an economist and advocate of 'positive psychology',
+‘Happiness is the ultimate goal because it is self-evidently good. If we are asked why
+happiness matters we can give no further external reason. It just obviously does matter.’ This
+pronouncement by Richard Layard, an economist and advocate of ‘positive psychology’,
 summarises the beliefs of many people today. For Layard and others like him, it is obvious that
 the purpose of government is to promote a state of collective well-being. The only question is
-how to achieve it, and here positive psychology - a supposed science that not only identifies
-what makes people happy but also allows their happiness to be measured  can show the way.
+how to achieve it, and here positive psychology – a supposed science that not only identifies
+what makes people happy but also allows their happiness to be measured – can show the way.
 Equipped with this science, they say, governments can secure happiness in society in a way they
 never could in the past.
 It is an astonishingly crude and simple-minded way of thinking, and for that very reason
 increasingly popular. Those who think in this way are oblivious to the vast philosophical
 literature in which the meaning and value of happiness have been explored and questioned,
 and write as if nothing of any importance had been thought on the subject until it came to their
-attention. It was the philosopher Jeremy Bentham (1748—1832) who was more than anyone else
+attention. It was the philosopher Jeremy Bentham (1748–1832) who was more than anyone else
 responsible for the development of this way of thinking. For Bentham it was obvious that the
 human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may
 have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the
 ages may have struggled to reconcile the pursuit of happiness with other human values, but for
 Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the
-school of moral theory he established  since they are by education and intellectual conviction
-illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in
+school of moral theory he established – since they are by education and intellectual conviction
+illiterate in the history of ideas – our advocates of positive psychology follow in his tracks in
 rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human
 happiness to date.
 But as William Davies notes in his recent book The Happiness Industry, the view that happiness
 is the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of
 this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined
 historical framework. Rightly, Davies begins his story with Bentham, noting that he was far
-more than a philosopher. Davies writes, 'Bentham's activities were those which we might now
-associate with a public sector management consultant'. In the 1790s, he wrote to the Home Office
-suggesting that the departments of government be linked together through a set of 'conversation
-tubes' , and to the Bank of England with a design for a printing device that could produce
+more than a philosopher. Davies writes, ‘Bentham’s activities were those which we might now
+associate with a public sector management consultant’. In the 1790s, he wrote to the Home Office
+suggesting that the departments of government be linked together through a set of ‘conversation
+tubes’, and to the Bank of England with a design for a printing device that could produce
 89
 
 ## Page 89
 
 Test 4
-unforgeable banknotes. He drew up plans for a 'frigidarium' to keep provisions such as meat,
-fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a 'Panopticon',
+unforgeable banknotes. He drew up plans for a ‘frigidarium’ to keep provisions such as meat,
+fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a ‘Panopticon’,
 in which prisoners would be kept in solitary confinement while being visible at all times to the
 guards, was very nearly adopted. (Surprisingly, Davies does not discuss the fact that Bentham
 meant his Panopticon not just as a model prison but also as an instrument of control that could be
 applied to schools and factories.)
-Bentham was also a pioneer of the 'science of happiness' . If happiness is to be regarded as
+Bentham was also a pioneer of the ‘science of happiness’. If happiness is to be regarded as
 a science, it has to be measured, and Bentham suggested two ways in which this might be
 done. Viewing happiness as a complex of pleasurable sensations, he suggested that it might be
 quantified by measuring the human pulse rate. Alternatively, money could be used as the standard
 for quantification: if two different goods have the same price, it can be claimed that they produce
 the same quantity of pleasure in the consumer. Bentham was more attracted by the latter measure.
-By associating money so closely to inner experience, Davies writes, Bentham 'set the stage for
+By associating money so closely to inner experience, Davies writes, Bentham ‘set the stage for
 the entangling of psychological research and capitalism that would shape the business practices
-of the twentieth century'.
+of the twentieth century’.
 The Happiness Industry describes how the project of a science of happiness has become
 integral to capitalism. We learn much that is interesting about how economic problems are
 being redefined and treated as psychological maladies. In addition, Davies shows how the
@@ -3215,30 +3209,30 @@ belief that inner states of pleasure and displeasure can be objectively measured
 management studies and advertising. The tendency of thinkers such as J B Watson, the founder
 of behaviourism*, was that human beings could be shaped, or manipulated, by policymakers and
 managers. Watson had no factual basis for his view of human action. When he became president
-of the American Psychological Association in 1915, he 'had never even studied a single human
-being': his research had been confined to experiments on white rats. Yet Watson's reductive
-model is now widely applied, with 'behaviour change' becoming the goal of governments: in
-Britain, a 'Behaviour Insights Team' has been established by the government to study how people
+of the American Psychological Association in 1915, he ‘had never even studied a single human
+being’: his research had been confined to experiments on white rats. Yet Watson’s reductive
+model is now widely applied, with ‘behaviour change’ becoming the goal of governments: in
+Britain, a ‘Behaviour Insights Team’ has been established by the government to study how people
 can be encouraged, at minimum cost to the public purse, to live in what are considered to be
 socially desirable ways.
 Modern industrial societies appear to need the possibility of ever-increasing happiness to
 motivate them in their labours. But whatever its intellectual pedigree, the idea that governments
 should be responsible for promoting happiness is always a threat to human freedom.
-* 'behaviourism': a branch of psychology which is concerned with observable behaviour
+* ‘behaviourism’: a branch of psychology which is concerned with observable behaviour
 90
 
 ## Page 90
 
 Reading
-Questions 27-29
+Questions 27–29
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-29 on your answer sheet.
+Write the correct letter in boxes 27–29 on your answer sheet.
 27
-What is the reviewer's attitude to advocates of positive psychology?
+What is the reviewer’s attitude to advocates of positive psychology?
 A
 They are wrong to reject the ideas of Bentham.
 B
-They are over-influenced by their study of Bentham's theories.
+They are over-influenced by their study of Bentham’s theories.
 C
 They have a fresh new approach to ideas on human happiness.
 D
@@ -3255,7 +3249,7 @@ is not something that should be fought for.
 D
 is not just an abstract concept.
 29
-According to Davies, Bentham's suggestion for linking the price of goods to
+According to Davies, Bentham’s suggestion for linking the price of goods to
 happiness was significant because
 A
 it was the first successful way of assessing happiness.
@@ -3270,22 +3264,17 @@ it involved consideration of the rights of consumers.
 ## Page 91
 
 Test 4
-Questions 30-34
-Complete the summary using the list of words A-G below.
-Write the correct letter, A-G, in boxes 30—34 on your answer sheet.
+Questions 30–34
+Complete the summary using the list of words A–G below.
+Write the correct letter, A–G, in boxes 30–34 on your answer sheet.
 Jeremy Bentham
 Jeremy Bentham was active in other areas besides philosophy. In the 1790s he
-suggested a type of technology to improve 30
-. for different Government
+suggested a type of technology to improve 30 __________ for different Government
 departments. He developed a new way of printing banknotes to increase
-31
-and also designed a method for the 32
-of food. He
-also drew up plans for a prison which allowed the 33
-of prisoners at all
+31 __________ and also designed a method for the 32 __________ of food. He
+also drew up plans for a prison which allowed the 33 __________ of prisoners at all
 times, and believed the same design could be used for other institutions as well. When
-researching happiness, he investigated possibilities for its 34
-, and
+researching happiness, he investigated possibilities for its 34 __________, and
 suggested some methods of doing this.
 A
 measurement
@@ -3306,24 +3295,24 @@ preservation
 ## Page 92
 
 Reading
-Questions 35-40
+Questions 35–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 35-40 on your answer sheet, write
+In boxes 35–40 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
 if the statement contradicts the claims of the writer
-NOT GIvEN if it is impossible to say what the writer thinks about this
+NOT GIVEN if it is impossible to say what the writer thinks about this
 35
 One strength of The Happiness Industry is its discussion of the relationship
 between psychology and economics.
 36
 It is more difficult to measure some emotions than others.
 37
-Watson's ideas on behaviourism were supported by research on humans he carried
+Watson’s ideas on behaviourism were supported by research on humans he carried
 out before 1915.
 38
-Watson's ideas have been most influential on governments outside America.
+Watson’s ideas have been most influential on governments outside America.
 39
 The need for happiness is linked to industrialisation.
 40
@@ -5508,110 +5497,58 @@ Listening and Reading Answer Keys
 TEST 4
 READING
 Reading Passage 1,
-20
-ADE
-21
-Questions 1-13
-22
-1
-FALSE
-23
-C
-2
-FALSE
-24
-F
-3
-TRUE
-25
-GF
-4
-TRUE
-26
-5
-FALSE
-6
-TRUE
-Reading Passage 3,
-7
-NOT GIVEN
-8
-Questions 27-40
-TRUE
-9
-wool
-27
-D
-10
-navigator
-28
-A
-11
-gale
-29
-B
-12
-training
-30
-F
-13
-fire
-31
-B
-32
-G
+Questions 1–13
+1 FALSE
+2 FALSE
+3 TRUE
+4 TRUE
+5 FALSE
+6 TRUE
+7 NOT GIVEN
+8 TRUE
+9 wool
+10 navigator
+11 gale
+12 training
+13 fire
 Reading Passage 2,
-33
-E
-Questions 14-26
-34
-A
-35
-YES
-14
-minerals
-36
-NOT GIVEN
-15
-carbon
-37
-NO
-16
-water
-38
-NOT GIVEN
-17
-agriculture
-39
-YES
-18
-C
-40
-NO
-19
-E
+Questions 14–26
+14 minerals
+15 carbon
+16 water
+17 agriculture
+18 C
+19 E
+20 A
+21 D
+22 E
+23 C
+24 F
+25 G
+26 F
+Reading Passage 3,
+Questions 27–40
+27 D
+28 A
+29 B
+30 F
+31 B
+32 G
+33 E
+34 A
+35 YES
+36 NOT GIVEN
+37 NO
+38 NOT GIVEN
+39 YES
+40 NO
 If you score ...
-0-16
-17-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0–16
+17–25
+26–40
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 125
 
 ## Page 125

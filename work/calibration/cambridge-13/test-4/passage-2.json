@@ -1,0 +1,2663 @@
+{
+  "book": 13,
+  "test": 4,
+  "passageNumber": 2,
+  "status": "manually_calibrated",
+  "title": "SAVING THE SOIL",
+  "subtitle": "More than a third of the Earth’s top layer is at risk. Is there hope for our planet’s most precious resource?",
+  "overallInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+  "overallInstructionZh": "你应该用大约20分钟完成第14–26题，这些题目以以下阅读文章2为基础。",
+  "sourcePages": [
+    84,
+    85,
+    86,
+    87
+  ],
+  "bodySourcePages": [
+    84,
+    85
+  ],
+  "questionPages": [
+    86,
+    87
+  ],
+  "answerKeyPage": 124,
+  "footnote": "* Humus: the part of the soil formed from dead plant material",
+  "footnoteZh": "* Humus（腐殖质）：土壤中由死亡植物材料形成的部分。",
+  "bodyParagraphs": [
+    {
+      "label": "A",
+      "sentences": [
+        "More than a third of the world’s soil is endangered, according to a recent UN report.",
+        "If we don’t slow the decline, all farmable soil could be gone in 60 years.",
+        "Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem."
+      ]
+    },
+    {
+      "label": "B",
+      "sentences": [
+        "Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world’s soil for decades.",
+        "At the same time, our understanding of its importance to humans has grown.",
+        "A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.",
+        "That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our best hope in the fight against antibiotic-resistant bacteria.",
+        "Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.",
+        "Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year."
+      ]
+    },
+    {
+      "label": "C",
+      "sentences": [
+        "If the soil loses its ability to perform these functions, the human race could be in big trouble.",
+        "The danger is not that the soil will disappear completely, but that the microorganisms that give it its special properties will be lost.",
+        "And once this has happened, it may take the soil thousands of years to recover.",
+        "Agriculture is by far the biggest problem.",
+        "In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil.",
+        "Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.",
+        "In the past we developed strategies to get around the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season."
+      ]
+    },
+    {
+      "label": "D",
+      "sentences": [
+        "But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines.",
+        "A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate.",
+        "Farmers have been putting this synthetic fertiliser on their fields ever since.",
+        "But over the past few decades, it has become clear this wasn’t such a bright idea.",
+        "Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers.",
+        "More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish."
+      ]
+    },
+    {
+      "label": "E",
+      "sentences": [
+        "One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world’s top soil scientists.",
+        "He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this.",
+        "Researchers at the University of Valladolid in Spain recently used this cocktail on soils destroyed by years of fertiliser overuse.",
+        "When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.",
+        "The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak."
+      ]
+    },
+    {
+      "label": "F",
+      "sentences": [
+        "However, measures like this are not enough to solve the global soil degradation problem.",
+        "To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face.",
+        "That’s not easy.",
+        "For one thing, there is no agreed international system for classifying soil.",
+        "In an attempt to unify the different approaches, the UN has created the Global Soil Map project.",
+        "Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil.",
+        "Within the next four years, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all."
+      ]
+    },
+    {
+      "label": "G",
+      "sentences": [
+        "But this is only a first step.",
+        "We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada.",
+        "‘Most scientists don’t speak language that policy-makers can understand, and vice versa.’",
+        "Chasek and her colleagues have proposed a goal of ‘zero net land degradation’.",
+        "Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action.",
+        "For soils on the brink, that may be too late.",
+        "Several researchers are agitating for the immediate creation of protected zones for endangered soils.",
+        "One difficulty here is defining what these areas should conserve: areas where the greatest soil diversity is present?",
+        "Or areas of unspoilt soils that could act as a future benchmark of quality?",
+        "Whatever we do, if we want our soils to survive, we need to take action now."
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "number": 1,
+      "paragraph": "A",
+      "text": "More than a third of the world’s soil is endangered, according to a recent UN report.",
+      "translationZh": "联合国最近的一份报告指出，世界上超过三分之一的土壤正处于危险之中。",
+      "syntaxAndFunctionZh": "A段以联合国报告的数据提出危机，according to 引出信息来源。主干是 soil is endangered。",
+      "vocabulary": [
+        {
+          "term": "More than a third",
+          "meaning": "超过三分之一",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "endangered",
+          "meaning": "濒危的；受到威胁的",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "according to",
+          "meaning": "根据",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "recent",
+          "meaning": "最近的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "report",
+          "meaning": "报告",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraph": "A",
+      "text": "If we don’t slow the decline, all farmable soil could be gone in 60 years.",
+      "translationZh": "如果我们不减缓这种退化，所有可耕种土壤都可能在六十年内消失。",
+      "syntaxAndFunctionZh": "条件句 If we don’t… 给出不行动的后果；主句 all farmable soil could be gone 用 could 表示高度风险而非既成事实。",
+      "vocabulary": [
+        {
+          "term": "slow the decline",
+          "meaning": "减缓衰退/退化",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "decline",
+          "meaning": "衰退；下降",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "farmable",
+          "meaning": "可耕种的",
+          "level": "C1，农业专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraph": "A",
+      "text": "Since soil grows 95% of our food, and sustains human life in other more surprising ways, that is a huge problem.",
+      "translationZh": "土壤供养了我们95%的食物，并且还以其他更令人意外的方式维系着人类生命，因此这是一个极其严重的问题。",
+      "syntaxAndFunctionZh": "Since 引导原因从句，and 并列 grows 与 sustains；that 回指前述六十年内可耕地消失的风险，完成段落结论。",
+      "vocabulary": [
+        {
+          "term": "sustain",
+          "meaning": "维持；支撑",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "human life",
+          "meaning": "人类生命",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "surprising",
+          "meaning": "令人意外的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "huge",
+          "meaning": "巨大的；严重的",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraph": "B",
+      "text": "Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points out that soil scientists have been warning about the degradation of the world’s soil for decades.",
+      "translationZh": "纽约卡里生态系统研究所的彼得·格罗夫曼指出，几十年来，土壤科学家一直在警告世人全球土壤正在退化。",
+      "syntaxAndFunctionZh": "主干 Peter Groffman points out that…；两个逗号之间是来源说明，宾语从句用现在完成进行时突出警告持续了几十年。",
+      "vocabulary": [
+        {
+          "term": "Ecosystem",
+          "meaning": "生态系统",
+          "level": "B2，生态学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "scientist",
+          "meaning": "科学家",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "degradation",
+          "meaning": "退化",
+          "level": "C1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "for decades",
+          "meaning": "数十年来",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "points out",
+          "meaning": "指出",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "warning about",
+          "meaning": "警告……的危险",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraph": "B",
+      "text": "At the same time, our understanding of its importance to humans has grown.",
+      "translationZh": "与此同时，我们对土壤之于人类的重要性的认识也在加深。",
+      "syntaxAndFunctionZh": "At the same time 承接“长期警告”，主干 understanding has grown，说明认知也在同步变化。",
+      "vocabulary": [
+        {
+          "term": "At the same time",
+          "meaning": "与此同时",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "understanding",
+          "meaning": "认识；理解",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "importance",
+          "meaning": "重要性",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraph": "B",
+      "text": "A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.",
+      "translationZh": "仅一克健康土壤就可能含有一亿个细菌，还有病毒和真菌等其他微生物，它们生活在正在分解的植物和各种矿物质之间。",
+      "syntaxAndFunctionZh": "主干 A single gram… might contain…；as well as 添加微生物，living amid… 是现在分词短语，描写它们的生存环境。",
+      "vocabulary": [
+        {
+          "term": "A single gram",
+          "meaning": "仅一克",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "contain",
+          "meaning": "包含",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "bacteria",
+          "meaning": "细菌",
+          "level": "B2，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "as well as",
+          "meaning": "以及；除……之外还",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "microorganisms",
+          "meaning": "微生物",
+          "level": "C1，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "viruses",
+          "meaning": "病毒",
+          "level": "B2，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "fungi",
+          "meaning": "真菌",
+          "level": "C1，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "amid",
+          "meaning": "在……之中",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "decomposing",
+          "meaning": "正在分解的",
+          "level": "C1，生态学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "various",
+          "meaning": "各种各样的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "minerals",
+          "meaning": "矿物质",
+          "level": "B2，地质学专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "paragraph": "B",
+      "text": "That means soils do not just grow our food, but are the source of nearly all our existing antibiotics, and could be our best hope in the fight against antibiotic-resistant bacteria.",
+      "translationZh": "这意味着，土壤不仅为我们生产食物，还是几乎所有现有抗生素的来源，并且可能是我们对抗耐抗生素细菌的最大希望。",
+      "syntaxAndFunctionZh": "That means 引出推论；not just…but…建立递进，and could be…继续补充土壤的潜在医学价值。",
+      "vocabulary": [
+        {
+          "term": "bacteria",
+          "meaning": "细菌",
+          "level": "B2，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "source of",
+          "meaning": "……的来源",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "existing",
+          "meaning": "现有的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "antibiotics",
+          "meaning": "抗生素",
+          "level": "B2，医学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "best hope",
+          "meaning": "最大的希望",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "fight against",
+          "meaning": "与……作斗争",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "antibiotic-resistant",
+          "meaning": "耐抗生素的",
+          "level": "C1，医学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "nearly",
+          "meaning": "几乎",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "paragraph": "B",
+      "text": "Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.",
+      "translationZh": "土壤也是应对气候变化的盟友：土壤中的微生物消化死亡的动植物时，会锁住其中的碳，使土壤所含的碳达到整个大气层含碳量的三倍。",
+      "syntaxAndFunctionZh": "冒号后解释 ally 的具体机制；as 引导时间从句，holding… 是结果性分词结构，倒装 as does the entire atmosphere 用于比较。",
+      "vocabulary": [
+        {
+          "term": "microorganisms",
+          "meaning": "微生物",
+          "level": "C1，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "ally against",
+          "meaning": "对抗……的盟友",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "climate change",
+          "meaning": "气候变化",
+          "level": "B1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "digest",
+          "meaning": "消化；分解",
+          "level": "B2，生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "lock in",
+          "meaning": "锁住；固定",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "carbon content",
+          "meaning": "碳含量",
+          "level": "B2，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "the amount of",
+          "meaning": "……的数量",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "entire",
+          "meaning": "整个的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "atmosphere",
+          "meaning": "大气层",
+          "level": "B2，环境科学专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "paragraph": "B",
+      "text": "Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.",
+      "translationZh": "土壤还会储存水分，从而防止洪灾损失：在英国，土壤退化引发的洪水每年给建筑物、道路和桥梁造成2.33亿英镑的损失。",
+      "syntaxAndFunctionZh": "主干 Soils store water；preventing…说明结果，冒号后的英国数据把抽象功能转化为可量化损失。",
+      "vocabulary": [
+        {
+          "term": "degradation",
+          "meaning": "退化",
+          "level": "C1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "store water",
+          "meaning": "储存水分",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "preventing",
+          "meaning": "防止",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "flood damage",
+          "meaning": "洪灾损失",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "buildings",
+          "meaning": "建筑物",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "bridges",
+          "meaning": "桥梁",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "caused by",
+          "meaning": "由……引起",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "costs",
+          "meaning": "造成……损失；花费",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "paragraph": "C",
+      "text": "If the soil loses its ability to perform these functions, the human race could be in big trouble.",
+      "translationZh": "如果土壤失去履行这些功能的能力，人类就可能陷入大麻烦。",
+      "syntaxAndFunctionZh": "If 引导条件；主句用 could be in big trouble 概括失去生态功能的严重后果。",
+      "vocabulary": [
+        {
+          "term": "ability",
+          "meaning": "能力",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "perform",
+          "meaning": "履行；执行",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "functions",
+          "meaning": "功能",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "human race",
+          "meaning": "人类",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "in big trouble",
+          "meaning": "陷入大麻烦",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "paragraph": "C",
+      "text": "The danger is not that the soil will disappear completely, but that the microorganisms that give it its special properties will be lost.",
+      "translationZh": "危险并不在于土壤会彻底消失，而在于赋予土壤特殊性质的微生物将会消失。",
+      "syntaxAndFunctionZh": "not…but…纠正常见误解；两个 that 从句分别说明被否定的危险和真正危险。",
+      "vocabulary": [
+        {
+          "term": "microorganisms",
+          "meaning": "微生物",
+          "level": "C1，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "danger",
+          "meaning": "危险",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "disappear completely",
+          "meaning": "彻底消失",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "special properties",
+          "meaning": "特殊性质",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "be lost",
+          "meaning": "消失；丧失",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "paragraph": "C",
+      "text": "And once this has happened, it may take the soil thousands of years to recover.",
+      "translationZh": "而一旦发生这种情况，土壤可能需要数千年才能恢复。",
+      "syntaxAndFunctionZh": "once 引导时间兼条件关系；may take…to recover 强调恢复所需时间极其漫长。",
+      "vocabulary": [
+        {
+          "term": "once",
+          "meaning": "一旦",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "thousands of years",
+          "meaning": "数千年",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "recover",
+          "meaning": "恢复",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "paragraph": "C",
+      "text": "Agriculture is by far the biggest problem.",
+      "translationZh": "农业是迄今为止最大的问题。",
+      "syntaxAndFunctionZh": "短句单独成段内转折，用 by far 强烈排序，把危机归因转向农业。",
+      "vocabulary": [
+        {
+          "term": "Agriculture",
+          "meaning": "农业",
+          "level": "B1，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "by far",
+          "meaning": "远远；迄今为止",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "paragraph": "C",
+      "text": "In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil.",
+      "translationZh": "在野外，植物生长时会从土壤中吸收养分；但植物死亡、腐烂后，这些养分又会直接回到土壤中。",
+      "syntaxAndFunctionZh": "when…but then when…构成自然循环；remove 与 are returned 对照养分离开和回归土壤。",
+      "vocabulary": [
+        {
+          "term": "In the wild",
+          "meaning": "在野外",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "remove",
+          "meaning": "移走；吸收",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "nutrients",
+          "meaning": "养分",
+          "level": "B2，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "nutrients",
+          "meaning": "养分",
+          "level": "B2，农业专业词",
+          "occurrence": 2
+        },
+        {
+          "term": "decay",
+          "meaning": "腐烂；分解",
+          "level": "B2，生态学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "returned directly",
+          "meaning": "直接归还",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "paragraph": "C",
+      "text": "Humans tend not to return unused parts of harvested crops directly to the soil to enrich it, meaning that the soil gradually becomes less fertile.",
+      "translationZh": "人类往往不会把收获后未利用的作物部分直接还给土壤来使其肥沃，这意味着土壤会逐渐变得不那么肥沃。",
+      "syntaxAndFunctionZh": "主干 Humans tend not to return…；to enrich it 表目的，meaning…说明长期结果。",
+      "vocabulary": [
+        {
+          "term": "tend not to",
+          "meaning": "往往不",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "unused",
+          "meaning": "未使用的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "harvested crops",
+          "meaning": "收获的作物",
+          "level": "B2，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "enrich",
+          "meaning": "使肥沃；丰富",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "gradually",
+          "meaning": "逐渐地",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "fertile",
+          "meaning": "肥沃的",
+          "level": "B2，农业专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "paragraph": "C",
+      "text": "In the past we developed strategies to get around the problem, such as regularly varying the types of crops grown, or leaving fields uncultivated for a season.",
+      "translationZh": "过去，我们制定过一些绕开这个问题的策略，例如定期轮换作物种类，或让田地休耕一季。",
+      "syntaxAndFunctionZh": "主干 we developed strategies；to get around…说明策略目的，such as 后列举轮作与休耕。",
+      "vocabulary": [
+        {
+          "term": "developed strategies",
+          "meaning": "制定策略",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "get around",
+          "meaning": "绕开；克服",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "regularly",
+          "meaning": "定期地",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "varying",
+          "meaning": "变换；改变",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "uncultivated",
+          "meaning": "未耕作的；休耕的",
+          "level": "C1，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "for a season",
+          "meaning": "一季",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "paragraph": "D",
+      "text": "But these practices became inconvenient as populations grew and agriculture had to be run on more commercial lines.",
+      "translationZh": "但是，随着人口增长、农业不得不更多地按商业模式经营，这些做法变得不便。",
+      "syntaxAndFunctionZh": "But 承上转折；as 引导原因/伴随背景，had to be run 是被动语态，on more commercial lines 说明经营方式。",
+      "vocabulary": [
+        {
+          "term": "agriculture",
+          "meaning": "农业",
+          "level": "B1，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "practices",
+          "meaning": "做法",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "inconvenient",
+          "meaning": "不方便的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "populations",
+          "meaning": "人口",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "commercial lines",
+          "meaning": "商业化方式",
+          "level": "C1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "paragraph": "D",
+      "text": "A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate.",
+      "translationZh": "二十世纪初，制造硝酸铵的哈伯—博施法带来了一种解决办法。",
+      "syntaxAndFunctionZh": "主干 A solution came；with…引出具体技术，for manufacturing…说明工艺用途。",
+      "vocabulary": [
+        {
+          "term": "solution",
+          "meaning": "解决办法",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "process",
+          "meaning": "工艺；过程",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "manufacturing",
+          "meaning": "制造",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "ammonium nitrate",
+          "meaning": "硝酸铵",
+          "level": "C1，化学专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "paragraph": "D",
+      "text": "Farmers have been putting this synthetic fertiliser on their fields ever since.",
+      "translationZh": "从那以后，农民一直把这种合成肥料施到田地里。",
+      "syntaxAndFunctionZh": "现在完成进行时 have been putting 强调从发明以来持续到现在的施肥行为。",
+      "vocabulary": [
+        {
+          "term": "synthetic fertiliser",
+          "meaning": "合成肥料",
+          "level": "C1，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "ever since",
+          "meaning": "从那以后一直",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "paragraph": "D",
+      "text": "But over the past few decades, it has become clear this wasn’t such a bright idea.",
+      "translationZh": "然而在过去几十年里，人们已经清楚地认识到，这并不是一个多么明智的主意。",
+      "syntaxAndFunctionZh": "But 转折否定上一段的“解决办法”；形式主语 it 后的 that 被省略，bright idea 带克制的反讽。",
+      "vocabulary": [
+        {
+          "term": "over the past few decades",
+          "meaning": "在过去几十年里",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "bright idea",
+          "meaning": "明智的主意（此处带反讽）",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "paragraph": "D",
+      "text": "Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers.",
+      "translationZh": "化肥会向大气释放具有污染性的氧化亚氮，而过量的肥料常被雨水冲走，将氮释放进河流。",
+      "syntaxAndFunctionZh": "and 连接两种污染路径；releasing…说明肥料被冲走后的结果。",
+      "vocabulary": [
+        {
+          "term": "atmosphere",
+          "meaning": "大气层",
+          "level": "B2，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "Chemical fertilisers",
+          "meaning": "化肥",
+          "level": "B2，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "release",
+          "meaning": "释放",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "polluting",
+          "meaning": "造成污染的",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "nitrous oxide",
+          "meaning": "氧化亚氮",
+          "level": "C1，化学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "excess",
+          "meaning": "过量部分",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "washed away",
+          "meaning": "冲走",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "nitrogen",
+          "meaning": "氮",
+          "level": "B2，化学专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "paragraph": "D",
+      "text": "More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish.",
+      "translationZh": "最近我们还发现，不加选择地使用肥料会伤害土壤本身，使其变酸、变咸，并让本应得到滋养的土壤退化。",
+      "syntaxAndFunctionZh": "that 引导宾语从句；turning、degrading 两个并列分词说明伤害形式，they are supposed to nourish 是关系从句并形成反讽。",
+      "vocabulary": [
+        {
+          "term": "indiscriminate use",
+          "meaning": "不加选择地使用；滥用",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "acidic",
+          "meaning": "酸性的",
+          "level": "C1，化学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "salty",
+          "meaning": "含盐的；咸的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "degrading",
+          "meaning": "使退化",
+          "level": "C1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "nourish",
+          "meaning": "滋养",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "recently",
+          "meaning": "最近；近来",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "paragraph": "E",
+      "text": "One of the people looking for a solution to this problem is Pius Floris, who started out running a tree-care business in the Netherlands, and now advises some of the world’s top soil scientists.",
+      "translationZh": "寻找这一问题解决办法的人中有一位叫皮乌斯·弗洛里斯；他起初在荷兰经营树木养护业务，如今则为一些世界顶尖的土壤科学家提供建议。",
+      "syntaxAndFunctionZh": "主干 One…is Pius Floris；who 引导非限制性定语从句，started out…与 now advises…形成职业转变。",
+      "vocabulary": [
+        {
+          "term": "scientist",
+          "meaning": "科学家",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "solution",
+          "meaning": "解决办法",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "tree-care business",
+          "meaning": "树木养护业务",
+          "level": "B2，园艺专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "advise",
+          "meaning": "给……提供建议",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "top soil scientists",
+          "meaning": "顶尖土壤科学家",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "started out",
+          "meaning": "起初从事；最初以……开始",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "paragraph": "E",
+      "text": "He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this.",
+      "translationZh": "他开始意识到，要保证树木茁壮生长，最好的办法就是照料土壤；为此，他研制出一种由有益细菌、真菌和腐殖质组成的混合制剂。",
+      "syntaxAndFunctionZh": "主干 He came to realise…and has developed…；that 从句说明认识，to ensure…表目的，was to take care…作表语。",
+      "vocabulary": [
+        {
+          "term": "bacteria",
+          "meaning": "细菌",
+          "level": "B2，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "fungi",
+          "meaning": "真菌",
+          "level": "C1，微生物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "ensure",
+          "meaning": "确保",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "flourished",
+          "meaning": "茁壮成长",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "take care of",
+          "meaning": "照料",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "a cocktail of",
+          "meaning": "由多种成分组成的混合物",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "beneficial",
+          "meaning": "有益的",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "humus",
+          "meaning": "腐殖质",
+          "level": "C1，土壤学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "came to realise",
+          "meaning": "逐渐意识到",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "developed",
+          "meaning": "研制；开发",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "paragraph": "E",
+      "text": "Researchers at the University of Valladolid in Spain recently used this cocktail on soils destroyed by years of fertiliser overuse.",
+      "translationZh": "西班牙巴利亚多利德大学的研究人员最近把这种混合制剂用于因多年过度施肥而遭到破坏的土壤。",
+      "syntaxAndFunctionZh": "主干 Researchers…used this cocktail；destroyed by…是过去分词短语，说明土壤受损原因。",
+      "vocabulary": [
+        {
+          "term": "Researchers",
+          "meaning": "研究人员",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "destroyed by",
+          "meaning": "被……破坏",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "overuse",
+          "meaning": "过度使用",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "recently",
+          "meaning": "最近；近来",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "cocktail",
+          "meaning": "混合制剂；多种成分的混合物（本篇再次出现）",
+          "level": "C1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "paragraph": "E",
+      "text": "When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.",
+      "translationZh": "他们把弗洛里斯的混合物施到沙漠般的试验地后，长出了一片长势良好的作物：它们不仅地表部分健康，根系也足够强壮，能够刺穿坚如岩石的泥土。",
+      "syntaxAndFunctionZh": "When 引导时间从句；主句 a good crop…emerged，that 从句用 not just…but…对照地表健康与根系强度。",
+      "vocabulary": [
+        {
+          "term": "applied",
+          "meaning": "施用；应用",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "desert-like",
+          "meaning": "沙漠般的",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "test plots",
+          "meaning": "试验地块",
+          "level": "C1，农业专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "a good crop of",
+          "meaning": "长势良好的一批",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "emerged",
+          "meaning": "出现；长出",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "surface",
+          "meaning": "表面",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "roots",
+          "meaning": "根系",
+          "level": "B1，植物学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "strong enough to",
+          "meaning": "足够强壮以……",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "pierce",
+          "meaning": "刺穿",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "as hard as rock",
+          "meaning": "坚如岩石",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "paragraph": "E",
+      "text": "The few plants that grew in the control plots, fed with traditional fertilisers, were small and weak.",
+      "translationZh": "对照试验地中用传统肥料培育出来的少数植物又小又弱。",
+      "syntaxAndFunctionZh": "主干是 The few plants…were small and weak；that grew…修饰 plants；fed with traditional fertilisers 是过去分词短语，表示植物接受传统肥料处理，而非植物主动施肥。",
+      "vocabulary": [
+        {
+          "term": "control plots",
+          "meaning": "对照试验地",
+          "level": "C1，科研专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "fed with",
+          "meaning": "施以；供给",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "traditional",
+          "meaning": "传统的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "weak",
+          "meaning": "弱的；长势差的",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "paragraph": "F",
+      "text": "However, measures like this are not enough to solve the global soil degradation problem.",
+      "translationZh": "然而，类似措施不足以解决全球性的土壤退化问题。",
+      "syntaxAndFunctionZh": "However 把局部试验拉回全球尺度；not enough to solve 表明该办法有成效但不足以成为完整答案。",
+      "vocabulary": [
+        {
+          "term": "degradation",
+          "meaning": "退化",
+          "level": "C1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "measures",
+          "meaning": "措施",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "global",
+          "meaning": "全球的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "solve",
+          "meaning": "解决",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "paragraph": "F",
+      "text": "To assess our options on a global scale we first need an accurate picture of what types of soil are out there, and the problems they face.",
+      "translationZh": "要在全球范围内评估我们的选择，首先需要准确了解有哪些土壤类型，以及它们各自面临什么问题。",
+      "syntaxAndFunctionZh": "句首不定式 To assess…表目的；主干 we need an accurate picture，两个 of/what 结构说明需要掌握的内容。",
+      "vocabulary": [
+        {
+          "term": "global",
+          "meaning": "全球的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "assess",
+          "meaning": "评估",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "options",
+          "meaning": "选择方案",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "on a global scale",
+          "meaning": "在全球范围内",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "accurate picture",
+          "meaning": "准确的全貌",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "face",
+          "meaning": "面临",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "paragraph": "F",
+      "text": "That’s not easy.",
+      "translationZh": "这并不容易。",
+      "syntaxAndFunctionZh": "极短句承接上一句，制造停顿，准备列出全球评估困难。",
+      "vocabulary": []
+    },
+    {
+      "number": 31,
+      "paragraph": "F",
+      "text": "For one thing, there is no agreed international system for classifying soil.",
+      "translationZh": "首先，国际上并没有一套公认的土壤分类体系。",
+      "syntaxAndFunctionZh": "For one thing 表示先列一个理由；there is no…指出制度层面的分类障碍。",
+      "vocabulary": [
+        {
+          "term": "For one thing",
+          "meaning": "首先；其中一个原因是",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "agreed international system",
+          "meaning": "国际公认体系",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "classifying",
+          "meaning": "分类",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "paragraph": "F",
+      "text": "In an attempt to unify the different approaches, the UN has created the Global Soil Map project.",
+      "translationZh": "为了统一不同方法，联合国创建了“全球土壤地图”项目。",
+      "syntaxAndFunctionZh": "In an attempt to…表目的；主干 the UN has created…说明全球项目对此作出的回应。",
+      "vocabulary": [
+        {
+          "term": "Global",
+          "meaning": "全球的",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "In an attempt to",
+          "meaning": "试图；为了",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "unify",
+          "meaning": "统一",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "approaches",
+          "meaning": "方法",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "project",
+          "meaning": "项目",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "paragraph": "F",
+      "text": "Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil.",
+      "translationZh": "来自九个国家的研究人员正在合作绘制一幅与数据库相连的地图；数据库可接收实地调查、无人机调查、卫星图像、实验室分析等测量资料，从而提供土壤状况的实时数据。",
+      "syntaxAndFunctionZh": "主干 Researchers…are working…；linked to…修饰 map，that can be fed…修饰 database，to provide…表目的。",
+      "vocabulary": [
+        {
+          "term": "Researchers",
+          "meaning": "研究人员",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "working together",
+          "meaning": "共同合作",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "linked to",
+          "meaning": "与……相连",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "database",
+          "meaning": "数据库",
+          "level": "B2，信息技术专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "measurements",
+          "meaning": "测量资料",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "field surveys",
+          "meaning": "实地调查",
+          "level": "C1，科研专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "drone surveys",
+          "meaning": "无人机调查",
+          "level": "C1，遥感专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "satellite imagery",
+          "meaning": "卫星图像",
+          "level": "C1，遥感专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "lab analyses",
+          "meaning": "实验室分析",
+          "level": "C1，科研专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "provide",
+          "meaning": "提供",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "real-time data",
+          "meaning": "实时数据",
+          "level": "B2，信息技术专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "state of",
+          "meaning": "……的状况",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "paragraph": "F",
+      "text": "Within the next four years, they aim to have mapped soils worldwide to a depth of 100 metres, with the results freely accessible to all.",
+      "translationZh": "他们的目标是在未来四年内绘制出全球深至100米的土壤地图，并让所有人都能免费获取结果。",
+      "syntaxAndFunctionZh": "主干 they aim；to have mapped 是完成式不定式，强调四年期限内完成；with…补充结果的开放性。",
+      "vocabulary": [
+        {
+          "term": "Within the next four years",
+          "meaning": "在未来四年内",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "aim to",
+          "meaning": "以……为目标",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "worldwide",
+          "meaning": "在全世界",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "depth",
+          "meaning": "深度",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "results",
+          "meaning": "结果",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "freely accessible",
+          "meaning": "可免费获取的",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "paragraph": "G",
+      "text": "But this is only a first step.",
+      "translationZh": "但这仅仅是第一步。",
+      "syntaxAndFunctionZh": "But 表明绘图仍非终点；only 限缩其意义并引出传播和政策行动。",
+      "vocabulary": [
+        {
+          "term": "first step",
+          "meaning": "第一步",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "paragraph": "G",
+      "text": "We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada.",
+      "translationZh": "加拿大温尼伯国际可持续发展研究所的帕梅拉·蔡塞克说，我们需要用一些方式呈现问题，让政府和更广泛的公众切身理解它。",
+      "syntaxAndFunctionZh": "主干 We need ways；of presenting…修饰 ways，that bring…修饰 problem；句末 says…是引语来源倒装。",
+      "vocabulary": [
+        {
+          "term": "presenting the problem",
+          "meaning": "呈现问题",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "bring it home to",
+          "meaning": "使……切身理解",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "governments",
+          "meaning": "政府",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "wider public",
+          "meaning": "更广泛的公众",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "Sustainable Development",
+          "meaning": "可持续发展",
+          "level": "B2，公共政策专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "paragraph": "G",
+      "text": "‘Most scientists don’t speak language that policy-makers can understand, and vice versa.’",
+      "translationZh": "“大多数科学家不会说政策制定者能听懂的语言，反过来也一样。”",
+      "syntaxAndFunctionZh": "直接引语用 and vice versa 概括科学界与政策界之间的双向沟通鸿沟。",
+      "vocabulary": [
+        {
+          "term": "scientist",
+          "meaning": "科学家",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "policy-makers",
+          "meaning": "政策制定者",
+          "level": "B2，公共政策专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "vice versa",
+          "meaning": "反之亦然",
+          "level": "B2",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "paragraph": "G",
+      "text": "Chasek and her colleagues have proposed a goal of ‘zero net land degradation’.",
+      "translationZh": "蔡塞克和她的同事提出了“土地净退化为零”的目标。",
+      "syntaxAndFunctionZh": "主干 Chasek and her colleagues have proposed…；引号标示一个便于传播的政策目标。",
+      "vocabulary": [
+        {
+          "term": "degradation",
+          "meaning": "退化",
+          "level": "C1，环境科学专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "colleagues",
+          "meaning": "同事",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "proposed",
+          "meaning": "提出",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "goal",
+          "meaning": "目标",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "zero net land degradation",
+          "meaning": "土地净退化为零",
+          "level": "C1，环境政策专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "paragraph": "G",
+      "text": "Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action.",
+      "translationZh": "就像“碳中和”的理念一样，这是一个容易理解的目标，可以帮助塑造预期并促进行动。",
+      "syntaxAndFunctionZh": "Like…作比较状语；主干 it is a target，that 从句说明目标如何影响预期并促进行动。",
+      "vocabulary": [
+        {
+          "term": "carbon neutrality",
+          "meaning": "碳中和",
+          "level": "C1，环境政策专业词",
+          "occurrence": 1
+        },
+        {
+          "term": "target",
+          "meaning": "目标",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "shape expectations",
+          "meaning": "塑造预期",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "encourage action",
+          "meaning": "促进行动",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "paragraph": "G",
+      "text": "For soils on the brink, that may be too late.",
+      "translationZh": "对于濒临崩溃的土壤来说，那也许已经太晚了。",
+      "syntaxAndFunctionZh": "介词短语 For soils on the brink 限定对象；that 回指前述容易理解的目标和由此推动的行动。",
+      "vocabulary": [
+        {
+          "term": "on the brink",
+          "meaning": "濒临险境",
+          "level": "C1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "paragraph": "G",
+      "text": "Several researchers are agitating for the immediate creation of protected zones for endangered soils.",
+      "translationZh": "几位研究人员正在积极呼吁立即为濒危土壤建立保护区。",
+      "syntaxAndFunctionZh": "现在进行时 are agitating 强调呼吁正在发生；for 后接要立即建立保护区的诉求。",
+      "vocabulary": [
+        {
+          "term": "endangered",
+          "meaning": "濒危的；受到威胁的",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "researchers",
+          "meaning": "研究人员",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "agitating for",
+          "meaning": "积极呼吁",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "immediate creation",
+          "meaning": "立即建立",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "protected zones",
+          "meaning": "保护区",
+          "level": "B2，环境政策专业词",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "paragraph": "G",
+      "text": "One difficulty here is defining what these areas should conserve: areas where the greatest soil diversity is present?",
+      "translationZh": "这里的一个难题是要界定这些区域应该保护什么：是土壤多样性最丰富的地区吗？",
+      "syntaxAndFunctionZh": "主干 One difficulty is defining…；冒号把抽象的“保护什么”展开为第一个选择。",
+      "vocabulary": [
+        {
+          "term": "defining",
+          "meaning": "界定",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "conserve",
+          "meaning": "保护；保存",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "diversity",
+          "meaning": "多样性",
+          "level": "B2",
+          "occurrence": 1
+        },
+        {
+          "term": "difficulty",
+          "meaning": "困难；难题",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "paragraph": "G",
+      "text": "Or areas of unspoilt soils that could act as a future benchmark of quality?",
+      "translationZh": "还是可以作为未来质量基准的未受破坏土壤区域？",
+      "syntaxAndFunctionZh": "省略式疑问句与上一句并列，提出以未受破坏土壤作为未来质量参照的第二种标准。",
+      "vocabulary": [
+        {
+          "term": "unspoilt",
+          "meaning": "未受破坏的",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "act as",
+          "meaning": "充当",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "future benchmark",
+          "meaning": "未来基准",
+          "level": "C1",
+          "occurrence": 1
+        },
+        {
+          "term": "quality",
+          "meaning": "质量",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "paragraph": "G",
+      "text": "Whatever we do, if we want our soils to survive, we need to take action now.",
+      "translationZh": "无论采取什么办法，如果想让土壤存续下去，我们现在就必须行动。",
+      "syntaxAndFunctionZh": "Whatever 引导让步从句，if 引导条件；主句 need to take action now 以紧迫行动收束全文。",
+      "vocabulary": [
+        {
+          "term": "Whatever",
+          "meaning": "无论什么",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "survive",
+          "meaning": "存续；幸存",
+          "level": "B1",
+          "occurrence": 1
+        },
+        {
+          "term": "take action",
+          "meaning": "采取行动",
+          "level": "B1",
+          "occurrence": 1
+        }
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "14–17",
+      "type": "summary-completion",
+      "instruction": "Complete the summary below. Write ONE WORD ONLY from the passage for each answer. Write your answers in boxes 14–17 on your answer sheet.",
+      "instructionZh": "完成下列摘要。每个答案只能从文章中选一个单词。将答案写在答题纸第14–17题。",
+      "summaryTitle": "Why soil degradation could be a disaster for humans",
+      "summaryTitleZh": "为什么土壤退化可能给人类带来灾难",
+      "summaryText": "Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and 14 __________. It provides us with food and also with antibiotics, and its function in storing 15 __________ has a significant effect on the climate. In addition, it prevents damage to property and infrastructure because it holds 16 __________.\n\nIf these microorganisms are lost, soil may lose its special properties. The main factor contributing to soil degradation is the 17 __________ carried out by humans.",
+      "summaryTranslationZh": "健康土壤含有多种细菌和其他微生物，以及植物残骸和14__________。它为我们提供食物和抗生素；它储存15__________的功能会显著影响气候。此外，土壤能蓄住16__________，因而可避免财产和基础设施受损。\n\n如果这些微生物消失，土壤可能失去其特殊性质。造成土壤退化的主要因素是人类从事的17__________。",
+      "wordLimit": "ONE WORD ONLY",
+      "questions": [
+        {
+          "number": 14,
+          "type": "summary-completion",
+          "stem": "Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and 14 __________.",
+          "translationZh": "健康土壤含有多种细菌和其他微生物，以及植物残骸和14__________。",
+          "answer": "minerals",
+          "acceptableAnswers": [
+            "minerals"
+          ],
+          "evidence": "A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.",
+          "location": "Paragraph B, sentence 6",
+          "logicZh": "摘要中的 plant remains 对应 decomposing plants；并列的另一成分是 minerals。",
+          "distractorsZh": "bacteria 和 microorganisms 已写在题干中；viruses、fungi 是 microorganisms 的例子，不能填到与 plant remains 并列的空格。",
+          "wordLimit": "ONE WORD ONLY"
+        },
+        {
+          "number": 15,
+          "type": "summary-completion",
+          "stem": "It provides us with food and also with antibiotics, and its function in storing 15 __________ has a significant effect on the climate.",
+          "translationZh": "土壤为我们提供食物和抗生素，而其储存15__________的功能会显著影响气候。",
+          "answer": "carbon",
+          "acceptableAnswers": [
+            "carbon"
+          ],
+          "evidence": "Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.",
+          "location": "Paragraph B, sentence 8",
+          "logicZh": "climate 对应 climate change；storing 是 lock in/holding 的同义改写，宾语为 carbon。",
+          "distractorsZh": "content 只是 carbon 的搭配成分；atmosphere 是比较对象，不是土壤所储存的物质。",
+          "wordLimit": "ONE WORD ONLY"
+        },
+        {
+          "number": 16,
+          "type": "summary-completion",
+          "stem": "In addition, it prevents damage to property and infrastructure because it holds 16 __________.",
+          "translationZh": "此外，土壤由于能蓄住16__________，可防止财产和基础设施受损。",
+          "answer": "water",
+          "acceptableAnswers": [
+            "water"
+          ],
+          "evidence": "Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.",
+          "location": "Paragraph B, sentence 9",
+          "logicZh": "holds 同义改写 store；property and infrastructure 对应 buildings, roads and bridges，因此填 water。",
+          "distractorsZh": "floods 是蓄水所避免的灾害，damage 是结果，两者都不是土壤所“holds”的对象。",
+          "wordLimit": "ONE WORD ONLY"
+        },
+        {
+          "number": 17,
+          "type": "summary-completion",
+          "stem": "The main factor contributing to soil degradation is the 17 __________ carried out by humans.",
+          "translationZh": "造成土壤退化的主要因素是人类从事的17__________。",
+          "answer": "agriculture",
+          "acceptableAnswers": [
+            "agriculture"
+          ],
+          "evidence": "Agriculture is by far the biggest problem.",
+          "location": "Paragraph C, sentence 13",
+          "logicZh": "main factor 对应 by far the biggest problem；carried out by humans 用来限定农业活动。",
+          "distractorsZh": "strategies 是过去为绕开问题而采取的办法；crops 是农业对象，不是造成退化的总体活动。",
+          "wordLimit": "ONE WORD ONLY"
+        }
+      ]
+    },
+    {
+      "range": "18–21",
+      "type": "sentence-ending-matching",
+      "instruction": "Complete each sentence with the correct ending, A–F, below. Write the correct letter, A–F, in boxes 18–21 on your answer sheet.",
+      "instructionZh": "用下方 A–F 中正确的句尾完成每个句子。把正确字母写在答题纸第18–21题。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "may improve the number and quality of plants growing there.",
+          "translationZh": "可能提高那里生长植物的数量和质量。"
+        },
+        {
+          "letter": "B",
+          "text": "may contain data from up to nine countries.",
+          "translationZh": "可能包含来自多达九个国家的数据。"
+        },
+        {
+          "letter": "C",
+          "text": "may not be put back into the soil.",
+          "translationZh": "可能不会被放回土壤中。"
+        },
+        {
+          "letter": "D",
+          "text": "may help governments to be more aware of soil-related issues.",
+          "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+        },
+        {
+          "letter": "E",
+          "text": "may cause damage to different aspects of the environment.",
+          "translationZh": "可能对环境的不同方面造成破坏。"
+        },
+        {
+          "letter": "F",
+          "text": "may be better for use at a global level.",
+          "translationZh": "可能更适合在全球层面使用。"
+        }
+      ],
+      "questions": [
+        {
+          "number": 18,
+          "type": "sentence-ending-matching",
+          "stem": "Nutrients contained in the unused parts of harvested crops",
+          "translationZh": "收获作物未利用部分中所含的养分",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C"
+          ],
+          "options": [
+            {
+              "letter": "A",
+              "text": "may improve the number and quality of plants growing there.",
+              "translationZh": "可能提高那里生长植物的数量和质量。"
+            },
+            {
+              "letter": "B",
+              "text": "may contain data from up to nine countries.",
+              "translationZh": "可能包含来自多达九个国家的数据。"
+            },
+            {
+              "letter": "C",
+              "text": "may not be put back into the soil.",
+              "translationZh": "可能不会被放回土壤中。"
+            },
+            {
+              "letter": "D",
+              "text": "may help governments to be more aware of soil-related issues.",
+              "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+            },
+            {
+              "letter": "E",
+              "text": "may cause damage to different aspects of the environment.",
+              "translationZh": "可能对环境的不同方面造成破坏。"
+            },
+            {
+              "letter": "F",
+              "text": "may be better for use at a global level.",
+              "translationZh": "可能更适合在全球层面使用。"
+            }
+          ],
+          "evidence": "Humans tend not to return unused parts of harvested crops directly to the soil to enrich it",
+          "location": "Paragraph C, sentence 15",
+          "logicZh": "not return…to the soil 与 C 的 may not be put back into the soil 精确同义。",
+          "distractorsZh": "A 写的是改善植物；D 写政府认知；E 写环境损害；F 写全球应用，均非这些养分的去向；B 的九国数据属于地图项目。"
+        },
+        {
+          "number": 19,
+          "type": "sentence-ending-matching",
+          "stem": "Synthetic fertilisers produced with the Haber-Bosch process",
+          "translationZh": "通过哈伯—博施法生产的合成肥料",
+          "answer": "E",
+          "acceptableAnswers": [
+            "E"
+          ],
+          "options": [
+            {
+              "letter": "A",
+              "text": "may improve the number and quality of plants growing there.",
+              "translationZh": "可能提高那里生长植物的数量和质量。"
+            },
+            {
+              "letter": "B",
+              "text": "may contain data from up to nine countries.",
+              "translationZh": "可能包含来自多达九个国家的数据。"
+            },
+            {
+              "letter": "C",
+              "text": "may not be put back into the soil.",
+              "translationZh": "可能不会被放回土壤中。"
+            },
+            {
+              "letter": "D",
+              "text": "may help governments to be more aware of soil-related issues.",
+              "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+            },
+            {
+              "letter": "E",
+              "text": "may cause damage to different aspects of the environment.",
+              "translationZh": "可能对环境的不同方面造成破坏。"
+            },
+            {
+              "letter": "F",
+              "text": "may be better for use at a global level.",
+              "translationZh": "可能更适合在全球层面使用。"
+            }
+          ],
+          "evidence": "A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been putting this synthetic fertiliser on their fields ever since. Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers. More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish.",
+          "location": "Paragraph D, sentences 18–22",
+          "logicZh": "句18引入 Haber-Bosch 工艺制造硝酸铵，句19把其产物明确称为 synthetic fertiliser；句21–22再说明这类 chemical fertilisers 会污染大气、河流并伤害土壤，因此对应 E“损害环境的不同方面”。",
+          "distractorsZh": "A 是弗洛里斯混合物的效果；C 是作物残余养分；D 是政策目标；F 没有原文依据；B 与土壤数据库有关。"
+        },
+        {
+          "number": 20,
+          "type": "sentence-ending-matching",
+          "stem": "Addition of a mixture developed by Pius Floris to the soil",
+          "translationZh": "把皮乌斯·弗洛里斯研制的混合物加入土壤",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "options": [
+            {
+              "letter": "A",
+              "text": "may improve the number and quality of plants growing there.",
+              "translationZh": "可能提高那里生长植物的数量和质量。"
+            },
+            {
+              "letter": "B",
+              "text": "may contain data from up to nine countries.",
+              "translationZh": "可能包含来自多达九个国家的数据。"
+            },
+            {
+              "letter": "C",
+              "text": "may not be put back into the soil.",
+              "translationZh": "可能不会被放回土壤中。"
+            },
+            {
+              "letter": "D",
+              "text": "may help governments to be more aware of soil-related issues.",
+              "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+            },
+            {
+              "letter": "E",
+              "text": "may cause damage to different aspects of the environment.",
+              "translationZh": "可能对环境的不同方面造成破坏。"
+            },
+            {
+              "letter": "F",
+              "text": "may be better for use at a global level.",
+              "translationZh": "可能更适合在全球层面使用。"
+            }
+          ],
+          "evidence": "When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.",
+          "location": "Paragraph E, sentence 26",
+          "logicZh": "good crop、healthy、strong roots 分别支持植物数量和质量得到改善，故选 A。",
+          "distractorsZh": "C、E 分别属于作物残余和化肥；D 属于政策目标；B、F 属于全球地图或尺度，均不是试验结果。"
+        },
+        {
+          "number": 21,
+          "type": "sentence-ending-matching",
+          "stem": "The idea of zero net soil degradation",
+          "translationZh": "土壤净退化为零这一理念",
+          "answer": "D",
+          "acceptableAnswers": [
+            "D"
+          ],
+          "options": [
+            {
+              "letter": "A",
+              "text": "may improve the number and quality of plants growing there.",
+              "translationZh": "可能提高那里生长植物的数量和质量。"
+            },
+            {
+              "letter": "B",
+              "text": "may contain data from up to nine countries.",
+              "translationZh": "可能包含来自多达九个国家的数据。"
+            },
+            {
+              "letter": "C",
+              "text": "may not be put back into the soil.",
+              "translationZh": "可能不会被放回土壤中。"
+            },
+            {
+              "letter": "D",
+              "text": "may help governments to be more aware of soil-related issues.",
+              "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+            },
+            {
+              "letter": "E",
+              "text": "may cause damage to different aspects of the environment.",
+              "translationZh": "可能对环境的不同方面造成破坏。"
+            },
+            {
+              "letter": "F",
+              "text": "may be better for use at a global level.",
+              "translationZh": "可能更适合在全球层面使用。"
+            }
+          ],
+          "evidence": "We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada. Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action.",
+          "location": "Paragraph G, sentences 36–39",
+          "logicZh": "句36先提出要让 governments and the wider public 切身理解土壤问题；句38–39随即提出易懂的“零净土地退化”目标，用来塑造预期并促进行动，完整支持 D“帮助政府更充分意识到土壤问题”。",
+          "distractorsZh": "F 看似有 global level，但原文强调“易懂并促进行动”，不是更适合全球使用；其余选项分别对应具体土壤、化肥或数据库信息。"
+        }
+      ]
+    },
+    {
+      "range": "22–26",
+      "type": "matching-information",
+      "instruction": "Reading Passage 2 has seven paragraphs, A–G. Which section contains the following information? Write the correct letter, A–G, in boxes 22–26 on your answer sheet. NB You may use any letter more than once.",
+      "instructionZh": "阅读文章2共有 A–G 七段。以下信息分别出现在哪一段？把正确字母 A–G 写在答题纸第22–26题。注意：同一个字母可以使用多次。",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Paragraph A",
+          "translationZh": "第A段"
+        },
+        {
+          "letter": "B",
+          "text": "Paragraph B",
+          "translationZh": "第B段"
+        },
+        {
+          "letter": "C",
+          "text": "Paragraph C",
+          "translationZh": "第C段"
+        },
+        {
+          "letter": "D",
+          "text": "Paragraph D",
+          "translationZh": "第D段"
+        },
+        {
+          "letter": "E",
+          "text": "Paragraph E",
+          "translationZh": "第E段"
+        },
+        {
+          "letter": "F",
+          "text": "Paragraph F",
+          "translationZh": "第F段"
+        },
+        {
+          "letter": "G",
+          "text": "Paragraph G",
+          "translationZh": "第G段"
+        }
+      ],
+      "questions": [
+        {
+          "number": 22,
+          "type": "matching-information",
+          "stem": "a reference to one person’s motivation for a soil-improvement project",
+          "translationZh": "提到某个人开展土壤改良项目的动机",
+          "answer": "E",
+          "acceptableAnswers": [
+            "E"
+          ],
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "evidence": "He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this.",
+          "location": "Paragraph E, sentence 24",
+          "logicZh": "ensure his trees flourished 是弗洛里斯照料土壤并研发混合物的动机。",
+          "distractorsZh": "A 提危机；B 讲功能；C/D 讲农业和化肥；F 讲全球地图；G 讲政策传播与保护区，都没有个人项目动机。"
+        },
+        {
+          "number": 23,
+          "type": "matching-information",
+          "stem": "an explanation of how soil stayed healthy before the development of farming",
+          "translationZh": "解释农业出现以前土壤如何保持健康",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C"
+          ],
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "evidence": "In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil.",
+          "location": "Paragraph C, sentence 14",
+          "logicZh": "In the wild 描写无人类收割时养分随植物死亡腐烂回到土壤的自然循环。",
+          "distractorsZh": "B 讲健康土壤有什么；D/E 讲人工肥料和修复；F/G 讲信息与政策；A 只概述风险。"
+        },
+        {
+          "number": 24,
+          "type": "matching-information",
+          "stem": "examples of different ways of collecting information on soil degradation",
+          "translationZh": "收集土壤退化信息的不同方式的例子",
+          "answer": "F",
+          "acceptableAnswers": [
+            "F"
+          ],
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "evidence": "Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil.",
+          "location": "Paragraph F, sentence 33",
+          "logicZh": "field surveys、drone surveys、satellite imagery、lab analyses 是四种采集资料的方法。",
+          "distractorsZh": "A：只说明土壤危机规模与食物风险，没有信息采集方式；B：列举土壤成分和生态功能，没有说明如何采集退化数据；C：解释自然养分循环和农业造成的退化，没有调查方法清单；D：讨论合成肥料及污染，没有数据采集方法；E：描述弗洛里斯的单项修复试验，不是多种信息收集方式；G：讨论公共沟通、政策目标和保护区，没有调查技术。F 才并列 field surveys、drone surveys、satellite imagery、lab analyses。"
+        },
+        {
+          "number": 25,
+          "type": "matching-information",
+          "stem": "a suggestion for a way of keeping some types of soil safe in the near future",
+          "translationZh": "提出一种在近期保护某些土壤类型的方法",
+          "answer": "G",
+          "acceptableAnswers": [
+            "G"
+          ],
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "evidence": "Several researchers are agitating for the immediate creation of protected zones for endangered soils.",
+          "location": "Paragraph G, sentence 41",
+          "logicZh": "immediate 对应 in the near future；protected zones for endangered soils 即保护某些土壤的办法。",
+          "distractorsZh": "A：只报告土壤面临危险，没有提出保护办法；B：说明健康土壤的价值和功能，没有近期保护建议；C：解释农业如何消耗养分，没有保护特定土壤的制度措施；D：讨论化肥产生与危害，没有建立保护区；E：用微生物混合物修复试验地，不是让某些土壤在近期免受破坏的保护区方案；F：全球测绘用于掌握土壤状况，不直接保护特定土壤。G 的 immediate creation of protected zones 才符合题意。"
+        },
+        {
+          "number": 26,
+          "type": "matching-information",
+          "stem": "a reason why it is difficult to provide an overview of soil degradation",
+          "translationZh": "难以全面概述土壤退化状况的一个原因",
+          "answer": "F",
+          "acceptableAnswers": [
+            "F"
+          ],
+          "options": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G"
+          ],
+          "evidence": "For one thing, there is no agreed international system for classifying soil.",
+          "location": "Paragraph F, sentence 31",
+          "logicZh": "要形成 accurate picture/overview，必须统一分类；没有公认国际分类体系正是困难原因。",
+          "distractorsZh": "A：给出危机比例和六十年风险，没有解释为何难以形成全球概览；B：说明土壤成分和功能，没有讨论分类或概览障碍；C：说明农业退化机制，没有全球信息整合困难；D：说明化肥危害，没有概览方法问题；E：说明局部修复试验，没有解释全球概览困难；G：困难在于让政府公众切身理解问题以及界定保护对象，不是形成土壤退化全貌。F 明确指出没有公认的国际土壤分类体系。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 14,
+      "type": "summary-completion",
+      "stem": "Healthy soil contains a large variety of bacteria and other microorganisms, as well as plant remains and 14 __________.",
+      "translationZh": "健康土壤含有多种细菌和其他微生物，以及植物残骸和14__________。",
+      "answer": "minerals",
+      "acceptableAnswers": [
+        "minerals"
+      ],
+      "evidence": "A single gram of healthy soil might contain 100 million bacteria, as well as other microorganisms such as viruses and fungi, living amid decomposing plants and various minerals.",
+      "location": "Paragraph B, sentence 6",
+      "logicZh": "摘要中的 plant remains 对应 decomposing plants；并列的另一成分是 minerals。",
+      "distractorsZh": "bacteria 和 microorganisms 已写在题干中；viruses、fungi 是 microorganisms 的例子，不能填到与 plant remains 并列的空格。",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "number": 15,
+      "type": "summary-completion",
+      "stem": "It provides us with food and also with antibiotics, and its function in storing 15 __________ has a significant effect on the climate.",
+      "translationZh": "土壤为我们提供食物和抗生素，而其储存15__________的功能会显著影响气候。",
+      "answer": "carbon",
+      "acceptableAnswers": [
+        "carbon"
+      ],
+      "evidence": "Soil is also an ally against climate change: as microorganisms within soil digest dead animals and plants, they lock in their carbon content, holding three times the amount of carbon as does the entire atmosphere.",
+      "location": "Paragraph B, sentence 8",
+      "logicZh": "climate 对应 climate change；storing 是 lock in/holding 的同义改写，宾语为 carbon。",
+      "distractorsZh": "content 只是 carbon 的搭配成分；atmosphere 是比较对象，不是土壤所储存的物质。",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "number": 16,
+      "type": "summary-completion",
+      "stem": "In addition, it prevents damage to property and infrastructure because it holds 16 __________.",
+      "translationZh": "此外，土壤由于能蓄住16__________，可防止财产和基础设施受损。",
+      "answer": "water",
+      "acceptableAnswers": [
+        "water"
+      ],
+      "evidence": "Soils also store water, preventing flood damage: in the UK, damage to buildings, roads and bridges from floods caused by soil degradation costs £233 million every year.",
+      "location": "Paragraph B, sentence 9",
+      "logicZh": "holds 同义改写 store；property and infrastructure 对应 buildings, roads and bridges，因此填 water。",
+      "distractorsZh": "floods 是蓄水所避免的灾害，damage 是结果，两者都不是土壤所“holds”的对象。",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "number": 17,
+      "type": "summary-completion",
+      "stem": "The main factor contributing to soil degradation is the 17 __________ carried out by humans.",
+      "translationZh": "造成土壤退化的主要因素是人类从事的17__________。",
+      "answer": "agriculture",
+      "acceptableAnswers": [
+        "agriculture"
+      ],
+      "evidence": "Agriculture is by far the biggest problem.",
+      "location": "Paragraph C, sentence 13",
+      "logicZh": "main factor 对应 by far the biggest problem；carried out by humans 用来限定农业活动。",
+      "distractorsZh": "strategies 是过去为绕开问题而采取的办法；crops 是农业对象，不是造成退化的总体活动。",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "number": 18,
+      "type": "sentence-ending-matching",
+      "stem": "Nutrients contained in the unused parts of harvested crops",
+      "translationZh": "收获作物未利用部分中所含的养分",
+      "answer": "C",
+      "acceptableAnswers": [
+        "C"
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "may improve the number and quality of plants growing there.",
+          "translationZh": "可能提高那里生长植物的数量和质量。"
+        },
+        {
+          "letter": "B",
+          "text": "may contain data from up to nine countries.",
+          "translationZh": "可能包含来自多达九个国家的数据。"
+        },
+        {
+          "letter": "C",
+          "text": "may not be put back into the soil.",
+          "translationZh": "可能不会被放回土壤中。"
+        },
+        {
+          "letter": "D",
+          "text": "may help governments to be more aware of soil-related issues.",
+          "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+        },
+        {
+          "letter": "E",
+          "text": "may cause damage to different aspects of the environment.",
+          "translationZh": "可能对环境的不同方面造成破坏。"
+        },
+        {
+          "letter": "F",
+          "text": "may be better for use at a global level.",
+          "translationZh": "可能更适合在全球层面使用。"
+        }
+      ],
+      "evidence": "Humans tend not to return unused parts of harvested crops directly to the soil to enrich it",
+      "location": "Paragraph C, sentence 15",
+      "logicZh": "not return…to the soil 与 C 的 may not be put back into the soil 精确同义。",
+      "distractorsZh": "A 写的是改善植物；D 写政府认知；E 写环境损害；F 写全球应用，均非这些养分的去向；B 的九国数据属于地图项目。"
+    },
+    {
+      "number": 19,
+      "type": "sentence-ending-matching",
+      "stem": "Synthetic fertilisers produced with the Haber-Bosch process",
+      "translationZh": "通过哈伯—博施法生产的合成肥料",
+      "answer": "E",
+      "acceptableAnswers": [
+        "E"
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "may improve the number and quality of plants growing there.",
+          "translationZh": "可能提高那里生长植物的数量和质量。"
+        },
+        {
+          "letter": "B",
+          "text": "may contain data from up to nine countries.",
+          "translationZh": "可能包含来自多达九个国家的数据。"
+        },
+        {
+          "letter": "C",
+          "text": "may not be put back into the soil.",
+          "translationZh": "可能不会被放回土壤中。"
+        },
+        {
+          "letter": "D",
+          "text": "may help governments to be more aware of soil-related issues.",
+          "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+        },
+        {
+          "letter": "E",
+          "text": "may cause damage to different aspects of the environment.",
+          "translationZh": "可能对环境的不同方面造成破坏。"
+        },
+        {
+          "letter": "F",
+          "text": "may be better for use at a global level.",
+          "translationZh": "可能更适合在全球层面使用。"
+        }
+      ],
+      "evidence": "A solution came in the early 20th century with the Haber-Bosch process for manufacturing ammonium nitrate. Farmers have been putting this synthetic fertiliser on their fields ever since. Chemical fertilisers can release polluting nitrous oxide into the atmosphere and excess is often washed away with the rain, releasing nitrogen into rivers. More recently, we have found that indiscriminate use of fertilisers hurts the soil itself, turning it acidic and salty, and degrading the soil they are supposed to nourish.",
+      "location": "Paragraph D, sentences 18–22",
+      "logicZh": "句18引入 Haber-Bosch 工艺制造硝酸铵，句19把其产物明确称为 synthetic fertiliser；句21–22再说明这类 chemical fertilisers 会污染大气、河流并伤害土壤，因此对应 E“损害环境的不同方面”。",
+      "distractorsZh": "A 是弗洛里斯混合物的效果；C 是作物残余养分；D 是政策目标；F 没有原文依据；B 与土壤数据库有关。"
+    },
+    {
+      "number": 20,
+      "type": "sentence-ending-matching",
+      "stem": "Addition of a mixture developed by Pius Floris to the soil",
+      "translationZh": "把皮乌斯·弗洛里斯研制的混合物加入土壤",
+      "answer": "A",
+      "acceptableAnswers": [
+        "A"
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "may improve the number and quality of plants growing there.",
+          "translationZh": "可能提高那里生长植物的数量和质量。"
+        },
+        {
+          "letter": "B",
+          "text": "may contain data from up to nine countries.",
+          "translationZh": "可能包含来自多达九个国家的数据。"
+        },
+        {
+          "letter": "C",
+          "text": "may not be put back into the soil.",
+          "translationZh": "可能不会被放回土壤中。"
+        },
+        {
+          "letter": "D",
+          "text": "may help governments to be more aware of soil-related issues.",
+          "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+        },
+        {
+          "letter": "E",
+          "text": "may cause damage to different aspects of the environment.",
+          "translationZh": "可能对环境的不同方面造成破坏。"
+        },
+        {
+          "letter": "F",
+          "text": "may be better for use at a global level.",
+          "translationZh": "可能更适合在全球层面使用。"
+        }
+      ],
+      "evidence": "When they applied Floris’s mix to the desert-like test plots, a good crop of plants emerged that were not just healthy at the surface, but had roots strong enough to pierce dirt as hard as rock.",
+      "location": "Paragraph E, sentence 26",
+      "logicZh": "good crop、healthy、strong roots 分别支持植物数量和质量得到改善，故选 A。",
+      "distractorsZh": "C、E 分别属于作物残余和化肥；D 属于政策目标；B、F 属于全球地图或尺度，均不是试验结果。"
+    },
+    {
+      "number": 21,
+      "type": "sentence-ending-matching",
+      "stem": "The idea of zero net soil degradation",
+      "translationZh": "土壤净退化为零这一理念",
+      "answer": "D",
+      "acceptableAnswers": [
+        "D"
+      ],
+      "options": [
+        {
+          "letter": "A",
+          "text": "may improve the number and quality of plants growing there.",
+          "translationZh": "可能提高那里生长植物的数量和质量。"
+        },
+        {
+          "letter": "B",
+          "text": "may contain data from up to nine countries.",
+          "translationZh": "可能包含来自多达九个国家的数据。"
+        },
+        {
+          "letter": "C",
+          "text": "may not be put back into the soil.",
+          "translationZh": "可能不会被放回土壤中。"
+        },
+        {
+          "letter": "D",
+          "text": "may help governments to be more aware of soil-related issues.",
+          "translationZh": "可能帮助政府更充分地意识到与土壤有关的问题。"
+        },
+        {
+          "letter": "E",
+          "text": "may cause damage to different aspects of the environment.",
+          "translationZh": "可能对环境的不同方面造成破坏。"
+        },
+        {
+          "letter": "F",
+          "text": "may be better for use at a global level.",
+          "translationZh": "可能更适合在全球层面使用。"
+        }
+      ],
+      "evidence": "We need ways of presenting the problem that bring it home to governments and the wider public, says Pamela Chasek at the International Institute for Sustainable Development, in Winnipeg, Canada. Chasek and her colleagues have proposed a goal of ‘zero net land degradation’. Like the idea of carbon neutrality, it is an easily understood target that can help shape expectations and encourage action.",
+      "location": "Paragraph G, sentences 36–39",
+      "logicZh": "句36先提出要让 governments and the wider public 切身理解土壤问题；句38–39随即提出易懂的“零净土地退化”目标，用来塑造预期并促进行动，完整支持 D“帮助政府更充分意识到土壤问题”。",
+      "distractorsZh": "F 看似有 global level，但原文强调“易懂并促进行动”，不是更适合全球使用；其余选项分别对应具体土壤、化肥或数据库信息。"
+    },
+    {
+      "number": 22,
+      "type": "matching-information",
+      "stem": "a reference to one person’s motivation for a soil-improvement project",
+      "translationZh": "提到某个人开展土壤改良项目的动机",
+      "answer": "E",
+      "acceptableAnswers": [
+        "E"
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "evidence": "He came to realise that the best way to ensure his trees flourished was to take care of the soil, and has developed a cocktail of beneficial bacteria, fungi and humus* to do this.",
+      "location": "Paragraph E, sentence 24",
+      "logicZh": "ensure his trees flourished 是弗洛里斯照料土壤并研发混合物的动机。",
+      "distractorsZh": "A 提危机；B 讲功能；C/D 讲农业和化肥；F 讲全球地图；G 讲政策传播与保护区，都没有个人项目动机。"
+    },
+    {
+      "number": 23,
+      "type": "matching-information",
+      "stem": "an explanation of how soil stayed healthy before the development of farming",
+      "translationZh": "解释农业出现以前土壤如何保持健康",
+      "answer": "C",
+      "acceptableAnswers": [
+        "C"
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "evidence": "In the wild, when plants grow they remove nutrients from the soil, but then when the plants die and decay these nutrients are returned directly to the soil.",
+      "location": "Paragraph C, sentence 14",
+      "logicZh": "In the wild 描写无人类收割时养分随植物死亡腐烂回到土壤的自然循环。",
+      "distractorsZh": "B 讲健康土壤有什么；D/E 讲人工肥料和修复；F/G 讲信息与政策；A 只概述风险。"
+    },
+    {
+      "number": 24,
+      "type": "matching-information",
+      "stem": "examples of different ways of collecting information on soil degradation",
+      "translationZh": "收集土壤退化信息的不同方式的例子",
+      "answer": "F",
+      "acceptableAnswers": [
+        "F"
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "evidence": "Researchers from nine countries are working together to create a map linked to a database that can be fed measurements from field surveys, drone surveys, satellite imagery, lab analyses and so on to provide real-time data on the state of the soil.",
+      "location": "Paragraph F, sentence 33",
+      "logicZh": "field surveys、drone surveys、satellite imagery、lab analyses 是四种采集资料的方法。",
+      "distractorsZh": "A：只说明土壤危机规模与食物风险，没有信息采集方式；B：列举土壤成分和生态功能，没有说明如何采集退化数据；C：解释自然养分循环和农业造成的退化，没有调查方法清单；D：讨论合成肥料及污染，没有数据采集方法；E：描述弗洛里斯的单项修复试验，不是多种信息收集方式；G：讨论公共沟通、政策目标和保护区，没有调查技术。F 才并列 field surveys、drone surveys、satellite imagery、lab analyses。"
+    },
+    {
+      "number": 25,
+      "type": "matching-information",
+      "stem": "a suggestion for a way of keeping some types of soil safe in the near future",
+      "translationZh": "提出一种在近期保护某些土壤类型的方法",
+      "answer": "G",
+      "acceptableAnswers": [
+        "G"
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "evidence": "Several researchers are agitating for the immediate creation of protected zones for endangered soils.",
+      "location": "Paragraph G, sentence 41",
+      "logicZh": "immediate 对应 in the near future；protected zones for endangered soils 即保护某些土壤的办法。",
+      "distractorsZh": "A：只报告土壤面临危险，没有提出保护办法；B：说明健康土壤的价值和功能，没有近期保护建议；C：解释农业如何消耗养分，没有保护特定土壤的制度措施；D：讨论化肥产生与危害，没有建立保护区；E：用微生物混合物修复试验地，不是让某些土壤在近期免受破坏的保护区方案；F：全球测绘用于掌握土壤状况，不直接保护特定土壤。G 的 immediate creation of protected zones 才符合题意。"
+    },
+    {
+      "number": 26,
+      "type": "matching-information",
+      "stem": "a reason why it is difficult to provide an overview of soil degradation",
+      "translationZh": "难以全面概述土壤退化状况的一个原因",
+      "answer": "F",
+      "acceptableAnswers": [
+        "F"
+      ],
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "evidence": "For one thing, there is no agreed international system for classifying soil.",
+      "location": "Paragraph F, sentence 31",
+      "logicZh": "要形成 accurate picture/overview，必须统一分类；没有公认国际分类体系正是困难原因。",
+      "distractorsZh": "A：给出危机比例和六十年风险，没有解释为何难以形成全球概览；B：说明土壤成分和功能，没有讨论分类或概览障碍；C：说明农业退化机制，没有全球信息整合困难；D：说明化肥危害，没有概览方法问题；E：说明局部修复试验，没有解释全球概览困难；G：困难在于让政府公众切身理解问题以及界定保护对象，不是形成土壤退化全貌。F 明确指出没有公认的国际土壤分类体系。"
+    }
+  ]
+}
