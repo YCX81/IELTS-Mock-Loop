@@ -1,0 +1,2047 @@
+{
+  "passageNumber": 1,
+  "title": "Bringing cinnamon to Europe",
+  "subtitle": null,
+  "sourcePages": [
+    39,
+    40,
+    41,
+    42
+  ],
+  "bodySourcePages": [
+    39,
+    40
+  ],
+  "questionPages": [
+    41,
+    42
+  ],
+  "answerKeyPage": 120,
+  "overallInstruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+  "overallInstructionZh": "你应该用大约20分钟完成第1–13题；这些题目均以阅读文章1为依据。",
+  "instructionZh": "你应该用大约20分钟完成第1–13题；这些题目均以阅读文章1为依据。",
+  "bodyParagraphs": [
+    "Cinnamon is a sweet, fragrant spice produced from the inner bark of trees of the genus Cinnamomum, which is native to the Indian sub-continent. It was known in biblical times, and is mentioned in several books of the Bible, both as an ingredient that was mixed with oils for anointing people’s bodies, and also as a token indicating friendship among lovers and friends. In ancient Rome, mourners attending funerals burnt cinnamon to create a pleasant scent. Most often, however, the spice found its primary use as an additive to food and drink. In the Middle Ages, Europeans who could afford the spice used it to flavour food, particularly meat, and to impress those around them with their ability to purchase an expensive condiment from the ‘exotic’ East. At a banquet, a host would offer guests a plate with various spices piled upon it as a sign of the wealth at his or her disposal. Cinnamon was also reported to have health benefits, and was thought to cure various ailments, such as indigestion.",
+    "Toward the end of the Middle Ages, the European middle classes began to desire the lifestyle of the elite, including their consumption of spices. This led to a growth in demand for cinnamon and other spices. At that time, cinnamon was transported by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals. They took it from India, where it was grown, on camels via an overland route to the Mediterranean. Their journey ended when they reached Alexandria. European traders sailed there to purchase their supply of cinnamon, then brought it back to Venice. The spice then travelled from that great trading city to markets all around Europe. Because the overland trade route allowed for only small quantities of the spice to reach Europe, and because Venice had a virtual monopoly of the trade, the Venetians could set the price of cinnamon exorbitantly high. These prices, coupled with the increasing demand, spurred the search for new routes to Asia by Europeans eager to take part in the spice trade.",
+    "Seeking the high profits promised by the cinnamon market, Portuguese traders arrived on the island of Ceylon in the Indian Ocean toward the end of the 15th century. Before Europeans arrived on the island, the state had organized the cultivation of cinnamon. People belonging to the ethnic group called the Salagama would peel the bark off young shoots of the cinnamon plant in the rainy season, when the wet bark was more pliable. During the peeling process, they curled the bark into the ‘stick’ shape still associated with the spice today. The Salagama then gave the finished product to the king as a form of tribute. When the Portuguese arrived, they needed to increase production significantly, and so enslaved many other members of the Ceylonese native population, forcing them to work in cinnamon harvesting. In 1518, the Portuguese built a fort on Ceylon, which enabled them to protect the island, so helping them to develop a monopoly in the cinnamon trade and generate very high profits. In the late 16th century, for example, they enjoyed a tenfold profit when shipping cinnamon over a journey of eight days from Ceylon to India.",
+    "When the Dutch arrived off the coast of southern Asia at the very beginning of the 17th century, they set their sights on displacing the Portuguese as kings of cinnamon. The Dutch allied themselves with Kandy, an inland kingdom on Ceylon. In return for payments of elephants and cinnamon, they protected the native king from the Portuguese. By 1640, the Dutch broke the 150-year Portuguese monopoly when they overran and occupied their factories. By 1658, they had permanently expelled the Portuguese from the island, thereby gaining control of the lucrative cinnamon trade. In order to protect their hold on the market, the Dutch, like the Portuguese before them, treated the native inhabitants harshly. Because of the need to boost production and satisfy Europe’s ever-increasing appetite for cinnamon, the Dutch began to alter the harvesting practices of the Ceylonese. Over time, the supply of cinnamon trees on the island became nearly exhausted, due to systematic stripping of the bark. Eventually, the Dutch began cultivating their own cinnamon trees to supplement the diminishing number of wild trees available for use.",
+    "Then, in 1796, the English arrived on Ceylon, thereby displacing the Dutch from their control of the cinnamon monopoly. By the middle of the 19th century, production of cinnamon reached 1,000 tons a year, after a lower grade quality of the spice became acceptable to European tastes. By that time, cinnamon was being grown in other parts of the Indian Ocean region and in the West Indies, Brazil, and Guyana. Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar."
+  ],
+  "sentences": [
+    {
+      "number": 1,
+      "paragraph": 1,
+      "text": "Cinnamon is a sweet, fragrant spice produced from the inner bark of trees of the genus Cinnamomum, which is native to the Indian sub-continent.",
+      "translation": "肉桂是一种气味芬芳、味道甘甜的香料，由樟属树木的内层树皮制成；这类树木原产于印度次大陆。",
+      "structure": "主干是 Cinnamon is a ... spice；produced... 是过去分词短语修饰 spice，of the genus Cinnamomum 修饰 trees，which 从句说明该属植物的原产地。开篇用“是什么—从哪里来”建立物种与商品身份。",
+      "vocabulary": [
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "fragrant",
+          "level": "C1",
+          "meaning": "芳香的"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料"
+        },
+        {
+          "term": "be produced from",
+          "level": "B1",
+          "meaning": "由……制成"
+        },
+        {
+          "term": "inner bark",
+          "level": "C1（植物学专业词）",
+          "meaning": "内层树皮"
+        },
+        {
+          "term": "genus",
+          "level": "C2（生物分类学专业词）",
+          "meaning": "属"
+        },
+        {
+          "term": "be native to",
+          "level": "B2",
+          "meaning": "原产于"
+        },
+        {
+          "term": "sub-continent",
+          "level": "C1（地理学专业词）",
+          "meaning": "次大陆"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraph": 1,
+      "text": "It was known in biblical times, and is mentioned in several books of the Bible, both as an ingredient that was mixed with oils for anointing people’s bodies, and also as a token indicating friendship among lovers and friends.",
+      "translation": "早在《圣经》时代，人们就知道肉桂；《圣经》的多卷书中也提到它：它既是与油混合、用来涂抹人体的配料，也被当作爱侣与朋友之间象征友谊的信物。",
+      "structure": "and 连接两个并列谓语 was known 与 is mentioned；both as...and also as... 并列肉桂的两种用途。that was mixed... 修饰 ingredient，for anointing... 表用途，indicating... 修饰 token。两种用途从宗教仪式推进到人际象征。",
+      "vocabulary": [
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂；本句中的 it 回指该词"
+        },
+        {
+          "term": "biblical",
+          "level": "C1（宗教专业词）",
+          "meaning": "《圣经》的；《圣经》时代的"
+        },
+        {
+          "term": "be mentioned in",
+          "level": "B1",
+          "meaning": "在……中被提及"
+        },
+        {
+          "term": "ingredient",
+          "level": "B1（烹饪专业词）",
+          "meaning": "配料；成分"
+        },
+        {
+          "term": "be mixed with",
+          "level": "B1",
+          "meaning": "与……混合"
+        },
+        {
+          "term": "oil",
+          "level": "B1",
+          "meaning": "油"
+        },
+        {
+          "term": "anoint",
+          "level": "C2（宗教专业词）",
+          "meaning": "以油涂抹身体，常带宗教或仪式含义"
+        },
+        {
+          "term": "token",
+          "level": "C1",
+          "meaning": "象征感情或意图的信物"
+        },
+        {
+          "term": "indicate",
+          "level": "B1",
+          "meaning": "表明；象征"
+        },
+        {
+          "term": "lover",
+          "level": "B1",
+          "meaning": "爱侣；恋人"
+        },
+        {
+          "term": "friendship",
+          "level": "B1",
+          "meaning": "友谊"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraph": 1,
+      "text": "In ancient Rome, mourners attending funerals burnt cinnamon to create a pleasant scent.",
+      "translation": "在古罗马，参加葬礼的哀悼者会焚烧肉桂，以营造怡人的香气。",
+      "structure": "主干是 mourners burnt cinnamon；attending funerals 是现在分词短语修饰 mourners，to create... 表目的。句子把肉桂从文本记载带入具体仪式场景。",
+      "vocabulary": [
+        {
+          "term": "ancient",
+          "level": "B1",
+          "meaning": "古代的"
+        },
+        {
+          "term": "mourner",
+          "level": "C1",
+          "meaning": "哀悼者；送葬者"
+        },
+        {
+          "term": "attend a funeral",
+          "level": "B1",
+          "meaning": "参加葬礼"
+        },
+        {
+          "term": "burn",
+          "level": "B1",
+          "meaning": "焚烧"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂；本句作为焚烧产生香气的材料"
+        },
+        {
+          "term": "create",
+          "level": "B1",
+          "meaning": "产生；营造"
+        },
+        {
+          "term": "pleasant scent",
+          "level": "B2",
+          "meaning": "怡人的香气"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraph": 1,
+      "text": "Most often, however, the spice found its primary use as an additive to food and drink.",
+      "translation": "不过，肉桂最常见的主要用途还是作为食品和饮料的添加物。",
+      "structure": "主干是 the spice found its primary use as...；Most often 与 however 共同把叙述从仪式用途转回日常用途，as an additive 表明它所充当的角色。",
+      "vocabulary": [
+        {
+          "term": "most often",
+          "level": "B1",
+          "meaning": "最常见地；多数时候"
+        },
+        {
+          "term": "however",
+          "level": "B1",
+          "meaning": "不过；然而"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句回指肉桂"
+        },
+        {
+          "term": "primary use",
+          "level": "B2",
+          "meaning": "主要用途"
+        },
+        {
+          "term": "additive",
+          "level": "C1（食品专业词）",
+          "meaning": "添加物；添加剂"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraph": 1,
+      "text": "In the Middle Ages, Europeans who could afford the spice used it to flavour food, particularly meat, and to impress those around them with their ability to purchase an expensive condiment from the ‘exotic’ East.",
+      "translation": "中世纪时，买得起这种香料的欧洲人用它给食物调味，尤其是肉类；他们还借自己有能力购买来自“异域”东方的昂贵调味品，给周围的人留下深刻印象。",
+      "structure": "主干是 Europeans used it... and to impress...；who could afford... 修饰 Europeans，两个 to 不定式并列说明实用与炫示用途，with their ability... 交代留下印象的手段。引号中的 exotic 暗示欧洲人的异域想象。",
+      "vocabulary": [
+        {
+          "term": "the Middle Ages",
+          "level": "B1（历史专业词）",
+          "meaning": "中世纪"
+        },
+        {
+          "term": "afford",
+          "level": "B1",
+          "meaning": "买得起；负担得起"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句仍指肉桂"
+        },
+        {
+          "term": "flavour",
+          "level": "B2（烹饪专业词）",
+          "meaning": "给……调味"
+        },
+        {
+          "term": "particularly",
+          "level": "B1",
+          "meaning": "尤其；特别"
+        },
+        {
+          "term": "impress",
+          "level": "B1",
+          "meaning": "给……留下深刻印象"
+        },
+        {
+          "term": "ability to do",
+          "level": "B1",
+          "meaning": "做某事的能力"
+        },
+        {
+          "term": "purchase",
+          "level": "B2",
+          "meaning": "购买；较 buy 正式"
+        },
+        {
+          "term": "condiment",
+          "level": "C2（烹饪专业词）",
+          "meaning": "调味品"
+        },
+        {
+          "term": "exotic",
+          "level": "C1",
+          "meaning": "异域的；带陌生、新奇色彩"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraph": 1,
+      "text": "At a banquet, a host would offer guests a plate with various spices piled upon it as a sign of the wealth at his or her disposal.",
+      "translation": "在宴会上，主人会给宾客端上一只盘子，盘中堆放着各种香料，以此显示自己可支配的财富。",
+      "structure": "主干是 a host would offer guests a plate；with... 是介词短语修饰 plate，piled upon it 是过去分词短语修饰 spices，as a sign of... 表示展示目的。香料从调味品变成财富的可视化符号。",
+      "vocabulary": [
+        {
+          "term": "banquet",
+          "level": "C1",
+          "meaning": "宴会；正式盛宴"
+        },
+        {
+          "term": "host",
+          "level": "B1",
+          "meaning": "主人；东道主"
+        },
+        {
+          "term": "offer somebody something",
+          "level": "B1",
+          "meaning": "给某人提供某物"
+        },
+        {
+          "term": "various",
+          "level": "B1",
+          "meaning": "各种各样的"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句复数指宴席上陈列的多种香料"
+        },
+        {
+          "term": "be piled upon",
+          "level": "B2",
+          "meaning": "堆放在……之上"
+        },
+        {
+          "term": "as a sign of",
+          "level": "B1",
+          "meaning": "作为……的标志"
+        },
+        {
+          "term": "wealth",
+          "level": "B1",
+          "meaning": "财富"
+        },
+        {
+          "term": "at someone’s disposal",
+          "level": "B2",
+          "meaning": "可供某人使用或支配"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "paragraph": 1,
+      "text": "Cinnamon was also reported to have health benefits, and was thought to cure various ailments, such as indigestion.",
+      "translation": "据说肉桂还有益健康，并被认为可以治疗各种病症，例如消化不良。",
+      "structure": "两个被动谓语 was reported 与 was thought 并列；to have 与 to cure 分别承接报道和看法，such as 引出具体病症。被动结构保留了历史说法的距离，并不把疗效写成现代事实。",
+      "vocabulary": [
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "be reported to",
+          "level": "B2",
+          "meaning": "据报道或据说……"
+        },
+        {
+          "term": "health benefit",
+          "level": "B1",
+          "meaning": "健康益处"
+        },
+        {
+          "term": "be thought to",
+          "level": "B1",
+          "meaning": "被认为……"
+        },
+        {
+          "term": "cure",
+          "level": "B2（医学专业词）",
+          "meaning": "治愈；治疗"
+        },
+        {
+          "term": "various",
+          "level": "B1",
+          "meaning": "各种的；本句修饰病症"
+        },
+        {
+          "term": "ailment",
+          "level": "C1（医学专业词）",
+          "meaning": "小病；病症"
+        },
+        {
+          "term": "indigestion",
+          "level": "C2（医学专业词）",
+          "meaning": "消化不良"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "paragraph": 2,
+      "text": "Toward the end of the Middle Ages, the European middle classes began to desire the lifestyle of the elite, including their consumption of spices.",
+      "translation": "临近中世纪末期，欧洲中产阶层开始向往精英阶层的生活方式，其中也包括他们消费香料的习惯。",
+      "structure": "主干是 the European middle classes began to desire...；Toward... 给时间背景，including... 补充精英生活方式的具体内容。本段由身份模仿引出需求增长。",
+      "vocabulary": [
+        {
+          "term": "toward the end of",
+          "level": "B2",
+          "meaning": "接近……末期"
+        },
+        {
+          "term": "the Middle Ages",
+          "level": "B1（历史专业词）",
+          "meaning": "中世纪"
+        },
+        {
+          "term": "middle class",
+          "level": "B1（社会学专业词）",
+          "meaning": "中产阶层"
+        },
+        {
+          "term": "desire",
+          "level": "B1",
+          "meaning": "渴望；向往"
+        },
+        {
+          "term": "lifestyle",
+          "level": "B1",
+          "meaning": "生活方式"
+        },
+        {
+          "term": "elite",
+          "level": "C1（社会学专业词）",
+          "meaning": "精英阶层"
+        },
+        {
+          "term": "consumption",
+          "level": "C1（经济学专业词）",
+          "meaning": "消费；消耗"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句用复数概括精英消费品"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "paragraph": 2,
+      "text": "This led to a growth in demand for cinnamon and other spices.",
+      "translation": "这导致肉桂及其他香料的需求增长。",
+      "structure": "主干是 This led to...；This 回指中产阶层模仿精英消费，a growth in demand 把社会欲望转化为市场结果。",
+      "vocabulary": [
+        {
+          "term": "lead to",
+          "level": "B1",
+          "meaning": "导致"
+        },
+        {
+          "term": "growth in demand",
+          "level": "B2（经济学专业表达）",
+          "meaning": "需求增长"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句指肉桂之外的其他香料"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "paragraph": 2,
+      "text": "At that time, cinnamon was transported by Arab merchants, who closely guarded the secret of the source of the spice from potential rivals.",
+      "translation": "当时，肉桂由阿拉伯商人运输；他们严密守护香料来源的秘密，不让潜在竞争对手得知。",
+      "structure": "主干是 cinnamon was transported...；who 非限制性定语从句补充 merchants 的保密策略，guard...from... 表示防止竞争者获取秘密。供应链信息不透明为欧洲寻找新路线埋下伏笔。",
+      "vocabulary": [
+        {
+          "term": "at that time",
+          "level": "B1",
+          "meaning": "当时"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "be transported by",
+          "level": "B1",
+          "meaning": "由……运输"
+        },
+        {
+          "term": "merchant",
+          "level": "B1（商业专业词）",
+          "meaning": "商人"
+        },
+        {
+          "term": "closely",
+          "level": "B1",
+          "meaning": "严密地；仔细地"
+        },
+        {
+          "term": "guard a secret from",
+          "level": "B2",
+          "meaning": "对……严守秘密"
+        },
+        {
+          "term": "source",
+          "level": "B1",
+          "meaning": "来源"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句回指肉桂"
+        },
+        {
+          "term": "potential rival",
+          "level": "B2（商业专业表达）",
+          "meaning": "潜在竞争对手"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "paragraph": 2,
+      "text": "They took it from India, where it was grown, on camels via an overland route to the Mediterranean.",
+      "translation": "他们从印度取得肉桂——肉桂就种植在那里——再用骆驼沿陆路运到地中海。",
+      "structure": "主干是 They took it from India...to the Mediterranean；where 从句说明产地，on camels 表运输工具，via an overland route 表路线。多个介词短语依次画出供应链。",
+      "vocabulary": [
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂；本句中的 it 回指前句的 cinnamon"
+        },
+        {
+          "term": "be grown",
+          "level": "B1",
+          "meaning": "被种植；生长"
+        },
+        {
+          "term": "camel",
+          "level": "B1（动物学专业词）",
+          "meaning": "骆驼；本句复数作运输工具"
+        },
+        {
+          "term": "via",
+          "level": "B2",
+          "meaning": "经由；通过"
+        },
+        {
+          "term": "overland route",
+          "level": "C1（物流专业表达）",
+          "meaning": "陆路运输路线"
+        },
+        {
+          "term": "the Mediterranean",
+          "level": "B1（地理专名）",
+          "meaning": "地中海"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "paragraph": 2,
+      "text": "Their journey ended when they reached Alexandria.",
+      "translation": "他们抵达亚历山大港时，这段旅程便告结束。",
+      "structure": "主干是 Their journey ended；when 从句说明终点时刻。短句把印度至地中海的陆路运输落在一个明确节点上。",
+      "vocabulary": [
+        {
+          "term": "journey",
+          "level": "B1",
+          "meaning": "旅程；本句指陆路运输过程"
+        },
+        {
+          "term": "reach",
+          "level": "B1",
+          "meaning": "抵达"
+        },
+        {
+          "term": "Alexandria",
+          "level": "B1（地理专名）",
+          "meaning": "亚历山大港"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "paragraph": 2,
+      "text": "European traders sailed there to purchase their supply of cinnamon, then brought it back to Venice.",
+      "translation": "欧洲商人航行到那里采购肉桂货源，然后把肉桂运回威尼斯。",
+      "structure": "主干是 traders sailed...then brought...；to purchase 表航行目的，there 回指 Alexandria，it 回指 cinnamon。句子接续陆路之后的海运环节。",
+      "vocabulary": [
+        {
+          "term": "trader",
+          "level": "B1（商业专业词）",
+          "meaning": "商人；贸易商"
+        },
+        {
+          "term": "sail",
+          "level": "B1",
+          "meaning": "航行"
+        },
+        {
+          "term": "purchase",
+          "level": "B2",
+          "meaning": "采购；购买"
+        },
+        {
+          "term": "supply",
+          "level": "B2（商业专业词）",
+          "meaning": "供应量；货源"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "bring back",
+          "level": "B1",
+          "meaning": "带回；运回"
+        },
+        {
+          "term": "Venice",
+          "level": "B1（地理专名）",
+          "meaning": "威尼斯"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "paragraph": 2,
+      "text": "The spice then travelled from that great trading city to markets all around Europe.",
+      "translation": "随后，这种香料从那座重要的贸易城市流向欧洲各地的市场。",
+      "structure": "主干是 The spice travelled from...to...；that great trading city 回指 Venice，空间路径把威尼斯写成欧洲分销枢纽。",
+      "vocabulary": [
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；回指肉桂"
+        },
+        {
+          "term": "trading city",
+          "level": "B1（商业专业表达）",
+          "meaning": "贸易城市"
+        },
+        {
+          "term": "market",
+          "level": "B1（商业专业词）",
+          "meaning": "市场"
+        },
+        {
+          "term": "all around",
+          "level": "B1",
+          "meaning": "遍及；在……各处"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "paragraph": 2,
+      "text": "Because the overland trade route allowed for only small quantities of the spice to reach Europe, and because Venice had a virtual monopoly of the trade, the Venetians could set the price of cinnamon exorbitantly high.",
+      "translation": "由于陆路贸易路线只能让少量香料抵达欧洲，加之威尼斯实际上垄断了这项贸易，威尼斯人便能把肉桂价格定得高得惊人。",
+      "structure": "两个 because 从句并列给出“供给少”和“垄断”两项原因；主句 the Venetians could set... 写定价结果。allow for 在这里表示容许某种数量通过，不是“考虑到”。",
+      "vocabulary": [
+        {
+          "term": "overland trade route",
+          "level": "C1（贸易物流专业表达）",
+          "meaning": "陆路贸易路线"
+        },
+        {
+          "term": "allow for",
+          "level": "B2",
+          "meaning": "容许；使……成为可能"
+        },
+        {
+          "term": "quantity",
+          "level": "B1",
+          "meaning": "数量"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句指进入欧洲的肉桂"
+        },
+        {
+          "term": "reach",
+          "level": "B1",
+          "meaning": "抵达；到达"
+        },
+        {
+          "term": "virtual monopoly",
+          "level": "C1（经济学专业表达）",
+          "meaning": "事实上的垄断"
+        },
+        {
+          "term": "trade",
+          "level": "B1（商业专业词）",
+          "meaning": "贸易"
+        },
+        {
+          "term": "set the price",
+          "level": "B2（商业专业表达）",
+          "meaning": "定价"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "exorbitantly",
+          "level": "C2",
+          "meaning": "高得离谱地；过分昂贵地"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "paragraph": 2,
+      "text": "These prices, coupled with the increasing demand, spurred the search for new routes to Asia by Europeans eager to take part in the spice trade.",
+      "translation": "这样的高价，再加上不断增长的需求，推动了欧洲人寻找通往亚洲的新路线；他们迫切希望参与香料贸易。",
+      "structure": "主干是 These prices spurred the search；coupled with... 是过去分词插入语补充共同原因，by Europeans 说明寻找者，eager... 修饰 Europeans。价格与需求共同把贸易史推向航海扩张。",
+      "vocabulary": [
+        {
+          "term": "be coupled with",
+          "level": "C1",
+          "meaning": "与……结合；加上"
+        },
+        {
+          "term": "increasing demand",
+          "level": "B2（经济学专业表达）",
+          "meaning": "不断增长的需求"
+        },
+        {
+          "term": "spur",
+          "level": "C1",
+          "meaning": "推动；激励"
+        },
+        {
+          "term": "search for",
+          "level": "B1",
+          "meaning": "寻找"
+        },
+        {
+          "term": "route",
+          "level": "B1",
+          "meaning": "路线"
+        },
+        {
+          "term": "eager to",
+          "level": "B2",
+          "meaning": "迫切希望……"
+        },
+        {
+          "term": "take part in",
+          "level": "B1",
+          "meaning": "参与"
+        },
+        {
+          "term": "spice trade",
+          "level": "B1（商业专业表达）",
+          "meaning": "香料贸易"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "paragraph": 3,
+      "text": "Seeking the high profits promised by the cinnamon market, Portuguese traders arrived on the island of Ceylon in the Indian Ocean toward the end of the 15th century.",
+      "translation": "为了追逐肉桂市场所许诺的高额利润，葡萄牙商人在15世纪末来到印度洋的锡兰岛。",
+      "structure": "Seeking... 是现在分词短语表示动机，promised by... 修饰 profits；主干 Portuguese traders arrived...。利润诱因把欧洲人的“寻找路线”落实为抵达产地。",
+      "vocabulary": [
+        {
+          "term": "seek",
+          "level": "B2",
+          "meaning": "寻求；追逐"
+        },
+        {
+          "term": "high profit",
+          "level": "B2（商业专业表达）",
+          "meaning": "高额利润"
+        },
+        {
+          "term": "be promised by",
+          "level": "B1",
+          "meaning": "由……许诺；本句修饰利润"
+        },
+        {
+          "term": "cinnamon market",
+          "level": "B2（商业专业表达）",
+          "meaning": "肉桂市场"
+        },
+        {
+          "term": "trader",
+          "level": "B1（商业专业词）",
+          "meaning": "贸易商；本句指葡萄牙商人"
+        },
+        {
+          "term": "arrive on an island",
+          "level": "B1",
+          "meaning": "抵达岛屿"
+        },
+        {
+          "term": "toward the end of",
+          "level": "B2",
+          "meaning": "接近……末期"
+        },
+        {
+          "term": "century",
+          "level": "B1",
+          "meaning": "世纪"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "paragraph": 3,
+      "text": "Before Europeans arrived on the island, the state had organized the cultivation of cinnamon.",
+      "translation": "欧洲人抵达该岛之前，当地政权已经组织起肉桂种植。",
+      "structure": "Before 从句给时间界线；主句用过去完成时 had organized，强调欧洲人到来前已有制度化生产。",
+      "vocabulary": [
+        {
+          "term": "arrive on",
+          "level": "B1",
+          "meaning": "抵达"
+        },
+        {
+          "term": "state",
+          "level": "B1（政治学专业词）",
+          "meaning": "国家或政权；本句指当地统治机构"
+        },
+        {
+          "term": "organize",
+          "level": "B1",
+          "meaning": "组织；安排"
+        },
+        {
+          "term": "cultivation",
+          "level": "C1（农业专业词）",
+          "meaning": "栽培；种植"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "paragraph": 3,
+      "text": "People belonging to the ethnic group called the Salagama would peel the bark off young shoots of the cinnamon plant in the rainy season, when the wet bark was more pliable.",
+      "translation": "属于萨拉伽马族群的人会在雨季从肉桂植株的嫩枝上剥下树皮，因为那时湿润的树皮更柔韧易弯。",
+      "structure": "主干是 People would peel...；belonging... 与 called... 逐层修饰 People 和 ethnic group，when 从句说明选择雨季的原因。would 表过去的惯常做法。",
+      "vocabulary": [
+        {
+          "term": "belong to",
+          "level": "B1",
+          "meaning": "属于"
+        },
+        {
+          "term": "ethnic group",
+          "level": "B2（社会学专业词）",
+          "meaning": "族群"
+        },
+        {
+          "term": "peel ... off",
+          "level": "B2",
+          "meaning": "把……剥下"
+        },
+        {
+          "term": "bark",
+          "level": "C1（植物学专业词）",
+          "meaning": "树皮"
+        },
+        {
+          "term": "shoot",
+          "level": "C1（植物学专业词）",
+          "meaning": "嫩枝；新芽"
+        },
+        {
+          "term": "cinnamon plant",
+          "level": "B2（植物学专业表达）",
+          "meaning": "肉桂植株"
+        },
+        {
+          "term": "rainy season",
+          "level": "B1",
+          "meaning": "雨季"
+        },
+        {
+          "term": "pliable",
+          "level": "C2",
+          "meaning": "柔韧的；易弯曲的"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "paragraph": 3,
+      "text": "During the peeling process, they curled the bark into the ‘stick’ shape still associated with the spice today.",
+      "translation": "在剥皮过程中，他们把树皮卷成“棒状”；直到今天，人们仍把这种形状与肉桂联系在一起。",
+      "structure": "主干是 they curled the bark into...；still associated... 是过去分词短语修饰 shape。句子解释肉桂棒的外形如何由加工动作形成，并连接古今。",
+      "vocabulary": [
+        {
+          "term": "peeling process",
+          "level": "B2（加工专业表达）",
+          "meaning": "剥皮过程"
+        },
+        {
+          "term": "curl ... into ...",
+          "level": "B2",
+          "meaning": "把……卷成……"
+        },
+        {
+          "term": "bark",
+          "level": "C1（植物学专业词）",
+          "meaning": "树皮；本句再次指被加工的原料"
+        },
+        {
+          "term": "shape",
+          "level": "B1",
+          "meaning": "形状"
+        },
+        {
+          "term": "be associated with",
+          "level": "B2",
+          "meaning": "与……联系在一起"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句回指肉桂"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "paragraph": 3,
+      "text": "The Salagama then gave the finished product to the king as a form of tribute.",
+      "translation": "随后，萨拉伽马人把制成品交给国王，作为一种贡品。",
+      "structure": "主干是 The Salagama gave the finished product to the king；as a form of tribute 说明交付的制度性质，从生产流程转向权力关系。",
+      "vocabulary": [
+        {
+          "term": "finished product",
+          "level": "B1（生产专业词）",
+          "meaning": "制成品；成品"
+        },
+        {
+          "term": "as a form of",
+          "level": "B1",
+          "meaning": "作为……的一种形式"
+        },
+        {
+          "term": "tribute",
+          "level": "C1（历史专业词）",
+          "meaning": "贡品；贡赋"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "paragraph": 3,
+      "text": "When the Portuguese arrived, they needed to increase production significantly, and so enslaved many other members of the Ceylonese native population, forcing them to work in cinnamon harvesting.",
+      "translation": "葡萄牙人到来后，需要大幅提高产量，于是奴役了许多其他锡兰原住民，强迫他们从事肉桂采收。",
+      "structure": "When 从句给时间背景；主句并列 needed 与 enslaved，and so 明示因果；forcing... 是现在分词短语补充奴役的结果。句子把利润扩张与强制劳动直接连接。",
+      "vocabulary": [
+        {
+          "term": "Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人"
+        },
+        {
+          "term": "increase production",
+          "level": "B1（生产专业表达）",
+          "meaning": "提高产量"
+        },
+        {
+          "term": "significantly",
+          "level": "B2",
+          "meaning": "显著地；大幅地"
+        },
+        {
+          "term": "enslave",
+          "level": "C1（历史专业词）",
+          "meaning": "奴役"
+        },
+        {
+          "term": "member",
+          "level": "B1",
+          "meaning": "成员；一员"
+        },
+        {
+          "term": "native population",
+          "level": "B2（人口学专业表达）",
+          "meaning": "原住民人口"
+        },
+        {
+          "term": "force somebody to do",
+          "level": "B1",
+          "meaning": "强迫某人做某事"
+        },
+        {
+          "term": "cinnamon harvesting",
+          "level": "C1（农业专业表达）",
+          "meaning": "肉桂采收"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "paragraph": 3,
+      "text": "In 1518, the Portuguese built a fort on Ceylon, which enabled them to protect the island, so helping them to develop a monopoly in the cinnamon trade and generate very high profits.",
+      "translation": "1518年，葡萄牙人在锡兰修建了一座堡垒；这使他们能够保护该岛，进而帮助他们在肉桂贸易中建立垄断并获取极高利润。",
+      "structure": "主干是 the Portuguese built a fort；which 从句说明堡垒的功能，so helping... 表由此产生的进一步结果，develop 与 generate 并列。句子写军事设施如何转化为市场控制。",
+      "vocabulary": [
+        {
+          "term": "the Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人；本句为修建堡垒并建立垄断的一方"
+        },
+        {
+          "term": "build a fort",
+          "level": "B1（军事专业表达）",
+          "meaning": "修建堡垒"
+        },
+        {
+          "term": "enable somebody to do",
+          "level": "B2",
+          "meaning": "使某人能够做某事"
+        },
+        {
+          "term": "protect",
+          "level": "B1",
+          "meaning": "保护"
+        },
+        {
+          "term": "develop a monopoly",
+          "level": "C1（经济学专业表达）",
+          "meaning": "形成垄断"
+        },
+        {
+          "term": "cinnamon trade",
+          "level": "B1（商业专业表达）",
+          "meaning": "肉桂贸易"
+        },
+        {
+          "term": "generate profit",
+          "level": "B2（商业专业表达）",
+          "meaning": "产生利润"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "paragraph": 3,
+      "text": "In the late 16th century, for example, they enjoyed a tenfold profit when shipping cinnamon over a journey of eight days from Ceylon to India.",
+      "translation": "例如，在16世纪后期，他们把肉桂从锡兰运往印度，八天航程便能获得十倍利润。",
+      "structure": "主干是 they enjoyed a tenfold profit；when shipping... 是省略主语的时间状语，over a journey of eight days 补充航程长度。tenfold 用一个数字压缩出贸易暴利。",
+      "vocabulary": [
+        {
+          "term": "in the late ... century",
+          "level": "B1",
+          "meaning": "在……世纪后期"
+        },
+        {
+          "term": "for example",
+          "level": "B1",
+          "meaning": "例如"
+        },
+        {
+          "term": "enjoy a profit",
+          "level": "B1（商业专业表达）",
+          "meaning": "获得利润"
+        },
+        {
+          "term": "tenfold",
+          "level": "C1",
+          "meaning": "十倍的"
+        },
+        {
+          "term": "profit",
+          "level": "B1（商业专业词）",
+          "meaning": "利润；本句再次写贸易收益"
+        },
+        {
+          "term": "ship",
+          "level": "B2（物流专业词）",
+          "meaning": "运输；装运"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "journey",
+          "level": "B1",
+          "meaning": "旅程；本句指八天运输航程"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "paragraph": 4,
+      "text": "When the Dutch arrived off the coast of southern Asia at the very beginning of the 17th century, they set their sights on displacing the Portuguese as kings of cinnamon.",
+      "translation": "17世纪刚开始时，荷兰人抵达南亚近海，便立志取代葡萄牙人，成为肉桂贸易的霸主。",
+      "structure": "When 从句给出新竞争者登场的时间与地点；主干 they set their sights on...，displacing... 是介词 on 的宾语，as kings of cinnamon 写取代后的目标身份。该比喻把商业竞争写成争夺王位。",
+      "vocabulary": [
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "arrive",
+          "level": "B1",
+          "meaning": "抵达；到达"
+        },
+        {
+          "term": "off the coast of",
+          "level": "B2",
+          "meaning": "在……近海"
+        },
+        {
+          "term": "southern",
+          "level": "B1",
+          "meaning": "南部的"
+        },
+        {
+          "term": "at the very beginning of",
+          "level": "B1",
+          "meaning": "就在……最初"
+        },
+        {
+          "term": "set one’s sights on",
+          "level": "C2",
+          "meaning": "决心实现；把……定为目标"
+        },
+        {
+          "term": "displace",
+          "level": "C1",
+          "meaning": "取代；排挤"
+        },
+        {
+          "term": "the Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人"
+        },
+        {
+          "term": "king of",
+          "level": "B1（比喻表达）",
+          "meaning": "……的霸主"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂；本句代指肉桂贸易"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "paragraph": 4,
+      "text": "The Dutch allied themselves with Kandy, an inland kingdom on Ceylon.",
+      "translation": "荷兰人与康提结盟；康提是锡兰的一个内陆王国。",
+      "structure": "主干是 The Dutch allied themselves with Kandy；逗号后的 an inland kingdom... 是同位语解释 Kandy。短句交代荷兰挑战葡萄牙的本地联盟。",
+      "vocabulary": [
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "ally oneself with",
+          "level": "C1",
+          "meaning": "与……结盟"
+        },
+        {
+          "term": "inland",
+          "level": "B2",
+          "meaning": "内陆的"
+        },
+        {
+          "term": "kingdom",
+          "level": "B1（历史专业词）",
+          "meaning": "王国"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "paragraph": 4,
+      "text": "In return for payments of elephants and cinnamon, they protected the native king from the Portuguese.",
+      "translation": "作为获得大象和肉桂报酬的回报，他们保护当地国王免受葡萄牙人侵害。",
+      "structure": "In return for... 前置说明交换条件；主干 they protected the native king from...。句子揭示联盟是一项物资与军事保护的交易。",
+      "vocabulary": [
+        {
+          "term": "in return for",
+          "level": "B2",
+          "meaning": "作为……的回报或交换"
+        },
+        {
+          "term": "payment",
+          "level": "B1",
+          "meaning": "付款；报酬"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂；本句作为支付物"
+        },
+        {
+          "term": "protect ... from ...",
+          "level": "B1",
+          "meaning": "保护……免受……"
+        },
+        {
+          "term": "native",
+          "level": "B2",
+          "meaning": "本地的；原住民的"
+        },
+        {
+          "term": "the Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人；本句为保护所针对的一方"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "paragraph": 4,
+      "text": "By 1640, the Dutch broke the 150-year Portuguese monopoly when they overran and occupied their factories.",
+      "translation": "到1640年，荷兰人攻占葡萄牙人的工厂，打破了葡萄牙长达150年的垄断。",
+      "structure": "主干是 the Dutch broke...monopoly；when 从句说明打破垄断的具体行动，overran 与 occupied 并列。时间数字突出垄断持续之久。",
+      "vocabulary": [
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙的；本句修饰 monopoly"
+        },
+        {
+          "term": "break a monopoly",
+          "level": "B2（经济学专业表达）",
+          "meaning": "打破垄断"
+        },
+        {
+          "term": "overrun",
+          "level": "C2（军事专业词）",
+          "meaning": "迅速攻占"
+        },
+        {
+          "term": "occupy",
+          "level": "B2",
+          "meaning": "占领；占据"
+        },
+        {
+          "term": "factory",
+          "level": "B1",
+          "meaning": "工厂"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "paragraph": 4,
+      "text": "By 1658, they had permanently expelled the Portuguese from the island, thereby gaining control of the lucrative cinnamon trade.",
+      "translation": "到1658年，他们已经把葡萄牙人永久逐出该岛，从而控制了利润丰厚的肉桂贸易。",
+      "structure": "主句用过去完成时 had expelled 表示到1658年已完成；thereby gaining... 是现在分词结果状语，说明驱逐带来的贸易控制。",
+      "vocabulary": [
+        {
+          "term": "permanently",
+          "level": "B2",
+          "meaning": "永久地"
+        },
+        {
+          "term": "expel ... from ...",
+          "level": "C1",
+          "meaning": "把……驱逐出……"
+        },
+        {
+          "term": "the Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人"
+        },
+        {
+          "term": "thereby",
+          "level": "C1",
+          "meaning": "从而；借此"
+        },
+        {
+          "term": "gain control of",
+          "level": "B2",
+          "meaning": "取得对……的控制"
+        },
+        {
+          "term": "lucrative",
+          "level": "C1",
+          "meaning": "利润丰厚的"
+        },
+        {
+          "term": "cinnamon trade",
+          "level": "B1（商业专业表达）",
+          "meaning": "肉桂贸易"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "paragraph": 4,
+      "text": "In order to protect their hold on the market, the Dutch, like the Portuguese before them, treated the native inhabitants harshly.",
+      "translation": "为了保住对市场的控制，荷兰人像此前的葡萄牙人一样，残酷对待当地居民。",
+      "structure": "In order to... 表目的；the Dutch 是主语，like... 是插入比较，主干落在 treated...harshly。比较结构强调统治者更换，但压迫方式延续。",
+      "vocabulary": [
+        {
+          "term": "in order to",
+          "level": "B1",
+          "meaning": "为了"
+        },
+        {
+          "term": "protect one’s hold on",
+          "level": "C1",
+          "meaning": "保住对……的控制"
+        },
+        {
+          "term": "market",
+          "level": "B1（商业专业词）",
+          "meaning": "市场；本句指肉桂市场"
+        },
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "the Portuguese",
+          "level": "B1（历史专名）",
+          "meaning": "葡萄牙人"
+        },
+        {
+          "term": "treat",
+          "level": "B1",
+          "meaning": "对待"
+        },
+        {
+          "term": "native inhabitant",
+          "level": "B2（人口学专业表达）",
+          "meaning": "当地居民；原住民"
+        },
+        {
+          "term": "harshly",
+          "level": "B2",
+          "meaning": "严酷地；残忍地"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "paragraph": 4,
+      "text": "Because of the need to boost production and satisfy Europe’s ever-increasing appetite for cinnamon, the Dutch began to alter the harvesting practices of the Ceylonese.",
+      "translation": "由于需要提高产量并满足欧洲对肉桂日益增长的强烈需求，荷兰人开始改变锡兰人的采收方式。",
+      "structure": "Because of... 给出原因，其中 boost 与 satisfy 并列；主干 the Dutch began to alter...。appetite 把市场需求人格化为越吃越大的胃口。",
+      "vocabulary": [
+        {
+          "term": "because of",
+          "level": "B1",
+          "meaning": "由于"
+        },
+        {
+          "term": "boost production",
+          "level": "B2（生产专业表达）",
+          "meaning": "提高产量"
+        },
+        {
+          "term": "satisfy",
+          "level": "B2",
+          "meaning": "满足"
+        },
+        {
+          "term": "ever-increasing",
+          "level": "C1",
+          "meaning": "不断增长的"
+        },
+        {
+          "term": "appetite for",
+          "level": "C1",
+          "meaning": "对……的强烈需求；字面义为食欲"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "alter",
+          "level": "B2",
+          "meaning": "改变"
+        },
+        {
+          "term": "harvesting practice",
+          "level": "C1（农业专业表达）",
+          "meaning": "采收方式"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "paragraph": 4,
+      "text": "Over time, the supply of cinnamon trees on the island became nearly exhausted, due to systematic stripping of the bark.",
+      "translation": "随着时间推移，由于持续而系统地剥取树皮，岛上的肉桂树资源几乎枯竭。",
+      "structure": "主干是 the supply...became nearly exhausted；Over time 写渐变过程，due to... 给直接原因。被动式 exhausted 把生产扩张的生态后果放到句子中心。",
+      "vocabulary": [
+        {
+          "term": "over time",
+          "level": "B1",
+          "meaning": "随着时间推移"
+        },
+        {
+          "term": "supply",
+          "level": "B2",
+          "meaning": "供应；储量"
+        },
+        {
+          "term": "cinnamon tree",
+          "level": "B2（植物学专业表达）",
+          "meaning": "肉桂树"
+        },
+        {
+          "term": "become exhausted",
+          "level": "B2",
+          "meaning": "变得枯竭；耗尽"
+        },
+        {
+          "term": "due to",
+          "level": "B1",
+          "meaning": "由于"
+        },
+        {
+          "term": "systematic",
+          "level": "C1",
+          "meaning": "系统性的；有计划的"
+        },
+        {
+          "term": "stripping of the bark",
+          "level": "C1（农业专业表达）",
+          "meaning": "剥取树皮"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "paragraph": 4,
+      "text": "Eventually, the Dutch began cultivating their own cinnamon trees to supplement the diminishing number of wild trees available for use.",
+      "translation": "最终，荷兰人开始自行栽培肉桂树，以补充数量日益减少、可供利用的野生树木。",
+      "structure": "主干是 the Dutch began cultivating...；to supplement... 表目的，diminishing 与 available for use 都修饰 wild trees。此句写资源枯竭迫使垄断者转向人工栽培。",
+      "vocabulary": [
+        {
+          "term": "eventually",
+          "level": "B1",
+          "meaning": "最终"
+        },
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "cultivate",
+          "level": "C1（农业专业词）",
+          "meaning": "栽培"
+        },
+        {
+          "term": "cinnamon tree",
+          "level": "B2（植物学专业表达）",
+          "meaning": "肉桂树"
+        },
+        {
+          "term": "supplement",
+          "level": "C1",
+          "meaning": "补充"
+        },
+        {
+          "term": "diminishing",
+          "level": "C1",
+          "meaning": "日益减少的"
+        },
+        {
+          "term": "wild",
+          "level": "B1",
+          "meaning": "野生的"
+        },
+        {
+          "term": "available for use",
+          "level": "B1",
+          "meaning": "可供使用的"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "paragraph": 5,
+      "text": "Then, in 1796, the English arrived on Ceylon, thereby displacing the Dutch from their control of the cinnamon monopoly.",
+      "translation": "随后在1796年，英国人抵达锡兰，从而取代荷兰人，夺走了他们对肉桂垄断贸易的控制。",
+      "structure": "主干是 the English arrived...；thereby displacing... 是结果状语，from their control... 说明荷兰人被排挤出的位置。叙事再次用“新来者—取代旧霸主”推进权力更迭。",
+      "vocabulary": [
+        {
+          "term": "the English",
+          "level": "B1（历史专名）",
+          "meaning": "英国人"
+        },
+        {
+          "term": "arrive on",
+          "level": "B1",
+          "meaning": "抵达；来到"
+        },
+        {
+          "term": "thereby",
+          "level": "C1",
+          "meaning": "从而"
+        },
+        {
+          "term": "displace",
+          "level": "C1",
+          "meaning": "取代；排挤"
+        },
+        {
+          "term": "the Dutch",
+          "level": "B1（历史专名）",
+          "meaning": "荷兰人"
+        },
+        {
+          "term": "control of",
+          "level": "B1",
+          "meaning": "对……的控制"
+        },
+        {
+          "term": "cinnamon monopoly",
+          "level": "C1（经济学专业表达）",
+          "meaning": "肉桂贸易垄断"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "paragraph": 5,
+      "text": "By the middle of the 19th century, production of cinnamon reached 1,000 tons a year, after a lower grade quality of the spice became acceptable to European tastes.",
+      "translation": "到19世纪中叶，在较低等级的肉桂也开始为欧洲人口味所接受之后，肉桂年产量达到了1,000吨。",
+      "structure": "主干是 production...reached...；By... 给时间界线，after 从句解释产量扩大的市场条件。原文保留 lower grade quality 这一不寻常搭配，译文不擅自改写事实。",
+      "vocabulary": [
+        {
+          "term": "by the middle of",
+          "level": "B1",
+          "meaning": "到……中期"
+        },
+        {
+          "term": "production",
+          "level": "B1（生产专业词）",
+          "meaning": "产量；生产"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "reach",
+          "level": "B1",
+          "meaning": "达到"
+        },
+        {
+          "term": "ton",
+          "level": "B1",
+          "meaning": "吨"
+        },
+        {
+          "term": "lower grade quality",
+          "level": "C1（商品分级专业表达）",
+          "meaning": "较低等级的品质"
+        },
+        {
+          "term": "spice",
+          "level": "B1（烹饪专业词）",
+          "meaning": "香料；本句回指肉桂"
+        },
+        {
+          "term": "acceptable to",
+          "level": "B1",
+          "meaning": "为……所接受"
+        },
+        {
+          "term": "taste",
+          "level": "B1",
+          "meaning": "口味；偏好"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "paragraph": 5,
+      "text": "By that time, cinnamon was being grown in other parts of the Indian Ocean region and in the West Indies, Brazil, and Guyana.",
+      "translation": "到那时，印度洋地区其他地方，以及西印度群岛、巴西和圭亚那，也都开始种植肉桂。",
+      "structure": "主干是 cinnamon was being grown...，过去进行时被动强调当时扩散中的种植活动；两个 in 短语并列列出新产区。产地扩张削弱了单一来源的控制。",
+      "vocabulary": [
+        {
+          "term": "by that time",
+          "level": "B1",
+          "meaning": "到那时"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "be grown",
+          "level": "B1",
+          "meaning": "被种植"
+        },
+        {
+          "term": "region",
+          "level": "B1（地理学专业词）",
+          "meaning": "地区；区域"
+        },
+        {
+          "term": "the West Indies",
+          "level": "B1（地理专名）",
+          "meaning": "西印度群岛"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "paragraph": 5,
+      "text": "Not only was a monopoly of cinnamon becoming impossible, but the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar.",
+      "translation": "不仅肉桂垄断已变得不可能，整个香料贸易的经济潜力也在下降，并最终被咖啡、茶、巧克力和糖贸易的兴起所取代。",
+      "structure": "Not only 置于句首引起部分倒装 was a monopoly...；but 后有两个并列谓语 was diminishing 与 was superseded。句子从肉桂垄断的瓦解扩展到香料贸易整体衰退，收束全文。",
+      "vocabulary": [
+        {
+          "term": "not only ... but ...",
+          "level": "B2",
+          "meaning": "不仅……而且……"
+        },
+        {
+          "term": "monopoly",
+          "level": "C1（经济学专业词）",
+          "meaning": "垄断"
+        },
+        {
+          "term": "impossible",
+          "level": "B1",
+          "meaning": "不可能的"
+        },
+        {
+          "term": "cinnamon",
+          "level": "B2（烹饪专业词）",
+          "meaning": "肉桂"
+        },
+        {
+          "term": "spice trade",
+          "level": "B1（商业专业表达）",
+          "meaning": "香料贸易"
+        },
+        {
+          "term": "overall",
+          "level": "B2",
+          "meaning": "总体上；整体的"
+        },
+        {
+          "term": "diminish",
+          "level": "B2",
+          "meaning": "减少；衰退"
+        },
+        {
+          "term": "economic potential",
+          "level": "C1（经济学专业表达）",
+          "meaning": "经济潜力"
+        },
+        {
+          "term": "eventually",
+          "level": "B1",
+          "meaning": "最终"
+        },
+        {
+          "term": "supersede",
+          "level": "C2",
+          "meaning": "取代；替代"
+        },
+        {
+          "term": "rise of trade",
+          "level": "B2（商业专业表达）",
+          "meaning": "贸易的兴起"
+        }
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "1–9",
+      "type": "note_completion",
+      "title": "The Early History of Cinnamon",
+      "titleZh": "肉桂的早期历史",
+      "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 1–9 on your answer sheet.",
+      "instructionZh": "完成下面的笔记。每题只能从文章中选择一个单词作答，并把答案写在答题纸第1–9题的方框内。",
+      "noteItems": [
+        {
+          "period": "Biblical times",
+          "periodZh": "《圣经》时代",
+          "number": 1,
+          "text": "added to 1 __________",
+          "translation": "被加入1 __________中"
+        },
+        {
+          "period": "Biblical times",
+          "periodZh": "《圣经》时代",
+          "number": 2,
+          "text": "used to show 2 __________ between people",
+          "translation": "用于表示人与人之间的2 __________"
+        },
+        {
+          "period": "Ancient Rome",
+          "periodZh": "古罗马",
+          "number": 3,
+          "text": "used for its sweet smell at 3 __________",
+          "translation": "在3 __________中因其芳香而被使用"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 4,
+          "text": "was an indication of a person’s 4 __________",
+          "translation": "是一个人4 __________的象征"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 5,
+          "text": "known as a treatment for 5 __________ and other health problems",
+          "translation": "被视为治疗5 __________及其他健康问题的一种疗法"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 6,
+          "text": "grown in 6 __________",
+          "translation": "种植于6 __________"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 7,
+          "text": "merchants used 7 __________ to bring it to the Mediterranean",
+          "translation": "商人用7 __________把它运到地中海"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 8,
+          "text": "arrived in the Mediterranean at 8 __________",
+          "translation": "在8 __________抵达地中海地区"
+        },
+        {
+          "period": "Middle Ages",
+          "periodZh": "中世纪",
+          "number": 9,
+          "text": "traders took it to 9 __________ and sold it to destinations around Europe",
+          "translation": "商人把它运到9 __________，再销往欧洲各地"
+        }
+      ]
+    },
+    {
+      "range": "10–13",
+      "type": "true_false_not_given",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 10–13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "instructionZh": "判断下列陈述是否与阅读文章1的信息一致：一致写TRUE，矛盾写FALSE，文章未提供相关信息写NOT GIVEN。",
+      "labels": [
+        {
+          "label": "TRUE",
+          "meaning": "if the statement agrees with the information",
+          "translation": "陈述与文章信息一致"
+        },
+        {
+          "label": "FALSE",
+          "meaning": "if the statement contradicts the information",
+          "translation": "陈述与文章信息矛盾"
+        },
+        {
+          "label": "NOT GIVEN",
+          "meaning": "if there is no information on this",
+          "translation": "文章没有提供相关信息"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "note_completion",
+      "prompt": "added to 1 __________",
+      "promptZh": "被加入__________中",
+      "noteContext": {
+        "period": "Biblical times",
+        "periodZh": "《圣经》时代"
+      },
+      "options": null,
+      "answer": "oils",
+      "acceptableAnswers": [
+        "oils"
+      ],
+      "evidence": "an ingredient that was mixed with oils for anointing people’s bodies",
+      "location": "Paragraph 1, sentence 2",
+      "explanation": "added to 改写 mixed with；空格需要复数名词，原文为 oils。",
+      "distractorAnalysis": "ingredient 是肉桂所充当的角色，不是它被加入的对象；bodies 是涂抹对象。"
+    },
+    {
+      "number": 2,
+      "type": "note_completion",
+      "prompt": "used to show 2 __________ between people",
+      "promptZh": "用于表示人与人之间的__________",
+      "noteContext": {
+        "period": "Biblical times",
+        "periodZh": "《圣经》时代"
+      },
+      "options": null,
+      "answer": "friendship",
+      "acceptableAnswers": [
+        "friendship"
+      ],
+      "evidence": "as a token indicating friendship among lovers and friends",
+      "location": "Paragraph 1, sentence 2",
+      "explanation": "show 对应 indicating，between people 概括 among lovers and friends，因此填 friendship。",
+      "distractorAnalysis": "token 是表达友谊的载体，题干问所表达的关系；lovers 只是一类人。"
+    },
+    {
+      "number": 3,
+      "type": "note_completion",
+      "prompt": "used for its sweet smell at 3 __________",
+      "promptZh": "在__________中因其芳香而被使用",
+      "noteContext": {
+        "period": "Ancient Rome",
+        "periodZh": "古罗马"
+      },
+      "options": null,
+      "answer": "funerals",
+      "acceptableAnswers": [
+        "funerals"
+      ],
+      "evidence": "mourners attending funerals burnt cinnamon to create a pleasant scent",
+      "location": "Paragraph 1, sentence 3",
+      "explanation": "sweet smell 对应 pleasant scent；使用场合是 funerals。",
+      "distractorAnalysis": "mourners 是参与者，不是 at 后的场合；Rome 已由时间栏目给出。"
+    },
+    {
+      "number": 4,
+      "type": "note_completion",
+      "prompt": "was an indication of a person’s 4 __________",
+      "promptZh": "是一个人__________的象征",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "wealth",
+      "acceptableAnswers": [
+        "wealth"
+      ],
+      "evidence": "as a sign of the wealth at his or her disposal",
+      "location": "Paragraph 1, sentence 6",
+      "explanation": "indication 对应 sign，a person’s 对应 his or her；答案为 wealth。",
+      "distractorAnalysis": "ability 是购买昂贵香料的能力，但宴会陈列直接作为财富的标志；spices 是展示物。"
+    },
+    {
+      "number": 5,
+      "type": "note_completion",
+      "prompt": "known as a treatment for 5 __________ and other health problems",
+      "promptZh": "被视为治疗__________及其他健康问题的一种疗法",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "indigestion",
+      "acceptableAnswers": [
+        "indigestion"
+      ],
+      "evidence": "was thought to cure various ailments, such as indigestion",
+      "location": "Paragraph 1, sentence 7",
+      "explanation": "treatment for 改写 cure；and other health problems 表明空格要填示例病症 indigestion。",
+      "distractorAnalysis": "ailments 是上位概念，若填入会形成“病症及其他健康问题”的泛化，题干要求具体例子。"
+    },
+    {
+      "number": 6,
+      "type": "note_completion",
+      "prompt": "grown in 6 __________",
+      "promptZh": "种植于__________",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "India",
+      "acceptableAnswers": [
+        "India"
+      ],
+      "evidence": "They took it from India, where it was grown",
+      "location": "Paragraph 2, sentence 11",
+      "explanation": "where 指代 India，直接说明肉桂种植地。",
+      "distractorAnalysis": "Ceylon 是后文15世纪末葡萄牙人抵达的产区，不是本组早期阿拉伯运输路线的起点。"
+    },
+    {
+      "number": 7,
+      "type": "note_completion",
+      "prompt": "merchants used 7 __________ to bring it to the Mediterranean",
+      "promptZh": "商人用__________把它运到地中海",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "camels",
+      "acceptableAnswers": [
+        "camels"
+      ],
+      "evidence": "on camels via an overland route to the Mediterranean",
+      "location": "Paragraph 2, sentence 11",
+      "explanation": "used 提示工具，on camels 表运输工具；ONE WORD ONLY 填 camels。",
+      "distractorAnalysis": "route 是路径而不是承载工具；merchants 已在题干中。"
+    },
+    {
+      "number": 8,
+      "type": "note_completion",
+      "prompt": "arrived in the Mediterranean at 8 __________",
+      "promptZh": "在__________抵达地中海地区",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "Alexandria",
+      "acceptableAnswers": [
+        "Alexandria"
+      ],
+      "evidence": "Their journey ended when they reached Alexandria.",
+      "location": "Paragraph 2, sentence 12",
+      "explanation": "journey ended/reached 对应 arrived；地中海陆路终点是 Alexandria。",
+      "distractorAnalysis": "India 是起点；Venice 是欧洲商人随后带回香料的城市。"
+    },
+    {
+      "number": 9,
+      "type": "note_completion",
+      "prompt": "traders took it to 9 __________ and sold it to destinations around Europe",
+      "promptZh": "商人把它运到__________，再销往欧洲各地",
+      "noteContext": {
+        "period": "Middle Ages",
+        "periodZh": "中世纪"
+      },
+      "options": null,
+      "answer": "Venice",
+      "acceptableAnswers": [
+        "Venice"
+      ],
+      "evidence": "brought it back to Venice. The spice then travelled from that great trading city to markets all around Europe.",
+      "location": "Paragraph 2, sentences 13–14",
+      "explanation": "took it to 对应 brought it back to；随后从该贸易城市分销欧洲，故填 Venice。",
+      "distractorAnalysis": "Alexandria 是欧洲商人采购地点，不是向欧洲各地分销的贸易城市。"
+    },
+    {
+      "number": 10,
+      "type": "true_false_not_given",
+      "prompt": "The Portuguese had control over the cinnamon trade in Ceylon throughout the 16th century.",
+      "promptZh": "整个16世纪，葡萄牙人一直控制着锡兰的肉桂贸易。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptableAnswers": [
+        "TRUE"
+      ],
+      "evidence": "Portuguese traders arrived ... toward the end of the 15th century. In 1518, the Portuguese built a fort ... helping them to develop a monopoly ... By 1640, the Dutch broke the 150-year Portuguese monopoly",
+      "location": "Paragraphs 3–4, sentences 17, 23 and 28",
+      "explanation": "葡萄牙人在15世纪末已进入，1518年建立控制，而荷兰到1640年才打破垄断，因此16世纪全程处在其控制期。",
+      "distractorAnalysis": "FALSE 会把荷兰17世纪初到达误当成当即接管；NOT GIVEN 忽略了时间链和150年垄断。"
+    },
+    {
+      "number": 11,
+      "type": "true_false_not_given",
+      "prompt": "The Dutch took over the cinnamon trade from the Portuguese as soon as they arrived in Ceylon.",
+      "promptZh": "荷兰人一到锡兰就立即从葡萄牙人手中接管了肉桂贸易。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "When the Dutch arrived ... at the very beginning of the 17th century ... By 1640, the Dutch broke the 150-year Portuguese monopoly",
+      "location": "Paragraph 4, sentences 25–28",
+      "explanation": "arrived 在17世纪初，break monopoly 到1640年，中间还需结盟与作战；并非 as soon as。",
+      "distractorAnalysis": "TRUE 利用 arrived/took over 的同主题词，却忽略时间差；NOT GIVEN 不成立，因为两个时间点明确。"
+    },
+    {
+      "number": 12,
+      "type": "true_false_not_given",
+      "prompt": "The trees planted by the Dutch produced larger quantities of cinnamon than the wild trees.",
+      "promptZh": "荷兰人种植的肉桂树比野生肉桂树产量更大。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptableAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "the Dutch began cultivating their own cinnamon trees to supplement the diminishing number of wild trees available for use",
+      "location": "Paragraph 4, sentence 33",
+      "explanation": "原文只说人工栽培用于补充数量减少的野生树，没有比较两类树的产量。",
+      "distractorAnalysis": "TRUE 把 supplement 偷换成“产量更大”；FALSE 同样需要反向产量比较，但原文没有。"
+    },
+    {
+      "number": 13,
+      "type": "true_false_not_given",
+      "prompt": "The spice trade maintained its economic importance during the 19th century.",
+      "promptZh": "在19世纪，香料贸易一直保持其经济重要性。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "the spice trade overall was diminishing in economic potential, and was eventually superseded by the rise of trade in coffee, tea, chocolate, and sugar",
+      "location": "Paragraph 5, sentence 37",
+      "explanation": "maintained economic importance 与 diminishing in economic potential 并 eventually superseded 直接矛盾。",
+      "distractorAnalysis": "TRUE 可能被19世纪肉桂产量上升误导，但题干问整个香料贸易的经济重要性；NOT GIVEN 不成立，因为原文明确评价其衰退。"
+    }
+  ]
+}
