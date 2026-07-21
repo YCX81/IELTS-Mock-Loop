@@ -2131,640 +2131,236 @@ for carbon storage, as well as their produce
 ## Page 85
 
 Reading
-READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 Research using twins
-To biomedical researchers all over the
-The idea of using twins to measure the
-world, twins offer a precious opportunity
-influence of heredity dates back to 1875,
-to untangle the influence of genes and
-when the English scientist Francis Galton
-the environment - of nature and nurture.
-first suggested the approach (and coined
-Because identical twins come from a
-the phrase 'nature and nurture'). But
-single fertilized egg that splits into two,
-twin studies took a surprising twist in
-they share virtually the same genetic
-the 1980s, with the arrival of studies into
-code. Any differences between them -
-identical twins who had been separated
-one twin having younger looking skin, for
-at birth and reunited as adults. Over two
-example - must be due to environmental
-decades 137 sets of twins eventually
-factors such as less time spent in the sun.
-visited Thomas Bouchard's lab in what
-became known as the Minnesota Study of
-Alternatively, by comparing the
-Twins Reared Apart. Numerous tests were
-experiences of identical twins with
-carried out on the twins, and they were
-those of fraternal twins, who come from
-each asked more than 15,000 questions.
-separate eggs and share on average
-half their DNA, researchers can quantify
-Bouchard and his colleagues used this
-the extent to which our genes affect our
-mountain of data to identify how far
-lives. If identical twins are more similar
-twins were affected by their genetic
-to each other with respect to an ailment
-makeup. The key to their approach was
-than fraternal twins are, then vulnerability
-a statistical concept called heritability.
-to the disease must be rooted at least in
-In broad terms, the heritability of a trait
-part in heredity.
-measures the extent to which differences
-among members of a population can be
-These two lines of research - studying
-explained by differences in their genetics.
-the differences between identical twins
-And wherever Bouchard and other
-to pinpoint the influence of environment,
-scientists looked, it seemed, they found
-and comparing identical twins with
-the invisible hand of genetic influence
-fraternal ones to measure the role
-helping to shape our lives.
-of inheritance - have been crucial to
-understanding the interplay of nature and
-Lately, however, twin studies have helped
-nurture in determining our personalities,
-lead scientists to a radical new conclusion:
-behavior, and vulnerability to disease.
-that nature and nurture are not the only
+To biomedical researchers all over the world, twins offer a precious opportunity to untangle the influence of genes and the environment – of nature and nurture. Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them – one twin having younger looking skin, for example – must be due to environmental factors such as less time spent in the sun.
+Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives. If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity.
+These two lines of research – studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance – have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease.
+The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase ‘nature and nurture’). But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard’s lab in what became known as the Minnesota Study of Twins Reared Apart. Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions.
+Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives.
+Lately, however, twin studies have helped lead scientists to a radical new conclusion: that nature and nurture are not the only
 87
 
 ## Page 86
 
 Test 4
-elemental forces at work. According to a
-as they become heart, brain, or liver cells,
-recent field called epigenetics, there is a
-for example.
-third factor also in play, one that in some
-cases serves as a bridge between the
-Geneticist Danielle Reed has worked with
-environment and our genes, and in others
-many twins over the years and thought
-operates on its own to shape who we are.
-deeply about what twin studies have
-taught us. 'It's very clear when you look
-Epigenetic processes are chemical
-at twins that much of what they share
-reactions tied to neither nature nor
-is hardwired,' she says. 'Many things
-nurture but representing what researchers
-about them are absolutely the same and
-have called a 'third component'. These
-unalterable. But it's also clear, when you
-reactions influence how our genetic
-get to know them, that other things about
-code is expressed: how each gene is
-them are different. Epigenetics is the
-strengthened or weakened, even turned
-origin of a lot of those differences, in my
-on or off, to build our bones, brains and
-view.'
-all the other parts of our bodies.
-Reed credits Thomas Bouchard's work for
-If you think of our DNA as an immense
-today's surge in twin studies. 'He was the
-piano keyboard and our genes as the keys
-trailblazer,' she says. 'We forget that 50
-- each key symbolizing a segment of DNA
-years ago things like heart disease were
-responsible for a particular note, or trait,
-thought to be caused entirely by lifestyle.
-and all the keys combining to make us
-Schizophrenia was thought to be due
-who we are - then epigenetic processes
-to poor mothering. Twin studies have
-determine when and how each key can be
-allowed us to be more reflective about
-struck, changing the tune being played.
-what people are actually born with and
-what's caused by experience.'
-One way the study of epigenetics is
-revolutionizing our understanding of
-Having said that, Reed adds, the latest
-biology is by revealing a mechanism by
-work in epigenetics promises to take our
-which the environment directly impacts on
-understanding even further. 'What I like
-genes. Studies of animals, for example,
-to say is that nature writes some things in
-have shown that when a rat experiences
-pencil and some things in pen,' she says.
-stress during pregnancy, it can cause
-'Things written in pen you can't change.
-epigenetic changes in a fetus that lead to
-That's DNA. But things written in pencil
-behavioral problems as the rodent grows
-you can. That's epigenetics. Now that
-up. Other epigenetic processes appear to
-we're actually able to look at the DNA
-occur randomly, while others are normal,
-and see where the pencil writings are, it's
-such as those that guide embryonic cells
-sort of a whole new world.'
+elemental forces at work. According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are.
+Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a ‘third component’. These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.
+If you think of our DNA as an immense piano keyboard and our genes as the keys – each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are – then epigenetic processes determine when and how each key can be struck, changing the tune being played.
+One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes. Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up. Other epigenetic processes appear to occur randomly, while others are normal, such as those that guide embryonic cells as they become heart, brain, or liver cells, for example.
+Geneticist Danielle Reed has worked with many twins over the years and thought deeply about what twin studies have taught us. ‘It’s very clear when you look at twins that much of what they share is hardwired,’ she says. ‘Many things about them are absolutely the same and unalterable. But it’s also clear, when you get to know them, that other things about them are different. Epigenetics is the origin of a lot of those differences, in my view.’
+Reed credits Thomas Bouchard’s work for today’s surge in twin studies. ‘He was the trailblazer,’ she says. ‘We forget that 50 years ago things like heart disease were thought to be caused entirely by lifestyle. Schizophrenia was thought to be due to poor mothering. Twin studies have allowed us to be more reflective about what people are actually born with and what’s caused by experience.’
+Having said that, Reed adds, the latest work in epigenetics promises to take our understanding even further. ‘What I like to say is that nature writes some things in pencil and some things in pen,’ she says. ‘Things written in pen you can’t change. That’s DNA. But things written in pencil you can. That’s epigenetics. Now that we’re actually able to look at the DNA and see where the pencil writings are, it’s sort of a whole new world.’
 88
 
 ## Page 87
 
 Reading
-Questions 1-4
+Questions 1–4
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-4 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-1
-There may be genetic causes for the differences in how young the skin of identical
-twins looks.
-2
-Twins are at greater risk of developing certain illnesses than non-twins.
-3
-Bouchard advertised in newspapers for twins who had been separated at birth.
-4
-Epigenetic processes are different from both genetic and environmental processes.
-Questions 5-9
-Look at the following statements (Questions 5—9) and the list of researchers below.
+In boxes 1–4 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+1 There may be genetic causes for the differences in how young the skin of identical twins looks.
+2 Twins are at greater risk of developing certain illnesses than non-twins.
+3 Bouchard advertised in newspapers for twins who had been separated at birth.
+4 Epigenetic processes are different from both genetic and environmental processes.
+Questions 5–9
+Look at the following statements (Questions 5–9) and the list of researchers below.
 Match each statement with the correct researcher, A, B or C.
-Write the correct letter, A, B or C, in boxes 5—9 on your answer sheet.
-NB
-You may use any letter more than once.
+Write the correct letter, A, B or C, in boxes 5–9 on your answer sheet.
+NB You may use any letter more than once.
+5 invented a term used to distinguish two factors affecting human characteristics
+6 expressed the view that the study of epigenetics will increase our knowledge
+7 developed a mathematical method of measuring genetic influences
+8 pioneered research into genetics using twins
+9 carried out research into twins who had lived apart
 List of Researchers
-A
-Francis Galton
-B
-Thomas Bouchard
-C
-Danielle Reed
-5
-invented a term used to distinguish two factors affecting human characteristics
-6
-expressed the view that the study of epigenetics will increase our knowledge
-7
-developed a mathematical method of measuring genetic influences
-8
-pioneered research into genetics using twins
-9
-carried out research into twins who had lived apart
+A Francis Galton
+B Thomas Bouchard
+C Danielle Reed
 89
 
 ## Page 88
 
 Test 4
-Questions 10-13
-Complete the summary using the list of words, A-F, below.
-Write the correct letter, A-F, in boxes 10-13 on your answer sheet.
+Questions 10–13
+Complete the summary using the list of words, A–F, below.
+Write the correct letter, A–F, in boxes 10–13 on your answer sheet.
 Epigenetic processes
-In epigenetic processes, 10
-influence the activity of our genes, for example
-in creating our internal 11
-. The study of epigenetic processes is uncovering
-a way in which our genes can be affected by our 12
-. One example is that
-if a pregnant rat suffers stress, the new-born rat may later show problems in its
-13
-A
-nurture
-B
-organs
-C
-code
-D
-chemicals
-E
-environment
-F
-behaviour/behavior
+In epigenetic processes, 10 __________ influence the activity of our genes, for example in creating our internal 11 __________. The study of epigenetic processes is uncovering a way in which our genes can be affected by our 12 __________. One example is that if a pregnant rat suffers stress, the new-born rat may later show problems in its 13 __________.
+A nurture
+B organs
+C code
+D chemicals
+E environment
+F behaviour/behavior
 90
 
 ## Page 89
 
 Reading
-READING PASSAGE2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 An Introduction to Film Sound
-Though we might think of film as an
-and very realistic persona emerges. The
-essentially visual experience, we really
-viewer sees not an actor working at his
-cannot afford to underestimate the
-craft, but another human being struggling
-importance of film sound. A meaningful
-with life. It is interesting to note that how
-sound track is often as complicated as
-dialogue is used and the very amount of
-the image on the screen, and is ultimately
-dialogue used varies widely among films.
-just as much the responsibility of the
-For example, in the highly successful
-director. The entire sound track consists
-science-fiction film 2001, little dialogue
-of three essential ingredients: the human
-was evident, and most of it was banal
-voice, sound effects and music. These
-and of little intrinsic interest. In this
-three tracks must be mixed and balanced
-way the film-maker was able to portray
-so as to produce the necessary emphases
-what Thomas Sobochack and Vivian
-which in turn create desired effects.
-Sobochack call, in An Introduction to Film,
-Topics which essentially refer to the
-the 'inadequacy of human responses
-three previously mentioned tracks are
-when compared with the magnificent
-discussed below. They include dialogue,
-technology created by man and the visual
-synchronous and asynchronous sound
-beauties of the universe'.
-effects, and music.
-The comedy Bringing Up Baby, on the
-Let us start with dialogue. As is the case
-other hand, presents practically non-stop
-with stage drama, dialogue serves to
-dialogue delivered at breakneck speed.
-tell the story and expresses feelings and
-This use of dialogue underscores not
-motivations of characters as well. Often
-only the dizzy quality of the character
-with film characterization the audience
-played by Katherine Hepburn, but also
-perceives little or no difference between
-the absurdity of the film itself and thus its
-the character and the actor. Thus, for
-humor. The audience is bounced from gag
-example, the actor Humphrey Bogart is
-to gag and conversation to conversation;
-the character Sam Spade; film personality
-there is no time for audience reflection.
-and life personality seem to merge.
-The audience is caught up in a whirlwind
-Perhaps this is because the very texture of
-of activity in simply managing to follow
-a performer's voice supplies an element
-the plot. This film presents pure escapism
-of character.
-largely due to its frenetic dialogue.
-When voice textures fit the performer's
-Synchronous sound effects are those
-physiognomy and gestures, a whole
-sounds which are synchronized or
+Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music.
+Let us start with dialogue. As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well. Often with film characterization the audience perceives little or no difference between the character and the actor. Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge. Perhaps this is because the very texture of a performer’s voice supplies an element of character.
+When voice textures fit the performer’s physiognomy and gestures, a whole and very realistic persona emerges. The viewer sees not an actor working at his craft, but another human being struggling with life. It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films. For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the ‘inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe’.
+The comedy Bringing Up Baby, on the other hand, presents practically non-stop dialogue delivered at breakneck speed. This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor. The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection. The audience is caught up in a whirlwind of activity in simply managing to follow the plot. This film presents pure escapism – largely due to its frenetic dialogue.
+Synchronous sound effects are those sounds which are synchronized or
 91
 
 ## Page 90
 
 Test 4
-matched with what is viewed. For
-We are probably all familiar with
-example, if the film portrays a character
-background music in films, which has
-playing the piano, the sounds of the
-become so ubiquitous as to be noticeable
-piano are projected. Synchronous sounds
-in its absence. We are aware that it is used
-contribute to the realism of film and also
-to add emotion and rhythm. Usually not
-help to create a particular atmosphere.
-meant to be noticeable, it often provides
-For example, the 'click' of a door being
-a tone or an emotional attitude toward
-opened may simply serve to convince
-the story and/or the characters depicted.
-the audience that the image portrayed
-In addition, background music often
-is real, and the audience may only
-foreshadows a change in mood. For
-subconsciously note the expected sound.
-example, dissonant music may be used in
-However, if the 'click' of an opening
-film to indicate an approaching (but not
-door is part of an ominous action such
-yetvisible) menace or disaster.
-as a burglary, the sound mixer may call
-attention to the 'click' with an increase in
-Background music may aid viewer
-volume; this helps to engage the audience
-understanding by linking scenes. For
-in a moment of suspense.
-example, a particular musical theme
-associated with an individual character
-Asynchronous sound effects, on the other
-or situation may be repeated at various
-hand, are not matched with a visible
-points in a film in order to remind the
-source of the sound on screen. Such
-audience of salient motifs or ideas.
-sounds are included so as to provide an
-appropriate emotional nuance, and they
-Film sound comprises conventions and
-may also add to the realism of the film.
-innovations. We have come to expect an
-For example, a film-maker might opt
-acceleration of music during car chases
-to include the background sound of an
-and creaky doors in horror films. Yet, it
-ambulance's siren while the foreground
-is important to note as well that sound
-sound and image portrays an arguing
-is often brilliantly conceived. The effects
-couple. The asynchronous ambulance
-of sound are often largely subtle and
-siren underscores the psychic injury
-often are noted by only our subconscious
-incurred in the argument; at the same
-minds. We need to foster an awareness of
-time the noise of the siren adds to the
-film sound as well as film space so as to
-realism of the film by acknowledging the
-truly appreciate an art form that sprang
-film's city setting.
-to life during the twentieth century - the
-modern film.
+matched with what is viewed. For example, if the film portrays a character playing the piano, the sounds of the piano are projected. Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere. For example, the ‘click’ of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound. However, if the ‘click’ of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the ‘click’ with an increase in volume; this helps to engage the audience in a moment of suspense.
+Asynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen. Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film. For example, a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple. The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting.
+We are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence. We are aware that it is used to add emotion and rhythm. Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted. In addition, background music often foreshadows a change in mood. For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster.
+Background music may aid viewer understanding by linking scenes. For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.
+Film sound comprises conventions and innovations. We have come to expect an acceleration of music during car chases and creaky doors in horror films. Yet, it is important to note as well that sound is often brilliantly conceived. The effects of sound are often largely subtle and often are noted by only our subconscious minds. We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.
 92
 
 ## Page 91
 
 Reading
-Questions 14-18
+Questions 14–18
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 14-18 on your answer sheet.
+Write the correct letter in boxes 14–18 on your answer sheet.
 14 In the first paragraph, the writer makes a point that
-A
-the director should plan the sound track at an early stage in filming.
-B
-it would be wrong to overlook the contribution of sound to the artistry of films.
-C
-the music industry can have a beneficial influence on sound in film.
-D
-it is important for those working on the sound in a film to have sole
-responsibility for it.
-15
-One reason that the writer refers to Humphrey Bogart is to exemplify
-A
-the importance of the actor and the character appearing to have similar
-personalities.
-B
-the audience's wish that actors are visually appropriate for their roles.
-C
-the value of the actor having had similar feelings to the character.
-D
-the audience's preference for dialogue to be as authentic as possible.
-16
-In the third paragraph, the writer suggests that
-A
-audiences are likely to be critical of film dialogue that does not reflect their own
-experience.
-B
-film dialogue that appears to be dull may have a specific purpose.
-C
-filmmakers vary considerably in the skill with which they handle dialogue.
-D
-the most successful films are those with dialogue of a high quality.
-7
-What does the writer suggest about Bringing Up Baby?
-A
-The plot suffers from the filmmaker's wish to focus on humorous dialogue.
-B
-The dialogue helps to make it one of the best comedy films ever produced.
-C
-There is a mismatch between the speed of the dialogue and the speed of
-actions.
-D
-The nature of the dialogue emphasises key elements of the film.
-8
-The writer refers to the 'click' of a door to make the point that realistic sounds
-A
-are often used to give the audience a false impression of events in the film.
-B
-may be interpreted in different ways by different members of the audience.
-C
-may be modified in order to manipulate the audience's response to the film.
-D
-tend to be more significant in films presenting realistic situations.
+A the director should plan the sound track at an early stage in filming.
+B it would be wrong to overlook the contribution of sound to the artistry of films.
+C the music industry can have a beneficial influence on sound in film.
+D it is important for those working on the sound in a film to have sole responsibility for it.
+15 One reason that the writer refers to Humphrey Bogart is to exemplify
+A the importance of the actor and the character appearing to have similar personalities.
+B the audience’s wish that actors are visually appropriate for their roles.
+C the value of the actor having had similar feelings to the character.
+D the audience’s preference for dialogue to be as authentic as possible.
+16 In the third paragraph, the writer suggests that
+A audiences are likely to be critical of film dialogue that does not reflect their own experience.
+B film dialogue that appears to be dull may have a specific purpose.
+C filmmakers vary considerably in the skill with which they handle dialogue.
+D the most successful films are those with dialogue of a high quality.
+17 What does the writer suggest about Bringing Up Baby?
+A The plot suffers from the filmmaker’s wish to focus on humorous dialogue.
+B The dialogue helps to make it one of the best comedy films ever produced.
+C There is a mismatch between the speed of the dialogue and the speed of actions.
+D The nature of the dialogue emphasises key elements of the film.
+18 The writer refers to the ‘click’ of a door to make the point that realistic sounds
+A are often used to give the audience a false impression of events in the film.
+B may be interpreted in different ways by different members of the audience.
+C may be modified in order to manipulate the audience’s response to the film.
+D tend to be more significant in films presenting realistic situations.
+93
 
 ## Page 92
 
 Test 4
-Questions 19-23
+Questions 19–23
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 19-23 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 19–23 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-19
-Audiences are likely to be surprised if a film lacks background music.
-20
-Background music may anticipate a development in a film.
-21
-Background music has more effect on some people than on others.
-22
-Background music may help the audience to make certain connections within
-the film.
-23
-Audiences tend to be aware of how the background music is affecting them.
+19 Audiences are likely to be surprised if a film lacks background music.
+20 Background music may anticipate a development in a film.
+21 Background music has more effect on some people than on others.
+22 Background music may help the audience to make certain connections within the film.
+23 Audiences tend to be aware of how the background music is affecting them.
 94
 
 ## Page 93
 
 Reading
-Questions 24-26
-Complete each sentence with the correct ending, A-E, below.
-Write the correct letter, A-E, in boxes 24-26 on your answer sheet.
-24
-The audience's response to different parts of a film can be controlled
-25
-The feelings and motivations of characters become clear
-26
-A character seems to be a real person rather than an actor
-A
-when the audience listens to the dialogue.
-B
-if the film reflects the audience's own concerns.
-C
-if voice, sound and music are combined appropriately.
-D
-when the director is aware of how the audience will respond.
-E
-when the actor's appearance, voice and moves are
-consistent with each other.
+Questions 24–26
+Complete each sentence with the correct ending, A–E, below.
+Write the correct letter, A–E, in boxes 24–26 on your answer sheet.
+24 The audience’s response to different parts of a film can be controlled
+25 The feelings and motivations of characters become clear
+26 A character seems to be a real person rather than an actor
+A when the audience listens to the dialogue.
+B if the film reflects the audience’s own concerns.
+C if voice, sound and music are combined appropriately.
+D when the director is aware of how the audience will respond.
+E when the actor’s appearance, voice and moves are consistent with each other.
 95
 
 ## Page 94
 
 Test 4
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on the following pages.
-Questions 27-32
-Reading Passage 3 has six paragraphs, A-F.
-Choose the correct heading for paragraphs A-F from the list of headings below.
-Write the correct number, i-vii, in boxes 27-32 on your answer sheet.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.
+Questions 27–32
+Reading Passage 3 has six paragraphs, A–F.
+Choose the correct heading for paragraphs A–F from the list of headings below.
+Write the correct number, i–vii, in boxes 27–32 on your answer sheet.
 List of Headings
-i
-Differences between languages highlight their impressiveness
-ii
-The way in which a few sounds are organised to convey a huge
-range of meaning
-iii
-Why the sounds used in different languages are not identical
-iv
-Apparently incompatible characteristics of language
-V
-Even silence can be meaningful
-vi
-Why language is the most important invention of all
-vii
-The universal ability to use language
-27
-Paragraph A
-28
-Paragraph B
-29
-Paragraph C
-30
-Paragraph D
-31
-Paragraph E
-32
-Paragraph F
+i Differences between languages highlight their impressiveness
+ii The way in which a few sounds are organised to convey a huge range of meaning
+iii Why the sounds used in different languages are not identical
+iv Apparently incompatible characteristics of language
+v Even silence can be meaningful
+vi Why language is the most important invention of all
+vii The universal ability to use language
+27 Paragraph A
+28 Paragraph B
+29 Paragraph C
+30 Paragraph D
+31 Paragraph E
+32 Paragraph F
 96
 
 ## Page 95
 
 Reading
-'This Marvellous Invention'
+‘This Marvellous Invention’
 A
-Of all mankind's manifold creations, language must take pride of place. Other inventions -
-the wheel, agriculture, sliced bread - may have transformed our material existence, but the
-advent of language is what made us human. Compared to language, all other inventions pale
-in significance, since everything we have ever achieved depends on language and originates
-from it. Without language, we could never have embarked on our ascent to unparalleled
-power over all other animals, and even over nature itself.
+Of all mankind’s manifold creations, language must take pride of place. Other inventions – the wheel, agriculture, sliced bread – may have transformed our material existence, but the advent of language is what made us human. Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it. Without language, we could never have embarked on our ascent to unparalleled power over all other animals, and even over nature itself.
 B
-But language is foremost not just because it came first. In its own right it is a tool of
-extraordinary sophistication, yet based on an idea of ingenious simplicity: 'this marvellous
-invention of composing out of twenty-five or thirty sounds that infinite variety of
-expressions which, whilst having in themselves no likeness to what is in our mind, allow
-us to disclose to others its whole secret, and to make known to those who cannot penetrate
-it all that we imagine, and all the various stirrings of our soul. This was how, in 1660,
-the renowned French grammarians of the Port-Royal abbey near Versailles distilled the
-essence of language, and no one since has celebrated more eloquently the magnitude of its
-achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to
-language's unique accomplishment conceals a simple yet critical incongruity. Language is
-mankind's greatest invention - except, of course, that it was never invented. This apparent
-paradox is at the core of our fascination with language, and it holds many of its secrets.
+But language is foremost not just because it came first. In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul.’ This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to language’s unique accomplishment conceals a simple yet critical incongruity. Language is mankind’s greatest invention – except, of course, that it was never invented. This apparent paradox is at the core of our fascination with language, and it holds many of its secrets.
 C
-Language often seems so skillfully drafted that one can hardly imagine it as anything other
-than the perfected handiwork of a master craftsman. How else could this instrument
-make so much out of barely three dozen measly morsels of sound? In themselves, these
-configurations of mouth - p,f,b,v,t,d,k,g,sh,a,e and so on - amount to nothing more than a
-few haphazard spits and splutters, random noises with no meaning, no ability to express,
-no power to explain. But run them through the cogs and wheels of the language machine,
-let it arrange them in some very special orders, and there is nothing that these meaningless
-streams of air cannot do: from sighing the interminable boredom of existence to unravelling
-the fundamental order of the universe.
+Language often seems so skillfully drafted that one can hardly imagine it as anything other than the perfected handiwork of a master craftsman. How else could this instrument make so much out of barely three dozen measly morsels of sound? In themselves, these configurations of mouth – p,f,b,v,t,d,k,g,sh,a,e and so on – amount to nothing more than a few haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain. But run them through the cogs and wheels of the language machine, let it arrange them in some very special orders, and there is nothing that these meaningless streams of air cannot do: from sighing the interminable boredom of existence to unravelling the fundamental order of the universe.
 D
-The most extraordinary thing about language, however, is that one doesn't have to be a
-genius to set its wheels in motion. The language machine allows just about everybody -
-from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the
-suburban sprawl - to tie these meaningless sounds together into an infinite variety of subtle
-senses, and all apparently without the slightest exertion. Yet it is precisely this deceptive ease
-which makes language a victim of its own success, since in everyday life its triumphs are
-usually taken for granted. The wheels of language run so smoothly that one rarely bothers to
-stop and think about all the resourcefulness and expertise that must have gone into making
-it tick. Language conceals art.
+The most extraordinary thing about language, however, is that one doesn’t have to be a genius to set its wheels in motion. The language machine allows just about everybody – from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the suburban sprawl – to tie these meaningless sounds together into an infinite variety of subtle senses, and all apparently without the slightest exertion. Yet it is precisely this deceptive ease which makes language a victim of its own success, since in everyday life its triumphs are usually taken for granted. The wheels of language run so smoothly that one rarely bothers to stop and think about all the resourcefulness and expertise that must have gone into making it tick. Language conceals art.
+97
 
 ## Page 96
 
 Test 4
 E
-Often, it is only the estrangement of foreign tongues, with their many exotic and outlandish
-features, that brings home the wonder of language's design. One of the showiest stunts that
-some languages can pull off is an ability to build up words of breath-breaking length, and
-thus express in one word what English takes a whole sentence to say. The Turkish word
-sehirlilitiremediklerimizdensiniz, to take one example, means nothing less than 'you are
-one of those whom we can't turn into a town-dweller' (In case you were wondering, this
-monstrosity really is one word, not merely many different words squashed together - most of
-its components cannot even stand up on their own.)
+Often, it is only the estrangement of foreign tongues, with their many exotic and outlandish features, that brings home the wonder of language’s design. One of the showiest stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say. The Turkish word şehirlileştiremediklerimizdensiniz, to take one example, means nothing less than ‘you are one of those whom we can’t turn into a town-dweller’. (In case you were wondering, this monstrosity really is one word, not merely many different words squashed together – most of its components cannot even stand up on their own.)
 F
-And if that sounds like some one-off freak, then consider Sumerian, the language spoken
-on the banks of the Euphrates some 5,000 years ago by the people who invented writing
-and thus enabled the documentation of history. A Sumerian word like munintuma'a ("when
-he had made it suitable for her') might seem rather trim compared to the Turkish colossus
-above. What is so impressive about it, however, is not its lengthiness but rather the reverse
-- the thrifty compactness of its construction. The word is made up of different slots, each
-corresponding to a particular portion of meaning. This sleek design allows single sounds
-to convey useful information, and in fact even the absence of a sound has been enlisted to
-express something specific. If you were to ask which bit in the Sumerian word corresponds
-to the pronoun 'it' in the English translation 'when he had made it suitable for her', then the
-answer would have to be nothing. Mind you, a very particular kind of nothing: the nothing
-that stands in the empty slot in the middle. The technology is so fine-tuned then that even a
-non-sound, when carefully placed in a particular position, has been invested with a specific
-function. Who could possibly have come up with such a nifty contraption?
+And if that sounds like some one-off freak, then consider Sumerian, the language spoken on the banks of the Euphrates some 5,000 years ago by the people who invented writing and thus enabled the documentation of history. A Sumerian word like munintuma’a (‘when he had made it suitable for her’) might seem rather trim compared to the Turkish colossus above. What is so impressive about it, however, is not its lengthiness but rather the reverse – the thrifty compactness of its construction. The word is made up of different slots, each corresponding to a particular portion of meaning. This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific. If you were to ask which bit in the Sumerian word corresponds to the pronoun ‘it’ in the English translation ‘when he had made it suitable for her’, then the answer would have to be nothing. Mind you, a very particular kind of nothing: the nothing that stands in the empty slot in the middle. The technology is so fine-tuned then that even a non-sound, when carefully placed in a particular position, has been invested with a specific function. Who could possibly have come up with such a nifty contraption?
 98
 
 ## Page 97
 
 Reading
-Questions 33-36
-Complete the summary using the list of words, A-G, below.
-Write the correct letter, A-G, in boxes 33—36 on your answer sheet.
+Questions 33–36
+Complete the summary using the list of words, A–G, below.
+Write the correct letter, A–G, in boxes 33–36 on your answer sheet.
 The importance of language
-The wheel is one invention that has had a major impact on 33
-aspects of
-life, but no impact has been as 34
-as that of language. Language is very
-35
-, yet composed of just a small number of sounds.
-Language appears to be 36
-to use. However, its sophistication is often
-overlooked.
-A
-difficult
-B
-complex
-C
-original
-D
-admired
-E
-material
-F
-easy
-G
-fundamental
-Questions 37-40
+The wheel is one invention that has had a major impact on 33 __________ aspects of life, but no impact has been as 34 __________ as that of language. Language is very 35 __________, yet composed of just a small number of sounds.
+Language appears to be 36 __________ to use. However, its sophistication is often overlooked.
+A difficult
+B complex
+C original
+D admired
+E material
+F easy
+G fundamental
+Questions 37–40
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
-YES
-if the statement agrees with the views of the writer
-NO
-if the statement contradicts the views of the writer
+In boxes 37–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-37
-Human beings might have achieved their present position without language.
-38
-The Port-Royal grammarians did justice to the nature of language.
-39
-A complex idea can be explained more clearly in a sentence than in a single word.
-40
-The Sumerians were responsible for starting the recording of events.
+37 Human beings might have achieved their present position without language.
+38 The Port-Royal grammarians did justice to the nature of language.
+39 A complex idea can be explained more clearly in a sentence than in a single word.
+40 The Sumerians were responsible for starting the recording of events.
 99
 
 ## Page 98
@@ -4917,111 +4513,51 @@ scores acceptable.
 
 READING
 Reading Passage 1,
-20
-TRUE
-21
-Questions 1-13
-TRUE
-22
-NOT GIVEN
-1
-FALSE
-23
-TRUE
-NM4
-NOT GIVEN
-24
-FALSE
-NOT GIVEN
-25
-C
-TRUE
-26
-A
-5
-A
-6
-C
-Reading Passage 3,
-7
-B
-Questions27-40
-8
-A
-9
-A
-27
-vi
-10
-D
-28
-iv
-11
-B
-29
-ii
-12
-E
-30
-vii
-13
-F
-31
-i
-32
-V
+Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 NOT GIVEN
+4 TRUE
+5 A
+6 C
+7 B
+8 A
+9 A
+10 D
+11 B
+12 E
+13 F
 Reading Passage 2,
-33
-E
-34
-Questions 14-26
-G
-35
-B
-14
-B
-36
-F
-15
-A
-37
-NO
-16
-B
-38
-YES
-17
-D
-39
-NOT GIVEN
-18
-C
-40
-YES
-19
-D
-If you score ...
-0-12
-13-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+Questions 14–26
+14 B
+15 A
+16 B
+17 D
+18 C
+19 D
+20 TRUE
+21 TRUE
+22 NOT GIVEN
+23 TRUE
+24 FALSE
+25 C
+26 A
+Reading Passage 3,
+Questions 27–40
+27 vi
+28 iv
+29 ii
+30 vii
+31 i
+32 v
+33 E
+34 G
+35 B
+36 F
+37 NO
+38 YES
+39 NOT GIVEN
+40 YES
 131
 
 ## Page 130

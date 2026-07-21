@@ -1,0 +1,240 @@
+{
+  "book": 11,
+  "test": 4,
+  "passage": 2,
+  "status": "manually_calibrated",
+  "title": "An Introduction to Film Sound",
+  "overallInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+  "sourcePages": [89, 90, 91, 92, 93],
+  "answerKeyPage": 129,
+  "paragraphs": [
+    {
+      "number": 1,
+      "sentences": [
+        "Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound.",
+        "A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director.",
+        "The entire sound track consists of three essential ingredients: the human voice, sound effects and music.",
+        "These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects.",
+        "Topics which essentially refer to the three previously mentioned tracks are discussed below.",
+        "They include dialogue, synchronous and asynchronous sound effects, and music."
+      ]
+    },
+    {
+      "number": 2,
+      "sentences": [
+        "Let us start with dialogue.",
+        "As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well.",
+        "Often with film characterization the audience perceives little or no difference between the character and the actor.",
+        "Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge.",
+        "Perhaps this is because the very texture of a performer’s voice supplies an element of character."
+      ]
+    },
+    {
+      "number": 3,
+      "sentences": [
+        "When voice textures fit the performer’s physiognomy and gestures, a whole and very realistic persona emerges.",
+        "The viewer sees not an actor working at his craft, but another human being struggling with life.",
+        "It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films.",
+        "For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest.",
+        "In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the ‘inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe’."
+      ]
+    },
+    {
+      "number": 4,
+      "sentences": [
+        "The comedy Bringing Up Baby, on the other hand, presents practically non-stop dialogue delivered at breakneck speed.",
+        "This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor.",
+        "The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection.",
+        "The audience is caught up in a whirlwind of activity in simply managing to follow the plot.",
+        "This film presents pure escapism – largely due to its frenetic dialogue."
+      ]
+    },
+    {
+      "number": 5,
+      "sentences": [
+        "Synchronous sound effects are those sounds which are synchronized or matched with what is viewed.",
+        "For example, if the film portrays a character playing the piano, the sounds of the piano are projected.",
+        "Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere.",
+        "For example, the ‘click’ of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound.",
+        "However, if the ‘click’ of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the ‘click’ with an increase in volume; this helps to engage the audience in a moment of suspense."
+      ]
+    },
+    {
+      "number": 6,
+      "sentences": [
+        "Asynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen.",
+        "Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film.",
+        "For example, a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple.",
+        "The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting."
+      ]
+    },
+    {
+      "number": 7,
+      "sentences": [
+        "We are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence.",
+        "We are aware that it is used to add emotion and rhythm.",
+        "Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted.",
+        "In addition, background music often foreshadows a change in mood.",
+        "For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster."
+      ]
+    },
+    {
+      "number": 8,
+      "sentences": [
+        "Background music may aid viewer understanding by linking scenes.",
+        "For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas."
+      ]
+    },
+    {
+      "number": 9,
+      "sentences": [
+        "Film sound comprises conventions and innovations.",
+        "We have come to expect an acceleration of music during car chases and creaky doors in horror films.",
+        "Yet, it is important to note as well that sound is often brilliantly conceived.",
+        "The effects of sound are often largely subtle and often are noted by only our subconscious minds.",
+        "We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film."
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "14–18",
+      "type": "multiple_choice",
+      "title": "Multiple choice",
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 14–18 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "prompt": "In the first paragraph, the writer makes a point that",
+          "options": [
+            {"label": "A", "text": "the director should plan the sound track at an early stage in filming."},
+            {"label": "B", "text": "it would be wrong to overlook the contribution of sound to the artistry of films."},
+            {"label": "C", "text": "the music industry can have a beneficial influence on sound in film."},
+            {"label": "D", "text": "it is important for those working on the sound in a film to have sole responsibility for it."}
+          ],
+          "answer": "B",
+          "acceptableAnswers": ["B"],
+          "evidence": "we really cannot afford to underestimate the importance of film sound",
+          "location": "Sentence 1",
+          "distractorRationale": "A adds timing that is not stated; C invents the music industry; D contradicts the director's responsibility and adds sole responsibility. B paraphrases cannot afford to underestimate as wrong to overlook."
+        },
+        {
+          "number": 15,
+          "prompt": "One reason that the writer refers to Humphrey Bogart is to exemplify",
+          "options": [
+            {"label": "A", "text": "the importance of the actor and the character appearing to have similar personalities."},
+            {"label": "B", "text": "the audience’s wish that actors are visually appropriate for their roles."},
+            {"label": "C", "text": "the value of the actor having had similar feelings to the character."},
+            {"label": "D", "text": "the audience’s preference for dialogue to be as authentic as possible."}
+          ],
+          "answer": "A",
+          "acceptableAnswers": ["A"],
+          "evidence": "film personality and life personality seem to merge",
+          "location": "Sentences 9–10",
+          "distractorRationale": "The example concerns perceived identity between actor and character, not visual casting wishes, shared experiences, or dialogue authenticity."
+        },
+        {
+          "number": 16,
+          "prompt": "In the third paragraph, the writer suggests that",
+          "options": [
+            {"label": "A", "text": "audiences are likely to be critical of film dialogue that does not reflect their own experience."},
+            {"label": "B", "text": "film dialogue that appears to be dull may have a specific purpose."},
+            {"label": "C", "text": "filmmakers vary considerably in the skill with which they handle dialogue."},
+            {"label": "D", "text": "the most successful films are those with dialogue of a high quality."}
+          ],
+          "answer": "B",
+          "acceptableAnswers": ["B"],
+          "evidence": "most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray ... the ‘inadequacy of human responses’",
+          "location": "Sentences 15–16",
+          "distractorRationale": "B captures the deliberate function of banal dialogue. A is unstated, C changes variation in amount/use into variation in skill, and D is contradicted by the successful film's banal dialogue."
+        },
+        {
+          "number": 17,
+          "prompt": "What does the writer suggest about Bringing Up Baby?",
+          "options": [
+            {"label": "A", "text": "The plot suffers from the filmmaker’s wish to focus on humorous dialogue."},
+            {"label": "B", "text": "The dialogue helps to make it one of the best comedy films ever produced."},
+            {"label": "C", "text": "There is a mismatch between the speed of the dialogue and the speed of actions."},
+            {"label": "D", "text": "The nature of the dialogue emphasises key elements of the film."}
+          ],
+          "answer": "D",
+          "acceptableAnswers": ["D"],
+          "evidence": "This use of dialogue underscores not only the dizzy quality of the character ... but also the absurdity of the film itself and thus its humor.",
+          "location": "Sentences 17–18",
+          "distractorRationale": "D directly paraphrases underscores the character, absurdity and humor. A, B and C introduce judgments or comparisons absent from the passage."
+        },
+        {
+          "number": 18,
+          "prompt": "The writer refers to the ‘click’ of a door to make the point that realistic sounds",
+          "options": [
+            {"label": "A", "text": "are often used to give the audience a false impression of events in the film."},
+            {"label": "B", "text": "may be interpreted in different ways by different members of the audience."},
+            {"label": "C", "text": "may be modified in order to manipulate the audience’s response to the film."},
+            {"label": "D", "text": "tend to be more significant in films presenting realistic situations."}
+          ],
+          "answer": "C",
+          "acceptableAnswers": ["C"],
+          "evidence": "the sound mixer may call attention to the ‘click’ with an increase in volume; this helps to engage the audience in a moment of suspense",
+          "location": "Sentences 25–26",
+          "distractorRationale": "C matches increasing volume to guide suspense. A says false impression, B invents audience differences, and D makes an unsupported genre comparison."
+        }
+      ]
+    },
+    {
+      "range": "19–23",
+      "type": "true_false_not_given",
+      "title": "TRUE / FALSE / NOT GIVEN",
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 2?",
+        "In boxes 19–23 on your answer sheet, write",
+        "TRUE if the statement agrees with the information",
+        "FALSE if the statement contradicts the information",
+        "NOT GIVEN if there is no information on this"
+      ],
+      "labels": ["TRUE", "FALSE", "NOT GIVEN"],
+      "questions": [
+        {"number": 19, "prompt": "Audiences are likely to be surprised if a film lacks background music.", "answer": "D", "acceptableAnswers": ["D"], "evidence": "background music in films ... has become so ubiquitous as to be noticeable in its absence", "location": "Sentence 31", "distractorRationale": "The evidence would ordinarily support TRUE, but the official answer page prints D, which is not one of this question type’s labels. D is retained verbatim under the non-speculative calibration rule."},
+        {"number": 20, "prompt": "Background music may anticipate a development in a film.", "answer": "TRUE", "acceptableAnswers": ["TRUE"], "evidence": "background music often foreshadows a change in mood", "location": "Sentence 34", "distractorRationale": "Foreshadows directly paraphrases anticipate; FALSE contradicts the sentence and NOT GIVEN ignores explicit information."},
+        {"number": 21, "prompt": "Background music has more effect on some people than on others.", "answer": "TRUE", "acceptableAnswers": ["TRUE"], "evidence": "The passage describes background music’s effects but gives no comparison between different people.", "location": "Sentences 31–37", "distractorRationale": "The text would ordinarily indicate NOT GIVEN because it does not compare people, but the official answer page prints TRUE; the printed key is retained verbatim."},
+        {"number": 22, "prompt": "Background music may help the audience to make certain connections within the film.", "answer": "NOT GIVEN", "acceptableAnswers": ["NOT GIVEN"], "evidence": "Background music may aid viewer understanding by linking scenes.", "location": "Sentences 36–37", "distractorRationale": "The evidence would ordinarily support TRUE because linking scenes is making connections, but the official answer page prints NOT GIVEN; the printed key is retained verbatim."},
+        {"number": 23, "prompt": "Audiences tend to be aware of how the background music is affecting them.", "answer": "TRUE", "acceptableAnswers": ["TRUE"], "evidence": "Usually not meant to be noticeable ... The effects of sound are ... noted by only our subconscious minds.", "location": "Sentences 33 and 41", "distractorRationale": "The evidence would ordinarily support FALSE because the effect is subtle and subconscious, but the official answer page prints TRUE; the printed key is retained verbatim."}
+      ]
+    },
+    {
+      "range": "24–26",
+      "type": "sentence_endings",
+      "title": "Matching sentence endings",
+      "instructions": [
+        "Complete each sentence with the correct ending, A–E, below.",
+        "Write the correct letter, A–E, in boxes 24–26 on your answer sheet."
+      ],
+      "options": [
+        {"label": "A", "text": "when the audience listens to the dialogue."},
+        {"label": "B", "text": "if the film reflects the audience’s own concerns."},
+        {"label": "C", "text": "if voice, sound and music are combined appropriately."},
+        {"label": "D", "text": "when the director is aware of how the audience will respond."},
+        {"label": "E", "text": "when the actor’s appearance, voice and moves are consistent with each other."}
+      ],
+      "questions": [
+        {"number": 24, "prompt": "The audience’s response to different parts of a film can be controlled", "answer": "FALSE", "acceptableAnswers": ["FALSE"], "evidence": "These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects.", "location": "Sentence 4", "distractorRationale": "The evidence ordinarily points to ending C, but the official answer page prints FALSE, which is not an A–E ending. FALSE is retained verbatim; no inferred variant is added."},
+        {"number": 25, "prompt": "The feelings and motivations of characters become clear", "answer": "C", "acceptableAnswers": ["C"], "evidence": "dialogue serves to tell the story and expresses feelings and motivations of characters as well", "location": "Sentence 8", "distractorRationale": "The evidence ordinarily points to A, not C; nevertheless the official answer page prints C and is retained verbatim. B, D and E do not state the dialogue function described here."},
+        {"number": 26, "prompt": "A character seems to be a real person rather than an actor", "answer": "A", "acceptableAnswers": ["A"], "evidence": "When voice textures fit the performer’s physiognomy and gestures, a whole and very realistic persona emerges.", "location": "Sentence 12", "distractorRationale": "The evidence ordinarily points to E because appearance, voice and gestures fit; the official answer page prints A and is retained verbatim. No inferred answer is accepted."}
+      ]
+    }
+  ],
+  "officialAnswers": {
+    "14": "B", "15": "A", "16": "B", "17": "D", "18": "C", "19": "D", "20": "TRUE", "21": "TRUE", "22": "NOT GIVEN", "23": "TRUE", "24": "FALSE", "25": "C", "26": "A"
+  },
+  "answerKeyAnomaly": "The official answer page prints Q19=D and Q24=FALSE despite the visible question-type labels, and the subsequent printed answers conflict with the evidence pattern. All official values are retained verbatim; no inferred correction is accepted.",
+  "pageTexts": {
+    "89": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nAn Introduction to Film Sound\nThough we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music.\nLet us start with dialogue. As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well. Often with film characterization the audience perceives little or no difference between the character and the actor. Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge. Perhaps this is because the very texture of a performer’s voice supplies an element of character.\nWhen voice textures fit the performer’s physiognomy and gestures, a whole and very realistic persona emerges. The viewer sees not an actor working at his craft, but another human being struggling with life. It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films. For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the ‘inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe’.\nThe comedy Bringing Up Baby, on the other hand, presents practically non-stop dialogue delivered at breakneck speed. This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor. The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection. The audience is caught up in a whirlwind of activity in simply managing to follow the plot. This film presents pure escapism – largely due to its frenetic dialogue.\nSynchronous sound effects are those sounds which are synchronized or\n91",
+    "90": "Test 4\nmatched with what is viewed. For example, if the film portrays a character playing the piano, the sounds of the piano are projected. Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere. For example, the ‘click’ of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound. However, if the ‘click’ of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the ‘click’ with an increase in volume; this helps to engage the audience in a moment of suspense.\nAsynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen. Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film. For example, a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple. The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting.\nWe are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence. We are aware that it is used to add emotion and rhythm. Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted. In addition, background music often foreshadows a change in mood. For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster.\nBackground music may aid viewer understanding by linking scenes. For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.\nFilm sound comprises conventions and innovations. We have come to expect an acceleration of music during car chases and creaky doors in horror films. Yet, it is important to note as well that sound is often brilliantly conceived. The effects of sound are often largely subtle and often are noted by only our subconscious minds. We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.\n92",
+    "91": "Reading\nQuestions 14–18\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 14–18 on your answer sheet.\n14 In the first paragraph, the writer makes a point that\nA the director should plan the sound track at an early stage in filming.\nB it would be wrong to overlook the contribution of sound to the artistry of films.\nC the music industry can have a beneficial influence on sound in film.\nD it is important for those working on the sound in a film to have sole responsibility for it.\n15 One reason that the writer refers to Humphrey Bogart is to exemplify\nA the importance of the actor and the character appearing to have similar personalities.\nB the audience’s wish that actors are visually appropriate for their roles.\nC the value of the actor having had similar feelings to the character.\nD the audience’s preference for dialogue to be as authentic as possible.\n16 In the third paragraph, the writer suggests that\nA audiences are likely to be critical of film dialogue that does not reflect their own experience.\nB film dialogue that appears to be dull may have a specific purpose.\nC filmmakers vary considerably in the skill with which they handle dialogue.\nD the most successful films are those with dialogue of a high quality.\n17 What does the writer suggest about Bringing Up Baby?\nA The plot suffers from the filmmaker’s wish to focus on humorous dialogue.\nB The dialogue helps to make it one of the best comedy films ever produced.\nC There is a mismatch between the speed of the dialogue and the speed of actions.\nD The nature of the dialogue emphasises key elements of the film.\n18 The writer refers to the ‘click’ of a door to make the point that realistic sounds\nA are often used to give the audience a false impression of events in the film.\nB may be interpreted in different ways by different members of the audience.\nC may be modified in order to manipulate the audience’s response to the film.\nD tend to be more significant in films presenting realistic situations.\n93",
+    "92": "Test 4\nQuestions 19–23\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 19–23 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n19 Audiences are likely to be surprised if a film lacks background music.\n20 Background music may anticipate a development in a film.\n21 Background music has more effect on some people than on others.\n22 Background music may help the audience to make certain connections within the film.\n23 Audiences tend to be aware of how the background music is affecting them.\n94",
+    "93": "Reading\nQuestions 24–26\nComplete each sentence with the correct ending, A–E, below.\nWrite the correct letter, A–E, in boxes 24–26 on your answer sheet.\n24 The audience’s response to different parts of a film can be controlled\n25 The feelings and motivations of characters become clear\n26 A character seems to be a real person rather than an actor\nA when the audience listens to the dialogue.\nB if the film reflects the audience’s own concerns.\nC if voice, sound and music are combined appropriately.\nD when the director is aware of how the audience will respond.\nE when the actor’s appearance, voice and moves are consistent with each other.\n95",
+    "129": "READING\nReading Passage 2,\nQuestions 14–26\n14 B\n15 A\n16 B\n17 D\n18 C\n19 D\n20 TRUE\n21 TRUE\n22 NOT GIVEN\n23 TRUE\n24 FALSE\n25 C\n26 A\n131"
+  }
+}
