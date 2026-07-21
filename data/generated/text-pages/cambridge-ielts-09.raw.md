@@ -170,7 +170,6 @@ At the time of Perkin’s enrolment, the Royal College of Chemistry was headed
 by the noted German chemist August Wilhelm Hofmann. Perkin’s scientific gifts soon
 caught Hofmann’s attention and, within two years, he became Hofmann’s youngest
 assistant. Not long after that, Perkin made the scientific breakthrough that would bring
-
 ## Page 8
 
 him both fame and fortune.
@@ -195,7 +194,6 @@ was once so costly that in society at the time only the rich could afford it. Fu
 natural dyes tend to be muddy in hue and fade quickly. It was against this backdrop
 that Perkin’s discovery was made.
 Perkin quickly grasped that his purple solution could be used to colour fabric,
-
 ## Page 9
 
 thus making it the world’s first synthetic dye. Realising the importance of this
@@ -220,7 +218,6 @@ fast, and the public clamoured for more. Perkin went back to the drawing board.
 Although Perkin’s fame was achieved and fortune assured by his first discovery,
 the chemist continued his research. Among other dyes he developed and introduced
 were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin’s
-
 ## Page 10
 
 synthetic dye discoveries had outcomes far beyond the merely decorative. The dyes
@@ -233,7 +230,7 @@ Questions 1-7
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—7 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 1 Michael Faraday was the first person to recognize Perkin’s ability as a student of
 chemistry.
@@ -245,7 +242,6 @@ famous.
 5 The trees from which quinine is derived grow only in South America.
 6 Perkin hoped to manufacture a drug from a coal tar waste product.
 7 Perkin was inspired by the discoveries of the famous scientist Louis Pasteur.
-
 ## Page 11
 
 Questions 8-13
@@ -261,16 +257,15 @@ dye works?
 12 In what county did Perkin’s newly invented colour first become fashionable?
 13 According to the passage, which disease is now being targeted by researchers
 using synthetic dyes?
-
 ## Page 12
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Questions 14—26, which are based on
 Reading Passage 2 on the following pages.
-Questions 14-17
+Questions 14—17
 Reading Passage 2 has five paragraphs, A—E.
 Choose the correct heading for paragraphs B—E from the list of headings below.
-Write the correct number, ⅰ—ⅶ, in boxes 14-17 in your answer sheet.
+Write the correct number, i—vii, in boxes 14-17 in your answer sheet.
 List of Headings
 i. Seeking the transmission of radio signals from planets
 ii. Appropriate responses to signals from other civilisations
@@ -280,12 +275,11 @@ v. Reasons for the search for extra-terrestrial intelligence
 vi. Knowledge of extra terrestrial life forms
 vii. Likelihood of life on other planets
 Example Answer
-Paragraph A ⅴ
+Paragraph A v
 14 Paragraph B
 15 Paragraph C
 16 Paragraph D
 17 Paragraph E
-
 ## Page 13
 
 IS THERE ANYBODY OUT THERE?
@@ -309,7 +303,6 @@ other reasons for being interested in whether life exists elsewhere. For example
 have had civilization on Earth for perhaps only a few thousand years, and the threats
 of the nuclear war and pollution over the last few decades have told us that our
 survival may be tenuous. Will we last another two thousand years or will we wipe
-
 ## Page 14
 
 ourselves out? Since the lifetime of a planet like outs is several billion years, we can
@@ -334,7 +327,6 @@ Universe, live on a planet orbiting a star like our Sun, and perhaps most restri
 have a chemistry, like us, based on carbon and water.
 C
 Even when we make these assumptions, our understanding of other life forms is still
-
 ## Page 15
 
 severely limited. We do not even know, for example, how many stars have planets,
@@ -359,7 +351,6 @@ detections from the few hundred stars which have been searched. The scale of the
 searches has been increased dramatically since 1992, when the US Congress NASA
 110 million per year for ten years to conduct a thorough search for extra terrestrial life.
 Much of the money in this project is being spent on the developing the special
-
 ## Page 16
 
 hardware needed to search many frequencies at once. The project has two parts.
@@ -383,7 +374,6 @@ While the human race debates the question of whether to reply, and perhaps caref
 drafts a reply.
 Questions 18-20
 Answer the questions below.
-
 ## Page 17
 
 Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage
@@ -397,7 +387,7 @@ Questions 21-26
 Do the following statements agree with the information given in Reading Passage 2?
 In boxes 21—26 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 21 Alien civilization may be able to help the human race to overcome serious
 problems.
@@ -407,7 +397,6 @@ ways.
 24 So far SETI scientists have picked up radio signals from several stars.
 25 The NASA project attracted criticism from some members of Congress.
 26 If a signal from outer space is received, it will be important to respond promptly.
-
 ## Page 18
 
 READING PASSAGE 3
@@ -431,7 +420,6 @@ what the intermediates might have been like, on the way to extreme cases such as
 whales and dugongs. Whales (including the small whales we call dolphins) and
 dugongs, with their close cousins the manatees, ceased to be land creatures
 altogether and reverted to the full marine habits of their remote ancestors. They don’t
-
 ## Page 19
 
 even come ashore to breed. They do, however, still breathe air, having never
@@ -456,7 +444,6 @@ part of the triangle; all the water turtles cluster in the lower part of the tri
 There was no overlap except when they added some species that spend time both in
 water and on land. Sure enough, these amphibious species show up on the triangular
 graph approximately half way between the ‘wet cluster’ of land tortoises. The next
-
 ## Page 20
 
 step was to determine where the fossils fell. The bones of P. quenstedti and P.
@@ -479,10 +466,9 @@ primeval bacteria. Later ancestors lived on land and stayed there for a very lar
 number of generations. Later ancestors still evolved back into the water and became
 sea turtles. And finally they returned yet again to the land as tortoises, some of which
 now live in the driest of deserts.
-
 ## Page 21
 
-Questions 27-30
+Question 27-30
 Answer the questions below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 27-30 on your answer sheet.
@@ -491,22 +477,21 @@ Write your answers in boxes 27-30 on your answer sheet.
 big changes as they moved onto land?
 29 Which physical feature, possessed by their ancestors, do whales lack?
 30 Which animals might ichthyosaurs have resembled?
-Questions 31-33
+Question 31-33
 Do the following statements agree with the information given in Reading Passage 3?
 In boxes 31—33 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 31 Turtles were among the first group of animals to migrate back to the sea.
 32 It is always difficult to determine where an animal lived when its fossilized
 remains are incomplete.
 33 The habitat of ichthyosaurs can be determined by the appearance of their
 fossilized remains.
-
 ## Page 22
 
 Reading
-Questions 34-39
+Question 34-39
 Complete the flow-chart below.
 Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.
 Write your answers in boxes 34-39 on your answer sheet.
@@ -533,7 +518,6 @@ added to the other results.
 Outcome:
 The points for these species turned out to be positioned about
 38 ______________ up the triangle between the land tortoises and the sea turtles.
-
 ## Page 23
 
 Step 4
@@ -553,7 +537,6 @@ A they are able to adapt to life in extremely dry environments.
 B they original life form was a kind of primeval bacteria.
 C they have so much in common with sea turtles.
 D they have made the transition from sea to land more than once.
-
 ## Page 24
 
 WRITING
@@ -3685,7 +3668,51 @@ Now, I'd be happy to answer any questions you may have ...
 
 ## Page 148
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 FALSE
+4 TRUE
+5 NOT GIVEN
+6 TRUE
+7 NOT GIVEN
+8 (the / only) rich
+9 commercial (possibilities)
+10 mauve (was/is)
+11 (Robert) Pullar
+12 (in) France
+13 malaria (is)
+Reading Passage 2, Questions 14–26
+14 iv
+15 vii
+16 i
+17 ii
+18 several billion years
+19 radio (waves/signals)
+20 1000 (stars)
+21 YES
+22 YES
+23 NOT GIVEN
+24 NO
+25 NOT GIVEN
+26 NO
+Reading Passage 3, Questions 27–40
+27 plants
+28 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: breathing; reproduction
+29 gills
+30 dolphins
+31 NOT GIVEN
+32 FALSE
+33 TRUE
+34 3 measurements
+35 (triangular) graph
+36 cluster
+37 amphibious
+38 half way
+39 dry-land tortoises
+40 D
 ## Page 149
 
 
