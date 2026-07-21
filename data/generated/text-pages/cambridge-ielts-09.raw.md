@@ -2088,18 +2088,18 @@ of the experiments undertaken in the years around 1930.This work prepared the wa
 ## Page 96
 
 for the discovery of the neutron by Sir James Chadwick and, above all, for the
-discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity. A few
+discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity.A few
 months after this discovery, Marie Curie died as a result of leukaemia caused by
 exposure to radiation. She had often carried test tubes containing radioactive
 isotopes in her pocket, remarking on the pretty blue-green light they gave off.
 Her contribution to physics had been immense, not only in her own work, the
 importance of which had been demonstrated by her two Nobel Prizes, but because of
 her influence on subsequent generations of nuclear physicists and chemists.
-Questions 1--6
+Questions 1—6
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—6 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 1. Marie Curie’s husband was a joint winner of both Marie’s Nobel Prizes.
 2. Marie became interested in science when she was a child.
@@ -2128,10 +2128,10 @@ technique for 10……….
 research and for cases of 11……….
  The radioactive material stocked in Paris contributed to the discoveries in the
 1930s of the 12……… and of what was known as artificial radioactivity.
-READING PASSAGE 2
  During her research, Marie Curie was exposed to radiation and as a result
-You should spend about 20 minutes on Questions 14-26 which are based on
 she suffered from 13……….
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14-26 which are based on
 
 ## Page 98
 
@@ -2218,7 +2218,7 @@ before or after the tug-of-war: the children seemed to be disputing ownership
 rather than wanting to play with it. Although it may be less marked in other
 societies, the link between the sense of ‘self’ and of ‘ownership’ is a notable
 feature of childhood in Western societies.
-Questions 14-19
+Question 14-19
 Reading Passage 2 has eight paragraphs, A-H.
 Which paragraph contains the following information?
 Write the correct letter, A—H, in boxes 14-19 on your answer sheet.
@@ -2233,7 +2233,7 @@ NB You may use any letter more than once.
 
 ## Page 102
 
-Questions 20-23
+Question 20-23
 Look at the following findings (Questions 20-23) and the list of researchers below.
 Match each finding with the correct researcher or researchers. A—E.
 Write the correct letter, A—E, in boxes 20—23 on your answer sheet.
@@ -2271,18 +2271,18 @@ disputes.
 READING PASSAGE 3
 You should spend about 20 minutes on Questions 27-40, which are based on
 Reading Passage 3 on the following pages.
-Questions 27-30
+Questions 27—30
 Reading Passage 3 has six paragraphs, A—F.
 Choose the correct heading for paragraphs B—E from the list of headings below.
-Write the correct number,ⅰ—ⅶ, in boxes 27-30 in your answer sheet.
+Write the correct number, i—vii, in boxes 27-30 in your answer sheet.
 List of headings
-I. Commercial pressures on people in charge
-II. Mixed views on current changes to museums
-III. Interpreting the facts to meet visitor expectations
-IV. The international dimension
-V. Collections of factual evidence
-VI. Fewer differences between public attractions
-VII. Current reviews and suggestions
+i. Commercial pressures on people in charge
+ii. Mixed views on current changes to museums
+iii. Interpreting the facts to meet visitor expectations
+iv. The international dimension
+v. Collections of factual evidence
+vi. Fewer differences between public attractions
+vii. Current reviews and suggestions
 Example Answer
 Paragraph A v
 27 Paragraph B
@@ -2375,7 +2375,7 @@ of the upper class of that era. No wonder that people who stroll around exhibiti
 are filled with nostalgia; the evidence in museums indicates that life was so much
 better in the past. This notion is induced by the bias in its representation in
 museums and heritage centers.
-Questions 31-36
+Question 31-36
 Choose the correct letter, A, B, C or D.
 Write the correct letter in boxes 31—36 on your answer sheet.
 31. Compared with today’s museums, those of the past
@@ -2414,11 +2414,11 @@ D. museum exhibits focus too much on the local area.
 
 ## Page 110
 
-Questions 37-40
+Questions 37—40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
+In boxes 37—40 on your answer sheet, write
 TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
+FALES if the statement contradicts the information
 NOT GIVEN if there is no information on this
 37. Consumers prefer theme parks which avoid serious issues.
 38. More people visit museums than theme parks.
@@ -3813,7 +3813,51 @@ Reading Passage 3, Questions 27–40
 
 ## Page 154
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 TRUE
+4 FALSE
+5 TRUE
+6 NOT GIVEN
+7 thorium
+8 pitchblende
+9 radium
+10 soldiers
+11 illness
+12 neutron
+13 leukaemia/leukemia
+Reading Passage 2, Questions 14–26
+14 G
+15 C
+16 G
+17 D
+18 H
+19 E
+20 D
+21 B
+22 E
+23 C
+24 mirror
+25 communication
+26 ownership
+Reading Passage 3, Questions 27–40
+27 ii
+28 vi
+29 i
+30 iii
+31 B
+32 A
+33 D
+34 D
+35 C
+36 B
+37 FALSE
+38 NOT GIVEN
+39 FALSE
+40 TRUE
 ## Page 155
 
 
