@@ -2071,626 +2071,278 @@ Life expectancy could be increased.
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on
-Reading Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
+
 The megafires of California
-Drought, housing expansion, and oversupply of tinder make for
-bigger, hotter fires in the western United States
-Wildfires are becoming an increasing
-been to halt the natural eradication of
-menace in the western United States,
-underbrush, now the primary fuel for
-with Southern California being the
-megafires.
-hardest hit area. There's a reason fire
-Three other factors contribute to the
-squads battling more frequent blazes
-trend, they add. First is climate change,
-in Southern California are having such
-marked by a 1-degree Fahrenheit rise in
-difficulty containing the flames, despite
-average yearly temperature across the
-better preparedness than ever and
-western states. Second is fire seasons
-decades of experience fighting fires
-that on average are 78 days longer
-fanned by the 'Santa Ana Winds'. The
-than they were 20 years ago. Third
-wildfires themselves, experts say, are
-is increased construction of homes in
-generally hotter, faster, and spread more wooded areas.
-erratically than in the past.
-'We are increasingly building our
-Megafires, also called 'siege fires',
-homes in fire-prone ecosystems,' says
-are the increasingly frequent blazes that
-Dominik Kulakowski, adjunct professor
-burn 500,000 acres or more - 10 times
-of biology at Clark University Graduate
-the size of the average forest fire of 20
-School of Geography in Worcester,
-years ago. Some recent wildfires are
-Massachusetts. 'Doing that in many
-among the biggest ever in California in
-of the forests of the western US is like
-terms of acreage burned, according to
-building homes on the side of an active
-state figures and news reports.
-volcano.'
-One explanation for the trend to
-In California, where population
-more superhot fires is that the region,
-growth has averaged more than 600,000
-which usually has dry summers, has had
-a year for at least a decade, more
-significantly below normal precipitation
-residential housing is being built. 'What
-in many recent years. Another reason,
-once was open space is now residential
-experts say, is related to the century-
-homes providing fuel to make fires
-long policy of the US Forest Service to
-burn with greater intensity,' says Terry
-stop wildfires as quickly as possible.
-McHale of the California Department
-The unintentional consequence has
-of Forestry firefighters' union. 'With so
-88
+Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires in the western United States
+
+Wildfires are becoming an increasing menace in the western United States, with Southern California being the hardest hit area. There’s a reason fire squads battling more frequent blazes in Southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the ‘Santa Ana Winds’. The wildfires themselves, experts say, are generally hotter, faster, and spread more erratically than in the past.
+
+Megafires, also called ‘siege fires’, are the increasingly frequent blazes that burn 500,000 acres or more – 10 times the size of the average forest fire of 20 years ago. Some recent wildfires are among the biggest ever in California in terms of acreage burned, according to state figures and news reports.
+
+One explanation for the trend to more superhot fires is that the region, which usually has dry summers, has had significantly below normal precipitation in many recent years. Another reason, experts say, is related to the century-long policy of the US Forest Service to stop wildfires as quickly as possible.
+
+The unintentional consequence has been to halt the natural eradication of underbrush, now the primary fuel for megafires.
+
+Three other factors contribute to the trend, they add. First is climate change, marked by a 1-degree Fahrenheit rise in average yearly temperature across the western states. Second is fire seasons that on average are 78 days longer than they were 20 years ago. Third is increased construction of homes in wooded areas.
+
+‘We are increasingly building our homes in fire-prone ecosystems,’ says Dominik Kulakowski, adjunct professor of biology at Clark University Graduate School of Geography in Worcester, Massachusetts. ‘Doing that in many of the forests of the western US is like building homes on the side of an active volcano.’
+
+In California, where population growth has averaged more than 600,000 a year for at least a decade, more residential housing is being built. ‘What once was open space is now residential homes providing fuel to make fires burn with greater intensity,’ says Terry McHale of the California Department of Forestry firefighters’ union. ‘With so
 
 ## Page 81
 
 Reading
-much dryness, so many communities
-invested in better command-and-control
-to catch fire, so many fronts to fight, it
-facilities as well as in the strategies
-becomes an almost incredible job.'
-to run them. 'In the fire sieges of
-That said, many experts give
-earlier years, we found that other
-California high marks for making
-jurisdictions and states were willing
-progress on preparedness in recent
-to offer mutual-aid help, but we were
-years, after some of the largest fires
-not able to communicate adequately
-in state history scorched thousands
-with them,' says Kim Zagaris, chief
-of acres, burned thousands of homes,
-of the state's Office of Emergency
-and killed numerous people. Stung in
-Services Fire and Rescue Branch.
-the past by criticism of bungling that
-After a commission examined and
-allowed fires to spread when they
-revamped communications procedures,
-might have been contained, personnel
-the statewide response 'has become
-are meeting the peculiar challenges of
-far more professional and responsive,'
-neighborhood - and canyon- hopping
-he says. There is a sense among both
-fres better than previously, observers
-government officials and residents that
-say.
-the speed, dedication, and coordination
-State promises to provide more
-of firefighters from several states and
-up-to-date engines, planes, and
-jurisdictions are resulting in greater
-helicopters to fight fires have been
-efficiency than in past 'siege fire'
-fulfilled. Firefighters' unions that in
-situations.
-the past complained of dilapidated
-In recent years, the Southern
-equipment, old fire engines, and
-California region has improved building
-nsufficient blueprints for fire safety are
-codes, evacuation procedures, and
-now praising the state's commitment,
-procurement of new technology. 'I
-oting that funding for firefighting has
-am extraordinarily impressed by the
-increased, despite huge cuts in many
-improvements we have witnessed,' says
-other programs. 'We are pleased that
-Randy Jacobs, a Southern California-
-the current state administration has
-based lawyer who has had to evacuate
-been very proactive in its support of us,
-both his home and business to escape
-and [has] come through with budgetary
-wildfires. 'Notwithstanding all the
-support of the infrastructure needs we
-damage that will continue to be caused
-Lave long sought,' says Mr. McHale of
-by wildfires, we will no longer suffer the
-the firefighters' union.
-loss of life endured in the past because
-Besides providing money to upgrade
-of the fire prevention and firefighting
-the fire engines that must traverse
-measures that have been put in place,'
-the mammoth state and wind along
-he says.
-serpentine canyon roads, the state has
-89
+
+much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.’
+
+That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people. Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood- and canyon-hopping fires better than previously, observers say.
+
+State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled. Firefighters’ unions that in the past complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state’s commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs. ‘We are pleased that the current state administration has been very proactive in its support of us, and [has] come through with budgetary support of the infrastructure needs we have long sought,’ says Mr. McHale of the firefighters’ union.
+
+Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities as well as in the strategies to run them. ‘In the fire sieges of earlier years, we found that other jurisdictions and states were willing to offer mutual-aid help, but we were not able to communicate adequately with them,’ says Kim Zagaris, chief of the state’s Office of Emergency Services Fire and Rescue Branch.
+
+After a commission examined and revamped communications procedures, the statewide response ‘has become far more professional and responsive,’ he says. There is a sense among both government officials and residents that the speed, dedication, and coordination of firefighters from several states and jurisdictions are resulting in greater efficiency than in past ‘siege fire’ situations.
+
+In recent years, the Southern California region has improved building codes, evacuation procedures, and procurement of new technology. ‘I am extraordinarily impressed by the improvements we have witnessed,’ says Randy Jacobs, a Southern California-based lawyer who has had to evacuate both his home and business to escape wildfires.
+
+‘Notwithstanding all the damage that will continue to be caused by wildfires, we will no longer suffer the loss of life endured in the past because of the fire prevention and firefighting measures that have been put in place,’ he says.
 
 ## Page 82
 
 Test 4
-Questions 1-6
+Questions 1–6
 Complete the notes below.
 Choose ONE WORD AND/OR A NUMBER from the passage for each answer.
-Write your answers in boxes 1-6 on your answer sheet.
+Write your answers in boxes 1–6 on your answer sheet.
+
 Wildfires
+
 Characteristics of wildfires and wildfire conditions today compared to the past:
-occurrence: more frequent
-temperature: hotter
-speed: faster
-movement: 1
-..mo. p.ably
-size of fires: 2
-greater on average than two decades ago
+– occurrence: more frequent
+– temperature: hotter
+– speed: faster
+– movement: 1 ..................... more unpredictably
+– size of fires: 2 ..................... greater on average than two decades ago
+
 Reasons wildfires cause more damage today compared to the past:
-rainfall: 3
-average
-more brush to act as 4
-increase in yearly temperature
-extended fire 5
--
-more building of 6
-in vulnerable places
-90
+– rainfall: 3 ..................... average
+– more brush to act as 4 .....................
+– increase in yearly temperature
+– extended fire 5 .....................
+– more building of 6 ..................... in vulnerable places
 
 ## Page 83
 
 Reading
-Questions 7-13
+Questions 7–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 7-13 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-if there is no information on this
-NOT GIVEN
-7
-The amount of open space in California has diminished over the last ten years.
-8
-Many experts believe California has made little progress in readying itself to
-fight fires.
-9
-Personnel in the past have been criticised for mishandling fire containment.
-10
-California has replaced a range of firefighting tools.
-11
-More firefighters have been hired to improve fire-fighting capacity.
-Citizens and government groups disapprove of the efforts of different states and
-12
-agencies working together.
-13
-Randy Jacobs believes that loss of life from fires will continue at the same levels,
-despite changes made.
-91
+In boxes 7–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+7 The amount of open space in California has diminished over the last ten years.
+8 Many experts believe California has made little progress in readying itself to fight fires.
+9 Personnel in the past have been criticised for mishandling fire containment.
+10 California has replaced a range of firefighting tools.
+11 More firefighters have been hired to improve fire-fighting capacity.
+12 Citizens and government groups disapprove of the efforts of different states and agencies working together.
+13 Randy Jacobs believes that loss of life from fires will continue at the same levels, despite changes made.
 
 ## Page 84
 
 Test 4
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+
 Second nature
-Your personality isn't necessarily set in stone. With a little experimentation,
-people can reshape their temperaments and inject passion, optimism, joy and
-courage into their lives
-Psychologists have long held that a person's character cannot undergo a
+Your personality isn’t necessarily set in stone. With a little experimentation, people can reshape their temperaments and inject passion, optimism, joy and courage into their lives
+
 A
-transformation in any meaningful way and that the key traits of personality are
-determined at a very young age. However, researchers have begun looking more
-closely at ways we can change. Positive psychologists have identified 24 qualities
-we admire, such as loyalty and kindness, and are studying them to find out why
-they come so naturally to some people. What they're discovering is that many of
-these qualities amount to habitual behaviour that determines the way we respond
-to the world. The good news is that all this can be learned.
-Some qualities are less challenging to develop than others, optimism being one of
-them. However, developing qualities requires mastering a range of skills which are
-diverse and sometimes surprising. For example, to bring more joy and passion into
-your life, you must be open to experiencing negative emotions. Cultivating such
-qualities will help you realise your full potential.
+Psychologists have long held that a person’s character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age. However, researchers have begun looking more closely at ways we can change. Positive psychologists have identified 24 qualities we admire, such as loyalty and kindness, and are studying them to find out why they come so naturally to some people. What they’re discovering is that many of these qualities amount to habitual behaviour that determines the way we respond to the world. The good news is that all this can be learned.
+
+Some qualities are less challenging to develop than others, optimism being one of them. However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising. For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions. Cultivating such qualities will help you realise your full potential.
+
 B
-'The evidence is good that most personality traits can be altered,' says Christopher
-Peterson, professor of psychology at the University of Michigan, who cites himself
-as an example. Inherently introverted, he realised early on that as an academic,
-his reticence would prove disastrous in the lecture hall. So he learned to be
-more outgoing and to entertain his classes. 'Now my extroverted behaviour is
-spontaneous,' he says.
+‘The evidence is good that most personality traits can be altered,’ says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ‘Now my extroverted behaviour is spontaneous,’ he says.
+
 C
-David Fajgenbaum had to make a similar transition. He was preparing for
-university, when he had an accident that put an end to his sports career. On
-campus, he quickly found that beyond ordinary counsellin
-e university had no
-services for students who were undergoing physical rehabil
-ilitation and suffering
-from depression like him. He therefore launched a support
-group to help others in
-similar situations. He took action despite his own pain - a typical response of an
-optimist.
+David Fajgenbaum had to make a similar transition. He was preparing for university, when he had an accident that put an end to his sports career. On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. He therefore launched a support group to help others in similar situations. He took action despite his own pain – a typical response of an optimist.
+
 D
-Suzanne Segerstrom, professor of psychology at the University of Kentucky,
-believes that the key to increasing optimism is through cultivating optimistic
-commends you train yourself to pay
-behaviour, rather than positive thinking. She rec
-attention to good fortune by writing down three
-positive things that come about
-each day. This will help you convince yourself that favourable outcomes actually
-happen all the time, making it easier to begin taking action.
+Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.
+
 92
 
 ## Page 85
 
 Reading
-You can recognise a person who is passionate about a pursuit by the way they
-are so strongly involved in it. Tanya Streeter's passion is freediving - the sport
-of plunging deep into the water without tanks or other breathing equipment.
-Beginning in 1998, she set nine world records and can hold her breath for
-six minutes. The physical stamina required for this sport is intense but the
-psychological demands are even more overwhelming. Streeter learned to untangle
-her fears from her judgment of what her body and mind could do. 'In my career
-as a competitive freediver, there was a limit to what I could do - but it wasn't
-anywhere near what I thought it was,' she says.
-Finding a pursuit that excites you can improve anyone's life. The secret about
-consuming passions, though, according to psychologist Paul Silvia of the
-University of North Carolina, is that 'they require discipline, hard work and ability,
-which is why they are so rewarding.' Psychologist Todd Kashdan has this advice
-for those people taking up a new passion: 'As a newcomer, you also have to tolerate
-and laugh at your own ignorance. You must be willing to accept the negative
-feelings that come your way,' he says.
-In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard
-Medical School. Unfortunately, he was miserable as his research wasn't compatible
-with his curiosity about healing. He finally took a break and during eight months
-in Santa Fe, Zappaterra learned about alternative healing techniques not taught
-at Harvard. When he got back, he switched labs to study how cerebrospinal fluid
-nourishes the developing nervous system. He also vowed to look for the joy in
-everything, including failure, as this could help him learn about his research and
-himself.
-One thing that can hold joy back is a person's concentration on avoiding failure
-rather than their looking forward to doing something well. 'Fo
-ocusing on being safe
-might get in the way of your reaching your goals,' explains Kashdan. For example,
-are you hoping to get through a business lunch without embarrassing yourself, or
-are you thinking about how fascinating the conversation might be?
-Usually, we think of courage in physical terms but ordinary life demands
-something else. For marketing executive Kenneth Pedeleose, it meant speaking
-out against something he thought was ethically wrong. The new manager was
-intimidating staff so Pedeleose carefully recorded each instance of bullying and
-eventually took the evidence to a senior director, knowing his own job security
-would be threatened. Eventually the manager was the one to go. According to
-Cynthia Pury, a psychologist at Clemson University, Pedeleose's story proves the
-point that courage is not motivated by fearlessness, but by moral obligation. Pury
-also believes that people can acquire courage. Many of her students said that faced
-with a risky situation, they first tried to calm themselves down, then looked for a
-way to mitigate the danger, just as Pedeleose did by documenting his allegations.
-Over the long term, picking up a new character trait may help you move toward
-being the person you want to be. And in the short term, the effort itself could be
-surprisingly rewarding, a kind of internal adventure.
+
+E
+You can recognise a person who is passionate about a pursuit by the way they are so strongly involved in it. Tanya Streeter’s passion is freediving – the sport of plunging deep into the water without tanks or other breathing equipment. Beginning in 1998, she set nine world records and can hold her breath for six minutes. The physical stamina required for this sport is intense but the psychological demands are even more overwhelming. Streeter learned to untangle her fears from her judgment of what her body and mind could do. ‘In my career as a competitive freediver, there was a limit to what I could do – but it wasn’t anywhere near what I thought it was,’ she says.
+
+F
+Finding a pursuit that excites you can improve anyone’s life. The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that ‘they require discipline, hard work and ability, which is why they are so rewarding.’ Psychologist Todd Kashdan has this advice for those people taking up a new passion: ‘As a newcomer, you also have to tolerate and laugh at your own ignorance. You must be willing to accept the negative feelings that come your way,’ he says.
+
+G
+In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard Medical School. Unfortunately, he was miserable as his research wasn’t compatible with his curiosity about healing. He finally took a break and during eight months in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard. When he got back, he switched labs to study how cerebrospinal fluid nourishes the developing nervous system. He also vowed to look for the joy in everything, including failure, as this could help him learn about his research and himself.
+
+One thing that can hold joy back is a person’s concentration on avoiding failure rather than their looking forward to doing something well. ‘Focusing on being safe might get in the way of your reaching your goals,’ explains Kashdan. For example, are you hoping to get through a business lunch without embarrassing yourself, or are you thinking about how fascinating the conversation might be?
+
+H
+Usually, we think of courage in physical terms but ordinary life demands something else. For marketing executive Kenneth Pedeleose, it meant speaking out against something he thought was ethically wrong. The new manager was intimidating staff so Pedeleose carefully recorded each instance of bullying and eventually took the evidence to a senior director, knowing his own job security would be threatened. Eventually the manager was the one to go. According to Cynthia Pury, a psychologist at Clemson University, Pedeleose’s story proves the point that courage is not motivated by fearlessness, but by moral obligation. Pury also believes that people can acquire courage. Many of her students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.
+
+Over the long term, picking up a new character trait may help you move toward being the person you want to be. And in the short term, the effort itself could be surprisingly rewarding, a kind of internal adventure.
+
 93
 
 ## Page 86
 
 Test 4
-Questions 14-18
+Questions 14–18
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 14-18 on your answer sheet.
-Psychologists have traditionally believed that a personallity 14 .. was impossible
-and  that by a 15 ... , a person's character tends to be fixed. This is not true
-according to positive psychologists, who say that our personal qualities can be seen
-as habitual behaviour. One of the easiest qualities to acquire is 16 .. However,
-regardless of the quality, it is necessary to learn a wide variety of different 17 .....
-in order for a new quality to develop; for example, a person must understand and feel
-some 18... in order to increase their happinnes
+Write your answers in boxes 14–18 on your answer sheet.
+
+Psychologists have traditionally believed that a personality 14 ______ was impossible and that by a 15 ______, a person’s character tends to be fixed. This is not true according to positive psychologists, who say that our personal qualities can be seen as habitual behaviour. One of the easiest qualities to acquire is 16 ______. However, regardless of the quality, it is necessary to learn a wide variety of different 17 ______ in order for a new quality to develop; for example, a person must understand and feel some 18 ______ in order to increase their happiness.
+
 94
 
 ## Page 87
 
 Reading
-Questions 19-22
-ook at the following statements (Questions 19-22) and the list of people below.
-Match each statement with the correct person, A-G.
-rite the correct letter, A-G, in boxes 19-22 on your answer sheet.
-People must accept that they do not know much when first trying something new.
-It is important for people to actively notice when good things happen.
-Courage can be learned once its origins in a sense of responsibility are understood.
-It is possible to overcome shyness when faced with the need to speak in public.
+Questions 19–22
+Look at the following statements (Questions 19–22) and the list of people below.
+Match each statement with the correct person, A–G.
+Write the correct letter, A–G, in boxes 19–22 on your answer sheet.
+
+19 People must accept that they do not know much when first trying something new.
+20 It is important for people to actively notice when good things happen.
+21 Courage can be learned once its origins in a sense of responsibility are understood.
+22 It is possible to overcome shyness when faced with the need to speak in public.
+
 List of People
-A
-Christopher Peterson
-B
-David Fajgenbaum
-C
-Suzanne Segerstrom
-D
-Tanya Streeter
-E
-Todd Kashdan
-F
-Kenneth Pedeleose
-G
-Cynthia Pury
+A Christopher Peterson
+B David Fajgenbaum
+C Suzanne Segerstrom
+D Tanya Streeter
+E Todd Kashdan
+F Kenneth Pedeleose
+G Cynthia Pury
+
 95
 
 ## Page 88
 
 Test 4
-Questions 23-26
-
-Reading Passage 2 has eight sections, A-H.
+Questions 23–26
+Reading Passage 2 has eight sections, A–H.
 Which section contains the following information?
-Write the correct letter, A-H, in boxes 23-26 on your answer sheet.
+Write the correct letter, A–H, in boxes 23–26 on your answer sheet.
 
 23 a mention of how rational thinking enabled someone to achieve physical goals
 24 an account of how someone overcame a sad experience
 25 a description of how someone decided to rethink their academic career path
 26 an example of how someone risked his career out of a sense of duty
 
+96
+
 ## Page 89
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 When evolution runs backwards
-Evolution isn't supposed to run backwards - yet an increasing number
-of examples show that it does and that it can sometimes represent the
-future of a species
-The description of any animal as an
-in terms of probability, stating that there is no
-evolutionary throwback' is controversial.
-reason why evolution cannot run backwards
-For the better part of a century, most
-- it is just very unlikely. And so the idea of
-ologists have been reluctant to use those
-irreversibility in evolution stuck and came to
-ords, mindful of a principle of evolution
-be known as 'Dollo's law'.
-that says 'evolution cannot run backwards'.
-But as more and more examples come to
-If Dollo's law is right, atavisms should
-ght and modern genetics enters the scene, occur only very rarely, if at all. Yet almost
-hat principle is having to be rewritten. Not
-since the idea took root, exceptions have
-only are evolutionary throwbacks possible,
-been cropping up. In 1919, for example,
-ney sometimes play an important role in the
-a humpback whale with a pair of leg-like
-orward march of evolution.
-appendages over a metre long, complete
-with a full set of limb bones, was caught
-The technical term for an evolutionary
-off Vancouver Island in Canada. Explorer
-hrowback is an 'atavism', from the Latin
-Roy Chapman Andrews argued at the time
-avus, meaning forefather. The word has
-that the whale must be a throwback to a
-gly connotations thanks largely to Cesare
-land-living ancestor. 'I can see no other
-Lombroso, a 19th-century Italian medic who
-explanation,' he wrote in 1921.
-gued that criminals were born not made
-nd could be identified by certain physical
-Since then, so many other examples
-atures that were throwbacks to a primitive, have been discovered that it no longer
-sub-human state.
-makes sense to say that evolution is as good
-as irreversible. And this poses a puzzle:
-While Lombroso was measuring
-how can characteristics that disappeared
-minals, a Belgian palaeontologist called
-millions of years ago suddenly reappear?
-Louis Dollo was studying fossil records
-In 1994, Rudolf Raff and colleagues at
-nd coming to the opposite conclusion.
-Indiana University in the USA decided
-1890 he proposed that evolution was
-to use genetics to put a number on the
-eversible: that 'an organism is unable to
-probability of evolution going into reverse.
-turn, even partially, to a previous stage
-They reasoned that while some evolutionary
-ready realised in the ranks of its ancestors'.
-changes involve the loss of genes and are
-Early 20th-century biologists came to a
-therefore irreversible, others may be the
-milar conclusion, though they qualified it
-result of genes being switched off. If these
+Evolution isn’t supposed to run backwards – yet an increasing number of examples show that it does and that it can sometimes represent the future of a species
+
+The description of any animal as an ‘evolutionary throwback’ is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says ‘evolution cannot run backwards’. But as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution.
+
+The technical term for an evolutionary throwback is an ‘atavism’, from the Latin atavus, meaning forefather. The word has ugly connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state.
+
+While Lombroso was measuring criminals, a Belgian palaeontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion. In 1890 he proposed that evolution was irreversible: that ‘an organism is unable to return, even partially, to a previous stage already realised in the ranks of its ancestors’. Early 20th-century biologists came to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution cannot run backwards – it is just very unlikely. And so the idea of irreversibility in evolution stuck and came to be known as ‘Dollo’s law’.
+
+If Dollo’s law is right, atavisms should occur only very rarely, if at all. Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. ‘I can see no other explanation,’ he wrote in 1921.
+
+Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear? In 1994, Rudolf Raff and colleagues at Indiana University in the USA decided to use genetics to put a number on the probability of evolution going into reverse. They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the result of genes being switched off. If these
 97
 
 ## Page 90
 
 Test 4
-silent genes are somehow switched back
-history of a group of South American lizards
-on, they argued, long-lost traits could
-called Bachia. Many of these have minuscule
-limbs; some look more like snakes than
-reappear.
-lizards and a few have completely lost the
-Raff's team went on to calculate the
-toes on their hind limbs. Other species,
-likelihood of it happening. Silent genes
-however, sport up to four toes on their
-accumulate random mutations, they
-hind legs. The simplest explanation is that
-reasoned, eventually rendering them useless.
-the toed lineages never lost their toes,
-So how long can a gene survive in a species
-but Wagner begs to differ. According to
-if it is no longer used? The team calculated
-his analysis of the Bachia family tree, the
-that there is a good chance of silent genes
-toed species re-evolved toes from toeless
-surviving for up to 6 million years in at least
-ancestors and, what is more, digit loss
-a few individuals in a population, and that
-and gain has occurred on more than one
-some might survive as long as 10 million
-occasion over tens of millions of years.
-years. In other words, throwbacks are
-possible, but only to the relatively recent
-So what's going on? One possibility is
-evolutionary past.
-that these traits are lost and then simply
-reappear, in much the same way that
-As a possible example, the team pointed
-similar structures can independently arise
-to the mole salamanders of Mexico and
-in unrelated species, such as the dorsal
-California. Like most amphibians these
-fins of sharks and killer whales. Another
-begin life in a juvenile 'tadpole' state, then
-more intriguing possibility is that the genetic
-metamorphose into the adult form - except
-information needed to make toes somehow
-for one species, the axolotl, which famously
-survived for tens or perhaps hundreds of
-lives its entire life as a juvenile. The simplest
-millions of years in the lizards and was
-explanation for this is that the axolotl lineage
-reactivated. These atavistic traits provided
-alone lost the ability to metamorphose, while
-an advantage and spread through the
-others retained it. From a detailed analysis
-population, effectively reversing evolution.
-of the salamanders' family tree, however,
-it is clear that the other lineages evolved
-But if silent genes degrade within 6 to
-from an ancestor that itself had lost the
-10 million years, how can long-lost traits
-ability to metamorphose. In other words,
-be reactivated over longer timescales? The
-P
-metamorphosis in mole salamanders is an
-answer may lie in the womb. Early embryos
-atavism. The salamander example fits with
-of many species develop ancestral features.
-Raff's 10-million-year time frame.
-Snake embryos, for example, sprout hind
-limb buds. Later in development these
-More recently, however, examples have
-features disappear thanks to developmental
-been reported that break the time limit,
-programs that say 'lose the leg'. If for any
-suggesting that silent genes may not be the
-reason this does not happen, the ancestral
-whole story. In a paper published last year,
-feature may not disappear, leading to an
-biologist Gunter Wagner of Yale University
-atavism.
-reported some work on the evolutionary
+silent genes are somehow switched back on, they argued, long-lost traits could reappear.
+
+Raff’s team went on to calculate the likelihood of it happening. Silent genes accumulate random mutations, they reasoned, eventually rendering them useless. So how long can a gene survive in a species if it is no longer used? The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as 10 million years. In other words, throwbacks are possible, but only to the relatively recent evolutionary past.
+
+As a possible example, the team pointed to the mole salamanders of Mexico and California. Like most amphibians these begin life in a juvenile ‘tadpole’ state, then metamorphose into the adult form – except for one species, the axolotl, which famously lives its entire life as a juvenile. The simplest explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it. From a detailed analysis of the salamanders’ family tree, however, it is clear that the other lineages evolved from an ancestor that itself had lost the ability to metamorphose. In other words, metamorphosis in mole salamanders is an atavism. The salamander example fits with Raff’s 10-million-year time frame.
+
+More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be the whole story. In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia. Many of these have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs. Other species, however, sport up to four toes on their hind legs. The simplest explanation is that the toed lineages never lost their toes, but Wagner begs to differ. According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years.
+
+So what’s going on? One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales. Another more intriguing possibility is that the genetic information needed to make toes somehow survived for tens or perhaps hundreds of millions of years in the lizards and was reactivated. These atavistic traits provided an advantage and spread through the population, effectively reversing evolution.
+
+But if silent genes degrade within 6 to 10 million years, how can long-lost traits be reactivated over longer timescales? The answer may lie in the womb. Early embryos of many species develop ancestral features. Snake embryos, for example, sprout hind limb buds. Later in development these features disappear thanks to developmental programs that say ‘lose the leg’. If for any reason this does not happen, the ancestral feature may not disappear, leading to an atavism.
 98
 
 ## Page 91
 
 Reading
-Questions 27-31
+Questions 27–31
 Choose the correct letter, A, B, C or D.
-rite the correct letter in boxes 27-31 on your answer sheet.
-When discussing the theory developed by Louis Dollo, the writer says that
-it was immediately referred to as Dollo's law.
-A
-B
-it supported the possibility of evolutionary throwbacks.
-C
-it was modified by biologists in the early twentieth century.
-D
-it was based on many years of research.
-The humpback whale caught off Vancouver Island is mentioned because of
-3
-A
-the exceptional size of its body.
-B
-the way it exemplifies Dollo's law.
-C
-the amount of local controversy it caused.
-the reason given for its unusual features.
-D
-29
-What is said about 'silent genes'?
-Their numbers vary according to species.
-A
-B
-Raff disagreed with the use of the term.
-They could lead to the re-emergence of certain characteristics.
-C
-They can have an unlimited life span.
-D
-30
-The writer mentions the mole salamander because
-it exemplifies what happens in the development of most amphibians.
-A
-B
-it suggests that Raff's theory is correct.
-C
-it has lost and regained more than one ability.
-its ancestors have become the subject of extensive research.
-31
-Which of the following does Wagner claim?
-A
-Members of the Bachia lizard family have lost and regained certain features
-several times.
-Evidence shows that the evolution of the Bachia lizard is due to the
-B
-environment.
-C
-His research into South American lizards supports Raff's assertions.
-D
-His findings will apply to other species of South American lizards.
+Write the correct letter in boxes 27–31 on your answer sheet.
+27 When discussing the theory developed by Louis Dollo, the writer says that
+A it was immediately referred to as Dollo’s law.
+B it supported the possibility of evolutionary throwbacks.
+C it was modified by biologists in the early twentieth century.
+D it was based on many years of research.
+28 The humpback whale caught off Vancouver Island is mentioned because of
+A the exceptional size of its body.
+B the way it exemplifies Dollo’s law.
+C the amount of local controversy it caused.
+D the reason given for its unusual features.
+29 What is said about ‘silent genes’?
+A Their numbers vary according to species.
+B Raff disagreed with the use of the term.
+C They could lead to the re-emergence of certain characteristics.
+D They can have an unlimited life span.
+30 The writer mentions the mole salamander because
+A it exemplifies what happens in the development of most amphibians.
+B it suggests that Raff’s theory is correct.
+C it has lost and regained more than one ability.
+D its ancestors have become the subject of extensive research.
+31 Which of the following does Wagner claim?
+A Members of the Bachia lizard family have lost and regained certain features several times.
+B Evidence shows that the evolution of the Bachia lizard is due to the environment.
+C His research into South American lizards supports Raff’s assertions.
+D His findings will apply to other species of South American lizards.
 99
 
 ## Page 92
 
 Test 4
-Questions 32-36
-Complete each sentence with the correct ending, A-G, below.
-Write the correct letter, A-G, in boxes 32-36 on your answer sheet.
+Questions 32–36
+Complete each sentence with the correct ending, A–G, below.
+Write the correct letter, A–G, in boxes 32–36 on your answer sheet.
 32 For a long time biologists rejected
-33
-Opposing views on evolutionary throwbacks are represented by
-34
-Examples of evolutionary throwbacks have led to
-The shark and killer whale are mentioned to exemplify
-35
-36 One explanation for the findings of Wagner's research is
-A
-the question of how certain long-lost traits could reappear.
-the occurrence of a particular feature in different species.
-B
-C
-parallels drawn between behaviour and appearance.
-the continued existence of certain genetic information.
-D
-the doubts felt about evolutionary throwbacks.
-E
-F
-the possibility of evolution being reversible.
-G
-Dollo's findings and the convictions held by Lombroso.
-Questions 37-40
+33 Opposing views on evolutionary throwbacks are represented by
+34 Examples of evolutionary throwbacks have led to
+35 The shark and killer whale are mentioned to exemplify
+36 One explanation for the findings of Wagner’s research is
+A the question of how certain long-lost traits could reappear.
+B the occurrence of a particular feature in different species.
+C parallels drawn between behaviour and appearance.
+D the continued existence of certain genetic information.
+E the doubts felt about evolutionary throwbacks.
+F the possibility of evolution being reversible.
+G Dollo’s findings and the convictions held by Lombroso.
+Questions 37–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
-YES
-if the statement agrees with the claims of the writer
-NO
-if the statement contradicts the claims of the writer
-NOT GIVEN
-if it is impossible to say what the writer thinks about this
-Wagner was the first person to do research on South American lizards.
-37
+In boxes 37–40 on your answer sheet, write
+YES if the statement agrees with the claims of the writer
+NO if the statement contradicts the claims of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+37 Wagner was the first person to do research on South American lizards.
 38 Wagner believes that Bachia lizards with toes had toeless ancestors.
-The temporary occurrence of long-lost traits in embryos is rare.
-39
+39 The temporary occurrence of long-lost traits in embryos is rare.
 40 Evolutionary throwbacks might be caused by developmental problems in the womb.
 100
 
@@ -5931,112 +5583,60 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 ACADEMIC READING
-Reading Passage 1, Questions 1-13
-20
-C
-21
-G
-1
-spread
-22
-A
-2
-10/ten times
-23
-E
-3
-below
-24
-C
-4
-fuel
-25
-G
-5
-seasons
-26
-H
-6
-homes/housing
-7
-TRUE
-Reading Passage 3, Questions 27-40
-8
-FALSE
-9
-TRUE
-27
-C
-10
-TRUE
-28
-D
-11
-NOT GIVEN
-29
-C
-12
-FALSE
-30
-B
-13
-FALSE
-31
-A
-32
-F
-Reading Passage 2, Questions 14-26
-33
-G
-34
-A
-14
-transformation/change
-35
-B
-15
-young age
-36
-D
-16
-optimism
-37
-NOT GIVEN
-17
-skills/techniques
-38
-YES
-18
-negative emotions / feelings
-39
-NO
-19
-E
-40
-YES
+
+Reading Passage 1, Questions 1–13
+1 spread
+2 10/ten times
+3 below
+4 fuel
+5 seasons
+6 homes/housing
+7 TRUE
+8 FALSE
+9 TRUE
+10 TRUE
+11 NOT GIVEN
+12 FALSE
+13 FALSE
+
+Reading Passage 2, Questions 14–26
+14 transformation/change
+15 young age
+16 optimism
+17 skills/techniques
+18 negative emotions/negative feelings
+19 E
+20 C
+21 G
+22 A
+23 E
+24 C
+25 G
+26 H
+
+Reading Passage 3, Questions 27–40
+27 C
+28 D
+29 C
+30 B
+31 A
+32 F
+33 G
+34 A
+35 B
+36 D
+37 NOT GIVEN
+38 YES
+39 NO
+40 YES
+
 If you score...
-0-11
-12-28
-29-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
-158
+0–11
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12–28
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+29–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 151
 
