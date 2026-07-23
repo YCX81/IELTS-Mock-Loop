@@ -20,6 +20,11 @@ data/generated/answer-pages/
 tmp/
 data.7z
 
+# Local Codex repair state and recovery backups.
+work/codex-*-backup-*/
+work/thread-binding-backup-*/
+work/thread-binding-repair.*
+
 # Keep lightweight public data/index files tracked.
 !data/materials.js
 !data/cambridge-resource-index.js
