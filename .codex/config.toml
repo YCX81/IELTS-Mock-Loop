@@ -1,0 +1,6 @@
+[sandbox_workspace_write]
+network_access = true
+
+# Image tools need the elevated sandbox because the app supplies split writable roots.
+[windows]
+sandbox = "elevated"
