@@ -1,0 +1,1153 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.720Z",
+  "sourceBank": "data\\cambridge-test-bank.json",
+  "outputRoot": "data\\generated\\intensive-reading\\cambridge-04-06",
+  "strategy": {
+    "level": "B1-B2",
+    "direction": "考试/综合",
+    "noSourceMutation": false,
+    "passageRule": "Reading Passage 1/2/3 only; question sections associated by question ranges",
+    "research": "web_enrichment_attempted"
+  },
+  "structureNotes": [
+    "readingSections contains both reading and question blocks; mislabeled Question blocks are not emitted as passages.",
+    "Header-only sections ending with on the following pages were recovered from raw text pages into recovered-sources/.",
+    "Question sections are associated by parsed question-number ranges; reset ranges after academic Reading are ignored."
+  ],
+  "generatedCount": 36,
+  "recoveredCount": 2,
+  "skippedCount": 0,
+  "records": [
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-1-Passage-1-双语精读.md",
+      "book": "04",
+      "test": 1,
+      "passage": 1,
+      "titleCn": "雨林危机与儿童理解",
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "questionRange": "1-14",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "needs_web_enrichment",
+      "webSource": "",
+      "sentenceCount": 40,
+      "webSources": [
+        {
+          "expression": "confront",
+          "url": "https://dictionary.cambridge.org/dictionary/english/confront"
+        },
+        {
+          "expression": "misconception",
+          "url": "https://dictionary.cambridge.org/dictionary/english/misconception"
+        },
+        {
+          "expression": "intrinsic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/intrinsic"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "828307cfa0cc793e3c194ab0f0a3a46c0e04b3e5764c59b17203bab0937f5764",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-1-Passage-2-双语精读.md",
+      "book": "04",
+      "test": 1,
+      "passage": 2,
+      "titleCn": "鲸类如何感知世界",
+      "paragraphCount": 6,
+      "questionSectionCount": 2,
+      "questionRange": "15-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 26,
+      "webSources": [
+        {
+          "expression": "`take something for granted`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-for-granted"
+        },
+        {
+          "expression": "`anecdotal evidence`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/anecdotal-evidence"
+        },
+        {
+          "expression": "`repertoire`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/repertoire"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "9808d089b857ff8c6055046af808be816063271f6b3c09efdfb57f9dfa728520",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-1-Passage-3-双语精读.md",
+      "book": "04",
+      "test": 1,
+      "passage": 3,
+      "titleCn": "盲人与视觉符号",
+      "paragraphCount": 8,
+      "questionSectionCount": 4,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 38,
+      "webSources": [
+        {
+          "expression": "`be taken aback`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-aback"
+        },
+        {
+          "expression": "`idiosyncratic`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/idiosyncratic"
+        },
+        {
+          "expression": "`consensus`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/consensus"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "717b4f3176dc82fe00426acc075a05c80b99109beb85f5829deed51cda80cd27",
+      "links": 3,
+      "deepDives": 3,
+      "images": 2,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-2-Passage-1-双语精读.md",
+      "book": "04",
+      "test": 2,
+      "passage": 1,
+      "titleCn": "语言正在失声",
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 50,
+      "webSources": [
+        {
+          "expression": "`far from`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/far-from"
+        },
+        {
+          "expression": "`kill off`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/kill-off"
+        },
+        {
+          "expression": "`bound up with`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bound-up-with"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "ae23a19c6cb5b5363af802139b7c5c99a8f7c1e6dc9dc2d7c6ac7ab1e6b94459",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-2-Passage-2-双语精读.md",
+      "book": "04",
+      "test": 2,
+      "passage": 2,
+      "titleCn": "澳大利亚的替代医学",
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 32,
+      "webSources": [
+        {
+          "expression": "`hand in glove`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hand-in-glove"
+        },
+        {
+          "expression": "`bottom line`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bottom-line"
+        },
+        {
+          "expression": "`exodus`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/exodus"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "6423506fb76e0eff6f4b338548c092eb7d6a8bc9a8b65e9f54a09cdca9ea9069",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-2-Passage-3-双语精读.md",
+      "book": "04",
+      "test": 2,
+      "passage": 3,
+      "titleCn": "玩耍与大脑发育",
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 57,
+      "webSources": [
+        {
+          "expression": "`serious business`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/serious"
+        },
+        {
+          "expression": "`hiccup`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hiccup"
+        },
+        {
+          "expression": "`get a look-in`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/look-in"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "db7caae76f715ce677b4e38fc07da33904a95ac8f4be632000e97b676667c62e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-3-Passage-1-双语精读.md",
+      "book": "04",
+      "test": 3,
+      "passage": 1,
+      "titleCn": "街头儿童微型创业贷款",
+      "paragraphCount": 12,
+      "questionSectionCount": 4,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 44,
+      "webSources": [
+        {
+          "expression": "`do without`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/do-without"
+        },
+        {
+          "expression": "`entrepreneurship`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/entrepreneurship"
+        },
+        {
+          "expression": "`in association with`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/association"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "9ac2f0d0f8165408c79a347a546aa06380a93eee76322d0b6c2a232aef9a7c9d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-3-Passage-2-双语精读.md",
+      "book": "04",
+      "test": 3,
+      "passage": 2,
+      "titleCn": "火山如何改写地球",
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 55,
+      "webSources": [
+        {
+          "expression": "`hit the headlines`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hit-the-headlines"
+        },
+        {
+          "expression": "`blow its top`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/blow-your-top"
+        },
+        {
+          "expression": "`earth-shattering`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/earth-shattering"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "8147357b393a605b8760db933b3a6c687412cc3a6eb764798a2fcf97608b1fb2",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-3-Passage-3-双语精读.md",
+      "book": "04",
+      "test": 3,
+      "passage": 3,
+      "titleCn": "语言学数据如何获得",
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 37,
+      "webSources": [
+        {
+          "expression": "`range from ... to ...`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/range"
+        },
+        {
+          "expression": "`observer's paradox`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/observer"
+        },
+        {
+          "expression": "`elicit`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/elicit"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "392b999f2f30bd5576bca9cefd9e38751a7a9598cb9d2e757241d47922b0edc4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-4-Passage-1-双语精读.md",
+      "book": "04",
+      "test": 4,
+      "passage": 1,
+      "titleCn": "人类运动极限仍未到来",
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 45,
+      "webSources": [
+        {
+          "expression": "`performance`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/performance"
+        },
+        {
+          "expression": "`genetics`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/genetics"
+        },
+        {
+          "expression": "`biomechanics`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/biomechanics"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "1ed45656c325855c34367e0690c00bf1db66667d777917456bbee6f98ab607ec",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-4-Passage-2-双语精读.md",
+      "book": "04",
+      "test": 4,
+      "passage": 2,
+      "titleCn": "考古学的性质与目标",
+      "paragraphCount": 9,
+      "questionSectionCount": 4,
+      "questionRange": "14-27",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 40,
+      "webSources": [
+        {
+          "expression": "`exercise`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/exercise"
+        },
+        {
+          "expression": "`capture`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/capture"
+        },
+        {
+          "expression": "`lessen`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/lessen"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "fea3752f0ca8acf060b862665c5ffdaec81dc3973139964251a7740f3131d165",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-04-Test-4-Passage-3-双语精读.md",
+      "book": "04",
+      "test": 4,
+      "passage": 3,
+      "titleCn": "稀缺医疗资源问题",
+      "paragraphCount": 5,
+      "questionSectionCount": 3,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 23,
+      "webSources": [
+        {
+          "expression": "`allocate`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/allocate"
+        },
+        {
+          "expression": "`sink in`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/sink-in"
+        },
+        {
+          "expression": "`indispensable`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/indispensable"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "7044fac2336814631a2ec3170efad006a57df3fb332d12308f37364e9b363761",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-1-Passage-1-双语精读.md",
+      "book": "05",
+      "test": 1,
+      "passage": 1,
+      "titleCn": "约翰逊词典与英语标准化",
+      "paragraphCount": 12,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 32,
+      "webSources": [
+        {
+          "expression": "`chaos`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/chaos"
+        },
+        {
+          "expression": "`draw on`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/draw-on"
+        },
+        {
+          "expression": "`cornerstone`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/cornerstone"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "03e0fdcc8f6754d6e605a770731a9e363afbddb42e3c14525a2645c4ab2826d2",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-1-Passage-2-双语精读.md",
+      "book": "05",
+      "test": 1,
+      "passage": 2,
+      "titleCn": "服从、权威与人性解释",
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 31,
+      "webSources": [
+        {
+          "expression": "`from all walks of life`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/walk-of-life"
+        },
+        {
+          "expression": "`in the face of`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/in-the-face-of"
+        },
+        {
+          "expression": "`account for`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/account-for"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "900dc7e89f55b2e0b9fb61b4aff2e647b4216b33e47cf93fe5f4f6f1afe1fe91",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-1-Passage-3-双语精读.md",
+      "book": "05",
+      "test": 1,
+      "passage": 3,
+      "titleCn": "环境悲观论的反转",
+      "paragraphCount": 14,
+      "questionSectionCount": 3,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 45,
+      "webSources": [
+        {
+          "expression": "`disjunction`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/disjunction"
+        },
+        {
+          "expression": "`lopsidedness`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/lopsidedness"
+        },
+        {
+          "expression": "`pressing`",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pressing"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "9862f86518526be2ab7b5d50666565f4af02ad7171ed14bff4d0b58b4506561f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-2-Passage-1-双语精读.md",
+      "book": "05",
+      "test": 2,
+      "passage": 1,
+      "titleCn": "Bakelite 与现代塑料的诞生",
+      "paragraphCount": 9,
+      "questionSectionCount": 4,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 35,
+      "sha256": "1ba52be1eaf9116351f392403feabcf427c208c612afe79e63fd37dd0ef1ae4f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-2-Passage-2-双语精读.md",
+      "book": "05",
+      "test": 2,
+      "passage": 2,
+      "titleCn": "幽默、笑声与大脑机制",
+      "paragraphCount": 13,
+      "questionSectionCount": 3,
+      "questionRange": "14-27",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 48,
+      "sha256": "d0acbaab8b58288b489b2c0a7e9f1918c0385728964d3cc60ebf39e055fe4c83",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-2-Passage-3-双语精读.md",
+      "book": "05",
+      "test": 2,
+      "passage": 3,
+      "titleCn": "科学英语的诞生",
+      "paragraphCount": 12,
+      "questionSectionCount": 3,
+      "questionRange": "28-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 40,
+      "sha256": "dc40f81128910fbe5893b8e0c383429002ac9d248d40b6d2cd5e1275b3098a9e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-3-Passage-1-双语精读.md",
+      "book": "05",
+      "test": 3,
+      "passage": 1,
+      "titleCn": "早期儿童教育与家长参与",
+      "paragraphCount": 18,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 44,
+      "sha256": "0b8accffa7303a54450b08ef6e5603ddcbab61b7a2faeabbb3740d18da8cdb1e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-3-Passage-2-双语精读.md",
+      "book": "05",
+      "test": 3,
+      "passage": 2,
+      "titleCn": "正在消失的尼罗河三角洲",
+      "paragraphCount": 6,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": true,
+      "recoveredPath": "data\\generated\\intensive-reading\\cambridge-04-06\\recovered-sources\\Cambridge-IELTS-05-Test-3-Passage-2-recovered-source.md",
+      "materialExtension": "needs_web_enrichment",
+      "webSource": "",
+      "sentenceCount": 32,
+      "sha256": "79cdd3f5f3d2e54e72aaa9d381ee583b4973901b560195d22fc183f0eda1c9d9",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-3-Passage-3-双语精读.md",
+      "book": "05",
+      "test": 3,
+      "passage": 3,
+      "titleCn": "人工智能的回归",
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "needs_web_enrichment",
+      "webSource": "",
+      "sentenceCount": 45,
+      "sha256": "f1b0292d3750c2d137a588711a566935ce9bf3bf757b351b1cf7151617a92224",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-4-Passage-1-双语精读.md",
+      "book": "05",
+      "test": 4,
+      "passage": 1,
+      "titleCn": "荒野旅游的影响",
+      "paragraphCount": 3,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": true,
+      "recoveredPath": "data\\generated\\intensive-reading\\cambridge-04-06\\recovered-sources\\Cambridge-IELTS-05-Test-4-Passage-1-recovered-source.md",
+      "materialExtension": "needs_web_enrichment",
+      "webSource": "",
+      "sentenceCount": 42,
+      "sha256": "f1d96a66c66b94deffba2c5305a1c638c8c00dd61451a068428fd5298907b49e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-4-Passage-2-双语精读.md",
+      "book": "05",
+      "test": 4,
+      "passage": 2,
+      "titleCn": "钢化玻璃的隐藏缺陷",
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "needs_web_enrichment",
+      "webSource": "",
+      "sentenceCount": 46,
+      "sha256": "d5d6ff2bad524082aad3fae6e156e1c286d050da7e1daddf6d20fc6dc66631e4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-05-Test-4-Passage-3-双语精读.md",
+      "book": "05",
+      "test": 4,
+      "passage": 3,
+      "titleCn": "光如何支配动植物节律",
+      "paragraphCount": 6,
+      "questionSectionCount": 2,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "https://en.wikipedia.org/wiki/Photoperiodism",
+      "sentenceCount": 39,
+      "sha256": "fc20bd1cba582649e7f9f254c8506b9bd17dc1ddc6a7bcc8cc25eed23466b1e3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-1-Passage-1-双语精读.md",
+      "book": "06",
+      "test": 1,
+      "passage": 1,
+      "titleCn": "澳大利亚体育成功的科学系统",
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 51,
+      "sha256": "e0feaa21fb0d6e6dfe6eb40a9ab28d37c783975953e58aae3fb9bbdceef69f4a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-1-Passage-2-双语精读.md",
+      "book": "06",
+      "test": 1,
+      "passage": 2,
+      "titleCn": "货运革命与国际贸易扩张",
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 43,
+      "sha256": "d430ae51bdeacd9a823f05aaa5f1b9937e8346f872c738742cbaa8f1d5cc9e87",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-1-Passage-3-双语精读.md",
+      "book": "06",
+      "test": 1,
+      "passage": 3,
+      "titleCn": "气候变化与 Inuit 人",
+      "paragraphCount": 7,
+      "questionSectionCount": 2,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 43,
+      "sha256": "c7682a24c2a4eb291992085de5391a911a4956b12ab7cb3b6873a3644f98e0b3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-2-Passage-1-双语精读.md",
+      "book": "06",
+      "test": 2,
+      "passage": 1,
+      "titleCn": "公共交通的优势",
+      "paragraphCount": 12,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 46,
+      "webSources": [
+        {
+          "expression": "pour ... into ...",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pour"
+        },
+        {
+          "expression": "keep pace with",
+          "url": "https://dictionary.cambridge.org/dictionary/english/keep-pace-with"
+        },
+        {
+          "expression": "flourish",
+          "url": "https://dictionary.cambridge.org/dictionary/english/flourish"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "038cee92a3280d5638e795ed25ee72e1283b038b4b2802324c8d1ed67c59ec28",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-2-Passage-2-双语精读.md",
+      "book": "06",
+      "test": 2,
+      "passage": 2,
+      "titleCn": "老龄化未必等于衰弱",
+      "paragraphCount": 12,
+      "questionSectionCount": 2,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 40,
+      "webSources": [
+        {
+          "expression": "stay in the pink",
+          "url": "https://dictionary.cambridge.org/dictionary/english/in-the-pink"
+        },
+        {
+          "expression": "beat a retreat in the face of",
+          "url": "https://dictionary.cambridge.org/dictionary/english/beat-a-retreat"
+        },
+        {
+          "expression": "right on target",
+          "url": "https://dictionary.cambridge.org/dictionary/english/on-target"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "aff881f10de444f3e5daa63bd32eb23baff1cad1fa6bce1c63cec299ce42f4ff",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-2-Passage-3-双语精读.md",
+      "book": "06",
+      "test": 2,
+      "passage": 3,
+      "titleCn": "计数系统的起源",
+      "paragraphCount": 7,
+      "questionSectionCount": 2,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 34,
+      "webSources": [
+        {
+          "expression": "be bound up with",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bound-up"
+        },
+        {
+          "expression": "paramount",
+          "url": "https://dictionary.cambridge.org/dictionary/english/paramount"
+        },
+        {
+          "expression": "indispensable",
+          "url": "https://dictionary.cambridge.org/dictionary/english/indispensable"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "6307c384891649ce38c9883711d0daec182790d04da30118569d954cc90de143",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-3-Passage-1-双语精读.md",
+      "book": "06",
+      "test": 3,
+      "passage": 1,
+      "titleCn": "大银幕的力量",
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 47,
+      "webSources": [
+        {
+          "expression": "hypnotic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hypnotic"
+        },
+        {
+          "expression": "overwhelmingly",
+          "url": "https://dictionary.cambridge.org/dictionary/english/overwhelmingly"
+        },
+        {
+          "expression": "gimmick",
+          "url": "https://dictionary.cambridge.org/dictionary/english/gimmick"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "ad1c69fb8bd2b1583a3e17d2962214755299ca8a1a1af2ab90b9a9a9a99f984b",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-3-Passage-2-双语精读.md",
+      "book": "06",
+      "test": 3,
+      "passage": 2,
+      "titleCn": "逆境下如何激励员工",
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "questionRange": "14-27",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 46,
+      "webSources": [
+        {
+          "expression": "match",
+          "url": "https://dictionary.cambridge.org/dictionary/english/match"
+        },
+        {
+          "expression": "manipulative",
+          "url": "https://dictionary.cambridge.org/dictionary/english/manipulative"
+        },
+        {
+          "expression": "contingent",
+          "url": "https://dictionary.cambridge.org/dictionary/english/contingent"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "3a5a405f0eb9411347a53fc4dd0cea281f8817225546b4af98d057abc09b91b5",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-3-Passage-3-双语精读.md",
+      "book": "06",
+      "test": 3,
+      "passage": 3,
+      "titleCn": "寻找抗衰老药丸",
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "questionRange": "28-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 35,
+      "webSources": [
+        {
+          "expression": "stick to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stick-to"
+        },
+        {
+          "expression": "fan",
+          "url": "https://dictionary.cambridge.org/dictionary/english/fan"
+        },
+        {
+          "expression": "underlie",
+          "url": "https://dictionary.cambridge.org/dictionary/english/underlie"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "285ac33cce932f517754558106ca904c6c7e2b1bca1e64c06c9abaacc19590df",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-4-Passage-1-双语精读.md",
+      "book": "06",
+      "test": 4,
+      "passage": 1,
+      "titleCn": "药企销售如何影响医生",
+      "paragraphCount": 7,
+      "questionSectionCount": 2,
+      "questionRange": "1-13",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 32,
+      "webSources": [
+        {
+          "expression": "pharmaceutical",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pharmaceutical"
+        },
+        {
+          "expression": "prescribe",
+          "url": "https://dictionary.cambridge.org/dictionary/english/prescribe"
+        },
+        {
+          "expression": "scrutinize",
+          "url": "https://dictionary.cambridge.org/dictionary/english/scrutinize"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "b5d1fb6917fb39cfd71a6480f0252063243de5f974fc953089ac0d18d69a70be",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-4-Passage-2-双语精读.md",
+      "book": "06",
+      "test": 4,
+      "passage": 2,
+      "titleCn": "识字女性与儿童生存",
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "questionRange": "14-26",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 30,
+      "webSources": [
+        {
+          "expression": "literate",
+          "url": "https://dictionary.cambridge.org/dictionary/english/literate"
+        },
+        {
+          "expression": "implication",
+          "url": "https://dictionary.cambridge.org/dictionary/english/implication"
+        },
+        {
+          "expression": "bypass",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bypass"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "09cc17dea45486b43a2c4015a910a404238b507d5da75343a562679558c9fa5c",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "file": "data\\generated\\intensive-reading\\cambridge-04-06\\Cambridge-IELTS-06-Test-4-Passage-3-双语精读.md",
+      "book": "06",
+      "test": 4,
+      "passage": 3,
+      "titleCn": "校园欺凌：从危机应对到预防",
+      "paragraphCount": 6,
+      "questionSectionCount": 4,
+      "questionRange": "27-40",
+      "recovered": false,
+      "recoveredPath": null,
+      "materialExtension": "web_enriched",
+      "webSource": "",
+      "sentenceCount": 39,
+      "webSources": [
+        {
+          "expression": "persistent",
+          "url": "https://dictionary.cambridge.org/dictionary/english/persistent"
+        },
+        {
+          "expression": "recalcitrant",
+          "url": "https://dictionary.cambridge.org/dictionary/english/recalcitrant"
+        },
+        {
+          "expression": "disseminate",
+          "url": "https://dictionary.cambridge.org/dictionary/english/disseminate"
+        }
+      ],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "a613915fe0d7f1fd547a4a2d75b7fa96d15966690473e4b023507ccbe05992d8",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "recoveredFixes": [
+    {
+      "id": "cambridge-05-reading-test-3",
+      "passage": 2,
+      "recoveredPath": "data\\generated\\intensive-reading\\cambridge-04-06\\recovered-sources\\Cambridge-IELTS-05-Test-3-Passage-2-recovered-source.md",
+      "rawPath": "data/generated/text-pages/cambridge-ielts-05.raw.md",
+      "evidence": "Disappearing Delta",
+      "lineStart": 2603,
+      "lineEnd": 2735
+    },
+    {
+      "id": "cambridge-05-reading-test-4",
+      "passage": 1,
+      "recoveredPath": "data\\generated\\intensive-reading\\cambridge-04-06\\recovered-sources\\Cambridge-IELTS-05-Test-4-Passage-1-recovered-source.md",
+      "rawPath": "data/generated/text-pages/cambridge-ielts-05.raw.md",
+      "evidence": "The Impact of Wilderness Tourism",
+      "lineStart": 3302,
+      "lineEnd": 3392
+    },
+    {
+      "id": "cambridge-06-reading-test-2",
+      "passage": 1,
+      "recoveredPath": "data\\generated\\intensive-reading\\cambridge-04-06\\recovered-sources\\Cambridge-IELTS-06-Test-2-Passage-1-recovered-source.md",
+      "rawPath": "data/generated/text-pages/cambridge-ielts-06.raw.md",
+      "evidence": "Advantages",
+      "lineStart": 1502,
+      "lineEnd": 1591
+    }
+  ],
+  "skipped": [],
+  "formatCleanup": {
+    "updatedAt": "2026-07-07T14:02:51",
+    "actions": [
+      "normalized recovered-source notices",
+      "removed PowerShell object interpolation remnants",
+      "confirmed skippedCount from manifest",
+      "normalized residual placeholder tokens",
+      "verified cambridge-04-reading-test-3 passage 2 recovered from raw",
+      "confirmed skippedCount is zero after recovery pass"
+    ],
+    "residualCleanup": {
+      "updatedAt": "2026-07-07T14:02:51",
+      "changedPassageFiles": 36,
+      "patterns": [
+        "paragraph expression placeholder token",
+        "anki expression placeholder token",
+        "PowerShell object interpolation dump"
+      ],
+      "validationPattern": "object dump, interpolation marker, unresolved placeholder, or raw path dump markers"
+    }
+  }
+}

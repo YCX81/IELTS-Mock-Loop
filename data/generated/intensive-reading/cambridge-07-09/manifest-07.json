@@ -1,0 +1,609 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.721Z",
+  "scope": "Cambridge IELTS 07 Academic Reading Test 1-4 Passage 1-3 short bilingual intensive reading",
+  "sourceBank": "data/generated/reports/cambridge-test-bank.json",
+  "sourceFallbacks": [
+    "data/generated/text-pages/cambridge-ielts-07.raw.md"
+  ],
+  "outputDir": "data/generated/intensive-reading/cambridge-07-09",
+  "strategy": {
+    "direction": "exam/intensive-reading-short",
+    "level": "B1-B2",
+    "sourceRule": "Use cambridge-test-bank.json for test metadata and answers; because Cambridge 07 reading entries have empty passages arrays, restore source slices from cambridge-ielts-07.raw.md into recovered-sources.",
+    "materialExtension": "needs_web_enrichment when no verified external material is attached; no fabricated sources."
+  },
+  "summary": {
+    "markdownFiles": 12,
+    "recoveredSources": 0,
+    "manifestFiles": 1,
+    "totalFilesWritten": 13,
+    "skipped": 0
+  },
+  "files": [
+    {
+      "key": "07-1-1",
+      "book": "07",
+      "test": "1",
+      "passage": 1,
+      "title": "Let's Go Bats",
+      "chineseTitle": "蝙蝠的夜间导航课",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-1-Passage-1-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 22–25; answer page 157",
+      "sourceSha256": "11f0168283836bd3ee9c49af90478ec2d52cddd8f7657994abe0c7fa885f3819",
+      "jsonTestId": "cambridge-07-reading-test-1",
+      "questionSections": [
+        "Questions 1-5 paragraph matching",
+        "Questions 6-9 summary completion",
+        "Questions 10-13 sentence completion"
+      ],
+      "answerKeySummary": "1 B; 2 A; 3 A; 4 E; 5 D; 6 phantom; 7 echoes/obstacles; 8 depth; 9 submarines; 10 natural selection; 11 radio waves/echoes; 12 mathematical theories; 13 zoologist",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 37,
+      "sourcePages": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "answerKeyPage": 157,
+      "webSources": [
+        {
+          "expression": "make a go of",
+          "url": "https://dictionary.cambridge.org/dictionary/english/make-a-go-of"
+        },
+        {
+          "expression": "scrape a living",
+          "url": "https://dictionary.cambridge.org/dictionary/english/scrape-a-living"
+        },
+        {
+          "expression": "strike dumb",
+          "url": "https://dictionary.cambridge.org/dictionary/english/strike-dumb"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "b6e7462a1cc2ee98ff512758f31c7192b12cd24f8fbf1f2b0985ff4711c54319",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-1-2",
+      "book": "07",
+      "test": "1",
+      "passage": 2,
+      "title": "Making Every Drop Count",
+      "chineseTitle": "每一滴水都要算数",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-1-Passage-2-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 26–29; answer page 157",
+      "sourceSha256": "d3c7ed1b82bd2e94c851e727050e0029ee9f76e2af9af87b6e5b4c260fc72a9d",
+      "jsonTestId": "cambridge-07-reading-test-1",
+      "questionSections": [
+        "Questions 14-20 headings",
+        "Questions 21-26 YES/NO/NOT GIVEN"
+      ],
+      "answerKeySummary": "14 xi; 15 vii; 16 v; 17 i; 18 ix; 19 ii; 20 x; 21 NO; 22 YES; 23 NOT GIVEN; 24 NO; 25 YES; 26 NOT GIVEN",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 34,
+      "sourcePages": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "answerKeyPage": 157,
+      "webSources": [
+        {
+          "expression": "be entwined with",
+          "url": "https://dictionary.cambridge.org/dictionary/english/entwine"
+        },
+        {
+          "expression": "keep pace with",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pace"
+        },
+        {
+          "expression": "last resort",
+          "url": "https://dictionary.cambridge.org/dictionary/english/resort"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "76ba63addc2a8a09e12c357272cade514257b478e86937e04b73bc82c12fdc4e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-1-3",
+      "book": "07",
+      "test": "1",
+      "passage": 3,
+      "title": "Educating Psyche",
+      "chineseTitle": "暗示、音乐与无意识学习",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-1-Passage-3-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 30–33; answer page 157",
+      "sourceSha256": "0aea621ce46067626f5b74260901112c2af4b32a6ad1c6244c6f235ba7eceb15",
+      "jsonTestId": "cambridge-07-reading-test-1",
+      "questionSections": [
+        "Questions 27-30 multiple choice",
+        "Questions 31-36 TRUE/FALSE/NOT GIVEN",
+        "Questions 37-40 summary with word list"
+      ],
+      "answerKeySummary": "27 D; 28 A; 29 B; 30 C; 31 FALSE; 32 FALSE; 33 TRUE; 34 NOT GIVEN; 35 NOT GIVEN; 36 TRUE; 37 F; 38 H; 39 K; 40 G",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 45,
+      "sourcePages": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "answerKeyPage": 157,
+      "webSources": [
+        {
+          "expression": "power of suggestion",
+          "url": "https://dictionary.cambridge.org/dictionary/english/suggestion"
+        },
+        {
+          "expression": "set out to learn",
+          "url": "https://dictionary.cambridge.org/dictionary/english/set-out"
+        },
+        {
+          "expression": "tap reserve capacity",
+          "url": "https://dictionary.cambridge.org/dictionary/english/tap"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "19c43bec9639ee5ca512f81c10e4488aa590f3de6aa55924f288a085ee1dc501",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-2-1",
+      "book": "07",
+      "test": "2",
+      "passage": 1,
+      "title": "Why pagodas don't fall down",
+      "chineseTitle": "木塔为什么不倒",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-2-Passage-1-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 44–47; answer page 159",
+      "sourceSha256": "b89935d26727e16ee362c6fbee091527b55a9657a240985eb236cfe7d9b86d4d",
+      "jsonTestId": "cambridge-07-reading-test-2",
+      "questionSections": [
+        "Questions 1-4 YES/NO/NOT GIVEN",
+        "Questions 5-10 classification",
+        "Questions 11-13 multiple choice"
+      ],
+      "answerKeySummary": "1 YES; 2 NO; 3 NOT GIVEN; 4 YES; 5 B; 6 A; 7 B; 8 C; 9 A; 10 C; 11 D; 12 C; 13 C",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 45,
+      "sourcePages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "answerKeyPage": 159,
+      "webSources": [
+        {
+          "expression": "resilience",
+          "url": "https://dictionary.cambridge.org/dictionary/english/resilience"
+        },
+        {
+          "expression": "trial and error",
+          "url": "https://dictionary.cambridge.org/dictionary/english/trial-and-error"
+        },
+        {
+          "expression": "anticipate",
+          "url": "https://dictionary.cambridge.org/dictionary/english/anticipate"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "b89935d26727e16ee362c6fbee091527b55a9657a240985eb236cfe7d9b86d4d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-2-2",
+      "book": "07",
+      "test": "2",
+      "passage": 2,
+      "title": "The True Cost of Food",
+      "chineseTitle": "食物的真实成本",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-2-Passage-2-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 48–51; answer page 159",
+      "sourceSha256": "691231c2f5595b8a35f262de2ad052f08d41db3c2ecc01c4ffc101f72fa17743",
+      "jsonTestId": "cambridge-07-reading-test-2",
+      "questionSections": [
+        "Questions 14-17 paragraph matching",
+        "Questions 18-21 YES/NO/NOT GIVEN",
+        "Questions 22-26 summary completion"
+      ],
+      "answerKeySummary": "14 E; 15 B; 16 C; 17 B; 18 YES; 19 NOT GIVEN; 20 NO; 21 YES; 22 food bills/costs; 23 (modern) intensive farming; 24 organic farming; 25 Greener Food Standard; 26 farmers and consumers",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 34,
+      "sourcePages": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "answerKeyPage": 159,
+      "webSources": [
+        {
+          "expression": "collateral damage",
+          "url": "https://dictionary.cambridge.org/dictionary/english/collateral-damage"
+        },
+        {
+          "expression": "externality",
+          "url": "https://dictionary.cambridge.org/dictionary/english/externality"
+        },
+        {
+          "expression": "go a long way",
+          "url": "https://dictionary.cambridge.org/dictionary/english/go-a-long-way"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "691231c2f5595b8a35f262de2ad052f08d41db3c2ecc01c4ffc101f72fa17743",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-2-3",
+      "book": "07",
+      "test": "2",
+      "passage": 3,
+      "title": "Makete Integrated Rural Transport Project",
+      "chineseTitle": "Makete 乡村交通项目",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-2-Passage-3-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 52–56; answer page 159",
+      "sourceSha256": "23fced8f9eb631c7c2ddc3f4f5eaa22f159407d21de5ff0bce6e574b56eab993",
+      "jsonTestId": "cambridge-07-reading-test-2",
+      "questionSections": [
+        "Questions 27-30 headings",
+        "Questions 31-35 YES/NO/NOT GIVEN",
+        "Questions 36-39 sentence endings",
+        "Question 40 main aim"
+      ],
+      "answerKeySummary": "27 ii; 28 v; 29 x; 30 i; 31 NO; 32 YES; 33 NO; 34 YES; 35 NOT GIVEN; 36 D; 37 I; 38 G; 39 E; 40 B",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 51,
+      "sourcePages": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "answerKeyPage": 159,
+      "webSources": [
+        {
+          "expression": "tackle",
+          "url": "https://dictionary.cambridge.org/dictionary/english/tackle"
+        },
+        {
+          "expression": "top-down",
+          "url": "https://dictionary.cambridge.org/dictionary/english/top-down"
+        },
+        {
+          "expression": "awareness",
+          "url": "https://dictionary.cambridge.org/dictionary/english/awareness"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "23fced8f9eb631c7c2ddc3f4f5eaa22f159407d21de5ff0bce6e574b56eab993",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-3-1",
+      "book": "07",
+      "test": "3",
+      "passage": 1,
+      "title": "Ant Intelligence",
+      "chineseTitle": "蚂蚁也有智能吗",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-3-Passage-1-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 69–72; answer page 161",
+      "sourceSha256": "ebd0a2f1f7377d6dfbba6eeb7b52148440ea799f62fa9b7e8bfb9f0909b5fd9c",
+      "jsonTestId": "cambridge-07-reading-test-3",
+      "questionSections": [
+        "Questions 1-6 TRUE/FALSE/NOT GIVEN",
+        "Questions 7-13 summary with word list"
+      ],
+      "answerKeySummary": "1 FALSE; 2 TRUE; 3 NOT GIVEN; 4 TRUE; 5 FALSE; 6 NOT GIVEN; 7 C; 8 M; 9 F; 10 D; 11 N; 12 O; 13 E",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 47,
+      "sourcePages": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "answerKeyPage": 161,
+      "webSources": [
+        {
+          "expression": "Intelligence（Cambridge Dictionary）",
+          "url": "https://dictionary.cambridge.org/dictionary/english/intelligence"
+        },
+        {
+          "expression": "Spring to mind（Cambridge Dictionary）",
+          "url": "https://dictionary.cambridge.org/dictionary/english/spring-to-mind"
+        },
+        {
+          "expression": "Forcing house（Cambridge Dictionary）",
+          "url": "https://dictionary.cambridge.org/dictionary/english/forcing-house"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "ebd0a2f1f7377d6dfbba6eeb7b52148440ea799f62fa9b7e8bfb9f0909b5fd9c",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-3-2",
+      "book": "07",
+      "test": "3",
+      "passage": 2,
+      "title": "Population movements and genetics",
+      "chineseTitle": "基因证据如何追踪美洲迁徙",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-3-Passage-2-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 73–77; answer page 161",
+      "sourceSha256": "b66902e6be8fcc2efc622fdc368aae76fc5bd7b5673b22bb21d1aa3785e9bdb0",
+      "jsonTestId": "cambridge-07-reading-test-3",
+      "questionSections": [
+        "Questions 14-19 headings",
+        "Questions 20-21 route table",
+        "Questions 22-25 classification",
+        "Question 26 multiple choice"
+      ],
+      "answerKeySummary": "14 iv; 15 vii; 16 x; 17 i; 18 vi; 19 ii; 20 E; 21 D; 22 C; 23 B; 24 A; 25 A; 26 A",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 31,
+      "sourcePages": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "answerKeyPage": 161,
+      "webSources": [
+        {
+          "expression": "footing 的释义",
+          "url": "https://dictionary.cambridge.org/dictionary/english/footing"
+        },
+        {
+          "expression": "calibrate 的释义",
+          "url": "https://dictionary.cambridge.org/dictionary/english/calibrate"
+        },
+        {
+          "expression": "give credence to 的释义",
+          "url": "https://dictionary.cambridge.org/dictionary/english/give-credence-to"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "b66902e6be8fcc2efc622fdc368aae76fc5bd7b5673b22bb21d1aa3785e9bdb0",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1
+    },
+    {
+      "key": "07-3-3",
+      "book": "07",
+      "test": "3",
+      "passage": 3,
+      "title": "Plans to protect the forests of Europe",
+      "chineseTitle": "欧洲森林保护计划",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-3-Passage-3-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 78–81; answer page 161",
+      "sourceSha256": "6cdf1c4dc2266de56b1f3286df3630fdcb35aa2aa7815b6cd6d55ff54fd0b01d",
+      "jsonTestId": "cambridge-07-reading-test-3",
+      "questionSections": [
+        "Questions 27-33 TRUE/FALSE/NOT GIVEN",
+        "Questions 34-39 resolution matching",
+        "Question 40 best title"
+      ],
+      "answerKeySummary": "27 NOT GIVEN; 28 FALSE; 29 TRUE; 30 FALSE; 31 FALSE; 32 FALSE; 33 TRUE; 34 J; 35 A; 36 E; 37 B; 38 G; 39 D; 40 B",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 46,
+      "sourcePages": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "answerKeyPage": 161,
+      "webSources": [
+        {
+          "expression": "heritage 的释义",
+          "url": "https://dictionary.cambridge.org/dictionary/english/heritage"
+        },
+        {
+          "expression": "transcend 的释义",
+          "url": "https://dictionary.cambridge.org/dictionary/english/transcend"
+        },
+        {
+          "expression": "cumulative effect 的释义",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/cumulative-effect"
+        }
+      ],
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "6cdf1c4dc2266de56b1f3286df3630fdcb35aa2aa7815b6cd6d55ff54fd0b01d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-4-1",
+      "book": "07",
+      "test": "4",
+      "passage": 1,
+      "title": "Pulling strings to build pyramids",
+      "chineseTitle": "风筝能否建起金字塔",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-4-Passage-1-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 93–95; answer page 163",
+      "sourceSha256": "07a00f197727713868358e279055ad1f900cf52658c08727b6bfb1b320b84946",
+      "jsonTestId": "cambridge-07-reading-test-4",
+      "jsonRawOcrLength": 23075,
+      "questionSections": [
+        "Questions 1-7 TRUE/FALSE/NOT GIVEN",
+        "Questions 8-13 summary completion"
+      ],
+      "answerKeySummary": "1 TRUE; 2 FALSE; 3 NOT GIVEN; 4 TRUE; 5 FALSE; 6 NOT GIVEN; 7 TRUE; 8 (wooden) pulleys; 9 stone; 10 (accomplished) sailors; 11 (modern) glider; 12 flight; 13 messages",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 49,
+      "sourcePages": [
+        93,
+        94,
+        95
+      ],
+      "answerKeyPage": 163,
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "07a00f197727713868358e279055ad1f900cf52658c08727b6bfb1b320b84946",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-4-2",
+      "book": "07",
+      "test": "4",
+      "passage": 2,
+      "title": "Endless Harvest",
+      "chineseTitle": "阿拉斯加鲑鱼的可持续丰收",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-4-Passage-2-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 96–99; answer page 163",
+      "sourceSha256": "3910695215317d873daca24c973fb3211df4ecca43f435ab62ef5114791bbe1d",
+      "jsonTestId": "cambridge-07-reading-test-4",
+      "jsonRawOcrLength": 23075,
+      "questionSections": [
+        "Questions 14-20 TRUE/FALSE/NOT GIVEN",
+        "Questions 21-26 sentence endings"
+      ],
+      "answerKeySummary": "14 FALSE; 15 NOT GIVEN; 16 TRUE; 17 NOT GIVEN; 18 TRUE; 19 TRUE; 20 FALSE; 21 G; 22 E; 23 B; 24 A; 25 K; 26 F",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 39,
+      "sourcePages": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "answerKeyPage": 163,
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "3910695215317d873daca24c973fb3211df4ecca43f435ab62ef5114791bbe1d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    },
+    {
+      "key": "07-4-3",
+      "book": "07",
+      "test": "4",
+      "passage": 3,
+      "title": "Effects of Noise",
+      "chineseTitle": "噪音真正伤人的地方",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-07-Test-4-Passage-3-双语精读.md",
+      "recoveredSource": null,
+      "sourceKind": "original_pdf_manually_calibrated",
+      "sourceBank": "data/cambridge-test-bank.json",
+      "sourceFallback": null,
+      "sourceEvidence": "data/Cambridge-IELTS-07.pdf physical pages 100–104; answer page 163",
+      "sourceSha256": "2064e6811a8e17afd895ed73327de7760f6a2bacc418c8c4f66a1d7d6ee15bf7",
+      "jsonTestId": "cambridge-07-reading-test-4",
+      "jsonRawOcrLength": 23075,
+      "questionSections": [
+        "Questions 27-29 multiple choice",
+        "Questions 30-34 summary with word list",
+        "Questions 35-40 researcher matching"
+      ],
+      "answerKeySummary": "27 D; 28 C; 29 A; 30 B; 31 D; 32 F; 33 I; 34 B; 35 A; 36 D; 37 A; 38 E; 39 B; 40 C",
+      "materialExtension": "web_enriched",
+      "materialUrl": null,
+      "partial": false,
+      "sentenceCount": 31,
+      "sourcePages": [
+        100,
+        101,
+        102,
+        103,
+        104
+      ],
+      "answerKeyPage": 163,
+      "qualityRevision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "2064e6811a8e17afd895ed73327de7760f6a2bacc418c8c4f66a1d7d6ee15bf7",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0
+    }
+  ]
+}
