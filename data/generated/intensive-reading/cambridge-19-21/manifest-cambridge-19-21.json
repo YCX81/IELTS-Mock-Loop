@@ -1,0 +1,1608 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.726Z",
+  "workerScope": "cambridge-19-21-reading-intensive-reading",
+  "generatedBy": "codex cambridge-19-21 intensive-reading worker",
+  "constraints": {
+    "writeScope": "data/generated/intensive-reading/cambridge-19-21/",
+    "sourceBank": "data/generated/reports/cambridge-test-bank.json",
+    "sourceFallbacks": [
+      "data/generated/text-pages/cambridge-ielts-XX.raw.md",
+      "data/generated/page-json/cambridge-ielts-XX.pages.json"
+    ],
+    "skill": "skills/bilingual-intensive-reading/SKILL.md",
+    "research": "web_enrichment_when_available; no invented real citations"
+  },
+  "strategy": {
+    "passageSelection": "readingSections.filter(kind==='reading' && title matches /^Reading Passage \\d+$/)",
+    "instructionFix": "When a paragraph starts with You should spend... but also contains title/body after below, only the instruction prefix is stripped and the body is retained.",
+    "embeddedQuestionFix": "If a question marker appears inside a reading paragraph, content after the marker and all following paragraphs are treated as recovered question text.",
+    "answerKeyFilter": "Answer-key and score-band paragraphs are excluded from main Markdown question explanations but retained in recovered source evidence when present.",
+    "questionAssociation": "Question sections are associated by parsed question numbers into 1-13, 14-26, 27-40; mislabelled kind=reading Question sections are treated as questions.",
+    "recovery": "Suspicious embedded questions, missing question coverage, or OCR/page split anomalies are recorded under recovered-sources without changing source OCR or bank files.",
+    "translationNote": "Offline Chinese paragraphs are generated as natural paragraph-level interpretive translations/译读 with source-order coverage; source English remains visible for checking."
+  },
+  "counts": {
+    "targetReadingTests": 12,
+    "expectedPassageFiles": 36,
+    "generatedPassageFiles": 36,
+    "recoveredSourceFiles": 6,
+    "skippedExisting": 0,
+    "missingQuestionItems": 0
+  },
+  "anomalies": [
+    {
+      "id": "cambridge-20-reading-test-3",
+      "type": "non_standard_kind_reading",
+      "title": "Overview",
+      "action": "ignored_as_overview_noise"
+    },
+    {
+      "id": "cambridge-21-reading-test-1",
+      "type": "non_standard_kind_reading",
+      "title": "Overview",
+      "action": "ignored_as_overview_noise"
+    },
+    {
+      "id": "cambridge-21-reading-test-2",
+      "type": "non_standard_kind_reading",
+      "title": "Overview",
+      "action": "ignored_as_overview_noise"
+    },
+    {
+      "id": "cambridge-21-reading-test-2",
+      "type": "non_standard_kind_reading",
+      "title": "Question 40",
+      "action": "treated_as_question_section"
+    },
+    {
+      "id": "cambridge-21-reading-test-3",
+      "type": "non_standard_kind_reading",
+      "title": "Overview",
+      "action": "ignored_as_overview_noise"
+    }
+  ],
+  "skippedExisting": [],
+  "items": [
+    {
+      "id": "cambridge-19-reading-test-1",
+      "book": 19,
+      "test": 1,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-1-Passage-1-双语精读.md",
+      "englishTitle": "How tennis rackets have changed",
+      "chineseTitle": "网球拍经历了怎样的变化",
+      "paragraphs": 11,
+      "sentenceCount": 41,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "account for",
+          "title": "Cambridge Dictionary: account for",
+          "url": "https://dictionary.cambridge.org/dictionary/english/account-for"
+        },
+        {
+          "expression": "tweak",
+          "title": "Cambridge Dictionary: tweak",
+          "url": "https://dictionary.cambridge.org/dictionary/english/tweak"
+        },
+        {
+          "expression": "battle it out",
+          "title": "Cambridge Dictionary: fight it out",
+          "url": "https://dictionary.cambridge.org/dictionary/english/fight-it-out"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "b116650ad62a73d941a55ab9a8941e69c50a957a5fbc53a971784d70114d9483",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-1",
+      "book": 19,
+      "test": 1,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-1-Passage-2-双语精读.md",
+      "englishTitle": "The pirates of the ancient Mediterranean",
+      "chineseTitle": "古代地中海海盗：贸易、风险与权力",
+      "paragraphs": 7,
+      "sentenceCount": 51,
+      "questionSections": [
+        "Questions 14-19",
+        "Questions 20 and 21",
+        "Questions 22 and 23",
+        "Questions 24-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "spring to mind",
+          "title": "Cambridge Dictionary: spring to mind",
+          "url": "https://dictionary.cambridge.org/dictionary/english/spring-to-mind"
+        },
+        {
+          "expression": "resort to",
+          "title": "Cambridge Dictionary: resort to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/resort-to"
+        },
+        {
+          "expression": "outlive one's usefulness",
+          "title": "Cambridge Dictionary: outlive usefulness",
+          "url": "https://dictionary.cambridge.org/dictionary/english/outlive-usefulness"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "67dcec5894c77ebdde853794bac697f431a9699fb7ec95f1f8ba95d66c9ce4bf",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-1",
+      "book": 19,
+      "test": 1,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-1-Passage-3-双语精读.md",
+      "englishTitle": "The persistence and peril of misinformation",
+      "chineseTitle": "错误信息为什么这么难消失",
+      "paragraphs": 8,
+      "sentenceCount": 34,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-36",
+        "Questions 37-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "misinformation",
+          "title": "Cambridge Dictionary: misinformation",
+          "url": "https://dictionary.cambridge.org/dictionary/english/misinformation"
+        },
+        {
+          "expression": "loom large",
+          "title": "Cambridge Dictionary: loom large",
+          "url": "https://dictionary.cambridge.org/dictionary/english/loom-large"
+        },
+        {
+          "expression": "panacea",
+          "title": "Cambridge Dictionary: panacea",
+          "url": "https://dictionary.cambridge.org/dictionary/english/panacea"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "204a1a8455b4678844eccf8613a903b5a4cb06ee88b1bbbaa66a5d324ca3ea5d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-2",
+      "book": 19,
+      "test": 2,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-2-Passage-1-双语精读.md",
+      "englishTitle": "The Industrial Revolution in Britain",
+      "chineseTitle": "英国工业革命：机器如何改写社会",
+      "paragraphs": 9,
+      "sentenceCount": 38,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "date back to",
+          "title": "Cambridge Dictionary: date back",
+          "url": "https://dictionary.cambridge.org/dictionary/english/date-back"
+        },
+        {
+          "expression": "cottage industry",
+          "title": "Cambridge Dictionary: cottage industry",
+          "url": "https://dictionary.cambridge.org/dictionary/english/cottage-industry"
+        },
+        {
+          "expression": "livelihood",
+          "title": "Cambridge Dictionary: livelihood",
+          "url": "https://dictionary.cambridge.org/dictionary/english/livelihood"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "cf9c3c19eca0ae4b8c2fb80a9c4e3891122199d9bfaea0e62894b11d975a1f68",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-2",
+      "book": 19,
+      "test": 2,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-2-Passage-2-双语精读.md",
+      "englishTitle": "Athletes and stress",
+      "chineseTitle": "运动员与压力：表现从哪里失控",
+      "paragraphs": 6,
+      "sentenceCount": 39,
+      "questionSections": [
+        "Questions 14-18",
+        "Questions 19-22",
+        "Questions 23 and 24",
+        "Questions 25 and 26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "attribute to",
+          "title": "Cambridge Dictionary: attribute to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/attribute-to"
+        },
+        {
+          "expression": "cope with",
+          "title": "Cambridge Dictionary: cope",
+          "url": "https://dictionary.cambridge.org/dictionary/english/cope"
+        },
+        {
+          "expression": "visualisation",
+          "title": "Cambridge Dictionary: visualization",
+          "url": "https://dictionary.cambridge.org/dictionary/english/visualization"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "8a6970cbf3e100631ee4bec0e67d78034ef3377a81ecdfda81d3adee21bcdf0e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-2",
+      "book": 19,
+      "test": 2,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-2-Passage-3-双语精读.md",
+      "englishTitle": "An inquiry into the existence of the gifted child",
+      "chineseTitle": "所谓天才儿童，真的存在吗",
+      "paragraphs": 10,
+      "sentenceCount": 50,
+      "questionSections": [
+        "Questions 27-32",
+        "Questions 33-37",
+        "Questions 38-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "lay one's hands on",
+          "title": "Cambridge Dictionary: get/lay/put one's hands on something",
+          "url": "https://dictionary.cambridge.org/dictionary/english/get-lay-put-one-s-hands-on-sth"
+        },
+        {
+          "expression": "plug away",
+          "title": "Cambridge Dictionary: plug away",
+          "url": "https://dictionary.cambridge.org/dictionary/english/plug-away"
+        },
+        {
+          "expression": "the jury is out",
+          "title": "Cambridge Dictionary: jury is out",
+          "url": "https://dictionary.cambridge.org/dictionary/english/jury-is-out"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "8cf559864ebfba797553ac3f86749a270abc26c8c5dcb7e9b9feda33d53ab283",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-3",
+      "book": 19,
+      "test": 3,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-3-Passage-1-双语精读.md",
+      "englishTitle": "Archaeologists discover evidence of prehistoric island settlers",
+      "chineseTitle": "史前岛民留下的线索",
+      "paragraphs": 9,
+      "sentenceCount": 31,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "adept",
+          "title": "Cambridge Dictionary: adept",
+          "url": "https://dictionary.cambridge.org/dictionary/english/adept"
+        },
+        {
+          "expression": "stepping stone",
+          "title": "Cambridge Dictionary: stepping stone",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stepping-stone"
+        },
+        {
+          "expression": "be no match for",
+          "title": "Cambridge Dictionary: be no match for",
+          "url": "https://dictionary.cambridge.org/dictionary/english/be-no-match-for"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "27904413abe043abed683c8c2abf9a3344deb8364ee0af41f55065abe5ba7aa8",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-3",
+      "book": 19,
+      "test": 3,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-3-Passage-2-双语精读.md",
+      "englishTitle": "The global importance of wetlands",
+      "chineseTitle": "湿地为什么是全球生态的关键",
+      "paragraphs": 8,
+      "sentenceCount": 45,
+      "questionSections": [
+        "Questions 14-17",
+        "Questions 18-22",
+        "Questions 23-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "as simple as",
+          "title": "Cambridge Dictionary: simple",
+          "url": "https://dictionary.cambridge.org/dictionary/english/simple"
+        },
+        {
+          "expression": "set out to do",
+          "title": "Cambridge Dictionary: set out",
+          "url": "https://dictionary.cambridge.org/dictionary/english/set-out"
+        },
+        {
+          "expression": "cautiously optimistic",
+          "title": "Cambridge Dictionary: cautiously optimistic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/cautiously-optimistic"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "88327e9670a20cf3c54403282dd20c551d4e9383929d038d7daa67e283c387d3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-3",
+      "book": 19,
+      "test": 3,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-3-Passage-3-双语精读.md",
+      "englishTitle": "Is the era of artificial speech translation upon us?",
+      "chineseTitle": "机器同传时代真的到了吗",
+      "paragraphs": 9,
+      "sentenceCount": 39,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-34",
+        "Questions 35-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "the stuff of",
+          "title": "Cambridge Dictionary: stuff of",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stuff-of"
+        },
+        {
+          "expression": "take off",
+          "title": "Cambridge Dictionary: take off",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-off"
+        },
+        {
+          "expression": "lingua franca",
+          "title": "Cambridge Dictionary: lingua franca",
+          "url": "https://dictionary.cambridge.org/dictionary/english/lingua-franca"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "7d00377029794de0731fe0e387b2767a437c5bc2af172bb3cce7ad229b44ea89",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-4",
+      "book": 19,
+      "test": 4,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-4-Passage-1-双语精读.md",
+      "englishTitle": "The impact of climate change on butterflies in Britain",
+      "chineseTitle": "气候变化如何牵动英国蝴蝶",
+      "paragraphs": 9,
+      "sentenceCount": 35,
+      "questionSections": [
+        "Questions 1-6",
+        "Questions 7-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "knock-on effect",
+          "title": "Cambridge Dictionary: knock-on effect",
+          "url": "https://dictionary.cambridge.org/dictionary/english/knock-on-effect"
+        },
+        {
+          "expression": "arm someone with something",
+          "title": "Cambridge Dictionary: arm with",
+          "url": "https://dictionary.cambridge.org/dictionary/english/arm-with"
+        },
+        {
+          "expression": "play a part",
+          "title": "Cambridge Dictionary: play a part",
+          "url": "https://dictionary.cambridge.org/dictionary/english/play-a-part"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "a6b368222c0431be3c14d744260fc2735ff2e15e0a1f27f3b0ce74aec4f5f621",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-4",
+      "book": 19,
+      "test": 4,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-4-Passage-2-双语精读.md",
+      "englishTitle": "Deep-sea mining",
+      "chineseTitle": "深海采矿：诱人资源与未知代价",
+      "paragraphs": 6,
+      "sentenceCount": 30,
+      "questionSections": [
+        "Questions 14-17",
+        "Questions 18-23",
+        "Questions 24-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "weigh something up",
+          "title": "Cambridge Dictionary: weigh up",
+          "url": "https://dictionary.cambridge.org/dictionary/english/weigh-up"
+        },
+        {
+          "expression": "gold rush",
+          "title": "Cambridge Dictionary: gold rush",
+          "url": "https://dictionary.cambridge.org/dictionary/english/gold-rush"
+        },
+        {
+          "expression": "off-limits",
+          "title": "Cambridge Dictionary: off-limits",
+          "url": "https://dictionary.cambridge.org/dictionary/english/off-limits"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "7bee4be2722ab0fe982db7b19920e68e0acaef5f27d33e9a4540d5816c58e3ef",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-19-reading-test-4",
+      "book": 19,
+      "test": 4,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-19-Test-4-Passage-3-双语精读.md",
+      "englishTitle": "The Unselfish Gene",
+      "chineseTitle": "不自私的基因：人类合作从哪里来",
+      "paragraphs": 10,
+      "sentenceCount": 37,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-35",
+        "Questions 36-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "ulterior",
+          "title": "Cambridge Dictionary: ulterior",
+          "url": "https://dictionary.cambridge.org/dictionary/english/ulterior"
+        },
+        {
+          "expression": "in view of",
+          "title": "Cambridge Dictionary: in view of",
+          "url": "https://dictionary.cambridge.org/dictionary/english/in-view-of"
+        },
+        {
+          "expression": "at any rate",
+          "title": "Cambridge Dictionary: at any rate",
+          "url": "https://dictionary.cambridge.org/dictionary/english/at-any-rate"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "ca3099452fd5b545956e71295ea75e899a72424f59853391c1cbfa2249f8569e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-1",
+      "book": 20,
+      "test": 1,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-1-Passage-1-双语精读.md",
+      "englishTitle": "The kākāpō",
+      "chineseTitle": "鸮鹦鹉：不会飞的珍宝如何被守住",
+      "paragraphs": 9,
+      "sentenceCount": 50,
+      "questionSections": [
+        "Questions 1-6",
+        "Questions 7-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "cling to life",
+          "title": "Cambridge Dictionary: cling to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/cling-to"
+        },
+        {
+          "expression": "offset",
+          "title": "Cambridge Dictionary: offset",
+          "url": "https://dictionary.cambridge.org/dictionary/english/offset"
+        },
+        {
+          "expression": "stakeholder",
+          "title": "Cambridge Dictionary: stakeholder",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stakeholder"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "0ed32c9ffa2389d2febf289155183789c3079d7d7f2c70874bd271fd4ce0b900",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-1",
+      "book": 20,
+      "test": 1,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-1-Passage-2-双语精读.md",
+      "englishTitle": "To Britain",
+      "chineseTitle": "重返英国：榆树能否回归",
+      "paragraphs": 8,
+      "sentenceCount": 52,
+      "questionSections": [
+        "Questions 14-18",
+        "Questions 19-23",
+        "Questions 24-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "aftermath",
+          "title": "Cambridge Dictionary: aftermath",
+          "url": "https://dictionary.cambridge.org/dictionary/english/aftermath"
+        },
+        {
+          "expression": "take hold",
+          "title": "Cambridge Dictionary: take hold",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-hold"
+        },
+        {
+          "expression": "on the face of it",
+          "title": "Cambridge Dictionary: on the face of it",
+          "url": "https://dictionary.cambridge.org/dictionary/english/on-the-face-of-it"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "4672f0882637be8342f32606d8e8bc072dac28e0e55c617022973b578baee6ea",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-1",
+      "book": 20,
+      "test": 1,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-1-Passage-3-双语精读.md",
+      "englishTitle": "How stress affects our judgement",
+      "chineseTitle": "压力怎样改变我们的判断",
+      "paragraphs": 12,
+      "sentenceCount": 41,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-35",
+        "Questions 36-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "weigh something up",
+          "title": "Cambridge Dictionary: weigh up",
+          "url": "https://dictionary.cambridge.org/dictionary/english/weigh-up"
+        },
+        {
+          "expression": "hypervigilant",
+          "title": "Cambridge Dictionary: hypervigilant",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hypervigilant"
+        },
+        {
+          "expression": "agent of change",
+          "title": "Cambridge Dictionary: agent of change",
+          "url": "https://dictionary.cambridge.org/dictionary/english/agent-of-change"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "867d81405ba69950466e3fb291dbde4f2d80841a44dbc61259d6f9cce7e807e4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-2",
+      "book": 20,
+      "test": 2,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-2-Passage-1-双语精读.md",
+      "englishTitle": "Manatees",
+      "chineseTitle": "海牛：迟缓温和的海中食草者",
+      "paragraphs": 11,
+      "sentenceCount": 48,
+      "questionSections": [
+        "Questions 1-6",
+        "Questions 7-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "aquatic",
+          "title": "Cambridge Dictionary: aquatic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/aquatic"
+        },
+        {
+          "expression": "buoyancy",
+          "title": "Cambridge Dictionary: buoyancy",
+          "url": "https://dictionary.cambridge.org/dictionary/english/buoyancy"
+        },
+        {
+          "expression": "entanglement",
+          "title": "Cambridge Dictionary: entanglement",
+          "url": "https://dictionary.cambridge.org/dictionary/english/entanglement"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "1554ccfa11bd84b28dc260f90515f8fd44e73cabc3265e7b765339c2ead0038f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-2",
+      "book": 20,
+      "test": 2,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-2-Passage-2-双语精读.md",
+      "englishTitle": "Procrastination",
+      "chineseTitle": "拖延症：不是懒，而是情绪管理",
+      "paragraphs": 7,
+      "sentenceCount": 45,
+      "questionSections": [
+        "Questions 14-16",
+        "Questions 17-22",
+        "Questions 23 and 24",
+        "Questions 25 and 26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "procrastination",
+          "title": "Cambridge Dictionary: procrastination",
+          "url": "https://dictionary.cambridge.org/dictionary/english/procrastination"
+        },
+        {
+          "expression": "vicious circle",
+          "title": "Cambridge Dictionary: vicious circle",
+          "url": "https://dictionary.cambridge.org/dictionary/english/vicious-circle"
+        },
+        {
+          "expression": "take the edge off",
+          "title": "Cambridge Dictionary: take the edge off",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-the-edge-off"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "3e460fb04d1964c9e82f1309cca761984a80da2c348caf7ee353eafb2f3a6a88",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-2",
+      "book": 20,
+      "test": 2,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-2-Passage-3-双语精读.md",
+      "englishTitle": "Invasion of the Robot Umpires",
+      "chineseTitle": "机器人裁判来了，争议却安静了",
+      "paragraphs": 10,
+      "sentenceCount": 59,
+      "questionSections": [
+        "Questions 27-32",
+        "Questions 33-37",
+        "Questions 38-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "judgment call",
+          "title": "Cambridge Dictionary: judgment call",
+          "url": "https://dictionary.cambridge.org/dictionary/english/judgment-call"
+        },
+        {
+          "expression": "rule out",
+          "title": "Cambridge Dictionary: rule out",
+          "url": "https://dictionary.cambridge.org/dictionary/english/rule-out"
+        },
+        {
+          "expression": "dissenting",
+          "title": "Cambridge Dictionary: dissenting",
+          "url": "https://dictionary.cambridge.org/dictionary/english/dissenting"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "8ce3614629c38d5c3a73359686c110e6b3564ac84519e81f870c94d6c0e0f1f6",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-3",
+      "book": 20,
+      "test": 3,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-3-Passage-1-双语精读.md",
+      "englishTitle": "Frozen Food",
+      "chineseTitle": "冷冻食品：从天然冰到百亿美元产业",
+      "paragraphs": 11,
+      "sentenceCount": 48,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "preserve",
+          "title": "Cambridge Dictionary: preserve",
+          "url": "https://dictionary.cambridge.org/dictionary/english/preserve"
+        },
+        {
+          "expression": "deterioration",
+          "title": "Cambridge Dictionary: deterioration",
+          "url": "https://dictionary.cambridge.org/dictionary/english/deterioration"
+        },
+        {
+          "expression": "take advantage of",
+          "title": "Cambridge Dictionary: take advantage of",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-advantage-of"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "1a853e8b816898dc106fb11a8fbee212f2dc022d78848520477197cf420cc433",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-3",
+      "book": 20,
+      "test": 3,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-3-Passage-2-双语精读.md",
+      "englishTitle": "Can the planet's coral reefs be saved?",
+      "chineseTitle": "珊瑚礁还能被拯救吗？",
+      "paragraphs": 9,
+      "sentenceCount": 41,
+      "questionSections": [
+        "Questions 14-19",
+        "Questions 20 and 21",
+        "Questions 22 and 23",
+        "Questions 24-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "put the final touches to",
+          "title": "Cambridge Dictionary: put the finishing touches to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/put-the-finishing-touches-to"
+        },
+        {
+          "expression": "symbiotic",
+          "title": "Cambridge Dictionary: symbiotic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/symbiotic"
+        },
+        {
+          "expression": "pinpoint",
+          "title": "Cambridge Dictionary: pinpoint",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pinpoint"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "02aabe7950a63f5886843cf01d2a99828dc09847d00045d3055e653685e637da",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-3",
+      "book": 20,
+      "test": 3,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-3-Passage-3-双语精读.md",
+      "englishTitle": "Robots and us",
+      "chineseTitle": "机器人与我们：能力、伦理与想象的边界",
+      "paragraphs": 12,
+      "sentenceCount": 40,
+      "questionSections": [
+        "Questions 27-33",
+        "Questions 34-36",
+        "Questions 37-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "outstrip",
+          "title": "Cambridge Dictionary: outstrip",
+          "url": "https://dictionary.cambridge.org/dictionary/english/outstrip"
+        },
+        {
+          "expression": "personify",
+          "title": "Cambridge Dictionary: personify",
+          "url": "https://dictionary.cambridge.org/dictionary/english/personify"
+        },
+        {
+          "expression": "clear-cut",
+          "title": "Cambridge Dictionary: clear-cut",
+          "url": "https://dictionary.cambridge.org/dictionary/english/clear-cut"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "47db5775a05089f19d245c4f7fcba5c5503a8f46dce190d09ea5ad121b2be738",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-4",
+      "book": 20,
+      "test": 4,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-4-Passage-1-双语精读.md",
+      "englishTitle": "Georgia O'Keeffe",
+      "chineseTitle": "乔治娅·欧姬芙：忠于个人视野的一生",
+      "paragraphs": 13,
+      "sentenceCount": 37,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "stay true to",
+          "title": "Cambridge Dictionary: stay true to",
+          "url": "https://dictionary.cambridge.org/dictionary/english/stay-true-to"
+        },
+        {
+          "expression": "magnify",
+          "title": "Cambridge Dictionary: magnify",
+          "url": "https://dictionary.cambridge.org/dictionary/english/magnify"
+        },
+        {
+          "expression": "derive",
+          "title": "Cambridge Dictionary: derive",
+          "url": "https://dictionary.cambridge.org/dictionary/english/derive"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "d42f04370383fa36528493b90b7e0d94ee74677f2e7255d73988b1db73b9b39c",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-4",
+      "book": 20,
+      "test": 4,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-4-Passage-2-双语精读.md",
+      "englishTitle": "Adapting to the effects of climate change",
+      "chineseTitle": "适应气候变化：六地方案如何回应现实压力",
+      "paragraphs": 6,
+      "sentenceCount": 39,
+      "questionSections": [
+        "Questions 14-17",
+        "Questions 18-22",
+        "Questions 23-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "adapt",
+          "title": "Cambridge Dictionary: adapt",
+          "url": "https://dictionary.cambridge.org/dictionary/english/adapt"
+        },
+        {
+          "expression": "exacerbate",
+          "title": "Cambridge Dictionary: exacerbate",
+          "url": "https://dictionary.cambridge.org/dictionary/english/exacerbate"
+        },
+        {
+          "expression": "retrofit",
+          "title": "Cambridge Dictionary: retrofit",
+          "url": "https://dictionary.cambridge.org/dictionary/english/retrofit"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "062bd6b0feb08bb35cb0a0930a59dfc7fa9c71fd787efbf7976d769ea37ae9fa",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-20-reading-test-4",
+      "book": 20,
+      "test": 4,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-20-Test-4-Passage-3-双语精读.md",
+      "englishTitle": "A new role for livestock guard dogs",
+      "chineseTitle": "牧群守卫犬的新角色：从护畜到护兽",
+      "paragraphs": 7,
+      "sentenceCount": 40,
+      "questionSections": [
+        "Questions 27-31",
+        "Questions 32-36",
+        "Questions 37-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "revival",
+          "title": "Cambridge Dictionary: revival",
+          "url": "https://dictionary.cambridge.org/dictionary/english/revival"
+        },
+        {
+          "expression": "take something with a pinch of salt",
+          "title": "Cambridge Dictionary: take something with a pinch of salt",
+          "url": "https://dictionary.cambridge.org/dictionary/english/take-sth-with-a-pinch-of-salt"
+        },
+        {
+          "expression": "coexistence",
+          "title": "Cambridge Dictionary: coexistence",
+          "url": "https://dictionary.cambridge.org/dictionary/english/coexistence"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "370456f9b8714f9e1c2f3d8d72ea40fa5e4a460d64b865ad9934eadcc83ae2da",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-1",
+      "book": 21,
+      "test": 1,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-1-双语精读.md",
+      "englishTitle": "The Davies Sisters",
+      "chineseTitle": "戴维斯姐妹",
+      "paragraphs": 10,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "amass",
+          "title": "Cambridge Dictionary: amass",
+          "url": "https://dictionary.cambridge.org/dictionary/english/amass"
+        },
+        {
+          "expression": "means",
+          "title": "Cambridge Dictionary: means",
+          "url": "https://dictionary.cambridge.org/dictionary/english/means"
+        },
+        {
+          "expression": "legacy",
+          "title": "Cambridge Dictionary: legacy",
+          "url": "https://dictionary.cambridge.org/dictionary/english/legacy"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 35,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "29a132a51dabcadce9bf1f91f1ea4b5e12963e8b5f6a35dd25b5e4e8b651a217",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-1",
+      "book": 21,
+      "test": 1,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-2-双语精读.md",
+      "englishTitle": "Why we need silence",
+      "chineseTitle": "为什么我们需要安静",
+      "paragraphs": 9,
+      "questionSections": [
+        "Questions 14-17",
+        "Questions 18-21",
+        "Questions 22-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "attuned",
+          "title": "Cambridge Dictionary: attuned",
+          "url": "https://dictionary.cambridge.org/dictionary/english/attuned"
+        },
+        {
+          "expression": "void",
+          "title": "Cambridge Dictionary: void",
+          "url": "https://dictionary.cambridge.org/dictionary/english/void"
+        },
+        {
+          "expression": "attainable",
+          "title": "Cambridge Dictionary: attainable",
+          "url": "https://dictionary.cambridge.org/dictionary/english/attainable"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 45,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "849647866051f9246be933d89b4e0ef0f54a3a33d4067816fb6b2696d9514b10",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-1",
+      "book": 21,
+      "test": 1,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-3-双语精读.md",
+      "englishTitle": "Book review: The World of Sugar",
+      "chineseTitle": "《糖的世界》书评：甜味背后的全球史",
+      "paragraphs": 8,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-36",
+        "Questions 37-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "threaten",
+          "title": "Cambridge Dictionary: threaten",
+          "url": "https://dictionary.cambridge.org/dictionary/english/threaten"
+        },
+        {
+          "expression": "contrary",
+          "title": "Cambridge Dictionary: contrary",
+          "url": "https://dictionary.cambridge.org/dictionary/english/contrary"
+        },
+        {
+          "expression": "ubiquitous",
+          "title": "Cambridge Dictionary: ubiquitous",
+          "url": "https://dictionary.cambridge.org/dictionary/english/ubiquitous"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 44,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "90c1b986e664deba6e0106642cd3362f7b3b776106074e0773f9f2d1e7c0fc05",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-2",
+      "book": 21,
+      "test": 2,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-1-双语精读.md",
+      "englishTitle": "Do animals dream?",
+      "chineseTitle": "动物会做梦吗？",
+      "paragraphs": 10,
+      "questionSections": [
+        "Questions 1-5",
+        "Questions 6-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "vulnerable",
+          "title": "Cambridge Dictionary: vulnerable",
+          "url": "https://dictionary.cambridge.org/dictionary/english/vulnerable"
+        },
+        {
+          "expression": "dreamscape",
+          "title": "Cambridge Dictionary: dreamscape",
+          "url": "https://dictionary.cambridge.org/dictionary/english/dreamscape"
+        },
+        {
+          "expression": "shed light on",
+          "title": "Cambridge Dictionary: shed light on",
+          "url": "https://dictionary.cambridge.org/dictionary/english/shed-light-on"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 42,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "8e105bfd58090fac172deb4ad2664c7155eee17e587be6d7e95623102bcf0ddf",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-2",
+      "book": 21,
+      "test": 2,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-2-双语精读.md",
+      "englishTitle": "Mapungubwe",
+      "chineseTitle": "马蓬古布韦：高原王国的权力、贸易与衰落",
+      "paragraphs": 7,
+      "questionSections": [
+        "Questions 14-19",
+        "Questions 20-21",
+        "Questions 22-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "heart",
+          "title": "Cambridge Dictionary: heart",
+          "url": "https://dictionary.cambridge.org/dictionary/english/heart"
+        },
+        {
+          "expression": "prosperity",
+          "title": "Cambridge Dictionary: prosperity",
+          "url": "https://dictionary.cambridge.org/dictionary/english/prosperity"
+        },
+        {
+          "expression": "intrinsic",
+          "title": "Cambridge Dictionary: intrinsic",
+          "url": "https://dictionary.cambridge.org/dictionary/english/intrinsic"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 35,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "f14bc6446848d952881daf74ecb57076993d5ed04f52420a0a6d274a40874748",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-2",
+      "book": 21,
+      "test": 2,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-3-双语精读.md",
+      "englishTitle": "Artificial Intelligence",
+      "chineseTitle": "人工智能：别把技术想象成万能答案",
+      "paragraphs": 13,
+      "questionSections": [
+        "Questions 27-29",
+        "Questions 30-35",
+        "Questions 36-39",
+        "Question 40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "mindset",
+          "title": "Cambridge Dictionary: mindset",
+          "url": "https://dictionary.cambridge.org/dictionary/english/mindset"
+        },
+        {
+          "expression": "data infrastructure",
+          "title": "Cambridge Dictionary: data infrastructure",
+          "url": "https://dictionary.cambridge.org/dictionary/english/infrastructure"
+        },
+        {
+          "expression": "take a step back",
+          "title": "Cambridge Dictionary: take a step back",
+          "url": "https://dictionary.cambridge.org/dictionary/english/step-back"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 41,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "41e9be554639a0996a22abe487cf0c146063dfcaf4105ef32be522f8bcee00f3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-3",
+      "book": 21,
+      "test": 3,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-3-Passage-1-双语精读.md",
+      "englishTitle": "Saving the saiga",
+      "chineseTitle": "拯救赛加羚羊：从种群崩溃到草原复苏",
+      "paragraphs": 9,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "roam",
+          "title": "Cambridge Dictionary: roam",
+          "url": "https://dictionary.cambridge.org/dictionary/english/roam"
+        },
+        {
+          "expression": "wipe out",
+          "title": "Cambridge Dictionary: wipe out",
+          "url": "https://dictionary.cambridge.org/dictionary/english/wipe-out"
+        },
+        {
+          "expression": "spearhead",
+          "title": "Cambridge Dictionary: spearhead",
+          "url": "https://dictionary.cambridge.org/dictionary/english/spearhead"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 38,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "bcba4a96b68cae084ecfa1c844d2283cbf5a5f9095aa4a7b6f03ed8a0f578f5e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-3",
+      "book": 21,
+      "test": 3,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-3-Passage-2-双语精读.md",
+      "englishTitle": "Dar es Salaam transport",
+      "chineseTitle": "达累斯萨拉姆的出行难题：一座急速膨胀的城市如何押注公交",
+      "paragraphs": 10,
+      "questionSections": [
+        "Questions 14-18",
+        "Questions 19-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "swell",
+          "title": "Cambridge Dictionary: swell",
+          "url": "https://dictionary.cambridge.org/dictionary/english/swell"
+        },
+        {
+          "expression": "pin",
+          "title": "Cambridge Dictionary: pin",
+          "url": "https://dictionary.cambridge.org/dictionary/english/pin"
+        },
+        {
+          "expression": "parachute",
+          "title": "Cambridge Dictionary: parachute",
+          "url": "https://dictionary.cambridge.org/dictionary/english/parachute"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 40,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "d9a8fca7c60923df72d18827bfbad06ae680203cc46ebd827a47a603bf161bbd",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-3",
+      "book": 21,
+      "test": 3,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-3-Passage-3-双语精读.md",
+      "englishTitle": "Rethinking the Past",
+      "chineseTitle": "重新理解过去：证据如何改写人类史",
+      "paragraphs": 9,
+      "questionSections": [
+        "Questions 27-30",
+        "Questions 31-34",
+        "Questions 35-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "truism",
+          "title": "Cambridge Dictionary: truism",
+          "url": "https://dictionary.cambridge.org/dictionary/english/truism"
+        },
+        {
+          "expression": "contentious",
+          "title": "Cambridge Dictionary: contentious",
+          "url": "https://dictionary.cambridge.org/dictionary/english/contentious"
+        },
+        {
+          "expression": "preconception",
+          "title": "Cambridge Dictionary: preconception",
+          "url": "https://dictionary.cambridge.org/dictionary/english/preconception"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 49,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "02cd9adb837f8e4bcd15204631dc0dccb69b897d6c56fc98d93651103af9cfcc",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-4",
+      "book": 21,
+      "test": 4,
+      "passage": 1,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-4-Passage-1-双语精读.md",
+      "englishTitle": "Water hyacinth in Kenya",
+      "chineseTitle": "水葫芦蔓延带来的问题与收益",
+      "paragraphs": 11,
+      "questionSections": [
+        "Questions 1-7",
+        "Questions 8-10",
+        "Questions 11-13"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "obstruct",
+          "title": "Cambridge Dictionary: obstruct",
+          "url": "https://dictionary.cambridge.org/dictionary/english/obstruct"
+        },
+        {
+          "expression": "gold mine",
+          "title": "Cambridge Dictionary: gold mine",
+          "url": "https://dictionary.cambridge.org/dictionary/english/gold-mine"
+        },
+        {
+          "expression": "affordability",
+          "title": "Cambridge Dictionary: affordability",
+          "url": "https://dictionary.cambridge.org/dictionary/english/affordability"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 39,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "c2c939d4928be89e5dbcc5b274fff06175edd7d37c641d06e91535af182a43b5",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-4",
+      "book": 21,
+      "test": 4,
+      "passage": 2,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-4-Passage-2-双语精读.md",
+      "englishTitle": "Multilingualism in India",
+      "chineseTitle": "多语教育如何帮助印度最贫困的学童？",
+      "paragraphs": 10,
+      "questionSections": [
+        "Questions 14-19",
+        "Questions 20-23",
+        "Questions 24-26"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "teem",
+          "title": "Cambridge Dictionary: teem",
+          "url": "https://dictionary.cambridge.org/dictionary/english/teem"
+        },
+        {
+          "expression": "hold back",
+          "title": "Cambridge Dictionary: hold back",
+          "url": "https://dictionary.cambridge.org/dictionary/english/hold-back"
+        },
+        {
+          "expression": "that ship has sailed",
+          "title": "Cambridge Dictionary: that ship has sailed",
+          "url": "https://dictionary.cambridge.org/dictionary/english/that-ship-has-sailed"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 32,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "cd75df3777d12c0975c4367b0673c20d55f2d421d2a8e8ba4646b34e1b76a738",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "id": "cambridge-21-reading-test-4",
+      "book": 21,
+      "test": 4,
+      "passage": 3,
+      "file": "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-4-Passage-3-双语精读.md",
+      "englishTitle": "The Globemakers",
+      "chineseTitle": "地球仪匠人：一门古老手艺的奇异故事",
+      "paragraphs": 9,
+      "questionSections": [
+        "Questions 27-32",
+        "Questions 33-36",
+        "Questions 37-40"
+      ],
+      "missingQuestionNumbers": [],
+      "materialExtension": "web_enriched",
+      "webSources": [
+        {
+          "expression": "bespoke",
+          "title": "Cambridge Dictionary: bespoke",
+          "url": "https://dictionary.cambridge.org/dictionary/english/bespoke"
+        },
+        {
+          "expression": "draw a blank",
+          "title": "Cambridge Dictionary: draw a blank",
+          "url": "https://dictionary.cambridge.org/dictionary/english/draw-a-blank"
+        },
+        {
+          "expression": "lament",
+          "title": "Cambridge Dictionary: lament",
+          "url": "https://dictionary.cambridge.org/dictionary/english/lament"
+        }
+      ],
+      "recoveredSource": null,
+      "recoveryNotes": [],
+      "sentenceCount": 31,
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sha256": "aa3bea7c0aa96388d7bee9e4d8ccc8ddc4db5b471f95b41d6b9827cc656c24ad",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ]
+}

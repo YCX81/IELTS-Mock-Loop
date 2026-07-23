@@ -1,0 +1,1181 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.725Z",
+  "sourceBank": "data/generated/reports/cambridge-test-bank.json",
+  "outputDir": "data/generated/intensive-reading/cambridge-16-18",
+  "strategy": {
+    "skill": "skills/bilingual-intensive-reading/SKILL.md",
+    "reference": [
+      "references/column-style.md",
+      "references/material-extension.md"
+    ],
+    "research": "web_enriched_when_available",
+    "direction": "考试/综合",
+    "level": "B1-B2",
+    "readingSectionRule": "readingSections.filter(s => s.kind === 'reading') are passages; questions are associated by question ranges",
+    "recoveryRule": "Missing or empty standard passages were recovered from data/generated/text-pages/*.raw.md into recovered-sources without modifying source OCR files.",
+    "quality_revision": {
+      "status": "completed",
+      "version": "v2.2",
+      "updatedAt": "2026-07-07T06:08:49.031Z",
+      "changes": [
+        "Rewrote paragraph intensive-reading notes to remove repeated template sentences.",
+        "Kept ordinary paragraphs concise with varied IELTS risk notes based on paragraph function.",
+        "Rebuilt each passage expression section around 3-5 A/B layer expressions.",
+        "Refreshed Anki candidates so cards are expression-specific rather than repeated boilerplate.",
+        "Fixed Markdown heading spacing after paragraph notes.",
+        "Polished A/B expression migration examples to avoid ungrammatical generic sentence frames.",
+        "Varied paragraph transition sentences so section notes do not all use the same connector."
+      ]
+    }
+  },
+  "generated": [
+    {
+      "testId": "cambridge-16-reading-test-1",
+      "book": "16",
+      "test": 1,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-1-Passage-1-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "far-reaching consequences",
+        "sourceTitle": "Merriam-Webster dictionary entry",
+        "url": "https://www.merriam-webster.com/dictionary/far-reaching",
+        "note": "用来说明影响跨出眼前对象，扩散到更多人、事物或系统。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 40,
+      "sourcePages": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "answerKeyPage": 124,
+      "sha256": "306f850f30fc0b0c4ad90c8d32f254fd666e4db8fd580ffa69ccb22b00eaaed2",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-1",
+      "book": "16",
+      "test": 1,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-1-Passage-2-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "conceive of",
+        "sourceTitle": "Cambridge Dictionary: conceive",
+        "url": "https://dictionary.cambridge.org/dictionary/english/conceive",
+        "note": "用于解释从旧式墓葬到阶梯金字塔的设计构想，并区分 think of、imagine 与 devise。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 32,
+      "sourcePages": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "answerKeyPage": 124,
+      "sha256": "9ec8b712dc352b4d4844c7780313c445f5c5aa373d69c1dc7ed5cffd6302c4a3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-1",
+      "book": "16",
+      "test": 1,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-1-Passage-3-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 14,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "disruptive effects",
+        "sourceTitle": "Cambridge Dictionary: disruptive",
+        "url": "https://dictionary.cambridge.org/dictionary/english/disruptive",
+        "note": "强调打断原有秩序、迫使系统重新安排的影响。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 41,
+      "sourcePages": [
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "answerKeyPage": 124,
+      "sha256": "da427dc4826c8c267db6357a90ef2e19e0398e7742b25147305b6a91d5ebc6a6",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-2",
+      "book": "16",
+      "test": 2,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-2-Passage-1-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 10,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "associated with",
+        "sourceTitle": "Cambridge Dictionary: associated",
+        "url": "https://dictionary.cambridge.org/dictionary/english/associated",
+        "note": "用于区分正式的相关关系与已经证实的直接因果。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 36,
+      "sourcePages": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "answerKeyPage": 126,
+      "sha256": "40362e3d09fdbde951e51a502dbc8305f439dd76d963e3fde0e5357763ba6671",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-2",
+      "book": "16",
+      "test": 2,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-2-Passage-2-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "do something at your peril",
+        "sourceTitle": "Cambridge Dictionary: do something at your peril",
+        "url": "https://dictionary.cambridge.org/dictionary/english/do-at-peril",
+        "note": "用于区分普通风险提示与后果严重、责任自负的强烈警告。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 47,
+      "sourcePages": [
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "answerKeyPage": 126,
+      "sha256": "9e3a0ee5d9b3a7d2b23c3d5a169132940cf28d264ac0d55f615704a5106fd6ab",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-2",
+      "book": "16",
+      "test": 2,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-2-Passage-3-双语精读.md",
+      "source": "original_pdf_manually_calibrated",
+      "recoveredPath": null,
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "few and far between",
+        "sourceTitle": "Cambridge Dictionary: few and far between",
+        "url": "https://dictionary.cambridge.org/dictionary/english/few-and-far-between",
+        "note": "用于理解数量稀少、彼此间隔很大的固定表达及其评价色彩。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 27,
+      "sourcePages": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "answerKeyPage": 126,
+      "sha256": "845e49f2f9c4426669c808dcafe4ccf032835013b29a64420f9277bfbe34c31d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-3",
+      "book": "16",
+      "test": 3,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-3-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 7,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "sophisticated tools",
+        "sourceTitle": "Cambridge Dictionary: sophisticated",
+        "url": "https://dictionary.cambridge.org/dictionary/english/sophisticated",
+        "note": "强调复杂、精密或高阶，不等于单纯 expensive。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 41,
+      "sha256": "f853a06cb2dc21c26b4f9cd4eace5e2e1c492ef8508d6c49bf2f44b30011b453",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-3",
+      "book": "16",
+      "test": 3,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-3-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 12,
+      "questionSectionCount": 4,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "cold storage",
+        "sourceTitle": "Cambridge Dictionary: cold storage",
+        "url": "https://dictionary.cambridge.org/dictionary/english/cold-storage",
+        "note": "既可指冷藏保存，也可延伸为“搁置未处理”的状态。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 39,
+      "sha256": "85cc064ecbb366f3439ee735b178d7d043f5af3a5b8a510af2437287131e3c64",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-3",
+      "book": "16",
+      "test": 3,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-3-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 12,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "trigger growth",
+        "sourceTitle": "TRIGGER | Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/trigger",
+        "note": "表示某事触发另一过程，常用于科技、心理和政策语境。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 38,
+      "sha256": "15bc0f6827e369e8d6333a055d6c77413f146c8f3f35df11130defae7d2d2e08",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-4",
+      "book": "16",
+      "test": 4,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-4-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 6,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "adopted techniques",
+        "sourceTitle": "ADOPT | Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/adopt",
+        "note": "adopt 在技术文章里常指开始使用某种方法、策略或制度。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 38,
+      "sha256": "25aa5e98ff9eecaa83b43861fd11839fdebe3191eb3e0b04213e7d50f1e9bd1a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-4",
+      "book": "16",
+      "test": 4,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-4-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "reading habits",
+        "sourceTitle": "HABIT | Cambridge Dictionary",
+        "url": "https://dictionary.cambridge.org/dictionary/english/habit",
+        "note": "habit 强调稳定重复的行为模式，适合写学习、消费和数字生活。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 38,
+      "sha256": "b7bf6342772bbeb3c5baa53e19e7e0ce07742dadd70dccbe5df8342e5037a104",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-16-reading-test-4",
+      "book": "16",
+      "test": 4,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-16-Test-4-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "reluctant to trust",
+        "sourceTitle": "Cambridge Dictionary: reluctant",
+        "url": "https://dictionary.cambridge.org/dictionary/english/reluctant",
+        "note": "reluctant to trust 强调并非彻底拒绝，而是因风险、不熟悉或缺少可解释性而迟疑着不愿交付信任；用于本文分析人们接受 AI 时的心理阻力。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 44,
+      "sha256": "8b326acfdcdc8792faf393b901e7dd012c2320381e8ef8d2e36bddf5f0b98b3c",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-1",
+      "book": "17",
+      "test": 1,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-1-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "at an astonishing rate",
+        "sourceTitle": "Cambridge Dictionary: astonishing",
+        "url": "https://dictionary.cambridge.org/dictionary/english/astonishing",
+        "note": "本句指伦敦人口以令人惊讶的速度增长；该表达比 quickly 更强调增长速度超出预期。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 47,
+      "sha256": "f5554ccd37d82eb015d0e6833678fc217b851e238fa3d2c978f2f0c8947abc75",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-1",
+      "book": "17",
+      "test": 1,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-1-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 4,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "fall into disuse and disrepair",
+        "sourceTitle": "Cambridge Dictionary: disuse",
+        "url": "https://dictionary.cambridge.org/dictionary/english/disuse",
+        "note": "本句指大型赛事结束后，部分体育场从停止使用逐步走向失修；该表达强调由闲置到破败的连续过程。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 34,
+      "sha256": "ca35ab9f264965a045fd09828fc385aa53ff580b7988208cf4f9b19a6397ef9d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-1",
+      "book": "17",
+      "test": 1,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-1-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 6,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "do a deal with",
+        "sourceTitle": "Cambridge Dictionary: deal",
+        "url": "https://dictionary.cambridge.org/dictionary/english/deal",
+        "note": "本句指 Charles II 以接受长老会主义为国教作为交换，与苏格兰人达成政治协议；该表达突出双方承诺与让步形成的交易。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 35,
+      "sha256": "542b2860fd996114b305f57624188eb1a3703dbae5051f9e750b168254cff7d3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-2",
+      "book": "17",
+      "test": 2,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-2-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 7,
+      "questionSectionCount": 2,
+      "materialExtension": "offline_cambridge_dictionary",
+      "material": {
+        "expression": "stumble across",
+        "sourceTitle": "Cambridge Dictionary: stumble across",
+        "url": "https://dictionary.cambridge.org/dictionary/english/stumble-across",
+        "note": "本句写少年们没有刻意寻找却偶然发现陶罐与古卷；A层深挖同时区分 stumble across、come across、chance upon 与 uncover。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 34,
+      "sha256": "32e1428e620ed97af6e0c89737d9147073c363dc35d774c7324de09dc73718db",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-2",
+      "book": "17",
+      "test": 2,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-2-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 16,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "all over again",
+        "sourceTitle": "Cambridge Dictionary: all over again",
+        "url": "https://dictionary.cambridge.org/dictionary/english/all-over-again",
+        "note": "本句用 all over again 强调从头重做完整驯化过程；A层深挖同时区分 start again、repeat the process 与 recreate。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 39,
+      "sha256": "af43068ab9ea01734479446d6559e77c5151c1d5eedd90f456bbfe57b59b095f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-2",
+      "book": "17",
+      "test": 2,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-2-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 11,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "sheer genius",
+        "sourceTitle": "Cambridge Dictionary: genius",
+        "url": "https://dictionary.cambridge.org/dictionary/english/genius",
+        "note": "本篇三个 A 层表达均以 Cambridge Dictionary 为素材来源；sheer genius 用于拆解把创新归因于罕见天赋的传统叙事。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 44,
+      "sha256": "c8fea998b4a9435a6b78131105d2aadb92c447bb62219a8fab1486e175fc8952",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-3",
+      "book": "17",
+      "test": 3,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-3-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 2,
+      "materialExtension": "offline_cambridge_dictionary",
+      "material": {
+        "expression": "superficial resemblance",
+        "sourceTitle": "Cambridge Dictionary: resemblance",
+        "url": "https://dictionary.cambridge.org/dictionary/english/resemblance",
+        "note": "本句强调袋狼与狗只有表层外形相似；A层深挖同时区分 superficial resemblance、resemble、look like 与 be analogous to。"
+      },
+      "quality_revision": "template_reduction_expression_deepening_v2_2",
+      "sentenceCount": 32,
+      "sha256": "0e6d4a887182dfa3ba0ca9d5d70d6efb4d220edf784a55cd58b87658107da26f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-3",
+      "book": "17",
+      "test": 3,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-3-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "seize the opportunity",
+        "sourceTitle": "Cambridge Dictionary: seize",
+        "url": "https://dictionary.cambridge.org/dictionary/english/seize",
+        "note": "用于深挖 seize the opportunity 的主动性、时机感及商业语境边界。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 39,
+      "sha256": "7eb376f5f1b0ef23b82110f9c4dd5f06dff8478c5dfe92bed8ed948c15ef40e4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-3",
+      "book": "17",
+      "test": 3,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-3-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "materialExtension": "offline_cambridge_dictionary",
+      "material": {
+        "expression": "set the stage for",
+        "sourceTitle": "Cambridge Dictionary: set the stage for something",
+        "url": "https://dictionary.cambridge.org/dictionary/english/set-the-stage-for",
+        "note": "用于深挖历史章节如何为后续经济分析创造条件，并区分 introduce、lay the groundwork for 与 pave the way for。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 39,
+      "sha256": "f6d44090e9649c27b4761a46f8efc757cfce8718f5aa7483a19eaaf53ac60e3a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-4",
+      "book": "17",
+      "test": 4,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-4-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 12,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "to the rescue",
+        "sourceTitle": "Cambridge Dictionary: to the rescue",
+        "url": "https://dictionary.cambridge.org/dictionary/english/rescue",
+        "note": "用于深挖蝙蝠作为意外救援者的标题反差，并区分 help、save the day 与 provide a solution。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 39,
+      "sha256": "e23a1d4ee3cd011ff1654f34a3d9a34d181878504acae1840f431b68067c6793",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-4",
+      "book": "17",
+      "test": 4,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-4-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 4,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "fuel economic growth",
+        "sourceTitle": "Cambridge Dictionary: fuel",
+        "url": "https://dictionary.cambridge.org/dictionary/english/fuel",
+        "note": "fuel 作动词时表示推动、刺激，让某趋势继续扩大。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 39,
+      "sha256": "c30a876a1c4818a7b3089c881730ab740ec60aa1da7fe2e34a6bc4d0a3369e0a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-17-reading-test-4",
+      "book": "17",
+      "test": 4,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-17-Test-4-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "stand out",
+        "sourceTitle": "Cambridge Dictionary: stand out",
+        "url": "https://dictionary.cambridge.org/dictionary/english/stand-out",
+        "note": "用于讲解在同类中格外突出，并区分 be noticeable、excel 与 distinguish oneself。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 57,
+      "sha256": "c553fa0d4bafc5b7e189748d8b6be3e47a8d1e8b6c51df2b7850db13f41bc281",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-1",
+      "book": "18",
+      "test": 1,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-1-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "bear fruit",
+        "sourceTitle": "Cambridge Dictionary: bear fruit",
+        "url": "https://dictionary.cambridge.org/dictionary/english/bear-fruit",
+        "note": "同时连接植物结果与计划开始取得成果两层含义。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 33,
+      "sha256": "e39877c270778025e01dbce208981232158920b0b9221051d99026a75ef210ea",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-1",
+      "book": "18",
+      "test": 1,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-1-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "depend on",
+        "sourceTitle": "Cambridge Dictionary: depend on",
+        "url": "https://dictionary.cambridge.org/dictionary/english/depend-on",
+        "note": "用于说明林业决策如何取决于具体目标、树种和生态条件。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 37,
+      "sha256": "73f03948b6c1afce1c20c07f54991ce75645c8766c986d2fd585853bef228483",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-1",
+      "book": "18",
+      "test": 1,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-1-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "follow through",
+        "sourceTitle": "Cambridge Dictionary: follow through",
+        "url": "https://dictionary.cambridge.org/dictionary/english/follow-through",
+        "note": "强调提出方案后继续执行到底，而不只停留在承诺阶段。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 40,
+      "sha256": "b047adb7baf787a02731f2f550ec42138597ce55f6e23439d87bead77e2cc115",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-2",
+      "book": "18",
+      "test": 2,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-2-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 11,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "puzzle over",
+        "sourceTitle": "Cambridge Dictionary: puzzle",
+        "note": "强调面对尚无定论的问题持续反复思考。",
+        "url": "https://dictionary.cambridge.org/dictionary/english/puzzle"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 33,
+      "sha256": "3234d3c9cb29af71a0bb446fe75ca96ea3a91f781e0da1c2feb739ee519549b3",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-2",
+      "book": "18",
+      "test": 2,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-2-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 11,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "aligned with human values",
+        "sourceTitle": "Cambridge Dictionary: aligned",
+        "url": "https://dictionary.cambridge.org/dictionary/english/aligned",
+        "note": "align 强调使目标、行动或价值保持一致。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 50,
+      "sha256": "2c241f683861efa2b69b545be7668c50dca3f5adb0ea86379a12348851b0e5be",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-2",
+      "book": "18",
+      "test": 2,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-2-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 2,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "ahead of its time",
+        "sourceTitle": "Cambridge Dictionary: ahead of time",
+        "url": "https://dictionary.cambridge.org/dictionary/english/ahead-of-time",
+        "note": "表示思想或设计太超前，当时还不容易被理解或采用。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 33,
+      "sha256": "987015d7a375f7d8009105741ce85041a76a50059d25a4c9a0690bd982d4b2c0",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-3",
+      "book": "18",
+      "test": 3,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-3-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 9,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "beyond",
+        "sourceTitle": "Cambridge Dictionary: beyond",
+        "url": "https://dictionary.cambridge.org/dictionary/english/beyond",
+        "note": "concrete 既是建筑材料，也可作形容词表示具体明确。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 44,
+      "sha256": "1afaafbd8e96c222392edc236989de780c624d076e4cab1620c99a66ee096c65",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-3",
+      "book": "18",
+      "test": 3,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-3-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 7,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "phase out",
+        "sourceTitle": "Cambridge Dictionary: phase out",
+        "url": "https://dictionary.cambridge.org/dictionary/english/phase-out",
+        "note": "强调一种技术在替代方案成熟后被逐步淘汰，而非瞬间消失。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 43,
+      "sha256": "2a2ee38e7213d390fe97a08aa14afdec13adffd0192b10456a62fb57d0931d98",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-3",
+      "book": "18",
+      "test": 3,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-3-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 11,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "mixed-ability",
+        "sourceTitle": "Cambridge Dictionary: mixed-ability",
+        "url": "https://dictionary.cambridge.org/dictionary/english/mixed-ability",
+        "note": "ability 帮助区分能力、技能和资格，不宜简单等同于成绩。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 54,
+      "sha256": "b7b3e2cd633b99598199bdc7e649e04de9eff65c3eea098916e53722bf8a9c17",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-4",
+      "book": "18",
+      "test": 4,
+      "passage": 1,
+      "questionRange": [
+        1,
+        13
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-4-Passage-1-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 5,
+      "questionSectionCount": 4,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "green roof",
+        "sourceTitle": "Cambridge Dictionary: green roof",
+        "url": "https://dictionary.cambridge.org/dictionary/english/green-roof",
+        "note": "green roof 指覆盖植物的建筑屋顶，需结合城市生态、排水与建筑承重语境理解。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 31,
+      "sha256": "60d03a4647a5501e41d3d363e597fbe66b4f6fb087519617836c76cd96fb14c7",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-4",
+      "book": "18",
+      "test": 4,
+      "passage": 2,
+      "questionRange": [
+        14,
+        26
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-4-Passage-2-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 10,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "mindset",
+        "sourceTitle": "Cambridge Dictionary: mindset",
+        "url": "https://dictionary.cambridge.org/dictionary/english/mindset",
+        "note": "mindset 是思维定势或心态，growth mindset 不是普通 optimistic。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 39,
+      "sha256": "534791afb3574856613f068fb5b82ed5e558fdbbca0a2326ee4debb9ea45f3ba",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "testId": "cambridge-18-reading-test-4",
+      "book": "18",
+      "test": 4,
+      "passage": 3,
+      "questionRange": [
+        27,
+        40
+      ],
+      "file": "data/generated/intensive-reading/cambridge-16-18/Cambridge-IELTS-18-Test-4-Passage-3-双语精读.md",
+      "source": "structured",
+      "recoveredPath": null,
+      "paragraphCount": 8,
+      "questionSectionCount": 3,
+      "materialExtension": "web_enriched",
+      "material": {
+        "expression": "continental drift",
+        "sourceTitle": "Cambridge Dictionary: continental drift",
+        "url": "https://dictionary.cambridge.org/dictionary/english/continental-drift",
+        "note": "continental drift 是大陆漂移理论的固定术语，需要与现代 plate tectonics 区分。"
+      },
+      "quality_revision": "calibrated_sentence_fidelity_cefr_questions_v3",
+      "sentenceCount": 33,
+      "sha256": "332bff0d33648cd567877b591645381b5d20b958cddc0de8ec5979c638660a84",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "skipped": [],
+  "repairs": [
+    {
+      "testId": "cambridge-16-reading-test-1",
+      "passage": 2,
+      "status": "recovered",
+      "recoveredPath": "data/generated/intensive-reading/cambridge-16-18/recovered-sources/recovered-16-test-1-passage-2.md",
+      "rawSource": "data/generated/text-pages/cambridge-ielts-16.raw.md",
+      "lineRange": [
+        753,
+        826
+      ],
+      "evidence": [
+        "The Step Pyramid of Djoser",
+        "revolutionary advance in architecture"
+      ]
+    },
+    {
+      "testId": "cambridge-16-reading-test-4",
+      "passage": 3,
+      "status": "recovered",
+      "recoveredPath": "data/generated/intensive-reading/cambridge-16-18/recovered-sources/recovered-16-test-4-passage-3.md",
+      "rawSource": "data/generated/text-pages/cambridge-ielts-16.raw.md",
+      "lineRange": [
+        3485,
+        3568
+      ],
+      "evidence": [
+        "Attitudes towards Artificial Intelligence",
+        "reluctant to trust AI"
+      ]
+    }
+  ],
+  "ignoredSections": [
+    {
+      "testId": "cambridge-17-reading-test-1",
+      "title": "Overview",
+      "reason": "reading section has no standard question range",
+      "sample": "1.IRERSM5 Y 1718867188"
+    },
+    {
+      "testId": "cambridge-17-reading-test-2",
+      "title": "Overview",
+      "reason": "reading section has no standard question range",
+      "sample": "1.IRRSM5 Y 1718867188"
+    },
+    {
+      "testId": "cambridge-17-reading-test-3",
+      "title": "Overview",
+      "reason": "reading section has no standard question range",
+      "sample": "E.JRSM5 + 1718867188"
+    },
+    {
+      "testId": "cambridge-17-reading-test-4",
+      "title": "Overview",
+      "reason": "reading section has no standard question range",
+      "sample": "1.IRRSM5 + 1718867188"
+    }
+  ]
+}
