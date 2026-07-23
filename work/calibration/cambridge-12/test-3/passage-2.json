@@ -1,0 +1,805 @@
+{
+  "book": 12,
+  "test": 3,
+  "printedTest": 7,
+  "passage": 2,
+  "status": "manually_calibrated",
+  "title": "The Intersection of Health Sciences and Geography",
+  "subtitle": null,
+  "sourcePdf": "data/Cambridge-IELTS-12.pdf",
+  "sourcePages": [
+    63,
+    64,
+    65
+  ],
+  "answerKeyPage": 121,
+  "pageTexts": [
+    {
+      "page": 63,
+      "text": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2.\nThe Intersection of Health Sciences and Geography\nA\nWhile many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent.\nIn a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other.\nAs a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.\nB\nGeography can often play a very large role in the health concerns of certain populations.\nFor instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region.\nPerhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.\nMalaria is much less of a problem in high-altitude deserts, for instance.\nC\nIn some countries, geographical factors influence the health and well-being of the population in very obvious ways.\nIn many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there.\nPart of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power.\nThe rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.\nD\nIt is in situations like these that the field of health geography comes into its own.\nIt is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure.\nHealth geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world.\nThe aim of this hybrid science is to create solutions for common geography-based health problems.\nWhile people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future.\nBy understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations."
+    },
+    {
+      "page": 64,
+      "text": "Test 7\nE\nThe geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two.\nHealth geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area.\nHealth geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population.\nF\nResearchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales.\nHealth geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.\nG\nThe second subcategory of health geography is the geography of healthcare provision.\nThis group studies the availability (or lack thereof) of healthcare resources to individuals and populations around the world.\nIn both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education.\nIndividuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).\nThese researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others.\nH\nThe field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare.\nIf we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well."
+    },
+    {
+      "page": 65,
+      "text": "Reading\nQuestions 14–19\nReading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.\n14\nan acceptance that not all diseases can be totally eliminated\n15\nexamples of physical conditions caused by human behaviour\n16\na reference to classifying diseases on the basis of how far they extend geographically\n17\nreasons why the level of access to healthcare can vary within a country\n18\na description of health geography as a mixture of different academic fields\n19\na description of the type of area where a particular illness is rare\nQuestions 20–26\nComplete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.\n20\nCertain diseases have disappeared, thanks to better ______ and healthcare.\n21\nBecause there is more contact between people, ______ are losing their usefulness.\n22\nDisease-causing ______ are most likely to be found in hot, damp regions.\n23\nOne cause of pollution is ______ that burn a particular fuel.\n24\nThe growth of cities often has an impact on nearby ______.\n25\n______ is one disease that is growing after having been eradicated.\n26\nA physical barrier such as a ______ can prevent people from reaching a hospital."
+    }
+  ],
+  "section": {
+    "type": "reading",
+    "title": "The Intersection of Health Sciences and Geography",
+    "subtitle": null,
+    "instruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2.",
+    "pages": [
+      63,
+      64
+    ],
+    "questionPages": [
+      65
+    ],
+    "answerKeyPage": 121,
+    "questionRange": [
+      14,
+      26
+    ],
+    "paragraphs": [
+      {
+        "id": "A",
+        "text": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.",
+        "sourcePages": [
+          63
+        ]
+      },
+      {
+        "id": "B",
+        "text": "Geography can often play a very large role in the health concerns of certain populations. For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region. Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow. Malaria is much less of a problem in high-altitude deserts, for instance.",
+        "sourcePages": [
+          63
+        ]
+      },
+      {
+        "id": "C",
+        "text": "In some countries, geographical factors influence the health and well-being of the population in very obvious ways. In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power. The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.",
+        "sourcePages": [
+          63
+        ]
+      },
+      {
+        "id": "D",
+        "text": "It is in situations like these that the field of health geography comes into its own. It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure. Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world. The aim of this hybrid science is to create solutions for common geography-based health problems. While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future. By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations.",
+        "sourcePages": [
+          63
+        ]
+      },
+      {
+        "id": "E",
+        "text": "The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two. Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area. Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population.",
+        "sourcePages": [
+          64
+        ]
+      },
+      {
+        "id": "F",
+        "text": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.",
+        "sourcePages": [
+          64
+        ]
+      },
+      {
+        "id": "G",
+        "text": "The second subcategory of health geography is the geography of healthcare provision. This group studies the availability (or lack thereof) of healthcare resources to individuals and populations around the world. In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education. Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital). These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others.",
+        "sourcePages": [
+          64
+        ]
+      },
+      {
+        "id": "H",
+        "text": "The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare. If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well.",
+        "sourcePages": [
+          64
+        ]
+      }
+    ],
+    "sentences": [
+      {
+        "number": 1,
+        "paragraph": "A",
+        "page": 63,
+        "text": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent."
+      },
+      {
+        "number": 2,
+        "paragraph": "A",
+        "page": 63,
+        "text": "In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other."
+      },
+      {
+        "number": 3,
+        "paragraph": "A",
+        "page": 63,
+        "text": "As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common."
+      },
+      {
+        "number": 4,
+        "paragraph": "B",
+        "page": 63,
+        "text": "Geography can often play a very large role in the health concerns of certain populations."
+      },
+      {
+        "number": 5,
+        "paragraph": "B",
+        "page": 63,
+        "text": "For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region."
+      },
+      {
+        "number": 6,
+        "paragraph": "B",
+        "page": 63,
+        "text": "Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow."
+      },
+      {
+        "number": 7,
+        "paragraph": "B",
+        "page": 63,
+        "text": "Malaria is much less of a problem in high-altitude deserts, for instance."
+      },
+      {
+        "number": 8,
+        "paragraph": "C",
+        "page": 63,
+        "text": "In some countries, geographical factors influence the health and well-being of the population in very obvious ways."
+      },
+      {
+        "number": 9,
+        "paragraph": "C",
+        "page": 63,
+        "text": "In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there."
+      },
+      {
+        "number": 10,
+        "paragraph": "C",
+        "page": 63,
+        "text": "Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power."
+      },
+      {
+        "number": 11,
+        "paragraph": "C",
+        "page": 63,
+        "text": "The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants."
+      },
+      {
+        "number": 12,
+        "paragraph": "D",
+        "page": 63,
+        "text": "It is in situations like these that the field of health geography comes into its own."
+      },
+      {
+        "number": 13,
+        "paragraph": "D",
+        "page": 63,
+        "text": "It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure."
+      },
+      {
+        "number": 14,
+        "paragraph": "D",
+        "page": 63,
+        "text": "Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world."
+      },
+      {
+        "number": 15,
+        "paragraph": "D",
+        "page": 63,
+        "text": "The aim of this hybrid science is to create solutions for common geography-based health problems."
+      },
+      {
+        "number": 16,
+        "paragraph": "D",
+        "page": 63,
+        "text": "While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future."
+      },
+      {
+        "number": 17,
+        "paragraph": "D",
+        "page": 63,
+        "text": "By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations."
+      },
+      {
+        "number": 18,
+        "paragraph": "E",
+        "page": 64,
+        "text": "The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two."
+      },
+      {
+        "number": 19,
+        "paragraph": "E",
+        "page": 64,
+        "text": "Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area."
+      },
+      {
+        "number": 20,
+        "paragraph": "E",
+        "page": 64,
+        "text": "Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population."
+      },
+      {
+        "number": 21,
+        "paragraph": "F",
+        "page": 64,
+        "text": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales."
+      },
+      {
+        "number": 22,
+        "paragraph": "F",
+        "page": 64,
+        "text": "Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations."
+      },
+      {
+        "number": 23,
+        "paragraph": "G",
+        "page": 64,
+        "text": "The second subcategory of health geography is the geography of healthcare provision."
+      },
+      {
+        "number": 24,
+        "paragraph": "G",
+        "page": 64,
+        "text": "This group studies the availability (or lack thereof) of healthcare resources to individuals and populations around the world."
+      },
+      {
+        "number": 25,
+        "paragraph": "G",
+        "page": 64,
+        "text": "In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education."
+      },
+      {
+        "number": 26,
+        "paragraph": "G",
+        "page": 64,
+        "text": "Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital)."
+      },
+      {
+        "number": 27,
+        "paragraph": "G",
+        "page": 64,
+        "text": "These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others."
+      },
+      {
+        "number": 28,
+        "paragraph": "H",
+        "page": 64,
+        "text": "The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare."
+      },
+      {
+        "number": 29,
+        "paragraph": "H",
+        "page": 64,
+        "text": "If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well."
+      }
+    ]
+  },
+  "questionSections": [
+    {
+      "range": [
+        14,
+        19
+      ],
+      "type": "MATCHING_INFORMATION",
+      "title": "Questions 14–19",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "sourcePages": [
+        65
+      ],
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "range": [
+        20,
+        26
+      ],
+      "type": "SENTENCE_COMPLETION",
+      "title": "Questions 20–26",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 14,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "an acceptance that not all diseases can be totally eliminated",
+      "translation": "承认并非所有疾病都能被彻底消灭",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "evidence": "While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future.",
+      "location": "Paragraph D, sentence 16",
+      "distractorAnalysis": "While people will always be prone to illness 承认疾病无法完全消除；eradication 只是部分疾病的可能结果。A谈已消灭的疾病，不是承认局限。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 15,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "examples of physical conditions caused by human behaviour",
+      "translation": "由人类行为造成的身体疾病实例",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "C"
+      ],
+      "evidence": "In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power.",
+      "location": "Paragraph C, sentences 9–10",
+      "distractorAnalysis": "汽车与燃煤工厂造成污染，污染又导致哮喘、肺部和视力问题。B谈自然气候，不能解释 human behaviour。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 16,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "a reference to classifying diseases on the basis of how far they extend geographically",
+      "translation": "提到按疾病在地理上延伸的范围进行分类",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "F"
+      ],
+      "evidence": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales.",
+      "location": "Paragraph F, sentence 21",
+      "distractorAnalysis": "categorising ... into local and global scales 直接对应按地理范围分类。E叠加数据研究相关性，并非分类尺度。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        64
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 17,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "reasons why the level of access to healthcare can vary within a country",
+      "translation": "一国内部医疗服务可及程度不同的原因",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "G"
+      ],
+      "evidence": "In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education.",
+      "location": "Paragraph G, sentence 25",
+      "distractorAnalysis": "social classes、income brackets、education 是同一国家内部获取医疗选项不同的原因。H只概述学科价值。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        64
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 18,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "a description of health geography as a mixture of different academic fields",
+      "translation": "把健康地理学描述为不同学科的结合",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "D"
+      ],
+      "evidence": "Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world.",
+      "location": "Paragraph D, sentence 14",
+      "distractorAnalysis": "combination of geography ... and the study of health 明确说明跨学科混合。G只是健康地理学的一个子类别。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 19,
+      "type": "MATCHING_INFORMATION",
+      "instruction": "Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.",
+      "prompt": "a description of the type of area where a particular illness is rare",
+      "translation": "描述某种疾病较少见的地区类型",
+      "options": [
+        {
+          "label": "A",
+          "translation": "段落 A"
+        },
+        {
+          "label": "B",
+          "translation": "段落 B"
+        },
+        {
+          "label": "C",
+          "translation": "段落 C"
+        },
+        {
+          "label": "D",
+          "translation": "段落 D"
+        },
+        {
+          "label": "E",
+          "translation": "段落 E"
+        },
+        {
+          "label": "F",
+          "translation": "段落 F"
+        },
+        {
+          "label": "G",
+          "translation": "段落 G"
+        },
+        {
+          "label": "H",
+          "translation": "段落 H"
+        }
+      ],
+      "answers": [
+        "B"
+      ],
+      "evidence": "Malaria is much less of a problem in high-altitude deserts, for instance.",
+      "location": "Paragraph B, sentence 7",
+      "distractorAnalysis": "high-altitude deserts 直接给出疟疾问题小的地区类型。malaria-prone tropical regions 是高发区，方向相反。",
+      "wordLimit": null,
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121,
+      "instructionTranslation": "文章共有 A–H 八段。判断下列信息出现在哪一段，并把正确字母 A–H 写入答题纸第 14–19 题；注意同一字母可以使用多次。"
+    },
+    {
+      "number": 20,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "Certain diseases have disappeared, thanks to better ______ and healthcare.",
+      "translation": "由于更好的______和医疗服务，某些疾病已经消失。",
+      "answers": [
+        "vaccinations"
+      ],
+      "evidence": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent.",
+      "location": "Paragraph A, sentence 1",
+      "distractorAnalysis": "improvements in vaccinations 与 availability of healthcare 并列；healthcare 已在题干，空格只能填 vaccinations。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 21,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "Because there is more contact between people, ______ are losing their usefulness.",
+      "translation": "由于人际接触增多，______正在失去效用。",
+      "answers": [
+        "antibiotics"
+      ],
+      "evidence": "As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.",
+      "location": "Paragraph A, sentence 3",
+      "distractorAnalysis": "感染对 antibiotics 产生耐药性，等价于抗生素效用下降；super-viruses 是问题主体，不是失效工具。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 22,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "Disease-causing ______ are most likely to be found in hot, damp regions.",
+      "translation": "传播疾病的______最可能出现在炎热潮湿地区。",
+      "answers": [
+        "mosquito(e)s",
+        "mosquitoes",
+        "mosquitos"
+      ],
+      "evidence": "Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.",
+      "location": "Paragraph B, sentence 6",
+      "distractorAnalysis": "原文说温暖潮湿环境使传播疟疾的 mosquitos 生长；官方 mosquito(e)s 同时接受 mosquitoes 与 mosquitos。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 23,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "One cause of pollution is ______ that burn a particular fuel.",
+      "translation": "污染的一个来源是燃烧某种燃料的______。",
+      "answers": [
+        "factories"
+      ],
+      "evidence": "Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power.",
+      "location": "Paragraph C, sentence 10",
+      "distractorAnalysis": "factories that run on coal power 对应燃烧煤炭的工厂；cars 未由 that burn a particular fuel 修饰。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 24,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "The growth of cities often has an impact on nearby ______.",
+      "translation": "城市发展经常影响附近的______。",
+      "answers": [
+        "forests"
+      ],
+      "evidence": "The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.",
+      "location": "Paragraph C, sentence 11",
+      "distractorAnalysis": "城市扩张导致 cutting down of forests；plants 是森林减少后无法充分产生清新空气的原因。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 25,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "______ is one disease that is growing after having been eradicated.",
+      "translation": "______是一种在被消灭后又开始增加的疾病。",
+      "answers": [
+        "Polio"
+      ],
+      "evidence": "It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure.",
+      "location": "Paragraph D, sentence 13",
+      "distractorAnalysis": "polio are re-emerging 精确对应“根除后再次增加”；respiratory diseases 是继续传播，并未说曾被根除。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        63
+      ],
+      "answerKeyPage": 121
+    },
+    {
+      "number": 26,
+      "type": "SENTENCE_COMPLETION",
+      "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.",
+      "prompt": "A physical barrier such as a ______ can prevent people from reaching a hospital.",
+      "translation": "像______这样的自然屏障可能阻止人们到达医院。",
+      "answers": [
+        "mountain"
+      ],
+      "evidence": "Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).",
+      "location": "Paragraph G, sentence 26",
+      "distractorAnalysis": "原文例子明确说村庄与最近医院之间有一座 mountain；village 和 hospital 是地点，不是屏障。",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        65,
+        64
+      ],
+      "answerKeyPage": 121
+    }
+  ]
+}

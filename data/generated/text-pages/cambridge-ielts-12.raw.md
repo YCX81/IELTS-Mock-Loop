@@ -631,316 +631,79 @@ Companies that always aim at excellence may miss opportunities.
 Test 5
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 Cork
-Cork - the thick bark of the cork oak
-Portugal, Spain, Italy, Greece and
-tree (Quercus suber) - is a remarkable
-Morocco. They flourish in warm, sunny
-material. It is tough, elastic, buoyant,
-climates where there is a minimum of
-and fire-resistant, and suitable for a
-400 millimetres of rain per year, and
-wide range of purposes. It has also
-not more than 800 millimetres. Like
-been used for millennia: the ancient
-grape vines, the trees thrive in poor
-Egyptians sealed their sarcophagi
-soil, putting down deep roots in search
-(stone coffins) with cork, while the
-of moisture and nutrients. Southern
-ancient Greeks and Romans used it
-Portugal's Alentejo region meets all of
-for anything from beehives to sandals.
-these requirements, which explains
-why, by the early 20th century, this
-And the cork oak itself is an
-region had become the world's largest
-extraordinary tree. Its bark grows
-producer of cork, and why today it
-up to 20 cm in thickness, insulating
-accounts for roughly half of all cork
-the tree like a coat wrapped around
-production around the world.
-the trunk and branches and keeping
-the inside at a constant 20°C all year
-Most cork forests are family-owned.
-round. Developed most probably as
-Many of these family businesses, and
-a defence against forest fires, the
-indeed many of the trees themselves,
-bark of the cork oak has a particular
-are around 200 years old. Cork
-cellular structure - with about
-production is, above all, an exercise in
-40 million cells per cubic centimetre -
-patience. From the planting of a cork
-that technology has never succeeded
-sapling to the first harvest takes 25
-in replicating. The cells are filled with
-years, and a gap of approximately a
-air, which is why cork is so buoyant.
-decade must separate harvests from
-It also has an elasticity that means
-an individual tree. And for top-quality
-you can squash it and watch it spring
-cork, it's necessary to wait a further
-back to its original size and shape
-15 or 20 years. You even have to wait
-when you release the pressure.
-for the right kind of summer's day to
-harvest cork. If the bark is stripped on
-Cork oaks grow in a number of
-a day when it's too cold - or when the
-Mediterranean countries, including
-air is damp - the tree will be damaged.
+Cork – the thick bark of the cork oak tree (Quercus suber) – is a remarkable material. It is tough, elastic, buoyant, and fire-resistant, and suitable for a wide range of purposes. It has also been used for millennia: the ancient Egyptians sealed their sarcophagi (stone coffins) with cork, while the ancient Greeks and Romans used it for anything from beehives to sandals.
+And the cork oak itself is an extraordinary tree. Its bark grows up to 20 cm in thickness, insulating the tree like a coat wrapped around the trunk and branches and keeping the inside at a constant 20°C all year round. Developed most probably as a defence against forest fires, the bark of the cork oak has a particular cellular structure – with about 40 million cells per cubic centimetre – that technology has never succeeded in replicating. The cells are filled with air, which is why cork is so buoyant. It also has an elasticity that means you can squash it and watch it spring back to its original size and shape when you release the pressure.
+Cork oaks grow in a number of Mediterranean countries, including Portugal, Spain, Italy, Greece and Morocco. They flourish in warm, sunny climates where there is a minimum of 400 millimetres of rain per year, and not more than 800 millimetres. Like grape vines, the trees thrive in poor soil, putting down deep roots in search of moisture and nutrients. Southern Portugal's Alentejo region meets all of these requirements, which explains why, by the early 20th century, this region had become the world's largest producer of cork, and why today it accounts for roughly half of all cork production around the world.
+Most cork forests are family-owned. Many of these family businesses, and indeed many of the trees themselves, are around 200 years old. Cork production is, above all, an exercise in patience. From the planting of a cork sapling to the first harvest takes 25 years, and a gap of approximately a decade must separate harvests from an individual tree. And for top-quality cork, it's necessary to wait a further 15 or 20 years. You even have to wait for the right kind of summer's day to harvest cork. If the bark is stripped on a day when it's too cold – or when the air is damp – the tree will be damaged.
 16
 
 ## Page 17
 
 Reading
-Cork harvesting is a very specialised
-is caused by a chemical compound
-profession. No mechanical means
-called 2,4,6-trichloroanisole (TCA),
-of stripping cork bark has been
-which forms through the interaction
-invented, so the job is done by teams
-of plant phenols, chlorine and mould.
-of highly skilled workers. First, they
-The tiniest concentrations - as little
-make vertical cuts down the bark
-as three or four parts to a trillion -
-using small sharp axes, then lever
-can spoil the taste of the product
-it away in pieces as large as they
-contained in the bottle. The result
-can manage. The most skilful cork-
-has been a gradual yet steady move
-strippers prise away a semi-circular
-first towards plastic stoppers and,
-husk that runs the length of the trunk
-more recently, to aluminium screw
-from just above ground level to the
-caps. These substitutes are cheaper to
-first branches. It is then dried on the
-manufacture and, in the case of screw
-ground for about four months, before
-caps, more convenient for the user.
-being taken to factories, where it is
-boiled to kill any insects that might
-The classic cork stopper does
-remain in the cork. Over 60% of
-have several advantages, however.
-cork then goes on to be made into
-Firstly, its traditional image is more
-traditional bottle stoppers, with most
-in keeping with that of the type of
-of the remainder being used in the
-high quality goods with which it has
-construction trade. Corkboard and
-long been associated. Secondly -
-cork tiles are ideal for thermal and
-and very importantly - cork is a
-acoustic insulation, while granules of
-sustainable product that can be
-cork are used in the manufacture of
-recycled without difficulty. Moreover,
-concrete.
-cork forests are a resource which
-support local biodiversity, and prevent
-Recent years have seen the end of
-desertification in the regions where
-the virtual monopoly of cork as the
-they are planted. So, given the current
-material for bottle stoppers, due to
-concerns about environmental issues,
-concerns about the effect it may have
-the future of this ancient material
-on the contents of the bottle. This
-once again looks promising.
+Cork harvesting is a very specialised profession. No mechanical means of stripping cork bark has been invented, so the job is done by teams of highly skilled workers. First, they make vertical cuts down the bark using small sharp axes, then lever it away in pieces as large as they can manage. The most skilful cork-strippers prise away a semi-circular husk that runs the length of the trunk from just above ground level to the first branches. It is then dried on the ground for about four months, before being taken to factories, where it is boiled to kill any insects that might remain in the cork. Over 60% of cork then goes on to be made into traditional bottle stoppers, with most of the remainder being used in the construction trade. Corkboard and cork tiles are ideal for thermal and acoustic insulation, while granules of cork are used in the manufacture of concrete.
+Recent years have seen the end of the virtual monopoly of cork as the material for bottle stoppers, due to concerns about the effect it may have on the contents of the bottle. This is caused by a chemical compound called 2,4,6-trichloroanisole (TCA), which forms through the interaction of plant phenols, chlorine and mould. The tiniest concentrations – as little as three or four parts to a trillion – can spoil the taste of the product contained in the bottle. The result has been a gradual yet steady move first towards plastic stoppers and, more recently, to aluminium screw caps. These substitutes are cheaper to manufacture and, in the case of screw caps, more convenient for the user.
+The classic cork stopper does have several advantages, however. Firstly, its traditional image is more in keeping with that of the type of high quality goods with which it has long been associated. Secondly – and very importantly – cork is a sustainable product that can be recycled without difficulty. Moreover, cork forests are a resource which support local biodiversity, and prevent desertification in the regions where they are planted. So, given the current concerns about environmental issues, the future of this ancient material once again looks promising.
 17
 
 ## Page 18
 
 Test 5
-Questions 1-5
+Questions 1–5
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-5 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 1–5 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-1
-The cork oak has the thickest bark of any living tree.
-2
-Scientists have developed a synthetic cork with the same cellular structure as
-natural cork.
-3
-Individual cork oak trees must be left for 25 years between the first and second
-harvest.
-4
-Cork bark should be stripped in dry atmospheric conditions.
-5
-The only way to remove the bark from cork oak trees is by hand.
+1 The cork oak has the thickest bark of any living tree.
+2 Scientists have developed a synthetic cork with the same cellular structure as natural cork.
+3 Individual cork oak trees must be left for 25 years between the first and second harvest.
+4 Cork bark should be stripped in dry atmospheric conditions.
+5 The only way to remove the bark from cork oak trees is by hand.
 18
 
 ## Page 19
 
 Reading
-Questions 6-13
+Questions 6–13
 Complete the notes below.
-Choose ONE woRD oNLY from the passage for each answer.
-Write your answers in boxes 6—13 on your answer sheet.
-Comparison of aluminium screw caps and
-cork bottle stoppers
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 6–13 on your answer sheet.
+Comparison of aluminium screw caps and cork bottle stoppers
 Advantages of aluminium screw caps
-do not affect the 6
-.. of the bottle contents
-are 7 .
-......o produce
-are 8 ...
-......o use
+• do not affect the 6 __________ of the bottle contents
+• are 7 __________ to produce
+• are 8 __________ to use
 Advantages of cork bottle stoppers
-suit the 9
-of quality products
-made from a 10 .
-.. material
-easily 11
-cork forests aid 12
-cork forests stop 13
-.. happening
+• suit the 9 __________ of quality products
+• made from a 10 __________ material
+• easily 11 __________
+• cork forests aid 12 __________
+• cork forests stop 13 __________ happening
 19
 
 ## Page 20
 
 Test 5
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 COLLECTING AS A HOBBY
-Collecting must be one of the most varied
-Some may spend their whole lives in a
-of human activities, and it's one that many
-hunt for this. Psychologically, this can give
-of us psychologists find fascinating. Many
-a purpose to a life that otherwise feels
-forms of collecting have been dignified
-aimless. There is a danger, though, that
-with a technical name: an archtophilist
-if the individual is ever lucky enough to
-collects teddy bears, a philatelist collects
-find what they're looking for, rather than
-postage stamps, and a deltiologist
-celebrating their success, they may feel
-collects postcards. Amassing hundreds or
-empty, now that the goal that drove them
-even thousands of postcards, chocolate
-on has gone.
-wrappers or whatever, takes time, energy
-and money that could surely be put to
-If you think about collecting postage
-much more productive use. And yet there
-stamps, another potential reason for
-are millions of collectors around the world.
-it - or, perhaps, a result of collecting - is
-Why do they do it?
-its educational value. Stamp collecting
-opens a window to other countries, and
-There are the people who collect because
-to the plants, animals, or famous people
-they want to make money - this could be
-shown on their stamps. Similarly, in the
-called an instrumental reason for collecting;
-;19th century, many collectors amassed
-that is, collecting as a means to an end.
-fossils, animals and plants from around
-They'll look for, say, antiques that they
-the globe, and their collections provided
-can buy cheaply and expect to be able
-a vast amount of information about the
-to sell at a profit. But there may well be a
-natural world. Without those collections,
-psychological element, too - buying cheap
-our understanding would be greatly inferior
-and selling dear can give the collector a
-to what it is.
-sense of triumph. And as selling online is so
-easy, more and more people are joining in.
-In the past - and nowadays, too, though
-to a lesser extent - a popular form of
-Many collectors collect to develop their
-collecting, particularly among boys
-social life, attending meetings of a group
-and men, was trainspotting. This might
-of collectors and exchanging information
-involve trying to see every locomotive of a
-on items. This is a variant on joining a
-particular type, using published data that
-bridge club or a gym, and similarly brings
-identifies each one, and ticking off each
-them into contact with like-minded people.
-engine as it is seen. Trainspotters exchange
-information, these days often by mobile
-Another motive for collecting is the desire
-phone, so they can work out where to go
-to find something special, or a particular
-to, to see a particular engine. As a by-
-example of the collected item, such as a
-product, many practitioners of the hobby
-rare early recording by a particular singer.
-become very knowledgeable about railway
-20
+Collecting must be one of the most varied of human activities, and it’s one that many of us psychologists find fascinating. Many forms of collecting have been dignified with a technical name: an archtophilist collects teddy bears, a philatelist collects postage stamps, and a deltiologist collects postcards. Amassing hundreds or even thousands of postcards, chocolate wrappers or whatever, takes time, energy and money that could surely be put to much more productive use. And yet there are millions of collectors around the world. Why do they do it?
+There are the people who collect because they want to make money – this could be called an instrumental reason for collecting; that is, collecting as a means to an end. They’ll look for, say, antiques that they can buy cheaply and expect to be able to sell at a profit. But there may well be a psychological element, too – buying cheap and selling dear can give the collector a sense of triumph. And as selling online is so easy, more and more people are joining in.
+Many collectors collect to develop their social life, attending meetings of a group of collectors and exchanging information on items. This is a variant on joining a bridge club or a gym, and similarly brings them into contact with like-minded people.
+Another motive for collecting is the desire to find something special, or a particular example of the collected item, such as a rare early recording by a particular singer. Some may spend their whole lives in a hunt for this. Psychologically, this can give a purpose to a life that otherwise feels aimless. There is a danger, though, that if the individual is ever lucky enough to find what they’re looking for, rather than celebrating their success, they may feel empty, now that the goal that drove them on has gone.
+If you think about collecting postage stamps, another potential reason for it – or, perhaps, a result of collecting – is its educational value. Stamp collecting opens a window to other countries, and to the plants, animals, or famous people shown on their stamps. Similarly, in the 19th century, many collectors amassed fossils, animals and plants from around the globe, and their collections provided a vast amount of information about the natural world. Without those collections, our understanding would be greatly inferior to what it is.
+In the past – and nowadays, too, though to a lesser extent – a popular form of collecting, particularly among boys and men, was trainspotting. This might involve trying to see every locomotive of a particular type, using published data that identifies each one, and ticking off each engine as it is seen. Trainspotters exchange information, these days often by mobile phone, so they can work out where to go to, to see a particular engine. As a by-product, many practitioners of the hobby become very knowledgeable about railway
 
 ## Page 21
 
 Reading
-operations, or the technical specifications
-perhaps by country in alphabetical order,
-of different engine types.
-or grouping stamps by what they depict -
-people, birds, maps, and so on.
-Similarly, people who collect dolls may go
-beyond simply enlarging their collection,
-One reason, conscious or not, for what
-and develop an interest in the way that
-someone chooses to collect is to show
-dolls are made, or the materials that
-the collector's individualism. Someone
-are used. These have changed over the
-who decides to collect something as
-centuries from the wood that was standard
-unexpected as dog collars, for instance,
-in 16th century Europe, through the wax
-may be conveying their belief that they
-and porcelain of later centuries, to the
-must be interesting themselves. And
-plastics of today's dolls. Or collectors
-believe it or not, there is at least one dog
-might be inspired to study how dolls
-collar museum in existence, and it grew out
-reflect notions of what children like, or
-of a personal collection.
-ought to like.
-Of course, all hobbies give pleasure, but
-Not all collectors are interested in learning
-the common factor in collecting is usually
-from their hobby, though, so what we
-passion: pleasure is putting it far too
-might call a psychological reason for
-mildly. More than most other hobbies,
-collecting is the need for a sense of
-collecting can be totally engrossing,
-control, perhaps as a way of dealing with
-and can give a strong sense of personal
-insecurity. Stamp collectors, for instance,
-fulfilment. To non-collectors it may appear
-arrange their stamps in albums, usually very an eccentric, if harmless, way of spending
-neatly, organising their collection according time, but potentially, collecting has a lot
-to certain commonplace principles -
-going for it.
+operations, or the technical specifications of different engine types.
+Similarly, people who collect dolls may go beyond simply enlarging their collection, and develop an interest in the way that dolls are made, or the materials that are used. These have changed over the centuries from the wood that was standard in 16th century Europe, through the wax and porcelain of later centuries, to the plastics of today’s dolls. Or collectors might be inspired to study how dolls reflect notions of what children like, or ought to like.
+Not all collectors are interested in learning from their hobby, though, so what we might call a psychological reason for collecting is the need for a sense of control, perhaps as a way of dealing with insecurity. Stamp collectors, for instance, arrange their stamps in albums, usually very neatly, organising their collection according to certain commonplace principles – perhaps by country in alphabetical order, or grouping stamps by what they depict – people, birds, maps, and so on.
+One reason, conscious or not, for what someone chooses to collect is to show the collector’s individualism. Someone who decides to collect something as unexpected as dog collars, for instance, may be conveying their belief that they must be interesting themselves. And believe it or not, there is at least one dog collar museum in existence, and it grew out of a personal collection.
+Of course, all hobbies give pleasure, but the common factor in collecting is usually passion: pleasure is putting it far too mildly. More than most other hobbies, collecting can be totally engrossing, and can give a strong sense of personal fulfilment. To non-collectors it may appear an eccentric, if harmless, way of spending time, but potentially, collecting has a lot going for it.
 21
 
 ## Page 22
@@ -948,198 +711,112 @@ going for it.
 Test 5
 Questions
 Complete the sentences below.
-Choose ONE WORD oNLY from the passage for each answer.
-Write your answers in boxes 14-21 on your answer sheet.
-14
-The writer mentions collecting .......... as an example of collecting in order to
-make money.
-15
-Collectors may get a feeling of ...
-..... from buying and selling items.
-16
-Collectors' clubs provide opportunities to share
-17
-Collectors' clubs offer .......... with people who have similar interests.
-18
-Collecting sometimes involves a life-long
-.. for a special item.
-19
-Searching for something particular may prevent people from feeling their life is
-completely..
-20
-Stamp collecting may be ....... because it provides facts about different
-countries.
-21
-.. tends to be mostly a male hobby.
-Questions 22-26
-Do the following statements agree with the information given in the passage on
-pages 20 and 21?
-In boxes 22-26 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 14–21 on your answer sheet.
+14 The writer mentions collecting ______ as an example of collecting in order to make money.
+15 Collectors may get a feeling of ______ from buying and selling items.
+16 Collectors’ clubs provide opportunities to share ______.
+17 Collectors’ clubs offer ______ with people who have similar interests.
+18 Collecting sometimes involves a life-long ______ for a special item.
+19 Searching for something particular may prevent people from feeling their life is completely ______.
+20 Stamp collecting may be ______ because it provides facts about different countries.
+21 ______ tends to be mostly a male hobby.
+Questions 22–26
+Do the following statements agree with the information given in the passage on pages 20 and 21?
+In boxes 22–26 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-22
-The number of people buying dolls has grown over the centuries.
-23
-Sixteenth century European dolls were normally made of wax and porcelain.
-24
-Arranging a stamp collection by the size of the stamps is less common than other
-methods.
-25
-Someone who collects unusual objects may want others to think he or she is also
-unusual.
-26
-Collecting gives a feeling that other hobbies are unlikely to inspire.
+22 The number of people buying dolls has grown over the centuries.
+23 Sixteenth century European dolls were normally made of wax and porcelain.
+24 Arranging a stamp collection by the size of the stamps is less common than other methods.
+25 Someone who collects unusual objects may want others to think he or she is also unusual.
+26 Collecting gives a feeling that other hobbies are unlikely to inspire.
 22
 
 ## Page 23
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on pages 24 and 25.
-Questions 27-32
-Reading Passage 3 has six sections, A-F.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on pages 24 and 25.
+
+Questions 27–32
+Reading Passage 3 has six sections, A–F.
 Choose the correct heading for each section from the list of headings below.
-Write the correct number, i-viii, in boxes 27-32 on your answer sheet.
+Write the correct number, i–viii, in boxes 27–32 on your answer sheet.
+
 List of Headings
-i
-Courses that require a high level of commitment
-ii
-A course title with two meanings
-iii
-The equal importance of two key issues
-iv
-Applying a theory in an unexpected context
-V
-The financial benefits of studying
-vi
-A surprising course title
-vii
-Different names for different outcomes
-viii
-The possibility of attracting the wrong kind of student
-27
-Section A
-28
-Section B
-29
-Section C
-30
-Section D
-31
-Section E
-32
-Section F
+i Courses that require a high level of commitment
+ii A course title with two meanings
+iii The equal importance of two key issues
+iv Applying a theory in an unexpected context
+v The financial benefits of studying
+vi A surprising course title
+vii Different names for different outcomes
+viii The possibility of attracting the wrong kind of student
+
+27 Section A
+28 Section B
+29 Section C
+30 Section D
+31 Section E
+32 Section F
+
 23
 
 ## Page 24
 
 Test 5
-What's the purpose of gaining knowledge?
+What’s the purpose of gaining knowledge?
+
 A
-'I would found an institution where any person can find instruction in any
-subject.' That was the founder's motto for Cornell University, and it seems an apt
-characterization of the different university, also in the USA, where I currently teach
-philosophy. A student can prepare for a career in resort management, engineering,
-interior design, accounting, music, law enforcement, you name it. But what would
-the founders of these two institutions have thought of a course called Arson for Profit?
-I kid you not: we have it on the books. Any undergraduates who have met the academic
-requirements can sign up for the course in our program in 'fire science'.
+‘I would found an institution where any person can find instruction in any subject.’ That was the founder’s motto for Cornell University, and it seems an apt characterization of the different university, also in the USA, where I currently teach philosophy. A student can prepare for a career in resort management, engineering, interior design, accounting, music, law enforcement, you name it. But what would the founders of these two institutions have thought of a course called ‘Arson for Profit’? I kid you not: we have it on the books. Any undergraduates who have met the academic requirements can sign up for the course in our program in ‘fire science’.
+
 B
-Naturally, the course is intended for prospective arson investigators, who can learn all
-the tricks of the trade for detecting whether a fire was deliberately set, discovering who
-did it, and establishing a chain of evidence for effective prosecution in a court of law.
-But wouldn't this also be the perfect course for prospective arsonists to sign up for? My
-point is not to criticize academic programs in fire science: they are highly welcome as
-part of the increasing professionalization of this and many other occupations. However,
-it's not unknown for a firefighter to torch a building. This example suggests how
-dishonest and illegal behavior, with the help of higher education, can creep into every
-aspect of public and business life.
+Naturally, the course is intended for prospective arson investigators, who can learn all the tricks of the trade for detecting whether a fire was deliberately set, discovering who did it, and establishing a chain of evidence for effective prosecution in a court of law. But wouldn’t this also be the perfect course for prospective arsonists to sign up for? My point is not to criticize academic programs in fire science: they are highly welcome as part of the increasing professionalization of this and many other occupations. However, it’s not unknown for a firefighter to torch a building. This example suggests how dishonest and illegal behavior, with the help of higher education, can creep into every aspect of public and business life.
+
 C
-I realized this anew when I was invited to speak before a class in marketing, which is
-another of our degree programs. The regular instructor is a colleague who appreciates
-the kind of ethical perspective I can bring as a philosopher. There are endless ways
-I could have approached this assignment, but I took my cue from the title of the
-course: 'Principles of Marketing'. It made me think to ask the students, 'Is marketing
-principled?' After all, a subject matter can have principles in the sense of being codified,
-having rules, as with football or chess, without being principled in the sense of being
-ethical. Many of the students immediately assumed that the answer to my question
-about marketing principles was obvious: no. Just look at the ways in which everything
-under the sun has been marketed; obviously it need not be done in a principled
-(=ethical) fashion.
+I realized this anew when I was invited to speak before a class in marketing, which is another of our degree programs. The regular instructor is a colleague who appreciates the kind of ethical perspective I can bring as a philosopher. There are endless ways I could have approached this assignment, but I took my cue from the title of the course: ‘Principles of Marketing’. It made me think to ask the students, ‘Is marketing principled?’ After all, a subject matter can have principles in the sense of being codified, having rules, as with football or chess, without being principled in the sense of being ethical. Many of the students immediately assumed that the answer to my question about marketing principles was obvious: no. Just look at the ways in which everything under the sun has been marketed; obviously it need not be done in a principled (=ethical) fashion.
+
 D
-Is that obvious? I made the suggestion, which may sound downright crazy in light of
-the evidence, that perhaps marketing is by definition principled. My inspiration for this
-judgement is the philosopher Immanuel Kant, who argued that any body of knowledge
-consists of an end (or purpose) and a means.
+Is that obvious? I made the suggestion, which may sound downright crazy in light of the evidence, that perhaps marketing is by definition principled. My inspiration for this judgement is the philosopher Immanuel Kant, who argued that any body of knowledge consists of an end (or purpose) and a means.
+
 24
 
 ## Page 25
 
 Reading
 E
-Let us apply both the terms 'means' and 'end' to marketing. The students have signed
-up for a course in order to learn how to market effectively. But to what end? There seem
-to be two main attitudes toward that question. One is that the answer is obvious: the
-purpose of marketing is to sell things and to make money. The other attitude is that the
-purpose of marketing is irrelevant: Each person comes to the program and course with
-his or her own plans, and these need not even concern the acquisition of marketing
-expertise as such. My proposal, which I believe would also be Kant's, is that neither of
-these attitudes captures the significance of the end to the means for marketing. A field
-of knowledge or a professional endeavor is defined by both the means and the end;
-hence both deserve scrutiny. Students need to study both how to achieve X, and also
-what X is.
+Let us apply both the terms ‘means’ and ‘end’ to marketing. The students have signed up for a course in order to learn how to market effectively. But to what end? There seem to be two main attitudes toward that question. One is that the answer is obvious: the purpose of marketing is to sell things and to make money. The other attitude is that the purpose of marketing is irrelevant: Each person comes to the program and course with his or her own plans, and these need not even concern the acquisition of marketing expertise as such. My proposal, which I believe would also be Kant’s, is that neither of these attitudes captures the significance of the end to the means for marketing. A field of knowledge or a professional endeavor is defined by both the means and the end; hence both deserve scrutiny. Students need to study both how to achieve X, and also what X is.
+
 F
-It is at this point that 'Arson for Profit' becomes supremely relevant. That course is
-presumably all about means: how to detect and prosecute criminal activity. It is therefore
-assumed that the end is good in an ethical sense. When I ask fire science students to
-articulate the end, or purpose, of their field, they eventually generalize to something like,
-'The safety and welfare of society,' which seems right. As we have seen, someone could
-use the very same knowledge of means to achieve a much less noble end, such as personal
-profit via destructive, dangerous, reckless activity. But we would not call that firefighting.
-We have a separate word for it: arson. Similarly, if you employed the 'principles of
-marketing' in an unprincipled way, you would not be doing marketing. We have another
-term for it: fraud. Kant gives the example of a doctor and a poisoner, who use the
-identical knowledge to achieve their divergent ends. We would say that one is practicing
-medicine, the other, murder.
+It is at this point that ‘Arson for Profit’ becomes supremely relevant. That course is presumably all about means: how to detect and prosecute criminal activity. It is therefore assumed that the end is good in an ethical sense. When I ask fire science students to articulate the end, or purpose, of their field, they eventually generalize to something like, ‘The safety and welfare of society,’ which seems right. As we have seen, someone could use the very same knowledge of means to achieve a much less noble end, such as personal profit via destructive, dangerous, reckless activity. But we would not call that firefighting. We have a separate word for it: arson. Similarly, if you employed the ‘principles of marketing’ in an unprincipled way, you would not be doing marketing. We have another term for it: fraud. Kant gives the example of a doctor and a poisoner, who use the identical knowledge to achieve their divergent ends. We would say that one is practicing medicine, the other, murder.
+
 25
 
 ## Page 26
 
 Test 5
-Questions 33-36
+Questions 33–36
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 33—36 on your answer sheet.
-The 'Arson for Profit' course
-This is a university course intended for students who are undergraduates and who
-are studying 33.......
-..... . The expectation is that they will become 34 .
-specialising in arson. The course will help them to detect cases of arson and find
-35 ......... of criminal intent, leading to successful 36..
-.. in the courts.
-Questions 37-40
+Write your answers in boxes 33–36 on your answer sheet.
+
+The ‘Arson for Profit’ course
+This is a university course intended for students who are undergraduates and who are studying 33 __________. The expectation is that they will become 34 __________ specialising in arson. The course will help them to detect cases of arson and find 35 __________ of criminal intent, leading to successful 36 __________ in the courts.
+
+Questions 37–40
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
-YES
-if the statement agrees with the views of the writer
-NO
-if the statement contradicts the views of the writer
+In boxes 37–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-37
-It is difficult to attract students onto courses that do not focus on a career.
-38
-The 'Arson for Profit' course would be useful for people intending to set fire to
-buildings.
-39
-Fire science courses are too academic to help people to be good at the job of
-firefighting.
-40
-The writer's fire science students provided a detailed definition of the purpose of
-their studies.
+
+37 It is difficult to attract students onto courses that do not focus on a career.
+38 The ‘Arson for Profit’ course would be useful for people intending to set fire to buildings.
+39 Fire science courses are too academic to help people to be good at the job of firefighting.
+40 The writer’s fire science students provided a detailed definition of the purpose of their studies.
+
 26
 
 ## Page 27
@@ -1466,99 +1143,17 @@ order to resolve conflicts.
 Test 6
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 The risks agriculture faces in developing countries
 Synthesis of an online debate*
 A
-Two things distinguish food production
-from
-all
-other productive activities: first,
-every single person needs food each
-day
-and
-has a
-right to it; and second, it is
-hugely dependent on nature. These
-two
-unique
-aspects, one political, the other
-natural, make food production
-highly
-vulnerable
-and different from any other
-business. At the same
-time,
-,cultural
-values
-are
-highly
-entrenched in food and
-agricultural systems
-worldwide.
+Two things distinguish food production from all other productive activities: first, every single person needs food each day and has a right to it; and second, it is hugely dependent on nature. These two unique aspects, one political, the other natural, make food production highly vulnerable and different from any other business. At the same time, cultural values are highly entrenched in food and agricultural systems worldwide.
 B
-Farmers everywhere
-face major risks, including extreme weather, long-term
-climate
-change, and
-price volatility in input and product markets. However,
-smallholder farmers
-in
-developing countries must in addition deal with adverse
-environments, both natural, in terms of soil quality, rainfall, etc., and human, in
-terms of infrastructure, financial systems, markets, knowledge and technology.
-Counter-intuitively, hunger is prevalent among many smallholder farmers in the
-developing world.
+Farmers everywhere face major risks, including extreme weather, long-term climate change, and price volatility in input and product markets. However, smallholder farmers in developing countries must in addition deal with adverse environments, both natural, in terms of soil quality, rainfall, etc., and human, in terms of infrastructure, financial systems, markets, knowledge and technology. Counter-intuitively, hunger is prevalent among many smallholder farmers in the developing world.
 C
-Participants in the online debate argued that our biggest challenge is to address the
-underlying causes of the agricultural system's inability to ensure
-sufficient food for
-all, and they identified as
-drivers of this problem our
-dependency
-on
-fossil
-fuels and
-unsupportive government policies.
+Participants in the online debate argued that our biggest challenge is to address the underlying causes of the agricultural system’s inability to ensure sufficient food for all, and they identified as drivers of this problem our dependency on fossil fuels and unsupportive government policies.
 D
-On the question of
-mitigating
-the risks f
-farmers
-face, most
-essayists
-called
-for
-greater state
-intervention. In his essay, Kanayo F. Nwanze,
-President
-of
-the
-International Fund for Agricultural Development, argued
-that
-governments
-scan
-significantly
-y reduce risks for farmers by providing
-basic services like roads
-to get
-produce more efficiently to markets, or water and
-food
-storage facilities
-to
-reduce
-losses. Sophia Murphy, senior advisor to the
-Institute
-for Agriculture
-and
-Trade
-Policy, suggested
-I that the procurement and holding of
-stocks by governments
-can also help mitigate wild swings in food prices by alleviating uncertainties
-about
-market supply.
+On the question of mitigating the risks farmers face, most essayists called for greater state intervention. In his essay, Kanayo F. Nwanze, President of the International Fund for Agricultural Development, argued that governments can significantly reduce risks for farmers by providing basic services like roads to get produce more efficiently to markets, or water and food storage facilities to reduce losses. Sophia Murphy, senior advisor to the Institute for Agriculture and Trade Policy, suggested that the procurement and holding of stocks by governments can also help mitigate wild swings in food prices by alleviating uncertainties about market supply.
 * The personal names in the text refer to the authors of written contributions to the online debate.
 36
 
@@ -1566,688 +1161,196 @@ market supply.
 
 Reading
 E
-Shenggen Fan, Director General of the International Food Policy Research
-Institute, held up social safety nets and public welfare programmes in Ethiopia,
-Brazil and Mexico as valuable ways to address poverty among farming families
-and reduce their vulnerability to agriculture shocks. However, some commentators
-responded that cash transfers to poor families do not necessarily translate into
-increased food security, as these programmes do not always strengthen food
-production or raise incomes. Regarding state subsidies for agriculture, Rokeya
-Kabir, Executive Director of Bangladesh Nari Progati
-Sangha, commented in her
-essay that these 'have not compensated for the stranglehold exercised by private
-traders. In fact, studies show that sixty percent of beneficiaries of subsidies are not
-poor, but rich landowners and non-farmer traders.'
+Shenggen Fan, Director General of the International Food Policy Research Institute, held up social safety nets and public welfare programmes in Ethiopia, Brazil and Mexico as valuable ways to address poverty among farming families and reduce their vulnerability to agriculture shocks. However, some commentators responded that cash transfers to poor families do not necessarily translate into increased food security, as these programmes do not always strengthen food production or raise incomes. Regarding state subsidies for agriculture, Rokeya Kabir, Executive Director of Bangladesh Nari Progati Sangha, commented in her essay that these ‘have not compensated for the stranglehold exercised by private traders. In fact, studies show that sixty percent of beneficiaries of subsidies are not poor, but rich landowners and non-farmer traders.’
 F
-Nwanze, Murphy and Fan argued that private risk management tools, like private
-insurance, commodity futures
-markets, and rural finance can help small-scale
-producers mitigate risk
-and allow for investment in improvements. Kabir warned
-that financial support schemes often encourage the adoption of high-input
-agricultural practices, which in the medium term may raise production
-costs
-beyond the value of their harvests. Murphy noted that
-when
-futures
-markets
-become excessively financialised they can contribute to
-short-term
-price volatility,
-which increases farmers' food insecurity. Many participants
-sand commentators
-emphasised that greater transparency in markets is needed to mitigate the i
-impact
-of volatility, and make evident whether adequate stocks
-s and supplies are available.
-Others contended that agribusiness companies should be held responsible
-for
-paying for negative side effects.
+Nwanze, Murphy and Fan argued that private risk management tools, like private insurance, commodity futures markets, and rural finance can help small-scale producers mitigate risk and allow for investment in improvements. Kabir warned that financial support schemes often encourage the adoption of high-input agricultural practices, which in the medium term may raise production costs beyond the value of their harvests. Murphy noted that when futures markets become excessively financialised they can contribute to short-term price volatility, which increases farmers’ food insecurity. Many participants and commentators emphasised that greater transparency in markets is needed to mitigate the impact of volatility, and make evident whether adequate stocks and supplies are available. Others contended that agribusiness companies should be held responsible for paying for negative side effects.
 G
-Many essayists mentioned climate change and its consequences for small-scale
-agriculture. Fan explained that 'in addition to reducing crop yields, climate change
-increases the magnitude and the frequency of extreme weather events, which
-increase smallholder vulnerability.' The growing unpredictability of weather patterns
-increases farmers'
-difficulty
-in managing weather-related risks. According to this
-author, one solution
-would
-be to
-develop crop varieties that are more resilient
-to new climate
-trends
-and
-extreme weather patterns. Accordingly, Pat Mooney,
-co-founder
-and
-executive
-director
-r of the ETC Group, suggested that 'if we are to
-survive climate
-change,
-we
-must
-adopt policies that let peasants diversify the plant
-and animal
-species
-and
-varieties/breeds that make up our menus.'
+Many essayists mentioned climate change and its consequences for small-scale agriculture. Fan explained that ‘in addition to reducing crop yields, climate change increases the magnitude and the frequency of extreme weather events, which increase smallholder vulnerability.’ The growing unpredictability of weather patterns increases farmers’ difficulty in managing weather-related risks. According to this author, one solution would be to develop crop varieties that are more resilient to new climate trends and extreme weather patterns. Accordingly, Pat Mooney, co-founder and executive director of the ETC Group, suggested that ‘if we are to survive climate change, we must adopt policies that let peasants diversify the plant and animal species and varieties/breeds that make up our menus.’
 37
 
 ## Page 38
 
 Test 6
 H
-Some participating authors and commentators argued in favour of community-
-based and autonomous risk management strategies through collective action
-groups, co-operatives or producers' groups. Such groups enhance market
-opportunities for small-scale producers, reduce marketing costs and synchronise
-buying and selling with seasonal price conditions. According
-g to Murphy, 'collective
-action offers an important way for farmers to strengthen their
-political
-and
-economic
-bargaining power, and to reduce their business risks.' One commentator,
-Giel Ton,
-warned that collective action does not come as a free good. It takes
-time,
-effort
-and money to organise, build trust and to experiment. Others, like Marcel
-Vernooij
-and Marcel Beukeboom, suggested that in order to 'apply what we already know',
-all stakeholders, including business, government, scientists and civil society, must
-work together, starting at the beginning of the value chain.
-Some participants explained that market price volatility is often worsened by the
-presence of intermediary purchasers who, taking advantage of farmers' vulnerability,
-dictate prices. One commentator suggested farmers can gain greater control over
-prices and minimise price volatility by selling directly to consumers.
-Similarly,
-Sonali
-Bisht, founder and advisor to the Institute of Himalayan
-n Environmental
-Research
-and Education (INHERE), India, wrote that community-supported
-agriculture,
-where
-consumers invest in local farmers by subscription
-and
-guarantee
-producers
-a
-fair
-price, is a risk-sharing model worth more attention. Direct food
-distribution
-systems
-not only encourage small-scale agriculture but also give
-consumers
-more
-control
-over the food they consume, she wrote.
+Some participating authors and commentators argued in favour of community-based and autonomous risk management strategies through collective action groups, co-operatives or producers’ groups. Such groups enhance market opportunities for small-scale producers, reduce marketing costs and synchronise buying and selling with seasonal price conditions. According to Murphy, ‘collective action offers an important way for farmers to strengthen their political and economic bargaining power, and to reduce their business risks.’ One commentator, Giel Ton, warned that collective action does not come as a free good. It takes time, effort and money to organise, build trust and to experiment. Others, like Marcel Vernooij and Marcel Beukeboom, suggested that in order to ‘apply what we already know’, all stakeholders, including business, government, scientists and civil society, must work together, starting at the beginning of the value chain.
+I
+Some participants explained that market price volatility is often worsened by the presence of intermediary purchasers who, taking advantage of farmers’ vulnerability, dictate prices. One commentator suggested farmers can gain greater control over prices and minimise price volatility by selling directly to consumers. Similarly, Sonali Bisht, founder and advisor to the Institute of Himalayan Environmental Research and Education (INHERE), India, wrote that community-supported agriculture, where consumers invest in local farmers by subscription and guarantee producers a fair price, is a risk-sharing model worth more attention. Direct food distribution systems not only encourage small-scale agriculture but also give consumers more control over the food they consume, she wrote.
 38
 
 ## Page 39
 
 Reading
-Questions 1-3
-Reading Passage 1 has nine paragraphs, A—I.
+Questions 1–3
+Reading Passage 1 has nine paragraphs, A–I.
 Which paragraph contains the following information?
-Write the correct letter, A-I, in boxes 1-3 on your answer sheet.
-1
-a reference to characteristics that only apply to food production
-2
-a reference to challenges faced only by farmers in certain parts of the world
-3
-a reference to difficulties in bringing about co-operation between farmers
+Write the correct letter, A–I, in boxes 1–3 on your answer sheet.
+1 a reference to characteristics that only apply to food production
+2 a reference to challenges faced only by farmers in certain parts of the world
+3 a reference to difficulties in bringing about co-operation between farmers
 39
 
 ## Page 40
 
 Test 6
-Questions 4-9
-Look at the following statements (Questions 4—9) and the list of people below.
-Match each statement with the correct person, A-G.
-Write the correct letter, A-G, in boxes 4-9 on your answer sheet.
-NB
-You may use any letter more than once.
-4
-Financial assistance from the government does not always go to the farmers who
-most need it.
-5
-Farmers can benefit from collaborating as a group.
-6
-Financial assistance from the government can improve the standard of living of
-farmers.
-7
-Farmers may be helped if there is financial input by the same individuals who buy
-from them.
-8
-Governments can help to reduce variation in prices.
-9
-Improvements to infrastructure can have a major impact on risk for farmers.
+Questions 4–9
+Look at the following statements (Questions 4–9) and the list of people below.
+Match each statement with the correct person, A–G.
+Write the correct letter, A–G, in boxes 4–9 on your answer sheet.
+NB You may use any letter more than once.
+4 Financial assistance from the government does not always go to the farmers who most need it.
+5 Farmers can benefit from collaborating as a group.
+6 Financial assistance from the government can improve the standard of living of farmers.
+7 Farmers may be helped if there is financial input by the same individuals who buy from them.
+8 Governments can help to reduce variation in prices.
+9 Improvements to infrastructure can have a major impact on risk for farmers.
 List of People
-A
-Kanayo F. Nwanze
-B
-Sophia Murphy
-C
-Shenggen Fan
-D
-Rokeya Kabir
-E
-Pat Mooney
-F
-Giel Ton
-G
-Sonali Bisht
+A Kanayo F. Nwanze
+B Sophia Murphy
+C Shenggen Fan
+D Rokeya Kabir
+E Pat Mooney
+F Giel Ton
+G Sonali Bisht
 40
 
 ## Page 41
 
 Reading
 Questions 10 and 11
-Choose TWo letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 10 and 11 on your answer sheet.
-Which Two problems are mentioned which affect farmers with small farms in
-developing countries?
-A
-lack of demand for locally produced food
-B
-lack of irrigation programmes
-C
-being unable to get insurance
-D
-the effects of changing weather patterns
-E
-having to sell their goods to intermediary buyers
+Which TWO problems are mentioned which affect farmers with small farms in developing countries?
+A lack of demand for locally produced food
+B lack of irrigation programmes
+C being unable to get insurance
+D the effects of changing weather patterns
+E having to sell their goods to intermediary buyers
 Questions 12 and 13
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 12 and 13 on your answer sheet.
-Which Two actions are recommended for improving conditions for farmers?
-A
-reducing the size of food stocks
-B
-attempting to ensure that prices rise at certain times of the year
-C
-organising co-operation between a wide range of interested parties
-D
-encouraging consumers to take a financial stake in farming
-E
-making customers aware of the reasons for changing food prices
+Which TWO actions are recommended for improving conditions for farmers?
+A reducing the size of food stocks
+B attempting to ensure that prices rise at certain times of the year
+C organising co-operation between a wide range of interested parties
+D encouraging consumers to take a financial stake in farming
+E making customers aware of the reasons for changing food prices
 41
 
 ## Page 42
 
 Test 6
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26,which are based on Reading
-Passage 2 below.
-Questions 14-20
-Reading Passage 2 has seven paragraphs, A-G.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+Questions 14–20
+Reading Passage 2 has seven paragraphs, A–G.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, iviii, in boxes 14-20 on your answer sheet.
+Write the correct number, i–viii, in boxes 14–20 on your answer sheet.
 List of Headings
-Different accounts of the same journey
-ii
-Bingham gains support
-iii
-A common belief
-iv
-The aim of the trip
-V
-A dramatic description
-vi
-A new route
-vii
-Bingham publishes his theory
-viii
-Bingham's lack of enthusiasm
-14
-Paragraph A
-15
-Paragraph B
-16
-Paragraph C
-17
-Paragraph D
-18
-Paragraph E
-19
-Paragraph F
-20
-Paragraph G
-42
+i Different accounts of the same journey
+ii Bingham gains support
+iii A common belief
+iv The aim of the trip
+v A dramatic description
+vi A new route
+vii Bingham publishes his theory
+viii Bingham's lack of enthusiasm
+14 Paragraph A
+15 Paragraph B
+16 Paragraph C
+17 Paragraph D
+18 Paragraph E
+19 Paragraph F
+20 Paragraph G
 
 ## Page 43
 
 Reading
 The Lost City
-An explorer's encounter with
-the
-ruined
-city
-of
-Machu Picchu, the most famous
-icon
-of
-the
-Inca
-civilisation
+An explorer's encounter with the ruined city of Machu Picchu, the most famous icon of the Inca civilisation
 A
-When the US explorer and
-academic
-Hiram
-Bingham arrived in South America in
-1911, he was ready for what was
-to be
-the greatest achievement of his life: the
-exploration of the remote hinterland to the west of Cusco, the old capital of the Inca
-empire in the Andes mountains
-s of Peru. His goal was to locate the remains of a city
-called Vitcos, the last capital of the Inca civilisation. Cusco lies on a high plateau
-at an elevation of
-f more than 3,0o0 metres, and Bingham's plan was to descend
-from
-this plateau
-along
-the
-valley of the Urubamba river, which takes a circuitous
-route
-down
-to
-the
-Amazon and passes through an area of dramatic canyons and
-mountain
-ranges.
+When the US explorer and academic Hiram Bingham arrived in South America in 1911, he was ready for what was to be the greatest achievement of his life: the exploration of the remote hinterland to the west of Cusco, the old capital of the Inca empire in the Andes mountains of Peru. His goal was to locate the remains of a city called Vitcos, the last capital of the Inca civilisation. Cusco lies on a high plateau at an elevation of more than 3,000 metres, and Bingham's plan was to descend from this plateau along the valley of the Urubamba river, which takes a circuitous route down to the Amazon and passes through an area of dramatic canyons and mountain ranges.
 B
-When
-Bingham and his team set off down the Urubamba in late July, they had
-an advantage over travellers who had preceded them: a track had recently been
-blasted down the valley canyon to enable rubber to be brought up by mules from
-the jungle. Almost all previous travellers had left the river at Ollantaytambo and
-taken a high pass across the mountains to rejoin the river lower down, thereby
-cutting a substantial corner, but also therefore never passing through the area
-around Machu Picchu.
+When Bingham and his team set off down the Urubamba in late July, they had an advantage over travellers who had preceded them: a track had recently been blasted down the valley canyon to enable rubber to be brought up by mules from the jungle. Almost all previous travellers had left the river at Ollantaytambo and taken a high pass across the mountains to rejoin the river lower down, thereby cutting a substantial corner, but also therefore never passing through the area around Machu Picchu.
 C
-On 24 July they were a few days into their descent of the valley. The day began
-slowly, with Bingham trying to arrange sufficient mules for the next stage of the
-trek. His companions showed no interest in accompanying him up the nearby hill
-to see some ruins that a local farmer, Melchor Arteaga, had told them about the
-night before. The morning was dull and damp, and Bingham also seems to have
-been less than keen on the prospect of climbing the hill. In his book Lost City of the
-Incas, he relates that he made the ascent without having the least expectation that
-he would
-find anything at the top.
+On 24 July they were a few days into their descent of the valley. The day began slowly, with Bingham trying to arrange sufficient mules for the next stage of the trek. His companions showed no interest in accompanying him up the nearby hill to see some ruins that a local farmer, Melchor Arteaga, had told them about the night before. The morning was dull and damp, and Bingham also seems to have been less than keen on the prospect of climbing the hill. In his book Lost City of the Incas, he relates that he made the ascent without having the least expectation that he would find anything at the top.
 D
-Bingham writes about the approach in vivid style in his book. First, as he climbs
-up the hill, he describes the ever-present possibility of deadly snakes, 'capable of
-making considerable springs when in pursuit of their prey'; not that he sees any.
-Then there's a sense of mounting discovery as he comes across great sweeps
-of terraces, then a mausoleum, followed by monumental staircases and, finally,
-the grand ceremonial buildings of Machu Picchu. 'It seemed like an unbelievable
-dream ... the sight held me spellbound ...' he wrote.
-43
+Bingham writes about the approach in vivid style in his book. First, as he climbs up the hill, he describes the ever-present possibility of deadly snakes, 'capable of making considerable springs when in pursuit of their prey'; not that he sees any. Then there's a sense of mounting discovery as he comes across great sweeps of terraces, then a mausoleum, followed by monumental staircases and, finally, the grand ceremonial buildings of Machu Picchu. 'It seemed like an unbelievable dream ... the sight held me spellbound ...' he wrote.
 
 ## Page 44
 
 Test 6
 E
-We should remember, however, that Lost City of the Incas is a work of hindsight,
-not written until 1948, many years after his journey. His journal entries of the
-time reveal a much more gradual appreciation of his achievement. He spent
-the afternoon at the ruins noting down the dimensions of some of the buildings,
-then descended and rejoined his companions, to whom he seems to have said
-little about his discovery. At this stage, Bingham didn't realise the extent or the
-importance of the site, nor did he realise what use he could make of the discovery.
+We should remember, however, that Lost City of the Incas is a work of hindsight, not written until 1948, many years after his journey. His journal entries of the time reveal a much more gradual appreciation of his achievement. He spent the afternoon at the ruins noting down the dimensions of some of the buildings, then descended and rejoined his companions, to whom he seems to have said little about his discovery. At this stage, Bingham didn't realise the extent or the importance of the site, nor did he realise what use he could make of the discovery.
 F
-However, soon after returning it occurred to him that he could make a name for
-himself from this discovery. When he came to write the National Geographic
-magazine article that broke the story to the world in April 1913, he knew he had
-to produce a big idea. He wondered whether it could have been the birthplace of
-the very first Inca, Manco the Great, and whether it could also have been what
-chroniclers described as 'the last city of the Incas'. This term refers to Vilcabamba,
-the settlement where the Incas had fled from Spanish invaders in the 1530s.
-Bingham made desperate attempts to prove this belief for nearly 40 years. Sadly,
-his vision of the site as both the beginning and end of the Inca civilisation, while
-a magnificent one, is inaccurate. We now know that Vilcabamba actually lies 65
-kilometres away
-in
-the depths of the jungle.
+However, soon after returning it occurred to him that he could make a name for himself from this discovery. When he came to write the National Geographic magazine article that broke the story to the world in April 1913, he knew he had to produce a big idea. He wondered whether it could have been the birthplace of the very first Inca, Manco the Great, and whether it could also have been what chroniclers described as 'the last city of the Incas'. This term refers to Vilcabamba, the settlement where the Incas had fled from Spanish invaders in the 1530s. Bingham made desperate attempts to prove this belief for nearly 40 years. Sadly, his vision of the site as both the beginning and end of the Inca civilisation, while a magnificent one, is inaccurate. We now know that Vilcabamba actually lies 65 kilometres away in the depths of the jungle.
 G
-One question
-that has perplexed visitors, historians and archaeologists alike ever
-since Bingham, is
-why
-the site seems to have been abandoned before the Spanish
-Conquest.
-. There
-are
-no references to it by any of the Spanish chroniclers - and if
-they had known of its
-existence so close to Cusco they would certainly have come
-in search of
-gold.
-An idea
-which has gained wide acceptance over the past few
-years is that Machu Picchu was a moya, a country estate built by an Inca emperor
-to escape the cold
-winters of Cusco, where the elite could enjoy monumental
-architecture and
-spectacular views. Furthermore, the particular architecture of
-Machu
-Picchu
-I suggests that it was constructed at the time of the greatest of all the
-Incas, the emperor Pachacuti (c. 1438-71). By custom, Pachacuti's descendants
-built other similar estates for their own use, and so Machu Picchu would have been
-abandoned after his death, some 50 years before the Spanish Conquest.
-44
+One question that has perplexed visitors, historians and archaeologists alike ever since Bingham, is why the site seems to have been abandoned before the Spanish Conquest. There are no references to it by any of the Spanish chroniclers – and if they had known of its existence so close to Cusco they would certainly have come in search of gold. An idea which has gained wide acceptance over the past few years is that Machu Picchu was a moya, a country estate built by an Inca emperor to escape the cold winters of Cusco, where the elite could enjoy monumental architecture and spectacular views. Furthermore, the particular architecture of Machu Picchu suggests that it was constructed at the time of the greatest of all the Incas, the emperor Pachacuti (c. 1438–71). By custom, Pachacuti's descendants built other similar estates for their own use, and so Machu Picchu would have been abandoned after his death, some 50 years before the Spanish Conquest.
 
 ## Page 45
 
 Reading
-Questions 21-24
+Questions 21–24
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 21-24 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-21
-Bingham went to South America in search of an Inca city.
-22
-Bingham chose a particular route down the Urubamba valley because it was the
-most common route used by travellers.
-23
-Bingham understood the significance of Machu Picchu as soon as he saw it.
-24
-Bingham returned to Machu Picchu in order to find evidence to support his theory.
-Questions 25-26
+In boxes 21–24 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+21 Bingham went to South America in search of an Inca city.
+22 Bingham chose a particular route down the Urubamba valley because it was the most common route used by travellers.
+23 Bingham understood the significance of Machu Picchu as soon as he saw it.
+24 Bingham returned to Machu Picchu in order to find evidence to support his theory.
+Questions 25–26
 Complete the sentences below.
-Choose ONE woRD oNLY from the passage for each answer.
-Write your answers in boxes 25-26 on your answer sheet.
-25
-The track that took Bingham down the Urubamba valley had been created for the
-transportation of
-26
-Bingham found out about the ruins of Machu Picchu from a
-in the
-Urubamba valley.
-45
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 25–26 on your answer sheet.
+25 The track that took Bingham down the Urubamba valley had been created for the transportation of ______.
+26 Bingham found out about the ruins of Machu Picchu from a ______ in the Urubamba valley.
 
 ## Page 46
 
 Test 6
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
+
 The Benefits of Being Bilingual
+
 A
-According to the latest
-figures,
-the
-majority
-of
-the
-world's population is now bilingual
-or multilingual, having
-grown
-up
-speaking
-two
-or moreI
-languages. In the past, such
-children were considered
-to
-be
-at a
-disadvantage
-compared with their monolingual
-peers. Over t
-the
-past few
-decades
-however,
-technological advances have allowed
-researchers
-to
-look
-more
-deeply
-at
-how
-bilinqualism interacts with
-and changes
-the cognitive and
-neurological
-systems, thereby
-identifying several clear benefits of
-being
-bilingual.
+According to the latest figures, the majority of the world’s population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.
+
 B
-Research
-shows
-that when
-a
-bilingual person uses one language, the other is
-active
-at
-the
-same
-time.
-When we
-hear a word, we don't hear the
-entire word all at
-once: the
-sounds
-arrive
-in
-sequential order. Long before the
-word is finished, the
-brain's language
-system
-begins to guess what that word
-might be. If
-f you hear 'can',
-you will likely
-activate
-words
-like 'candy' and 'candle' as
-well, at least during
-the
-earlier stages of word recognition. For bilingual people, this activation is not limited
-to a single language; auditory input activates corresponding words regardless
-of the language to which they belong. Some of the most compelling evidence
-for this phenomenon, called 'language co-activation', comes from s
-studying
-eye
-movements. A Russian-English bilingual asked to 'pick up a marker'
-from a set of
-objects would look more at a stamp than someone who doesn't know
-Russian,
-because the Russian word for 'stamp', marka, sounds like
-the
-English word he or
-she heard,
-'marker'. In
-cases
-like
-this, language co-activation
-occurs
-because what
-the listener hears
-could
-map
-onto
-words
-in
-either language.
+Research shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don’t hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain’s language system begins to guess what that word might be. If you hear ‘can’, you will likely activate words like ‘candy’ and ‘candle’ as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called ‘language co-activation’, comes from studying eye movements. A Russian-English bilingual asked to ‘pick up a marker’ from a set of objects would look more at a stamp than someone who doesn’t know Russian, because the Russian word for ‘stamp’, marka, sounds like the English word he or she heard, ‘marker’. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language.
+
 C
-Having to
-deal
-I with
-this
-spersistent linguistic competition can result in difficulties,
-however. For instance, knowing more
-than one language can cause speakers to
-name pictures more slowly, and can increase 'tip-of-the-tongue states', when you
-can almost, but not quite, bring a word to mind. As a result, the constant juggling of
-two languages creates a need to control how much a person accesses a language
-at any given time. For this reason, bilingual people often perform better on t
-tasks
-that require conflict management. In the classic Stroop Task, people see a word
-and are asked to name the colour of the word's font. When the colour and the
-word match (i.e., the word 'red' printed in red), people correctly name the colour
-more quickly than when the colour and the word don't match (i.e., the word 'red'
-printed in blue). This occurs because the word itself ('red') and its font colour (blue)
-conflict. Bilingual people often excel at tasks such as this, which tap into the ability
-to ignore competing perceptual information and focus on the relevant aspects of
-the input. Bilinguals are also better at switching between two tasks; for example,
-when bilinguals have to switch from categorizing objects by colour (red or green)
+Having to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase ‘tip-of-the-tongue states’, when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word’s font. When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don’t match (i.e., the word ‘red’ printed in blue). This occurs because the word itself (‘red’) and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green)
+
 46
 
 ## Page 47
 
 Reading
-to categorizing them by shape (circle or triangle), they do so more quickly than
-monolingual people, reflecting better cognitive control when having to make rapid
-changes of strategy.
+to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.
+
 D
-It also seems that the neurological roots of the bilingual advantage extend to brain
-areas more traditionally associated with sensory processing. When monolingual
-and bilingual adolescents listen to simple speech sounds without any intervening
-background noise, they show highly similar brain stem responses. When
-researchers play the same sound to both groups in the presence of background
-noise, however, the bilingual listeners' neural response is considerably larger,
-reflecting better encoding of the sound's fundamental frequency, a feature of sound
-closely related to pitch perception.
+It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners’ neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception.
+
 E
-Such improvements in cognitive and sensory processing may help a bilingual
-person to process information in the environment, and help explain why bilingual
-adults acquire
-a
-third language better than monolingual adults master a second
-language.
-This
-s advantage may be rooted in the skill of focussing on information
-about the new language while reducing interference from the languages they
-already
-know.
+Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know.
+
 F
-Research
-also
-indicates that bilingual experience may help to keep the cognitive
-mechanisms sharp by recruiting alternate brain networks to compensate for those
-that become damaged during aging. Older bilinguals enjoy improved memory
-relative to monolingual people, which
-can
-lead to real-world health benefits. In a
-study of over
-200
-patients
-with
-Alzheimer's
-disease, a
-degenerative
-brain
-disease,
-bilingual patients
-reported
-showing
-initial
-symptoms of
-the
-disease an average
-of five years
-later
-than
-monolingual
-patients. In a
-follow-up
-study,
-researchers
-compared
-the
-brains
-of
-bilingual
-and
-monolingual
-patients
-matched
-on
-the severity
-of Alzheimer's
-symptoms.
-Surprisingly,
-the
-bilinguals'
-brains
-had
-more
-physical
-signs
-of
-disease
-than
-their
-monolingual
-counterparts,
-even
-though
-their outward
-behaviour
-and
-abilities
-were
-the
-same.
-If
-the
-brain
-is
-an engine, bilingualism may
-help
-it to
-go
-farther
-on
-the
-same
-amount
-of
-f fuel.
+Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer’s disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer’s symptoms. Surprisingly, the bilinguals’ brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel.
+
 G
-Furthermore,
-the
-benefits
-associated with
-bilingual experience seem to start
-very
-early. In
-n one
-study,
-researchers taught seven-month-old babies growing
-up in monolingual or bilingual
-homes that when they heard a tinkling sound, a
-puppet appeared on one
-side
-of a screen. Halfway through the study, the puppet
-began appearing on the opposite side of the screen. In order to get a reward, the
-infants had to adjust the rule they'd learned; only the bilingual babies were able to
-successfully learn the new rule. This suggests that for very young children, as well
-as for older people, navigating a multilingual environment imparts advantages that
-transfer far beyond language.
+Furthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they’d learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.
+
 47
 
 ## Page 48
 
-Questions 27-31
+Test 6
+Questions 27–31
 Complete the table below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 27-31 on your answer sheet.
+Write your answers in boxes 27–31 on your answer sheet.
 
 | Test | Findings |
 | --- | --- |
@@ -2255,23 +1358,34 @@ Write your answers in boxes 27-31 on your answer sheet.
 | A test called the 29 __________, focusing on naming colours | Bilingual people are more able to handle tasks involving a skill called 30 __________. |
 | A test involving switching between tasks | When changing strategies, bilingual people have superior 31 __________. |
 
+Questions 32–36
+Do the following statements agree with the claims of the writer in Reading Passage 3?
+In boxes 32–36 on your answer sheet, write
+YES if the statement agrees with the claims of the writer
+NO if the statement contradicts the claims of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+
+32 Attitudes towards bilingualism have changed in recent years.
+33 Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.
+34 Bilingual people consistently name images faster than monolingual people.
+35 Bilingual people’s brains process single sounds more efficiently than monolingual people in all situations.
+36 Fewer bilingual people than monolingual people suffer from brain disease in old age.
+
+48
+
 ## Page 49
 
 Reading
-Questions 37-40
-Reading Passage 3 has seven paragraphs, A-G.
+Questions 37–40
+Reading Passage 3 has seven paragraphs, A–G.
 Which paragraph contains the following information?
-Write the correct letter, A-G, in boxes 37-40 on your answer sheet.
-37
-an example of how bilingual and monolingual people's brains respond differently
-to a certain type of non-verbal auditory input
-38
-a demonstration of how a bilingual upbringing has benefits even before we learn
-to speak
-39
-a description of the process by which people identify words that they hear
-40
-reference to some negative consequences of being bilingual
+Write the correct letter, A–G, in boxes 37–40 on your answer sheet.
+
+37 an example of how bilingual and monolingual people’s brains respond differently to a certain type of non-verbal auditory input
+38 a demonstration of how a bilingual upbringing has benefits even before we learn to speak
+39 a description of the process by which people identify words that they hear
+40 reference to some negative consequences of being bilingual
+
 49
 
 ## Page 50
@@ -2611,847 +1725,257 @@ New regulations for mercury emissions will affect everyone's energy
 Reading
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1.
-Questions 1-7
-Reading Passage 1 has seven paragraphs, A-G.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1.
+Questions 1–7
+Reading Passage 1 has seven paragraphs, A–G.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, i—viii, in boxes 1-7 on your answer sheet.
+Write the correct number, i–viii, in boxes 1–7 on your answer sheet.
 List of Headings
-i
-The importance of getting the timing right
-ii
-Young meets old
-iii
-Developments to the disadvantage of tortoise
-populations
-iv
-Planning a bigger idea
-V
-Tortoises populate the islands
-vi
-Carrying out a carefully prepared operation
-vii
-Looking for a home for the islands' tortoises
-viii
-The start of the conservation project
-1
-Paragraph A
-2
-Paragraph B
-3
-Paragraph C
-4
-Paragraph D
-5
-Paragraph E
-6
-Paragraph F
-7
-Paragraph G
+i The importance of getting the timing right
+ii Young meets old
+iii Developments to the disadvantage of tortoise populations
+iv Planning a bigger idea
+v Tortoises populate the islands
+vi Carrying out a carefully prepared operation
+vii Looking for a home for the islands' tortoises
+viii The start of the conservation project
+1 Paragraph A
+2 Paragraph B
+3 Paragraph C
+4 Paragraph D
+5 Paragraph E
+6 Paragraph F
+7 Paragraph G
 59
 
 ## Page 60
 
 Test 7
-Flying
-tortoises
-An airborne reintroduction
-programme
-has
-helped conservationists take
-significant
-steps
-to
-protect
-the
-endangered
-Galápagos tortoise.
+Flying tortoises
+An airborne reintroduction programme has helped conservationists take significant steps to protect the endangered Galápagos tortoise.
 A
-Forests of
-spiny
-cacti
-cover
-much
-of
-the
-uneven
-lava
-plains
-that separate the
-interior
-of
-the
-Galápagos
-island
-of
-Isabela
-from
-the
-P
-Pacific
-Ocean.
-With
-its
-five
-distinct
-yolcanoes.
-the
-island
-resembles
-a
-lunar
-landscape
-Only
-the
-thick
-vegetation
-at
-the
-skirt
-of
-the
-often
-cloud-covered
-peak
-of
-Sierra
-Negra offers
-respite
-from the
-barren
-terrain
-below.
-This
-inhospitable
-environment
-is
-home
-to
-the
-giant
-Galápagos
-tortoise. Some
-time
-after
-the
-Galápagos's
-birth,
-around
-five
-million
-years ago,
-the
-islands
-were
-colonised
-by
-one
-or
-more
-tortoises
-from
-mainland
-South
-America.
-As
-these
-ancestral
-tortoises
-settled
-on
-the
-individual
-islands,
-the
-different populations
-adapted
-to
-their
-unique
-environments,
-giving
-rise
-to at least
-14 different subspecies. Island
-life
-agreed
-with
-them.
-In
-the
-absence of significant
-predators, they grew to
-become
-the
-largest
-and
-longest-living
-tortoises on the
-planet, weighing more than 400
-kilograms, occasionally exceeding 1.8 metres in
-length and living for more than a century.
+Forests of spiny cacti cover much of the uneven lava plains that separate the interior of the Galápagos island of Isabela from the Pacific Ocean. With its five distinct volcanoes, the island resembles a lunar landscape. Only the thick vegetation at the skirt of the often cloud-covered peak of Sierra Negra offers respite from the barren terrain below. This inhospitable environment is home to the giant Galápagos tortoise. Some time after the Galápagos's birth, around five million years ago, the islands were colonised by one or more tortoises from mainland South America. As these ancestral tortoises settled on the individual islands, the different populations adapted to their unique environments, giving rise to at least 14 different subspecies. Island life agreed with them. In the absence of significant predators, they grew to become the largest and longest-living tortoises on the planet, weighing more than 400 kilograms, occasionally exceeding 1.8 metres in length and living for more than a century.
 B
-Before human arrival, the archipelago's tortoises numbered in the hundreds
-of thousands. From the
-17th
-century onwards, pirates took a few on board for
-food, but the arrival of whaling ships in the 1790s saw this exploitation grow
-exponentially. Relatively
-immobile and capable of surviving for months without food
-or water, the
-tortoises were
-taken on board these ships to act as food supplies
-during long ocean passages. Sometimes, their bodies were processed into high-
-grade oil. In total,
-an
-estimated 200,000 animals were taken from the archipelago
-before the 20th
-century.
-This
-historical exploitation was then exacerbated when
-settlers came
-to
-the islands.
-They hunted the tortoises and destroyed their habitat
-to clear land for agriculture.
-They also introduced alien species - ranging from
-cattle, pigs, goats, rats and
-d dogs to plants and ants - that either prey on the eggs
-and young tortoises or damage or destroy their habitat.
+Before human arrival, the archipelago's tortoises numbered in the hundreds of thousands. From the 17th century onwards, pirates took a few on board for food, but the arrival of whaling ships in the 1790s saw this exploitation grow exponentially. Relatively immobile and capable of surviving for months without food or water, the tortoises were taken on board these ships to act as food supplies during long ocean passages. Sometimes, their bodies were processed into high-grade oil. In total, an estimated 200,000 animals were taken from the archipelago before the 20th century. This historical exploitation was then exacerbated when settlers came to the islands. They hunted the tortoises and destroyed their habitat to clear land for agriculture. They also introduced alien species – ranging from cattle, pigs, goats, rats and dogs to plants and ants – that either prey on the eggs and young tortoises or damage or destroy their habitat.
 C
-Today, only 11 of the original subspecies survive and of these, several are highly
-endangered. In 1989, work began on a tortoise-breeding centre just outside the
-town of Puerto Villamil on Isabela, dedicated to protecting the island's tortoise
-populations. The centre's captive-breeding programme proved to be extremely
-successful, and it eventually had to deal with an overpopulation problem.
+Today, only 11 of the original subspecies survive and of these, several are highly endangered. In 1989, work began on a tortoise-breeding centre just outside the town of Puerto Villamil on Isabela, dedicated to protecting the island's tortoise populations. The centre's captive-breeding programme proved to be extremely successful, and it eventually had to deal with an overpopulation problem.
 D
-The problem was also a pressing one. Captive-bred tortoises can't be reintroduced
-into
-the wild
-until they're at least five years old and weigh at least 4.5 kilograms,
-at which point
-their size and weight - and their hardened shells - are sufficient
-to protect them from predators. But if people wait too long after that point, the
-tortoises eventually become too large to transport.
+The problem was also a pressing one. Captive-bred tortoises can't be reintroduced into the wild until they're at least five years old and weigh at least 4.5 kilograms, at which point their size and weight – and their hardened shells – are sufficient to protect them from predators. But if people wait too long after that point, the tortoises eventually become too large to transport.
 60
 
 ## Page 61
 
 Reading
 E
-For years, repatriation efforts were carried out in small numbers, with the tortoises
-carried on the backs of men over weeks of long, treacherous hikes along narrow
-trails. But in November 2010, the environmentalist and Galápagos National Park
-liaison officer Godfrey Merlin, a visiting private motor yacht captain and a helicopter
-pilot gathered around a table in a small café in Puerto Ayora on the island of Santa
-Cruz to
-work out more ambitious reintroduction. The aim was to use a helicopter
-to move
-300
-of the breeding centre's tortoises to various locations close to Sierra
-Negra.
+For years, repatriation efforts were carried out in small numbers, with the tortoises carried on the backs of men over weeks of long, treacherous hikes along narrow trails. But in November 2010, the environmentalist and Galápagos National Park liaison officer Godfrey Merlin, a visiting private motor yacht captain and a helicopter pilot gathered around a table in a small café in Puerto Ayora on the island of Santa Cruz to work out a more ambitious reintroduction. The aim was to use a helicopter to move 300 of the breeding centre's tortoises to various locations close to Sierra Negra.
 F
-This unprecedented effort was made possible by the owners of the 67-metre
-yacht White Cloud, who provided the Galápagos National Park with free use of
-their helicopter and its experienced pilot, as well as the logistical support of the
-yacht, its captain and crew. Originally an air ambulance, the yacht's helicopter
-has a reardouble
-door and a large internal space that's well suited for cargo,
-so a custom
-crate
-was
-s designed to hold up to 33 tortoises with a total weight of
-about
-150
-kilograms. This weight, together with that of the fuel, pilot and four crew,
-approached
-the
-helicopter's
-maximum payload, and t
-there were
-times when it was
-clearly
-right
-on
-the
-edge
-of the helicopter's capabilities. During a period of three
-days, a
-a group
-of
-volunteers
-from
-the breeding centre worked around the clock to
-prepare
-the
-young
-tortoises
-s for transport. Meanwhile, park wardens, dropped off
-ahead
-of
-time
-in
-remote
-locations, cleared landing sites within the thick brush, cacti
-and lava rocks.
+This unprecedented effort was made possible by the owners of the 67-metre yacht White Cloud, who provided the Galápagos National Park with free use of their helicopter and its experienced pilot, as well as the logistical support of the yacht, its captain and crew. Originally an air ambulance, the yacht's helicopter has a rear double door and a large internal space that's well suited for cargo, so a custom crate was designed to hold up to 33 tortoises with a total weight of about 150 kilograms. This weight, together with that of the fuel, pilot and four crew, approached the helicopter's maximum payload, and there were times when it was clearly right on the edge of the helicopter's capabilities. During a period of three days, a group of volunteers from the breeding centre worked around the clock to prepare the young tortoises for transport. Meanwhile, park wardens, dropped off ahead of time in remote locations, cleared landing sites within the thick brush, cacti and lava rocks.
 G
-Upon their release, the juvenile tortoises quickly spread out over their ancestral
-territory, investigating their new surroundings and feeding on the vegetation.
-Eventually, one tiny tortoise came across a fully grown giant who had been
-lumbering around the island for around a hundred years. The two stood side by
-side, a powerful symbol of the regeneration of an ancient species.
+Upon their release, the juvenile tortoises quickly spread out over their ancestral territory, investigating their new surroundings and feeding on the vegetation. Eventually, one tiny tortoise came across a fully grown giant who had been lumbering around the island for around a hundred years. The two stood side by side, a powerful symbol of the regeneration of an ancient species.
 61
 
 ## Page 62
 
 Test 7
-Questions 8-13
+Questions 8–13
 Complete the notes below.
-Choose ONE woRD oNLY from the passage for each answer
-Write your answers in boxes 8—13 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 8–13 on your answer sheet.
 The decline of the Galápagos tertoise
-Originally from mainland South America
-Numbers on Galápagos islands increased, due to lack of predators
-17th century: small numbers taken onto ships used by 8
-1790s: very large numbers taken onto whaling ships, kept for 9
-and also used to produce 10
-Hunted by 11
-on the islands
-Habitat destruction: for the establishment of agriculture and by various
-12
-not native to the islands, which also fed on baby tortoises and
-tortoises' 13
+• Originally from mainland South America
+• Numbers on Galápagos islands increased, due to lack of predators
+• 17th century: small numbers taken onto ships used by 8 __________
+• 1790s: very large numbers taken onto whaling ships, kept for 9 __________
+  and also used to produce 10 __________
+• Hunted by 11 __________ on the islands
+• Habitat destruction: for the establishment of agriculture and by various
+  12 __________ not native to the islands, which also fed on baby tortoises and
+  tortoises' 13 __________
 62
 
 ## Page 63
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2.
 The Intersection of Health Sciences and Geography
 A
-While many diseases that affect humans have been eradicated due to
-improvements in vaccinations and the availability
-y of healthcare, there are still areas
-around
-the
-world
-where
-certain
-health issues are more
-prevalent. In a world that is
-far more globalised
-than
-ever
-before,
-people
-come
-into
-contact
-with
-one another
-through
-travel
-and
-living
-closer
-and
-closer
-to
-each
-other.
-As
-a
-result, super-viruses
-and
-other
-infections
-resistant
-to
-antibiotics
-are
-becoming
-more
-and
-more common.
+While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent.
+In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other.
+As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common.
 B
-Geography can
-often
-play
-a very
-large role in
-the
-health
-concerns of certain
-populations. For instance, depending on where you live, you will not have the same
-health concerns as someone who lives in a different geographical region. Perhaps
-one of the most obvious examples of this idea is malaria-prone areas, which are
-usually tropical regions that foster a warm and damp environment in which the
-mosquitos that can give people this disease can grow. Malaria is much less of a
-problem in high-altitude deserts, for instance.
-In some countries, geographical factors influence the health and well-being of
-the population in very obvious ways. In many large cities, the wind is not strong
-enough to clear the air of the massive amounts of smog and pollution that cause
-asthma, lung problems, eyesight issues and more in the people who live there. Part
-of the problem is, of course, the massive number of cars being driven, in addition
-to factories that run on coal power. The rapid industrialisation of some countries in
-recent years has also led to the cutting down of forests to allow for the expansion of
-big cities, which makes it even harder to fight the pollution with the fresh air that is
-produced by plants.
+Geography can often play a very large role in the health concerns of certain populations.
+For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region.
+Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow.
+Malaria is much less of a problem in high-altitude deserts, for instance.
+C
+In some countries, geographical factors influence the health and well-being of the population in very obvious ways.
+In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there.
+Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power.
+The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants.
 D
-It is in situations
-like
-these that the field of health geography comes into its own. It
-is an increasingly
-important area of study in a world where
-diseases like polio are
-re-emerging, respiratory diseases continue to spread, and malaria-prone
-areas
-are still
-fighting
-to
-find
-I a better cure. Health geography is the combination
-of, on
-the one
-hand,
-knowledge regarding geography and methods used to analyse and
-interpret
-geographical
-I information, and on the other, the study of health, diseases
-and
-healthcare
-practices around the world. The aim of this hybrid science is to
-create
-solutions for common geography-based health problems. While people will
-always be prone to illness, the study of how geography affects our health could
-lead to
-the eradication
-of certain illnesses, and the prevention of others in the
-future. By understanding why and how we get sick, we can change the way we
-treat illness and
-disease specific to certain geographical locations.
-63
+It is in situations like these that the field of health geography comes into its own.
+It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure.
+Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world.
+The aim of this hybrid science is to create solutions for common geography-based health problems.
+While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future.
+By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations.
 
 ## Page 64
 
 Test 7
 E
-The geography of disease and ill health analyses the frequency with which certain
-diseases appear in different parts of the world, and overlays the data with the
-geography of the region, to see if there could be a correlation between the two.
-Health geographers also study factors that could make certain individuals or a
-population more likely to be taken ill with a specific health concern or
-disease, as
-compared with the population of another area. Health geographers
-in
-this
-s field
-are usually trained as healthcare workers, and have an
-understanding
-of basic
-epidemiology as it relates to the spread of diseases among
-the
-population.
+The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two.
+Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area.
+Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population.
 F
-Researchers study the interactions between humans
-and
-their
-environment
-that
-could lead to illness (such as asthma in places with
-high
-levels
-of
-pollution)
-and
-work to create a clear way of categorising illnesses, diseases
-and
-epidemics
-into
-local and
-global scales. Health geographers can map
-the
-spread
-of
-illnesses and
-attempt to
-identify the reasons behind an increase or
-decrease
-in
-illnesses, as
-they work to
-find a way to halt the further spread or re-emergence
-of diseases
-in
-vulnerable populations.
+Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales.
+Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations.
 G
-The second subcategory of health geography is the geography of healthcare
-provision. This group studies the availability (or lack thereof) of healthcare
-resources
-s to individuals and populations around the world. In both developed and
-developing
-nations
-there is often a very large discrepancy between the options
-available
-to
-people
-in
-different
-social classes, income brackets, and levels of
-education.
-Individuals
-working
-in
-the
-area of the geography of healthcare provision
-attempt
-to
-assess
-the
-levels
-of healthcare
-in
-the area (for instance, it may be very
-difficult
-for people
-to
-get
-medical
-attention
-because there is a mountain between
-their village and the nearest hospital).
-These researchers are on the frontline of
-making recommendations regarding policy to international organisations, local
-government bodies and others.
+The second subcategory of health geography is the geography of healthcare provision.
+This group studies the availability (or lack thereof) of healthcare resources to individuals and populations around the world.
+In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education.
+Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital).
+These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others.
 H
-The field of health geography is often overlooked, but it constitutes a huge area
-of need in the fields of geography and healthcare. If we can understand how
-geography affects our health no matter where in the world we are located, we can
-better treat disease, prevent illness, and keep people safe and well.
-64
+The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare.
+If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well.
 
 ## Page 65
 
 Reading
-Questions 14-19
-Reading Passage 2 has eight sections, A-H.
-Which paragraph contains the following information?
-Write the correct letter, A-H, in boxes 14-19 on your answer sheet.
-NB
-You may use any letter more than once.
+Questions 14–19
+Reading Passage 2 has eight sections, A–H. Which paragraph contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet. NB You may use any letter more than once.
 14
 an acceptance that not all diseases can be totally eliminated
 15
 examples of physical conditions caused by human behaviour
 16
-a reference to classifying diseases on the basis of how far they extend
-geographically
+a reference to classifying diseases on the basis of how far they extend geographically
 17
 reasons why the level of access to healthcare can vary within a country
 18
 a description of health geography as a mixture of different academic fields
 19
 a description of the type of area where a particular illness is rare
-Questions 20-26
-Complete the sentences below.
-Choose ONE woRD oNLY from the passage for each answer.
+Questions 20–26
+Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20–26 on your answer sheet.
 20
-Certain diseases have disappeared, thanks to better
-and
-…………………
-healthcare.
+Certain diseases have disappeared, thanks to better ______ and healthcare.
 21
-Because there is more contact between people,
-are losing their
-usefulness.
+Because there is more contact between people, ______ are losing their usefulness.
 22
-Disease-causing
-are most likely to be found in hot, damp regions.
+Disease-causing ______ are most likely to be found in hot, damp regions.
 23
-One cause of pollution is
-that burn a particular fuel.
+One cause of pollution is ______ that burn a particular fuel.
 24
-The growth of cities often has an impact on nearby
+The growth of cities often has an impact on nearby ______.
 25
-is one disease that is growing after having been eradicated.
+______ is one disease that is growing after having been eradicated.
 26
-A physical barrier such as a
-can prevent people from reaching
-a hospital.
-65
+A physical barrier such as a ______ can prevent people from reaching a hospital.
 
 ## Page 66
 
 Test 7
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3.
+
 Music and the emotions
-Neuroscientist Jonah Lehrer considers
-the
-emotional power of music
-Why does music make
-us
-feel?
-On
-the
-one
-hand,
-music
-is a purely abstract art form,
-devoid of language or explicit
-ideas.
-. And
-yet,
-even
-though music says little, it still
-manages to touch us
-deeply.
-When
-listening
-to
-our
-favourite songs, our body betrays all
-the symptoms of
-emotional
-arousal.
-The
-pupils
-in our eyes dilate, our pulse and blood
-pressure rise,
-the
-electrical
-conductance
-of our skin is lowered, and the cerebellum, a
-brain region
-associated
-with bodily movement, becomes strangely active. Blood is even
-re-directed to
-the muscles in our legs. In other words, sound stirs us at our biological
-roots.
-A recent paper in Nature Neuroscience by a research team in Montreal, Canada, marks
-an important step in revealing the precise underpinnings of 'the potent pleasurable
-stimulus' that is music. Although the study involves plenty of fancy technology, including
-functional magnetic resonance imaging (fMRl) and ligand-based positron emission
-tomography (PET) scanning, the experiment itself was rather straightforward. After
-screening
-217
-individuals who responded to advertisements requesting people
-who
-experience
-'chills'
-' to instrumental music, the scientists
-s narrowed
-down
-the
-subject pool
-to ten. They
-then
-n asked the subjects to bring in their playlist of favourite
-songs
-virtually
-every genre
-was represented, from techno to t
-tango -
-and
-played
-them
-the
-music while
-their brain
-n activity was monitored. Because the scientists
-were
-combining
-methodologies
-(PET
-and fMRI),
-they were able to obtain an impressively
-exact
-and
-detailed
-portrait of
-music in the brain. The first thing they discovered is
-that
-music
-triggers
-the
-production
-of dopamine - a chemical with a key role in setting people's
-moods
-1
-by
-the
-neurons
-(nerve cells) in both the dorsal and ventral regions of the
-brain.
-As
-these
-two
-regions
-have long been linked with the experience of pleasure, this
-finding
-isn't particularly
-surprising.
-What is rather more significant is the finding that the dopamine neurons in the
-caudate - a region of the brain involved in learning stimulus-response associations,
-and in anticipating food and other 'reward' stimuli - were at their most active around
-15 seconds before the participants' favourite moments in the music. The researchers
-call this the 'anticipatory phase' and argue that the purpose of this activity is to help
-us predict the arrival of our favourite part. The question, of course, is what all these
-dopamine neurons are up to. Why are they so active in the period preceding the
-acoustic climax? After all, we typically associate surges of dopamine with pleasure, with
-the processing of actual rewards. And yet, this cluster of cells is most active when the
-'chills' have yet to arrive, when the melodic pattern is still unresolved.
+Neuroscientist Jonah Lehrer considers the emotional power of music
+
+Why does music make us feel? On the one hand, music is a purely abstract art form, devoid of language or explicit ideas. And yet, even though music says little, it still manages to touch us deeply. When listening to our favourite songs, our body betrays all the symptoms of emotional arousal. The pupils in our eyes dilate, our pulse and blood pressure rise, the electrical conductance of our skin is lowered, and the cerebellum, a brain region associated with bodily movement, becomes strangely active. Blood is even re-directed to the muscles in our legs. In other words, sound stirs us at our biological roots.
+
+A recent paper in Nature Neuroscience by a research team in Montreal, Canada, marks an important step in revealing the precise underpinnings of ‘the potent pleasurable stimulus’ that is music. Although the study involves plenty of fancy technology, including functional magnetic resonance imaging (fMRI) and ligand-based positron emission tomography (PET) scanning, the experiment itself was rather straightforward. After screening 217 individuals who responded to advertisements requesting people who experience ‘chills’ to instrumental music, the scientists narrowed down the subject pool to ten. They then asked the subjects to bring in their playlist of favourite songs – virtually every genre was represented, from techno to tango – and played them the music while their brain activity was monitored. Because the scientists were combining methodologies (PET and fMRI), they were able to obtain an impressively exact and detailed portrait of music in the brain. The first thing they discovered is that music triggers the production of dopamine – a chemical with a key role in setting people’s moods – by the neurons (nerve cells) in both the dorsal and ventral regions of the brain. As these two regions have long been linked with the experience of pleasure, this finding isn’t particularly surprising.
+
+What is rather more significant is the finding that the dopamine neurons in the caudate – a region of the brain involved in learning stimulus-response associations, and in anticipating food and other ‘reward’ stimuli – were at their most active around 15 seconds before the participants’ favourite moments in the music. The researchers call this the ‘anticipatory phase’ and argue that the purpose of this activity is to help us predict the arrival of our favourite part. The question, of course, is what all these dopamine neurons are up to. Why are they so active in the period preceding the acoustic climax? After all, we typically associate surges of dopamine with pleasure, with the processing of actual rewards. And yet, this cluster of cells is most active when the ‘chills’ have yet to arrive, when the melodic pattern is still unresolved.
+
 66
 
 ## Page 67
 
 Reading
-One way to answer the question is to look at the music and not the neurons. While
-music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it
-turns out that the most important part of every song or symphony is when the patterns
-break down, when the sound becomes unpredictable. If the music is too obvious, it is
-annoyingly boring, like an alarm clock. Numerous studies, after all, have demonstrated
-that dopamine neurons quickly adapt to predictable rewards. If we know what's going
-to happen next, then we don't get excited. This is why composers often introduce a
-key note in the beginning of a song, spend most of the rest of the piece in the studious
-avoidance of the pattern, and then finally repeat it only at the end. The longer we are
-denied the pattern we expect, the greater the emotional release when the pattern
-returns, safe and sound.
-To
-demonstrate this psychological principle, the musicologist Leonard Meyer, in his
-classic book Emotion and Meaning in Music (1956), analysed the 5th movement of
-Beethoven's String Quartet in C-sharp minor, Op. 131. Meyer wanted to show how
-music is
-s defined by its flirtation with - but not submission to - our expectations of order.
-Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven
-begins with the clear statement of a rhythmic and harmonic pattern and then, in an
-ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is
-suggest variations of the pattern. He wants to preserve an element of uncertainty in his
-music, making our brains beg for the one chord he refuses to give
-us. Beethoven saves
-that chord for the end.
-According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled
-expectations, that is the source of the music's feeling. While earlier theories of music
-focused on the way a sound can refer to the real world of images and experiences - its
-'connotative' meaning - Meyer argued that the emotions we find in music come from the
-unfolding events of the music itself. This 'embodied meaning' arises from the patterns
-the symphony invokes and then ignores. It is this uncertainty that triggers the surge
-of dopamine in the caudate, as we struggle to figure out what will happen next. We
-can predict some of the notes, but we can't predict them all, and that is what keeps us
-listening, waiting expectantly for our reward, for the pattern to be completed.
+One way to answer the question is to look at the music and not the neurons. While music can often seem (at least to the outsider) like a labyrinth of intricate patterns, it turns out that the most important part of every song or symphony is when the patterns break down, when the sound becomes unpredictable. If the music is too obvious, it is annoyingly boring, like an alarm clock. Numerous studies, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards. If we know what’s going to happen next, then we don’t get excited. This is why composers often introduce a key note in the beginning of a song, spend most of the rest of the piece in the studious avoidance of the pattern, and then finally repeat it only at the end. The longer we are denied the pattern we expect, the greater the emotional release when the pattern returns, safe and sound.
+
+To demonstrate this psychological principle, the musicologist Leonard Meyer, in his classic book Emotion and Meaning in Music (1956), analysed the 5th movement of Beethoven’s String Quartet in C-sharp minor, Op. 131. Meyer wanted to show how music is defined by its flirtation with – but not submission to – our expectations of order. Meyer dissected 50 measures (bars) of the masterpiece, showing how Beethoven begins with the clear statement of a rhythmic and harmonic pattern and then, in an ingenious tonal dance, carefully holds off repeating it. What Beethoven does instead is suggest variations of the pattern. He wants to preserve an element of uncertainty in his music, making our brains beg for the one chord he refuses to give us. Beethoven saves that chord for the end.
+
+According to Meyer, it is the suspenseful tension of music, arising out of our unfulfilled expectations, that is the source of the music’s feeling. While earlier theories of music focused on the way a sound can refer to the real world of images and experiences – its ‘connotative’ meaning – Meyer argued that the emotions we find in music come from the unfolding events of the music itself. This ‘embodied meaning’ arises from the patterns the symphony invokes and then ignores. It is this uncertainty that triggers the surge of dopamine in the caudate, as we struggle to figure out what will happen next. We can predict some of the notes, but we can’t predict them all, and that is what keeps us listening, waiting expectantly for our reward, for the pattern to be completed.
+
 67
 
 ## Page 68
 
 Test 7
-Questions 27-31
+Questions 27–31
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 27-31 on your answer sheet.
+Write your answers in boxes 27–31 on your answer sheet.
+
 The Montreal Study
-Participants, who were recruited for the study through advertisements, had their brain
-activity monitored while listening to their favourite music. It was noted that the music
-stimulated the brain's neurons to release a substance called 27
-in two
-of the parts of the brain which are associated with feeling 28
-Researchers also observed that the neurons in the area of the brain called the
-29
-were particularly active just before the participants' favourite
-moments in the music - the period known as the 30
-.Activity in
-this part of the brain is associated with the expectation of 'reward' stimuli such as
-31
+Participants, who were recruited for the study through advertisements, had their brain activity monitored while listening to their favourite music. It was noted that the music stimulated the brain’s neurons to release a substance called 27 __________ in two of the parts of the brain which are associated with feeling 28 __________.
+
+Researchers also observed that the neurons in the area of the brain called the 29 __________ were particularly active just before the participants’ favourite moments in the music – the period known as the 30 __________. Activity in this part of the brain is associated with the expectation of ‘reward’ stimuli such as 31 __________.
+
 68
 
 ## Page 69
 
 Reading
-Questions 32-36
+Questions 32–36
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 32—36 on your answer sheet.
-32
-What point does the writer emphasise in the first paragraph?
-A
-how dramatically our reactions to music can vary
-B
-how intense our physical responses to music can be
-C
-how little we know about the way that music affects us
-D
-how much music can tell us about how our brains operate
-33
-What view of the Montreal study does the writer express in the second paragraph?
-A
-Its aims were innovative.
-B
-The approach was too simplistic.
-C
-It produced some remarkably precise data.
-D
-The technology used was unnecessarily complex.
-34
-What does the writer find interesting about the results of the Montreal study?
-A
-the timing of participants' neural responses to the music
-B
-the impact of the music on participants' emotional state
-C
-the section of participants' brains which was activated by the music
-D
-the type of music which had the strongest effect on participants' brains
-35
-Why does the writer refer to Meyer's work on music and emotion?
-A
-to propose an original theory about the subject
-B
-to offer support for the findings of the Montreal study
-C
-to recommend the need for further research into the subject
-D
-to present a view which opposes that of the Montreal researchers
-36
-According to Leonard Meyer, what causes the listener's emotional response to
-music?
-A
-the way that the music evokes poignant memories in the listener
-B
-the association of certain musical chords with certain feelings
-C
-the listener's sympathy with the composer's intentions
-D
-the internal structure of the musical composition
+Write the correct letter in boxes 32–36 on your answer sheet.
+
+32 What point does the writer emphasise in the first paragraph?
+A how dramatically our reactions to music can vary
+B how intense our physical responses to music can be
+C how little we know about the way that music affects us
+D how much music can tell us about how our brains operate
+
+33 What view of the Montreal study does the writer express in the second paragraph?
+A Its aims were innovative.
+B The approach was too simplistic.
+C It produced some remarkably precise data.
+D The technology used was unnecessarily complex.
+
+34 What does the writer find interesting about the results of the Montreal study?
+A the timing of participants’ neural responses to the music
+B the impact of the music on participants’ emotional state
+C the section of participants’ brains which was activated by the music
+D the type of music which had the strongest effect on participants’ brains
+
+35 Why does the writer refer to Meyer’s work on music and emotion?
+A to propose an original theory about the subject
+B to offer support for the findings of the Montreal study
+C to recommend the need for further research into the subject
+D to present a view which opposes that of the Montreal researchers
+
+36 According to Leonard Meyer, what causes the listener’s emotional response to music?
+A the way that the music evokes poignant memories in the listener
+B the association of certain musical chords with certain feelings
+C the listener’s sympathy with the composer’s intentions
+D the internal structure of the musical composition
+
 69
 
 ## Page 70
 
 Test 7
-Questions 37-40
-Complete each sentence with the correct ending, A-F, below.
-Write the correct letter. A-F, in boxes 37-40 on your answer sheet.
-37
-The Montreal researchers discovered that
-38
-Many studies have demonstrated that
-39
-Meyer's analysis of Beethoven's music shows that
-40
-Earlier theories of music suggested that
-A
-our response to music depends on our initial emotional state.
-B
-neuron activity decreases if outcomes become predictable.
-C
-emotive music can bring to mind actual pictures and events.
-D
-experiences in our past can influence our emotional reaction to music.
-E
-emotive music delays giving listeners what they expect to hear.
-F
-neuron activity increases prior to key points in a musical piece.
+Questions 37–40
+Complete each sentence with the correct ending, A–F, below.
+Write the correct letter, A–F, in boxes 37–40 on your answer sheet.
+
+37 The Montreal researchers discovered that
+38 Many studies have demonstrated that
+39 Meyer’s analysis of Beethoven’s music shows that
+40 Earlier theories of music suggested that
+
+A our response to music depends on our initial emotional state.
+B neuron activity decreases if outcomes become predictable.
+C emotive music can bring to mind actual pictures and events.
+D experiences in our past can influence our emotional reaction to music.
+E emotive music delays giving listeners what they expect to hear.
+F neuron activity increases prior to key points in a musical piece.
+
 70
 
 ## Page 71
@@ -3749,370 +2273,118 @@ current disadvantage: they are 40
 Test 8
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 The History of Glass
-From our earliest origins, man has been
-ability in the making of glass bottles, and
-making use of glass. Historians have
-many of the city's craftsmen left Italy to
-discovered that a type of natural glass
-set up glassworks throughout Europe.
-- obsidian - formed in places such as
-the mouth of a volcano as a result of
-A major milestone in the history of glass
-the intense heat of an eruption melting
-occurred with the invention of lead crystal
-sand  was first used as tips for spears.
-glass by the English glass manufacturer
-Archaeologists have even found evidence
-George Ravenscroft (16321683). He
-of man-made glass which dates back to
-attempted to counter the effect of
-4000 BC; this took the form of glazes used
-clouding that sometimes occurred in
-for coating stone beads. It was not until
-blown glass by introducing lead to the raw
-1500 BC, however, that the first hollow
-materials used in the process. The new
-glass container was made by covering a
-glass he created was softer and easier
-sand core with a layer of molten glass.
-to decorate, and had a higher refractive
-index, adding to its brilliance and beauty,
-Glass blowing became the most common
-and it proved invaluable to the optical
-way to make glass containers from the
-industry. It is thanks to Ravenscroft's
-first century BC. The glass made during
-invention that optical lenses, astronomical
-this time was highly coloured due to the
-telescopes, microscopes and the like
-impurities of the raw material. In the
-became possible.
-first century AD, methods of creating
-colourless glass were developed, which
-In Britain, the modern glass industry only
-was then tinted by the addition of
-really started to develop after the repeal
-colouring materials. The secret of glass
-of the Excise Act in 1845. Before that
-making was taken across Europe by the
-time, heavy taxes had been placed on the
-Romans during this century. However,
-amount of glass melted in a glasshouse,
-they guarded the skills and technology
-and were levied continuously from
-required to make glass very closely, and
-1745 to 1845. Joseph Paxton's Crystal
-it was not until their empire collapsed
-Palace at London's Great Exhibition of
-in 476 AD that glass-making knowledge
-1851 marked the beginning of glass as a
-became widespread throughout Europe
-material used in the building industry. This
-and the Middle East. From the 10th
-revolutionary new building encouraged
-century onwards, the Venetians gained a
-the use of glass in public, domestic
-reputation for technical skill and artistic
-and horticultural architecture. Glass
+
+From our earliest origins, man has been making use of glass. Historians have discovered that a type of natural glass – obsidian – formed in places such as the mouth of a volcano as a result of the intense heat of an eruption melting sand – was first used as tips for spears. Archaeologists have even found evidence of man-made glass which dates back to 4000 BC; this took the form of glazes used for coating stone beads. It was not until 1500 BC, however, that the first hollow glass container was made by covering a sand core with a layer of molten glass.
+
+Glass blowing became the most common way to make glass containers from the first century BC. The glass made during this time was highly coloured due to the impurities of the raw material. In the first century AD, methods of creating colourless glass were developed, which was then tinted by the addition of colouring materials. The secret of glass making was taken across Europe by the Romans during this century. However, they guarded the skills and technology required to make glass very closely, and it was not until their empire collapsed in 476 AD that glass-making knowledge became widespread throughout Europe and the Middle East. From the 10th century onwards, the Venetians gained a reputation for technical skill and artistic ability in the making of glass bottles, and many of the city's craftsmen left Italy to set up glassworks throughout Europe.
+
+A major milestone in the history of glass occurred with the invention of lead crystal glass by the English glass manufacturer George Ravenscroft (1632–1683). He attempted to counter the effect of clouding that sometimes occurred in blown glass by introducing lead to the raw materials used in the process. The new glass he created was softer and easier to decorate, and had a higher refractive index, adding to its brilliance and beauty, and it proved invaluable to the optical industry. It is thanks to Ravenscroft's invention that optical lenses, astronomical telescopes, microscopes and the like became possible.
+
+In Britain, the modern glass industry only really started to develop after the repeal of the Excise Act in 1845. Before that time, heavy taxes had been placed on the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845. Joseph Paxton's Crystal Palace at London's Great Exhibition of 1851 marked the beginning of glass as a material used in the building industry. This revolutionary new building encouraged the use of glass in public, domestic and horticultural architecture. Glass
 80
 
 ## Page 81
 
 Reading
-manufacturing techniques also improved
-operating in a fiercely competitive global
-with the advancement of science and the
-market where quality, design and service
-development of better technology.
-levels are critical to maintaining market
-share. Modern glass plants are capable
-From 1887 onwards, glass making
-of making millions of glass containers a
-developed from traditional mouth-blowing
-day in many different colours, with green,
-to a semi-automatic process, after factory-
-brown and clear remaining the most
-owner HM Ashley introduced a machine
-popular. Few of us can imagine modern
-capable of producing 200 bottles per hour
-life without glass. It features in almost
-in Castleford, Yorkshire, England - more
-every aspect of our lives - in our homes,
-than three times quicker than any previous
-our cars and whenever we sit down to eat
-production method. Then in 1907, the first
-or drink. Glass packaging is used for many
-fully automated machine was developed
-products, many beverages are sold in
-in the USA by Michael Owens - founder
-glass, as are numerous foodstuffs, as well
-of the Owens Bottle Machine Company
-as medicines and cosmetics.
-(later the major manufacturers Owens-
-Illinois)  and installed in its factory.
-Glass is an ideal material for recycling,
-Owens' invention could produce an
-and with growing consumer concern
-impressive 2,500 bottles per hour. Other
-for green issues, glass bottles and
-developments followed rapidly, but it
-jars are becoming ever more popular.
-was not until the First World War, when
-Glass recycling is good news for
-Britain became cut off from essential glass
-the environment. It saves used glass
-suppliers, that glass became part of the
-containers being sent to landfill. As less
-scientific sector.Previous to this, glass
-energy is needed to melt recycled glass
-had been seen as a craft rather than a
-than to melt down raw materials, this also
-precise science.
-saves fuel and production costs. Recycling
-also reduces the need for raw materials
-Today, glass making is big business. It
-to be quarried, thus saving precious
-has become a modern, hi-tech industry
-resources.
+manufacturing techniques also improved with the advancement of science and the development of better technology.
+
+From 1887 onwards, glass making developed from traditional mouth-blowing to a semi-automatic process, after factory-owner HM Ashley introduced a machine capable of producing 200 bottles per hour in Castleford, Yorkshire, England – more than three times quicker than any previous production method. Then in 1907, the first fully automated machine was developed in the USA by Michael Owens – founder of the Owens Bottle Machine Company (later the major manufacturers Owens-Illinois) – and installed in its factory. Owens' invention could produce an impressive 2,500 bottles per hour. Other developments followed rapidly, but it was not until the First World War, when Britain became cut off from essential glass suppliers, that glass became part of the scientific sector. Previous to this, glass had been seen as a craft rather than a precise science.
+
+Today, glass making is big business. It has become a modern, hi-tech industry operating in a fiercely competitive global market where quality, design and service levels are critical to maintaining market share. Modern glass plants are capable of making millions of glass containers a day in many different colours, with green, brown and clear remaining the most popular. Few of us can imagine modern life without glass. It features in almost every aspect of our lives – in our homes, our cars and whenever we sit down to eat or drink. Glass packaging is used for many products, many beverages are sold in glass, as are numerous foodstuffs, as well as medicines and cosmetics.
+
+Glass is an ideal material for recycling, and with growing consumer concern for green issues, glass bottles and jars are becoming ever more popular. Glass recycling is good news for the environment. It saves used glass containers being sent to landfill. As less energy is needed to melt recycled glass than to melt down raw materials, this also saves fuel and production costs. Recycling also reduces the need for raw materials to be quarried, thus saving precious resources.
 81
 
 ## Page 82
 
 Test 8
-Questions 1-8
+Questions 1–8
 Complete the notes below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 1-8 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 1–8 on your answer sheet.
 The History of Glass
-Earl humans used a maerial caled .
-to make the sharp points
-of their 2
-4000 BC: 3
-made of stone were covered in a coating of
-man-made glass.
-First century  BC: glass was coloured beca.use of  the 4 .
-material.
-Until 476 AD: Only the 5
-knew how to make glass.
-From 10th century: Venetians became famous for making bottles out of glass.
-17th century: George Ravenscroft developed a process using 6
-to avoid the occurrence of 7
-in blown glass.
-Mid-19th century: British glass production developed after changes to laws
-concerning
-8
-.……...…….…………….……..….
-Questions 9-13
-In boxes 9—13 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVENif there is no information on this
-9
-In 1887, HM Ashley had the fastest bottle-producing machine that existed at the
-time.
-10
-Michael Owens was hired by a large US company to design a fully-automated
-bottle manufacturing machine for them.
-11
-Nowadays, most glass is produced by large international manufacturers.
-12
-Concern for the environment is leading to an increased demand for glass
-containers.
-13
-It is more expensive to produce recycled glass than to manufacture new glass.
+• Early humans used a material called 1 __________ to make the sharp points of their 2 __________.
+• 4000 BC: 3 __________ made of stone were covered in a coating of man-made glass.
+• First century BC: glass was coloured because of the 4 __________ in the material.
+• Until 476 AD: Only the 5 __________ knew how to make glass.
+• From 10th century: Venetians became famous for making bottles out of glass.
+• 17th century: George Ravenscroft developed a process using 6 __________ to avoid the occurrence of 7 __________ in blown glass.
+• Mid-19th century: British glass production developed after changes to laws concerning 8 __________.
+Questions 9–13
+In boxes 9–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+9 In 1887, HM Ashley had the fastest bottle-producing machine that existed at the time.
+10 Michael Owens was hired by a large US company to design a fully-automated bottle manufacturing machine for them.
+11 Nowadays, most glass is produced by large international manufacturers.
+12 Concern for the environment is leading to an increased demand for glass containers.
+13 It is more expensive to produce recycled glass than to manufacture new glass.
 82
 
 ## Page 83
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 Bring back the big cats
 It's time to start returning vanished native animals to Britain, says John Vesty
-There is a poem, written around 598 AD,
-trees return to places that have been
-which describes hunting a mystery animal
-denuded, allowing parts of the seabed
-called a llewyn. But what was it? Nothing
-to recover from trawling and dredging,
-seemed to fit, until 2oo6, when an animal
-permitting rivers to flow freely
-again.
-bone, dating from around the same
-Above all, it means bringing
-back
-missing
-period, was found in the Kinsey Cave in
-species. One of the
-most
-striking
-findings
-northern England. Until this discovery, the
-of modern ecology
-is
-that
-ecosystems
-lynx - a large spotted cat with tasselled
-without large predators
-behave
-in
-ears - was presumed to have died out in
-completely
-different ways
-from
-those
-that
-Britain at least 6,000 years ago, before
-retain them. Some of them
-drive dynamic
-the inhabitants of these islands took up
-processes that resonate through the whole
-farming. But the 2006 find, together with
-food chain, creating niches for hundreds
-three others in Yorkshire and Scotland, is
-of species that might otherwise struggle to
-compelling evidence that the lynx and the
-survive. The killers turn out to be bringers
-mysterious llewyn were in fact one and the
-of life.
-same animal. If this is so, it would bring
-Such findings present a big challenge
-forward the tassel-eared cat's estimated
-to British conservation, which has often
-extinction date by roughly 5,000 years.
-selected arbitrary assemblages of plants
-However, this is not quite the last glimpse
-and animals and sought, at great effort and
-of the animal in British culture. A 9th-
-expense, to prevent them from changing.
-century stone cross from the Isle of Eigg
-It has tried to preserve the living world as
-shows, alongside the deer, boar and
-if it were a jar of pickles, letting nothing
-aurochs pursued by a mounted hunter, a
-in and nothing out, keeping nature in
-speckled cat with
-n tasselled ears. Were it not
-a state of arrested development. But
-for the animal's backside having worn away
-ecosystems are not merely collections of
-with time, we could
-have been certain, as
-species; they are also the dynamic and
-the lynx's stubby
-tail is
-s unmistakable. But
-ever-shifting relationships between them.
-even without
-this key
-feature,
-it's hard t
-to
-And this dynamism often depends on large
-see what else
-the creature
-could have been.
-predators.
-The lynx is now becoming
-the totemic
-animal of a movement that is transforming
-At sea the potential is even greater: by
-British environmentalism: rewilding.
-protecting large areas from commercial
-fishing, we could once more see what
-Rewilding means the mass restoration of
-18th-century literature describes: vast
-damaged ecosystems. It involves letting
-shoals of fish being chased by fin and
-83
+There is a poem, written around 598 AD, which describes hunting a mystery animal called a llewyn.
+But what was it?
+Nothing seemed to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England.
+Until this discovery, the lynx - a large spotted cat with tasselled ears - was presumed to have died out in Britain at least 6,000 years ago, before the inhabitants of these islands took up farming.
+But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious llewyn were in fact one and the same animal.
+If this is so, it would bring forward the tassel-eared cat's estimated extinction date by roughly 5,000 years.
+However, this is not quite the last glimpse of the animal in British culture.
+A 9th-century stone cross from the Isle of Eigg shows, alongside the deer, boar and aurochs pursued by a mounted hunter, a speckled cat with tasselled ears.
+Were it not for the animal's backside having worn away with time, we could have been certain, as the lynx's stubby tail is unmistakable.
+But even without this key feature, it's hard to see what else the creature could have been.
+The lynx is now becoming the totemic animal of a movement that is transforming British environmentalism: rewilding.
+Rewilding means the mass restoration of damaged ecosystems.
+It involves letting trees return to places that have been denuded, allowing parts of the seabed to recover from trawling and dredging, permitting rivers to flow freely again.
+Above all, it means bringing back missing species.
+One of the most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them.
+Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive.
+The killers turn out to be bringers of life.
+Such findings present a big challenge to British conservation, which has often selected arbitrary assemblages of plants and animals and sought, at great effort and expense, to prevent them from changing.
+It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development.
+But ecosystems are not merely collections of species; they are also the dynamic and ever-shifting relationships between them.
+And this dynamism often depends on large predators.
+At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and
 
 ## Page 84
 
 Test 8
-sperm whales, within sight of the English
-On a recent trip to the Cairngorm
-shore. This policy would also greatly boost
-Mountains, I heard several conservationists
-catches in the surrounding seas; the fishing
-suggest that the lynx could be reintroduced
-industry's insistence on scouring every inch
-there within 20 years. If trees return to
-of seabed, leaving no breeding reserves,
-the bare hills elsewhere in Britain, the big
-could not be more damaging to its own
-cats could soon follow. There is nothing
-interests.
-extraordinary about these proposals,
-seen from the perspective of anywhere
-Rewilding is a rare example of an
-else in Europe. The lynx has now been
-environmental movement in which
-reintroduced to the Jura Mountains, the
-campaigners articulate what they are for
-Alps, the Vosges in eastern France and
-rather than only what they are against.
-the Harz mountains in Germany, and has
-One of the reasons why the enthusiasm for
-re-established itself in many more places.
-rewilding is spreading so quickly in Britain
-The European population has tripled since
-is that it helps to create a more inspiring
-1970 to roughly 10,000. As with wolves,
-vision than the green movement's usual
-bears, beavers, boar, bison, moose and
-promise of 'Follow us and the world will be
-many other species, the lynx has been able
-slightly less awful than it would otherwise
-to spread as farming has left the hills and
-have been.'
-people discover that it is more lucrative to
-The lynx presents no threat to human
-protect charismatic wildlife than to hunt it,
-beings: there is no known instance of one
-as tourists will pay for the chance to see it.
-preying on people. It is a specialist predator
-Large-scale rewilding is happening almost
-of roe deer, a species that has exploded in
-everywhere - except Britain.
-Britain in recent decades, holding back, by
-Here, attitudes are just beginning to
-intensive browsing, attempts to re-establish
-change. Conservationists are starting to
-forests. It will also winkle out sika deer:
-accept that the old preservation-jar model
-an exotic species that is almost impossible
-is failing, even on its own terms. Already,
-for human beings to control, as it hides in
-projects such as Trees for Life in the
-impenetrable plantations of young trees.
-Highlands provide a hint of what might be
-The attempt to reintroduce this predator
-coming. An organisation is being set up
-marries well with the aim of bringing
-that will seek to catalyse the rewilding of
-forests back to parts of our bare and barren
-land and sea across Britain, its aim being to
-uplands. The lynx requires deep cover, and
-reintroduce that rarest of species to British
-as such presents little risk to sheep and
-ecosystems: hope.
-other livestock, which are supposed, as a
-condition of farm subsidies, to be kept out
-of the woods.
-84
+sperm whales, within sight of the English shore.
+This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests.
+Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against.
+One of the reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement's usual promise of 'Follow us and the world will be slightly less awful than it would otherwise have been.'
+The lynx presents no threat to human beings: there is no known instance of one preying on people.
+It is a specialist predator of roe deer, a species that has exploded in Britain in recent decades, holding back, by intensive browsing, attempts to re-establish forests.
+It will also winkle out sika deer: an exotic species that is almost impossible for human beings to control, as it hides in impenetrable plantations of young trees.
+The attempt to reintroduce this predator marries well with the aim of bringing forests back to parts of our bare and barren uplands.
+The lynx requires deep cover, and as such presents little risk to sheep and other livestock, which are supposed, as a condition of farm subsidies, to be kept out of the woods.
+On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there within 20 years.
+If trees return to the bare hills elsewhere in Britain, the big cats could soon follow.
+There is nothing extraordinary about these proposals, seen from the perspective of anywhere else in Europe.
+The lynx has now been reintroduced to the Jura Mountains, the Alps, the Vosges in eastern France and the Harz mountains in Germany, and has re-established itself in many more places.
+The European population has tripled since 1970 to roughly 10,000.
+As with wolves, bears, beavers, boar, bison, moose and many other species, the lynx has been able to spread as farming has left the hills and people discover that it is more lucrative to protect charismatic wildlife than to hunt it, as tourists will pay for the chance to see it.
+Large-scale rewilding is happening almost everywhere - except Britain.
+Here, attitudes are just beginning to change.
+Conservationists are starting to accept that the old preservation-jar model is failing, even on its own terms.
+Already, projects such as Trees for Life in the Highlands provide a hint of what might be coming.
+An organisation is being set up that will seek to catalyse the rewilding of land and sea across Britain, its aim being to reintroduce that rarest of species to British ecosystems: hope.
 
 ## Page 85
 
 Reading
-Questions 14-18
-Write the correct letter, A, B, C or D, in boxes 14-18 on your answer sheet.
-14 What did the 2006 discovery of the animal bone reveal about the lynx?
+Questions 14–18
+Write the correct letter, A, B, C or D, in boxes 14–18 on your answer sheet.
+14
+What did the 2006 discovery of the animal bone reveal about the lynx?
 A
 Its physical appearance was very distinctive.
 B
@@ -4152,8 +2424,7 @@ widespread opposition from the fishing industry.
 D
 certain changes to techniques within the fishing industry.
 18
-According to the author, what distinguishes rewilding from other environmental
-campaigns?
+According to the author, what distinguishes rewilding from other environmental campaigns?
 A
 Its objective is more achievable.
 B
@@ -4162,26 +2433,14 @@ C
 Its positive message is more appealing.
 D
 It is based on sounder scientific principles.
-85
 
 ## Page 86
 
 Test 8
-Questions 19-22
-Complete the summary using the list of words and phrases A-F below.
-Write the correct letter, A-F, in boxes 19-22 on your answer sheet.
+Questions 19–22
+Complete the summary using the list of words and phrases A–F below. Write the correct letter, A–F, in boxes 19–22 on your answer sheet.
 Reintroducing the lynx to Britain
-There would be many advantages to reintroducing the lynx to Britain. While there is no
-evidence that the lynx has ever put 19
-in danger, it would reduce the
-numbers of certain 20
-whose populations have increased enormously in
-recent decades. It would present only a minimal threat to 21
-, provided
-these were kept away from lynx habitats. Furthermore, the reintroduction programme
-would also link efficiently with initiatives to return native 22
-to certain
-areas of the country.
+There would be many advantages to reintroducing the lynx to Britain. While there is no evidence that the lynx has ever put 19 ______ in danger, it would reduce the numbers of certain 20 ______ whose populations have increased enormously in recent decades. It would present only a minimal threat to 21 ______, provided these were kept away from lynx habitats. Furthermore, the reintroduction programme would also link efficiently with initiatives to return native 22 ______ to certain areas of the country.
 A
 trees
 B
@@ -4194,478 +2453,109 @@ E
 humans
 F
 farm animals
-86
 
 ## Page 87
 
 Reading
-Questions 23-26
-Do the following statements agree with the claims of the writer in Reading Passage 2?
-In boxes 23-26 on your answer sheet, write
-YES
-if the statement agrees with the claims of the writer
-NO
-if the statement contradicts the claims of the writer
-NoT GIvEN if it is impossible to say what the writer thinks about this
+Questions 23–26
+Do the following statements agree with the claims of the writer in Reading Passage 2? In boxes 23–26 on your answer sheet, write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.
 23
 Britain could become the first European country to reintroduce the lynx.
 24
-The large growth in the European lynx population since 1970 has exceeded
-conservationists' expectations.
+The large growth in the European lynx population since 1970 has exceeded conservationists' expectations.
 25
 Changes in agricultural practices have extended the habitat of the lynx in Europe.
 26
 It has become apparent that species reintroduction has commercial advantages.
-87
 
 ## Page 88
 
 Test 8
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on pages 89 and 90.
-Questions 27-33
-Reading Passage 3 has seven paragraphs, A-G.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on pages 89 and 90.
+
+Questions 27–33
+Reading Passage 3 has seven paragraphs, A–G.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, iviii, in boxes 27-33 on your answer sheet.
+Write the correct number, i–viii, in boxes 27–33 on your answer sheet.
+
 List of Headings
-Disputes over financial arrangements regarding senior managers
-ii
-The impact on companies of being subjected to close examination
-iii
-The possible need for fundamental change in every area of business
-iv
-Many external bodies being held responsible for problems
-v
-The falling number of board members with broad enough experience
-vi
-A risk that not all directors take part in solving major problems
-vii
-Boards not looking far enough ahead
-viii
-A proposal to change the way the board operates
-27
-Paragraph A
-28
-Paragraph B
-29
-Paragraph C
-30
-Paragraph D
-31
-Paragraph E
-32
-Paragraph F
-33
-Paragraph G
+i Disputes over financial arrangements regarding senior managers
+ii The impact on companies of being subjected to close examination
+iii The possible need for fundamental change in every area of business
+iv Many external bodies being held responsible for problems
+v The falling number of board members with broad enough experience
+vi A risk that not all directors take part in solving major problems
+vii Boards not looking far enough ahead
+viii A proposal to change the way the board operates
+
+27 Paragraph A
+28 Paragraph B
+29 Paragraph C
+30 Paragraph D
+31 Paragraph E
+32 Paragraph F
+33 Paragraph G
+
 88
 
 ## Page 89
 
 Reading
-UK companies need more effective boards
-of
-directors
+UK companies need more effective boards of directors
+
 A
-After
-a
-number
-of
-serious
-failures of governance
-(that
-is,
-, how
-they
-are
-managed
-at the
-highest
-level),
-companies in
-Britain, as
-well
-as
-elsewhere,
-should
-consider
-radical
-changes
-to
-their
-directors'
-roles.
-It is
-clear
-that
-the
-role
-of
-a
-board
-director
-today
-is
-not
-an
-easy
-one.
-Following
-the
-2008
-financial
-meltdown,
-which
-resulted
-in
-a deeper
-r and
-more
-prolonged
-period
-of
-economic
-downturn
-than
-anyone
-expected,
-the search
-for
-explanations
-in
-the
-many
-post-mortems
-of the
-crisis
-has meant
-blame
-has
-been
-spread
-far
-and
-wide.
-Governments, regulators, central banks and
-auditors have
-all
-been
-in
-the
-frame.
-The
-role
-of
-bank
-directors and management
-and their widely
-publicised
-failures
-have
-been
-extensively picked over and
-examined
-d in reports,
-inquiries
-and
-commentaries.
+After a number of serious failures of governance (that is, how they are managed at the highest level), companies in Britain, as well as elsewhere, should consider radical changes to their directors’ roles. It is clear that the role of a board director today is not an easy one. Following the 2008 financial meltdown, which resulted in a deeper and more prolonged period of economic downturn than anyone expected, the search for explanations in the many post-mortems of the crisis has meant blame has been spread far and wide. Governments, regulators, central banks and auditors have all been in the frame. The role of bank directors and management and their widely publicised failures have been extensively picked over and examined in reports, inquiries and commentaries.
+
 B
-The knock-on
-n effect of this scrutiny has been to make the governance of
-companies in general an issue of intense public debate and has significantly
-increased the pressures
-son, and the responsibilities of, directors. At the simplest
-and most
-practical level,
-the
-time involved in fulfilling the demands of a board
-directorship
-has
-increased
-significantly, calling into question the effectiveness of
-the
-classic
-model
-of
-corporate
-governance by part-time, independent non-executive
-directors
-Where
-once
-a
-board
-schedule may have consisted of between eight and
-ten meetings
-a year,
-in
-many companies the number of events requiring board
-input
-and
-decisions
-has
-dramatically risen. Furthermore, the amount of reading
-and
-d preparation
-required
-for
-each meeting is increasing. Agendas can become
-overloaded
-and
-this
-can mean
-the
-time for constructive debate must necessarily be
-restricted
-in
-favour
-of
-getting through the business.
+The knock-on effect of this scrutiny has been to make the governance of companies in general an issue of intense public debate and has significantly increased the pressures on, and the responsibilities of, directors. At the simplest and most practical level, the time involved in fulfilling the demands of a board directorship has increased significantly, calling into question the effectiveness of the classic model of corporate governance by part-time, independent non-executive directors. Where once a board schedule may have consisted of between eight and ten meetings a year, in many companies the number of events requiring board input and decisions has dramatically risen. Furthermore, the amount of reading and preparation required for each meeting is increasing. Agendas can become overloaded and this can mean the time for constructive debate must necessarily be restricted in favour of getting through the business.
+
 C
-Often, board business is
-devolved to committees in order to cope with the
-workload, which may be more efficient but can mean that the board as a whole
-is less involved in fully addressing some of the most important issues. It is not
-uncommon for the audit committee meeting to last longer than the main board
-meeting itself. Process may take the place of discussion and be at the expense of
-real collaboration, so that boxes are ticked rather than issues tackled.
+Often, board business is devolved to committees in order to cope with the workload, which may be more efficient but can mean that the board as a whole is less involved in fully addressing some of the most important issues. It is not uncommon for the audit committee meeting to last longer than the main board meeting itself. Process may take the place of discussion and be at the expense of real collaboration, so that boxes are ticked rather than issues tackled.
+
 D
-A radical solution, which may work for some very large companies whose
-businesses are extensive and complex, is the professional board, whose members
-would work up to three or four days a week, supported by their own dedicated staff
-and advisers. There are
-obvious risks to this and it would be important to establish
-clear guidelines for such a board to ensure that it did not step on the toes of
-management by becoming
-too engaged in the day-to-day running of the company.
-Problems of recruitment,
-remuneration and independence could also arise and this
-structure would
-not be
-appropriate
-for all companies. However, more professional
-and better-informed boards
-would
-have
-been particularly appropriate for banks
-where the executives had
-access
-to
-information that part-time non-executive
-directors lacked, leaving
-the latter unable to comprehend or anticipate
-the 2008
-crash.
+A radical solution, which may work for some very large companies whose businesses are extensive and complex, is the professional board, whose members would work up to three or four days a week, supported by their own dedicated staff and advisers. There are obvious risks to this and it would be important to establish clear guidelines for such a board to ensure that it did not step on the toes of management by becoming too engaged in the day-to-day running of the company. Problems of recruitment, remuneration and independence could also arise and this structure would not be appropriate for all companies. However, more professional and better-informed boards would have been particularly appropriate for banks where the executives had access to information that part-time non-executive directors lacked, leaving the latter unable to comprehend or anticipate the 2008 crash.
+
 89
 
 ## Page 90
 
 Test 8
 E
-One of the main criticisms of boards and their directors is that they do not focus
-sufficiently on longer-term matters of strategy, sustainability
-and
-governance,
-but instead concentrate too much on short-term financial metrics. Regulatory
-requirements and
-the structure
-of the market
-t encourage this behaviour.
-The
-tyranny
-of
-quarterly reporting
-can
-distort
-board
-decision-making, as
-directors
-have
-to
-'make
-the
-numbers
-every
-four months
-s to meet the
-insatiable appetite of the market for
-more
-data.
-This
-serves
-to
-encourage
-the
-trading methodology of a
-certain
-kind of
-investor
-who
-moves
-in
-and
-out
-of a
-stock
-without engaging in constructive dialogue
-with the
-company
-about strategy or performance, and is simply seeking a short-
-term financial
-gain. This effect has been made worse by the changing profile of
-investors
-due
-to the globalisation of capital and the increasing use of automated
-trading systems. Corporate culture adapts and management teams are largely
-incentivised to meet financial goals.
+One of the main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead concentrate too much on short-term financial metrics. Regulatory requirements and the structure of the market encourage this behaviour. The tyranny of quarterly reporting can distort board decision-making, as directors have to ‘make the numbers’ every four months to meet the insatiable appetite of the market for more data. This serves to encourage the trading methodology of a certain kind of investor who moves in and out of a stock without engaging in constructive dialogue with the company about strategy or performance, and is simply seeking a short-term financial gain. This effect has been made worse by the changing profile of investors due to the globalisation of capital and the increasing use of automated trading systems. Corporate culture adapts and management teams are largely incentivised to meet financial goals.
+
 F
-Compensation for chief executives has become a combat zone where pitched
-battles between investors, management and board members are fought, often
-behind closed doors but increasingly frequently in the full glare of press attention.
-Many would argue that this is in the interest of transparency and good governance
-as shareholders use their
-muscle in the area of pay to pressure boards to
-remove underperforming
-chief
-f executives. Their powers to vote down executive
-remuneration
-policies
-increased when
-binding votes came into force. The chair
-of the remuneration
-committee
-can
-be
-an exposed and lonely role, as Alison
-Carnwath,
-chair
-of
-Barclays
-Bank's
-remuneration committee, found when she had
-to resign,
-having
-been
-roundly
-criticised
-for
-trying
-to
-defend
-the
-enormous bonus
-to be paid
-the
-chief
-executive;
-the
-irony
-being
-that
-she
-was widely
-understood to
-have spoken
-out
-against
-it in
-the
-privacy
-of
-the
-committee.
+Compensation for chief executives has become a combat zone where pitched battles between investors, management and board members are fought, often behind closed doors but increasingly frequently in the full glare of press attention. Many would argue that this is in the interest of transparency and good governance as shareholders use their muscle in the area of pay to pressure boards to remove underperforming chief executives. Their powers to vote down executive remuneration policies increased when binding votes came into force. The chair of the remuneration committee can be an exposed and lonely role, as Alison Carnwath, chair of Barclays Bank’s remuneration committee, found when she had to resign, having been roundly criticised for trying to defend the enormous bonus to be paid to the chief executive; the irony being that she was widely understood to have spoken out against it in the privacy of the committee.
+
 G
-The
-financial
-crisis
-stimulated
-a
-debate
-about
-the
-role
-and purpose of the company
-heightened
-awareness
-of
-corporate
-ethics.
-Trust in the corporation has been
-and
-a
-eroded
-and
-academics
-such
-as
-Michael
-Sandel, in his thoughtful and bestselling
-book
-What
-Money
-Can't
-Buy,
-are
-questioning the morality of capitalism and the
-market
-economy
-Boards
-of
-companies
-in
-all
-Isectors will need to widen their
-perspective
-to
-encompass
-these
-issues
-and
-I this may involve a realignment of
-corporate
-goals.
-We
-live
-in
-challenging
-times.
+The financial crisis stimulated a debate about the role and purpose of the company and a heightened awareness of corporate ethics. Trust in the corporation has been eroded and academics such as Michael Sandel, in his thoughtful and bestselling book What Money Can’t Buy, are questioning the morality of capitalism and the market economy. Boards of companies in all sectors will need to widen their perspective to encompass these issues and this may involve a realignment of corporate goals. We live in challenging times.
+
 90
 
 ## Page 91
 
 Reading
-Questions 34-37
+Questions 34–37
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 34-37 on your answer sheet, write
-YES
-if the statement agrees with the claims of the writer
-NO
-if the statement contradicts the claims of the writer
-NoT GIVEN if it is impossible to say what the writer thinks about this
-34
-Close scrutiny of the behaviour of boards has increased since the economic
-downturn.
-35
-Banks have been mismanaged to a greater extent than other businesses.
-36
-Board meetings normally continue for as long as necessary to debate matters
-in full.
-37
-Using a committee structure would ensure that board members are fully informed
-about significant issues.
-Questions 38-40
+In boxes 34–37 on your answer sheet, write
+YES if the statement agrees with the claims of the writer
+NO if the statement contradicts the claims of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+
+34 Close scrutiny of the behaviour of boards has increased since the economic downturn.
+35 Banks have been mismanaged to a greater extent than other businesses.
+36 Board meetings normally continue for as long as necessary to debate matters in full.
+37 Using a committee structure would ensure that board members are fully informed about significant issues.
+
+Questions 38–40
 Complete the sentences below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 38-40 on your answer sheet.
-38
-Before 2o08, non-executive directors were at a disadvantage because of their lack
-of
-39
-Boards tend to place too much emphasis on .....
-considerations that
-are only of short-term relevance.
-40
-On certain matters, such as pay, the board may have to accept the views
-of
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 38–40 on your answer sheet.
+
+38 Before 2008, non-executive directors were at a disadvantage because of their lack of __________.
+39 Boards tend to place too much emphasis on __________ considerations that are only of short-term relevance.
+40 On certain matters, such as pay, the board may have to accept the views of __________.
+
 91
 
 ## Page 92
@@ -6314,114 +4204,67 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 READING
+
 Reading Passage 1,
 Questions 1-13
-20
-educational
-21
-Trainspotting
-1
-NOT GIVEN
-22
-NOT GIVEN
-2
-FALSE
-23
-FALSE
-3
-FALSE
-24
-NOT GIVEN
-4
-TRUE
-25
-TRUE
-5
-TRUE
-26
-TRUE
-6
-taste
-7
-cheaper
-Reading Passage 3,
-8
-convenient
-9
-Questions 27-40
-image
-10
-sustainable
-27
-vi
-11
-recycled
-28
-viii
-12
-biodiversity
-29
-ii
-13
-desertification
-30
-iv
-31
-iii
+1 NOT GIVEN
+2 FALSE
+3 FALSE
+4 TRUE
+5 TRUE
+6 taste
+7 cheaper
+8 convenient
+9 image
+10 sustainable
+11 recycled
+12 biodiversity
+13 desertification
+
 Reading Passage 2,
-32
-vii
 Questions 14-26
-33
-fire science
-34
-investigators
-14
-antiques
-35
-evidence
-15
-triumph
-36
-prosecution
-16
-information
-37
-NOTGIVEN
-17
-contact/meetings
-38
-YES
-18
-hunt/desire
-39
-NO
-19
-aimless/empty
-40
-NO
+14 antiques
+15 triumph
+16 information
+17 contact/meetings
+18 hunt/desire
+19 aimless/empty
+20 educational
+21 Trainspotting
+22 NOT GIVEN
+23 FALSE
+24 NOT GIVEN
+25 TRUE
+26 TRUE
+
+Reading Passage 3,
+Questions 27-40
+27 vi
+28 viii
+29 ii
+30 iv
+31 iii
+32 vii
+33 fire science
+34 investigators
+35 evidence
+36 prosecution
+37 NOT GIVEN
+38 YES
+39 NO
+40 NO
+
 If you score ...
+
 0-15
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+
 16-25
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+
 26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
+
 117
 
 ## Page 118
@@ -6527,107 +4370,67 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 READING
+
 Reading Passage 1,
 Questions 1-13
-NMO0ON∞O
-<B
-20
-iii
-21
-TRUE
-H
-22
-FALSE
-D
-23
-FALSE
-B
-24
-NOT GIVEN
-C
-25
-rubber
-G
-26
-farmer
-B
-A
-Reading Passage 3,
-10&11
-IN EITHER ORDER
-Questions 27-40
-D
-E
-27
-eye movements
-12&13 IN EITHER ORDER
-28
-language co-activation
-C
-29
-Stroop Task
-D
-30
-conflict management
-31
-cognitive control
+1 A
+2 B
+3 H
+4 D
+5 B
+6 C
+7 G
+8 B
+9 A
+10 D
+11 E
+12 C
+13 D
+
 Reading Passage 2,
-32
-YES
-33
 Questions 14-26
-NOT GIVEN
-34
-NO
-14
-iv
-35
-NO
-15
-vi
-36
-NOT GIVEN
-16
-viii
-37
-D
-17
-V
-38
-G
-18
-i
-39
-B
-19
-vii
-40
-C
+14 iv
+15 vi
+16 viii
+17 v
+18 i
+19 vii
+20 iii
+21 TRUE
+22 FALSE
+23 FALSE
+24 NOT GIVEN
+25 rubber
+26 farmer
+
+Reading Passage 3,
+Questions 27-40
+27 eye movements
+28 language co-activation
+29 Stroop Task
+30 conflict management
+31 cognitive control
+32 YES
+33 NOT GIVEN
+34 NO
+35 NO
+36 NOT GIVEN
+37 D
+38 G
+39 B
+40 C
+
 If you score ...
+
 0-15
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+
 16-25
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+
 26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we
-recommend that you spend
-that you think about having
-remember that different
-a lot
-t of time i
-improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
+
 119
 
 ## Page 120
@@ -6733,111 +4536,67 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 READING
+
 Reading Passage 1,
-20
 Questions 1-13
-vaccinations
-21
-antibiotics
-1
-V
-22
-mosquito(e)s
-2
-iii
-23
-factories
-3
-viii
-24
-forests
-45
-i
-25
-Polio
-iv
-26
-mountain
-o
-vi
-ii
-Reading Passage 3,
-8
-pirates
-Questions 27-40
-9
-food
-10
-oil
-27
-dopamine
-11
-settlers
-28
-pleasure
-12
-species
-29
-caudate
-13
-eggs
-30
-anticipatory phase
-31
-food
+1 v
+2 iii
+3 viii
+4 i
+5 iv
+6 vi
+7 ii
+8 pirates
+9 food
+10 oil
+11 settlers
+12 species
+13 eggs
+
 Reading Passage 2,
-32
-B
-33
 Questions 14-26
-C
-34
-A
-14
-D
-35
-B
-15
-C
-36
-D
-16
-F
-37
-F
-17
-G
-38
-B
-18
-B
-39
-E
-19
-40
-C
+14 D
+15 C
+16 F
+17 G
+18 D
+19 B
+20 vaccinations
+21 antibiotics
+22 mosquito(e)s
+23 factories
+24 forests
+25 Polio
+26 mountain
+
+Reading Passage 3,
+Questions 27-40
+27 dopamine
+28 pleasure
+29 caudate
+30 anticipatory phase
+31 food
+32 B
+33 C
+34 A
+35 B
+36 D
+37 F
+38 B
+39 E
+40 C
+
 If you score ...
+
 0-14
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+
 15-24
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+
 25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
+
 121
 
 ## Page 122
@@ -6954,112 +4713,67 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 READING
+
 Reading Passage 1,
 Questions 1-13
-20
-FA
-21
-1
-obsidian
-22
-2
-spears
-23
-NO
-3
-beads
-24
-NOT GIVEN
-4
-impurities
-25
-YES
-5
-Romans
-26
-YES
-6
-lead
-7
-clouding
-Reading Passage 3,
-8
-taxes
-9
-Questions27-40
-TRUE
-10
-FALSE
-27
-iv
-11
-NOT GIVEN
-28
-ii
-12
-TRUE
-29
-vi
-13
-FALSE
-30
-viii
-31
-vii
+1 obsidian
+2 spears
+3 beads
+4 impurities
+5 Romans
+6 lead
+7 clouding
+8 taxes
+9 TRUE
+10 FALSE
+11 NOT GIVEN
+12 TRUE
+13 FALSE
+
 Reading Passage 2,
-32
-−
 Questions 14-26
-33
-ii
-34
-YES
-14
-D
-35
-NOT GIVEN
-15
-A
-36
-NO
-16
-C
-37
-NO
-17
-A
-38
-information
-18
-C
-39
-financial
-19
-E
-40
-shareholders/investors
-If you score...
+14 D
+15 A
+16 C
+17 A
+18 C
+19 E
+20 D
+21 F
+22 A
+23 NO
+24 NOT GIVEN
+25 YES
+26 YES
+
+Reading Passage 3,
+Questions 27-40
+27 iv
+28 ii
+29 vi
+30 viii
+31 vii
+32 i
+33 iii
+34 YES
+35 NOT GIVEN
+36 NO
+37 NO
+38 information
+39 financial
+40 shareholders/investors
+
+If you score ...
+
 0-14
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+
 15-24
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+
 25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
+
 123
 
 ## Page 124

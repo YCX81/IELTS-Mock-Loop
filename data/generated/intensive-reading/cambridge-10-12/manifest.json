@@ -1,0 +1,964 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.723Z",
+  "scope": "Cambridge IELTS 10-12 Reading passages",
+  "sourceBank": "data/cambridge-test-bank.json",
+  "outputDir": "data/generated/intensive-reading/cambridge-10-12",
+  "files": [
+    {
+      "key": "10-1-1",
+      "book": 10,
+      "test": 1,
+      "passage": 1,
+      "title": "Stepwells",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-1-Passage-1-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "answerKeyPage": 144,
+      "sha256": "b72af246d56a20498967d7b8f75fa55aa31b014fb01011d6b28b48d153b2d4f4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-1-2",
+      "book": 10,
+      "test": 1,
+      "passage": 2,
+      "title": "EUROPEAN TRANSPORT SYSTEMS 1990–2010",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-1-Passage-2-双语精读.md",
+      "sentenceCount": 34,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "answerKeyPage": 144,
+      "sha256": "48dd45c68891695d09414a9b1482125d72676a9b5148dbc8376a64d6cdc92cba",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-1-3",
+      "book": 10,
+      "test": 1,
+      "passage": 3,
+      "title": "The psychology of innovation",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-1-Passage-3-双语精读.md",
+      "sentenceCount": 48,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "answerKeyPage": 144,
+      "sha256": "22a9fcaad10c22bf3593a40c5cb1906d0ff9c141915fd93f58ce5fb2fe342359",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-2-1",
+      "book": 10,
+      "test": 2,
+      "passage": 1,
+      "title": "Tea and the Industrial Revolution",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-2-Passage-1-双语精读.md",
+      "sentenceCount": 57,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "answerKeyPage": 146,
+      "sha256": "5824332a4aff9ec46f8fda15e1a70b1bbae427b1cba8f5cdcc5a5771d430cd60",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-2-2",
+      "book": 10,
+      "test": 2,
+      "passage": 2,
+      "title": "Gifted children and learning",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-2-Passage-2-双语精读.md",
+      "sentenceCount": 34,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "answerKeyPage": 146,
+      "sha256": "f8fc9c39d3ddebe2e036d8a795ce7ea3a31f9ee071d3a44190fc049e6ec82ce0",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-2-3",
+      "book": 10,
+      "test": 2,
+      "passage": 3,
+      "title": "Museums of fine art and their public",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-2-Passage-3-双语精读.md",
+      "sentenceCount": 35,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "answerKeyPage": 146,
+      "sha256": "727d57cde039e2b712d9682765f3443edf950e9bded972dd81e64c7c1977f73f",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-3-1",
+      "book": 10,
+      "test": 3,
+      "passage": 1,
+      "title": "The Context, Meaning and Scope of Tourism",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-3-Passage-1-双语精读.md",
+      "sentenceCount": 30,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "answerKeyPage": 148,
+      "sha256": "9b46237fcf8fde7098ccea5677dfea14aba00d7e5386439aae0c2f6b64a98b50",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-3-2",
+      "book": 10,
+      "test": 3,
+      "passage": 2,
+      "title": "Autumn leaves",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-3-Passage-2-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "answerKeyPage": 148,
+      "sha256": "8df3663dea931771bb6fbad98ed9276df3a9cb4b02a4b36bb8d3127bdec79e22",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-3-3",
+      "book": 10,
+      "test": 3,
+      "passage": 3,
+      "title": "Beyond the blue horizon",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-3-Passage-3-双语精读.md",
+      "sentenceCount": 43,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "answerKeyPage": 148,
+      "sha256": "ea506df33a69218fdf9bea88440cdc1d7946a6fba86ceb45f4cb5a70ca5d1e9d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-4-1",
+      "book": 10,
+      "test": 4,
+      "passage": 1,
+      "title": "The megafires of California",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-4-Passage-1-双语精读.md",
+      "sentenceCount": 29,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "answerKeyPage": 150,
+      "sha256": "5f70a6ca091817a78a9ff4a6554d13ce840f0a5ee40f64a87bb910fc1e7c7bcd",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-4-2",
+      "book": 10,
+      "test": 4,
+      "passage": 2,
+      "title": "Second nature",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-4-Passage-2-双语精读.md",
+      "sentenceCount": 51,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "answerKeyPage": 150,
+      "sha256": "92c72ea781c2ba2e221b62476da4718957ac5f95fd338f66c09365cbbbc1161d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "10-4-3",
+      "book": 10,
+      "test": 4,
+      "passage": 3,
+      "title": "When evolution runs backwards",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-10-Test-4-Passage-3-双语精读.md",
+      "sentenceCount": 48,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        89,
+        90,
+        91,
+        92
+      ],
+      "answerKeyPage": 150,
+      "sha256": "a8010ce348b1dd96c9f4ef64a7980605b161b8d8ec457fff47651877992e8d86",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-1-1",
+      "book": 11,
+      "test": 1,
+      "passage": 1,
+      "title": "Crop-growing skyscrapers",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-1-Passage-1-双语精读.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        16,
+        17,
+        18
+      ],
+      "answerKeyPage": 123,
+      "sha256": "e3f210b36ab8d33bf823c3d6126d86b24ac104c411565f618f4eda8fc07ec154",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-1-2",
+      "book": 11,
+      "test": 1,
+      "passage": 2,
+      "title": "THE FALKIRK WHEEL",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-1-Passage-2-双语精读.md",
+      "sentenceCount": 33,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "answerKeyPage": 123,
+      "sha256": "565c692aeb4019bb97df171c0bdf97518e0463fa69902b6a8e4c35a8f08b97da",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "key": "11-1-3",
+      "book": 11,
+      "test": 1,
+      "passage": 3,
+      "title": "Reducing the Effects of Climate Change",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-1-Passage-3-双语精读.md",
+      "sentenceCount": 35,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "answerKeyPage": 123,
+      "sha256": "3c60f6fa01c007762fb34d98c74fe2bc223c9a5d344e076bf5b4ba2b4fc798c4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-2-1",
+      "book": 11,
+      "test": 2,
+      "passage": 1,
+      "title": "Raising the Mary Rose",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-2-Passage-1-双语精读.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "answerKeyPage": 125,
+      "sha256": "0d9db616f5cfdaef8e81425abb456955647caf4b4f6ca5ffec03b96bcd8beaf2",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "key": "11-2-2",
+      "book": 11,
+      "test": 2,
+      "passage": 2,
+      "title": "What destroyed the civilisation of Easter Island?",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-2-Passage-2-双语精读.md",
+      "sentenceCount": 48,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "answerKeyPage": 125,
+      "sha256": "53366eded9423cab6a4ccfc3f6e8b83dd357df3bde6655525edb2d7837812b6a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-2-3",
+      "book": 11,
+      "test": 2,
+      "passage": 3,
+      "title": "Neuroaesthetics",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-2-Passage-3-双语精读.md",
+      "sentenceCount": 40,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "answerKeyPage": 125,
+      "sha256": "8f8ea580b0f52014133b17e9958d05853fc60458ae27316800f387cc863edd2d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-3-1",
+      "book": 11,
+      "test": 3,
+      "passage": 1,
+      "title": "THE STORY OF SILK",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-3-Passage-1-双语精读.md",
+      "sentenceCount": 40,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "answerKeyPage": 127,
+      "sha256": "19e5a902353261f5e2a54e17bddc4e45dd1ae3742075f863aba02a8c78f66597",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-3-2",
+      "book": 11,
+      "test": 3,
+      "passage": 2,
+      "title": "Great Migrations",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-3-Passage-2-双语精读.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "answerKeyPage": 127,
+      "sha256": "a7073adcb44e51240e34b533c3543de517c345406e070247ef273df433b6e27c",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-3-3",
+      "book": 11,
+      "test": 3,
+      "passage": 3,
+      "title": "Preface to ‘How the other half thinks: Adventures in mathematical reasoning’",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-3-Passage-3-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "answerKeyPage": 127,
+      "sha256": "6c8f01faa2891ad1a7e68fe07139d85e161edf2c5184057499abe66544aeec4a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-4-1",
+      "book": 11,
+      "test": 4,
+      "passage": 1,
+      "title": "Research using twins",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-4-Passage-1-双语精读.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "answerKeyPage": 129,
+      "sha256": "a9feb630aab2970e1fae06e17d38039f82990631f661b24116d60d44b2dda76e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-4-2",
+      "book": 11,
+      "test": 4,
+      "passage": 2,
+      "title": "An Introduction to Film Sound",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-4-Passage-2-双语精读.md",
+      "sentenceCount": 42,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        89,
+        90,
+        91,
+        92,
+        93
+      ],
+      "answerKeyPage": 129,
+      "sha256": "14411920b45eec2284e232cdce7272e3c26df26777dfdfb38bbde7e92888caae",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "11-4-3",
+      "book": 11,
+      "test": 4,
+      "passage": 3,
+      "title": "‘This Marvellous Invention’",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-11-Test-4-Passage-3-双语精读.md",
+      "sentenceCount": 32,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "answerKeyPage": 129,
+      "sha256": "3773e184c78ad9456772817835ff546200e4548440fab28f4dbbdc7246acf7b1",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-1-1",
+      "book": 12,
+      "test": 1,
+      "passage": 1,
+      "title": "Cork",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-1-Passage-1-双语精读.md",
+      "sentenceCount": 36,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "answerKeyPage": 117,
+      "sha256": "cf0ca409836e8dac109c5b81b530db91a2df64bc5f8c8711c12d629ab2c0de89",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-1-2",
+      "book": 12,
+      "test": 1,
+      "passage": 2,
+      "title": "COLLECTING AS A HOBBY",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-1-Passage-2-双语精读.md",
+      "sentenceCount": 34,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        20,
+        21,
+        22
+      ],
+      "answerKeyPage": 117,
+      "sha256": "42ee3c3a046f5c6c7f6cd38c1adb17cf362fda9e1678655ae20b46dddf90106d",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-1-3",
+      "book": 12,
+      "test": 1,
+      "passage": 3,
+      "title": "What’s the purpose of gaining knowledge?",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-1-Passage-3-双语精读.md",
+      "sentenceCount": 41,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "answerKeyPage": 117,
+      "sha256": "279b2978de5ddc433f06b57e2ce552447d0a309b5e61108afa6526d62b1ba5f2",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-2-1",
+      "book": 12,
+      "test": 2,
+      "passage": 1,
+      "title": "The risks agriculture faces in developing countries",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-2-Passage-1-双语精读.md",
+      "sentenceCount": 34,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "answerKeyPage": 119,
+      "sha256": "c29f4409d81c1a2c9a3e3b340f61fbd42331ad5776b9dcb9cd931a0d58527ced",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-2-2",
+      "book": 12,
+      "test": 2,
+      "passage": 2,
+      "title": "The Lost City",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-2-Passage-2-双语精读.md",
+      "sentenceCount": 30,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "answerKeyPage": 119,
+      "sha256": "c877eac3c5768813ba221807e7449603157c817fe1f9575d06f042d831a08afc",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-2-3",
+      "book": 12,
+      "test": 2,
+      "passage": 3,
+      "title": "The Benefits of Being Bilingual",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-2-Passage-3-双语精读.md",
+      "sentenceCount": 36,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        46,
+        47,
+        48,
+        49
+      ],
+      "answerKeyPage": 119,
+      "sha256": "8229006fb7f64072e089f514de21fe2bca8ae0df491ed5a42559e29ff22cf8c0",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-3-1",
+      "book": 12,
+      "test": 3,
+      "passage": 1,
+      "title": "Flying tortoises",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-3-Passage-1-双语精读.md",
+      "sentenceCount": 33,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "answerKeyPage": 121,
+      "sha256": "c4ae9be80edc91aaad752ec9d48d7d2901f18750e98aec32a500838249e494a1",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-3-2",
+      "book": 12,
+      "test": 3,
+      "passage": 2,
+      "title": "The Intersection of Health Sciences and Geography",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-3-Passage-2-双语精读.md",
+      "sentenceCount": 29,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        63,
+        64,
+        65
+      ],
+      "answerKeyPage": 121,
+      "sha256": "c3380d84be69cdb2c5702a3b14cf45ffc80078db9f59846e432cb5ec8daa0b5a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-3-3",
+      "book": 12,
+      "test": 3,
+      "passage": 3,
+      "title": "Music and the emotions",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-3-Passage-3-双语精读.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "answerKeyPage": 121,
+      "sha256": "5df0dcb373a953737a15edd27b6acd47131547f6d9f5fd5258e0f6fa03b97778",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-4-1",
+      "book": 12,
+      "test": 4,
+      "passage": 1,
+      "title": "The History of Glass",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-4-Passage-1-双语精读.md",
+      "sentenceCount": 35,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        80,
+        81,
+        82
+      ],
+      "answerKeyPage": 123,
+      "sha256": "dd44a26e1d53724c6b2f023ca67e5c2a6a18fa386f3a063f943e9aecf19903bc",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-4-2",
+      "book": 12,
+      "test": 4,
+      "passage": 2,
+      "title": "Bring back the big cats",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-4-Passage-2-双语精读.md",
+      "sentenceCount": 41,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "answerKeyPage": 123,
+      "sha256": "8d7baceca591d2f32faa44dec021f5b1d69906dc656a6b7bcecefa18d2a1d2af",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "12-4-3",
+      "book": 12,
+      "test": 4,
+      "passage": 3,
+      "title": "UK companies need more effective boards of directors",
+      "file": "data/generated/intensive-reading/cambridge-10-12/Cambridge-IELTS-12-Test-4-Passage-3-双语精读.md",
+      "sentenceCount": 31,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        88,
+        89,
+        90,
+        91
+      ],
+      "answerKeyPage": 123,
+      "sha256": "ed4e16c9b5d38208dc70b540aec786cb7fef7b6a68eb53950483fe85d9aea095",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "repairs": [],
+  "skipped": [],
+  "summary": {
+    "generatedPassageFiles": 36,
+    "recoveredSources": 0,
+    "partialRecoveries": 0,
+    "skipped": 0,
+    "books": [
+      10,
+      11,
+      12
+    ]
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "schemaVersion": 1,
+  "book": 12,
+  "test": 2,
+  "printedTest": 6,
+  "passage": 3,
+  "calibrationStatus": "manually_calibrated",
+  "pageTexts": [
+    {
+      "page": 46,
+      "text": "Test 6\nREADING PASSAGE 3\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.\n\nThe Benefits of Being Bilingual\n\nA\nAccording to the latest figures, the majority of the world’s population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual.\n\nB\nResearch shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don’t hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain’s language system begins to guess what that word might be. If you hear ‘can’, you will likely activate words like ‘candy’ and ‘candle’ as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called ‘language co-activation’, comes from studying eye movements. A Russian-English bilingual asked to ‘pick up a marker’ from a set of objects would look more at a stamp than someone who doesn’t know Russian, because the Russian word for ‘stamp’, marka, sounds like the English word he or she heard, ‘marker’. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language.\n\nC\nHaving to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase ‘tip-of-the-tongue states’, when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word’s font. When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don’t match (i.e., the word ‘red’ printed in blue). This occurs because the word itself (‘red’) and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green)\n\n46"
+    },
+    {
+      "page": 47,
+      "text": "Reading\nto categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy.\n\nD\nIt also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners’ neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception.\n\nE\nSuch improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know.\n\nF\nResearch also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer’s disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer’s symptoms. Surprisingly, the bilinguals’ brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel.\n\nG\nFurthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they’d learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language.\n\n47"
+    },
+    {
+      "page": 48,
+      "text": "Test 6\nQuestions 27–31\nComplete the table below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 27–31 on your answer sheet.\n\n| Test | Findings |\n| --- | --- |\n| Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects | Bilingual people engage both languages simultaneously: a mechanism known as 28 __________. |\n| A test called the 29 __________, focusing on naming colours | Bilingual people are more able to handle tasks involving a skill called 30 __________. |\n| A test involving switching between tasks | When changing strategies, bilingual people have superior 31 __________. |\n\nQuestions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n\n32 Attitudes towards bilingualism have changed in recent years.\n33 Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.\n34 Bilingual people consistently name images faster than monolingual people.\n35 Bilingual people’s brains process single sounds more efficiently than monolingual people in all situations.\n36 Fewer bilingual people than monolingual people suffer from brain disease in old age.\n\n48"
+    },
+    {
+      "page": 49,
+      "text": "Reading\nQuestions 37–40\nReading Passage 3 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 37–40 on your answer sheet.\n\n37 an example of how bilingual and monolingual people’s brains respond differently to a certain type of non-verbal auditory input\n38 a demonstration of how a bilingual upbringing has benefits even before we learn to speak\n39 a description of the process by which people identify words that they hear\n40 reference to some negative consequences of being bilingual\n\n49"
+    }
+  ],
+  "section": {
+    "passageNumber": 3,
+    "title": "The Benefits of Being Bilingual",
+    "instruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+    "sourcePages": [
+      46,
+      47
+    ],
+    "questionPages": [
+      48,
+      49
+    ],
+    "answerKeyPage": 119,
+    "questionRange": [
+      27,
+      40
+    ],
+    "paragraphs": [
+      {
+        "label": "A",
+        "sourcePages": [
+          46
+        ],
+        "text": "According to the latest figures, the majority of the world’s population is now bilingual or multilingual, having grown up speaking two or more languages. In the past, such children were considered to be at a disadvantage compared with their monolingual peers. Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual."
+      },
+      {
+        "label": "B",
+        "sourcePages": [
+          46
+        ],
+        "text": "Research shows that when a bilingual person uses one language, the other is active at the same time. When we hear a word, we don’t hear the entire word all at once: the sounds arrive in sequential order. Long before the word is finished, the brain’s language system begins to guess what that word might be. If you hear ‘can’, you will likely activate words like ‘candy’ and ‘candle’ as well, at least during the earlier stages of word recognition. For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong. Some of the most compelling evidence for this phenomenon, called ‘language co-activation’, comes from studying eye movements. A Russian-English bilingual asked to ‘pick up a marker’ from a set of objects would look more at a stamp than someone who doesn’t know Russian, because the Russian word for ‘stamp’, marka, sounds like the English word he or she heard, ‘marker’. In cases like this, language co-activation occurs because what the listener hears could map onto words in either language."
+      },
+      {
+        "label": "C",
+        "sourcePages": [
+          46,
+          47
+        ],
+        "text": "Having to deal with this persistent linguistic competition can result in difficulties, however. For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase ‘tip-of-the-tongue states’, when you can almost, but not quite, bring a word to mind. As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time. For this reason, bilingual people often perform better on tasks that require conflict management. In the classic Stroop Task, people see a word and are asked to name the colour of the word’s font. When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don’t match (i.e., the word ‘red’ printed in blue). This occurs because the word itself (‘red’) and its font colour (blue) conflict. Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input. Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy."
+      },
+      {
+        "label": "D",
+        "sourcePages": [
+          47
+        ],
+        "text": "It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing. When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses. When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners’ neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception."
+      },
+      {
+        "label": "E",
+        "sourcePages": [
+          47
+        ],
+        "text": "Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language. This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know."
+      },
+      {
+        "label": "F",
+        "sourcePages": [
+          47
+        ],
+        "text": "Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging. Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits. In a study of over 200 patients with Alzheimer’s disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients. In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer’s symptoms. Surprisingly, the bilinguals’ brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same. If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel."
+      },
+      {
+        "label": "G",
+        "sourcePages": [
+          47
+        ],
+        "text": "Furthermore, the benefits associated with bilingual experience seem to start very early. In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen. Halfway through the study, the puppet began appearing on the opposite side of the screen. In order to get a reward, the infants had to adjust the rule they’d learned; only the bilingual babies were able to successfully learn the new rule. This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language."
+      }
+    ],
+    "sentences": [
+      {
+        "number": 1,
+        "paragraph": "A",
+        "text": "According to the latest figures, the majority of the world’s population is now bilingual or multilingual, having grown up speaking two or more languages."
+      },
+      {
+        "number": 2,
+        "paragraph": "A",
+        "text": "In the past, such children were considered to be at a disadvantage compared with their monolingual peers."
+      },
+      {
+        "number": 3,
+        "paragraph": "A",
+        "text": "Over the past few decades, however, technological advances have allowed researchers to look more deeply at how bilingualism interacts with and changes the cognitive and neurological systems, thereby identifying several clear benefits of being bilingual."
+      },
+      {
+        "number": 4,
+        "paragraph": "B",
+        "text": "Research shows that when a bilingual person uses one language, the other is active at the same time."
+      },
+      {
+        "number": 5,
+        "paragraph": "B",
+        "text": "When we hear a word, we don’t hear the entire word all at once: the sounds arrive in sequential order."
+      },
+      {
+        "number": 6,
+        "paragraph": "B",
+        "text": "Long before the word is finished, the brain’s language system begins to guess what that word might be."
+      },
+      {
+        "number": 7,
+        "paragraph": "B",
+        "text": "If you hear ‘can’, you will likely activate words like ‘candy’ and ‘candle’ as well, at least during the earlier stages of word recognition."
+      },
+      {
+        "number": 8,
+        "paragraph": "B",
+        "text": "For bilingual people, this activation is not limited to a single language; auditory input activates corresponding words regardless of the language to which they belong."
+      },
+      {
+        "number": 9,
+        "paragraph": "B",
+        "text": "Some of the most compelling evidence for this phenomenon, called ‘language co-activation’, comes from studying eye movements."
+      },
+      {
+        "number": 10,
+        "paragraph": "B",
+        "text": "A Russian-English bilingual asked to ‘pick up a marker’ from a set of objects would look more at a stamp than someone who doesn’t know Russian, because the Russian word for ‘stamp’, marka, sounds like the English word he or she heard, ‘marker’."
+      },
+      {
+        "number": 11,
+        "paragraph": "B",
+        "text": "In cases like this, language co-activation occurs because what the listener hears could map onto words in either language."
+      },
+      {
+        "number": 12,
+        "paragraph": "C",
+        "text": "Having to deal with this persistent linguistic competition can result in difficulties, however."
+      },
+      {
+        "number": 13,
+        "paragraph": "C",
+        "text": "For instance, knowing more than one language can cause speakers to name pictures more slowly, and can increase ‘tip-of-the-tongue states’, when you can almost, but not quite, bring a word to mind."
+      },
+      {
+        "number": 14,
+        "paragraph": "C",
+        "text": "As a result, the constant juggling of two languages creates a need to control how much a person accesses a language at any given time."
+      },
+      {
+        "number": 15,
+        "paragraph": "C",
+        "text": "For this reason, bilingual people often perform better on tasks that require conflict management."
+      },
+      {
+        "number": 16,
+        "paragraph": "C",
+        "text": "In the classic Stroop Task, people see a word and are asked to name the colour of the word’s font."
+      },
+      {
+        "number": 17,
+        "paragraph": "C",
+        "text": "When the colour and the word match (i.e., the word ‘red’ printed in red), people correctly name the colour more quickly than when the colour and the word don’t match (i.e., the word ‘red’ printed in blue)."
+      },
+      {
+        "number": 18,
+        "paragraph": "C",
+        "text": "This occurs because the word itself (‘red’) and its font colour (blue) conflict."
+      },
+      {
+        "number": 19,
+        "paragraph": "C",
+        "text": "Bilingual people often excel at tasks such as this, which tap into the ability to ignore competing perceptual information and focus on the relevant aspects of the input."
+      },
+      {
+        "number": 20,
+        "paragraph": "C",
+        "text": "Bilinguals are also better at switching between two tasks; for example, when bilinguals have to switch from categorizing objects by colour (red or green) to categorizing them by shape (circle or triangle), they do so more quickly than monolingual people, reflecting better cognitive control when having to make rapid changes of strategy."
+      },
+      {
+        "number": 21,
+        "paragraph": "D",
+        "text": "It also seems that the neurological roots of the bilingual advantage extend to brain areas more traditionally associated with sensory processing."
+      },
+      {
+        "number": 22,
+        "paragraph": "D",
+        "text": "When monolingual and bilingual adolescents listen to simple speech sounds without any intervening background noise, they show highly similar brain stem responses."
+      },
+      {
+        "number": 23,
+        "paragraph": "D",
+        "text": "When researchers play the same sound to both groups in the presence of background noise, however, the bilingual listeners’ neural response is considerably larger, reflecting better encoding of the sound's fundamental frequency, a feature of sound closely related to pitch perception."
+      },
+      {
+        "number": 24,
+        "paragraph": "E",
+        "text": "Such improvements in cognitive and sensory processing may help a bilingual person to process information in the environment, and help explain why bilingual adults acquire a third language better than monolingual adults master a second language."
+      },
+      {
+        "number": 25,
+        "paragraph": "E",
+        "text": "This advantage may be rooted in the skill of focussing on information about the new language while reducing interference from the languages they already know."
+      },
+      {
+        "number": 26,
+        "paragraph": "F",
+        "text": "Research also indicates that bilingual experience may help to keep the cognitive mechanisms sharp by recruiting alternate brain networks to compensate for those that become damaged during aging."
+      },
+      {
+        "number": 27,
+        "paragraph": "F",
+        "text": "Older bilinguals enjoy improved memory relative to monolingual people, which can lead to real-world health benefits."
+      },
+      {
+        "number": 28,
+        "paragraph": "F",
+        "text": "In a study of over 200 patients with Alzheimer’s disease, a degenerative brain disease, bilingual patients reported showing initial symptoms of the disease an average of five years later than monolingual patients."
+      },
+      {
+        "number": 29,
+        "paragraph": "F",
+        "text": "In a follow-up study, researchers compared the brains of bilingual and monolingual patients matched on the severity of Alzheimer’s symptoms."
+      },
+      {
+        "number": 30,
+        "paragraph": "F",
+        "text": "Surprisingly, the bilinguals’ brains had more physical signs of disease than their monolingual counterparts, even though their outward behaviour and abilities were the same."
+      },
+      {
+        "number": 31,
+        "paragraph": "F",
+        "text": "If the brain is an engine, bilingualism may help it to go farther on the same amount of fuel."
+      },
+      {
+        "number": 32,
+        "paragraph": "G",
+        "text": "Furthermore, the benefits associated with bilingual experience seem to start very early."
+      },
+      {
+        "number": 33,
+        "paragraph": "G",
+        "text": "In one study, researchers taught seven-month-old babies growing up in monolingual or bilingual homes that when they heard a tinkling sound, a puppet appeared on one side of a screen."
+      },
+      {
+        "number": 34,
+        "paragraph": "G",
+        "text": "Halfway through the study, the puppet began appearing on the opposite side of the screen."
+      },
+      {
+        "number": 35,
+        "paragraph": "G",
+        "text": "In order to get a reward, the infants had to adjust the rule they’d learned; only the bilingual babies were able to successfully learn the new rule."
+      },
+      {
+        "number": 36,
+        "paragraph": "G",
+        "text": "This suggests that for very young children, as well as for older people, navigating a multilingual environment imparts advantages that transfer far beyond language."
+      }
+    ]
+  },
+  "questionSections": [
+    {
+      "range": [
+        27,
+        31
+      ],
+      "type": "table_completion",
+      "title": "Questions 27–31",
+      "instruction": "Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 27–31 on your answer sheet.",
+      "columns": [
+        "Test",
+        "Findings"
+      ],
+      "rows": [
+        {
+          "test": "Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects",
+          "findings": "Bilingual people engage both languages simultaneously: a mechanism known as 28 __________."
+        },
+        {
+          "test": "A test called the 29 __________, focusing on naming colours",
+          "findings": "Bilingual people are more able to handle tasks involving a skill called 30 __________."
+        },
+        {
+          "test": "A test involving switching between tasks",
+          "findings": "When changing strategies, bilingual people have superior 31 __________."
+        }
+      ],
+      "wordLimit": 2,
+      "sourcePages": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "range": [
+        32,
+        36
+      ],
+      "type": "yes_no_not_given",
+      "title": "Questions 32–36",
+      "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 32–36 on your answer sheet, write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "labels": [
+        {
+          "label": "YES",
+          "meaning": "the statement agrees with the claims of the writer"
+        },
+        {
+          "label": "NO",
+          "meaning": "the statement contradicts the claims of the writer"
+        },
+        {
+          "label": "NOT GIVEN",
+          "meaning": "it is impossible to say what the writer thinks about this"
+        }
+      ],
+      "sourcePages": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "type": "matching_information",
+      "title": "Questions 37–40",
+      "instruction": "Reading Passage 3 has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G, in boxes 37–40 on your answer sheet.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "sourcePages": [
+        46,
+        47,
+        49
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 27,
+      "type": "table_completion",
+      "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "prompt": "Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects",
+      "translation": "观察俄英双语者在被要求选择特定物体时的 ______。",
+      "answers": [
+        "eye movements"
+      ],
+      "evidence": "Some of the most compelling evidence ... comes from studying eye movements.",
+      "location": "Paragraph B, sentence 9",
+      "distractorAnalysis": "The experiment records where participants look, so 'eye movements' completes both the method and grammar. 'Objects' are the stimuli, not what is observed.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": 2
+    },
+    {
+      "number": 28,
+      "type": "table_completion",
+      "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "prompt": "Bilingual people engage both languages simultaneously: a mechanism known as 28 __________.",
+      "translation": "双语者会同时启动两种语言：这一机制称为 ______。",
+      "answers": [
+        "language co-activation"
+      ],
+      "evidence": "The phenomenon is explicitly called ‘language co-activation’.",
+      "location": "Paragraph B, sentence 9",
+      "distractorAnalysis": "'Activation' alone omits the named mechanism; the exact two-word term is ‘language co-activation’.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": 2
+    },
+    {
+      "number": 29,
+      "type": "table_completion",
+      "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "prompt": "A test called the 29 __________, focusing on naming colours",
+      "translation": "一项名为 ______、以说出颜色名称为重点的测试。",
+      "answers": [
+        "Stroop Task"
+      ],
+      "evidence": "In the classic Stroop Task, people see a word and are asked to name the colour of the word’s font.",
+      "location": "Paragraph C, sentence 16",
+      "distractorAnalysis": "'Conflict management' is the skill measured, not the test name. The official two-word name is 'Stroop Task'.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": 2
+    },
+    {
+      "number": 30,
+      "type": "table_completion",
+      "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "prompt": "Bilingual people are more able to handle tasks involving a skill called 30 __________.",
+      "translation": "双语者更善于处理涉及一种名为 ______ 的技能的任务。",
+      "answers": [
+        "conflict management"
+      ],
+      "evidence": "Bilingual people often perform better on tasks that require conflict management.",
+      "location": "Paragraph C, sentence 15",
+      "distractorAnalysis": "'Cognitive control' belongs to the switching experiment in the next row. The colour-naming task illustrates 'conflict management'.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": 2
+    },
+    {
+      "number": 31,
+      "type": "table_completion",
+      "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "prompt": "When changing strategies, bilingual people have superior 31 __________.",
+      "translation": "改变策略时，双语者拥有更出色的 ______。",
+      "answers": [
+        "cognitive control"
+      ],
+      "evidence": "Faster task switching reflects better cognitive control when rapid changes of strategy are required.",
+      "location": "Paragraph C, sentence 20",
+      "distractorAnalysis": "'Conflict management' describes the Stroop test. The switching result is explicitly interpreted as 'cognitive control'.",
+      "sourcePages": [
+        46,
+        47,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": 2
+    },
+    {
+      "number": 32,
+      "type": "yes_no_not_given",
+      "instruction": "Decide whether the statement agrees with the claims of the writer: YES, NO, or NOT GIVEN.",
+      "prompt": "Attitudes towards bilingualism have changed in recent years.",
+      "translation": "近年来，人们对双语现象的态度发生了变化。",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "answers": [
+        "YES"
+      ],
+      "evidence": "In the past bilingual children were considered disadvantaged; over recent decades research has identified clear benefits.",
+      "location": "Paragraph A, sentences 2–3",
+      "distractorAnalysis": "The passage directly contrasts past disadvantage with recently identified benefits, so the statement agrees rather than being merely implied.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 33,
+      "type": "yes_no_not_given",
+      "instruction": "Decide whether the statement agrees with the claims of the writer: YES, NO, or NOT GIVEN.",
+      "prompt": "Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.",
+      "translation": "双语者比单语者更善于在单词尚未说完时正确猜出它们。",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "answers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "The passage explains that the brain begins guessing before a word is finished, but gives no bilingual-versus-monolingual accuracy comparison.",
+      "location": "Paragraph B, sentences 5–8",
+      "distractorAnalysis": "Co-activation in two languages does not establish superior guessing accuracy. The comparison required by the statement is absent.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 34,
+      "type": "yes_no_not_given",
+      "instruction": "Decide whether the statement agrees with the claims of the writer: YES, NO, or NOT GIVEN.",
+      "prompt": "Bilingual people consistently name images faster than monolingual people.",
+      "translation": "双语者总是比单语者更快说出图像名称。",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "answers": [
+        "NO"
+      ],
+      "evidence": "Knowing more than one language can cause speakers to name pictures more slowly.",
+      "location": "Paragraph C, sentence 13",
+      "distractorAnalysis": "The text states the opposite and the word 'consistently' makes the claim even stronger, so the answer is NO.",
+      "sourcePages": [
+        46,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 35,
+      "type": "yes_no_not_given",
+      "instruction": "Decide whether the statement agrees with the claims of the writer: YES, NO, or NOT GIVEN.",
+      "prompt": "Bilingual people’s brains process single sounds more efficiently than monolingual people in all situations.",
+      "translation": "在所有情况下，双语者的大脑处理单个声音都比单语者更高效。",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "answers": [
+        "NO"
+      ],
+      "evidence": "Without background noise the groups show highly similar responses; the bilingual advantage appears in background noise.",
+      "location": "Paragraph D, sentences 22–23",
+      "distractorAnalysis": "'In all situations' is contradicted by the no-noise condition, where responses are highly similar.",
+      "sourcePages": [
+        47,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 36,
+      "type": "yes_no_not_given",
+      "instruction": "Decide whether the statement agrees with the claims of the writer: YES, NO, or NOT GIVEN.",
+      "prompt": "Fewer bilingual people than monolingual people suffer from brain disease in old age.",
+      "translation": "老年时，患脑部疾病的双语者比单语者少。",
+      "options": [
+        "YES",
+        "NO",
+        "NOT GIVEN"
+      ],
+      "answers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "The studies compare symptom timing and brain damage among patients, not how many people in each population develop disease.",
+      "location": "Paragraph F, sentences 28–30",
+      "distractorAnalysis": "Later symptoms do not mean lower incidence. No prevalence figures are supplied, so NOT GIVEN.",
+      "sourcePages": [
+        47,
+        48
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 37,
+      "type": "matching_information",
+      "instruction": "Choose the paragraph, A–G, that contains the information.",
+      "prompt": "an example of how bilingual and monolingual people’s brains respond differently to a certain type of non-verbal auditory input",
+      "translation": "一个例子：双语者与单语者的大脑对某类非语言听觉输入作出不同反应。",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answers": [
+        "D"
+      ],
+      "evidence": "With background noise, bilingual listeners show a considerably larger neural response than monolingual listeners.",
+      "location": "Paragraph D, sentence 23",
+      "distractorAnalysis": "B concerns spoken-word recognition, not non-verbal auditory conditions. D compares neural responses to sound in background noise.",
+      "sourcePages": [
+        47,
+        49
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 38,
+      "type": "matching_information",
+      "instruction": "Choose the paragraph, A–G, that contains the information.",
+      "prompt": "a demonstration of how a bilingual upbringing has benefits even before we learn to speak",
+      "translation": "一项证明：双语成长环境在儿童学会说话前就已带来益处。",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answers": [
+        "G"
+      ],
+      "evidence": "Seven-month-old bilingual babies, unlike monolingual babies, successfully learned the changed rule.",
+      "location": "Paragraph G, sentences 33–35",
+      "distractorAnalysis": "A discusses children generally but gives no pre-speech experiment. G supplies the infant demonstration.",
+      "sourcePages": [
+        47,
+        49
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 39,
+      "type": "matching_information",
+      "instruction": "Choose the paragraph, A–G, that contains the information.",
+      "prompt": "a description of the process by which people identify words that they hear",
+      "translation": "对人们如何识别听到的单词这一过程的描述。",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answers": [
+        "B"
+      ],
+      "evidence": "Sounds arrive sequentially and the brain begins guessing the word before it is finished.",
+      "location": "Paragraph B, sentences 5–7",
+      "distractorAnalysis": "D concerns sensory encoding, not lexical identification. B explicitly describes the stages of spoken-word recognition.",
+      "sourcePages": [
+        46,
+        49
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    },
+    {
+      "number": 40,
+      "type": "matching_information",
+      "instruction": "Choose the paragraph, A–G, that contains the information.",
+      "prompt": "reference to some negative consequences of being bilingual",
+      "translation": "提到双语现象带来的一些负面后果。",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "answers": [
+        "C"
+      ],
+      "evidence": "Persistent linguistic competition can make picture naming slower and increase tip-of-the-tongue states.",
+      "location": "Paragraph C, sentences 12–13",
+      "distractorAnalysis": "A reports an outdated belief about disadvantage; C provides concrete current difficulties caused by bilingual competition.",
+      "sourcePages": [
+        46,
+        49
+      ],
+      "answerKeyPage": 119,
+      "wordLimit": null
+    }
+  ]
+}
