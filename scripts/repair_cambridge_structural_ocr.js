@@ -2,7 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const ROOT = process.cwd();
-const GENERATED = path.join(ROOT, "data", "generated");
+const DATA = path.join(ROOT, "data");
+const GENERATED = path.join(DATA, "generated");
 const TEXT_PAGES = path.join(GENERATED, "text-pages");
 const PAGE_JSON = path.join(GENERATED, "page-json");
 const REPORTS = path.join(GENERATED, "reports");
@@ -299,9 +300,9 @@ function repairIelts06AnswerKeyPages() {
   for (const [pageNumber, text] of replacements) {
     const page = (pagesDoc.pages || []).find((item) => item.page === pageNumber);
     if (!page) throw new Error(`Missing IELTS 06 page-json page ${pageNumber}`);
-    if (page.text !== text) {
+    if (page.text !== text || page.image) {
       page.text = text;
-      page.image = `data/generated/image-review/cambridge-ielts-06/page-${pad3(pageNumber)}.png`;
+      delete page.image;
       page.verifiedFromPdf = true;
       changed += 1;
     }
@@ -368,7 +369,6 @@ function buildIelts20AnswerPages(pagesDoc) {
     return {
       page: pageNumber,
       text,
-      image: `data/generated/image-review/cambridge-ielts-20/page-${pad3(pageNumber)}.png`,
       sourcePageJson: "data/generated/page-json/cambridge-ielts-20.pages.json",
     };
   });
@@ -389,8 +389,6 @@ function buildIelts20AnswerPages(pagesDoc) {
       "",
       ...pages.flatMap((page) => [
         `## Page ${page.page}`,
-        "",
-        `Image: ${page.image}`,
         "",
         page.text.trimEnd(),
         "",
@@ -420,11 +418,11 @@ function repairIelts20RawAndPages() {
   for (const page of pagesDoc.pages || []) {
     if (!IELTS20_ANSWER_PAGE_NUMBERS.includes(page.page)) continue;
     const markerText = `${markerForAnswerPage(page.page)}\n\n${page.page}`;
-    if (page.text !== markerText || page.role !== "answer_page") {
+    if (page.text !== markerText || page.role !== "answer_page" || page.image) {
       page.text = markerText;
       page.role = "answer_page";
       page.movedTo = `${IELTS20_ANSWER_JSON_REL}#page-${pad3(page.page)}`;
-      page.image = `data/generated/image-review/cambridge-ielts-20/page-${pad3(page.page)}.png`;
+      delete page.image;
       changed += 1;
     }
   }
@@ -493,6 +491,8 @@ function main() {
   changes.push(["IELTS 20 test-bank", repairIelts20TestBank(bank)]);
 
   writeJson(bankFile, bank);
+  writeJson(path.join(DATA, "cambridge-test-bank.json"), bank);
+  writeText(path.join(DATA, "cambridge-test-bank.js"), `window.CAMBRIDGE_TEST_BANK = ${JSON.stringify(bank, null, 2)};\n`);
 
   for (const [label, count] of changes) {
     console.log(`${label}: ${count} change groups`);

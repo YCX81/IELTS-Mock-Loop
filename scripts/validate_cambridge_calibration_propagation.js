@@ -38,6 +38,10 @@ function imageMarker(entry) {
   return `![Cambridge IELTS ${entry.book} page ${String(entry.page).padStart(3, "0")} figure](${entry.image})`;
 }
 
+function markdownImages(text) {
+  return [...String(text || "").matchAll(/!\[[^\]]*]\(([^)]+)\)/g)].map((match) => match[1]);
+}
+
 function representativeTableRow(text) {
   return String(text || "")
     .split(/\r?\n/)
@@ -100,6 +104,10 @@ function main() {
       const marker = imageMarker(entry);
       if (!String(page.text || "").includes(marker)) fail(errors, entry, "image marker missing from page JSON text");
       if (!rawPage.includes(marker)) fail(errors, entry, "image marker missing from raw Markdown");
+      const unexpectedImages = [...new Set(markdownImages(page.text))].filter((image) => image !== entry.image);
+      if (unexpectedImages.length) {
+        fail(errors, entry, `contains non-canonical image marker(s): ${unexpectedImages.join(", ")}`);
+      }
     }
 
     if (entry.reason === "structured_table_repair") {

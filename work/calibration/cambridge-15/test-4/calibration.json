@@ -1,0 +1,42 @@
+{
+  "book": 15,
+  "test": 4,
+  "status": "manually_calibrated",
+  "source": "Manual visual calibration against data/Cambridge-IELTS-15.pdf physical pages 82–94 and 128",
+  "sourcePages": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94
+  ],
+  "readingPages": [
+    82,
+    83,
+    86,
+    87,
+    90,
+    91
+  ],
+  "questionPages": [
+    84,
+    85,
+    88,
+    89,
+    92,
+    93,
+    94
+  ],
+  "answerKeyPage": 128,
+  "semanticImagesRequired": false,
+  "images": [],
+  "method": "manual visual page-by-page readback"
+}

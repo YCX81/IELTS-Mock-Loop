@@ -217,8 +217,7 @@ popular media. Sometimes this information may be erroneous. It seems schools may
 not be providing an opportunity for children to re-express their ideas and so have
 them tested and refined by teachers and their peers.
 Despite the extensive coverage in the popular media of the destruction of
-rainforests, little formal information is available about children’s ideas in this area,
-the aim of the present study is to start to provide such information, to help teachers
+rainforests, little formal information is available about children’s ideas in this area. The aim of the present study is to start to provide such information, to help teachers
 design their educational strategies to build upon correct ideas and to displace
 misconceptions and to plan programs in environmental studies in their schools.
 The study surveys children’s scientific knowledge and attitudes to rainforests.
@@ -278,9 +277,9 @@ appreciation of either the range of ways in which rainforests are important or t
 complex social, economic and political factors which drive the activities which are
 destroying the rainforests. One encouragement is that the results of similar studies
 about other environmental issues suggest that older children seem to acquire the
-ability to appreciate value and evaluate conflicting views. Environmental education
+ability to appreciate, value and evaluate conflicting views. Environmental education
 offers an arena in which these skills can be developed, which is essential for these
-children as future decision –makers.
+children as future decision-makers.
 Questions 1-8
 Do the following statements agree with the information given in Reading
 Passage 1?
@@ -296,7 +295,7 @@ NOT GIVEN if there is no information on this
 classrooms.
 3 It has been suggested that children hold mistaken views about the ‘pure’
 science that they study at school.
-4 The fact that children’s ideas about science from part of a larger framework of
+4 The fact that children’s ideas about science form part of a larger framework of
 ideas means that it is easier to change them.
 5 The study involved asking children a number of yes/no questions such as ‘Are
 there any rainforests in Africa?’
@@ -347,7 +346,7 @@ Question 14
 Choose the correct letter, A, B, C, D or E.
 Write your answer in box 14 on your answer sheet.
 Which of the following is the most suitable title for Reading Passage 1?
-A The development of a program in environmental studies within a science
+A The development of a programme in environmental studies within a science
 curriculum
 B Children’s ideas about the rainforests and the implications for course
 design
@@ -375,26 +374,22 @@ have taste buds, the nerves serving these have degenerated or are rudimentary.
 The sense of touch has sometimes been described as weak too, but this view is
 probably mistaken. Trainers of captive dolphins and small whales often remark on
 their animals’ responsiveness to being touched or rubbed, and both captive and
-freeranging cetacean individuals of all species (particularly adults and calves, or
+free-ranging cetacean individuals of all species (particularly adults and calves, or
 members of the same subgroup) appear to make frequent contact. This contact may
 help to maintain order within a group, and stroking or touching are part of the
 courtship ritual in most species. The area around the blowhole is also particularly
 sensitive and captive animals often object strongly to being touched there.
 The sense of vision is developed to different degrees in different species. Baleen
-species studied at close quarters underwater – specifically a grey whale calf in cap-
-tivity for a year, and free-ranging right whales and humpback whales studied and
+species studied at close quarters underwater – specifically a grey whale calf in captivity for a year, and free-ranging right whales and humpback whales studied and
 
 ## Page 16
 
-filmed off Argentina and Hawaii – have obviously tracked objects with vision under-
-water, and they can apparently see moderately well both in water and in air. However,
-the position of the eyes so restricts the field of vision in baleen whales that they pro-
-bably do not have stereoscopic vision.
+filmed off Argentina and Hawaii – have obviously tracked objects with vision underwater, and they can apparently see moderately well both in water and in air. However,
+the position of the eyes so restricts the field of vision in baleen whales that they probably do not have stereoscopic vision.
 On the other hand, the position of the eyes in most dolphins and porpoises
 suggests that they have stereoscopic vision forward and downward. Eye position in
 freshwater dolphins, which often swim on their side or upside down while feeding,
-suggests that what vision they have is stereoscopic forward and upward. By compare-
-son, the bottlenose dolphin has extremely keen vision in water. Judging from the way
+suggests that what vision they have is stereoscopic forward and upward. By comparison, the bottlenose dolphin has extremely keen vision in water. Judging from the way
 it watches and tracks airborne flying fish, it can apparently see fairly well through the
 air–water interface as well. And although preliminary experimental evidence suggests
 that their in-air vision is poor, the accuracy with which dolphins leap high to take
@@ -431,7 +426,7 @@ Write your answers in boxes 15-21 on your answer sheet.
 | Taste | some types | poor | nerves linked to their 15 __________ are underdeveloped |
 | Touch | all | yes | region around the blowhole very sensitive |
 | Vision | 16 __________ | yes | probably do not have stereoscopic vision |
-| Vision | dolphins, porpoises | yes | probably have stereoscopic vision 17 __________ and __________ |
+| Vision | dolphins, porpoises | yes | probably have stereoscopic vision 17 __________ |
 | Vision | 18 __________ | yes | probably have stereoscopic vision forward and upward |
 | Vision | bottlenose dolphin | yes | exceptional in 19 __________ and good in air-water interface |
 | Vision | boutu and beiji | poor | have limited vision |
@@ -466,8 +461,7 @@ fact was drawn to my attention dramatically when a blind woman in one of my
 investigations decided on her own initiative to draw a wheel as it was spinning. To
 show this motion, she traced a curve inside the circle (Fig. 1). I was taken aback.
 Lines of motion, such as the one she used, are a very recent invention in the history of
-illustration. Indeed, as art scholar David Kunzle notes, Wilhelm Busch, a trend-set-
-ting nineteenth-century cartoonist, used virtually no motion lines in his popular
+illustration. Indeed, as art scholar David Kunzle notes, Wilhelm Busch, a trend-setting nineteenth-century cartoonist, used virtually no motion lines in his popular
 figures until about 1877.
 When I asked several other blind study subjects to draw a spinning wheel, one
 particularly clever rendition appeared repeatedly: several subjects showed the wheel’s
@@ -480,8 +474,7 @@ spokes as curved lines. When asked about these curves, they all described them a
 metaphorical ways of suggesting motion. Majority rule would argue that this device
 somehow indicated motion very well. But was it a better indicator than, say, broken
 or wavy lines – or any other kind of line, for that matter? The answer was not clear.
-So I decided to test whether various lines of motion were apt ways of showing move-
-ment or if they were merely idiosyncratic marks. Moreover, I wanted to discover
+So I decided to test whether various lines of motion were apt ways of showing movement or if they were merely idiosyncratic marks. Moreover, I wanted to discover
 whether there were differences in how the blind and the sighted interpreted lines of
 motion.
 To search out these answers, I created raised-line drawings of five different
@@ -497,20 +490,17 @@ spokes were taken as a sign that the wheel was jerking. Subjects assumed that sp
 extending beyond the wheel’s perimeter signified that the wheel had its brakes on and
 that dashed spokes indicated the wheel was spinning quickly.
 In addition, the favored description for the sighted was the favored description for
-the blind in every instance. What is more, the consensus among the sighted was bare-
+the blind in every instance. What is more, the consensus among the sighted was barely
 
 ## Page 22
 
-ly higher than that among the blind. Because motion devices are unfamiliar to the
+higher than that among the blind. Because motion devices are unfamiliar to the
 blind, the task I gave them involved some problem solving. Evidently, however, the
-blind not only figured out meanings for each line of motion, but as a group they gene-
-rally came up with the same meaning at least as frequently as did sighted subjects.
+blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects.
 Part 2
 We have found that the blind understand other kinds of visual metaphors as well.
 One blind woman drew a picture of a child inside a heart – choosing that symbol, she
-said, to show that love surrounded the child. With Chang Hong Liu, a doctoral stu-
-dent from China, I have begun exploring how well blind people understand the sym-
-bolism behind shapes such as hearts that do not directly represent their meaning. We
+said, to show that love surrounded the child. With Chang Hong Liu, a doctoral student from China, I have begun exploring how well blind people understand the symbolism behind shapes such as hearts that do not directly represent their meaning. We
 gave a list of twenty pairs of words to sighted subjects and asked them to pick from
 each pair the term that best related to a circle and the term that best related to a square.
 For example, we asked: What goes with soft? A circle or a square? Which shape goes
@@ -518,8 +508,7 @@ with hard?
 All our subjects deemed the circle soft and the square hard. A full 94% ascribed
 happy to the circle, instead of sad. But other pairs revealed less agreement: 79%
 matched fast to slow and weak to strong, respectively. And only 51% linked deep to
-circle and shallow to square. (See Fig. 2) When we tested four totally blind volun-
-teers using the same list, we found that their choices closely resembled those made by
+circle and shallow to square. (See Fig. 2) When we tested four totally blind volunteers using the same list, we found that their choices closely resembled those made by
 the sighted subjects. One man, who had been blind since birth, scored extremely well.
 He made only one match differing from the consensus, assigning ‘far’ to square and
 
@@ -618,8 +607,7 @@ words
 Question 40
 Choose the correct letter, A, B, C or D.
 Write your answer in box 40 on your answer sheet.
-Which of the following statements best summarizes the writer’s general
-conclusion?
+Which of the following statements best summarizes the writer’s general conclusion?
 A The blind represent some aspects of reality differently from sighted people.
 B The blind comprehend visual metaphors in similar ways to sighted people.
 C The blind may create unusual and effective symbols to represent reality.
@@ -949,7 +937,7 @@ about to disappear. Navajo is considered endangered despite having 150,000 speak
 What makes a language endangered is not just the number of speakers, but how old they
 are. If it is spoken by children it is relatively safe. The critically endangered languages are
 those that are only spoken by the elderly, according to Michael Krauss, director of the
-Alassk Native Language Center, in Fairbanks.
+Alaska Native Language Center, in Fairbanks.
 Why do people reject the language of their parents? It begins with a crisis of
 confidence, when a small community finds itself alongside a larger, wealthier society,
 says Nicholas Ostler, of Britain’s Foundation for Endangered Languages, in Bath.
@@ -982,11 +970,11 @@ So despite linguists’ best efforts, many languages will disappear over the nex
 But a growing interest in cultural identity may prevent the direst predictions from coming
 true. ‘The key to fostering diversity is for people to learn their ancestral tongue, as well
 as the dominant language,’ says Doug Whalen, founder and president of the Endangered
-Language Fund in New Haven, Connecticut . ‘Most of these languages will not survive
+Language Fund in New Haven, Connecticut. ‘Most of these languages will not survive
 without a large degree of bilingualism,’ he says. In New Zealand, classes for children
 have slowed the erosion of Maori and rekindled interest in the language. A similar
 approach in Hawaii has produced about 8,000 new speakers of Polynesian languages in
-the past few years. In California,‘apprentice’ programs have provided life support to
+the past few years. In California, ‘apprentice’ programs have provided life support to
 several indigenous languages. Volunteer ‘apprentices’ pair up with one of the last living
 speakers of a Native American tongue to learn a traditional skill such as basket weaving,
 with instruction exclusively in the endangered language. After about 300 hours of
@@ -1012,12 +1000,12 @@ world, factors such as government initiatives and 2___________ are contributing 
 huge decrease in the number of languages. One factor which may help to ensure that
 some endangered languages do not die out completely is people’s increasing appreciation
 of their 3_________. This has been encouraged through programs of language classes for
-children and through‘apprentice’ schemes, in which the endangered language is used as
+children and through ‘apprentice’ schemes, in which the endangered language is used as
 the medium of instruction to teach people a 4__________. Some speakers of endangered
 
 ## Page 47
 
-languages have been produced writing systems in order to help secure the survival of
+languages have produced writing systems in order to help secure the survival of
 their mother tongue.
 Questions 5—9
 Look at the following statements(Questions5—9)and the list of people in the
@@ -1066,7 +1054,7 @@ alternative therapies have come in their struggle for acceptance by the medical
 establishment.
 Australia has been unusual in the Western world in having a very conservative
 attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public
-Health at the University of Sydney.‘We’ve had a tradition of doctors being fairly
+Health at the University of Sydney. ‘We’ve had a tradition of doctors being fairly
 powerful and I guess they are pretty loath to allow any pretenders to their position to
 come into it.’ In many other industrialized countries, orthodox and alternative medicine
 have worked‘hand in glove’ for years. In Europe, only orthodox doctors can prescribe
@@ -1081,13 +1069,13 @@ acupuncturist or herbalist in the two weeks prior to the survey. By 1990, this f
 risen to 2.6% of the population. The 550,000 consultations with alternative therapists
 reported in the 1990 survey represented about an eighth of the total number of
 consultations with medically qualified personnel covered by the survey, according to Dr
-Laver and colleagues writing in the Australian Journal of Public Health in1993. ‘A
+Laver and colleagues writing in the Australian Journal of Public Health in 1993. ‘A
 
 ## Page 50
 
 better educated and less accepting public has become disillusioned with the experts in
 general, and increasingly skeptical about science and empirically based knowledge,’ they
-said.‘The high standing of professionals, including doctors, has been eroded as a
+said. ‘The high standing of professionals, including doctors, has been eroded as a
 consequence.’
 Rather than resisting or criticizing this trend, increasing numbers of Australian
 doctors, particularly younger ones, are forming group practices with alternative therapists
@@ -1098,7 +1086,7 @@ might want to be able to offer a similar service.'
 In 1993, Dr Laver and his colleagues published a survey of 289 Sydney people who
 attended eight alternative therapists’ practices in Sydney. These practices offered a wide
 range of alternative therapies from 25 therapists. Those surveyed had experienced
-chronicillnesses, for which orthodox medicine had been able to provide little relief. They
+chronic illnesses, for which orthodox medicine had been able to provide little relief. They
 commented that they liked the holistic approach of their alternative therapists and the
 friendly, concerned and detailed attention they had received. The cold, impersonal
 manner of orthodox doctors featured in the survey. An increasing exodus from their
@@ -1226,9 +1214,9 @@ importance of environmental data to the brain during development,’ he says.
 F According to Byers, the timing of the playful stage in young animals provides an
 important clue to what’s going on. If you plot the amount of time a juvenile devotes to
 play each day over the course of its development, you discover a pattern typically
-associated with a ‘sensitive period’-a brief development window during which the brain
+associated with a ‘sensitive period’—a brief development window during which the brain
 can actually be modified in ways that are not possible earlier or later in life. Think of the
-relative ease with which young children-but not infants or adults-absorb language. Other
+relative ease with which young children—but not infants or adults—absorb language. Other
 researchers have found that play in cats, rats and mice is at its most intense just as this
 ‘window of opportunity’ reaches its peak.
 G ‘People have not paid enough attention to the amount of the brain activated by play,’
@@ -1236,15 +1224,15 @@ says Marc Bekoff from Colorado University. Bekoff studied coyote pups at play an
 found that the kind of behavior involved was markedly more variable and unpredictable
 than that of adults. Such behavior activates many different parts of the brain, he reasons.
 Bekoff likens it to a behavioral kaleidoscope, with animals at play jumping rapidly
-between activities. ‘They use behavior from a lot of different context-- predation,
+between activities. ‘They use behavior from a lot of different contexts—predation,
 aggression, reproduction,’ he says. ‘Their developing brain is getting all sorts of
 stimulation.’
 H Not only is more of the brain involved in play than was suspected, but it also seems
 
 ## Page 57
 
-to activate higher cognitive processes. ‘There’s enormous cognitive, involvement in play,’
-says Bekoof. He points out that play often involves complex assessments of playmates,
+to activate higher cognitive processes. ‘There’s enormous cognitive involvement in play,’
+says Bekoff. He points out that play often involves complex assessments of playmates,
 ideas of reciprocity and the use of specialized signals and rules. He believes that play
 creates a brain that has greater behavioral flexibility and improved potential for learning
 later in life. The idea is backed up by the work of Stephen Siviy of Gettysburg College.
@@ -1600,7 +1588,7 @@ You should spend about 20 minutes on Questions 1—13 which are based on
 Reading Passage 1 below.
 Micro-Enterprise Credit for Street Youth
 ‘I am from a large, poor family and for many years we have done without breakfast. Ever
-since I joined the Street Kids International program I have been able to buy my family
+since I joined the Street Kids International programme I have been able to buy my family
 sugar and buns for breakfast. I have also bought myself decent second-hand clothes and
 shoes.’
 Doreen Soko
@@ -1671,7 +1659,7 @@ development of basic business and life skills.
 • There are tremendous advantages to involving parents or guardians in the program,
 where such relationships exist. Home visits allow staff the opportunity to know where
 the participants live, and to understand more about each individual’s situation.
-• Small loans are provided initially for purchasing fixed assets such as bicycles, shoe
+Small loans are provided initially for purchasing fixed assets such as bicycles, shoe
 shine kits and basic building materials for a market stall. As the entrepreneurs gain
 experience, the enterprises can be gradually expanded and consideration can be given
 to increasing loan amounts. The loan amount in S.K.I. programs have generally
@@ -1747,7 +1735,7 @@ NOT GIVEN if it is impossible to say what the writer thinks about this
 
 11 Only one fixed loan should be given to each child.
 12 The children have to pay back slightly more money than they borrowed.
-Questions 1-3
+Questions 13
 Choose the correct letter, A, B, C or D.
 Write your answer in box 13 on your answer sheet.
 The writers conclude that money should only be lent to street children
@@ -1759,19 +1747,19 @@ D if the projects planned are realistic and useful.
 ## Page 82
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26 which are based on
+You should spend about 20 minutes on Questions 14—26 which are based on
 Reading Passage 2 on the following pages.
-Questions 1-3
+Questions 13
 Reading Passage 2 has four sections A—D.
 Choose the correct heading for each section from the list of headings below.
-Write the correct numberⅠ—Ⅵ in the boxes 14-17 on your answer sheet.
+Write the correct number I — VI in the boxes 14—17 on your answer sheet.
 List of Headings
-Ⅰ Causes of volcanic eruption
-Ⅱ Efforts to predict volcanic eruption
-Ⅲ Volcanoes and the features of our planet
-Ⅳ Different types of volcanic eruption
-Ⅴ International relief efforts
-Ⅵ The unpredictability of volcanic eruptions
+I Causes of volcanic eruption
+II Efforts to predict volcanic eruption
+III Volcanoes and the features of our planet
+IV Different types of volcanic eruption
+V International relief efforts
+VI The unpredictability of volcanic eruptions
 14 Section A
 15 Section B
 16 Section C
@@ -1818,7 +1806,7 @@ bumping and grinding against each other, or even overlapping, at the rate of a f
 centimeters a year. These fracture zones, where the collisions occur, are where
 earthquakes happen. And, very often, volcanoes.
 C These zones are lines of weakness, or hot spots. Every eruption is different, but put at
-its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350℃，
+its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C,
 will start to expand and rise. As they do so, the pressure drops, and they expand and
 become liquid and rise more swiftly.
 Sometimes it is slow: vast bubbles of magma — molten rock from the mantle —
@@ -1865,10 +1853,10 @@ Tambora in Indonesia. The eruption was so fierce that dust thrown into the strat
 darkened the skies, cancelling the following summer in Europe and North America.
 Thousands starved as the harvests failed, after snow in June and frosts in August.
 Volcanoes are potentially world news, especially the quiet ones.
-Questions 18-21
+Questions 18—21
 Answer the questions below using NO MORE THAN THREE WORDS
 AND/OR A NUMBER from the passage for each answer.
-Write your answers in boxes 18-21 on your answer sheet.
+Write your answers in boxes 18—21 on your answer sheet.
 18 What are the sections of the earth’s crust, often associated with volcanic activity,
 called?
 19 What is the name given to molten rock from the mantle?
@@ -1894,18 +1882,14 @@ This happens because the magma moves so suddenly that 26_________ are emitted.
 ## Page 88
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40 which are based on
+You should spend about 20 minutes on Questions 27—40 which are based on
 Reading Passage 3 below.
 Obtaining Linguistic Data
 A Many procedures are available for obtaining data about a language. They range from
-a carefully planned, intensive field investigation in a foreign country to a casual intro-
-spection about one's mother tongue carried out in an armchair at home.
-B In all cases, someone has to act as a source of language data — an informant. Infor-
-mants are (ideally) native speakers of a language, who provide utterances for analysis and
-other kinds of information about the language (e.g. translations, comments about correct-
-ness, or judgments on usage). Often, when studying their mother tongue, linguists act as
-their own informants, judging the ambiguity, acceptability, or other properties of utte-
-rances against their own intuitions. The convenience of this approach makes it widely
+a carefully planned, intensive field investigation in a foreign country to a casual introspection about one's mother tongue carried out in an armchair at home.
+B In all cases, someone has to act as a source of language data — an informant. Informants are (ideally) native speakers of a language, who provide utterances for analysis and
+other kinds of information about the language (e.g. translations, comments about correctness, or judgments on usage). Often, when studying their mother tongue, linguists act as
+their own informants, judging the ambiguity, acceptability, or other properties of utterances against their own intuitions. The convenience of this approach makes it widely
 used, and it is considered the norm in the generative approach to linguistics. But a
 linguist’s personal judgments are often uncertain, or disagree with the judgments of other
 linguists, at which point recourse is needed to more objective methods of enquiry, using
@@ -1919,21 +1903,18 @@ described before), two people interacting, small groups or large-scale samples. 
 
 social background and other aspects of identity are important, as these factors are known
 to influence the kind of language used. The topic of conversation and the characteristics
-of the social setting (e.g. the level of formality) are also highly relevant, as are the per-
-sonal qualities of the informants (e.g. their fluency and consistency). For larger studies,
+of the social setting (e.g. the level of formality) are also highly relevant, as are the personal qualities of the informants (e.g. their fluency and consistency). For larger studies,
 scrupulous attention has been paid to the sampling theory employed, and in all cases,
 decisions have to be made about the best investigative techniques to use.
 D Today, researchers often tape-record informants. This enables the linguist’s claims
 about the language to be checked, and provides a way of making those claims more
-accurate (‘difficult’pieces of speech can be listened to repeatedly). But obtaining natural-
-istic, good-quality data is never easy. People talk abnormally when they know they are
+accurate (‘difficult’ pieces of speech can be listened to repeatedly). But obtaining naturalistic, good-quality data is never easy. People talk abnormally when they know they are
 being recorded, and sound quality can be poor. A variety of tape-recording procedures
 have thus been devised to minimize the ‘observer’s paradox’ (how to observe the way
 people behave when they are not being observed). Some recordings are made without the
 speakers being aware of the fact — a procedure that obtains very natural data, though
 ethical objections must be anticipated. Alternatively, attempts can be made to make the
-speaker forget about the recording, such as keeping the tape recorder out of sight, or us-
-ing radio microphones. A useful technique is to introduce a topic that quickly involves
+speaker forget about the recording, such as keeping the tape recorder out of sight, or using radio microphones. A useful technique is to introduce a topic that quickly involves
 the speaker, and stimulates a natural language style (e.g. asking older informants about
 how times have changed in their locality).
 E An audio tape recording does not solve all the linguist’s problems, however. Speech
@@ -1948,35 +1929,28 @@ a large extent, but even they have limitations (the camera cannot be everywhere)
 transcriptions always benefit from any additional commentary provided by an observer.
 F Linguists also make great use of structured sessions, in which they systematically ask
 their informants for utterances that describe certain actions, objects or behavior. With a
-bilingual informant, or through use of an interpreter, it is possible to use translation tech-
-niques (‘How do you say table in your language?’). A large number of points can be
-covered in a short time, using interview worksheets and questionnaires. Often, the re-
-searcher wishes to obtain information about just a single variable, in which case a re-
-stricted set of questions may be used: a particular feature of pronunciation, for example,
+bilingual informant, or through use of an interpreter, it is possible to use translation techniques (‘How do you say table in your language?’). A large number of points can be
+covered in a short time, using interview worksheets and questionnaires. Often, the researcher wishes to obtain information about just a single variable, in which case a restricted set of questions may be used: a particular feature of pronunciation, for example,
 can be elicited by asking the informant to say a restricted set of words. There are also
 several direct methods of elicitation, such as asking informants to fill in the blanks in a
-substitution frame (e.g. I ___ see a car), or feeding them the wrong stimulus for correc-
-tion (‘Is it possible to say I no can see?’).
+substitution frame (e.g. I ___ see a car), or feeding them the wrong stimulus for correction (‘Is it possible to say I no can see?’).
 G A representative sample of language, compiled for the purpose of linguistic analysis,
 is known as a corpus. A corpus enables the linguist to make unbiased statements about
 frequency of usage, and it provides accessible data for the use of different researchers. Its
-range and size are variable. Some corpora attempt to cover the language as a whole, tak-
-ing extracts from many kinds of text; others are extremely selective, providing a collec-
-tion of material that deals only with a particular linguistic feature. The size of the corpus
+range and size are variable. Some corpora attempt to cover the language as a whole, taking extracts from many kinds of text; others are extremely selective, providing a collection of material that deals only with a particular linguistic feature. The size of the corpus
 depends on practical factors, such as the time available to collect, process and store the
 
 ## Page 91
 
 data: it can take up to several hours to provide an accurate transcription of a few minutes
-of speech. Sometimes a small sample of data will be enough to decide a linguistic hypo-
-thesis; by contrast, corpora in major research projects can total millions of words. An
+of speech. Sometimes a small sample of data will be enough to decide a linguistic hypothesis; by contrast, corpora in major research projects can total millions of words. An
 important principle is that all corpora, whatever their size, are inevitably limited in their
 coverage, and always need to be supplemented by data derived from the intuitions of
 native speakers of the language, through either introspection or experimentation.
-Questions 27-31
+Questions 27—31
 Reading Passage 3 has seven paragraphs labeled A—G.
 Which paragraph contains the following information?
-Write the correct letter A—G in boxes 27-31 on your answer sheet.
+Write the correct letter A—G in boxes 27—31 on your answer sheet.
 NB You may use any letter more than once.
 27 the effect of recording on the way people talk
 28 the importance of taking notes on body language
@@ -2000,11 +1974,11 @@ Write your answers in boxes 32-36 on your answer sheet.
 
 ## Page 93
 
-Questions 37-40
+Questions 37—40
 Complete the summary of paragraph G below.
 Choose NO MORE THAN THREE WORDS from the passage for each
 answer.
-Write your answers in boxes 37-40 on your answer sheet.
+Write your answers in boxes 37—40 on your answer sheet.
 A linguist can use a corpus to comment objectively on 37__________. Some corpora
 include a wide range of language while others are used to focus on a 38__________. The
 length of time the process takes will affect the 39__________ of the corpus. No corpus
@@ -2264,8 +2238,7 @@ You should spend about 20 minutes on Questions 1—13 which are based on
 Reading Passage 1 below.
 How Much Higher? How Much Faster?
 — Limits to human sporting performance are not yet in sight —
-Since the early years of the twentieth century, when the International Athletic Federa-
-tion began keeping records, there has been a steady improvement in how fast athletes run,
+Since the early years of the twentieth century, when the International Athletic Federation began keeping records, there has been a steady improvement in how fast athletes run,
 how high they jump and how far they are able to hurl massive objects, themselves
 included, through space. For the so-called power events — that require a relatively brief,
 explosive release of energy, like the 100-metre sprint and the long jump — times and
@@ -2273,18 +2246,15 @@ distances have improved ten to twenty percent. In the endurance events the resul
 been more dramatic. At the 1908 Olympics, John Hayes of the U.S. team ran a marathon
 in a time of 2:55:18. In 1999, Morocco's Khalid Khannouchi set a new world record of
 2:05:42, almost thirty percent faster.
-No one theory can explain improvements in performance, but the most important fac-
-tor has been genetics. ‘The athlete must choose his parents carefully,’ says Jesus Dapena,
+No one theory can explain improvements in performance, but the most important factor has been genetics. ‘The athlete must choose his parents carefully,’ says Jesus Dapena,
 a sports scientist at Indiana University, invoking an oft-cited adage. Over the past century,
 the composition of the human gene pool has not changed appreciably, but with increasing
 global participation in athletics — and greater rewards to tempt athletes — it is more
 
 ## Page 108
 
-likely that individuals possessing the unique complement of genes for athletic perfor-
-mance can be identified early. ‘Was there someone like [sprinter] Michael Johnson in the
-1920s?’ Dapena asks. ‘I’m sure that there was, but his talent was probably never realiz-
-ed.’
+likely that individuals possessing the unique complement of genes for athletic performance can be identified early. ‘Was there someone like [sprinter] Michael Johnson in the
+1920s?’ Dapena asks. ‘I’m sure that there was, but his talent was probably never realized.’
 Identifying genetically talented individuals is only the first step. Michael Yessis, an
 emeritus professor of Sports Science at California State University at Fullerton, maintains
 that ‘genetics only determines about one third of what an athlete can do. But with the
@@ -2315,15 +2285,13 @@ in motion. A biomechanics films an athlete in action and then digitizes her perf
 recording the motion of every joint and limb in three dimensions. By applying Newton’s
 laws to these motions, ‘we can say that this athlete’s run is not fast enough; that this one
 is not using his arms strongly enough during take-off,’ says Dapena, who uses these
-methods to help high jumpers. To date, however, biomechan- ics has made only a small
+methods to help high jumpers. To date, however, biomechanics has made only a small
 difference to athletic performance.
 Revolutionary ideas still come from the athletes themselves. For example, during the
 1968 Olympics in Mexico City, a relatively unknown high jumper named Dick Fosbury
 won the gold by going over the bar backwards, in complete contradiction of all the
-received high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury him-
-self did not know what he was doing. That understanding took the later analysis of bio-
-mechanics, who put their minds to comprehending something that was too complex and
-unorthodox ever to have been invented through their own mathe- maticcal simula- tions.
+received high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury himself did not know what he was doing. That understanding took the later analysis of biomechanics, who put their minds to comprehending something that was too complex and
+unorthodox ever to have been invented through their own mathematiccal simulations.
 Fosbury also required another element that lies behind many improvements in athletic
 performance: an innovation in athletic equipment. In Fosbury’s case, it was the cushions
 that jumpers land on. Traditionally, high jumpers would land in pits filled with sawdust.
@@ -2342,7 +2310,7 @@ made to be broken.
 Questions 1—6
 Do the following statements agree with the information given in Reading
 Passage 1?
-In boxes 1-6 on your answer sheet write
+In boxes 1—6 on your answer sheet write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
@@ -2392,7 +2360,7 @@ D theoretical.
 ## Page 113
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-27 which are based on
+You should spend about 20 minutes on Questions 14—27 which are based on
 Reading Passage 2 below.
 The Nature and Aims of Archaeology
 Archaeology is partly the discovery of the treasures of the past, partly the careful
@@ -2400,18 +2368,15 @@ work of the scientific analyst, partly the exercise of the creative imagination.
 in the sun on an excavation in the Middle-East, it is working with living Inuit in the
 snows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the
 painstaking task of interpretation, so that we come to understand what these things mean
-for the human story. And it is the conservation of the world's cultural heritage against
+for the human story. And it is the conservation of the world’s cultural heritage against
 looting and careless harm.
-Archaeology, then, is both a physical activity out in the field, and an intellectual pur-
-suit in the study or laboratory. That is part of its great attraction. The rich mixture of dan-
-ger and detective work has also made it the perfect vehicle for fiction writers and film-
-makers, from Agatha Christie with Murder in Mesopotamia to Stephen Spielberg with
+Archaeology, then, is both a physical activity out in the field, and an intellectual pursuit in the study or laboratory. That is part of its great attraction. The rich mixture of danger and detective work has also made it the perfect vehicle for fiction writers and film-makers, from Agatha Christie with Murder in Mesopotamia to Stephen Spielberg with
 Indiana Jones. However far from reality such portrayals are, they capture the essential
 truth that archaeology is an exciting quest — the quest for knowledge about ourselves
 and our past.
 But how does archaeology relate to disciplines such as anthropology and history, that
 are also concerned with the human story? Is archaeology itself a science? And what are
-the responsibilities of the archaeologist in today's world?
+the responsibilities of the archaeologist in today’s world?
 
 ## Page 114
 
@@ -2419,9 +2384,7 @@ Anthropology, at its broadest, is the study of humanity — our physical charact
 as animals and our unique non-biological characteristics that we call culture. Culture in
 this sense includes what the anthropologist, Edward Tylor, summarized in 1871 as
 ‘knowledge, belief, art, morals, custom and any other capabilities and habits acquired by
-man as a member of society’. Anthropologists also use the term ‘culture’ in a more re-
-stricted sense when they refer to the ‘culture’ of a particular society, meaning the non-
-biological characteristics unique to that society, which distinguish it from other societies.
+man as a member of society’. Anthropologists also use the term ‘culture’ in a more restricted sense when they refer to the ‘culture’ of a particular society, meaning the non-biological characteristics unique to that society, which distinguish it from other societies.
 Anthropology is thus a broad discipline — so broad that it is generally broken down into
 three smaller disciplines: physical anthropology, cultural anthropology and archaeology.
 Physical anthropology, or biological anthropology as it is also called, concerns the
@@ -2430,8 +2393,7 @@ anthropology — or social anthropology — analyses human culture and society. 
 its branches are ethnography (the study at first hand of individual living cultures) and
 ethnology (which sets out to compare cultures using ethnographic evidence to derive
 general principles about human society).
-Archaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropolo-
-gists will often base their conclusions on the experience of living within contemporary
+Archaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropologists will often base their conclusions on the experience of living within contemporary
 communities, archaeologists study past societies primarily through their material remains
 — the buildings, tools and other artefacts that constitutes what is known as the material
 culture left over from former societies.
@@ -2440,21 +2402,18 @@ how to interpret material culture in human terms. How were those pots used? Why 
 
 ## Page 115
 
-some dwellings round and others square? Here the methods of archaeology and ethno-
-graphy overlap. Archaeologists in recent decades have developed ‘ethnography’, where,
+some dwellings round and others square? Here the methods of archaeology and ethnography overlap. Archaeologists in recent decades have developed ‘ethnography’, where,
 like ethnographers, they live among contemporary communities, but with the specific
 purpose of learning how such societies use material culture — how they make their
 tools and weapons, why they build their settlements where they do, and so on. Moreover,
-archaeology has an active role to play in the field of conservation. Heritage studies con-
-stitutes a developing field, where it is realized that the world’s cultural heritage is a
+archaeology has an active role to play in the field of conservation. Heritage studies constitutes a developing field, where it is realized that the world’s cultural heritage is a
 diminishing resource which holds different meanings for different people.
 If, then archaeology deals with the past, in what way does it differ from history? In
 the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of
 history — where we mean the whole history of humankind from its beginnings over
 three million years ago. Indeed, for more than ninety-nine percent of that huge span of
 time, archaeology — the study of past material culture — is the only significant source
-of information. Conventional historical sources begin only with the introduction of writt-
-en records around 3000 BC in western Asia, and much later in most other parts of the
+of information. Conventional historical sources begin only with the introduction of written records around 3000 BC in western Asia, and much later in most other parts of the
 world.
 A commonly drawn distinction is between pre-history, i.e. the period before written
 records — and history in the narrow sense, meaning the study of the past using written
@@ -2476,10 +2435,10 @@ hypothesis, tests the hypothesis against more data, and then, in conclusion, dev
 model that seems best to summarize the pattern observed in the data. The archaeologist
 has to develop a picture of the past, just as the scientist has to develop a coherent view of
 the natural world.
-Questions 14-19
+Questions 14—19
 Do the following statements agree with the claims of the writer in Reading
 Passage 2?
-In boxes 14-19 on your answer sheet write
+In boxes 14—19 on your answer sheet write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
@@ -2515,10 +2474,10 @@ B studying cave art to determine its significance
 C deducing reasons for the shape of domestic buildings
 D investigating the way different cultures make and use objects.
 E examining evidence for past climate changes
-Questions 24-27
+Questions 24—27
 Complete the summary of the last two paragraphs of Reading Passage 2.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 24-27 on your answer sheet.
+Write your answers in boxes 24—27 on your answer sheet.
 Much of the work of archaeologists can be done using written records but they find
 24_______________ equally valuable. The writer describes archaeology as both a
 25_______________ and a 26_______________. However, as archaeologists do not try
@@ -2528,13 +2487,13 @@ to influence human behavior, the writer compares their style of working to that 
 ## Page 119
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 28-40 which are based on
+You should spend about 20 minutes on Questions 28—40 which are based on
 Reading Passage 3 on the following pages.
-Questions 28-31
+Questions 28—31
 Reading Passage 3 has five sections A—E.
 Choose the correct heading for section A and C—E from the list of headings
 below.
-Write the correct number i—viii in the boxes 28-31 on your answer sheet.
+Write the correct number i—viii in the boxes 28—31 on your answer sheet.
 List of Headings
 i The connection between health-care and other human rights
 ii The development of market-based health systems
@@ -2545,7 +2504,6 @@ vi The views of the medical establishment
 vii The end of an illusion
 viii Sustainable economic development
 28 Section A
-29
 Example Answer
 Section B viii
 
@@ -2645,10 +2603,10 @@ Write the correct letter A, B or C in boxes 32—35 on your answer sheet.
 34 a belief that all the health-care resources the community needed would be produced
 by economic growth
 35 an acceptance of the role of the state in guaranteeing the provision of health-care
-Questions 36-40
+Questions 36—40
 Do the following statements agree with the views of the writer in Reading
 Passage 3?
-In boxes 36-40 on your answer sheet write
+In boxes 36—40 on your answer sheet write
 YES if the statement agrees with the views of the writer
 NO if the statement contradicts the views of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this

@@ -146,9 +146,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 1,
-        "printedTest": 5
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -190,9 +188,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 1,
-        "printedTest": 5
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -344,9 +340,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 2,
-        "printedTest": 6
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -377,9 +371,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 2,
-        "printedTest": 6
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -395,13 +387,11 @@
     },
     {
       "page": 48,
-      "text": "Test 6\nQuestions 27–31\nComplete the table below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 27–31 on your answer sheet.\n\n| Test | Findings |\n| --- | --- |\n| Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects | Bilingual people engage both languages simultaneously: a mechanism known as 28 __________. |\n| A test called the 29 __________, focusing on naming colours | Bilingual people are more able to handle tasks involving a skill called 30 __________. |\n| A test involving switching between tasks | When changing strategies, bilingual people have superior 31 __________. |\n\nQuestions 32–36\nDo the following statements agree with the claims of the writer in Reading Passage 3?\nIn boxes 32–36 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n\n32 Attitudes towards bilingualism have changed in recent years.\n33 Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.\n34 Bilingual people consistently name images faster than monolingual people.\n35 Bilingual people’s brains process single sounds more efficiently than monolingual people in all situations.\n36 Fewer bilingual people than monolingual people suffer from brain disease in old age.\n\n48",
+      "text": "Questions 27-31\nComplete the table below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 27-31 on your answer sheet.\n\n| Test | Findings |\n| --- | --- |\n| Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects | Bilingual people engage both languages simultaneously: a mechanism known as 28 __________. |\n| A test called the 29 __________, focusing on naming colours | Bilingual people are more able to handle tasks involving a skill called 30 __________. |\n| A test involving switching between tasks | When changing strategies, bilingual people have superior 31 __________. |",
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 2,
-        "printedTest": 6
+        "reason": "structured_table_repair"
       }
     },
     {
@@ -510,9 +500,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 3,
-        "printedTest": 7
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -543,9 +531,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 3,
-        "printedTest": 7
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -576,9 +562,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "manual_reading_test_reconstruction",
-        "bookTest": 3,
-        "printedTest": 7
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -1051,8 +1035,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "false_positive_text_page",
-        "image": "data/generated/image-review/cambridge-ielts-12/page-124.png"
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -1066,8 +1049,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "false_positive_text_page",
-        "image": "data/generated/image-review/cambridge-ielts-12/page-126.png"
+        "reason": "false_positive_text_page"
       }
     },
     {
@@ -1099,8 +1081,7 @@
       "engine": "paddleocr_gpu",
       "calibration": {
         "status": "calibrated",
-        "reason": "false_positive_text_page",
-        "image": "data/generated/image-review/cambridge-ielts-12/page-130.png"
+        "reason": "false_positive_text_page"
       }
     },
     {

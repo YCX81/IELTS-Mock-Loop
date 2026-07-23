@@ -198,7 +198,7 @@ and electric (39)………………….. or, in future, by (40)……………�
 Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1 - 13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The kākāpō
 The kākāpō is a nocturnal, flightless parrot that is critically endangered and one
@@ -213,7 +213,7 @@ They forage on the ground and climb high into trees. They often leap from trees
 and flap their wings, but at best manage a controlled descent to the ground. They
 are entirely vegetarian, with their diet including the leaves, roots and bark of trees
 as well as bulbs, and fern fronds.
-Kakap6 breed in summer and autumn, but only in years when food is plentiful.
+Kākāpō breed in summer and autumn, but only in years when food is plentiful.
 Males play no part in incubation or chick-rearing - females alone incubate eggs
 and feed the chicks. The 1-4 eggs are laid in soil, which is repeatedly turned over
 before and during incubation. The female kākāpō has to spend long periods away
@@ -227,7 +227,7 @@ Before humans arrived, kākāpō were common throughout New Zealand's forests.
 However, this all changed with the arrival of the first Polynesian settlers about
 700 years ago. For the early settlers, the flightless kākāpō was easy prey. They
 ate its meat and used its feathers to make soft cloaks. With them came the
-Polynesian dog and rat, which also preyed on kakap6. By the time European
+Polynesian dog and rat, which also preyed on kākāpō. By the time European
 colonisers arrived in the early 1800s, kākāpō had become confined to the central
 North Island and forested parts of the South Island. The fall in kākāpō numbers
 was accelerated by European colonisation. A great deal of habitat was lost
@@ -284,55 +284,48 @@ the preservation of the species.
 ## Page 14
 
 Test 1
-Questions 1-6
+Questions 1–6
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-6 on your answer sheet, write
+In boxes 1–6 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-1. There are other parrots that share the kākāpō's inability to fly.
-2. Adult kākāpō produce chicks every year.
-3. Adult male kākāpō bring food back to nesting females.
-4. The Polynesian rat was a greater threat to the kākāpō than Polynesian
-settlers.
-5. Kākāpō were transferred from Rakiura Island to other locations because they
-were at risk from feral cats.
-6. One Recovery Plan initiative that helped increase the kākāpō population size
-was caring for struggling young birds.
+1 There are other parrots that share the kākāpō's inability to fly.
+2 Adult kākāpō produce chicks every year.
+3 Adult male kākāpō bring food back to nesting females.
+4 The Polynesian rat was a greater threat to the kākāpō than Polynesian settlers.
+5 Kākāpō were transferred from Rakiura Island to other locations because they were at risk from feral cats.
+6 One Recovery Plan initiative that helped increase the kākāpō population size was caring for struggling young birds.
 14
 
 ## Page 15
 
 Reading
-Questions 7-13
+Questions 7–13
 Complete the notes below.
 Choose ONE WORD AND/OR A NUMBER from the passage for each answer.
-Write your answers in boxes 7 –13 on your answer sheet.
-New Zealand’s kākāpō
+Write your answers in boxes 7–13 on your answer sheet.
+[Bordered notes: New Zealand’s kākāpō]
 A type of parrot:
-• diet consists of fern fronds, various parts of a tree and (7)…………………………
-• nests are created in (8)…………………………… where eggs are laid.
+• diet consists of fern fronds, various parts of a tree and 7 __________
+• nests are created in 8 __________ where eggs are laid.
 Arrival of Polynesian settlers
-• the (9)……………………….. of the kākāpō were used to make clothes.
+• the 9 __________ of the kākāpō were used to make clothes.
 Arrival of European colonisers
-• (10)……………………………… were an animal which they introduced that ate the
-kākāpō's food sources.
+• 10 __________ were an animal which they introduced that ate the kākāpō's food sources.
 Protecting kākāpō
 • Richard Henry, a conservationist, tried to protect the kākāpō.
-• a definite sighting of female kākāpō on Rakiura Island was reported in the
-year (11)……………………...
-• the Recovery Plan included an increase in (12)…………………………..
-• a current goal of the Recovery Plan is to maintain the involvement of
-(13)………………………….. in kākāpō protection.
+• a definite sighting of female kākāpō on Rakiura Island was reported in the year 11 __________
+• the Recovery Plan included an increase in 12 __________
+• a current goal of the Recovery Plan is to maintain the involvement of 13 __________ in kākāpō protection.
 15
 
 ## Page 16
 
 Test 1
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
-Reading
-to Britain
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+To Britain
 Mark Rowe investigates attempts to reintroduce elms to Britain
 A Around 25 million elms, accounting for 90% of all elm trees in the UK, died
 during the 1960s and '70s of Dutch elm disease. In the aftermath, the elm, once so
@@ -393,8 +386,7 @@ doorstep,' says Bourne.
 
 F Any prospect of the elm returning relies heavily on trees being either
 resistant to, or tolerant of, the disease. This means a widespread reintroduction
-would involve existing or new hybrid strains derived from resistant, generally non-
-native elm species. A new generation of seedlings have been bred and tested to
+would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to
 see if they can withstand the fungus by cutting a small slit on the bark and
 injecting a tiny amount of the pathogen. 'The effects are very quick,' says Russell.
 'You return in four to six weeks and trees that are resistant show no symptoms,
@@ -416,60 +408,47 @@ existing species
 
 ## Page 19
 
-Questions 14-18
-Reading Passage 2 has seven sections, A-G.
-Which section contains the following information? NB You may use any letter more
-than once.
-Column 1 A B C D E F G
-14. reference to the research problems that arise
-from there being only a few surviving large elms
-15. details of a difference of opinion about the
-value of reintroducing elms to Britain
-16. reference to how Dutch elm disease was
-brought into Britain
-17. a description of the conditions that have
-enabled a location in Britain to escape Dutch elm
-disease
-18.reference to the stage at which young elms
-become vulnerable to Dutch elm disease
-Questions 19-23
-Look at the following statements (Questions 1 23) and the list of people below. Match
-each statement with the correct person, A, B, or C.
+Test 1
+Questions 14–18
+Reading Passage 2 has seven sections, A–G.
+Which section contains the following information?
 NB You may use any letter more than once.
-19. If a tree gets infected with Dutch elm disease, the damage rapidly becomes
-visible.
-20. It may be better to wait and see if the mature elms that have survived
-continue to flourish.
-21. There must be an explanation for the survival of some mature elms.
-22. We need to be aware that insects carrying Dutch elm disease are not very
-far away.
-23. You understand the effect Dutch elm disease has had when you see
-evidence of how prominent the tree once was.
+[Reusable matching table: Sections A–G]
+14 reference to the research problems that arise from there being only a few surviving large elms
+15 details of a difference of opinion about the value of reintroducing elms to Britain
+16 reference to how Dutch elm disease was brought into Britain
+17 a description of the conditions that have enabled a location in Britain to escape Dutch elm disease
+18 reference to the stage at which young elms become vulnerable to Dutch elm disease
+Questions 19–23
+Look at the following statements (Questions 19–23) and the list of people below.
+Match each statement with the correct person, A, B, or C.
+NB You may use any letter more than once.
+19 If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible.
+20 It may be better to wait and see if the mature elms that have survived continue to flourish.
+21 There must be an explanation for the survival of some mature elms.
+22 We need to be aware that insects carrying Dutch elm disease are not very far away.
+23 You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was.
 19
 
 ## Page 20
 
-List of People
-A. Matt Elliot
-B. Karen Russell
-C. Peter Bourne
-Questions 24-26
+Reading
+[List of People]
+A Matt Elliot
+B Karen Russell
+C Peter Bourne
+Questions 24–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Uses of a popular tree
-For hundreds of years, the only tree that was more popular in Britain than elm
-was (24)…………………… . Starting in the Bronze Age, many tools were made from
-elm and people also used it to make weapons. In the 18th century, it was grown
-to provide wood for boxes and (25)……………………. . Due to its strength, elm was
-often used for mining equipment and the Cutty Sark's (26)………………………. was
-also constructed from elm.
+[Bordered summary: Uses of a popular tree]
+For hundreds of years, the only tree that was more popular in Britain than elm was 24 __________. Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and 25 __________. Due to its strength, elm was often used for mining equipment and the Cutty Sark's 26 __________ was also constructed from elm.
 20
 
 ## Page 21
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27–40, which are based on
 Reading
 How stress affects our judgement
 Some of the most important decisions of our lives occur while we're feeling
@@ -564,53 +543,50 @@ conscientious agents of change.
 ## Page 24
 
 Reading
-Questions 27-30
+Questions 27–30
 Choose the correct letter, A, B, C or D.
-27. In the first paragraph, the writer introduces the topic of the text by
-A. defining some commonly used terms.
-B. questioning a widely held assumption.
-C. mentioning a challenge faced by everyone.
-D. specifying a situation which makes us most anxious.
-28. What point does the writer make about firefighters in the second paragraph?
-A. The regular changes of stress levels in their working lives make them ideal
-study subjects.
-B. The strategies they use to handle stress are of particular interest to
-researchers.
-C. The stressful nature of their job is typical of many public service professions.
-D. Their personalities makethem especially well-suited to working under stress.
-29. What is the writer doing in the fourth paragraph?
-A. explaining their findings
-B. justifying their approach
-C. setting out their objectives
-D. describing their methodology
-30. In the seventh paragraph, the writer describes a mechanism in the brain
-which
-A. enables people to respond more quickly to stressful situations.
-B. results in increased ability to control our levels of anxiety.
-C. produces heightened sensitivity to indications of external threats.
+27 In the first paragraph, the writer introduces the topic of the text by
+A defining some commonly used terms.
+B questioning a widely held assumption.
+C mentioning a challenge faced by everyone.
+D specifying a situation which makes us most anxious.
+28 What point does the writer make about firefighters in the second paragraph?
+A The regular changes of stress levels in their working lives make them ideal study subjects.
+B The strategies they use to handle stress are of particular interest to researchers.
+C The stressful nature of their job is typical of many public service professions.
+D Their personalities make them especially well-suited to working under stress.
+29 What is the writer doing in the fourth paragraph?
+A explaining their findings
+B justifying their approach
+C setting out their objectives
+D describing their methodology
+30 In the seventh paragraph, the writer describes a mechanism in the brain which
+A enables people to respond more quickly to stressful situations.
+B results in increased ability to control our levels of anxiety.
+C produces heightened sensitivity to indications of external threats.
+D is activated when there is a need to communicate a sense of danger.
 24
 
 ## Page 25
 
-D. is activated when there is a need to communicate a sense of danger.
-Questions 31-35
-Complete each sentence with the correct ending, A-G, below.
-31. At times when they were relaxed, the firefighters usually
-32. The researchers noted that when the firefighters were stressed, they
-33. When the firefighters were told good news, they always
-34. The students' cortisol levels and heart rates were affected when the
-researchers
-35. In both experiments, negative information was processed better when the
-subjects
-A. made them feel optimistic.
-B. took relatively little notice of bad news.
-C. responded to negative and positive information in the same way.
-D. were feeling under stress.
-E. put them in a stressful situation.
-F. behaved in a similar manner, regardless of the circumstances.
-G. thought it more likely that they would experience something bad.
-Questions 36-40
-Do the following statements agree with the information given in Reading Passage 3?
+Reading
+Questions 31–35
+Complete each sentence with the correct ending, A–G, below.
+31 At times when they were relaxed, the firefighters usually
+32 The researchers noted that when the firefighters were stressed, they
+33 When the firefighters were told good news, they always
+34 The students' cortisol levels and heart rates were affected when the researchers
+35 In both experiments, negative information was processed better when the subjects
+[Shared sentence endings: A–G]
+A made them feel optimistic.
+B took relatively little notice of bad news.
+C responded to negative and positive information in the same way.
+D were feeling under stress.
+E put them in a stressful situation.
+F behaved in a similar manner, regardless of the circumstances.
+G thought it more likely that they would experience something bad.
+Questions 36–40
+Do the following statements agree with the claims of the writer in Reading Passage 3?
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
@@ -618,27 +594,27 @@ NOT GIVEN if it is impossible to say what the writer thinks about this
 
 ## Page 26
 
-36. The tone of the content we post on social media tends to reflect the nature
-of the posts in our feeds.
-37. Phones have a greater impact on our stress levels than other electronic
-media devices.
-38. The more we read about a stressful public event on social media, the less able
-we are to take the information in.
-39. Stress created by social media posts can lead us to take unnecessary
-precautions.
-40. Our tendency to be affected by other people's moods can be used in a
-positive way.
+Reading
+36 The tone of the content we post on social media tends to reflect the nature of the posts in our feeds.
+37 Phones have a greater impact on our stress levels than other electronic media devices.
+38 The more we read about a stressful public event on social media, the less able we are to take the information in.
+39 Stress created by social media posts can lead us to take unnecessary precautions.
+40 Our tendency to be affected by other people's moods can be used in a positive way.
 26
 
 ## Page 27
 
-Answer
-1 F
-2 F
-3 F
-4 NG
-5 T
-6 T
+Listening and Reading answer keys
+TEST 1
+READING
+Reading Passage 1,
+Questions 1–13
+1 FALSE
+2 FALSE
+3 FALSE
+4 NOT GIVEN
+5 TRUE
+6 TRUE
 7 Bulbs
 8 Soil
 9 feathers
@@ -646,12 +622,37 @@ Answer
 11 1980
 12 Funding
 13 stakeholders
-14, C 15, G 16, B 17, E 18, C
-19, B20, A21, B22, C23, A
-24, oak 25, flooring 26, keel
-27.C 28. A 29.D 30.C
-31, B32, G33, F34, E35, D
-36.Y 37.NG 38.N 39. Y 40.Y
+Reading Passage 2,
+Questions 14–26
+14 C
+15 G
+16 B
+17 E
+18 C
+19 B
+20 A
+21 B
+22 C
+23 A
+24 oak
+25 flooring
+26 keel
+Reading Passage 3,
+Questions 27–40
+27 C
+28 A
+29 D
+30 C
+31 B
+32 G
+33 F
+34 E
+35 D
+36 YES
+37 NOT GIVEN
+38 NO
+39 YES
+40 YES
 27
 
 ## Page 28
@@ -1131,7 +1132,7 @@ Ethical concerns
 Test 2
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1 - 13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Manatees
 Manatees, also known as sea cows, are aquatic mammals that belong to a group
@@ -1213,55 +1214,47 @@ speeds during winter, allowing slow-moving manatees more time to respond.
 ## Page 50
 
 Test 2
-Questions 1-6
+Questions 1–6
 Complete the notes below.
 Choose ONE WORD AND/OR A NUMBER from the passage for each answer.
-Write your answers in boxes 1-6 on your answer sheet.
-Manatees
+Write your answers in boxes 1–6 on your answer sheet.
+[Bordered notes: Manatees]
 Appearance
-• look similar to dugongs, but with a differently shaped (1)…………………………
+• look similar to dugongs, but with a differently shaped 1 __________
 Movement
 • have fewer neck bones than most mammals
-• need to use their (2)……………….. to help to turn their bodies around in order
-to look sideways
-• sense vibrations in the water by means of (3)……………………..on their skin
+• need to use their 2 __________ to help to turn their bodies around in order to look sideways
+• sense vibrations in the water by means of 3 __________ on their skin
 Feeding
-• eat mainly aquatic vegetation, such as (4)…………………………….
-• grasp and pull up plants with their (5)…………………………………
+• eat mainly aquatic vegetation, such as 4 __________
+• grasp and pull up plants with their 5 __________
 Breathing
-• come to the surface for air every 2-4 minutes when awake and every 15-20
-while sleeping
-• may regulate the (6) ………………….of their bodies by using muscles of
-diaphragm to store air internally
+• come to the surface for air every 2-4 minutes when awake and every 15-20 while sleeping
+• may regulate the 6 __________ of their bodies by using muscles of diaphragm to store air internally
 50
 
 ## Page 51
 
 Reading
-Questions 7-13
+Questions 7–13
 Do the following statements agree with the information given in Reading Passage 1?
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-7. West Indian manatees can be found in a variety of different aquatic habitats.
-8. The Florida manatee lives in warmer waters than the Antillean manatee.
-9. The African manatee's range is limited to coastal waters between the West
-African countries of Mauritania and Angola.
-10. The extent of the loss of Amazonian manatees in the mid-twentieth century
-was only revealed many years later.
-11. It is predicted that West Indian manatee populations will fall in the coming
-decades.
-12. The risk to manatees from entanglement and plastic consumption increased
-significantly in the period 2009-2020.
-13. There is some legislation in place which aims to reduce the likelihood of boat
-strikes on manatees in Florida.
+7 West Indian manatees can be found in a variety of different aquatic habitats.
+8 The Florida manatee lives in warmer waters than the Antillean manatee.
+9 The African manatee's range is limited to coastal waters between the West African countries of Mauritania and Angola.
+10 The extent of the loss of Amazonian manatees in the mid-twentieth century was only revealed many years later.
+11 It is predicted that West Indian manatee populations will fall in the coming decades.
+12 The risk to manatees from entanglement and plastic consumption increased significantly in the period 2009-2020.
+13 There is some legislation in place which aims to reduce the likelihood of boat strikes on manatees in Florida.
 51
 
 ## Page 52
 
 Test 2
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Questions 14–26, which are based on
 Reading Passage 2 below
 Procrastination
 A psychologist explains why we put off important tasks and how we can break
@@ -1342,74 +1335,60 @@ overly critical of ourselves. We should remind ourselves that we're not the firs
 person to procrastinate, nor the last. Doing this can take the edge off the negative
 feelings we have about ourselves when we procrastinate. This can all make it
 easier to get back on track.
-Questions 14-16
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–16
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
 NB You may use any letter more than once.
+[Reusable matching table: Sections A–F]
 54
 
 ## Page 55
 
-Column 1 A B C D E F
-14. mention of false assumptions about why
-people procrastinate
-15. reference to the realisation that others also
-procrastinate
-16. neurological evidence of a link between
-procrastination and emotion
-Questions 17-22
+Reading
+Questions 14–16
+[Reusable matching table: Sections A–F]
+14 mention of false assumptions about why people procrastinate
+15 reference to the realisation that others also procrastinate
+16 neurological evidence of a link between procrastination and emotion
+Questions 17–22
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-What makes us procrastinate?
-Many people think that procrastination is the result of (17)…………………………
-Others believe it to be the result of an inability to organise time efficiently.
-But scientific studies suggest that procrastination is actually due to poor mood
-management. The tasks we are most likely to put off are those that could
-damage our self-esteem or cause us to feel (18)……………….. when we think about
-them. Research comparing chronic procrastinators with other people even
-found differences in the brain regions associated with regulating emotions and
-identifying (19)………………….
-Emotionally loaded and difficult tasks often cause us to procrastinate. Getting
-ready to take (20)………………. might be a typical example of one such task.
-People who are likely to procrastinate tend to be either (21)…………………. or
-those with low self-esteem.
+[Bordered summary: What makes us procrastinate?]
+Many people think that procrastination is the result of 17 __________. Others believe it to be the result of an inability to organise time efficiently. But scientific studies suggest that procrastination is actually due to poor mood management. The tasks we are most likely to put off are those that could damage our self-esteem or cause us to feel 18 __________ when we think about them. Research comparing chronic procrastinators with other people even found differences in the brain regions associated with regulating emotions and identifying 19 __________.
+Emotionally loaded and difficult tasks often cause us to procrastinate. Getting ready to take 20 __________ might be a typical example of one such task. People who are likely to procrastinate tend to be either 21 __________ or those with low self-esteem.
 55
 
 ## Page 56
 
-Procrastination is only a short-term measure for managing emotions. It's often
-followed by a feeling of (22)……………, which worsens our mood and leads to
-more procrastination.
-Questions 23 and 24
-Choose TWO letters, A-E.
-23 - 24 Which TWO comparisons between employees who often procrastinate and
-those who do not are mentioned in the text?
-A. Their salaries are lower.
-B. The quality of their work is inferior.
-C. They don't keep their jobs for as long.
-D. They don't enjoy their working lives as much.
-E. They have poorer relationships with colleagues.
-Questions 25 and 26
-Choose TWO letters, A-E.
-25 - 26 Which TWO recommendations for getting out of a cycle of procrastination
-does the writer give?
-A. not judging ourselves harshly
-B. setting ourselves manageable aims
-C. rewarding ourselves for tasks achieved
-D. prioritising tasks according to their importance
-E. avoiding things that stop us concentrating on our tasks
+Reading
+Procrastination is only a short-term measure for managing emotions. It's often followed by a feeling of 22 __________, which worsens our mood and leads to more procrastination.
+Questions 23–24
+Choose TWO letters, A–E.
+Which TWO comparisons between employees who often procrastinate and those who do not are mentioned in the text?
+A Their salaries are lower.
+B The quality of their work is inferior.
+C They don't keep their jobs for as long.
+D They don't enjoy their working lives as much.
+E They have poorer relationships with colleagues.
+Questions 25–26
+Choose TWO letters, A–E.
+Which TWO recommendations for getting out of a cycle of procrastination does the writer give?
+A not judging ourselves harshly
+B setting ourselves manageable aims
+C rewarding ourselves for tasks achieved
+D prioritising tasks according to their importance
+E avoiding things that stop us concentrating on our tasks
 56
 
 ## Page 57
 
 Test 2
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27–40, which are based on
 Reading Passage 3 below
 Invasion of the Robot Umpires
 A few years ago, Fred DeJesus from Brooklyn, New York became the first umpire
-in a minor league baseball game to use something called the Automated Ball-
-Strike System (ABS), often referred to as the 'robe-umpire'. Instead of making any
+in a minor league baseball game to use something called the Automated Ball-Strike System (ABS), often referred to as the 'robe-umpire'. Instead of making any
 judgments himself about a strike*, DeJesus had decisions fed to him through an
 earpiece, connected to a modified missile-tracking system. The contraption
 looked like a large black pizza box with one glowing green eye; it was mounted
@@ -1494,69 +1473,57 @@ does not swing at a ball that passes through the strike zone.
 
 ## Page 60
 
-Questions 27-32
-Do the following statements agree with the claims of the writer in Reading Passage
-3?
+Test 2
+Questions 27–32
+Do the following statements agree with the claims of the writer in Reading Passage 3?
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-27. When DeJesus first used ABS, he shared decision-making about strikes with
-it.
-28. MLB considered it necessary to amend the size of the strike zone when
-criticisms were received from players.
-29. MLB is keen to justify the money spent on improving the accuracy of ABS's
-calculations.
-30. The hundred-mile-an-hour fastball led to a more exciting style of play.
-31. The differing proposals for alterations to the baseball bat led to fierce debate
-on Sword's team. 32.ABSmakes changes to the shape of the strike zone
-feasible.
+27 When DeJesus first used ABS, he shared decision-making about strikes with it.
+28 MLB considered it necessary to amend the size of the strike zone when criticisms were received from players.
+29 MLB is keen to justify the money spent on improving the accuracy of ABS's calculations.
+30 The hundred-mile-an-hour fastball led to a more exciting style of play.
+31 The differing proposals for alterations to the baseball bat led to fierce debate on Sword's team.
+32 ABS makes changes to the shape of the strike zone feasible.
 60
 
 ## Page 61
 
 Test 2
-Questions 33-37
-Complete the summary using the list of phrases, A-H, below.
-Calls by the umpire
-Even after ABS was developed, MLB still wanted human umpires to shout out
-decisions as they had in their (33)…………………… . The umpire's job had, at one
-time, required a (34)………………………. about whether a ball was a strike. A ball is
-considered a strike when the batter does not hit it and it crosses through a (35)
-…………………… extending approximately from the batter's knee to his chest.
-In the past, (36)……………………. over strike calls were not uncommon, but today
-everyone accepts the complete ban on pushing or shoving the umpire. One
-difference, however, is that during the first game DeJesus used ABS, strike calls
-were met with (37)……………….. .
-A. pitch boundary
-B. numerous disputes
-C. team tactics
-D. subjective assessment
-E. widespread approval
-F. former roles
-G. total silence
-H. perceived area
+Questions 33–37
+Complete the summary using the list of phrases, A–H, below.
+[Bordered summary: Calls by the umpire]
+Even after ABS was developed, MLB still wanted human umpires to shout out decisions as they had in their 33 __________. The umpire's job had, at one time, required a 34 __________ about whether a ball was a strike. A ball is considered a strike when the batter does not hit it and it crosses through a 35 __________ extending approximately from the batter's knee to his chest. In the past, 36 __________ over strike calls were not uncommon, but today everyone accepts the complete ban on pushing or shoving the umpire. One difference, however, is that during the first game DeJesus used ABS, strike calls were met with 37 __________.
+A pitch boundary
+B numerous disputes
+C team tactics
+D subjective assessment
+E widespread approval
+F former roles
+G total silence
+H perceived area
 61
 
 ## Page 62
 
 Reading
-Questions 38-40
+Questions 38–40
 Choose the correct letter, A, B, C or D.
-38. What does the writer suggest about ABS in the fifth paragraph?
-A. It is bound to make key decisions that are wrong.
-B. It may reduce some of the appeal of the game.
-C. It will lead to the disappearance of human umpires.
-D. It may increase calls for the rules of baseball to be changed.
-39. Morgan Sword says that the introduction of ABS
-A. was regarded as an experiment without a guaranteed outcome.
-B. was intended to keep up with developments in other sports.
-C. was a response to changing attitudes about the role of sport.
-D. was an attempt to ensure baseball retained a young audience.
-40. Why does the writer include the views of Noe and Russo?
-A. to show that attitudes to technology vary widely
-B. to argue that people have unrealistic expectations of sport
-C. to indicate that accuracy is not the same thing as enjoyment
-D. to suggest that the number of baseball fansneeds to increase
+38 What does the writer suggest about ABS in the fifth paragraph?
+A It is bound to make key decisions that are wrong.
+B It may reduce some of the appeal of the game.
+C It will lead to the disappearance of human umpires.
+D It may increase calls for the rules of baseball to be changed.
+39 Morgan Sword says that the introduction of ABS
+A was regarded as an experiment without a guaranteed outcome.
+B was intended to keep up with developments in other sports.
+C was a response to changing attitudes about the role of sport.
+D was an attempt to ensure baseball retained a young audience.
+40 Why does the writer include the views of Noe and Russo?
+A to show that attitudes to technology vary widely
+B to argue that people have unrealistic expectations of sport
+C to indicate that accuracy is not the same thing as enjoyment
+D to suggest that the number of baseball fans needs to increase
 62
 
 ## Page 63
@@ -2087,7 +2054,6 @@ condenser. Then the gas was released quickly into a low-pressure evaporator coil
 where it became liquid and cold. Air was blown over the evaporator coil and then
 this cooled air passed into an insulated compartment, lowering its temperature to
 freezing point.
-86
 
 ## Page 87
 
@@ -2117,7 +2083,6 @@ package it was to be sold in. He also introduced the use of cellophane, the firs
 transparent material for food packaging, which allowed consumers to see the
 quality of the product. Birdseye products also came in convenient size packages
 that could be prepared with a minimum of effort.
-87
 
 ## Page 88
 
@@ -2149,7 +2114,6 @@ Today, the US frozen food industry has a turnover of over $67 billion annually, 
 $26.6 billion of that sold to consumers for home consumption. The remaining $40
 billion in frozen food sales come through restaurants, cafeterias, hospitals and
 schools, and that represents a third of the total food service sales.
-88
 
 ## Page 89
 
@@ -2174,7 +2138,6 @@ Early 1940s, USA
 • Frozen food became popular because of a shortage of (6)………………….
 1950s, USA
 • A large number of homes now had a (7)………………………..
-89
 
 ## Page 90
 
@@ -2196,7 +2159,6 @@ Dinner.
 12. Swanson Foods developed a new style of container for the launch of the TV
 Dinner.
 13. The US frozen food industry is currently the largest in the world.
-90
 
 ## Page 91
 
@@ -2229,7 +2191,6 @@ sun's rays provides nutrients for the polyps. This comfortable symbiotic
 relationship has led to the growth of coral reefs that cover 0.1% of the planet's
 ocean bed while providing homes for more than 25% of marine species, including
 fish, molluscs, sponges and shellfish.
-91
 
 ## Page 92
 
@@ -2263,7 +2224,6 @@ E
 However, scientists are trying to pinpoint hardy types of coral that could survive
 our overheated oceans, and some of this research will be carried out at London
 Zoo. 'Behind our ... coral reef tank we have built laboratories where scientists will
-92
 
 ## Page 93
 
@@ -2293,7 +2253,6 @@ iv. Disagreement about the accuracy of a certain phrase
 v. Two clear educational goals
 vi. Promoting hope
 vii. A warning of further trouble ahead
-93
 
 ## Page 94
 
@@ -2321,7 +2280,6 @@ E. They are trying out methods that would speed up reproduction in some
 corals.
 F. They are investigating materials that might protect reefs from higher
 temperatures.
-94
 
 ## Page 95
 
@@ -2332,13 +2290,12 @@ their food.
 25. Algae gain (25)…………………… from being inside the coral.
 26. Increases in the warmth of the sea water can remove the (26)……………….
 from coral.
-95
 
 ## Page 96
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Question 27 – 40, which are based on
 Reading Passage 3 below
 Robots and us
 Three leaders in their fields answer questions about our relationships with robot
@@ -2347,7 +2304,7 @@ astrophysics Professor Martin Rees said he believed the solar system would be
 mapped by robotic craft by the end of the century. 'The next step would be mining
 of asteroids, enabling fabrication of large structures in space without having to
 bring all the raw materials from Earth. ... I think this is more realistic and benign
-than the … "terraforming"* of planets.' He maintains that colonised planets
+than the ... "terraforming"* of planets.' He maintains that colonised planets
 'should be preserved with a status that is analogous to Antarctica here on Earth.'
 On the question of using robots to colonise other planets and exploit mineral
 resources, engineering Professor Daniel Wolpert replied, 'I don't see a pressing
@@ -2362,21 +2319,20 @@ interest in "the Other", not to impose a particular model, but to meet "the Othe
 In response to the second question, 'How soon will machine intelligence outstrip
 human intelligence?', Rees mentions robots that are advanced enough to beat
 humans at chess, but then goes on to say, 'Robots are still limited in their ability
-96
 
 ## Page 97
 
 to sense their environment: they can't yet recognise and move the pieces on a real
 chessboard as cleverly as a child can. Later this century, however, their more
 advanced successors may relate to their surroundings, and to people, as adeptly
-as we do. Moral questions then arise. … Should we feel guilty about exploiting
+as we do. Moral questions then arise. ... Should we feel guilty about exploiting
 [sophisticated robots]? Should we fret if they are underemployed, frustrated, or
 bored?'
 Wolpert's response to the question about machine intelligence outstripping
 human intelligence was this: 'In a limited sense it already has. Machines can
 already navigate, remember and search for items with an ability that far outstrips
 humans. However, there is no machine that can identify visual objects or speech
-with the reliability and flexibility of humans. … Expecting a machine close to the
+with the reliability and flexibility of humans. ... Expecting a machine close to the
 creative intelligence of a human within the next 50 years would be highly
 ambitious.'
 Richardson believes that our fear of machines becoming too advanced has more
@@ -2384,7 +2340,7 @@ to do with human nature than anything intrinsic to the machines themselves. In
 her view, it stems from humans' tendency to personify inanimate objects: we
 create machines based on representations of ourselves, imagine that machines
 think and behave as we do, and therefore see them as an autonomous threat. 'One
-of the consequences of thinking that the problem lies with machines is that ….
+of the consequences of thinking that the problem lies with machines is that ....
 we tend to imagine they are greater and more powerful than they really are
 and subsequently they become so.'
 This led on to the third question, 'Should we be scared by advances in artificial
@@ -2393,7 +2349,6 @@ futurologists who believe in the so-called "singularity".** ... And another worr
 that we are increasingly dependent on computer networks, and that these could
 behave like a single "brain" with a mind of its own, and with goals that may be
 contrary to human welfare. I think we should ensure that robots remain as no more
-97
 
 ## Page 98
 
@@ -2425,7 +2380,6 @@ that scientists and technologists made this separation because they wanted to
 carve out the sphere of their work. 'But the divide is not so clear cut, and that is
 why the worlds seem to collide at times,' she said. 'In some cases, we need to bring
 these different understandings together to get a whole perspective. Perhaps
-98
 
 ## Page 99
 
@@ -2434,7 +2388,7 @@ will be a [threat] to us.'
 * terraforming: modifying a planet's atmosphere to suit human needs
 ** singularity: the point when robots will be able to start creating ever more
 sophisticated versions of themselves
-Look at the following statements (Questions 27-33) and the list of experts
+Look at the following statements (Questions 27 - 33) and the list of experts
 below.
 Match each statement with the correct expert, A, B or C.
 NB You may use any letter more than once.
@@ -2447,7 +2401,6 @@ intelligence.
 32. The ideas in high-quality science fiction may prove to be just as accurate as
 those found in the work of mediocre scientists.
 33. There are those who look forward to robots developing greater intelligence.
-99
 
 ## Page 100
 
@@ -2474,7 +2427,6 @@ C. It has its origins in basic misunderstandings about how inanimate objects
 function.
 D. It demonstrates a key difference between human intelligence and machine
 intelligence.
-100
 
 ## Page 101
 
@@ -2495,7 +2447,6 @@ B. outlining ways in which one has impacted on the other
 C. recommending a change of approach in how people view them
 D. explaining why scientists have a different perspective on them from other
 people
-101
 
 ## Page 102
 
@@ -2926,7 +2877,7 @@ Ways of protecting chickens from birds of prey
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on
+You should spend about 20 minutes on Question 1 – 13, which are based on
 Reading Passage 1 below
 Georgia O'Keeffe
 For seven decades, Georgia O'Keeffe (1887-1986) was a major figure in American
@@ -2955,7 +2906,6 @@ With Stieglitz's encouragement and promise of financial support, O'Keeffe arrive
 in New York in June 1918 to begin a career as an artist. For the next three decades,
 Stieglitz vigorously promoted her work in twenty-two solo exhibitions and
 numerous group installations. The two were married in 1924. The ups and downs
-122
 
 ## Page 123
 
@@ -2996,7 +2946,6 @@ provided a wealth of imagery for her paintings, one feature of the Abiquiu house
 the large walled patio with its black door - was particularly inspirational. In more
 than thirty pictures between 1946 and 1960, she reinvented the patio into an
 abstract arrangement of geometric shapes.
-123
 
 ## Page 124
 
@@ -3028,7 +2977,6 @@ The life and work of Georgia O'Keeffe
 (6)……………………………. of New Mexico for over forty years
 • travelled widely by plane in later years, and painted pictures of clouds and
 (7)………………………… seen from above
-124
 
 ## Page 125
 
@@ -3049,13 +2997,12 @@ abstract drawings to his gallery in New York City.
 artist's favourite works.
 13. O'Keeffe produced a greater quantity of work during the 1950s to 1970s than
 at any other time in her life.
-125
 
 ## Page 126
 
 Test 4
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Question 14 – 26, which are based on
 Reading Passage 2.
 Adapting to the effects of climate change
 A All around the world, nations are already preparing for, and adapting to,
@@ -3087,7 +3034,6 @@ popular, the majority of mangrove-planting projects fail. So, Wetlands
 International started out with a different approach, building semi-permeable
 dams, made from bamboo poles and brushwood, to mimic the role of mangrove
 roots and create favourable conditions for mangroves to grow back naturally. The
-126
 
 ## Page 127
 
@@ -3130,7 +3076,6 @@ of a 'cool pavement' system, designed to help reach the city's goal of bringing
 down its average temperature by 1.5°C. 'Urban cooling is literally a matter of life
 and death for our future in LA,' says Spotts. Using a Geographic Information
 System data mapping tool, the programme identified streets with low tree canopy
-127
 
 ## Page 128
 
@@ -3140,13 +3085,12 @@ temperature in Los Angeles by 6°C. Spotts says one of these streets, in the
 Winnetka neighbourhood of San Fernando Valley, can now be seen as a pale
 crescent, the only cool spot on an otherwise red thermal image, from the
 International Space Station.
-128
 
 ## Page 129
 
 Test 4
-Questions 14-17
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–17
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
 Column 1 A B C D E F
 14. how a type of plant functions as a natural
@@ -3157,7 +3101,7 @@ noticing the effects of climate change
 particularly cost-effective
 17. a mention of a technology used to locate areas
 most in need of intervention
-Questions 18-22
+Questions 18–22
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
 18. The stormwater-management programme in Miami Beach has involved
@@ -3170,14 +3114,13 @@ organisation has been building houses that can (20) ………………………�
 various (21)…………………… that are suitable for areas of high salt content.
 22. A project in LA has increased the number of (22)……………………… on the
 city's streets.
-129
 
 ## Page 130
 
 Reading
-Questions 23-26
-Look at the following statements (Questions 23-26) and the list of people below.
-Match each statement with the correct person, A-E.
+Questions 23–26
+Look at the following statements (Questions 23–26) and the list of people below.
+Match each statement with the correct person, A–E.
 23. It is essential to adopt strategies which involve and help residents of
 the region.
 24. Interventions which reduce heat are absolutely vital for our survival in
@@ -3192,7 +3135,6 @@ B. Susanna Toi
 C. Elizabeth English
 D. Raisa Chowdhury
 E. Greg Spotts
-130
 
 ## Page 131
 
@@ -3221,7 +3163,6 @@ guarding the front porch, rather than a great livestock guard dog.'
 C The evidence indicates that guard dogs are highly effective. For example, in
 Portugal, biologist Silvia Ribeiro has found that more than 90 per cent of the
 farmers participating in a programme to train and use guard dogs to protect their
-131
 
 ## Page 132
 
@@ -3253,7 +3194,6 @@ their fate isn't recorded. 'In some regions, we work with almost every farmer, b
 in others only one or two have dogs,' says Ribeiro. 'If we are not working with
 everybody, we are transferring the wolf pressure to the neighbour's herd and he
 can use poison and kill an entire pack of wolves.'
-132
 
 ## Page 133
 
@@ -3277,7 +3217,6 @@ normally raid them. Indeed, Australian researchers are now using dogs to enhance
 biodiversity and create refuges for species threatened by predation. So if we can
 get this right, there may be a bright future for guard dogs in promoting
 harmonious coexistence between humans and wildlife.
-133
 
 ## Page 134
 
@@ -3313,7 +3252,6 @@ sufficiently widespread.
 the dogs are appropriately handled.
 36. Teaching a livestock guard dog how to do its work needs a different focus
 from teaching a house guard dog.36
-134
 
 ## Page 135
 
@@ -3323,7 +3261,6 @@ B. Silvia Ribeiro
 C. Linda van Bommel
 D. Julie Young
 E. Bethany Smith
-135
 
 ## Page 136
 
@@ -3340,7 +3277,6 @@ which may affect other species, and that they may reduce the amount of (39)
 ………………….. available to certain wild animals.
 On the other hand, these dogs may help birds by protecting their nests. These
 might otherwise be threatened by predators such as (40)………………………...
-136
 
 ## Page 137
 

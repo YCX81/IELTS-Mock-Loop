@@ -203,186 +203,71 @@ of the spirit bears' territory is needed.
 Reading
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on
-Reading Passage 1 below.
+You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1 below.
+
 Stepwells
-A millennium ago, stepwells were fundamental to life in the driest
-parts of India. Richard Cox travelled to north-western India to
-document these spectacular monuments from a bygone era
-During the sixth and seventh centuries,
-water source (normally an underground
-the inhabitants of the modern-day
-aquifer) as it recedes following the rains.
-states of Gujarat and Rajasthan in
-When the water level was high, the user
-rth-western India developed a
-needed only to descend a few steps to
-ethod of gaining access to clean, fresh
-reach it; when it was low, several levels
-coundwater during the dry season for
-would have to be negotiated.
-rinking, bathing, watering animals and
-igation. However, the significance
-Some wells are vast, open craters with
-this invention - the stepwell- goes
-hundreds of steps paving each sloping
-beyond its utilitarian application.
-side, often in tiers. Others are more
-elaborate, with long stepped passages
-que to this region, stepwells are
-leading to the water via several storeys.
-en architecturally complex and vary
-Built from stone and supported by pillars,
-dely in size and shape. During their
-they also included pavilions that sheltered
-day, they were places of gathering,
-visitors from the relentless heat. But
-eisure and relaxation and of worship
-perhaps the most impressive features
-willagers of all but the lowest classes.
-are the intricate decorative sculptures
-stepwells are found dotted round
-that embellish many stepwells, showing
-desert areas of Gujarat (where they
-activities from fighting and dancing to
-called vav) and Rajasthan (where
-everyday acts such as women combing
-are called baori), while a few also
-their hair or churning butter.
-ve in Delhi. Some were located in
-ear villages as public spaces for the
-Down the centuries, thousands of wells
-unity; others were positioned beside
-were constructed throughout north-
-as resting places for travellers.
-western India, but the majority have now
-fallen into disuse; many are derelict and
-eir name suggests, stepwells
-dry, as groundwater has been diverted
-rise a series of stone steps
-for industrial use and the wells no longer
-nding from ground level to the
-reach the water table. Their condition
+A millennium ago, stepwells were fundamental to life in the driest parts of India. Richard Cox travelled to north-western India to document these spectacular monuments from a bygone era
+
+During the sixth and seventh centuries, the inhabitants of the modern-day states of Gujarat and Rajasthan in north-western India developed a method of gaining access to clean, fresh groundwater during the dry season for drinking, bathing, watering animals and irrigation. However, the significance of this invention – the stepwell – goes beyond its utilitarian application.
+
+Unique to this region, stepwells are often architecturally complex and vary widely in size and shape. During their heyday, they were places of gathering, leisure and relaxation and of worship for villagers of all but the lowest classes. Most stepwells are found dotted round the desert areas of Gujarat (where they are called vav) and Rajasthan (where they are called baori), while a few also survive in Delhi. Some were located in or near villages as public spaces for the community; others were positioned beside roads as resting places for travellers.
+
+As their name suggests, stepwells comprise a series of stone steps descending from ground level to the water source (normally an underground aquifer) as it recedes following the rains. When the water level was high, the user needed only to descend a few steps to reach it; when it was low, several levels would have to be negotiated.
+
+Some wells are vast, open craters with hundreds of steps paving each sloping side, often in tiers. Others are more elaborate, with long stepped passages leading to the water via several storeys. Built from stone and supported by pillars, they also included pavilions that sheltered visitors from the relentless heat. But perhaps the most impressive features are the intricate decorative sculptures that embellish many stepwells, showing activities from fighting and dancing to everyday acts such as women combing their hair or churning butter.
+
+Down the centuries, thousands of wells were constructed throughout north-western India, but the majority have now fallen into disuse; many are derelict and dry, as groundwater has been diverted for industrial use and the wells no longer reach the water table. Their condition
+
 17
 
 ## Page 10
 
 Test 1
-hasn't been helped by recent dry spells:
-One of the larger examples is Raniji Ki
-southern Rajasthan suffered an eight-year
-Baori, which was built by the queen of the
-drought between 1996 and 2004.
-region, Nathavatji, in 1699. At 46 metres
-deep, 20 metres wide and 40 metres long,
-However, some important sites in
-the intricately carved monument is one of
-Gujarat have recently undergone major
-21 baoris commissioned in the Bundi area
-restoration, and the state government
-by Nathavatji.
-announced in June last year that it plans
-to restore the stepwells throughout the
-In the old ruined town of Abhaneri, about
-state.
-95 kilometres east of Jaipur, is Chand
-Baori, one of India's oldest and deepest
-In Patan, the state's ancient capital, the
-wells; aesthetically it's perhaps one of the
-stepwell of Rani Ki Vav (Queen's Stepwell)
-most dramatic. Built in around 850 AD
-is perhaps the finest current example.
-next to the temple of Harshat Mata, the
-It was built by Queen Udayamati during
-baori comprises hundreds of zigzagging
-the late 11th century, but became silted
-steps that run along three of its sides,
-up following a flood during the 13th
-steeply descending 11 storeys, resulting
-century. But the Archaeological Survey
-in a striking pattern when seen from afar.
-of India began restoring it in the 1960s,
-On the fourth side, verandas which are
-and today it is in pristine condition. At
-supported by ornate pillars overlook the
-65 metres long, 20 metres wide and 27
-steps.
-metres deep, Rani Ki Vav features 500
-sculptures carved into niches throughout
-Still in public use is Neemrana Ki Baori,
-the monument. Incredibly, in January
-located just off the Jaipur-Delhi highway.
-2001, this ancient structure survived an
-Constructed in around 1700, it is nine
-earthquake that measured 7.6 on the
-storeys deep, with the last two being
-Richter scale.
-underwater. At ground level, there are
-86 colonnaded openings from where the
-Another example is the Surya Kund in
-visitor descends 170 steps to the deepest
-Modhera, northern Gujarat, next to the
-water source.
-Sun Temple, built by King Bhima I in 1026
-to honour the sun god Surya. It actually
-Today, following years of neglect, many of
-resembles a tank (kund means reservoir
-these monuments to medieval engineering
-or pond) rather than a well, but displays
-have been saved by the Archaeological
-the hallmarks of stepwell architecture,
-Survey of India, which has recognised the
-including four sides of steps that descend
-importance of preserving them as part of
-to the bottom in a stunning geometrical
-the country's rich history. Tourists flock
-formation. The terraces house 108 small,
-to wells in far-flung corners of north-
-intricately carved shrines between the
-western India to gaze in wonder at these
-sets of steps.
-architectural marvels from hundreds of
-years ago, which serve as a reminder of
-Rajasthan also has a wealth of wells.
-both the ingenuity and artistry of ancient
-The ancient city of Bundi, 200 kilometres
-civilisations and of the value of water to
-south of Jaipur, is renowned for its
-human existence.
-architecture, including its stepwells.
+
+hasn't been helped by recent dry spells: southern Rajasthan suffered an eight-year drought between 1996 and 2004.
+
+However, some important sites in Gujarat have recently undergone major restoration, and the state government announced in June last year that it plans to restore the stepwells throughout the state.
+
+In Patan, the state's ancient capital, the stepwell of Rani Ki Vav (Queen's Stepwell) is perhaps the finest current example. It was built by Queen Udayamati during the late 11th century, but became silted up following a flood during the 13th century. But the Archaeological Survey of India began restoring it in the 1960s, and today it is in pristine condition. At 65 metres long, 20 metres wide and 27 metres deep, Rani Ki Vav features 500 sculptures carved into niches throughout the monument. Incredibly, in January 2001, this ancient structure survived an earthquake that measured 7.6 on the Richter scale.
+
+Another example is the Surya Kund in Modhera, northern Gujarat, next to the Sun Temple, built by King Bhima I in 1026 to honour the sun god Surya. It actually resembles a tank (kund means reservoir or pond) rather than a well, but displays the hallmarks of stepwell architecture, including four sides of steps that descend to the bottom in a stunning geometrical formation. The terraces house 108 small, intricately carved shrines between the sets of steps.
+
+Rajasthan also has a wealth of wells. The ancient city of Bundi, 200 kilometres south of Jaipur, is renowned for its architecture, including its stepwells. One of the larger examples is Raniji Ki Baori, which was built by the queen of the region, Nathavatji, in 1699. At 46 metres deep, 20 metres wide and 40 metres long, the intricately carved monument is one of 21 baoris commissioned in the Bundi area by Nathavatji.
+
+In the old ruined town of Abhaneri, about 95 kilometres east of Jaipur, is Chand Baori, one of India's oldest and deepest wells; aesthetically it's perhaps one of the most dramatic. Built in around 850 AD next to the temple of Harshat Mata, the baori comprises hundreds of zigzagging steps that run along three of its sides, steeply descending 11 storeys, resulting in a striking pattern when seen from afar. On the fourth side, verandas which are supported by ornate pillars overlook the steps.
+
+Still in public use is Neemrana Ki Baori, located just off the Jaipur-Delhi highway. Constructed in around 1700, it is nine storeys deep, with the last two being underwater. At ground level, there are 86 colonnaded openings from where the visitor descends 170 steps to the deepest water source.
+
+Today, following years of neglect, many of these monuments to medieval engineering have been saved by the Archaeological Survey of India, which has recognised the importance of preserving them as part of the country's rich history. Tourists flock to wells in far-flung corners of north-western India to gaze in wonder at these architectural marvels from hundreds of years ago, which serve as a reminder of both the ingenuity and artistry of ancient civilisations and of the value of water to human existence.
+
 18
 
 ## Page 11
 
 Reading
+
 Questions 1-5
 Do the following statements agree with the information given in Reading Passage 1?
-boxes 1-5 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-if there is no information on this
-NOT GIVEN
-Examples of ancient stepwells can be found all over the world.
-Stepwells had a range of functions, in addition to those related to water collection.
-2
-The few existing stepwells in Delhi are more attractive than those found elsewhere.
-3
-It took workers many years to build the stone steps characteristic of stepwells.
-4
-The number of steps above the water level in a stepwell altered during the course
-5
-of a year.
+In boxes 1-5 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+1 Examples of ancient stepwells can be found all over the world.
+2 Stepwells had a range of functions, in addition to those related to water collection.
+3 The few existing stepwells in Delhi are more attractive than those found elsewhere.
+4 It took workers many years to build the stone steps characteristic of stepwells.
+5 The number of steps above the water level in a stepwell altered during the course of a year.
+
 Questions 6-8
 Answer the questions below.
 Choose ONE WORD ONLY from the passage for each answer.
-fife your answers in boxes 6-8 on your answer sheet.
-Which part of some stepwells provided shade for people?
-E
-What type of serious climatic event, which took place in southern Rajasthan, is
-mentioned in the article?
-Who are frequent visitors to stepwells nowadays?
+Write your answers in boxes 6-8 on your answer sheet.
+
+6 Which part of some stepwells provided shade for people?
+7 What type of serious climatic event, which took place in southern Rajasthan, is mentioned in the article?
+8 Who are frequent visitors to stepwells nowadays?
+
 19
 
 ## Page 12
@@ -402,422 +287,183 @@ Write ONE WORD ONLY for each answer.
 ## Page 13
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 on the following pages.
-Questions 14-21
-Reading Passage 2 has nine paragraphs, A-I.
-Choose the correct heading for paragraphs A-E and G-I from the list of headings below.
-Write the correct number, i-xi, in boxes 14-21 on your answer sheet.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.
+
+Questions 14–21
+Reading Passage 2 has nine paragraphs, A–I.
+Choose the correct heading for paragraphs A–E and G–I from the list of headings below.
+Write the correct number, i–xi, in boxes 14–21 on your answer sheet.
+
 List of Headings
-A fresh and important long-term goal
-ii
-Charging for roads and improving other transport methods
-iii
-Changes affecting the distances goods may be transported
-iv
-Taking all the steps necessary to change transport patterns
-The environmental costs of road transport
-V
-vi
-The escalating cost of rail transport
+i A fresh and important long-term goal
+ii Charging for roads and improving other transport methods
+iii Changes affecting the distances goods may be transported
+iv Taking all the steps necessary to change transport patterns
+v The environmental costs of road transport
+vi The escalating cost of rail transport
 vii The need to achieve transport rebalance
 viii The rapid growth of private transport
-ix
-Plans to develop major road networks
-1
-+
-Restricting road use through charging policies alone
-xi
-Transport trends in countries awaiting EU admission
-19
-Paragraph G
-14
-Paragraph A
-Paragraph B
-20
-Paragraph H
-E
-21
-Paragraph I
-Paragraph C
-Paragraph D
-Paragraph E
+ix Plans to develop major road networks
+x Restricting road use through charging policies alone
+xi Transport trends in countries awaiting EU admission
+
+14 Paragraph A
+15 Paragraph B
+16 Paragraph C
+17 Paragraph D
+18 Paragraph E
+19 Paragraph G
+20 Paragraph H
+21 Paragraph I
+
 Example
-Answer
 Paragraph F
+Answer
 vii
+
 21
 
 ## Page 14
 
 Test 1
+
 EUROPEAN TRANSPORT SYSTEMS
-1990-2010
-What have been the trends and what are the prospects for
-European transport systems?
-A It is difficult to conceive of vigorous economic growth without an efficient transport
-system. Although modern information technologies can reduce the demand for physical
-transport by facilitating teleworking and teleservices, the requirement for transport
-continues to increase. There are two key factors behind this trend. For passenger
-transport, the determining factor is the spectacular growth in car use. The number
-of cars on European Union (EU) roads saw an increase of three million cars each year
-from 1990 to 2010, and in the next decade the EU will see a further substantial
-increase in its fleet.
-B As far as goods transport is concerned, growth is due to a large extent to changes in
-the European economy and its system of production. In the last 20 years, as internal
-frontiers have been abolished, the EU has moved from a 'stock' economy to a 'flow'
-economy. This phenomenon has been emphasised by the relocation of some industries,
-particularly those which are labour intensive, to reduce production costs, even though
-the production site is hundreds or even thousands of kilometres away from the final
-assembly plant or away from users.
-The strong economic growth expected in countries which are candidates for entry to
-C
-the EU will also increase transport flows, in particular road haulage traffic. In 1998,
-some of these countries already exported more than twice their 1990 volumes and
-imported more than five times their 1990 volumes. And although many candidate
-countries inherited a transport system which encourages rail, the distribution between
-modes has tipped sharply in favour of road transport since the 199Os. Between
-1990 and 1998, road haulage increased by 19.4%, while during the same period rail
-haulage decreased by 43.5%, although - and this could benefit the enlarged EU - it is
-still on average at a much higher level than in existing member states.
-However, a new imperative - sustainable development - offers an opportunity for
-D
-adapting the EU's common transport policy. This objective, agreed by the Gothenburg
-European Council, has to be achieved by integrating environmental considerations
-into Community policies, and shifting the balance between modes of transport lies at
-the heart of its strategy. The ambitious objective can only be fully achieved by 2020,
-but proposed measures are nonetheless a first essential step towards a sustainable
-transport system which will ideally be in place in 30 years' time, that is by 2040.
+1990–2010
+What have been the trends and what are the prospects for European transport systems?
+
+A It is difficult to conceive of vigorous economic growth without an efficient transport system. Although modern information technologies can reduce the demand for physical transport by facilitating teleworking and teleservices, the requirement for transport continues to increase. There are two key factors behind this trend. For passenger transport, the determining factor is the spectacular growth in car use. The number of cars on European Union (EU) roads saw an increase of three million cars each year from 1990 to 2010, and in the next decade the EU will see a further substantial increase in its fleet.
+
+B As far as goods transport is concerned, growth is due to a large extent to changes in the European economy and its system of production. In the last 20 years, as internal frontiers have been abolished, the EU has moved from a 'stock' economy to a 'flow' economy. This phenomenon has been emphasised by the relocation of some industries, particularly those which are labour intensive, to reduce production costs, even though the production site is hundreds or even thousands of kilometres away from the final assembly plant or away from users.
+
+C The strong economic growth expected in countries which are candidates for entry to the EU will also increase transport flows, in particular road haulage traffic. In 1998, some of these countries already exported more than twice their 1990 volumes and imported more than five times their 1990 volumes. And although many candidate countries inherited a transport system which encourages rail, the distribution between modes has tipped sharply in favour of road transport since the 1990s. Between 1990 and 1998, road haulage increased by 19.4%, while during the same period rail haulage decreased by 43.5%, although – and this could benefit the enlarged EU – it is still on average at a much higher level than in existing member states.
+
+D However, a new imperative – sustainable development – offers an opportunity for adapting the EU's common transport policy. This objective, agreed by the Gothenburg European Council, has to be achieved by integrating environmental considerations into Community policies, and shifting the balance between modes of transport lies at the heart of its strategy. The ambitious objective can only be fully achieved by 2020, but proposed measures are nonetheless a first essential step towards a sustainable transport system which will ideally be in place in 30 years' time, that is by 2040.
+
 22
 
 ## Page 15
 
 Reading
-EIn 1998, energy consumption in the transport sector was to blame for 28% of
-emissions of CO2, the leading greenhouse gas. According to the latest estimates, if
-nothing is done to reverse the traffic growth trend, CO emissions from transport can
-be expected to increase by around 50% to 1, 113 billion tonnes by 2020, compared
-with the 739 billion tonnes recorded in 1990. Once again, road transport is the main
-culprit since it alone accounts for 84% of the CO emissions attributable to transport.
-Using alternative fuels and improving energy efficiency is thus both an ecological
-necessity and a technological challenge.
-At the same time greater efforts must be made to achieve a modal shift. Such a
-change cannot be achieved overnight, all the less so after over half a century of
-constant deterioration in favour of road. This has reached such a pitch that today rail
-freight services are facing marginalisation, with just 8% of market share, and with
-international goods trains struggling along at an average speed of 18km/h. Three
-possible options have emerged.
-The first approach would consist of focusing on road transport soiely through pricing.
-This option would not be accompanied by complementary measures in the other modes
-of transport. In the short term it might curb the growth in road transport through
-the better loading ratio of goods vehicles and occupancy rates of passenger vehicles
-expected as a result of the increase in the price of transport. However, the lack of
-measures available to revitalise other modes of transport would make it impossible for
-more sustainable modes of transport to take up the baton.
-H The second approach also concentrates on road transport pricing but is accompanied
-by measures to increase the efficiency of the other modes (better quality of services,
-logistics, technology). However, this approach does not include investrent in new
-infrastructure, nor does it guarantee better regional cohesion. It could help to achieve
-greater uncoupling than the first approach, but road transport would keep the lion's
-share of the market and continue to concentrate on saturated arteries, despite being
-the most polluting of the modes. It is therefore not enough to guarantee the necessary
-shift of the balance.
-The third approach, which is not new, comprises a series of measures ranging from
-pricing to revitalising alternative modes of transport and targeting investment in the
-trans-European network. This integrated approach would allow the market shares of
-the other modes to return to their 1998 levels and thus make a shift of balance. It is
-far more ambitious than it looks, bearing in mind the historical imbalance in favour of
-roads for the last fifty years, but would achieve a marked break in the link between road
-transport growth and economic growth, without placing restrictions on the mobility of
-people and goods.
+
+E In 1998, energy consumption in the transport sector was to blame for 28% of emissions of CO₂, the leading greenhouse gas. According to the latest estimates, if nothing is done to reverse the traffic growth trend, CO₂ emissions from transport can be expected to increase by around 50% to 1,113 billion tonnes by 2020, compared with the 739 billion tonnes recorded in 1990. Once again, road transport is the main culprit since it alone accounts for 84% of the CO₂ emissions attributable to transport. Using alternative fuels and improving energy efficiency is thus both an ecological necessity and a technological challenge.
+
+F At the same time greater efforts must be made to achieve a modal shift. Such a change cannot be achieved overnight, all the less so after over half a century of constant deterioration in favour of road. This has reached such a pitch that today rail freight services are facing marginalisation, with just 8% of market share, and with international goods trains struggling along at an average speed of 18km/h. Three possible options have emerged.
+
+G The first approach would consist of focusing on road transport solely through pricing. This option would not be accompanied by complementary measures in the other modes of transport. In the short term it might curb the growth in road transport through the better loading ratio of goods vehicles and occupancy rates of passenger vehicles expected as a result of the increase in the price of transport. However, the lack of measures available to revitalise other modes of transport would make it impossible for more sustainable modes of transport to take up the baton.
+
+H The second approach also concentrates on road transport pricing but is accompanied by measures to increase the efficiency of the other modes (better quality of services, logistics, technology). However, this approach does not include investment in new infrastructure, nor does it guarantee better regional cohesion. It could help to achieve greater uncoupling than the first approach, but road transport would keep the lion's share of the market and continue to concentrate on saturated arteries, despite being the most polluting of the modes. It is therefore not enough to guarantee the necessary shift of the balance.
+
+I The third approach, which is not new, comprises a series of measures ranging from pricing to revitalising alternative modes of transport and targeting investment in the trans-European network. This integrated approach would allow the market shares of the other modes to return to their 1998 levels and thus make a shift of balance. It is far more ambitious than it looks, bearing in mind the historical imbalance in favour of roads for the last fifty years, but would achieve a marked break in the link between road transport growth and economic growth, without placing restrictions on the mobility of people and goods.
+
 23
 
 ## Page 16
 
 Test 1
-Questions 22-26
+
+Questions 22–26
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 22-26 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-22
-The need for transport is growing, despite technological developments.
-23
-To reduce production costs, some industries have been moved closer to their
-relevant consumers.
-24
-Cars are prohibitively expensive in some EU candidate countries.
-The Gothenburg European Council was set up 30 years ago.
-25
-By the end of this decade, CO emissions from transport are predicted to reach
-26
-739 billion tonnes.
+In boxes 22–26 on your answer sheet, write
+
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+22 The need for transport is growing, despite technological developments.
+23 To reduce production costs, some industries have been moved closer to their relevant consumers.
+24 Cars are prohibitively expensive in some EU candidate countries.
+25 The Gothenburg European Council was set up 30 years ago.
+26 By the end of this decade, CO₂ emissions from transport are predicted to reach 739 billion tonnes.
+
 24
 
 ## Page 17
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 The psychology of innovation
 Why are so few companies truly innovative?
-who owned Sun, wanted to revolutionise
-novation is key to business survival, and
-popular music with songs that fused
-companies put substantial resources into
-black and white music, and country and
-spiring employees to develop new ideas.
-blues. Presley, Cash, Perkins and Lewis
-There are, nevertheless, people working in
-instinctively understood Phillips's ambition
-urious, state-of-the-art centres designed
-and believed in it. Orbison wasn't inspired
-stimulate innovation who find that their
-by the goal, and only ever achieved one hit
-vironment doesn't make them feel at all
-with the Sun label.
-reative. And there are those who don't
-ve a budget, or much space, but who
-The value fit matters, says Cialdini,
-novate successfully.
-because innovation is, in part, a process
-of change, and under that pressure we,
-For Robert B. Cialdini, Professor of
-as a species, behave differently, 'When
-chology at Arizona State University,
-things change, we are hard-wired to
-ereason that companies don't succeed
-play it safe.' Managers should therefore
-often as they should is that innovation
-adopt an approach that appears counter-
-arts with recruitment. Research shows
-intuitive - they should explain what stands
-t the fit between an employee's values
-to be lost if the company fails to seize a
-d a company's values makes a difference
-particular opportunity. Studies show that
-what contribution they make and
-we invariably take more gambles when
-ether, two years after they join, they're
-threatened with a loss than when offered a
-at the company. Studies at Harvard
-siness School show that, although some
-reward.
-viduals may be more creative than
-Managing innovation is a delicate art.
-ers, almost every individual can be
-It's easy for a company to be pulled in
-eative in the right circumstances.
-conflicting directions as the marketing,
-e of the most famous photographs in the
-product development, and finance
-departments each get different feedback
-of rock'n'roll emphasises Cialdini's
-from different sets of people. And without
-ws. The 1956 picture of singers Elvis
-sley, Carl Perkins, Johnny Cash and
-a system which ensures collaborative
-exchanges within the company, it's also
-y Lee Lewis jamming at a piano in Sun
-easy for small 'pockets of innovation' to
-dios in Memphis tells a hidden story.
-disappear. Innovation is a contact sport.
-'s 'million-dollar quartet' could have
-You can't brief people just by saying, 'We're
-a quintet. Missing from the picture
-going in this direction and I'm going to take
-Boy Orbison, a greater natural singer
-Lewis, Perkins or Cash. Sam Phillips,
-you with me.'
+Innovation is key to business survival, and companies put substantial resources into inspiring employees to develop new ideas. There are, nevertheless, people working in luxurious, state-of-the-art centres designed to stimulate innovation who find that their environment doesn't make them feel at all creative. And there are those who don't have a budget, or much space, but who innovate successfully.
+For Robert B. Cialdini, Professor of Psychology at Arizona State University, the reason that companies don't succeed as often as they should is that innovation starts with recruitment. Research shows that the fit between an employee's values and a company's values makes a difference to what contribution they make and whether, two years after they join, they're still at the company. Studies at Harvard Business School show that, although some individuals may be more creative than others, almost every individual can be creative in the right circumstances.
+One of the most famous photographs in the story of rock'n'roll emphasises Cialdini's views. The 1956 picture of singers Elvis Presley, Carl Perkins, Johnny Cash and Jerry Lee Lewis jamming at a piano in Sun Studios in Memphis tells a hidden story. Sun's 'million-dollar quartet' could have been a quintet. Missing from the picture is Roy Orbison, a greater natural singer than Lewis, Perkins or Cash. Sam Phillips, who owned Sun, wanted to revolutionise popular music with songs that fused black and white music, and country and blues. Presley, Cash, Perkins and Lewis instinctively understood Phillips's ambition and believed in it. Orbison wasn't inspired by the goal, and only ever achieved one hit with the Sun label.
+The value fit matters, says Cialdini, because innovation is, in part, a process of change, and under that pressure we, as a species, behave differently. 'When things change, we are hard-wired to play it safe.' Managers should therefore adopt an approach that appears counter-intuitive – they should explain what stands to be lost if the company fails to seize a particular opportunity. Studies show that we invariably take more gambles when threatened with a loss than when offered a reward.
+Managing innovation is a delicate art. It's easy for a company to be pulled in conflicting directions as the marketing, product development, and finance departments each get different feedback from different sets of people. And without a system which ensures collaborative exchanges within the company, it's also easy for small 'pockets of innovation' to disappear. Innovation is a contact sport. You can't brief people just by saying, 'We're going in this direction and I'm going to take you with me.'
 25
 
 ## Page 18
 
 Test 1
-Cialdini believes that this 'follow-the-
-packets encouraged us to write in saying,
-leader syndrome' is dangerous, not least
-in no more than 10 words: 'I like Kellogg's
-because it encourages bosses to go it
-Corn Flakes because... .' The very act of
-alone. 'It's been scientifically proven that
-writing makes us more likely to believe it.
-three people will be better than one at
-solving problems, even if that one person
-Authority doesn't have to inhibit innovation
-is the smartest person in the field.' To
-but it often does. The wrong kind of
-prove his point, Cialdini cites an interview
-leadership will lead to what Cialdini calls
-with molecular biologist James Watson.
-'captainitis, the regrettable tendency
-Watson, together with Francis Crick,
-of team members to opt out of team
-discovered the structure of DNA, the
-responsibilities that are properly theirs'. He
-genetic information carrier of all living
-calls it captainitis because, he says, 'crew
-organisms. 'When asked how they had
-members of multipilot aircraft exhibit a
-cracked the code ahead of an array of
-sometimes deadly passivity when the flight
-highly accomplished rival investigators, he
-captain makes a clearly wrong-headed
-said something that stunned me. He said
-decision'. This behaviour is not, he says,
-he and Crick had succeeded because they
-unique to air travel, but can happen in any
-were aware that they weren't the most
-workplace where the leader is overbearing.
-intelligent of the scientists pursuing the
-answer. The smartest scientist was called
-At the other end of the scale is the 1980s
-Rosalind Franklin who, Watson said, "was
-Memphis design collective, a group of
-so intelligent she rarely sought advice".'
-young designers for whom 'the only
-rule was that there were no rules'. This
-Teamwork taps into one of the basic
-environment encouraged a free interchange
-drivers of human behaviour. "The principle
-of ideas, which led to more creativity with
-of social proof is so pervasive that we don't
-form, function, colour and materials that
-even recognise it,' says Cialdini. 'If your
-revolutionised attitudes to furniture design.
-project is being resisted, for example, by a
-group of veteran employees, ask another
-Many theorists believe the ideal boss
-old-timer to speak up for it.' Cialdini is not
-should lead from behind, taking pride in
-alone in advocating this strategy. Research
-collective accomplishment and giving
-shows that peer power, used horizontally
-credit where it is due. Cialdini says:
-not vertically, is much more powerful than
-'Leaders should encourage everyone to
-any boss's speech.
-contribute and simultaneously assure all
-concerned that every recommendation is
-Writing, visualising and prototyping can
-important to making the right decision and
-stimulate the flow of new ideas. Cialdini
-will be given full attention.' The frustrating
-cites scores of research papers and
-thing about innovation is that there are
-historical events that prove that even
-many approaches, but no magic formula.
-something as simple as writing deepens
-However, a manager who wants to create
-every individual's engagement in the
-a truly innovative culture can make their
-project. It is, he says, the reason why all
-job a lot easier by recognising these
-those competitions on breakfast cereal
-psychological realities.
+Cialdini believes that this 'follow-the-leader syndrome' is dangerous, not least because it encourages bosses to go it alone. 'It's been scientifically proven that three people will be better than one at solving problems, even if that one person is the smartest person in the field.' To prove his point, Cialdini cites an interview with molecular biologist James Watson. Watson, together with Francis Crick, discovered the structure of DNA, the genetic information carrier of all living organisms. 'When asked how they had cracked the code ahead of an array of highly accomplished rival investigators, he said something that stunned me. He said he and Crick had succeeded because they were aware that they weren't the most intelligent of the scientists pursuing the answer. The smartest scientist was called Rosalind Franklin who, Watson said, “was so intelligent she rarely sought advice”.'
+Teamwork taps into one of the basic drivers of human behaviour. 'The principle of social proof is so pervasive that we don't even recognise it,' says Cialdini. 'If your project is being resisted, for example, by a group of veteran employees, ask another old-timer to speak up for it.' Cialdini is not alone in advocating this strategy. Research shows that peer power, used horizontally not vertically, is much more powerful than any boss's speech.
+Writing, visualising and prototyping can stimulate the flow of new ideas. Cialdini cites scores of research papers and historical events that prove that even something as simple as writing deepens every individual's engagement in the project. It is, he says, the reason why all those competitions on breakfast cereal packets encouraged us to write in saying, in no more than 10 words: 'I like Kellogg's Corn Flakes because... .' The very act of writing makes us more likely to believe it.
+Authority doesn't have to inhibit innovation but it often does. The wrong kind of leadership will lead to what Cialdini calls 'captainitis, the regrettable tendency of team members to opt out of team responsibilities that are properly theirs'. He calls it captainitis because, he says, 'crew members of multipilot aircraft exhibit a sometimes deadly passivity when the flight captain makes a clearly wrong-headed decision'. This behaviour is not, he says, unique to air travel, but can happen in any workplace where the leader is overbearing.
+At the other end of the scale is the 1980s Memphis design collective, a group of young designers for whom 'the only rule was that there were no rules'. This environment encouraged a free interchange of ideas, which led to more creativity with form, function, colour and materials that revolutionised attitudes to furniture design.
+Many theorists believe the ideal boss should lead from behind, taking pride in collective accomplishment and giving credit where it is due. Cialdini says: 'Leaders should encourage everyone to contribute and simultaneously assure all concerned that every recommendation is important to making the right decision and will be given full attention.' The frustrating thing about innovation is that there are many approaches, but no magic formula. However, a manager who wants to create a truly innovative culture can make their job a lot easier by recognising these psychological realities.
 26
 
 ## Page 19
 
 Reading
-Questions 27-30
+Questions 27–30
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-30 on your answer sheet.
+Write the correct letter in boxes 27–30 on your answer sheet.
 27 The example of the 'million-dollar quartet' underlines the writer's point about
-recognising talent.
-A
-B
-working as a team.
-C
-having a shared objective.
-D
-being an effective leader.
-28
-James Watson suggests that he and Francis Crick won the race to discover the
-DNA code because they
-A
-were conscious of their own limitations.
-B
-brought complementary skills to their partnership.
-C
-were determined to outperform their brighter rivals.
-encouraged each other to realise their joint ambition.
-D
-The writer mentions competitions on breakfast cereal packets as an example of
-29
-how to
-A
-inspire creative thinking.
-B
-generate concise writing.
-C
-promote loyalty to a group.
-D
-strengthen commitment to an idea.
-In the last paragraph, the writer suggests that it is important for employees to
-A
-be aware of their company's goals.
-B
-feel that their contributions are valued.
-C
-have respect for their co-workers' achievements.
-D
-understand why certain management decisions are made.
+A recognising talent.
+B working as a team.
+C having a shared objective.
+D being an effective leader.
+28 James Watson suggests that he and Francis Crick won the race to discover the DNA code because they
+A were conscious of their own limitations.
+B brought complementary skills to their partnership.
+C were determined to outperform their brighter rivals.
+D encouraged each other to realise their joint ambition.
+29 The writer mentions competitions on breakfast cereal packets as an example of how to
+A inspire creative thinking.
+B generate concise writing.
+C promote loyalty to a group.
+D strengthen commitment to an idea.
+30 In the last paragraph, the writer suggests that it is important for employees to
+A be aware of their company's goals.
+B feel that their contributions are valued.
+C have respect for their co-workers' achievements.
+D understand why certain management decisions are made.
 27
 
 ## Page 20
 
 Test 1
-Questions 31-35
-Complete each sentence with the correct ending, A-G, below.
-Write the correct letter, A-G, in boxes 31-35 on your answer sheet.
-Employees whose values match those of their employers are more likely to
-32At times of change, people tend to
+Questions 31–35
+Complete each sentence with the correct ending, A–G, below.
+Write the correct letter, A–G, in boxes 31–35 on your answer sheet.
+31 Employees whose values match those of their employers are more likely to
+32 At times of change, people tend to
 33 If people are aware of what they might lose, they will often
-34
-People working under a dominant boss are liable to
-Employees working in organisations with few rules are more likely to
-35
-A
-take chances.
-B
-share their ideas.
-C
-become competitive.
-D
-get promotion.
-E
-avoid risk.
-F
-ignore their duties.
-G
-remain in their jobs.
+34 People working under a dominant boss are liable to
+35 Employees working in organisations with few rules are more likely to
+A take chances.
+B share their ideas.
+C become competitive.
+D get promotion.
+E avoid risk.
+F ignore their duties.
+G remain in their jobs.
+28
 
 ## Page 21
 
 Reading
-Questions 36-40
-the following statements agree with the claims of the writer in Reading Passage 3?
-boxes 36-40 on your answer sheet, write
-YES
-if the statement agrees with the claims of the writer
-NO
-if the statement contradicts the claims of the writer
-if it is impossible to say what the writer thinks about this
-NOT GIVEN
-The physical surroundings in which a person works play a key role in determining
-their creativity.
-Most people have the potential to be creative.
-3B
-Teams work best when their members are of equally matched intelligence.
-39
-It is easier for smaller companies to be innovative.
-A manager's approval of an idea is more persuasive than that of a colleague.
+Questions 36–40
+Do the following statements agree with the claims of the writer in Reading Passage 3?
+In boxes 36–40 on your answer sheet, write
+YES if the statement agrees with the claims of the writer
+NO if the statement contradicts the claims of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+36 The physical surroundings in which a person works play a key role in determining their creativity.
+37 Most people have the potential to be creative.
+38 Teams work best when their members are of equally matched intelligence.
+39 It is easier for smaller companies to be innovative.
+40 A manager's approval of an idea is more persuasive than that of a colleague.
 29
 
 ## Page 22
@@ -1170,560 +816,285 @@ Changes in the economy
 Reading
 READING
 READING PASSAGE 1
-should spend about 20 minutes on Questions 1-13, which are based on Reading
-P=ssage 1 on the following pages.
-Lestions 1-7
-ading Passage 1 has seven paragraphs, A-G.
-oose the correct heading for each paragraph from the list of headings below.
-e the correct number, i-ix, in boxes 1-7 on your answer sheet.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 on the following pages.
+
+Questions 1–7
+Reading Passage 1 has seven paragraphs, A–G.
+Choose the correct heading for each paragraph from the list of headings below.
+Write the correct number, i–ix, in boxes 1–7 on your answer sheet.
+
 List of Headings
-The search for the reasons for an increase in population
-Industrialisation and the fear of unemployment
-ii
-iii
-The development of cities in Japan
-iv
-The time and place of the Industrial Revolution
-The cases of Holland, France and China
-v
-vi
-Changes in drinking habits in Britain
-vii
-Two keys to Britain's industrial revolution
-viii
-Conditions required for industrialisation
-ix
-Comparisons with Japan lead to the answer
-Paragraph A
-Paragraph B
-Paragraph C
-Paragraph D
-Paragraph E
-Paragraph F
-Paragraph G
+i The search for the reasons for an increase in population
+ii Industrialisation and the fear of unemployment
+iii The development of cities in Japan
+iv The time and place of the Industrial Revolution
+v The cases of Holland, France and China
+vi Changes in drinking habits in Britain
+vii Two keys to Britain's industrial revolution
+viii Conditions required for industrialisation
+ix Comparisons with Japan lead to the answer
+
+1 Paragraph A
+2 Paragraph B
+3 Paragraph C
+4 Paragraph D
+5 Paragraph E
+6 Paragraph F
+7 Paragraph G
+
 41
 
 ## Page 34
 
 Test 2
+
 Tea and the Industrial Revolution
-A Cambridge professor says that a change in drinking habits was the reason for
-the Industrial Revolution in Britain. Anjana Abuja reports
+A Cambridge professor says that a change in drinking habits was the reason for the Industrial Revolution in Britain. Anjana Ahuja reports
+
 A
-Alan Macfarlane, professor of anthropological science at King's College, Cambridge, has, like
-other historians, spent decades wrestling with the enigma of the Industrial Revolution. Why
-did this particular Big Bang - the world-changing birth of industry - happen in Britain? And
-why did it strike at the end of the 18th century?
+Alan Macfarlane, professor of anthropological science at King's College, Cambridge, has, like other historians, spent decades wrestling with the enigma of the Industrial Revolution. Why did this particular Big Bang – the world-changing birth of industry – happen in Britain? And why did it strike at the end of the 18th century?
+
 B
-Macfarlane compares the puzzle to a combination lock. 'There are about 20 different
-factors and all of them need to be present before the revolution can happen,' he says. For
-industry to take off, there needs to be the technology and power to
-factories, large
-urban populations to provide cheap labour, easy transport to move
-s around, an
-affluent middle-class willing to buy mass-produced objects, a market-driven economy and
-a political system that allows this to happen. While this was the case for England, other
-nations, such as Japan, the Netherlands and France also met some of these criteria but were
-not industrialising. 'All these factors must have been necessary but not sufficient to cause the
-revolution,' says Macfarlane. 'After all, Holland had everything except coal, while China also
-.
-had many of these factors. Most historians are convinced there are one or two missing factors
-that you need to open the lock.'
+Macfarlane compares the puzzle to a combination lock. 'There are about 20 different factors and all of them need to be present before the revolution can happen,' he says. For industry to take off, there needs to be the technology and power to drive factories, large urban populations to provide cheap labour, easy transport to move goods around, an affluent middle-class willing to buy mass-produced objects, a market-driven economy and a political system that allows this to happen. While this was the case for England, other nations, such as Japan, the Netherlands and France also met some of these criteria but were not industrialising. 'All these factors must have been necessary but not sufficient to cause the revolution,' says Macfarlane. 'After all, Holland had everything except coal, while China also had many of these factors. Most historians are convinced there are one or two missing factors that you need to open the lock.'
+
 C
-The missing factors, he proposes, are to be found in almost every kitchen cupboard. Tea and
-beer, two of the nation's favourite drinks, fuelled the revolution. The antiseptic properties
-of tannin, the active ingredient in tea, and of hops in beer - plus the fact that both are
-made with boiled water - allowed urban communities to flourish at close quarters without
-succumbing to water-borne diseases such as dysentery. The theory sounds eccentric but once
-he starts to explain the detective work that went into his deduction, the scepticism gives
-way to wary admiration. Macfarlane's case has been strengthened by support from notable
-quarters - Roy Porter, the distinguished medical historian, recently wrote a favourable
-appraisal of his research.
+The missing factors, he proposes, are to be found in almost every kitchen cupboard. Tea and beer, two of the nation's favourite drinks, fuelled the revolution. The antiseptic properties of tannin, the active ingredient in tea, and of hops in beer – plus the fact that both are made with boiled water – allowed urban communities to flourish at close quarters without succumbing to water-borne diseases such as dysentery. The theory sounds eccentric but once he starts to explain the detective work that went into his deduction, the scepticism gives way to wary admiration. Macfarlane's case has been strengthened by support from notable quarters – Roy Porter, the distinguished medical historian, recently wrote a favourable appraisal of his research.
+
 D
-Macfarlane had wondered for a long time how the Industrial Revolution came about.
-Historians had alighted on one interesting factor around the mid-18th century that required
-explanation. Between about 1650
-d 1740, the population in Britain was static. But then
-there was a burst in population growth. Macfarlane says: 'The infant mortality rate halved
-in the space of 20 years, and this happened in both rural areas and cities, and across all
-classes. People suggested four possible causes. Was there a sudden change in the viruses and
-bacteria around? Unlikely. Was there a revolution in medical science? But this was a century
-before Lister's revolution*. Was there a change in environmental conditions? There were
-improvements in agriculture that wiped out malaria, but these were small gains. Sanitation
-did not become widespread until the 19th century. The only option left is food. But the
-height and weight statistics show a decline. So the food must have got worse. Efforts to
-explain this sudden reduction in child deaths appeared to draw a blank.'
-Joseh Lister was the first doctor to use antiseptc techniques during surgicaloerations to prevent infecins.
+Macfarlane had wondered for a long time how the Industrial Revolution came about. Historians had alighted on one interesting factor around the mid-18th century that required explanation. Between about 1650 and 1740, the population in Britain was static. But then there was a burst in population growth. Macfarlane says: 'The infant mortality rate halved in the space of 20 years, and this happened in both rural areas and cities, and across all classes. People suggested four possible causes. Was there a sudden change in the viruses and bacteria around? Unlikely. Was there a revolution in medical science? But this was a century before Lister's revolution*. Was there a change in environmental conditions? There were improvements in agriculture that wiped out malaria, but these were small gains. Sanitation did not become widespread until the 19th century. The only option left is food. But the height and weight statistics show a decline. So the food must have got worse. Efforts to explain this sudden reduction in child deaths appeared to draw a blank.'
+
+* Joseph Lister was the first doctor to use antiseptic techniques during surgical operations to prevent infections.
+
 42
 
 ## Page 35
 
 Reading
+
 E
-This population burst seemed to happen at just the right time to provide labour for the
-Industrial Revolution. 'When you start moving towards an industrial revolution, it is
-economically efficient to have people living close together,' says Macfarlane. 'But then you
-get disease, particularly from human waste.' Some digging around in historical records
-revealed that there was a change in the incidence of water-borne disease at that time,
-especially dysentery. Macfarlane deduced that whatever the British were drinking must have
-been important in regulating disease. He says, 'We drank beer. For a long time, the English
-were protected by the strong antibacterial agent in hops, which were added to help preserve
-the beer. But in the late 17th century a tax was introduced on malt, the basic ingredient of
-beer. The poor turned to water and gin and in the 1720s the mortality rate began to rise
-again. Then it suddenly dropped again. What caused this?'
-Macfarlane looked to Japan, which was also developing large cities about the same time,
-2
-and also had no sanitation. Water-borne diseases had a much looser grip on the Japanese
-population than those in Britain. Could it be the prevalence of tea in their culture?
-Macfarlane then noted that the history of tea in Britain provided an extraordinary
-coincidence of dates. Tea was relatively expensive until Britain started a direct clipper trade
-with China in the early 18th century. By the 1740s, about the time that infant mortality
-was dipping, the drink was common. Macfarlane guessed that the fact that water had to
-be boiled, together with the stomach-purifying properties of tea meant that the breast
-milk provided by mothers was healthier than it had ever been. No other European nation
-sipped tea like the British, which, by Macfarlane's logic, pushed these other countries out of
-contention for the revolution.
-But, if tea is a factor in the combination lock, why didn't Japan forge ahead in a tea-soaked
-industrial revolution of its own? Macfarlane notes that even though 17th-century Japan had
-large cities, high literacy rates, even a futures market, it had turned its back on the essence
-of any work-based revolution by giving up labour-saving devices such as animals, afraid that
-they would put people out of work. So, the nation that we now think of as one of the most
-technologically advanced entered the 19th century having 'abandoned the wheel'.
+This population burst seemed to happen at just the right time to provide labour for the Industrial Revolution. 'When you start moving towards an industrial revolution, it is economically efficient to have people living close together,' says Macfarlane. 'But then you get disease, particularly from human waste.' Some digging around in historical records revealed that there was a change in the incidence of water-borne disease at that time, especially dysentery. Macfarlane deduced that whatever the British were drinking must have been important in regulating disease. He says, 'We drank beer. For a long time, the English were protected by the strong antibacterial agent in hops, which were added to help preserve the beer. But in the late 17th century a tax was introduced on malt, the basic ingredient of beer. The poor turned to water and gin and in the 1720s the mortality rate began to rise again. Then it suddenly dropped again. What caused this?'
+
+F
+Macfarlane looked to Japan, which was also developing large cities about the same time, and also had no sanitation. Water-borne diseases had a much looser grip on the Japanese population than those in Britain. Could it be the prevalence of tea in their culture? Macfarlane then noted that the history of tea in Britain provided an extraordinary coincidence of dates. Tea was relatively expensive until Britain started a direct clipper trade with China in the early 18th century. By the 1740s, about the time that infant mortality was dipping, the drink was common. Macfarlane guessed that the fact that water had to be boiled, together with the stomach-purifying properties of tea meant that the breast milk provided by mothers was healthier than it had ever been. No other European nation sipped tea like the British, which, by Macfarlane's logic, pushed these other countries out of contention for the revolution.
+
+G
+But, if tea is a factor in the combination lock, why didn't Japan forge ahead in a tea-soaked industrial revolution of its own? Macfarlane notes that even though 17th-century Japan had large cities, high literacy rates, even a futures market, it had turned its back on the essence of any work-based revolution by giving up labour-saving devices such as animals, afraid that they would put people out of work. So, the nation that we now think of as one of the most technologically advanced entered the 19th century having 'abandoned the wheel'.
+
 43
 
 ## Page 36
 
 Test 2
-Questions 8-13
+
+Questions 8–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 8-13 on your answer sheet, write
-if the statement agrees with the information
-TRUE
-FALSE
-if the statement contradicts the information
-if there is no information on this
-NOT GIVEN
-China's transport system was not suitable for industry in the 18th century.
-8
-9
-Tea and beer both helped to prevent dysentery in Britain.
-Roy Porter disagrees with Professor Macfarlane's findings.
-10
-11
-After 1740, there was a reduction in population in Britain.
-12
-People in Britain used to make beer at home.
-The tax on malt indirectly caused a rise in the death rate.
-13
+In boxes 8–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+8 China's transport system was not suitable for industry in the 18th century.
+9 Tea and beer both helped to prevent dysentery in Britain.
+10 Roy Porter disagrees with Professor Macfarlane's findings.
+11 After 1740, there was a reduction in population in Britain.
+12 People in Britain used to make beer at home.
+13 The tax on malt indirectly caused a rise in the death rate.
+
 44
 
 ## Page 37
 
-the children's IQ scores, especially over IQ 130, the better the quality of their
-educational backup, measured in terms of reported verbal interactions with
-parents, number of books and activities in their home etc. Because IQ tests are
-decidedly influenced by what the child has learned, they are to some extent
-measures of current achievement based on age-norms; that is, how well the
-children have learned to manipulate their knowledge and know-how within the
-terms of the test. The vocabulary aspect, for example, is dependent on having
-heard those words. But IQ tests can neither identify the processes of learning
-and thinking nor predict creativity.
-Excellence does not emerge without appropriate help. To reach an
-exceptionally high standard in any area very able children need the means to
-learn, which includes material to work with and focused challenging tuition
-- and the encouragement to follow their dream. There appears to be a
-qualitative difference in the way the intellectually highly able think, compared
-with more average-ability or older pupils, for whom external regulation by the
-teacher often compensates for lack of internal regulation. To be at their most
-effective in their self-regulation, all children can be helped to identify their own
-ways of learning - metacognition - which will include strategies of planning,
-monitoring, evaluation, and choice of what to learn. Emotional awareness is
-also part of metacognition, so children should be helped to be aware of their
-feelings around the area to be learned, feelings of curiosity or confidence, for
-example.
-High achievers have been found to use self-regulatory learning strategies
-more often and more effectively than lower achievers, and are better able to
-transfer these strategies to deal with unfamiliar tasks. This happens to such a
-high degree in some children that they appear to be demonstrating talent in
-particular areas. Overviewing research on the thinking process of highly able
+Reading
+
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+
+Gifted children and learning
+
+A Internationally, ‘giftedness’ is most frequently determined by a score on a general intelligence test, known as an IQ test, which is above a chosen cut-off point, usually at around the top 2–5%. Children’s educational environment contributes to the IQ score and the way intelligence is used. For example, a very close positive relationship was found when children’s IQ scores were compared with their home educational provision (Freeman, 2010). The higher the children’s IQ scores, especially over IQ 130, the better the quality of their educational backup, measured in terms of reported verbal interactions with parents, number of books and activities in their home etc. Because IQ tests are decidedly influenced by what the child has learned, they are to some extent measures of current achievement based on age-norms; that is, how well the children have learned to manipulate their knowledge and know-how within the terms of the test. The vocabulary aspect, for example, is dependent on having heard those words. But IQ tests can neither identify the processes of learning and thinking nor predict creativity.
+
+B Excellence does not emerge without appropriate help. To reach an exceptionally high standard in any area very able children need the means to learn, which includes material to work with and focused challenging tuition – and the encouragement to follow their dream. There appears to be a qualitative difference in the way the intellectually highly able think, compared with more average-ability or older pupils, for whom external regulation by the teacher often compensates for lack of internal regulation. To be at their most effective in their self-regulation, all children can be helped to identify their own ways of learning – metacognition – which will include strategies of planning, monitoring, evaluation, and choice of what to learn. Emotional awareness is also part of metacognition, so children should be helped to be aware of their feelings around the area to be learned, feelings of curiosity or confidence, for example.
+
+C High achievers have been found to use self-regulatory learning strategies more often and more effectively than lower achievers, and are better able to transfer these strategies to deal with unfamiliar tasks. This happens to such a high degree in some children that they appear to be demonstrating talent in particular areas. Overviewing research on the thinking process of highly able
+
 45
 
 ## Page 38
 
 Test 2
-children, (Shore and Kanevsky, 1993) put the instructor's problem succinctly:
-'If they [the gifted] merely think more quickly, then we need only teach more
-quickly. If they merely make fewer errors, then we can shorten the practice'. But
-of course, this is not entirely the case; adjustments have to be made in methods
-of learning and teaching, to take account of the many ways individuals think.
-Yet in order to learn by themselves, the gifted do need some support from their
-D
-teachers. Conversely, teachers who have a tendency to 'overdirect' can diminish
-their gifted pupils' learning autonomy. Although 'spoon-feeding' can produce
-extremely high examination results, these are not always followed by equally
-impressive life successes. Too much dependence on the teacher risks loss of
-autonomy and motivation to discover. However, when teachers help pupils to
-reflect on their own learning and thinking activities, they increase their pupils'
-self-regulation. For a young child, it may be just the simple question 'What have
-you learned today?' which helps them to recognise what they are doing. Given
-that a fundamental goal of education is to transfer the control of learning from
-teachers to pupils, improving pupils' learning to learn techniques should be a
-major outcome of the school experience, especially for the highly competent.
-There are quite a number of new methods which can help, such as child-
-initiated learning, ability-peer tutoring, etc. Such practices have been found to
-be particularly useful for bright children from deprived areas.
-E
-But scientific progress is not all theoretical, knowledge is also vital to
-outstanding performance: individuals who know a great deal about a specific
-domain will achieve at a higher level than those who do not (Elshout, 1995).
-Research with creative scientists by Simonton (1988) brought him to the
-conclusion that above a certain high level, characteristics such as independence
-seemed to contribute more to reaching the highest levels of expertise than
-intellectual skills, due to the great demands of effort and time needed for
-learning and practice. Creativity in all forms can be seen as expertise mixed
-with a high level of motivation (Weisberg, 1993).
-F
-To sum up, learning is affected by emotions of both the individual and
-significant others. Positive emotions facilitate the creative aspects of learning
-and negative emotions inhibit it. Fear, for example, can limit the development
-of curiosity, which is a strong force in scientific advance, because it motivates
-problem-solving behaviour. In Boekaerts' (1991) review of emotion in the
-learning of very high IQ and highly achieving children, she found emotional
-forces in harness. They were not only curious, but often had a strong desire to
-control their environment, improve their learning efficiency, and increase their
-own learning resources.
+
+children, (Shore and Kanevsky, 1993) put the instructor’s problem succinctly: ‘If they [the gifted] merely think more quickly, then we need only teach more quickly. If they merely make fewer errors, then we can shorten the practice’. But of course, this is not entirely the case; adjustments have to be made in methods of learning and teaching, to take account of the many ways individuals think.
+
+D Yet in order to learn by themselves, the gifted do need some support from their teachers. Conversely, teachers who have a tendency to ‘overdirect’ can diminish their gifted pupils’ learning autonomy. Although ‘spoon-feeding’ can produce extremely high examination results, these are not always followed by equally impressive life successes. Too much dependence on the teacher risks loss of autonomy and motivation to discover. However, when teachers help pupils to reflect on their own learning and thinking activities, they increase their pupils’ self-regulation. For a young child, it may be just the simple question ‘What have you learned today?’ which helps them to recognise what they are doing. Given that a fundamental goal of education is to transfer the control of learning from teachers to pupils, improving pupils’ learning to learn techniques should be a major outcome of the school experience, especially for the highly competent. There are quite a number of new methods which can help, such as child-initiated learning, ability-peer tutoring, etc. Such practices have been found to be particularly useful for bright children from deprived areas.
+
+E But scientific progress is not all theoretical, knowledge is also vital to outstanding performance: individuals who know a great deal about a specific domain will achieve at a higher level than those who do not (Elshout, 1995). Research with creative scientists by Simonton (1988) brought him to the conclusion that above a certain high level, characteristics such as independence seemed to contribute more to reaching the highest levels of expertise than intellectual skills, due to the great demands of effort and time needed for learning and practice. Creativity in all forms can be seen as expertise mixed with a high level of motivation (Weisberg, 1993).
+
+F To sum up, learning is affected by emotions of both the individual and significant others. Positive emotions facilitate the creative aspects of learning and negative emotions inhibit it. Fear, for example, can limit the development of curiosity, which is a strong force in scientific advance, because it motivates problem-solving behaviour. In Boekaerts’ (1991) review of emotion in the learning of very high IQ and highly achieving children, she found emotional forces in harness. They were not only curious, but often had a strong desire to control their environment, improve their learning efficiency, and increase their own learning resources.
+
 46
 
 ## Page 39
 
 Reading
-Questions 14-17
-Reading Passage 2 has six paragraphs, A-F.
+
+Questions 14–17
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
-Write the correct letter, A-F, in boxes 14-17 on your answer sheet.
+Write the correct letter, A–F, in boxes 14–17 on your answer sheet.
 NB You may use any letter more than once.
-14
-a reference to the influence of the domestic background on the gifted child
-5 reference to what can be lost if learners are given too much guidance
-16
-a reference to the damaging effects of anxiety
-17
-examples of classroom techniques which favour socially-disadvantaged children
-Questions 18-22
-Look at the following statements (Questions 18-22) and the list of people below.
-Match each statement with the correct person or people, A-E.
-Write the correct letter, A-E, in boxes 18-22 on your answer sheet.
-Less time can be spent on exercises with gifted pupils who produce accurate work.
-18
-19
-Self-reliance is a valuable tool that helps gifted students reach their goals.
-20
-Gifted children know how to channel their feelings to assist their learning.
-21
-The very gifted child benefits from appropriate support from close relatives.
-22
-Realiy successful students have learnt a considerable amount about their subject.
+
+14 a reference to the influence of the domestic background on the gifted child
+15 reference to what can be lost if learners are given too much guidance
+16 a reference to the damaging effects of anxiety
+17 examples of classroom techniques which favour socially-disadvantaged children
+
+Questions 18–22
+Look at the following statements (Questions 18–22) and the list of people below.
+Match each statement with the correct person or people, A–E.
+Write the correct letter, A–E, in boxes 18–22 on your answer sheet.
+
+18 Less time can be spent on exercises with gifted pupils who produce accurate work.
+19 Self-reliance is a valuable tool that helps gifted students reach their goals.
+20 Gifted children know how to channel their feelings to assist their learning.
+21 The very gifted child benefits from appropriate support from close relatives.
+22 Really successful students have learnt a considerable amount about their subject.
+
 List of People
-A
-Freeman
-B
-Shore and Kanevsky
-C
-Elshout
-D
-Simonton
-E
-Boekaerts
+A Freeman
+B Shore and Kanevsky
+C Elshout
+D Simonton
+E Boekaerts
+
 47
 
 ## Page 40
 
 Test 2
-Questions 23-26
+
+Questions 23–26
 Complete the sentences below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
-23
-One study found a strong connection between children's IQ and the availability
-....me.
-24
-Children of average ability seem to need more direction from teachers because
-they do not have
-25
-Metacognition involves children understanding their own learning strategies, as well
-as developing ...
-26
-Teachers who rely on what is known as ..
-often produce sets of impressive
+Write your answers in boxes 23–26 on your answer sheet.
+
+23 One study found a strong connection between children’s IQ and the availability
+of ______ and ______ at home.
+
+24 Children of average ability seem to need more direction from teachers because
+they do not have ______.
+
+25 Metacognition involves children understanding their own learning strategies, as well
+as developing ______.
+
+26 Teachers who rely on what is known as ______ often produce sets of impressive
 grades in class tests.
+
 48
 
 ## Page 41
 
-Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
+
 Museums of fine art and their public
-A
-The fact that people go to the Louvre museum in
-Paris to see the original painting Mona Lisa when
-they can see a reproduction anywhere leads us
-to question some assumptions about the role of
-museums of fine art in today's world
-One of the most famous works of art in
-content to assign
-e world is Leonardo da Vinci's Mona
-the reproduction
-. Nearly everyone who goes to see the
-of their creations
-riginal will already be familiar with it from
-to their workshop
-productions, but they accept that fine art
-apprentices as
-more rewardingly viewed in its original
-regular 'bread and butter' work. And
-form.
-today the task of reproducing pictures is
-However, if Mona Lisa was a famous
-incomparably more simple and reliable,
-ovel, few people would bother to
-with reprographic techniques that allow
-to a museum to read the writer's
-the production of high-quality prints made
-ctual manuscript rather than a printed
-exactly to the original scale, with faithful
-production. This might be explained by
-colour values, and even with duplication of
-e fact that the novel has evolved precisely
-the surface relief of the painting.
-ecause of technological developments
-But despite an implicit recognition that
-at made it possible to print out huge
-the spread of good reproductions can be
-mbers of texts, whereas oil paintings have
-culturally valuable, museums continue to
-ways been produced as unique objects. In
-promote the special status of original work.
-ddition, it could be argued that the practice
-Unfortunately, this seems to place severe
-of interpreting or 'reading' each medium
-limitations on the kind of experience offered
-llows different conventions. With novels,
-to visitors.
-e reader attends mainly to the meaning of
-One limitation is related to the way the
-ords rather than the way they are printed
-museum presents its exhibits. As repositories
-the page, whereas the 'reader'of a
-of unique historical objects, art museums
-inting must attend just as closely to the
-are often called 'treasure houses'. We are
-aterial form of marks and shapes in the
-reminded of this even before we view
-cture as to any ideas they may signify.
-a collection by the presence of security
-Yet it has always been possible to make
-guards, attendants, ropes and display cases
-accurate facsimiles of pretty well any
-to keep us away from the exhibits. In many
-e art work. The seven surviving versions
-cases, the architectural style of the building
-Mona Lisa bear witness to the fact that
-further reinforces that notion. In addition,
-the 16th century, artists seemed perfectly
-a major collection like that of London's
-49
+
+The fact that people go to the Louvre museum in Paris to see the original painting Mona Lisa when they can see a reproduction anywhere leads us to question some assumptions about the role of museums of fine art in today's world
+
+One of the most famous works of art in the world is Leonardo da Vinci's Mona Lisa. Nearly everyone who goes to see the original will already be familiar with it from reproductions, but they accept that fine art is more rewardingly viewed in its original form.
+
+However, if Mona Lisa was a famous novel, few people would bother to go to a museum to read the writer's actual manuscript rather than a printed reproduction. This might be explained by the fact that the novel has evolved precisely because of technological developments that made it possible to print out huge numbers of texts, whereas oil paintings have always been produced as unique objects. In addition, it could be argued that the practice of interpreting or 'reading' each medium follows different conventions. With novels, the reader attends mainly to the meaning of words rather than the way they are printed on the page, whereas the 'reader' of a painting must attend just as closely to the material form of marks and shapes in the picture as to any ideas they may signify.
+
+Yet it has always been possible to make accurate facsimiles of pretty well any fine art work. The seven surviving versions of Mona Lisa bear witness to the fact that in the 16th century, artists seemed perfectly content to assign the reproduction of their creations to their workshop apprentices as regular 'bread and butter' work. And today the task of reproducing pictures is incomparably more simple and reliable, with reprographic techniques that allow the production of high-quality prints made exactly to the original scale, with faithful colour values, and even with duplication of the surface relief of the painting.
+
+But despite an implicit recognition that the spread of good reproductions can be culturally valuable, museums continue to promote the special status of original work. Unfortunately, this seems to place severe limitations on the kind of experience offered to visitors.
+
+One limitation is related to the way the museum presents its exhibits. As repositories of unique historical objects, art museums are often called 'treasure houses'. We are reminded of this even before we view a collection by the presence of security guards, attendants, ropes and display cases to keep us away from the exhibits. In many cases, the architectural style of the building further reinforces that notion. In addition, a major collection like that of London's
 
 ## Page 42
 
-Test 2
-National Gallery is housed in numerous
-the audience encounters an opera or a play
-rooms, each with dozens of works, any
-over a specific time, which is the duration
-one of which is likely to be worth more
-of the performance. Similarly, novels and
-than all the average visitor possesses. In a
-poems are read in a prescribed temporal
-society that judges the personal status of the
-sequence, whereas a picture has no clear
-individual so much by their material worth,
-place at which to start viewing, or at
-it is therefore difficult not to be impressed by
-which to finish. Thus art works themselves
-one's own relative 'worthlessness' in such an
-encourage us to view them superficially,
-environment.
-without appreciating the richness of detail
-Furthermore, consideration of the 'value'
-and labour that is involved.
-of the original work in its treasure house
-Consequently, the dominant critical
-setting impresses upon the viewer that,
-approach becomes that of the art historian,
-since these works were originally produced,
-a specialised academic approach devoted to
-they have been assigned a huge monetary
-'discovering the meaning' of art within the
-value by some person or institution more
-cultural context of its time. This is in perfect
-powerful than themselves. Evidently,
-harmony with the museum's function, since
-nothing the viewer thinks about the work
-the approach is dedicated to seeking out and
-is going to alter that value, and so today's
-conserving 'authentic', 'original' readings of
-viewer is deterred from trying to extend that
-the exhibits. Again, this seems to put paid
-spontaneous, immediate, self-reliant kind of
-to that spontaneous, participatory criticism
-reading which would originally have met the
-which can be found in abundance in
-work.
-criticism of classic works of literature, but is
-The visitor may then be struck by the
-absent from most art history.
-strangeness of seeing such diverse paintings,
-The displays of art museums serve
-drawings and sculptures brought together
-as a warning of what critical practices
-in an environment for which they were not
-can emerge when spontaneous criticism
-originally created. This 'displacement effect'
-is suppressed. The museum public, like
-is further heightened by the sheer volume of
-any other audience, experience art more
-exhibits. In the case of a major collection,
-rewardingly when given the confidence
-there are probably more works on display
-to express their views. If appropriate
-than we could realistically view in weeks or
-works of fine art could be rendered
-even months.
-permanently accessible to the public by
-This is particularly distressing because
-means of high-fidelity reproductions, as
-time seems to be a vital factor in the
-literature and music already are, the public
-appreciation of all art forms. A fundamental
-may feel somewhat less in awe of them.
-difference between paintings and other art
-Unfortunately, that may be too much to ask
-forms is that there is no prescribed time
-from those who seek to maintain and control
-over which a painting is viewed. By contrast, the art establishment.
-50
+National Gallery is housed in numerous rooms, each with dozens of works, any one of which is likely to be worth more than all the average visitor possesses. In a society that judges the personal status of the individual so much by their material worth, it is therefore difficult not to be impressed by one's own relative 'worthlessness' in such an environment.
+
+Furthermore, consideration of the 'value' of the original work in its treasure house setting impresses upon the viewer that, since these works were originally produced, they have been assigned a huge monetary value by some person or institution more powerful than themselves. Evidently, nothing the viewer thinks about the work is going to alter that value, and so today's viewer is deterred from trying to extend that spontaneous, immediate, self-reliant kind of reading which would originally have met the work.
+
+The visitor may then be struck by the strangeness of seeing such diverse paintings, drawings and sculptures brought together in an environment for which they were not originally created. This 'displacement effect' is further heightened by the sheer volume of exhibits. In the case of a major collection, there are probably more works on display than we could realistically view in weeks or even months.
+
+This is particularly distressing because time seems to be a vital factor in the appreciation of all art forms. A fundamental difference between paintings and other art forms is that there is no prescribed time over which a painting is viewed. By contrast, the audience encounters an opera or a play over a specific time, which is the duration of the performance. Similarly, novels and poems are read in a prescribed temporal sequence, whereas a picture has no clear place at which to start viewing, or at which to finish. Thus art works themselves encourage us to view them superficially, without appreciating the richness of detail and labour that is involved.
+
+Consequently, the dominant critical approach becomes that of the art historian, a specialised academic approach devoted to 'discovering the meaning' of art within the cultural context of its time. This is in perfect harmony with the museum's function, since the approach is dedicated to seeking out and conserving 'authentic', 'original' readings of the exhibits. Again, this seems to put paid to that spontaneous, participatory criticism which can be found in abundance in criticism of classic works of literature, but is absent from most art history.
+
+The displays of art museums serve as a warning of what critical practices can emerge when spontaneous criticism is suppressed. The museum public, like any other audience, experience art more rewardingly when given the confidence to express their views. If appropriate works of fine art could be rendered permanently accessible to the public by means of high-fidelity reproductions, as literature and music already are, the public may feel somewhat less in awe of them. Unfortunately, that may be too much to ask from those who seek to maintain and control the art establishment.
 
 ## Page 43
 
-Reading
-Questions 27-31
-Complete the summary using the list of words, A-L, below.
-Write the correct letter, A-L, in boxes 27-31 on your answer sheet.
+Questions 27–31
+Complete the summary using the list of words, A–L, below.
+Write the correct letter, A–L, in boxes 27–31 on your answer sheet.
+
 The value attached to original works of art
-People go to art museums because they accept the value of seeing an original work of art.
-But they do not go to museums to read original manuscripts of novels, perhaps because the
-ailability of novels has depended on 27 ....
-.. for so long, and also because with novels, the
-. are the most important thing.
-However, in historical times artists such as Leonardo were happy to instruct 29
-o produce copies of their work and these days new methods of reproduction allow excellent
-replication of surface relief features as well as colour and 30 ....
-It is regrettable that museums still promote the superiority of original works of art, since
-this may not be in the interests of the 31.
-A
-B
-C
-mechanical processes
-institution
-mass production
-D
-public
-E
-paints
-F
-artist
-G
-size
-H
-underlying ideas
-basic technology
-J
-readers
-K
-picture frames
-L
-assistants
-51
+
+People go to art museums because they accept the value of seeing an original work of art. But they do not go to museums to read original manuscripts of novels, perhaps because the availability of novels has depended on 27 ............... for so long, and also because with novels, the 28 ............... are the most important thing.
+
+However, in historical times artists such as Leonardo were happy to instruct 29 ............... to produce copies of their work and these days new methods of reproduction allow excellent replication of surface relief features as well as colour and 30 ............... .
+
+It is regrettable that museums still promote the superiority of original works of art, since this may not be in the interests of the 31 ............... .
+
+A institution
+B mass production
+C mechanical processes
+D public
+E paints
+F artist
+G size
+H underlying ideas
+I basic technology
+J readers
+K picture frames
+L assistants
 
 ## Page 44
 
-Test 2
-Questions 32-35
+Questions 32–35
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 32-35 on your answer sheet.
-32
-The writer mentions London's National Gallery to illustrate
-the undesirable cost to a nation of maintaining a huge collection of art.
-A
-B
-the conflict that may arise in society between financial and artistic values.
-C
-the negative effect a museum can have on visitors' opinions of themselves.
-the need to put individual well-being above large-scale artistic schemes.
-D
-The writer says that today, viewers may be unwilling to criticise a work because
-33
-they lack the knowledge needed to support an opinion.
-A
-B
-they fear it may have financial implications.
-C
-they have no real concept of the work's value.
-they feel their personal reaction is of no significance.
-D
-According to the writer, the 'displacement effect' on the visitor is caused by
-34
-the variety of works on display and the way they are arranged.
-A
-B
-the impossibility of viewing particular works of art over a long period.
-C
-the similar nature of the paintings and the lack of great works.
-the inappropriate nature of the individual works selected for exhibition.
-D
-The writer says that unlike other forms of art, a painting does not
-35
-involve direct contact with an audience.
-A
-B
-require a specific location for a performance.
-need the involvement of other professionals.
-C
-D
-have a specific beginning or end.
-52
+Write the correct letter in boxes 32–35 on your answer sheet.
+
+32 The writer mentions London's National Gallery to illustrate
+A the undesirable cost to a nation of maintaining a huge collection of art.
+B the conflict that may arise in society between financial and artistic values.
+C the negative effect a museum can have on visitors' opinions of themselves.
+D the need to put individual well-being above large-scale artistic schemes.
+
+33 The writer says that today, viewers may be unwilling to criticise a work because
+A they lack the knowledge needed to support an opinion.
+B they fear it may have financial implications.
+C they have no real concept of the work's value.
+D they feel their personal reaction is of no significance.
+
+34 According to the writer, the 'displacement effect' on the visitor is caused by
+A the variety of works on display and the way they are arranged.
+B the impossibility of viewing particular works of art over a long period.
+C the similar nature of the paintings and the lack of great works.
+D the inappropriate nature of the individual works selected for exhibition.
+
+35 The writer says that unlike other forms of art, a painting does not
+A involve direct contact with an audience.
+B require a specific location for a performance.
+C need the involvement of other professionals.
+D have a specific beginning or end.
 
 ## Page 45
 
-Reading
-CLestions 36-40
-Dio the following statements agree with the views of the writer in Reading Passage 3?
-boxes 36-40 on your answer sheet, write
-YES
-if the statement agrees with the views of the writer
-NO
-if the statement contradicts the views of the writer
-NOT GIVEN
-if it is impossible to say what the writer thinks about this
-Art history should focus on discovering the meaning of art using a range of media.
-The approach of art historians conflicts with that of art museums.
-People should be encouraged to give their opinions openly on works of art.
-Reproductions of fine art should only be sold to the public if they are of high quality.
-M
-In the future, those with power are likely to encourage more people to enjoy art.
-53
+Questions 36–40
+Do the following statements agree with the views of the writer in Reading Passage 3?
+In boxes 36–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+
+36 Art history should focus on discovering the meaning of art using a range of media.
+37 The approach of art historians conflicts with that of art museums.
+38 People should be encouraged to give their opinions openly on works of art.
+39 Reproductions of fine art should only be sold to the public if they are of high quality.
+40 In the future, those with power are likely to encourage more people to enjoy art.
 
 ## Page 46
 
@@ -2072,557 +1443,298 @@ Leaders' actions affect which focus people use
 Test 3
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 on the following pages.
-Questions 1-4
-Reading Passage 1 has five paragraphs, A-E.
-Choose the correct heading for paragraphs B-E from the list of headings below.
-Write the correct number, i-vii, in boxes 1-4 on your answer sheet.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 on the following pages.
+
+Questions 1–4
+Reading Passage 1 has five paragraphs, A–E.
+Choose the correct heading for paragraphs B–E from the list of headings below.
+Write the correct number, i–vii, in boxes 1–4 on your answer sheet.
+
 List of Headings
-Economic and social significance of tourism
-"-
-ii
-The development of mass tourism
-iii
-Travel for the wealthy
-iv
-Earning foreign exchange through tourism
-Difficulty in recognising the economic effects of tourism
-V
-vi
-The contribution of air travel to tourism
-The world impact of tourism
-vii
-viiiThe history of travel
+i Economic and social significance of tourism
+ii The development of mass tourism
+iii Travel for the wealthy
+iv Earning foreign exchange through tourism
+v Difficulty in recognising the economic effects of tourism
+vi The contribution of air travel to tourism
+vii The world impact of tourism
+viii The history of travel
+
 Example
-Answer
-Paragraph A
-viii
-7
-Paragraph B
-2
-Paragraph C
-3
-Paragraph D
-4
-Paragraph E
+Paragraph A viii
+
+1 Paragraph B
+2 Paragraph C
+3 Paragraph D
+4 Paragraph E
+
 64
 
 ## Page 57
 
-government officials also travelled for pleasure. Seaside resorts located at Pompeii
-and Herculaneum afforded citizens the opportunity to escape to their vacation villas
-in order to avoid the summer heat of Rome. Travel, except during the Dark Ages,
-has continued to grow and, throughout recorded history, has played a vital role in the
-development of civilisations and their economies.
-Tourism in the mass form as we know it today is a distinctly twentieth-century
-phenomenon. Historians suggest that the advent of mass tourism began in England
-during the industrial revolution with the rise of the middle class and the availability
-of relatively inexpensive transportation. The creation of the commercial airline
-industry following the Second World War and the subsequent development of the
-jet aircraft in the 1950s signalled the rapid growth and expansion of international
-travel. This growth led to the development of a major new industry: tourism. In turn,
-international tourism became the concern of a number of world governments since
-it not only provided new employment opportunities but also produced a means of
-earning foreign exchange.
-Tourism today has grown significantly in both economic and social importance. In
-most industrialised countries over the past few years the fastest growth has been
-seen in the area of services. One of the largest segments of the service industry,
-although largely unrecognised as an entity in some of these countries, is travel
-and tourism. According to the World Travel and Tourism Council (1992), 'Travel
-and tourism is the largest industry in the world on virtually any economic measure
-including value-added capital investment, employment and tax contributions'. In
-1992, the industry's gross output was estimated to be $3.5 trillion, over 12 per cent
-of all consumer spending. The travel and tourism industry is the world's largest
-employer with almost 130 million jobs, or almost 7 per cent of all employees. This
-industry is the world's leading industrial contributor, producing over 6 per cent of
-the world's gross national product and ad
-accounting for capital investment in excess
-of $422 billion in direct, indirect and p
-ersonal taxes each year. Thus, tourism has a
-profound impact both on the world economy and, because of the educative effect of
-travel and the effects on employment, on society itself.
+Reading
+
+The Context, Meaning and Scope of Tourism
+
+A
+Travel has existed since the beginning of time, when primitive man set out, often traversing great distances in search of game, which provided the food and clothing necessary for his survival. Throughout the course of history, people have travelled for purposes of trade, religious conviction, economic gain, war, migration and other equally compelling motivations. In the Roman era, wealthy aristocrats and high government officials also travelled for pleasure. Seaside resorts located at Pompeii and Herculaneum afforded citizens the opportunity to escape to their vacation villas in order to avoid the summer heat of Rome. Travel, except during the Dark Ages, has continued to grow and, throughout recorded history, has played a vital role in the development of civilisations and their economies.
+
+B
+Tourism in the mass form as we know it today is a distinctly twentieth-century phenomenon. Historians suggest that the advent of mass tourism began in England during the industrial revolution with the rise of the middle class and the availability of relatively inexpensive transportation. The creation of the commercial airline industry following the Second World War and the subsequent development of the jet aircraft in the 1950s signalled the rapid growth and expansion of international travel. This growth led to the development of a major new industry: tourism. In turn, international tourism became the concern of a number of world governments since it not only provided new employment opportunities but also produced a means of earning foreign exchange.
+
+C
+Tourism today has grown significantly in both economic and social importance. In most industrialised countries over the past few years the fastest growth has been seen in the area of services. One of the largest segments of the service industry, although largely unrecognised as an entity in some of these countries, is travel and tourism. According to the World Travel and Tourism Council (1992), 'Travel and tourism is the largest industry in the world on virtually any economic measure including value-added capital investment, employment and tax contributions'. In 1992, the industry's gross output was estimated to be $3.5 trillion, over 12 per cent of all consumer spending. The travel and tourism industry is the world's largest employer with almost 130 million jobs, or almost 7 per cent of all employees. This industry is the world's leading industrial contributor, producing over 6 per cent of the world's gross national product and accounting for capital investment in excess of $422 billion in direct, indirect and personal taxes each year. Thus, tourism has a profound impact both on the world economy and, because of the educative effect of travel and the effects on employment, on society itself.
+
 65
 
 ## Page 58
 
 Test 3
-However, the major problems of the travel and tourism industry that have hidden,
+
 D
-or obscured, its economic impact are the diversity and fragmentation of the
-industry itself. The travel industry includes: hotels, motels and other types of
-accommodation; restaurants and other food services; transportation services and
-facilities; amusements, attractions and other leisure facilities; gift shops and a
-large number of other enterprises. Since many of these businesses also serve
-local residents, the impact of spending by visitors can easily be overlooked or
-underestimated. In addition, Meis (1992) points out that the tourism industry
-involves concepts that have remained amorphous to both analysts and decision
-makers. Moreover, in all nations this problem has made it difficult for the industry
-to develop any type of reliable or credible tourism information base in order to
-estimate the contribution it makes to regional, national and global economies.
-However, the nature of this very diversity makes travel and tourism ideal vehicles
-for economic development in a wide variety of countries, regions or communities.
-Once the exclusive province of the wealthy, travel and tourism have become an
+However, the major problems of the travel and tourism industry that have hidden, or obscured, its economic impact are the diversity and fragmentation of the industry itself. The travel industry includes: hotels, motels and other types of accommodation; restaurants and other food services; transportation services and facilities; amusements, attractions and other leisure facilities; gift shops and a large number of other enterprises. Since many of these businesses also serve local residents, the impact of spending by visitors can easily be overlooked or underestimated. In addition, Meis (1992) points out that the tourism industry involves concepts that have remained amorphous to both analysts and decision makers. Moreover, in all nations this problem has made it difficult for the industry to develop any type of reliable or credible tourism information base in order to estimate the contribution it makes to regional, national and global economies. However, the nature of this very diversity makes travel and tourism ideal vehicles for economic development in a wide variety of countries, regions or communities.
+
 E
-institutionalised way of life for most of the population. In fact, McIntosh and
-Goeldner (1990) suggest that tourism has become the largest commodity in
-international trade for many nations and, for a significant number of other countries,
-it ranks second or third. For example, tourism is the major source of income in
-Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries. In
-addition, Hawkins and Ritchie, quoting from data published by the American
-Express Company, suggest that the travel and tourism industry is the number
-one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West
-Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and
-the United States. However, because of problems of definition, which directly affect
-statistical measurement, it is not possible with any degree of certainty to provide
-precise, valid or reliable data about the extent of world-wide tourism participation
-or its economic impact. In many cases, similar difficulties arise when attempts are
-made to measure domestic tourism.
+Once the exclusive province of the wealthy, travel and tourism have become an institutionalised way of life for most of the population. In fact, McIntosh and Goeldner (1990) suggest that tourism has become the largest commodity in international trade for many nations and, for a significant number of other countries, it ranks second or third. For example, tourism is the major source of income in Bermuda, Greece, Italy, Spain, Switzerland and most Caribbean countries. In addition, Hawkins and Ritchie, quoting from data published by the American Express Company, suggest that the travel and tourism industry is the number one ranked employer in the Bahamas, Brazil, Canada, France, (the former) West Germany, Hong Kong, Italy, Jamaica, Japan, Singapore, the United Kingdom and the United States. However, because of problems of definition, which directly affect statistical measurement, it is not possible with any degree of certainty to provide precise, valid or reliable data about the extent of world-wide tourism participation or its economic impact. In many cases, similar difficulties arise when attempts are made to measure domestic tourism.
+
 66
 
 ## Page 59
 
 Reading
-Questions 5-10
+
+Questions 5–10
 Do the following statements agree with the information given in Reading Passage 1?
-boxes 5-10 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-5
-The largest employment figures in the world are found in the travel and tourism
-industry.
-Tourism contributes over six per cent of the Australian gross national product.
-Tourism has a social impact because it promotes recreation.
-Two main features of the travel and tourism industry make its economic significance
-B
-difficult to ascertain.
-Visitor spending is always greater than the spending of residents in tourist areas.
-9
-10
-It is easy to show statistically how tourism affects individual economies.
-Questions 11-13
+In boxes 5–10 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+5 The largest employment figures in the world are found in the travel and tourism industry.
+6 Tourism contributes over six per cent of the Australian gross national product.
+7 Tourism has a social impact because it promotes recreation.
+8 Two main features of the travel and tourism industry make its economic significance difficult to ascertain.
+9 Visitor spending is always greater than the spending of residents in tourist areas.
+10 It is easy to show statistically how tourism affects individual economies.
+
+Questions 11–13
 Complete the sentences below.
 Choose NO MORE THAN THREE WORDS from the passage for each answer.
-Write your answers in boxes 11-13 on your answer sheet.
-11
-In Greece, tourism is the most important .
-12
-The travel and tourism industry in Jamaica is the major
-13
-The problems associated with measuring international tourism are often reflected in
-the measurement of
+Write your answers in boxes 11–13 on your answer sheet.
+
+11 In Greece, tourism is the most important ............... .
+12 The travel and tourism industry in Jamaica is the major ............... .
+13 The problems associated with measuring international tourism are often reflected in the measurement of ............... .
+
 67
 
 ## Page 60
 
 Test 3
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
-leaves
-Autumn
-Canadian writer Jay Ingram investigates the
-mystery of why leaves turn red in the fall
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+
+Autumn leaves
+Canadian writer Jay Ingram investigates the mystery of why leaves turn red in the fall
+
 A
-One of the most captivating natural events of the year in many areas throughout
-North America is the turning of the leaves in the fall. The colours are magnificent,
-but the question of exactly why some trees turn yellow or orange, and others red or
-purple, is something which has long puzzled scientists.
+One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists.
+
 B
-Summer leaves are green because they are full of chlorophyll, the molecule that
-captures sunlight and converts that energy into new building materials for the tree.
-As fall approaches in the northern hemisphere, the amount of solar energy available
-declines considerably. For many trees - evergreen conifers being an exception -
-the best strategy is to abandon photosynthesis" until the spring. So rather than
-maintaining the now redundant leaves throughout the winter, the tree saves its
-precious resources and discards them. But before letting its leaves go, the tree
-dismantles their chlorophyll molecules and ships their valuable nitrogen back into
-the twigs. As chlorophyll is depleted, other colours that have been dominated by it
-throughout the summer begin to be revealed. This unmasking explains the autumn
-colours of yellow and orange, but not the brilliant reds and purples of trees such as
-the maple or sumac.
+Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees – evergreen conifers being an exception – the best strategy is to abandon photosynthesis* until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac.
+
 C
-The source of the red is widely known: it is created by anthocyanins, water-soluble
-plant pigments reflecting the red to blue range of the visible spectrum. They belong to
-a class of sugar-based chemical compounds also known as flavonoids. What's puzzling
-is that anthocyanins are actually newly minted, made in the leaves at the same time as
-the tree is preparing to drop them. But it is hard to make sense of the manufacture of
-anthocyanins - why should a tree bother making new chemicals in its leaves when it's
-already scrambling to withdraw and preserve the ones already there?
+The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What's puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins – why should a tree bother making new chemicals in its leaves when it's already scrambling to withdraw and preserve the ones already there?
+
 D
-Some theories about anthocyanins have argued that they might act as a chemical
-defence against attacks by insects or fungi, or that they might attract fruit-eating
-birds or increase a leaf's tolerance to freezing. However there are problems with
-each of these theories, including the fact that leaves are red for such a relatively
-short period that the expense of energy needed to manufacture the anthocyanins
-would outweigh any anti-fungal or anti-herbivore activity achieved.
+Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf's tolerance to freezing. However there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved.
+
 * photosynthesis: the production of new material from sunlight, water and carbon dioxide
 68
 
 ## Page 61
 
 Reading
-It has also been proposed that trees may produce vivid red colours to convince
-herbivorous insects that they are healthy and robust and would be easily able
-to mount chemical defences against infestation. If insects paid attention to
-such advertisements, they might be prompted to lay their eggs on a duller, and
-presumably less resistant host. The flaw in this theory lies in the lack of proof
-to support it. No one has as yet ascertained whether more robust trees sport the
-brightest leaves, or whether insects make choices according to colour intensity.
-Perhaps the most plausible suggestion as to why leaves would go to the trouble
-of making anthocyanins when they're busy packing up for the winter is the
-theory known as the 'light screen' hypothesis. It sounds paradoxical, because the
-idea behind this hypothesis is that the red pigment is made in autumn leaves to
-protect chlorophyll, the light-absorbing chemical, from too much light. Why does
-chlorophyll need protection when it is the natural world's supreme light absorber?
-Why protect chlorophyll at a time when the tree is breaking it down to salvage as
-much of it as possible?
-Chlorophyll, although exquisitely evolved to capture the energy of sunlight,
-can sometimes be overwhelmed by it, especially in situations of drought, low
-temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity
-to light is even more acute in the fall, when the leaf is busy preparing for winter
-by dismantling its internal machinery. The energy absorbed by the chlorophyll
-molecules of the unstable autumn leaf is not immediately channelled into useful
-products and processes, as it would be in an intact summer leaf. The weakened fall
-leaf then becomes vulnerable to the highly destructive effects of the oxygen created
-by the excited chlorophyll molecules.
-Even if you had never suspected that this is what was going on when leaves turn
-red, there are clues out there. One is straightforward: on many trees, the leaves that
-are the reddest are those on the side of the tree which gets most sun. Not only that,
-but the red is brighter on the upper side of the leaf. It has also been recognised for
-decades that the best conditions for intense red colours are dry, sunny days and cool
-nights, conditions that nicely match those that make leaves susceptible to excess
-light. And finally, trees such as maples usually get much redder the more north you
-travel in the northern hemisphere. It's colder there, they're more stressed, their
-chlorophyll is more sensitive and it needs more sunblock.
-What is still not fully understood, however, is why some trees resort to producing
-red pigments while others don't bother, and simply reveal their orange or yellow
-hues. Do these trees have other means at their disposal to prevent overexposure to
-light in autumn? Their story, though not as spectacular to the eye, will surely turn
-out to be as subtle and as complex.
+
+E
+It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity.
+
+F
+Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they're busy packing up for the winter is the theory known as the 'light screen' hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light. Why does chlorophyll need protection when it is the natural world's supreme light absorber? Why protect chlorophyll at a time when the tree is breaking it down to salvage as much of it as possible?
+
+G
+Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules.
+
+H
+Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It's colder there, they're more stressed, their chlorophyll is more sensitive and it needs more sunblock.
+
+I
+What is still not fully understood, however, is why some trees resort to producing red pigments while others don't bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex.
+
 69
 
 ## Page 62
 
 Test 3
-Questions 14-18
-Reading Passage 2 has nine paragraphs, A-I.
+Questions 14–18
+Reading Passage 2 has nine paragraphs, A–I.
 Which paragraph contains the following information?
-Write the correct letter, AI, in boxes 14-18 on your answer sheet.
+Write the correct letter, A–I, in boxes 14–18 on your answer sheet.
 NB You may use any letter more than once.
+
 14 a description of the substance responsible for the red colouration of leaves
 15 the reason why trees drop their leaves in autumn
-some evidence to confirm a theory about the purpose of the red leaves
-17
-an explanation of the function of chlorophyll
-Questions 19-22
+16 some evidence to confirm a theory about the purpose of the red leaves
+17 an explanation of the function of chlorophyll
+18 a suggestion that the red colouration in leaves could serve as a warning signal
+
+Questions 19–22
 Complete the notes below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 19-22 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 19–22 on your answer sheet.
+
 Why believe the 'light screen' hypothesis?
-The most vividly coloured red leaves are found on the side of the tree facing the
-19 ...
-The 20
-. surfaces of leaves contain the most red pigment.
-Red leaves are most abundant when daytime weather conditions are 21
-and sunny.
-The intensity of the red colour of leaves increases as you go further 22
+
+19 The most vividly coloured red leaves are found on the side of the tree facing the ______.
+20 The ______ surfaces of leaves contain the most red pigment.
+21 Red leaves are most abundant when daytime weather conditions are ______ and sunny.
+22 The intensity of the red colour of leaves increases as you go further ______.
 70
 
 ## Page 63
 
 Reading
-estions 23-25
-the following statements agree with the information given in Reading Passage 2?
-boxes 23-25 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-It is likely that the red pigments help to protect the leaf from freezing temperatures.
-The 'light screen' hypothesis would initially seem to contradict what is known about
-chlorophyll.
-Leaves which turn colours other than red are more likely to be damaged by
-sunlight.
+Questions 23–25
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 23–25 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+23 It is likely that the red pigments help to protect the leaf from freezing temperatures.
+24 The 'light screen' hypothesis would initially seem to contradict what is known about chlorophyll.
+25 Leaves which turn colours other than red are more likely to be damaged by sunlight.
+
 Question 26
 Choose the correct letter A, B, C or D.
 Write the correct letter in box 26 on your answer sheet.
-For which of the following questions does the writer offer an explanation?
-A
-why conifers remain green in winter
-B
-how leaves turn orange and yellow in autumn
-UD
-how herbivorous insects choose which trees to lay their eggs in
-why anthocyanins are restricted to certain trees
+
+26 For which of the following questions does the writer offer an explanation?
+A why conifers remain green in winter
+B how leaves turn orange and yellow in autumn
+C how herbivorous insects choose which trees to lay their eggs in
+D why anthocyanins are restricted to certain trees
 71
 
 ## Page 64
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 Beyond the blue horizon
-Ancient voyagers who settled the far-flung islands of the
-Pacific Ocean
-An important archaeological discovery on
-USA
-the island of Éfaté in the Pacific archipelago
-Hawaii
-of Vanuatu has revealed traces of an ancient
+Ancient voyagers who settled the far-flung islands of the Pacific Ocean
 Guam
-seafaring people, the distant ancestors of today's
-Polynesians. The site came to light only by chance.
+Hawaii
+USA
 Papua New Guinea
-An agricultural worker, digging in the grounds of
-a derelict plantation, scraped open a grave — the
 Solomon
-first of dozens in a burial ground some 3,000
-Samoa
 Vanuatu
-years old. It is the oldest cemetery ever found in the
 Fiji
+Samoa
 Tahiti
 Australia
-Pacific islands, and it harbors the remains of an
-ancient people archaeologists call the Lapita.
-the international team digging up the site, 'for it
-conclusively identifies the remains as Lapita.'
-They were daring blue-water adventurers
-who used basic canoes to rove across the ocean.
-DNA teased from these human remains may
-But they were not just explorers. They were also
-help answer one of the most puzzling questions in
-pioneers who carried with them everything they
-Pacific anthropology: did all Pacific islanders spring
-would need to build new lives — their livestock,
-from one source or many? Was there only one
-taro seedlings and stone tools. Within the span
-outward migration from a single point in Asia, or
-of several centuries, the Lapita stretched the
-several from different points? 'This represents the
-boundaries of their world from the jungle-clad
-best opportunity we've had yet,' says Spriggs, to
-volcanoes of Papua New Guinea to the loneliest
-find out who the Lapita actually were, where they
-coral outliers of Tonga.
-came from, and who their closest descendants are
-today.'
-The Lapita left precious few clues about
-themselves, but Éfaté expands the volume of data
-There is one stubborn question for which
-available to researchers dramatically. The remains
-archaeology has yet to provide any answers: how
-of 62 individuals have been uncovered so far,
-did the Lapita accomplish the ancient equivalent
-and archaeologists were also thrilled to find six
-of a moon landing, many times over? No-one
-complete Lapita pots. Other items included a
-has found one of their canoes or any rigging,
-Lapita burial urn with modeled birds arranged
-which could reveal how the canoes were sailed.
-on the rim as though peering down at the human
-Nor do the oral histories and traditions of later
-remains sealed inside. 'It's an important discovery,'
-Polynesians offer any insights, for they turn into
-says Matthew Spriggs, professor of archaeology at
-myths long before they reach as far back in time
-the Australian National University and head of
-as the Lapita.
+
+An important archaeological discovery on the island of Éfaté in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today’s Polynesians. The site came to light only by chance. An agricultural worker, digging in the grounds of a derelict plantation, scraped open a grave – the first of dozens in a burial ground some 3,000 years old. It is the oldest cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita.
+
+They were daring blue-water adventurers who used basic canoes to rove across the ocean. But they were not just explorers. They were also pioneers who carried with them everything they would need to build new lives – their livestock, taro seedlings and stone tools. Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga.
+
+The Lapita left precious few clues about themselves, but Éfaté expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots. Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, ‘for it conclusively identifies the remains as Lapita.’
+
+DNA teased from these human remains may help answer one of the most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many? Was there only one outward migration from a single point in Asia, or several from different points? ‘This represents the best opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’
+
+There is one stubborn question for which archaeology has yet to provide any answers: how did the Lapita accomplish the ancient equivalent of a moon landing, many times over? No-one has found one of their canoes or any rigging, which could reveal how the canoes were sailed. Nor do the oral histories and traditions of later Polynesians offer any insights, for they turn into myths long before they reach as far back in time as the Lapita.
 72
 
 ## Page 65
 
 Reading
-All we can say for certain is that the Lapita
-easy. Vanuatu, for example, stretches more than
-canoes that were capable of ocean voyages,
-500 miles in a northwest-southeast trend, its
-they had the ability to sail them,' says Geoff
-scores of intervisible islands forming a backstop
-, a professor of archaeology at the University
-for mariners riding the trade winds home.
-Auckland. Those sailing skills, he says, were
-All this presupposes one essential detail, says
-doped and passed down over thousands of
-Atholl Anderson, professor of prehistory at the
-by earlier mariners who worked their way
-Australian National University: the Lapita had
-gh the archipelagoes of the western Pacific,
-mastered the advanced art of sailing against the
-ing short crossings to nearby islands. The real
-wind. And there's no proof they could do any
-enture didn't begin, however, until their Lapita
-such thing,' Anderson says. 'There has been
-cendants sailed out of sight of land, with
-this assumption they did, and people have built
-pty horizons on every side. This must have
-canoes to re-create those early voyages based on that
-as difficult for them as landing on the moon
-assumption. But nobody has any idea what their
-r us today. Certainly it distinguished them
-canoes looked like or how they were rigged.'
-their ancestors, but what gave them the
-rage to launch out on such risky voyages?
-Rather than give all the credit to human
-skill, Anderson invokes the winds of chance. El
-The Lapita's thrust into the Pacific was
-Nino, the same climate disruption that affects the
-ward, against the prevailing trade winds,
-Pacific today, may have helped scatter the Lapita,
-notes. Those nagging headwinds, he argues,
-Anderson suggests. He points out that climate data
-have been the key to their success. "They
-obtained from slow-growing corals around the
-Id sail out for days into the unknown and assess
-Pacific indicate a series of unusually frequent El
-area, secure in the knowledge that if they
-Niños around the time of the Lapita expansion. By
-t find anything, they could turn about
-reversing the regular east-to-west flow of the trade
-catch a swift ride back on the trade winds.
-winds for weeks at a time, these 'super El Ninos'
-is what would have made the whole thing
-might have taken the Lapita on long unplanned
-.' Once out there, skilled seafarers would
-detected abundant leads to follow to land:
-voyages.
-birds, coconuts and twigs carried out to sea by
-However they did it, the Lapita spread
-tides, and the afternoon pile-up of clouds on
-themselves a third of the way across the Pacific,
-horizon which often indicates an island in the
-then called it quits for reasons known only to
-ance.
-them. Ahead lay the vast emptiness of the central
-Pacific and perhaps they were too thinly stretched
-For returning explorers, successful or not, the
-to venture farther. They probably never numbered
-graphy of their own archipelagoes would have
-more than a few thousand in total, and in their
-ided a safety net. Without this to go by,
-rapid migration eastward they encountered
-eshooting their home ports, getting lost and
-hundreds of islands - more than 300 in Fiji alone.
-ing off into eternity would have been all too
+‘All we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland. Those sailing skills, he says, were developed and passed down over thousands of years by earlier mariners who worked their way through the archipelagoes of the western Pacific, making short crossings to nearby islands. The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on every side. This must have been as difficult for them as landing on the moon is for us today. Certainly it distinguished them from their ancestors, but what gave them the courage to launch out on such risky voyages?
+
+The Lapita’s thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. Those nagging headwinds, he argues, may have been the key to their success. ‘They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn’t find anything, they could turn about and catch a swift ride back on the trade winds. This is what would have made the whole thing work.’ Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance.
+
+For returning explorers, successful or not, the geography of their own archipelagoes would have provided a safety net. Without this to go by, overshooting their home ports, getting lost and sailing off into eternity would have been all too easy. Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of intervisible islands forming a backstop for mariners riding the trade winds home.
+
+All this presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind. ‘And there’s no proof they could do any such thing,’ Anderson says. ‘There has been this assumption they did, and people have built canoes to re-create those early voyages based on that assumption. But nobody has any idea what their canoes looked like or how they were rigged.’
+
+Rather than give all the credit to human skill, Anderson invokes the winds of chance. El Niño, the same climate disruption that affects the Pacific today, may have helped scatter the Lapita, Anderson suggests. He points out that climate data obtained from slow-growing corals around the Pacific indicate a series of unusually frequent El Niños around the time of the Lapita expansion. By reversing the regular east-to-west flow of the trade winds for weeks at a time, these ‘super El Niños’ might have taken the Lapita on long unplanned voyages.
+
+However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them. Ahead lay the vast emptiness of the central Pacific and perhaps they were too thinly stretched to venture farther. They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone.
 73
 
 ## Page 66
 
 Test 3
-Questions 27-31
-Complete the summary using the list of words and phrases, A-J, below.
-Write the correct letter, A-J, in boxes 27-31 on your answer sheet.
+Questions 27–31
+Complete the summary using the list of words and phrases, A–J, below.
+Write the correct letter, A–J, in boxes 27–31 on your answer sheet.
 The Éfaté burial site
-A 3,000-year-old burial ground of a seafaring people called the Lapita has been found
-on an abandoned 27 .. on the Pacific island of Efaté. The cemetery, which is a
-significant 28 ...
-.. , was uncovered accidentally by an agricultural worker.
-The Lapita explored and colonised many Pacific islands over several centuries. They
-took many things with them on their voyages including 29 ....
-and tools.
-The burial ground increases the amount of information about the Lapita available to
-scientists. A team of researchers, led by Matthew Spriggs from the Australian National
-University, are helping with the excavation of the site. Spriggs believes the 30 ...
-which was found at the site is very important since it confirms that the 31 ....
-.. found
-inside are Lapita.
-AB
-proof
-plantation
-C
-harbour
-D
-bones
-E
-data
-F
-archaeological discovery
-G
-burial urn
-H
-source
--
-animals
-J
-maps
+A 3,000-year-old burial ground of a seafaring people called the Lapita has been found on an abandoned 27 ............... on the Pacific island of Éfaté. The cemetery, which is a significant 28 ..............., was uncovered accidentally by an agricultural worker.
+The Lapita explored and colonised many Pacific islands over several centuries. They took many things with them on their voyages including 29 ............... and tools.
+The burial ground increases the amount of information about the Lapita available to scientists. A team of researchers, led by Matthew Spriggs from the Australian National University, are helping with the excavation of the site. Spriggs believes the 30 ............... which was found at the site is very important since it confirms that the 31 ............... found inside are Lapita.
+A proof
+B plantation
+C harbour
+D bones
+E data
+F archaeological discovery
+G burial urn
+H source
+I animals
+J maps
 74
 
 ## Page 67
 
 Reading
-Questions 32-35
+Questions 32–35
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 32-35 on your answer sheet.
-According to the writer, there are difficulties explaining how the Lapita
-32
-accomplished their journeys because
-the canoes that have been discovered offer relatively few clues.
-A
-archaeologists have shown limited interest in this area of research.
-B
-little information relating to this period can be relied upon for accuracy.
-C
-technological advances have altered the way such achievements are viewed.
-D
-According to the sixth paragraph, what was extraordinary about the Lapita?
-33
-They sailed beyond the point where land was visible.
-A
-Their cultural heritage discouraged the expression of fear.
-B
-They were able to build canoes that withstood ocean voyages.
-C
-Their navigational skills were passed on from one generation to the next.
-D
-What does 'This' refer to in the seventh paragraph?
-34
-the Lapita's seafaring talent
-A
-B
-the Lapita's ability to detect signs of land
-the Lapita's extensive knowledge of the region
-C
-the Lapita's belief they would be able to return home
-D
-According to the eighth paragraph, how was the geography of the region
-35
-significant?
-A
-It played an important role in Lapita culture.
-It meant there were relatively few storms at sea.
-B
-C
-It provided a navigational aid for the Lapita.
-D
-It made a large number of islands habitable.
+Write the correct letter in boxes 32–35 on your answer sheet.
+32 According to the writer, there are difficulties explaining how the Lapita accomplished their journeys because
+A the canoes that have been discovered offer relatively few clues.
+B archaeologists have shown limited interest in this area of research.
+C little information relating to this period can be relied upon for accuracy.
+D technological advances have altered the way such achievements are viewed.
+33 According to the sixth paragraph, what was extraordinary about the Lapita?
+A They sailed beyond the point where land was visible.
+B Their cultural heritage discouraged the expression of fear.
+C They were able to build canoes that withstood ocean voyages.
+D Their navigational skills were passed on from one generation to the next.
+34 What does ‘This’ refer to in the seventh paragraph?
+A the Lapita’s seafaring talent
+B the Lapita’s ability to detect signs of land
+C the Lapita’s extensive knowledge of the region
+D the Lapita’s belief they would be able to return home
+35 According to the eighth paragraph, how was the geography of the region significant?
+A It played an important role in Lapita culture.
+B It meant there were relatively few storms at sea.
+C It provided a navigational aid for the Lapita.
+D It made a large number of islands habitable.
+75
 
 ## Page 68
 
 Test 3
-Questions 36-40
+Questions 36–40
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 36-40 on your answer sheet, write
-if the statement agrees with the views of the writer
-YES
-NO
-if the statement contradicts the views of the writer
-NOT GIVEN
-if it is impossible to say what the writer thinks about this
-36
-It is now clear that the Lapita could sail into a prevailing wind.
-Extreme climate conditions may have played a role in Lapita migration.
-37
+In boxes 36–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+36 It is now clear that the Lapita could sail into a prevailing wind.
+37 Extreme climate conditions may have played a role in Lapita migration.
 38 The Lapita learnt to predict the duration of El Niños.
 39 It remains unclear why the Lapita halted their expansion across the Pacific.
-40It is likely that the majority of Lapita settled on Fiji.
+40 It is likely that the majority of Lapita settled on Fiji.
 76
 
 ## Page 69
@@ -2955,354 +2067,166 @@ Life expectancy could be increased.
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on
-Reading Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
+
 The megafires of California
-Drought, housing expansion, and oversupply of tinder make for
-bigger, hotter fires in the western United States
-Wildfires are becoming an increasing
-been to halt the natural eradication of
-menace in the western United States,
-underbrush, now the primary fuel for
-with Southern California being the
-megafires.
-hardest hit area. There's a reason fire
-Three other factors contribute to the
-squads battling more frequent blazes
-trend, they add. First is climate change,
-in Southern California are having such
-marked by a 1-degree Fahrenheit rise in
-difficulty containing the flames, despite
-average yearly temperature across the
-better preparedness than ever and
-western states. Second is fire seasons
-decades of experience fighting fires
-that on average are 78 days longer
-fanned by the 'Santa Ana Winds'. The
-than they were 20 years ago. Third
-wildfires themselves, experts say, are
-is increased construction of homes in
-generally hotter, faster, and spread more wooded areas.
-erratically than in the past.
-'We are increasingly building our
-Megafires, also called 'siege fires',
-homes in fire-prone ecosystems,' says
-are the increasingly frequent blazes that
-Dominik Kulakowski, adjunct professor
-burn 500,000 acres or more - 10 times
-of biology at Clark University Graduate
-the size of the average forest fire of 20
-School of Geography in Worcester,
-years ago. Some recent wildfires are
-Massachusetts. 'Doing that in many
-among the biggest ever in California in
-of the forests of the western US is like
-terms of acreage burned, according to
-building homes on the side of an active
-state figures and news reports.
-volcano.'
-One explanation for the trend to
-In California, where population
-more superhot fires is that the region,
-growth has averaged more than 600,000
-which usually has dry summers, has had
-a year for at least a decade, more
-significantly below normal precipitation
-residential housing is being built. 'What
-in many recent years. Another reason,
-once was open space is now residential
-experts say, is related to the century-
-homes providing fuel to make fires
-long policy of the US Forest Service to
-burn with greater intensity,' says Terry
-stop wildfires as quickly as possible.
-McHale of the California Department
-The unintentional consequence has
-of Forestry firefighters' union. 'With so
-88
+Drought, housing expansion, and oversupply of tinder make for bigger, hotter fires in the western United States
+
+Wildfires are becoming an increasing menace in the western United States, with Southern California being the hardest hit area. There’s a reason fire squads battling more frequent blazes in Southern California are having such difficulty containing the flames, despite better preparedness than ever and decades of experience fighting fires fanned by the ‘Santa Ana Winds’. The wildfires themselves, experts say, are generally hotter, faster, and spread more erratically than in the past.
+
+Megafires, also called ‘siege fires’, are the increasingly frequent blazes that burn 500,000 acres or more – 10 times the size of the average forest fire of 20 years ago. Some recent wildfires are among the biggest ever in California in terms of acreage burned, according to state figures and news reports.
+
+One explanation for the trend to more superhot fires is that the region, which usually has dry summers, has had significantly below normal precipitation in many recent years. Another reason, experts say, is related to the century-long policy of the US Forest Service to stop wildfires as quickly as possible.
+
+The unintentional consequence has been to halt the natural eradication of underbrush, now the primary fuel for megafires.
+
+Three other factors contribute to the trend, they add. First is climate change, marked by a 1-degree Fahrenheit rise in average yearly temperature across the western states. Second is fire seasons that on average are 78 days longer than they were 20 years ago. Third is increased construction of homes in wooded areas.
+
+‘We are increasingly building our homes in fire-prone ecosystems,’ says Dominik Kulakowski, adjunct professor of biology at Clark University Graduate School of Geography in Worcester, Massachusetts. ‘Doing that in many of the forests of the western US is like building homes on the side of an active volcano.’
+
+In California, where population growth has averaged more than 600,000 a year for at least a decade, more residential housing is being built. ‘What once was open space is now residential homes providing fuel to make fires burn with greater intensity,’ says Terry McHale of the California Department of Forestry firefighters’ union. ‘With so
 
 ## Page 81
 
 Reading
-much dryness, so many communities
-invested in better command-and-control
-to catch fire, so many fronts to fight, it
-facilities as well as in the strategies
-becomes an almost incredible job.'
-to run them. 'In the fire sieges of
-That said, many experts give
-earlier years, we found that other
-California high marks for making
-jurisdictions and states were willing
-progress on preparedness in recent
-to offer mutual-aid help, but we were
-years, after some of the largest fires
-not able to communicate adequately
-in state history scorched thousands
-with them,' says Kim Zagaris, chief
-of acres, burned thousands of homes,
-of the state's Office of Emergency
-and killed numerous people. Stung in
-Services Fire and Rescue Branch.
-the past by criticism of bungling that
-After a commission examined and
-allowed fires to spread when they
-revamped communications procedures,
-might have been contained, personnel
-the statewide response 'has become
-are meeting the peculiar challenges of
-far more professional and responsive,'
-neighborhood - and canyon- hopping
-he says. There is a sense among both
-fres better than previously, observers
-government officials and residents that
-say.
-the speed, dedication, and coordination
-State promises to provide more
-of firefighters from several states and
-up-to-date engines, planes, and
-jurisdictions are resulting in greater
-helicopters to fight fires have been
-efficiency than in past 'siege fire'
-fulfilled. Firefighters' unions that in
-situations.
-the past complained of dilapidated
-In recent years, the Southern
-equipment, old fire engines, and
-California region has improved building
-nsufficient blueprints for fire safety are
-codes, evacuation procedures, and
-now praising the state's commitment,
-procurement of new technology. 'I
-oting that funding for firefighting has
-am extraordinarily impressed by the
-increased, despite huge cuts in many
-improvements we have witnessed,' says
-other programs. 'We are pleased that
-Randy Jacobs, a Southern California-
-the current state administration has
-based lawyer who has had to evacuate
-been very proactive in its support of us,
-both his home and business to escape
-and [has] come through with budgetary
-wildfires. 'Notwithstanding all the
-support of the infrastructure needs we
-damage that will continue to be caused
-Lave long sought,' says Mr. McHale of
-by wildfires, we will no longer suffer the
-the firefighters' union.
-loss of life endured in the past because
-Besides providing money to upgrade
-of the fire prevention and firefighting
-the fire engines that must traverse
-measures that have been put in place,'
-the mammoth state and wind along
-he says.
-serpentine canyon roads, the state has
-89
+
+much dryness, so many communities to catch fire, so many fronts to fight, it becomes an almost incredible job.’
+
+That said, many experts give California high marks for making progress on preparedness in recent years, after some of the largest fires in state history scorched thousands of acres, burned thousands of homes, and killed numerous people. Stung in the past by criticism of bungling that allowed fires to spread when they might have been contained, personnel are meeting the peculiar challenges of neighborhood- and canyon-hopping fires better than previously, observers say.
+
+State promises to provide more up-to-date engines, planes, and helicopters to fight fires have been fulfilled. Firefighters’ unions that in the past complained of dilapidated equipment, old fire engines, and insufficient blueprints for fire safety are now praising the state’s commitment, noting that funding for firefighting has increased, despite huge cuts in many other programs. ‘We are pleased that the current state administration has been very proactive in its support of us, and [has] come through with budgetary support of the infrastructure needs we have long sought,’ says Mr. McHale of the firefighters’ union.
+
+Besides providing money to upgrade the fire engines that must traverse the mammoth state and wind along serpentine canyon roads, the state has invested in better command-and-control facilities as well as in the strategies to run them. ‘In the fire sieges of earlier years, we found that other jurisdictions and states were willing to offer mutual-aid help, but we were not able to communicate adequately with them,’ says Kim Zagaris, chief of the state’s Office of Emergency Services Fire and Rescue Branch.
+
+After a commission examined and revamped communications procedures, the statewide response ‘has become far more professional and responsive,’ he says. There is a sense among both government officials and residents that the speed, dedication, and coordination of firefighters from several states and jurisdictions are resulting in greater efficiency than in past ‘siege fire’ situations.
+
+In recent years, the Southern California region has improved building codes, evacuation procedures, and procurement of new technology. ‘I am extraordinarily impressed by the improvements we have witnessed,’ says Randy Jacobs, a Southern California-based lawyer who has had to evacuate both his home and business to escape wildfires.
+
+‘Notwithstanding all the damage that will continue to be caused by wildfires, we will no longer suffer the loss of life endured in the past because of the fire prevention and firefighting measures that have been put in place,’ he says.
 
 ## Page 82
 
 Test 4
-Questions 1-6
+Questions 1–6
 Complete the notes below.
 Choose ONE WORD AND/OR A NUMBER from the passage for each answer.
-Write your answers in boxes 1-6 on your answer sheet.
+Write your answers in boxes 1–6 on your answer sheet.
+
 Wildfires
+
 Characteristics of wildfires and wildfire conditions today compared to the past:
-occurrence: more frequent
-temperature: hotter
-speed: faster
-movement: 1
-..mo. p.ably
-size of fires: 2
-greater on average than two decades ago
+– occurrence: more frequent
+– temperature: hotter
+– speed: faster
+– movement: 1 ..................... more unpredictably
+– size of fires: 2 ..................... greater on average than two decades ago
+
 Reasons wildfires cause more damage today compared to the past:
-rainfall: 3
-average
-more brush to act as 4
-increase in yearly temperature
-extended fire 5
--
-more building of 6
-in vulnerable places
-90
+– rainfall: 3 ..................... average
+– more brush to act as 4 .....................
+– increase in yearly temperature
+– extended fire 5 .....................
+– more building of 6 ..................... in vulnerable places
 
 ## Page 83
 
 Reading
-Questions 7-13
+Questions 7–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 7-13 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-if there is no information on this
-NOT GIVEN
-7
-The amount of open space in California has diminished over the last ten years.
-8
-Many experts believe California has made little progress in readying itself to
-fight fires.
-9
-Personnel in the past have been criticised for mishandling fire containment.
-10
-California has replaced a range of firefighting tools.
-11
-More firefighters have been hired to improve fire-fighting capacity.
-Citizens and government groups disapprove of the efforts of different states and
-12
-agencies working together.
-13
-Randy Jacobs believes that loss of life from fires will continue at the same levels,
-despite changes made.
-91
+In boxes 7–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+
+7 The amount of open space in California has diminished over the last ten years.
+8 Many experts believe California has made little progress in readying itself to fight fires.
+9 Personnel in the past have been criticised for mishandling fire containment.
+10 California has replaced a range of firefighting tools.
+11 More firefighters have been hired to improve fire-fighting capacity.
+12 Citizens and government groups disapprove of the efforts of different states and agencies working together.
+13 Randy Jacobs believes that loss of life from fires will continue at the same levels, despite changes made.
 
 ## Page 84
 
 Test 4
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+
 Second nature
-Your personality isn't necessarily set in stone. With a little experimentation,
-people can reshape their temperaments and inject passion, optimism, joy and
-courage into their lives
-Psychologists have long held that a person's character cannot undergo a
+Your personality isn’t necessarily set in stone. With a little experimentation, people can reshape their temperaments and inject passion, optimism, joy and courage into their lives
+
 A
-transformation in any meaningful way and that the key traits of personality are
-determined at a very young age. However, researchers have begun looking more
-closely at ways we can change. Positive psychologists have identified 24 qualities
-we admire, such as loyalty and kindness, and are studying them to find out why
-they come so naturally to some people. What they're discovering is that many of
-these qualities amount to habitual behaviour that determines the way we respond
-to the world. The good news is that all this can be learned.
-Some qualities are less challenging to develop than others, optimism being one of
-them. However, developing qualities requires mastering a range of skills which are
-diverse and sometimes surprising. For example, to bring more joy and passion into
-your life, you must be open to experiencing negative emotions. Cultivating such
-qualities will help you realise your full potential.
+Psychologists have long held that a person’s character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age. However, researchers have begun looking more closely at ways we can change. Positive psychologists have identified 24 qualities we admire, such as loyalty and kindness, and are studying them to find out why they come so naturally to some people. What they’re discovering is that many of these qualities amount to habitual behaviour that determines the way we respond to the world. The good news is that all this can be learned.
+
+Some qualities are less challenging to develop than others, optimism being one of them. However, developing qualities requires mastering a range of skills which are diverse and sometimes surprising. For example, to bring more joy and passion into your life, you must be open to experiencing negative emotions. Cultivating such qualities will help you realise your full potential.
+
 B
-'The evidence is good that most personality traits can be altered,' says Christopher
-Peterson, professor of psychology at the University of Michigan, who cites himself
-as an example. Inherently introverted, he realised early on that as an academic,
-his reticence would prove disastrous in the lecture hall. So he learned to be
-more outgoing and to entertain his classes. 'Now my extroverted behaviour is
-spontaneous,' he says.
+‘The evidence is good that most personality traits can be altered,’ says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. ‘Now my extroverted behaviour is spontaneous,’ he says.
+
 C
-David Fajgenbaum had to make a similar transition. He was preparing for
-university, when he had an accident that put an end to his sports career. On
-campus, he quickly found that beyond ordinary counsellin
-e university had no
-services for students who were undergoing physical rehabil
-ilitation and suffering
-from depression like him. He therefore launched a support
-group to help others in
-similar situations. He took action despite his own pain - a typical response of an
-optimist.
+David Fajgenbaum had to make a similar transition. He was preparing for university, when he had an accident that put an end to his sports career. On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. He therefore launched a support group to help others in similar situations. He took action despite his own pain – a typical response of an optimist.
+
 D
-Suzanne Segerstrom, professor of psychology at the University of Kentucky,
-believes that the key to increasing optimism is through cultivating optimistic
-commends you train yourself to pay
-behaviour, rather than positive thinking. She rec
-attention to good fortune by writing down three
-positive things that come about
-each day. This will help you convince yourself that favourable outcomes actually
-happen all the time, making it easier to begin taking action.
+Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action.
+
 92
 
 ## Page 85
 
 Reading
-You can recognise a person who is passionate about a pursuit by the way they
-are so strongly involved in it. Tanya Streeter's passion is freediving - the sport
-of plunging deep into the water without tanks or other breathing equipment.
-Beginning in 1998, she set nine world records and can hold her breath for
-six minutes. The physical stamina required for this sport is intense but the
-psychological demands are even more overwhelming. Streeter learned to untangle
-her fears from her judgment of what her body and mind could do. 'In my career
-as a competitive freediver, there was a limit to what I could do - but it wasn't
-anywhere near what I thought it was,' she says.
-Finding a pursuit that excites you can improve anyone's life. The secret about
-consuming passions, though, according to psychologist Paul Silvia of the
-University of North Carolina, is that 'they require discipline, hard work and ability,
-which is why they are so rewarding.' Psychologist Todd Kashdan has this advice
-for those people taking up a new passion: 'As a newcomer, you also have to tolerate
-and laugh at your own ignorance. You must be willing to accept the negative
-feelings that come your way,' he says.
-In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard
-Medical School. Unfortunately, he was miserable as his research wasn't compatible
-with his curiosity about healing. He finally took a break and during eight months
-in Santa Fe, Zappaterra learned about alternative healing techniques not taught
-at Harvard. When he got back, he switched labs to study how cerebrospinal fluid
-nourishes the developing nervous system. He also vowed to look for the joy in
-everything, including failure, as this could help him learn about his research and
-himself.
-One thing that can hold joy back is a person's concentration on avoiding failure
-rather than their looking forward to doing something well. 'Fo
-ocusing on being safe
-might get in the way of your reaching your goals,' explains Kashdan. For example,
-are you hoping to get through a business lunch without embarrassing yourself, or
-are you thinking about how fascinating the conversation might be?
-Usually, we think of courage in physical terms but ordinary life demands
-something else. For marketing executive Kenneth Pedeleose, it meant speaking
-out against something he thought was ethically wrong. The new manager was
-intimidating staff so Pedeleose carefully recorded each instance of bullying and
-eventually took the evidence to a senior director, knowing his own job security
-would be threatened. Eventually the manager was the one to go. According to
-Cynthia Pury, a psychologist at Clemson University, Pedeleose's story proves the
-point that courage is not motivated by fearlessness, but by moral obligation. Pury
-also believes that people can acquire courage. Many of her students said that faced
-with a risky situation, they first tried to calm themselves down, then looked for a
-way to mitigate the danger, just as Pedeleose did by documenting his allegations.
-Over the long term, picking up a new character trait may help you move toward
-being the person you want to be. And in the short term, the effort itself could be
-surprisingly rewarding, a kind of internal adventure.
+
+E
+You can recognise a person who is passionate about a pursuit by the way they are so strongly involved in it. Tanya Streeter’s passion is freediving – the sport of plunging deep into the water without tanks or other breathing equipment. Beginning in 1998, she set nine world records and can hold her breath for six minutes. The physical stamina required for this sport is intense but the psychological demands are even more overwhelming. Streeter learned to untangle her fears from her judgment of what her body and mind could do. ‘In my career as a competitive freediver, there was a limit to what I could do – but it wasn’t anywhere near what I thought it was,’ she says.
+
+F
+Finding a pursuit that excites you can improve anyone’s life. The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that ‘they require discipline, hard work and ability, which is why they are so rewarding.’ Psychologist Todd Kashdan has this advice for those people taking up a new passion: ‘As a newcomer, you also have to tolerate and laugh at your own ignorance. You must be willing to accept the negative feelings that come your way,’ he says.
+
+G
+In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard Medical School. Unfortunately, he was miserable as his research wasn’t compatible with his curiosity about healing. He finally took a break and during eight months in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard. When he got back, he switched labs to study how cerebrospinal fluid nourishes the developing nervous system. He also vowed to look for the joy in everything, including failure, as this could help him learn about his research and himself.
+
+One thing that can hold joy back is a person’s concentration on avoiding failure rather than their looking forward to doing something well. ‘Focusing on being safe might get in the way of your reaching your goals,’ explains Kashdan. For example, are you hoping to get through a business lunch without embarrassing yourself, or are you thinking about how fascinating the conversation might be?
+
+H
+Usually, we think of courage in physical terms but ordinary life demands something else. For marketing executive Kenneth Pedeleose, it meant speaking out against something he thought was ethically wrong. The new manager was intimidating staff so Pedeleose carefully recorded each instance of bullying and eventually took the evidence to a senior director, knowing his own job security would be threatened. Eventually the manager was the one to go. According to Cynthia Pury, a psychologist at Clemson University, Pedeleose’s story proves the point that courage is not motivated by fearlessness, but by moral obligation. Pury also believes that people can acquire courage. Many of her students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations.
+
+Over the long term, picking up a new character trait may help you move toward being the person you want to be. And in the short term, the effort itself could be surprisingly rewarding, a kind of internal adventure.
+
 93
 
 ## Page 86
 
 Test 4
-Questions 14-18
+Questions 14–18
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 14-18 on your answer sheet.
-Psychologists have traditionally believed that a personallity 14 .. was impossible
-and  that by a 15 ... , a person's character tends to be fixed. This is not true
-according to positive psychologists, who say that our personal qualities can be seen
-as habitual behaviour. One of the easiest qualities to acquire is 16 .. However,
-regardless of the quality, it is necessary to learn a wide variety of different 17 .....
-in order for a new quality to develop; for example, a person must understand and feel
-some 18... in order to increase their happinnes
+Write your answers in boxes 14–18 on your answer sheet.
+
+Psychologists have traditionally believed that a personality 14 ______ was impossible and that by a 15 ______, a person’s character tends to be fixed. This is not true according to positive psychologists, who say that our personal qualities can be seen as habitual behaviour. One of the easiest qualities to acquire is 16 ______. However, regardless of the quality, it is necessary to learn a wide variety of different 17 ______ in order for a new quality to develop; for example, a person must understand and feel some 18 ______ in order to increase their happiness.
+
 94
 
 ## Page 87
 
 Reading
-Questions 19-22
-ook at the following statements (Questions 19-22) and the list of people below.
-Match each statement with the correct person, A-G.
-rite the correct letter, A-G, in boxes 19-22 on your answer sheet.
-People must accept that they do not know much when first trying something new.
-It is important for people to actively notice when good things happen.
-Courage can be learned once its origins in a sense of responsibility are understood.
-It is possible to overcome shyness when faced with the need to speak in public.
+Questions 19–22
+Look at the following statements (Questions 19–22) and the list of people below.
+Match each statement with the correct person, A–G.
+Write the correct letter, A–G, in boxes 19–22 on your answer sheet.
+
+19 People must accept that they do not know much when first trying something new.
+20 It is important for people to actively notice when good things happen.
+21 Courage can be learned once its origins in a sense of responsibility are understood.
+22 It is possible to overcome shyness when faced with the need to speak in public.
+
 List of People
-A
-Christopher Peterson
-B
-David Fajgenbaum
-C
-Suzanne Segerstrom
-D
-Tanya Streeter
-E
-Todd Kashdan
-F
-Kenneth Pedeleose
-G
-Cynthia Pury
+A Christopher Peterson
+B David Fajgenbaum
+C Suzanne Segerstrom
+D Tanya Streeter
+E Todd Kashdan
+F Kenneth Pedeleose
+G Cynthia Pury
+
 95
 
 ## Page 88
@@ -3323,258 +2247,97 @@ Write the correct letter, A-H, in boxes 23-26 on your answer sheet.
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 When evolution runs backwards
-Evolution isn't supposed to run backwards - yet an increasing number
-of examples show that it does and that it can sometimes represent the
-future of a species
-The description of any animal as an
-in terms of probability, stating that there is no
-evolutionary throwback' is controversial.
-reason why evolution cannot run backwards
-For the better part of a century, most
-- it is just very unlikely. And so the idea of
-ologists have been reluctant to use those
-irreversibility in evolution stuck and came to
-ords, mindful of a principle of evolution
-be known as 'Dollo's law'.
-that says 'evolution cannot run backwards'.
-But as more and more examples come to
-If Dollo's law is right, atavisms should
-ght and modern genetics enters the scene, occur only very rarely, if at all. Yet almost
-hat principle is having to be rewritten. Not
-since the idea took root, exceptions have
-only are evolutionary throwbacks possible,
-been cropping up. In 1919, for example,
-ney sometimes play an important role in the
-a humpback whale with a pair of leg-like
-orward march of evolution.
-appendages over a metre long, complete
-with a full set of limb bones, was caught
-The technical term for an evolutionary
-off Vancouver Island in Canada. Explorer
-hrowback is an 'atavism', from the Latin
-Roy Chapman Andrews argued at the time
-avus, meaning forefather. The word has
-that the whale must be a throwback to a
-gly connotations thanks largely to Cesare
-land-living ancestor. 'I can see no other
-Lombroso, a 19th-century Italian medic who
-explanation,' he wrote in 1921.
-gued that criminals were born not made
-nd could be identified by certain physical
-Since then, so many other examples
-atures that were throwbacks to a primitive, have been discovered that it no longer
-sub-human state.
-makes sense to say that evolution is as good
-as irreversible. And this poses a puzzle:
-While Lombroso was measuring
-how can characteristics that disappeared
-minals, a Belgian palaeontologist called
-millions of years ago suddenly reappear?
-Louis Dollo was studying fossil records
-In 1994, Rudolf Raff and colleagues at
-nd coming to the opposite conclusion.
-Indiana University in the USA decided
-1890 he proposed that evolution was
-to use genetics to put a number on the
-eversible: that 'an organism is unable to
-probability of evolution going into reverse.
-turn, even partially, to a previous stage
-They reasoned that while some evolutionary
-ready realised in the ranks of its ancestors'.
-changes involve the loss of genes and are
-Early 20th-century biologists came to a
-therefore irreversible, others may be the
-milar conclusion, though they qualified it
-result of genes being switched off. If these
+Evolution isn’t supposed to run backwards – yet an increasing number of examples show that it does and that it can sometimes represent the future of a species
+
+The description of any animal as an ‘evolutionary throwback’ is controversial. For the better part of a century, most biologists have been reluctant to use those words, mindful of a principle of evolution that says ‘evolution cannot run backwards’. But as more and more examples come to light and modern genetics enters the scene, that principle is having to be rewritten. Not only are evolutionary throwbacks possible, they sometimes play an important role in the forward march of evolution.
+
+The technical term for an evolutionary throwback is an ‘atavism’, from the Latin atavus, meaning forefather. The word has ugly connotations thanks largely to Cesare Lombroso, a 19th-century Italian medic who argued that criminals were born not made and could be identified by certain physical features that were throwbacks to a primitive, sub-human state.
+
+While Lombroso was measuring criminals, a Belgian palaeontologist called Louis Dollo was studying fossil records and coming to the opposite conclusion. In 1890 he proposed that evolution was irreversible: that ‘an organism is unable to return, even partially, to a previous stage already realised in the ranks of its ancestors’. Early 20th-century biologists came to a similar conclusion, though they qualified it in terms of probability, stating that there is no reason why evolution cannot run backwards – it is just very unlikely. And so the idea of irreversibility in evolution stuck and came to be known as ‘Dollo’s law’.
+
+If Dollo’s law is right, atavisms should occur only very rarely, if at all. Yet almost since the idea took root, exceptions have been cropping up. In 1919, for example, a humpback whale with a pair of leg-like appendages over a metre long, complete with a full set of limb bones, was caught off Vancouver Island in Canada. Explorer Roy Chapman Andrews argued at the time that the whale must be a throwback to a land-living ancestor. ‘I can see no other explanation,’ he wrote in 1921.
+
+Since then, so many other examples have been discovered that it no longer makes sense to say that evolution is as good as irreversible. And this poses a puzzle: how can characteristics that disappeared millions of years ago suddenly reappear? In 1994, Rudolf Raff and colleagues at Indiana University in the USA decided to use genetics to put a number on the probability of evolution going into reverse. They reasoned that while some evolutionary changes involve the loss of genes and are therefore irreversible, others may be the result of genes being switched off. If these
 97
 
 ## Page 90
 
 Test 4
-silent genes are somehow switched back
-history of a group of South American lizards
-on, they argued, long-lost traits could
-called Bachia. Many of these have minuscule
-limbs; some look more like snakes than
-reappear.
-lizards and a few have completely lost the
-Raff's team went on to calculate the
-toes on their hind limbs. Other species,
-likelihood of it happening. Silent genes
-however, sport up to four toes on their
-accumulate random mutations, they
-hind legs. The simplest explanation is that
-reasoned, eventually rendering them useless.
-the toed lineages never lost their toes,
-So how long can a gene survive in a species
-but Wagner begs to differ. According to
-if it is no longer used? The team calculated
-his analysis of the Bachia family tree, the
-that there is a good chance of silent genes
-toed species re-evolved toes from toeless
-surviving for up to 6 million years in at least
-ancestors and, what is more, digit loss
-a few individuals in a population, and that
-and gain has occurred on more than one
-some might survive as long as 10 million
-occasion over tens of millions of years.
-years. In other words, throwbacks are
-possible, but only to the relatively recent
-So what's going on? One possibility is
-evolutionary past.
-that these traits are lost and then simply
-reappear, in much the same way that
-As a possible example, the team pointed
-similar structures can independently arise
-to the mole salamanders of Mexico and
-in unrelated species, such as the dorsal
-California. Like most amphibians these
-fins of sharks and killer whales. Another
-begin life in a juvenile 'tadpole' state, then
-more intriguing possibility is that the genetic
-metamorphose into the adult form - except
-information needed to make toes somehow
-for one species, the axolotl, which famously
-survived for tens or perhaps hundreds of
-lives its entire life as a juvenile. The simplest
-millions of years in the lizards and was
-explanation for this is that the axolotl lineage
-reactivated. These atavistic traits provided
-alone lost the ability to metamorphose, while
-an advantage and spread through the
-others retained it. From a detailed analysis
-population, effectively reversing evolution.
-of the salamanders' family tree, however,
-it is clear that the other lineages evolved
-But if silent genes degrade within 6 to
-from an ancestor that itself had lost the
-10 million years, how can long-lost traits
-ability to metamorphose. In other words,
-be reactivated over longer timescales? The
-P
-metamorphosis in mole salamanders is an
-answer may lie in the womb. Early embryos
-atavism. The salamander example fits with
-of many species develop ancestral features.
-Raff's 10-million-year time frame.
-Snake embryos, for example, sprout hind
-limb buds. Later in development these
-More recently, however, examples have
-features disappear thanks to developmental
-been reported that break the time limit,
-programs that say 'lose the leg'. If for any
-suggesting that silent genes may not be the
-reason this does not happen, the ancestral
-whole story. In a paper published last year,
-feature may not disappear, leading to an
-biologist Gunter Wagner of Yale University
-atavism.
-reported some work on the evolutionary
+silent genes are somehow switched back on, they argued, long-lost traits could reappear.
+
+Raff’s team went on to calculate the likelihood of it happening. Silent genes accumulate random mutations, they reasoned, eventually rendering them useless. So how long can a gene survive in a species if it is no longer used? The team calculated that there is a good chance of silent genes surviving for up to 6 million years in at least a few individuals in a population, and that some might survive as long as 10 million years. In other words, throwbacks are possible, but only to the relatively recent evolutionary past.
+
+As a possible example, the team pointed to the mole salamanders of Mexico and California. Like most amphibians these begin life in a juvenile ‘tadpole’ state, then metamorphose into the adult form – except for one species, the axolotl, which famously lives its entire life as a juvenile. The simplest explanation for this is that the axolotl lineage alone lost the ability to metamorphose, while others retained it. From a detailed analysis of the salamanders’ family tree, however, it is clear that the other lineages evolved from an ancestor that itself had lost the ability to metamorphose. In other words, metamorphosis in mole salamanders is an atavism. The salamander example fits with Raff’s 10-million-year time frame.
+
+More recently, however, examples have been reported that break the time limit, suggesting that silent genes may not be the whole story. In a paper published last year, biologist Gunter Wagner of Yale University reported some work on the evolutionary history of a group of South American lizards called Bachia. Many of these have minuscule limbs; some look more like snakes than lizards and a few have completely lost the toes on their hind limbs. Other species, however, sport up to four toes on their hind legs. The simplest explanation is that the toed lineages never lost their toes, but Wagner begs to differ. According to his analysis of the Bachia family tree, the toed species re-evolved toes from toeless ancestors and, what is more, digit loss and gain has occurred on more than one occasion over tens of millions of years.
+
+So what’s going on? One possibility is that these traits are lost and then simply reappear, in much the same way that similar structures can independently arise in unrelated species, such as the dorsal fins of sharks and killer whales. Another more intriguing possibility is that the genetic information needed to make toes somehow survived for tens or perhaps hundreds of millions of years in the lizards and was reactivated. These atavistic traits provided an advantage and spread through the population, effectively reversing evolution.
+
+But if silent genes degrade within 6 to 10 million years, how can long-lost traits be reactivated over longer timescales? The answer may lie in the womb. Early embryos of many species develop ancestral features. Snake embryos, for example, sprout hind limb buds. Later in development these features disappear thanks to developmental programs that say ‘lose the leg’. If for any reason this does not happen, the ancestral feature may not disappear, leading to an atavism.
 98
 
 ## Page 91
 
 Reading
-Questions 27-31
+Questions 27–31
 Choose the correct letter, A, B, C or D.
-rite the correct letter in boxes 27-31 on your answer sheet.
-When discussing the theory developed by Louis Dollo, the writer says that
-it was immediately referred to as Dollo's law.
-A
-B
-it supported the possibility of evolutionary throwbacks.
-C
-it was modified by biologists in the early twentieth century.
-D
-it was based on many years of research.
-The humpback whale caught off Vancouver Island is mentioned because of
-3
-A
-the exceptional size of its body.
-B
-the way it exemplifies Dollo's law.
-C
-the amount of local controversy it caused.
-the reason given for its unusual features.
-D
-29
-What is said about 'silent genes'?
-Their numbers vary according to species.
-A
-B
-Raff disagreed with the use of the term.
-They could lead to the re-emergence of certain characteristics.
-C
-They can have an unlimited life span.
-D
-30
-The writer mentions the mole salamander because
-it exemplifies what happens in the development of most amphibians.
-A
-B
-it suggests that Raff's theory is correct.
-C
-it has lost and regained more than one ability.
-its ancestors have become the subject of extensive research.
-31
-Which of the following does Wagner claim?
-A
-Members of the Bachia lizard family have lost and regained certain features
-several times.
-Evidence shows that the evolution of the Bachia lizard is due to the
-B
-environment.
-C
-His research into South American lizards supports Raff's assertions.
-D
-His findings will apply to other species of South American lizards.
+Write the correct letter in boxes 27–31 on your answer sheet.
+27 When discussing the theory developed by Louis Dollo, the writer says that
+A it was immediately referred to as Dollo’s law.
+B it supported the possibility of evolutionary throwbacks.
+C it was modified by biologists in the early twentieth century.
+D it was based on many years of research.
+28 The humpback whale caught off Vancouver Island is mentioned because of
+A the exceptional size of its body.
+B the way it exemplifies Dollo’s law.
+C the amount of local controversy it caused.
+D the reason given for its unusual features.
+29 What is said about ‘silent genes’?
+A Their numbers vary according to species.
+B Raff disagreed with the use of the term.
+C They could lead to the re-emergence of certain characteristics.
+D They can have an unlimited life span.
+30 The writer mentions the mole salamander because
+A it exemplifies what happens in the development of most amphibians.
+B it suggests that Raff’s theory is correct.
+C it has lost and regained more than one ability.
+D its ancestors have become the subject of extensive research.
+31 Which of the following does Wagner claim?
+A Members of the Bachia lizard family have lost and regained certain features several times.
+B Evidence shows that the evolution of the Bachia lizard is due to the environment.
+C His research into South American lizards supports Raff’s assertions.
+D His findings will apply to other species of South American lizards.
 99
 
 ## Page 92
 
 Test 4
-Questions 32-36
-Complete each sentence with the correct ending, A-G, below.
-Write the correct letter, A-G, in boxes 32-36 on your answer sheet.
+Questions 32–36
+Complete each sentence with the correct ending, A–G, below.
+Write the correct letter, A–G, in boxes 32–36 on your answer sheet.
 32 For a long time biologists rejected
-33
-Opposing views on evolutionary throwbacks are represented by
-34
-Examples of evolutionary throwbacks have led to
-The shark and killer whale are mentioned to exemplify
-35
-36 One explanation for the findings of Wagner's research is
-A
-the question of how certain long-lost traits could reappear.
-the occurrence of a particular feature in different species.
-B
-C
-parallels drawn between behaviour and appearance.
-the continued existence of certain genetic information.
-D
-the doubts felt about evolutionary throwbacks.
-E
-F
-the possibility of evolution being reversible.
-G
-Dollo's findings and the convictions held by Lombroso.
-Questions 37-40
+33 Opposing views on evolutionary throwbacks are represented by
+34 Examples of evolutionary throwbacks have led to
+35 The shark and killer whale are mentioned to exemplify
+36 One explanation for the findings of Wagner’s research is
+A the question of how certain long-lost traits could reappear.
+B the occurrence of a particular feature in different species.
+C parallels drawn between behaviour and appearance.
+D the continued existence of certain genetic information.
+E the doubts felt about evolutionary throwbacks.
+F the possibility of evolution being reversible.
+G Dollo’s findings and the convictions held by Lombroso.
+Questions 37–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
-YES
-if the statement agrees with the claims of the writer
-NO
-if the statement contradicts the claims of the writer
-NOT GIVEN
-if it is impossible to say what the writer thinks about this
-Wagner was the first person to do research on South American lizards.
-37
+In boxes 37–40 on your answer sheet, write
+YES if the statement agrees with the claims of the writer
+NO if the statement contradicts the claims of the writer
+NOT GIVEN if it is impossible to say what the writer thinks about this
+37 Wagner was the first person to do research on South American lizards.
 38 Wagner believes that Bachia lizards with toes had toeless ancestors.
-The temporary occurrence of long-lost traits in embryos is rare.
-39
+39 The temporary occurrence of long-lost traits in embryos is rare.
 40 Evolutionary throwbacks might be caused by developmental problems in the womb.
 100
 
@@ -6336,34 +5099,62 @@ scores acceptable.
 
 ## Page 144
 
-19
-X
-40
-NO
+Listening and Reading Answer Keys
+ACADEMIC READING
+
+Reading Passage 1, Questions 1–13
+1 FALSE
+2 TRUE
+3 NOT GIVEN
+4 NOT GIVEN
+5 TRUE
+6 pavilions
+7 drought
+8 tourists
+9 earthquake
+10 4/four sides
+11 tank
+12 verandas
+13 underwater
+
+Reading Passage 2, Questions 14–26
+14 viii
+15 iii
+16 xi
+17 i
+18 v
+19 x
+20 ii
+21 iv
+22 TRUE
+23 FALSE
+24 NOT GIVEN
+25 NOT GIVEN
+26 FALSE
+
+Reading Passage 3, Questions 27–40
+27 C
+28 A
+29 D
+30 B
+31 G
+32 E
+33 A
+34 F
+35 B
+36 NO
+37 YES
+38 NOT GIVEN
+39 NOT GIVEN
+40 NO
+
 If you score...
-0-11
-12-27
-28-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
-64S4
-152
+0–11
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12–27
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+28–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 145
 
@@ -6482,112 +5273,63 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 ACADEMIC READING
-Reading Passage 1, Questions 1-13
-22
-C
-B
-23
-IN EITHER ORDER; BOTH REQUIRED
-1
-iv
-FOR ONE MARK
-2
-viii
-books (and)
-MONOM
-vii
-activities
-:
-24
-internal regulation / self-regulation
-vi
-25
-emotional awareness
-ix
-26
-spoon-feeding
-ii
-8
-NOT GIVEN
-Reading Passage 3, Questions 27-40
-9
-TRUE
-10
-27
-FALSE
-B
-11
-FALSE
-28
-H
-12
-NOT GIVEN
-29
-L
-13
-TRUE
-30
-G
-31
-D
-32
-Reading Passage 2, Questions 14-26
-C
-33
-D
-14
-A
-34
-A
-15
-D
-35
-D
-16
-F
-36
-NOT GIVEN
-17
-D
-37
-NO
-18
-B
-38
-YES
-19
-D
-39
-NOT GIVEN
-20
-E
-40
-NO
+
+Reading Passage 1, Questions 1–13
+1 iv
+2 viii
+3 vii
+4 i
+5 vi
+6 ix
+7 ii
+8 NOT GIVEN
+9 TRUE
+10 FALSE
+11 FALSE
+12 NOT GIVEN
+13 TRUE
+
+Reading Passage 2, Questions 14–26
+14 A
+15 D
+16 F
+17 D
+18 B
+19 D
+20 E
 21 A
-If you
-score..
-0-12
-13-28
-29-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-score under examination
-acceptable score under
-acceptable score under
-conditions but we recommend
-examination conditions but
-examination conditions and
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-institutions will find different
-more practice or lessons
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
-154
+22 C
+23 IN EITHER ORDER; BOTH REQUIRED
+FOR ONE MARK
+books (and)
+activities
+24 internal regulation / self-regulation
+25 emotional awareness
+26 spoon-feeding
+
+Reading Passage 3, Questions 27–40
+27 B
+28 H
+29 L
+30 G
+31 D
+32 C
+33 D
+34 A
+35 D
+36 NOT GIVEN
+37 NO
+38 YES
+39 NOT GIVEN
+40 NO
+
+If you score...
+0–12
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+13–28
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+29–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 147
 
@@ -6836,112 +5578,60 @@ scores acceptable.
 
 Listening and Reading Answer Keys
 ACADEMIC READING
-Reading Passage 1, Questions 1-13
-20
-C
-21
-G
-1
-spread
-22
-A
-2
-10/ten times
-23
-E
-3
-below
-24
-C
-4
-fuel
-25
-G
-5
-seasons
-26
-H
-6
-homes/housing
-7
-TRUE
-Reading Passage 3, Questions 27-40
-8
-FALSE
-9
-TRUE
-27
-C
-10
-TRUE
-28
-D
-11
-NOT GIVEN
-29
-C
-12
-FALSE
-30
-B
-13
-FALSE
-31
-A
-32
-F
-Reading Passage 2, Questions 14-26
-33
-G
-34
-A
-14
-transformation/change
-35
-B
-15
-young age
-36
-D
-16
-optimism
-37
-NOT GIVEN
-17
-skills/techniques
-38
-YES
-18
-negative emotions / feelings
-39
-NO
-19
-E
-40
-YES
+
+Reading Passage 1, Questions 1–13
+1 spread
+2 10/ten times
+3 below
+4 fuel
+5 seasons
+6 homes/housing
+7 TRUE
+8 FALSE
+9 TRUE
+10 TRUE
+11 NOT GIVEN
+12 FALSE
+13 FALSE
+
+Reading Passage 2, Questions 14–26
+14 transformation/change
+15 young age
+16 optimism
+17 skills/techniques
+18 negative emotions/negative feelings
+19 E
+20 C
+21 G
+22 A
+23 E
+24 C
+25 G
+26 H
+
+Reading Passage 3, Questions 27–40
+27 C
+28 D
+29 C
+30 B
+31 A
+32 F
+33 G
+34 A
+35 B
+36 D
+37 NOT GIVEN
+38 YES
+39 NO
+40 YES
+
 If you score...
-0-11
-12-28
-29-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
-158
+0–11
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12–28
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+29–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 151
 

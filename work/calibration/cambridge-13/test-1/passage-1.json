@@ -1,0 +1,1640 @@
+{
+  "passageNumber": 1,
+  "title": "Case Study: Tourism New Zealand website",
+  "subtitle": null,
+  "sourcePages": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "answerKeyPage": 118,
+  "bodyParagraphs": [
+    "New Zealand is a small country of four million inhabitants, a long-haul flight from all the major tourist-generating markets of the world. Tourism currently makes up 9% of the country’s gross domestic product, and is the country’s largest export sector. Unlike other export sectors, which make products and then sell them overseas, tourism brings its customers to New Zealand. The product is the country itself – the people, the places and the experiences. In 1999, Tourism New Zealand launched a campaign to communicate a new brand position to the world. The campaign focused on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world.",
+    "A key feature of the campaign was the website www.newzealand.com, which provided potential visitors to New Zealand with a single gateway to everything the destination had to offer. The heart of the website was a database of tourism services operators, both those based in New Zealand and those based abroad which offered tourism services to the country. Any tourism-related business could be listed by filling in a simple form. This meant that even the smallest bed and breakfast address or specialist activity provider could gain a web presence with access to an audience of long-haul visitors. In addition, because participating businesses were able to update the details they gave on a regular basis, the information provided remained accurate. And to maintain and improve standards, Tourism New Zealand organised a scheme whereby organisations appearing on the website underwent an independent evaluation against a set of agreed national standards of quality. As part of this, the effect of each business on the environment was considered.",
+    "To communicate the New Zealand experience, the site also carried features relating to famous people and places. One of the most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a lot of attention was an interactive journey through a number of the locations chosen for blockbuster films which had made use of New Zealand’s stunning scenery as a backdrop. As the site developed, additional features were added to help independent travellers devise their own customised itineraries. To make it easier to plan motoring holidays, the site catalogued the most popular driving routes in the country, highlighting different routes according to the season and indicating distances and times.",
+    "Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’ places or attractions they were interested in, and then view the results on a map. The Travel Planner offered suggested routes and public transport options between the chosen locations. There were also links to accommodation in the area. By registering with the website, users could save their Travel Plan and return to it later, or print it out to take on the visit. The website also had a ‘Your Words’ section where anyone could submit a blog of their New Zealand travels for possible inclusion on the website.",
+    "The Tourism New Zealand website won two Webby awards for online achievement and innovation. More importantly perhaps, the growth of tourism to New Zealand was impressive. Overall tourism expenditure increased by an average of 6.9% per year between 1999 and 2004. From Britain, visits to New Zealand grew at an average annual rate of 13% between 2002 and 2006, compared to a rate of 4% overall for British visits abroad.",
+    "The website was set up to allow both individuals and travel organisations to create itineraries and travel packages to suit their own needs and interests. On the website, visitors can search for activities not solely by geographical location, but also by the particular nature of the activity. This is important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%. The more activities that visitors undertake, the more satisfied they will be. It has also been found that visitors enjoy cultural activities most when they are interactive, such as visiting a marae (meeting ground) to learn about traditional Maori life. Many long-haul travellers enjoy such learning experiences, which provide them with stories to take home to their friends and family. In addition, it appears that visitors to New Zealand don’t want to be ‘one of the crowd’ and find activities that involve only a few people more special and meaningful.",
+    "It could be argued that New Zealand is not a typical destination. New Zealand is a small country with a visitor economy composed mainly of small businesses. It is generally perceived as a safe English-speaking country with a reliable transport infrastructure. Because of the long-haul flight, most visitors stay for longer (average 20 days) and want to see as much of the country as possible on what is often seen as a once-in-a-lifetime visit. However, the underlying lessons apply anywhere – the effectiveness of a strong brand, a strategy based on unique experiences and a comprehensive and user-friendly website."
+  ],
+  "sentences": [
+    {
+      "number": 1,
+      "paragraph": 1,
+      "text": "New Zealand is a small country of four million inhabitants, a long-haul flight from all the major tourist-generating markets of the world.",
+      "translation": "新西兰是一个仅有四百万居民的小国，从世界上所有主要客源市场前往那里都要经历长途飞行。",
+      "structure": "主干是 New Zealand is a small country；of four million inhabitants 后置限定 country，逗号后的 a long-haul flight... 是同位式补充，用距离感说明旅游推广的先天难题。",
+      "vocabulary": [
+        {
+          "term": "inhabitant",
+          "level": "B2",
+          "meaning": "居民"
+        },
+        {
+          "term": "long-haul flight",
+          "level": "B2",
+          "meaning": "长途飞行"
+        },
+        {
+          "term": "major",
+          "level": "B1",
+          "meaning": "主要的"
+        },
+        {
+          "term": "tourist-generating market",
+          "level": "C1（旅游业专业表达）",
+          "meaning": "产生游客的客源市场"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraph": 1,
+      "text": "Tourism currently makes up 9% of the country’s gross domestic product, and is the country’s largest export sector.",
+      "translation": "目前，旅游业占该国国内生产总值的9%，并且是该国最大的出口产业。",
+      "structure": "并列谓语 makes up 与 is 共用主语 Tourism；先给经济占比，再给产业排名，建立旅游业的重要性。",
+      "vocabulary": [
+        {
+          "term": "tourism",
+          "level": "B1（旅游业专业词）",
+          "meaning": "旅游业"
+        },
+        {
+          "term": "currently",
+          "level": "B1",
+          "meaning": "目前"
+        },
+        {
+          "term": "make up",
+          "level": "B2",
+          "meaning": "构成；占"
+        },
+        {
+          "term": "gross domestic product",
+          "level": "C1（经济学专业词）",
+          "meaning": "国内生产总值"
+        },
+        {
+          "term": "export sector",
+          "level": "B2（经济学专业表达）",
+          "meaning": "出口产业部门"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraph": 1,
+      "text": "Unlike other export sectors, which make products and then sell them overseas, tourism brings its customers to New Zealand.",
+      "translation": "与先生产产品再销往海外的其他出口行业不同，旅游业把顾客带到新西兰本土。",
+      "structure": "Unlike... 前置形成对比；which 引导非限制性定语从句解释其他出口行业的运作；主干 tourism brings its customers to New Zealand 点明旅游业的反向流动。",
+      "vocabulary": [
+        {
+          "term": "unlike",
+          "level": "B1",
+          "meaning": "不同于"
+        },
+        {
+          "term": "export sector",
+          "level": "B2（经济学专业表达）",
+          "meaning": "出口行业"
+        },
+        {
+          "term": "overseas",
+          "level": "B2",
+          "meaning": "在海外；向海外"
+        },
+        {
+          "term": "tourism",
+          "level": "B1（旅游业专业词）",
+          "meaning": "旅游业"
+        },
+        {
+          "term": "bring ... to ...",
+          "level": "B1",
+          "meaning": "把……带到……"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraph": 1,
+      "text": "The product is the country itself – the people, the places and the experiences.",
+      "translation": "这里的产品就是这个国家本身——它的人民、地方和各种体验。",
+      "structure": "系表结构直接下定义；破折号后的三项并列把抽象的 country itself 展开为可感知的旅游产品。",
+      "vocabulary": [
+        {
+          "term": "the country itself",
+          "level": "B1",
+          "meaning": "这个国家本身；itself 用于强调"
+        },
+        {
+          "term": "experience",
+          "level": "B1",
+          "meaning": "体验；经历"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraph": 1,
+      "text": "In 1999, Tourism New Zealand launched a campaign to communicate a new brand position to the world.",
+      "translation": "1999年，新西兰旅游局发起了一场宣传活动，向世界传达新的品牌定位。",
+      "structure": "主干 Tourism New Zealand launched a campaign；不定式 to communicate 表目的，说明活动要改变外界对国家品牌的认识。",
+      "vocabulary": [
+        {
+          "term": "launch a campaign",
+          "level": "C1（市场营销专业表达）",
+          "meaning": "发起宣传活动"
+        },
+        {
+          "term": "communicate",
+          "level": "B1",
+          "meaning": "传达"
+        },
+        {
+          "term": "brand position",
+          "level": "C1（市场营销专业词）",
+          "meaning": "品牌定位"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraph": 1,
+      "text": "The campaign focused on New Zealand’s scenic beauty, exhilarating outdoor activities and authentic Maori culture, and it made New Zealand one of the strongest national brands in the world.",
+      "translation": "这场宣传聚焦于新西兰的自然美景、令人振奋的户外活动和原汁原味的毛利文化，并使新西兰成为世界上最强势的国家品牌之一。",
+      "structure": "两个并列分句分别写宣传内容与结果；三个并列名词短语把品牌定位具体化，made + 宾语 + 补语写出塑造效果。",
+      "vocabulary": [
+        {
+          "term": "campaign",
+          "level": "C1（市场营销专业词）",
+          "meaning": "为特定营销目标规划的一系列宣传活动"
+        },
+        {
+          "term": "focus on",
+          "level": "B1",
+          "meaning": "聚焦于"
+        },
+        {
+          "term": "scenic beauty",
+          "level": "B2",
+          "meaning": "自然风光之美"
+        },
+        {
+          "term": "exhilarating",
+          "level": "C1",
+          "meaning": "令人兴奋、振奋的"
+        },
+        {
+          "term": "outdoor activity",
+          "level": "B1",
+          "meaning": "户外活动"
+        },
+        {
+          "term": "authentic",
+          "level": "B2",
+          "meaning": "真实的；原汁原味的"
+        },
+        {
+          "term": "national brand",
+          "level": "C1（市场营销专业词）",
+          "meaning": "国家品牌"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "paragraph": 2,
+      "text": "A key feature of the campaign was the website www.newzealand.com, which provided potential visitors to New Zealand with a single gateway to everything the destination had to offer.",
+      "translation": "这场宣传的一项关键内容是网站 www.newzealand.com；它为潜在的新西兰游客提供了一个统一入口，让他们接触目的地所能提供的一切。",
+      "structure": "主句说明网站是 campaign 的关键组成；which 非限制性定语从句解释网站功能，everything 后的 the destination had to offer 省略关系代词。",
+      "vocabulary": [
+        {
+          "term": "campaign",
+          "level": "C1（市场营销专业词）",
+          "meaning": "宣传活动；本句指前文的新西兰国家品牌推广活动"
+        },
+        {
+          "term": "key feature",
+          "level": "B2",
+          "meaning": "关键特点；核心组成"
+        },
+        {
+          "term": "potential visitor",
+          "level": "B2",
+          "meaning": "潜在游客"
+        },
+        {
+          "term": "provide ... with ...",
+          "level": "B1",
+          "meaning": "为……提供……"
+        },
+        {
+          "term": "single gateway",
+          "level": "B2",
+          "meaning": "统一入口"
+        },
+        {
+          "term": "destination",
+          "level": "B1（旅游业专业词）",
+          "meaning": "旅游目的地"
+        },
+        {
+          "term": "have to offer",
+          "level": "B2",
+          "meaning": "能够提供"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "paragraph": 2,
+      "text": "The heart of the website was a database of tourism services operators, both those based in New Zealand and those based abroad which offered tourism services to the country.",
+      "translation": "该网站的核心是一个旅游服务经营者数据库，既收录新西兰本地经营者，也收录设在海外、向该国提供旅游服务的经营者。",
+      "structure": "主干用 The heart of... 比喻核心；both...and... 并列两类 operators，based... 为过去分词短语，which 从句限定海外经营者。",
+      "vocabulary": [
+        {
+          "term": "tourism",
+          "level": "B1（旅游业专业词）",
+          "meaning": "旅游业；本句用于限定服务经营者的业务领域"
+        },
+        {
+          "term": "the heart of",
+          "level": "B2",
+          "meaning": "……的核心"
+        },
+        {
+          "term": "database",
+          "level": "B2（信息技术专业词）",
+          "meaning": "数据库"
+        },
+        {
+          "term": "operator",
+          "level": "B2（旅游业专业词）",
+          "meaning": "经营者；运营商"
+        },
+        {
+          "term": "be based in/abroad",
+          "level": "B2",
+          "meaning": "设在某地/海外"
+        },
+        {
+          "term": "offer services",
+          "level": "B1",
+          "meaning": "提供服务"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "paragraph": 2,
+      "text": "Any tourism-related business could be listed by filling in a simple form.",
+      "translation": "任何与旅游相关的企业只需填写一张简单表格，就能被列入网站。",
+      "structure": "被动语态 could be listed 强调准入结果；by filling in... 表示实现方式，突出门槛很低。",
+      "vocabulary": [
+        {
+          "term": "tourism-related",
+          "level": "B2",
+          "meaning": "与旅游有关的"
+        },
+        {
+          "term": "be listed",
+          "level": "B2",
+          "meaning": "被列入名录"
+        },
+        {
+          "term": "fill in a form",
+          "level": "B1",
+          "meaning": "填写表格"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "paragraph": 2,
+      "text": "This meant that even the smallest bed and breakfast address or specialist activity provider could gain a web presence with access to an audience of long-haul visitors.",
+      "translation": "这意味着，即便只是最小型住宿加早餐旅店的地址，或是一家专项活动服务商，也能在网上获得展示机会，并接触到长途游客群体。",
+      "structure": "This 回指低门槛登记；that 宾语从句中，bed and breakfast address 与 specialist activity provider 是由 or 连接的两个并列中心，even 突出规模最小的登记地址或服务商也能受益；with access to... 补充这种线上存在带来的实际价值。",
+      "vocabulary": [
+        {
+          "term": "bed and breakfast address",
+          "level": "B1（旅游业专业表达）",
+          "meaning": "住宿加早餐旅店的地址或登记项；保留原文 address 的信息"
+        },
+        {
+          "term": "specialist",
+          "level": "B2",
+          "meaning": "专门的；专业的"
+        },
+        {
+          "term": "provider",
+          "level": "B2",
+          "meaning": "供应者；服务商"
+        },
+        {
+          "term": "gain a web presence",
+          "level": "C1（数字营销专业表达）",
+          "meaning": "获得线上曝光和可见度"
+        },
+        {
+          "term": "have access to",
+          "level": "B1",
+          "meaning": "能够接触或使用"
+        },
+        {
+          "term": "audience",
+          "level": "B1",
+          "meaning": "受众群体"
+        },
+        {
+          "term": "long-haul visitor",
+          "level": "B2（旅游业专业表达）",
+          "meaning": "远程长途游客"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "paragraph": 2,
+      "text": "In addition, because participating businesses were able to update the details they gave on a regular basis, the information provided remained accurate.",
+      "translation": "此外，由于参与企业能够定期更新自己提供的详细信息，网站上的信息得以保持准确。",
+      "structure": "because 原因从句解释信息为何可靠；they gave 是省略关系代词的定语从句，provided 是过去分词后置修饰 information。",
+      "vocabulary": [
+        {
+          "term": "in addition",
+          "level": "B1",
+          "meaning": "此外"
+        },
+        {
+          "term": "participating business",
+          "level": "B2",
+          "meaning": "参与企业"
+        },
+        {
+          "term": "update",
+          "level": "B1",
+          "meaning": "更新"
+        },
+        {
+          "term": "on a regular basis",
+          "level": "B2",
+          "meaning": "定期地"
+        },
+        {
+          "term": "remain accurate",
+          "level": "B2",
+          "meaning": "保持准确"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "paragraph": 2,
+      "text": "And to maintain and improve standards, Tourism New Zealand organised a scheme whereby organisations appearing on the website underwent an independent evaluation against a set of agreed national standards of quality.",
+      "translation": "为了维持并提高标准，新西兰旅游局还组织了一套机制：网站上的机构须依据一套共同认可的全国质量标准接受独立评估。",
+      "structure": "句首不定式表目的；whereby 引导定语从句说明 scheme 的运作方式；appearing... 修饰 organisations，underwent 是正式语体中的“经历、接受”。",
+      "vocabulary": [
+        {
+          "term": "maintain standards",
+          "level": "B2",
+          "meaning": "维持标准"
+        },
+        {
+          "term": "improve",
+          "level": "B1",
+          "meaning": "提高；改善"
+        },
+        {
+          "term": "organise a scheme",
+          "level": "B2",
+          "meaning": "建立并组织一套机制"
+        },
+        {
+          "term": "organisation",
+          "level": "B1",
+          "meaning": "机构；组织；本句复数指网站上接受评估的机构"
+        },
+        {
+          "term": "whereby",
+          "level": "C1",
+          "meaning": "借此；凭此方式"
+        },
+        {
+          "term": "undergo",
+          "level": "B2",
+          "meaning": "经历；接受"
+        },
+        {
+          "term": "independent evaluation",
+          "level": "C1",
+          "meaning": "独立评估"
+        },
+        {
+          "term": "against a set of standards",
+          "level": "C1",
+          "meaning": "依据一套标准进行衡量"
+        },
+        {
+          "term": "agreed national standards of quality",
+          "level": "C1（质量管理专业表达）",
+          "meaning": "共同认可的全国质量标准"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "paragraph": 2,
+      "text": "As part of this, the effect of each business on the environment was considered.",
+      "translation": "作为该评估的一部分，每家企业对环境的影响也会被纳入考量。",
+      "structure": "被动语态 was considered 隐去评估者，突出评估内容；on the environment 限定 effect 的作用对象。",
+      "vocabulary": [
+        {
+          "term": "as part of",
+          "level": "B1",
+          "meaning": "作为……的一部分"
+        },
+        {
+          "term": "effect on",
+          "level": "B1",
+          "meaning": "对……的影响"
+        },
+        {
+          "term": "environment",
+          "level": "B1",
+          "meaning": "环境"
+        },
+        {
+          "term": "be considered",
+          "level": "B1",
+          "meaning": "被考虑；被纳入评估"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "paragraph": 3,
+      "text": "To communicate the New Zealand experience, the site also carried features relating to famous people and places.",
+      "translation": "为了传达新西兰体验，该网站还刊载了与名人和著名地点有关的专题内容。",
+      "structure": "不定式置前表目的；主干 the site carried features 中 carry 不是“携带”，而是媒体语境的“刊载”。",
+      "vocabulary": [
+        {
+          "term": "communicate an experience",
+          "level": "B2",
+          "meaning": "传达一种体验"
+        },
+        {
+          "term": "carry features",
+          "level": "B2（媒体专业表达）",
+          "meaning": "刊载专题内容"
+        },
+        {
+          "term": "relating to",
+          "level": "B1",
+          "meaning": "与……有关"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "paragraph": 3,
+      "text": "One of the most popular was an interview with former New Zealand All Blacks rugby captain Tana Umaga.",
+      "translation": "最受欢迎的内容之一，是对新西兰全黑队前橄榄球队长塔纳·乌马加的采访。",
+      "structure": "One 指代前句的 features；one of the most popular 使用最高级范围结构，with 引出采访对象。",
+      "vocabulary": [
+        {
+          "term": "one of the most popular",
+          "level": "B1",
+          "meaning": "最受欢迎的……之一"
+        },
+        {
+          "term": "interview with",
+          "level": "B1",
+          "meaning": "对……的采访"
+        },
+        {
+          "term": "former",
+          "level": "B1",
+          "meaning": "前任的；从前的"
+        },
+        {
+          "term": "captain",
+          "level": "B1",
+          "meaning": "队长"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "paragraph": 3,
+      "text": "Another feature that attracted a lot of attention was an interactive journey through a number of the locations chosen for blockbuster films which had made use of New Zealand’s stunning scenery as a backdrop.",
+      "translation": "另一个备受关注的专题是一段互动旅程，带访客走过多处曾被大片选作取景地的地点；这些影片利用新西兰壮丽的风景作为背景。",
+      "structure": "主干 Another feature was an interactive journey；that... 修饰 feature，chosen... 修饰 locations，which... 修饰 films，多层后置修饰逐步补足受欢迎原因。",
+      "vocabulary": [
+        {
+          "term": "feature",
+          "level": "B2（媒体专业词）",
+          "meaning": "专题内容；本句指互动式地点游览专题"
+        },
+        {
+          "term": "attract attention",
+          "level": "B1",
+          "meaning": "吸引注意"
+        },
+        {
+          "term": "interactive journey",
+          "level": "B2",
+          "meaning": "互动式旅程"
+        },
+        {
+          "term": "a number of",
+          "level": "B1",
+          "meaning": "若干；许多"
+        },
+        {
+          "term": "location",
+          "level": "B1（影视专业词）",
+          "meaning": "外景地；地点"
+        },
+        {
+          "term": "blockbuster film",
+          "level": "B2（影视专业词）",
+          "meaning": "商业大片"
+        },
+        {
+          "term": "make use of",
+          "level": "B2",
+          "meaning": "利用"
+        },
+        {
+          "term": "stunning scenery",
+          "level": "B2",
+          "meaning": "极其壮丽的风景"
+        },
+        {
+          "term": "as a backdrop",
+          "level": "B2（影视专业表达）",
+          "meaning": "作为背景或布景"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "paragraph": 3,
+      "text": "As the site developed, additional features were added to help independent travellers devise their own customised itineraries.",
+      "translation": "随着网站发展，又增添了更多功能，帮助自由行游客设计自己的个性化行程。",
+      "structure": "As 引导时间变化背景；主句用被动说明功能扩充，不定式 to help 表目的，help 后接 devise 原形。",
+      "vocabulary": [
+        {
+          "term": "feature",
+          "level": "B2",
+          "meaning": "功能；本句复数指后来新增的网站功能"
+        },
+        {
+          "term": "as ... developed",
+          "level": "B1",
+          "meaning": "随着……发展"
+        },
+        {
+          "term": "additional",
+          "level": "B1",
+          "meaning": "额外的；新增的"
+        },
+        {
+          "term": "independent traveller",
+          "level": "B2（旅游业专业词）",
+          "meaning": "自由行游客"
+        },
+        {
+          "term": "devise",
+          "level": "C1",
+          "meaning": "精心设计；构想"
+        },
+        {
+          "term": "customised itinerary",
+          "level": "C1（旅游业专业表达）",
+          "meaning": "个性化行程安排"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "paragraph": 3,
+      "text": "To make it easier to plan motoring holidays, the site catalogued the most popular driving routes in the country, highlighting different routes according to the season and indicating distances and times.",
+      "translation": "为方便游客规划自驾假期，网站把全国最受欢迎的驾车路线编成目录，并按季节突出不同路线，同时标明距离与所需时间。",
+      "structure": "To make it easier... 表目的，it 是形式宾语；主干 the site catalogued...，两个现在分词 highlighting 与 indicating 并列说明目录提供的信息。",
+      "vocabulary": [
+        {
+          "term": "motoring holiday",
+          "level": "B2（旅游业专业表达）",
+          "meaning": "自驾游假期"
+        },
+        {
+          "term": "catalogue",
+          "level": "C1",
+          "meaning": "把……编入目录"
+        },
+        {
+          "term": "driving route",
+          "level": "B1",
+          "meaning": "驾车路线"
+        },
+        {
+          "term": "highlight",
+          "level": "B2",
+          "meaning": "突出显示"
+        },
+        {
+          "term": "according to",
+          "level": "B1",
+          "meaning": "按照；根据"
+        },
+        {
+          "term": "indicate",
+          "level": "B1",
+          "meaning": "标明；显示"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "paragraph": 4,
+      "text": "Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’ places or attractions they were interested in, and then view the results on a map.",
+      "translation": "后来，网站新增了“旅行规划器”功能，游客可以点击并“收藏”感兴趣的地点或景点，然后在地图上查看结果。",
+      "structure": "主句用被动引入新功能；which 从句解释用途，allowed visitors to... 后并列 click/bookmark 与 view；they were interested in 修饰 places or attractions。",
+      "vocabulary": [
+        {
+          "term": "feature",
+          "level": "B2",
+          "meaning": "功能；本句指旅行规划器功能"
+        },
+        {
+          "term": "planner",
+          "level": "B1",
+          "meaning": "规划工具"
+        },
+        {
+          "term": "allow ... to ...",
+          "level": "B1",
+          "meaning": "允许……做……"
+        },
+        {
+          "term": "bookmark",
+          "level": "B2（信息技术专业词）",
+          "meaning": "收藏网页或地点"
+        },
+        {
+          "term": "attraction",
+          "level": "B1（旅游业专业词）",
+          "meaning": "景点；吸引物"
+        },
+        {
+          "term": "be interested in",
+          "level": "B1",
+          "meaning": "对……感兴趣"
+        },
+        {
+          "term": "view the results",
+          "level": "B1",
+          "meaning": "查看结果"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "paragraph": 4,
+      "text": "The Travel Planner offered suggested routes and public transport options between the chosen locations.",
+      "translation": "旅行规划器会提供推荐路线，以及选定地点之间的公共交通方案。",
+      "structure": "简单主谓宾结构；suggested 与 public transport 分别限定两类规划信息，between... 界定路线范围。",
+      "vocabulary": [
+        {
+          "term": "suggested route",
+          "level": "B1",
+          "meaning": "推荐路线"
+        },
+        {
+          "term": "public transport",
+          "level": "B1",
+          "meaning": "公共交通"
+        },
+        {
+          "term": "option",
+          "level": "B1",
+          "meaning": "可选方案"
+        },
+        {
+          "term": "chosen location",
+          "level": "B1",
+          "meaning": "选定地点"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "paragraph": 4,
+      "text": "There were also links to accommodation in the area.",
+      "translation": "网站还提供了当地住宿信息的链接。",
+      "structure": "There be 句型补充服务项目；to accommodation 表示链接所指向的内容。",
+      "vocabulary": [
+        {
+          "term": "link to",
+          "level": "B1",
+          "meaning": "通往……的链接"
+        },
+        {
+          "term": "accommodation",
+          "level": "B1（旅游业专业词）",
+          "meaning": "住宿；住宿设施"
+        },
+        {
+          "term": "in the area",
+          "level": "B1",
+          "meaning": "在该地区；当地"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "paragraph": 4,
+      "text": "By registering with the website, users could save their Travel Plan and return to it later, or print it out to take on the visit.",
+      "translation": "用户在网站注册后，可以保存旅行计划，日后再回来查看，也可以将其打印出来随身带着出游。",
+      "structure": "By doing 表方式或条件；could 后并列 save/return 与 print，to take on the visit 表打印的目的。",
+      "vocabulary": [
+        {
+          "term": "register with",
+          "level": "B1",
+          "meaning": "在……注册"
+        },
+        {
+          "term": "save",
+          "level": "B1（信息技术用语）",
+          "meaning": "保存"
+        },
+        {
+          "term": "return to",
+          "level": "B1",
+          "meaning": "回到；重新查看"
+        },
+        {
+          "term": "print out",
+          "level": "B1",
+          "meaning": "打印出来"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "paragraph": 4,
+      "text": "The website also had a ‘Your Words’ section where anyone could submit a blog of their New Zealand travels for possible inclusion on the website.",
+      "translation": "网站还设有“你的文字”栏目，任何人都可以提交记录自己新西兰之旅的博客，供网站考虑收录。",
+      "structure": "where 引导定语从句解释 section 的参与方式；for possible inclusion 表提交目的，但 possible 保留了不保证刊登的语气。",
+      "vocabulary": [
+        {
+          "term": "section",
+          "level": "B1",
+          "meaning": "栏目；部分"
+        },
+        {
+          "term": "submit",
+          "level": "B2",
+          "meaning": "提交"
+        },
+        {
+          "term": "blog",
+          "level": "B1",
+          "meaning": "博客文章"
+        },
+        {
+          "term": "possible inclusion",
+          "level": "C1（编辑出版专业表达）",
+          "meaning": "可能被收录"
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "paragraph": 5,
+      "text": "The Tourism New Zealand website won two Webby awards for online achievement and innovation.",
+      "translation": "新西兰旅游局网站凭借线上成就与创新赢得了两项威比奖。",
+      "structure": "简单主谓宾；for 引出获奖依据，从功能描述转向外部认可。",
+      "vocabulary": [
+        {
+          "term": "award",
+          "level": "B1",
+          "meaning": "奖项"
+        },
+        {
+          "term": "online achievement",
+          "level": "B2",
+          "meaning": "线上成就"
+        },
+        {
+          "term": "innovation",
+          "level": "B2",
+          "meaning": "创新"
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "paragraph": 5,
+      "text": "More importantly perhaps, the growth of tourism to New Zealand was impressive.",
+      "translation": "也许更重要的是，赴新西兰旅游的增长势头十分可观。",
+      "structure": "More importantly perhaps 是评注性状语，perhaps 稍微收敛判断；主句承上启下，引出量化数据。",
+      "vocabulary": [
+        {
+          "term": "more importantly",
+          "level": "B1",
+          "meaning": "更重要的是"
+        },
+        {
+          "term": "growth of tourism",
+          "level": "B1",
+          "meaning": "旅游业的增长"
+        },
+        {
+          "term": "impressive",
+          "level": "B1",
+          "meaning": "令人印象深刻的；可观的"
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "paragraph": 5,
+      "text": "Overall tourism expenditure increased by an average of 6.9% per year between 1999 and 2004.",
+      "translation": "1999年至2004年间，旅游总支出平均每年增长6.9%。",
+      "structure": "主干 expenditure increased；by 表增长幅度，per year 表频率，between... 界定统计时段。",
+      "vocabulary": [
+        {
+          "term": "overall",
+          "level": "B2",
+          "meaning": "总体的"
+        },
+        {
+          "term": "tourism expenditure",
+          "level": "C1（经济学/旅游业专业词）",
+          "meaning": "旅游支出"
+        },
+        {
+          "term": "increase by",
+          "level": "B1",
+          "meaning": "增长了（某幅度）"
+        },
+        {
+          "term": "an average of",
+          "level": "B1",
+          "meaning": "平均为"
+        },
+        {
+          "term": "per year",
+          "level": "B1",
+          "meaning": "每年"
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "paragraph": 5,
+      "text": "From Britain, visits to New Zealand grew at an average annual rate of 13% between 2002 and 2006, compared to a rate of 4% overall for British visits abroad.",
+      "translation": "2002年至2006年间，英国游客赴新西兰人次的年均增长率为13%，而英国整体出境旅游的增长率仅为4%。",
+      "structure": "主干 visits... grew；at...rate 给出增速，compared to... 是过去分词比较结构，以总体出境增速衬托新西兰表现。",
+      "vocabulary": [
+        {
+          "term": "annual rate",
+          "level": "B2",
+          "meaning": "年增长率"
+        },
+        {
+          "term": "compared to",
+          "level": "B1",
+          "meaning": "与……相比"
+        },
+        {
+          "term": "overall",
+          "level": "B2",
+          "meaning": "总体而言；整体的"
+        },
+        {
+          "term": "visits abroad",
+          "level": "B1",
+          "meaning": "出境访问；出境旅游"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "paragraph": 6,
+      "text": "The website was set up to allow both individuals and travel organisations to create itineraries and travel packages to suit their own needs and interests.",
+      "translation": "建立该网站，是为了让个人和旅游机构都能制定符合自身需求与兴趣的行程和旅游套餐。",
+      "structure": "was set up 表被动目的；allow both A and B to... 强调两类用户，不定式 to suit... 说明产品定制标准。",
+      "vocabulary": [
+        {
+          "term": "allow ... to ...",
+          "level": "B1",
+          "meaning": "让、允许……做……；本句指让个人和旅游机构自行创建产品"
+        },
+        {
+          "term": "set up",
+          "level": "B1",
+          "meaning": "建立；设立"
+        },
+        {
+          "term": "individual",
+          "level": "B1",
+          "meaning": "个人"
+        },
+        {
+          "term": "travel organisation",
+          "level": "B2（旅游业专业词）",
+          "meaning": "旅游机构"
+        },
+        {
+          "term": "itinerary",
+          "level": "C1（旅游业专业词）",
+          "meaning": "行程安排"
+        },
+        {
+          "term": "travel package",
+          "level": "B2（旅游业专业词）",
+          "meaning": "旅游套餐"
+        },
+        {
+          "term": "suit one’s needs and interests",
+          "level": "B2",
+          "meaning": "符合某人的需求和兴趣"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "paragraph": 6,
+      "text": "On the website, visitors can search for activities not solely by geographical location, but also by the particular nature of the activity.",
+      "translation": "在网站上，游客搜索活动时不仅可以按地理位置，还可以按活动的具体性质来筛选。",
+      "structure": "not solely...but also... 构成递进并列，纠正读者对搜索方式的单一想象；by 表分类依据。",
+      "vocabulary": [
+        {
+          "term": "search for",
+          "level": "B1",
+          "meaning": "搜索；寻找"
+        },
+        {
+          "term": "not solely ... but also ...",
+          "level": "C1",
+          "meaning": "不仅仅……而且还……"
+        },
+        {
+          "term": "geographical location",
+          "level": "B2（地理学专业表达）",
+          "meaning": "地理位置"
+        },
+        {
+          "term": "particular nature",
+          "level": "B2",
+          "meaning": "具体性质；特定类型"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "paragraph": 6,
+      "text": "This is important as research shows that activities are the key driver of visitor satisfaction, contributing 74% to visitor satisfaction, while transport and accommodation account for the remaining 26%.",
+      "translation": "这一点很重要，因为研究显示，活动是游客满意度的关键驱动因素，贡献了满意度的74%，而交通与住宿合计占余下的26%。",
+      "structure": "as 引导原因；shows 后 that 从句给结论，contributing... 补充活动的占比，while 对比另外两项，数字形成鲜明权重差。",
+      "vocabulary": [
+        {
+          "term": "research shows that",
+          "level": "B1",
+          "meaning": "研究显示……"
+        },
+        {
+          "term": "key driver",
+          "level": "C1（商业分析专业词）",
+          "meaning": "关键驱动因素"
+        },
+        {
+          "term": "visitor satisfaction",
+          "level": "B2（旅游业专业词）",
+          "meaning": "游客满意度"
+        },
+        {
+          "term": "contribute ... to ...",
+          "level": "B2",
+          "meaning": "为……贡献……"
+        },
+        {
+          "term": "while",
+          "level": "B1",
+          "meaning": "而；用于对比"
+        },
+        {
+          "term": "accommodation",
+          "level": "B1（旅游业专业词）",
+          "meaning": "住宿；与 transport 并列，共同构成剩余满意度来源"
+        },
+        {
+          "term": "account for",
+          "level": "B2",
+          "meaning": "占（比例）"
+        },
+        {
+          "term": "remaining",
+          "level": "B1",
+          "meaning": "剩余的"
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "paragraph": 6,
+      "text": "The more activities that visitors undertake, the more satisfied they will be.",
+      "translation": "游客参加的活动越多，他们就会越满意。",
+      "structure": "the more..., the more... 是关联比较结构；that visitors undertake 修饰 activities，概括研究所得的剂量—反应关系。",
+      "vocabulary": [
+        {
+          "term": "the more ..., the more ...",
+          "level": "B1",
+          "meaning": "越……就越……"
+        },
+        {
+          "term": "undertake an activity",
+          "level": "B2",
+          "meaning": "参加、从事一项活动"
+        },
+        {
+          "term": "satisfied",
+          "level": "B1",
+          "meaning": "满意的"
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "paragraph": 6,
+      "text": "It has also been found that visitors enjoy cultural activities most when they are interactive, such as visiting a marae (meeting ground) to learn about traditional Maori life.",
+      "translation": "研究还发现，游客最喜欢互动式文化活动，例如参访毛利会堂（集会场所），了解传统毛利生活。",
+      "structure": "It has been found that... 是客观研究报告句式；when 从句说明最受欢迎的条件，such as 引出例子，to learn 表参访目的。",
+      "vocabulary": [
+        {
+          "term": "it has been found that",
+          "level": "B2",
+          "meaning": "研究发现……"
+        },
+        {
+          "term": "cultural activity",
+          "level": "B1",
+          "meaning": "文化活动"
+        },
+        {
+          "term": "interactive",
+          "level": "B2",
+          "meaning": "互动的"
+        },
+        {
+          "term": "marae",
+          "level": "B2（毛利文化专业词）",
+          "meaning": "毛利人的会堂及集会场所"
+        },
+        {
+          "term": "meeting ground",
+          "level": "B1",
+          "meaning": "集会场所"
+        },
+        {
+          "term": "traditional",
+          "level": "B1",
+          "meaning": "传统的"
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "paragraph": 6,
+      "text": "Many long-haul travellers enjoy such learning experiences, which provide them with stories to take home to their friends and family.",
+      "translation": "许多长途游客喜欢这种学习体验，因为它们让游客有故事可以带回去讲给亲友听。",
+      "structure": "which 非限制性定语从句补充 learning experiences 的附加价值；to take home... 修饰 stories，带有把记忆带回家的形象感。",
+      "vocabulary": [
+        {
+          "term": "long-haul traveller",
+          "level": "B2（旅游业专业表达）",
+          "meaning": "长途游客"
+        },
+        {
+          "term": "learning experience",
+          "level": "B1",
+          "meaning": "学习体验"
+        },
+        {
+          "term": "provide ... with ...",
+          "level": "B1",
+          "meaning": "给……提供……"
+        },
+        {
+          "term": "take home",
+          "level": "B1",
+          "meaning": "带回家；带回本国"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "paragraph": 6,
+      "text": "In addition, it appears that visitors to New Zealand don’t want to be ‘one of the crowd’ and find activities that involve only a few people more special and meaningful.",
+      "translation": "此外，新西兰游客似乎不愿成为“人群中的普通一员”，而会觉得只有少数人参与的活动更加特别、更有意义。",
+      "structure": "it appears that... 降低断言强度；that 从句内 don’t want 与 find 并列，find + 宾语 + 补语表达主观评价，that involve... 修饰 activities。",
+      "vocabulary": [
+        {
+          "term": "in addition",
+          "level": "B1",
+          "meaning": "此外"
+        },
+        {
+          "term": "it appears that",
+          "level": "B2",
+          "meaning": "似乎……"
+        },
+        {
+          "term": "one of the crowd",
+          "level": "B2",
+          "meaning": "人群中毫不起眼的一员"
+        },
+        {
+          "term": "involve",
+          "level": "B1",
+          "meaning": "涉及；需要……参与"
+        },
+        {
+          "term": "meaningful",
+          "level": "B2",
+          "meaning": "有意义的"
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "paragraph": 7,
+      "text": "It could be argued that New Zealand is not a typical destination.",
+      "translation": "可以说，新西兰并不是一个典型的旅游目的地。",
+      "structure": "It could be argued that... 用非人称被动和情态动词谨慎提出潜在反论，为下文列出特殊条件。",
+      "vocabulary": [
+        {
+          "term": "it could be argued that",
+          "level": "C1",
+          "meaning": "可以提出这样的观点……"
+        },
+        {
+          "term": "typical",
+          "level": "B1",
+          "meaning": "典型的"
+        },
+        {
+          "term": "destination",
+          "level": "B1（旅游业专业词）",
+          "meaning": "旅游目的地"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "paragraph": 7,
+      "text": "New Zealand is a small country with a visitor economy composed mainly of small businesses.",
+      "translation": "新西兰国土较小，其游客经济主要由小型企业构成。",
+      "structure": "with 引出国家的伴随经济特征；composed mainly of... 是过去分词短语，后置修饰 visitor economy。",
+      "vocabulary": [
+        {
+          "term": "visitor economy",
+          "level": "C1（旅游经济专业词）",
+          "meaning": "由游客消费带动的经济体系"
+        },
+        {
+          "term": "be composed of",
+          "level": "B2",
+          "meaning": "由……组成"
+        },
+        {
+          "term": "mainly",
+          "level": "B1",
+          "meaning": "主要地"
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "paragraph": 7,
+      "text": "It is generally perceived as a safe English-speaking country with a reliable transport infrastructure.",
+      "translation": "人们普遍认为，新西兰是一个安全的英语国家，拥有可靠的交通基础设施。",
+      "structure": "is perceived as 是正式被动评价结构，不点明评价者；with... 补充构成这种目的地形象的条件。",
+      "vocabulary": [
+        {
+          "term": "generally",
+          "level": "B1",
+          "meaning": "普遍地"
+        },
+        {
+          "term": "be perceived as",
+          "level": "B2",
+          "meaning": "被视为"
+        },
+        {
+          "term": "reliable",
+          "level": "B1",
+          "meaning": "可靠的"
+        },
+        {
+          "term": "transport infrastructure",
+          "level": "C1（交通规划专业词）",
+          "meaning": "交通基础设施"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "paragraph": 7,
+      "text": "Because of the long-haul flight, most visitors stay for longer (average 20 days) and want to see as much of the country as possible on what is often seen as a once-in-a-lifetime visit.",
+      "translation": "由于路途遥远，多数游客会停留更久（平均20天），并希望在这趟常被视为一生仅有一次的旅程中，尽可能多地游览这个国家。",
+      "structure": "Because of... 给原因；stay 与 want 并列，as much...as possible 强调最大化游览范围；what is often seen as... 是介词 on 的宾语从句。",
+      "vocabulary": [
+        {
+          "term": "because of",
+          "level": "B1",
+          "meaning": "由于"
+        },
+        {
+          "term": "long-haul flight",
+          "level": "B2",
+          "meaning": "长途飞行"
+        },
+        {
+          "term": "average 20 days",
+          "level": "B1",
+          "meaning": "平均20天；括号中的压缩表达，可展开理解为 an average of 20 days"
+        },
+        {
+          "term": "as much ... as possible",
+          "level": "B1",
+          "meaning": "尽可能多地……"
+        },
+        {
+          "term": "be seen as",
+          "level": "B1",
+          "meaning": "被视为"
+        },
+        {
+          "term": "once-in-a-lifetime",
+          "level": "C1",
+          "meaning": "一生难得一次的"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "paragraph": 7,
+      "text": "However, the underlying lessons apply anywhere – the effectiveness of a strong brand, a strategy based on unique experiences and a comprehensive and user-friendly website.",
+      "translation": "然而，这一案例背后的根本启示适用于任何地方——强势品牌的有效性、以独特体验为基础的策略，以及内容全面且方便用户的网站。",
+      "structure": "However 扭转“新西兰特殊所以不可复制”的预期；破折号后三项并列解释 underlying lessons，把个案提升为普遍原则。",
+      "vocabulary": [
+        {
+          "term": "however",
+          "level": "B1",
+          "meaning": "然而；用于转折并把特殊个案提升为普遍结论"
+        },
+        {
+          "term": "underlying lesson",
+          "level": "B2",
+          "meaning": "背后的根本启示；由案例提炼出的普遍经验"
+        },
+        {
+          "term": "apply anywhere",
+          "level": "B1",
+          "meaning": "在任何地方都适用"
+        },
+        {
+          "term": "effectiveness",
+          "level": "B2",
+          "meaning": "有效性"
+        },
+        {
+          "term": "strong brand",
+          "level": "C1（市场营销专业表达）",
+          "meaning": "强势品牌；具有清晰定位和影响力的品牌"
+        },
+        {
+          "term": "strategy",
+          "level": "B2",
+          "meaning": "策略"
+        },
+        {
+          "term": "be based on",
+          "level": "B1",
+          "meaning": "以……为基础"
+        },
+        {
+          "term": "unique experience",
+          "level": "B2",
+          "meaning": "独特体验"
+        },
+        {
+          "term": "comprehensive",
+          "level": "B2",
+          "meaning": "全面的"
+        },
+        {
+          "term": "user-friendly",
+          "level": "B1",
+          "meaning": "方便用户使用的"
+        }
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "1–7",
+      "type": "table_completion",
+      "instruction": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 1–7 on your answer sheet.",
+      "instructionZh": "完成下表。每题只能从文章中选一个单词作答，并将答案写在答题纸1–7题对应方框中。",
+      "tableColumns": [
+        "Section of website",
+        "Comments"
+      ],
+      "tableRows": [
+        {
+          "section": "Database of tourism services",
+          "comments": "easy for tourism-related businesses to get on the list; allowed businesses to 1 __________ information regularly; provided a country-wide evaluation of businesses, including their impact on the 2 __________"
+        },
+        {
+          "section": "Special features on local topics",
+          "comments": "e.g. an interview with a former sports 3 __________, and an interactive tour of various locations used in 4 __________"
+        },
+        {
+          "section": "Information on driving routes",
+          "comments": "varied depending on the 5 __________"
+        },
+        {
+          "section": "Travel Planner",
+          "comments": "included a map showing selected places, details of public transport and local 6 __________"
+        },
+        {
+          "section": "‘Your Words’",
+          "comments": "travellers could send a link to their 7 __________"
+        }
+      ]
+    },
+    {
+      "range": "8–13",
+      "type": "true_false_not_given",
+      "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 8–13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "instructionZh": "判断下列陈述是否与文章信息一致：一致写 TRUE，矛盾写 FALSE，文章未提供判断所需信息写 NOT GIVEN。"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "table_completion",
+      "prompt": "allowed businesses to 1 __________ information regularly",
+      "promptZh": "允许企业定期__________信息",
+      "tableContext": {
+        "section": "Database of tourism services",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "update",
+      "acceptableAnswers": [
+        "update"
+      ],
+      "evidence": "participating businesses were able to update the details they gave on a regular basis",
+      "location": "Paragraph 2, sentence 11",
+      "explanation": "regularly 对应 on a regular basis，空格位于 to 后需动词原形，原文词 update 精确匹配。",
+      "distractorAnalysis": "不能填 details，因为空格需要动词；provide 虽与信息有关，却不表达定期修改信息。"
+    },
+    {
+      "number": 2,
+      "type": "table_completion",
+      "prompt": "including their impact on the 2 __________",
+      "promptZh": "包括企业对__________的影响",
+      "tableContext": {
+        "section": "Database of tourism services",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "environment",
+      "acceptableAnswers": [
+        "environment"
+      ],
+      "evidence": "the effect of each business on the environment was considered",
+      "location": "Paragraph 2, sentence 13",
+      "explanation": "impact on 与 effect on 同义替换，冠词 the 后直接填原文名词 environment。",
+      "distractorAnalysis": "standards 是评估依据，不是企业影响的对象；quality 也不与 impact on 构成原文对应。"
+    },
+    {
+      "number": 3,
+      "type": "table_completion",
+      "prompt": "an interview with a former sports 3 __________",
+      "promptZh": "对一位前体育__________的采访",
+      "tableContext": {
+        "section": "Special features on local topics",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "captain",
+      "acceptableAnswers": [
+        "captain"
+      ],
+      "evidence": "an interview with former New Zealand All Blacks rugby captain Tana Umaga",
+      "location": "Paragraph 3, sentence 15",
+      "explanation": "题干用 sports 概括 rugby，former 与 interview with 原词重现，所缺身份词是 captain。",
+      "distractorAnalysis": "rugby 是运动项目，不能作为人物身份中心词；Tana Umaga 超过一个词且不是从原文提取的类别答案。"
+    },
+    {
+      "number": 4,
+      "type": "table_completion",
+      "prompt": "an interactive tour of various locations used in 4 __________",
+      "promptZh": "对用于__________的多个地点进行互动游览",
+      "tableContext": {
+        "section": "Special features on local topics",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "films",
+      "acceptableAnswers": [
+        "films"
+      ],
+      "evidence": "an interactive journey through a number of the locations chosen for blockbuster films",
+      "location": "Paragraph 3, sentence 16",
+      "explanation": "interactive tour 对应 interactive journey，various locations 对应 a number of the locations；地点被大片选用，因此填 films。",
+      "distractorAnalysis": "scenery 是作为背景的自然景观，不是这些 locations 被用于的媒介；backdrop 描述用途角色而非作品类别。"
+    },
+    {
+      "number": 5,
+      "type": "table_completion",
+      "prompt": "varied depending on the 5 __________",
+      "promptZh": "会根据__________而变化",
+      "tableContext": {
+        "section": "Information on driving routes",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "season",
+      "acceptableAnswers": [
+        "season"
+      ],
+      "evidence": "highlighting different routes according to the season",
+      "location": "Paragraph 3, sentence 18",
+      "explanation": "varied depending on 同义替换 different...according to，答案为 season。",
+      "distractorAnalysis": "distances 和 times 是被标明的信息，不是路线变化的依据。"
+    },
+    {
+      "number": 6,
+      "type": "table_completion",
+      "prompt": "details of public transport and local 6 __________",
+      "promptZh": "公共交通和当地__________的详细信息",
+      "tableContext": {
+        "section": "Travel Planner",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "accommodation",
+      "acceptableAnswers": [
+        "accommodation"
+      ],
+      "evidence": "There were also links to accommodation in the area.",
+      "location": "Paragraph 4, sentence 21",
+      "explanation": "local 对应 in the area，Travel Planner 除交通外还链接住宿信息。",
+      "distractorAnalysis": "locations 是交通路线两端的地点，但 local 后需要与 public transport 并列的服务类别。"
+    },
+    {
+      "number": 7,
+      "type": "table_completion",
+      "prompt": "travellers could send a link to their 7 __________",
+      "promptZh": "旅行者可以发送其__________的链接",
+      "tableContext": {
+        "section": "‘Your Words’",
+        "column": "Comments"
+      },
+      "options": null,
+      "answer": "blog",
+      "acceptableAnswers": [
+        "blog"
+      ],
+      "evidence": "anyone could submit a blog of their New Zealand travels for possible inclusion on the website",
+      "location": "Paragraph 4, sentence 23",
+      "explanation": "send a link 概括 submit...for possible inclusion；提交内容是 blog。",
+      "distractorAnalysis": "travels 是博客记录的内容，不是被提交收录的载体；website 是收录平台。"
+    },
+    {
+      "number": 8,
+      "type": "true_false_not_given",
+      "prompt": "The website www.newzealand.com aimed to provide ready-made itineraries and packages for travel companies and individual tourists.",
+      "promptZh": "www.newzealand.com 旨在为旅游公司和个人游客提供现成的行程与套餐。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "The website was set up to allow both individuals and travel organisations to create itineraries and travel packages to suit their own needs and interests.",
+      "location": "Paragraph 6, sentence 28",
+      "explanation": "网站让用户自行 create 并按自身需要定制，不是由网站 provide ready-made 成品；核心动作相反。",
+      "distractorAnalysis": "TRUE 被 travel organisations/individuals 与 itineraries/packages 的词汇重合诱导；NOT GIVEN 不成立，因为原文明确说明创建方式。"
+    },
+    {
+      "number": 9,
+      "type": "true_false_not_given",
+      "prompt": "It was found that most visitors started searching on the website by geographical location.",
+      "promptZh": "研究发现，大多数访客在网站上最先按地理位置进行搜索。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptableAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "visitors can search for activities not solely by geographical location, but also by the particular nature of the activity",
+      "location": "Paragraph 6, sentence 29",
+      "explanation": "原文只列出两种可用搜索维度，没有说明 most visitors 的实际行为，也没有说明 started searching 的先后。",
+      "distractorAnalysis": "FALSE 需要原文明确否定“大多数先按地点搜索”，但 not solely 只是说功能不止一种；TRUE 同样缺少使用数据。"
+    },
+    {
+      "number": 10,
+      "type": "true_false_not_given",
+      "prompt": "According to research, 26% of visitor satisfaction is related to their accommodation.",
+      "promptZh": "研究表明，游客满意度的26%与住宿有关。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptableAnswers": [
+        "FALSE"
+      ],
+      "evidence": "transport and accommodation account for the remaining 26%",
+      "location": "Paragraph 6, sentence 30",
+      "explanation": "26% 是 transport 与 accommodation 合计占比，题干把合计范围缩成 accommodation 单项，构成范围矛盾。",
+      "distractorAnalysis": "TRUE 会忽视并列项 transport；NOT GIVEN 不成立，因为原文给出了明确但范围不同的百分比。"
+    },
+    {
+      "number": 11,
+      "type": "true_false_not_given",
+      "prompt": "Visitors to New Zealand like to become involved in the local culture.",
+      "promptZh": "到新西兰的游客喜欢亲身参与当地文化。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptableAnswers": [
+        "TRUE"
+      ],
+      "evidence": "visitors enjoy cultural activities most when they are interactive, such as visiting a marae (meeting ground) to learn about traditional Maori life",
+      "location": "Paragraph 6, sentence 32",
+      "explanation": "become involved 对应 interactive，local culture 对应 traditional Maori life；原文明确说这种互动文化活动最受喜欢。",
+      "distractorAnalysis": "FALSE 与 enjoy...most 直接冲突；NOT GIVEN 忽视了 marae 的具体例证。"
+    },
+    {
+      "number": 12,
+      "type": "true_false_not_given",
+      "prompt": "Visitors like staying in small hotels in New Zealand rather than in larger ones.",
+      "promptZh": "游客在新西兰更喜欢住小型酒店，而不是大型酒店。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptableAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "New Zealand is a small country with a visitor economy composed mainly of small businesses.",
+      "location": "Paragraph 7, sentence 36",
+      "explanation": "原文只说旅游经济以小企业为主，没有比较游客对小型与大型酒店的住宿偏好。",
+      "distractorAnalysis": "TRUE 是把 small businesses 偷换成 small hotels 并虚构偏好；FALSE 也无反向偏好证据。"
+    },
+    {
+      "number": 13,
+      "type": "true_false_not_given",
+      "prompt": "Many visitors feel it is unlikely that they will return to New Zealand after their visit.",
+      "promptZh": "许多游客觉得，此次旅行后他们不太可能再回到新西兰。",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptableAnswers": [
+        "TRUE"
+      ],
+      "evidence": "what is often seen as a once-in-a-lifetime visit",
+      "location": "Paragraph 7, sentence 38",
+      "explanation": "once-in-a-lifetime 表示一生大概只有一次，蕴含访客认为再次到访可能性很低。",
+      "distractorAnalysis": "NOT GIVEN 会忽略该固定表达的语义推断；FALSE 与 often seen as a once-in-a-lifetime visit 相反。"
+    }
+  ],
+  "generalInstruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+  "generalInstructionZh": "你应该用大约20分钟完成第1–13题；这些题目均以阅读文章1为依据。"
+}

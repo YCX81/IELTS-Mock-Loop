@@ -1,7 +1,6 @@
 # Cambridge IELTS 11 raw text
 
 Extraction method: paddleocr_gpu. This is a local working draft. Check all question numbers, options, and answer keys before using it as a mock test.
-
 ## Page 1
 
 CAMBRIDGE ENGLISH
@@ -487,362 +486,88 @@ catch fish only for the purpose of 40
 Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 Crop-growing skyscrapers
-By the year 2050, nearly 80% of
-buildings in which food crops are
-the Earth's population will live in
-grown in environmentally controlled
-urban centres. Applying the most
-conditions. Situated in the heart of
-conservative estimates to current
-urban centres, they would drastically
-demographic trends, the human
-reduce the amount of transportation
-population will increase by about
-required to bring food to consumers.
-three billion people by then. An
-Vertical farms would need to be
-estimated 10° hectares of new land
-efficient, cheap to construct and
-(about 20% larger than Brazil) will be
-safe to operate. If successfully
-needed to grow enough food to feed
-implemented, proponents claim,
-them, if traditional farming methods
-vertical farms offer the promise
-continue as they are practised today.
-of urban renewal, sustainable
-At present, throughout the world,
-production of a safe and varied
-over 80% of the land that is suitable
-food supply (through year-round
-for raising crops is in use. Historically,
-production of all crops), and the
-some 15% of that has been laid waste
-eventual repair of ecosystems that
-by poor management practices. What
-have been sacrificed for horizontal
-can be done to ensure enough food
-farming.
-for the world's population to live on?
-It took humans 10,000years to
-The concept of indoor farming is
-learn how to grow most of the crops
-not new, since hothouse production
-we now take for granted. Along the
-of tomatoes and other produce has
-way, we despoiled most of the land
-been in vogue for some time. What
-we worked, often turning verdant,
-is new is the urgent need to scale
-natural ecozones into semi-arid
-up this technology to accommodate
-deserts. Within that same time frame,
-another three billion people. Many
-we evolved into an urban species, in
-believe an entirely new approach to
-which 60% of the human population
-indoor farming is required, employing
-now lives vertically in cities. This
-cutting-edge technologies. One such
-means that, for the majority, we
-proposal is for the 'Vertical Farm'.
-humans have shelter from the
-The concept is of multi-storey
-elements, yet we subject our food-
+By the year 2050, nearly 80% of the Earth's population will live in urban centres. Applying the most conservative estimates to current demographic trends, the human population will increase by about three billion people by then. An estimated 10⁹ hectares of new land (about 20% larger than Brazil) will be needed to grow enough food to feed them, if traditional farming methods continue as they are practised today. At present, throughout the world, over 80% of the land that is suitable for raising crops is in use. Historically, some 15% of that has been laid waste by poor management practices. What can be done to ensure enough food for the world's population to live on?
+The concept of indoor farming is not new, since hothouse production of tomatoes and other produce has been in vogue for some time. What is new is the urgent need to scale up this technology to accommodate another three billion people. Many believe an entirely new approach to indoor farming is required, employing cutting-edge technologies. One such proposal is for the 'Vertical Farm'.
+The concept is of multi-storey buildings in which food crops are grown in environmentally controlled conditions. Situated in the heart of urban centres, they would drastically reduce the amount of transportation required to bring food to consumers. Vertical farms would need to be efficient, cheap to construct and safe to operate. If successfully implemented, proponents claim, vertical farms offer the promise of urban renewal, sustainable production of a safe and varied food supply (through year-round production of all crops), and the eventual repair of ecosystems that have been sacrificed for horizontal farming.
+It took humans 10,000 years to learn how to grow most of the crops we now take for granted. Along the way, we despoiled most of the land we worked, often turning verdant, natural ecozones into semi-arid deserts. Within that same time frame, we evolved into an urban species, in which 60% of the human population now lives vertically in cities. This means that, for the majority, we humans have shelter from the elements, yet we subject our food-
 18
 
 ## Page 17
 
-bearing plants to the rigours of the
-the efficiency of the system. Single-
-great outdoors and can do no more
-storey greenhouses have the benefit
-than hope for a good weather year.
-of natural overhead light: even so,
-However, more often than not now,
-many still need artificial lighting.
-due to a rapidly changing climate,
-A multi-storey facility with no natural
-that is not what happens. Massive
-overhead light would require far
-floods, long droughts, hurricanes and
-more. Generating enough light could
-severe monsoons take their toll each
-be prohibitively expensive, unless
-year, destroying millions of tons of
-cheap, renewable energy is available,
-valuable crops.
-and this appears to be rather a future
-aspiration than a likelihood for the
-The supporters of vertical farming
-near future.
-claim many potential advantages for
-the system. For instance, crops would
-One variation on vertical farming that
-be produced all year round, as they
-has been developed is to grow plants
-would be kept in artificially controlled,
-in stacked trays that move on rails.
-optimum growing conditions. There
-Moving the trays allows the plants to
-would be no weather-related crop
-get enough sunlight. This system is
-failures due to droughts, floods or
-already in operation, and works well
-pests. All the food could be grown
-within a single-storey greenhouse
-organically, eliminating the need for
-with light reaching it from above: it
-herbicides, pesticides and fertilisers.
-is not certain, however, that it can be
-The system would greatly reduce the
-made to work without that overhead
-incidence of many infectious diseases
-natural light.
-that are acquired at the agricultural
-interface. Although the system would
-Vertical farming is an attempt to
-consume energy, it would return
-address the undoubted problems
-energy to the grid via methane
-that we face in producing enough
-generation from composting non-
-food for a growing population. At the
-edible parts of plants. It would also
-moment, though, more needs to be
-dramatically reduce fossil fuel use,
-done to reduce the detrimental impact
-by cutting out the need for tractors,
-it would have on the environment,
-ploughs and shipping.
-particularly as regards the use of
-energy. While it is possible that
-A major drawback of vertical farming,
-much of our food will be grown in
-however, is that the plants would
-skyscrapers in future, most experts
-require artificial light. Without it,
-currently believe it is far more likely
-those plants nearest the windows
-that we will simply use the space
-would be exposed to more sunlight
-available on urban rooftops.
-and grow more quickly, reducing
+bearing plants to the rigours of the great outdoors and can do no more than hope for a good weather year. However, more often than not now, due to a rapidly changing climate, that is not what happens. Massive floods, long droughts, hurricanes and severe monsoons take their toll each year, destroying millions of tons of valuable crops.
+The supporters of vertical farming claim many potential advantages for the system. For instance, crops would be produced all year round, as they would be kept in artificially controlled, optimum growing conditions. There would be no weather-related crop failures due to droughts, floods or pests. All the food could be grown organically, eliminating the need for herbicides, pesticides and fertilisers. The system would greatly reduce the incidence of many infectious diseases that are acquired at the agricultural interface. Although the system would consume energy, it would return energy to the grid via methane generation from composting non-edible parts of plants. It would also dramatically reduce fossil fuel use, by cutting out the need for tractors, ploughs and shipping.
+A major drawback of vertical farming, however, is that the plants would require artificial light. Without it, those plants nearest the windows would be exposed to more sunlight and grow more quickly, reducing the efficiency of the system. Single-storey greenhouses have the benefit of natural overhead light: even so, many still need artificial lighting. A multi-storey facility with no natural overhead light would require far more. Generating enough light could be prohibitively expensive, unless cheap, renewable energy is available, and this appears to be rather a future aspiration than a likelihood for the near future.
+One variation on vertical farming that has been developed is to grow plants in stacked trays that move on rails. Moving the trays allows the plants to get enough sunlight. This system is already in operation, and works well within a single-storey greenhouse with light reaching it from above: it is not certain, however, that it can be made to work without that overhead natural light.
+Vertical farming is an attempt to address the undoubted problems that we face in producing enough food for a growing population. At the moment, though, more needs to be done to reduce the detrimental impact it would have on the environment, particularly as regards the use of energy. While it is possible that much of our food will be grown in skyscrapers in future, most experts currently believe it is far more likely that we will simply use the space available on urban rooftops.
 
 ## Page 18
 
 Test 1
-Questions 1-7
+Questions 1–7
 Complete the sentences below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 1-7 on your answer sheet.
+Write your answers in boxes 1–7 on your answer sheet.
 Indoor farming
-1
-Some food plants, including
-, are already grown indoors.
-2
-Vertical farms would be located in
-, meaning that there would be less
-need to take them long distances to customers.
-3
-Vertical farms could use methane from plants and animals to produce
-4
-The consumption of
-would be cut because agricultural vehicles would be
-unnecessary.
-5
-The fact that vertical farms would need
-light is a disadvantage.
-6
-One form of vertical farming involves planting in
-which are not fixed.
-in towns
-7
-The most probable development is that food will be grown on
-and cities.
-Questions 8-13
+1 Some food plants, including ______, are already grown indoors.
+2 Vertical farms would be located in ______, meaning that there would be less need to take them long distances to customers.
+3 Vertical farms could use methane from plants and animals to produce ______.
+4 The consumption of ______ would be cut because agricultural vehicles would be unnecessary.
+5 The fact that vertical farms would need ______ light is a disadvantage.
+6 One form of vertical farming involves planting in ______ which are not fixed.
+7 The most probable development is that food will be grown on ______ in towns and cities.
+Questions 8–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 8—13 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 8–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-8
-Methods for predicting the Earth's population have recently changed.
-9
-Human beings are responsible for some of the destruction to food-producing land.
-10
-The crops produced in vertical farms will depend on the season.
-11
-Some damage to food crops is caused by climate change.
-12
-Fertilisers will be needed for certain crops in vertical farms.
-13
-Vertical farming will make plants less likely to be affected by infectious diseases.
+8 Methods for predicting the Earth's population have recently changed.
+9 Human beings are responsible for some of the destruction to food-producing land.
+10 The crops produced in vertical farms will depend on the season.
+11 Some damage to food crops is caused by climate change.
+12 Fertilisers will be needed for certain crops in vertical farms.
+13 Vertical farming will make plants less likely to be affected by infectious diseases.
 20
 
 ## Page 19
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 THE FALKIRK WHEEL
 A unique engineering achievement
-The Falkirk Wheel in Scotland is the
-headed axe, but also the vast turning
-world's first and only rotating boat lift.
-propeller of a ship, the ribcage of a whale
-Opened in 2002, it is central to the
-or the spine of a fish.
-ambitious £84.5m Millennium Link project
-to restore navigability across Scotland by
-The various parts of The Falkirk Wheel
-reconnecting the historic waterways of the
-were all constructed and assembled, like
-Forth & Clyde and Union Canals.
-one giant toy building set, at Butterley
-Engineering's Steelworks in Derbyshire,
-The major challenge of the project lay in
-some 400 km from Falkirk. A team there
-the fact that the Forth & Clyde Canal is
-carefully assembled the 1,200 tonnes
-situated 35 metres below the level of the
-of steel, painstakingly fitting the pieces
-Union Canal. Historically, the two canals
-together to an accuracy of just 10 mm to
-had been joined near the town of Falkirk
-ensure a perfect final fit. In the summer of
-by a sequence of 11 locks - enclosed
-2001, the structure was then dismantled
-sections of canal in which the water level
-and transported on 35 lorries to Falkirk,
-could be raised or lowered - that stepped
-before all being bolted back together
-down across a distance of 1.5 km. This had
-again on the ground, and finally lifted into
-been dismantled in 1933, thereby breaking
-position in five large sections by crane. The
-the link. When the project was launched
-Wheel would need to withstand immense
-in 1994, the British Waterways authority
-and constantly changing stresses as it
-were keen to create a dramatic twenty-first-
-rotated, so to make the structure more
-century landmark which would not only be
-robust, the steel sections were bolted
-a fitting commemoration of the Millennium, rather than welded together. Over 45,000
-but also a lasting symbol of the economic
-bolt holes were matched with their bolts,
-regeneration of the region.
-and each bolt was hand-tightened.
-Numerous ideas were submitted for the
-The Wheel consists of two sets of opposing
-project, including concepts ranging from
-axe-shaped arms, attached about 25
-rolling eggs to tilting tanks, from giant see-
-metres apart to a fixed central spine.
-saws to overhead monorails. The eventual
-Two diametrically opposed water-filled
-winner was a plan for the huge rotating
-'gondolas', each with a capacity of 360,000
-steel boat lift which was to become The
-litres, are fitted between the ends of the
-Falkirk Wheel. The unique shape of the
-arms. These gondolas always weigh the
-structure is claimed to have been inspired
-same, whether or not they are carrying
-by various sources, both manmade and
-boats. This is because, according to
-natural, most notably a Celtic double-
-Archimedes' principle of displacement,
+The Falkirk Wheel in Scotland is the world’s first and only rotating boat lift. Opened in 2002, it is central to the ambitious £84.5m Millennium Link project to restore navigability across Scotland by reconnecting the historic waterways of the Forth & Clyde and Union Canals.
+The major challenge of the project lay in the fact that the Forth & Clyde Canal is situated 35 metres below the level of the Union Canal. Historically, the two canals had been joined near the town of Falkirk by a sequence of 11 locks – enclosed sections of canal in which the water level could be raised or lowered – that stepped down across a distance of 1.5 km. This had been dismantled in 1933, thereby breaking the link. When the project was launched in 1994, the British Waterways authority were keen to create a dramatic twenty-first-century landmark which would not only be a fitting commemoration of the Millennium, but also a lasting symbol of the economic regeneration of the region.
+Numerous ideas were submitted for the project, including concepts ranging from rolling eggs to tilting tanks, from giant see-saws to overhead monorails. The eventual winner was a plan for the huge rotating steel boat lift which was to become The Falkirk Wheel. The unique shape of the structure is claimed to have been inspired by various sources, both manmade and natural, most notably a Celtic double-headed axe, but also the vast turning propeller of a ship, the ribcage of a whale or the spine of a fish.
+The various parts of The Falkirk Wheel were all constructed and assembled, like one giant toy building set, at Butterley Engineering’s Steelworks in Derbyshire, some 400 km from Falkirk. A team there carefully assembled the 1,200 tonnes of steel, painstakingly fitting the pieces together to an accuracy of just 10 mm to ensure a perfect final fit. In the summer of 2001, the structure was then dismantled and transported on 35 lorries to Falkirk, before all being bolted back together again on the ground, and finally lifted into position in five large sections by crane. The Wheel would need to withstand immense and constantly changing stresses as it rotated, so to make the structure more robust, the steel sections were bolted rather than welded together. Over 45,000 bolt holes were matched with their bolts, and each bolt was hand-tightened.
+The Wheel consists of two sets of opposing axe-shaped arms, attached about 25 metres apart to a fixed central spine. Two diametrically opposed water-filled ‘gondolas’, each with a capacity of 360,000 litres, are fitted between the ends of the arms. These gondolas always weigh the same, whether or not they are carrying boats. This is because, according to Archimedes’ principle of displacement,
 21
 
 ## Page 20
 
 Test 1
-floating objects displace their own weight
-Wheel, which begin to rotate at a speed
-in water. So when a boat enters a gondola,
-of 1/8 of a revolution per minute. As the
-the amount of water leaving the gondola
-wheel rotates, the gondolas are kept in
-weighs exactly the same as the boat. This
-the upright position by a simple gearing
-keeps the Wheel balanced and so, despite
-system. Two eight-metre-wide cogs orbit
-its enormous mass, it rotates through 180°
-a fixed inner cog of the same width,
-in five and a half minutes while using very
-connected by two smaller cogs travelling
-little power. It takes just 1.5 kilowatt-hours
-in the opposite direction to the outer cogs
-(5.4 MJ) of energy to rotate the Wheel -
-- so ensuring that the gondolas always
-roughly the same as boiling eight small
-remain level. When the gondola reaches
-domestic kettles of water.
-the top, the boat passes straight onto the
-aqueduct situated 24 metres above the
-Boats needing to be lifted up enter the
-canal basin.
-canal basin at the level of the Forth &
-Clyde Canal and then enter the lower
-The remaining 11 metres of lift needed
-gondola of the Wheel. Two hydraulic steel
-to reach the Union Canal is achieved by
-gates are raised, so as to seal the gondola
-means of a pair of locks. The Wheel could
-off from the water in the canal basin. The
-not be constructed to elevate boats over
-water between the gates is then pumped
-the full 35-metre difference between the
-out. A hydraulic clamp, which prevents
-two canals, owing to the presence of the
-the arms of the Wheel moving while the
-historically important Antonine Wall, which
-gondola is docked, is removed, allowing
-was built by the Romans in the second
-the Wheel to turn. In the central machine
-century AD. Boats travel under this wall via
-room an array of ten hydraulic motors
-a tunnel, then through the locks, and finally
-then begins to rotate the central axle. The
-on to the Union Canal.
-axle connects to the outer arms of the
+floating objects displace their own weight in water. So when a boat enters a gondola, the amount of water leaving the gondola weighs exactly the same as the boat. This keeps the Wheel balanced and so, despite its enormous mass, it rotates through 180° in five and a half minutes while using very little power. It takes just 1.5 kilowatt-hours (5.4 MJ) of energy to rotate the Wheel – roughly the same as boiling eight small domestic kettles of water.
+Boats needing to be lifted up enter the canal basin at the level of the Forth & Clyde Canal and then enter the lower gondola of the Wheel. Two hydraulic steel gates are raised, so as to seal the gondola off from the water in the canal basin. The water between the gates is then pumped out. A hydraulic clamp, which prevents the arms of the Wheel moving while the gondola is docked, is removed, allowing the Wheel to turn. In the central machine room an array of ten hydraulic motors then begins to rotate the central axle. The axle connects to the outer arms of the Wheel, which begin to rotate at a speed of 1/8 of a revolution per minute. As the wheel rotates, the gondolas are kept in the upright position by a simple gearing system. Two eight-metre-wide cogs orbit a fixed inner cog of the same width, connected by two smaller cogs travelling in the opposite direction to the outer cogs – so ensuring that the gondolas always remain level. When the gondola reaches the top, the boat passes straight onto the aqueduct situated 24 metres above the canal basin.
+The remaining 11 metres of lift needed to reach the Union Canal is achieved by means of a pair of locks. The Wheel could not be constructed to elevate boats over the full 35-metre difference between the two canals, owing to the presence of the historically important Antonine Wall, which was built by the Romans in the second century AD. Boats travel under this wall via a tunnel, then through the locks, and finally on to the Union Canal.
 22
 
 ## Page 21
 
 Reading
-Questions 14-19
+Questions 14–19
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 14-19 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 14–19 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-14
-The Falkirk Wheel has linked the Forth & Clyde Canal with the Union Canal for the
-first time in their history.
-15
-There was some opposition to the design of the Falkirk Wheel at first.
-16
-The Falkirk Wheel was initially put together at the location where its components
-were manufactured.
-17
-The Falkirk Wheel is the only boat lift in the world which has steel sections bolted
-together by hand.
-18
-The weight of the gondolas varies according to the size of boat being carried.
-19
-The construction of the Falkirk Wheel site took into account the presence of a
-nearby ancient monument.
+14 The Falkirk Wheel has linked the Forth & Clyde Canal with the Union Canal for the first time in their history.
+15 There was some opposition to the design of the Falkirk Wheel at first.
+16 The Falkirk Wheel was initially put together at the location where its components were manufactured.
+17 The Falkirk Wheel is the only boat lift in the world which has steel sections bolted together by hand.
+18 The weight of the gondolas varies according to the size of boat being carried.
+19 The construction of the Falkirk Wheel site took into account the presence of a nearby ancient monument.
 23
 
 ## Page 22
@@ -873,99 +598,42 @@ Fixed label:
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 Reducing the Effects of Climate Change
-Mark Rowe reports on the increasingly ambitious geo-engineering projects
-being explored by scientists
+Mark Rowe reports on the increasingly ambitious geo-engineering projects being explored by scientists
 A
-Such is our dependence on fossil fuels, and such is the volume of carbon dioxide already
-released into the atmosphere, that many experts agree that significant global warming is now
-inevitable. They believe that the best we can do is keep it at a reasonable level, and at present
-the only serious option for doing this is cutting back on our carbon emissions. But while a few
-countries are making major strides in this regard, the majority are having great difficulty even
-stemming the rate of increase, let alone reversing it. Consequently, an increasing number of
-scientists are beginning to explore the alternative of geo-engineering - a term which generally
-refers to the intentional large-scale manipulation of the environment. According to its
-proponents, geo-engineering is the equivalent of a backup generator: if Plan A - reducing our
-dependency on fossil fuels - fails, we require a Plan B, employing grand schemes to slow down
-or reverse the process of global warming.
+Such is our dependence on fossil fuels, and such is the volume of carbon dioxide already released into the atmosphere, that many experts agree that significant global warming is now inevitable. They believe that the best we can do is keep it at a reasonable level, and at present the only serious option for doing this is cutting back on our carbon emissions. But while a few countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it. Consequently, an increasing number of scientists are beginning to explore the alternative of geo-engineering – a term which generally refers to the intentional large-scale manipulation of the environment. According to its proponents, geo-engineering is the equivalent of a backup generator: if Plan A – reducing our dependency on fossil fuels – fails, we require a Plan B, employing grand schemes to slow down or reverse the process of global warming.
 B
-Geo-engineering has been shown to work, at least on a small localised scale. For decades, May
-Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry
-ice, silver iodide and cement powder to disperse clouds. Many of the schemes now suggested
-look to do the opposite, and reduce the amount of sunlight reaching the planet. The most
-eye-catching idea of all is suggested by Professor Roger Angel of the University of Arizona. His
-scheme would employ up to 16 trillion minute spacecraft, each weighing about one gram, to
-form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth.
-This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.
+Geo-engineering has been shown to work, at least on a small localised scale. For decades, May Day parades in Moscow have taken place under clear blue skies, aircraft having deposited dry ice, silver iodide and cement powder to disperse clouds. Many of the schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet. The most eye-catching idea of all is suggested by Professor Roger Angel of the University of Arizona. His scheme would employ up to 16 trillion minute spacecraft, each weighing about one gram, to form a transparent, sunlight-refracting sunshade in an orbit 1.5 million km above the Earth. This could, argues Angel, reduce the amount of light reaching the Earth by two per cent.
 C
-The majority of geo-engineering projects so far carried out - which include planting forests
-in deserts and depositing iron in the ocean to stimulate the growth of algae - have focused on
-achieving a general cooling of the Earth. But some look specifically at reversing the melting
-at the poles, particularly the Arctic. The reasoning is that if you replenish the ice sheets and
-frozen waters of the high latitudes, more light will be reflected back into space, so reducing the
-warming of the oceans and atmosphere.
+The majority of geo-engineering projects so far carried out – which include planting forests in deserts and depositing iron in the ocean to stimulate the growth of algae – have focused on achieving a general cooling of the Earth. But some look specifically at reversing the melting at the poles, particularly the Arctic. The reasoning is that if you replenish the ice sheets and frozen waters of the high latitudes, more light will be reflected back into space, so reducing the warming of the oceans and atmosphere.
 D
-The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed
-by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that
-sulphur dioxide would form clouds, which would, in turn, lead to a global dimming. The idea
-is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines
-in 1991, which led to a short-term cooling of global temperatures by 0.5 °C. Scientists have
-also scrutinised whether it's possible to preserve the ice sheets of Greenland with reinforced
-high-tension cables, preventing icebergs from moving into the sea. Meanwhile in the Russian
-Arctic, geo-engineering plans include the planting of millions of birch trees. Whereas the
-region's native evergreen pines shade the snow and absorb radiation, birches would shed their
+The concept of releasing aerosol sprays into the stratosphere above the Arctic has been proposed by several scientists. This would involve using sulphur or hydrogen sulphide aerosols so that sulphur dioxide would form clouds, which would, in turn, lead to a global dimming. The idea is modelled on historic volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5 °C. Scientists have also scrutinised whether it’s possible to preserve the ice sheets of Greenland with reinforced high-tension cables, preventing icebergs from moving into the sea. Meanwhile in the Russian Arctic, geo-engineering plans include the planting of millions of birch trees. Whereas the region’s native evergreen pines shade the snow and absorb radiation, birches would shed their
 25
 
 ## Page 24
 
 Test 1
-leaves in winter, thus enabling radiation to be reflected by the snow. Re-routing Russian rivers
-to increase cold water flow to ice-forming arcas could also be used to slow down warming, say
-some climate scientists.
+leaves in winter, thus enabling radiation to be reflected by the snow. Re-routing Russian rivers to increase cold water flow to ice-forming areas could also be used to slow down warming, say some climate scientists.
 E
-But will such schemes ever be implemented? Generally speaking, those who are most cautious
-about geo-engineering are the scientists involved in the research. Angel says that his plan is 'no
-substitute for developing renewable energy: the only permanent solution'. And Dr Phil Rasch of
-the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-
-engincering: 'I think all of us agree that if we were to end geo-engineering on a given day, then
-the planet would return to its pre-engineered condition very rapidly, and probably within ten to
-twenty years. That's certainly something to worry about.
+But will such schemes ever be implemented? Generally speaking, those who are most cautious about geo-engineering are the scientists involved in the research. Angel says that his plan is ‘no substitute for developing renewable energy: the only permanent solution’. And Dr Phil Rasch of the US-based Pacific Northwest National Laboratory is equally guarded about the role of geo-engineering: ‘I think all of us agree that if we were to end geo-engineering on a given day, then the planet would return to its pre-engineered condition very rapidly, and probably within ten to twenty years. That’s certainly something to worry about.’
 F
-The US National Center for Atmospheric Research has already suggested that the proposal
-to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the
-Southern Ocean. 'Geo-engineering plans to inject stratospheric aerosols or to seed clouds would
-act to cool the planet, and act to increase the extent of sea ice,' says Rasch. 'But all the models
-suggest some impact on the distribution of precipitation.
+The US National Center for Atmospheric Research has already suggested that the proposal to inject sulphur into the atmosphere might affect rainfall patterns across the tropics and the Southern Ocean. ‘Geo-engineering plans to inject stratospheric aerosols or to seed clouds would act to cool the planet, and act to increase the extent of sea ice,’ says Rasch. ‘But all the models suggest some impact on the distribution of precipitation.’
 G
-'A further risk with geo-engineering projects is that you can "overshoot",' says Dr Dan
-Lunt, from the University of Bristol's School of Geophysical Sciences, who has studied the
-likely impacts of the sunshade and aerosol schemes on the climate. 'You may bring global
-temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than
-they should be and the tropics will be cooler than before industrialisation.' To avoid such a
-scenario, Lunt says Angel's project would have to operate at half strength; all of which reinforces
-his view that the best option is to avoid the need for geo-engineering altogether.
+‘A further risk with geo-engineering projects is that you can “overshoot”,’ says Dr Dan Lunt, from the University of Bristol’s School of Geophysical Sciences, who has studied the likely impacts of the sunshade and aerosol schemes on the climate. ‘You may bring global temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than they should be and the tropics will be cooler than before industrialisation.’ To avoid such a scenario, Lunt says Angel’s project would have to operate at half strength; all of which reinforces his view that the best option is to avoid the need for geo-engineering altogether.
 H
-The main reason why geo-engineering is supported by many in the scientific community is that
-most researchers have little faith in the ability of politicians to agree - and then bring in - the
-necessary carbon cuts. Even leading conservation organisations see the value of investigating the
-potential of geo-engineering. According to Dr Martin Sommerkorn, climate change advisor for
-the World Wildlife Fund's International Arctic Programme, 'Human-induced climate change
-has brought humanity to a position where we shouldn't exclude thinking thoroughly about this
-topic and its possibilities.
+The main reason why geo-engineering is supported by many in the scientific community is that most researchers have little faith in the ability of politicians to agree – and then bring in – the necessary carbon cuts. Even leading conservation organisations see the value of investigating the potential of geo-engineering. According to Dr Martin Sommerkorn, climate change advisor for the World Wildlife Fund’s International Arctic Programme, ‘Human-induced climate change has brought humanity to a position where we shouldn’t exclude thinking thoroughly about this topic and its possibilities.’
 26
 
 ## Page 25
 
 Reading
-Questions 27-29
-Reading Passage 3 has eight paragraphs A-H.
+Questions 27–29
+Reading Passage 3 has eight paragraphs A–H.
 Which paragraph contains the following information?
-Write the correct letter, A-H, in boxes 27-29 on your answer sheet.
+Write the correct letter, A–H, in boxes 27–29 on your answer sheet.
 27 mention of a geo-engineering project based on an earlier natural phenomenon
-28
-an example of a successful use of geo-engineering
+28 an example of a successful use of geo-engineering
 29 a common definition of geo-engineering
 27
 
@@ -990,27 +658,19 @@ GEO-ENGINEERING PROJECTS
 ## Page 27
 
 Reading
-Questions 37-40
-Look at the following statements (Questions 37-40) and the list of scientists below.
-Match each statement with the correct scientist, A-D.
-Write the correct letter, A-D, in boxes 37-40 on your answer sheet.
-37
-The effects of geo-engineering may not be long-lasting.
-38
-Geo-engineering is a topic worth exploring.
-39
-It may be necessary to limit the effectiveness of geo-engineering projects.
-40
-Research into non-fossil-based fuels cannot be replaced by geo-engineering.
+Questions 37–40
+Look at the following statements (Questions 37–40) and the list of scientists below.
+Match each statement with the correct scientist, A–D.
+Write the correct letter, A–D, in boxes 37–40 on your answer sheet.
+37 The effects of geo-engineering may not be long-lasting.
+38 Geo-engineering is a topic worth exploring.
+39 It may be necessary to limit the effectiveness of geo-engineering projects.
+40 Research into non-fossil-based fuels cannot be replaced by geo-engineering.
 List of Scientists
-A
-Roger Angel
-B
-Phil Rasch
-C
-Dan Lunt
-D
-Martin Sommerkorn
+A Roger Angel
+B Phil Rasch
+C Dan Lunt
+D Martin Sommerkorn
 29
 
 ## Page 28
@@ -1358,193 +1018,52 @@ style of the building is inappropriate
 Reading
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 Raising the Mary Rose
 How a sixteenth-century warship was recovered from the seabed
-On 19 July 1545, English and French
-all of the starboard half survived intact.
-fleets were engaged in a sea battle off
-During the seventeenth and eighteenth
-the coast of southern England in the
-centuries, the entire site became covered
-area of water called the Solent, between
-with a layer of hard grey clay, which
-Portsmouth and the Isle of Wight. Among
-minimised further erosion.
-the English vessels was a warship by the
-name of Mary Rose. Built in Portsmouth
-Then, on 16 June 1836, some fishermen
-some 35 years earlier, she had had a long
-in the Solent found that their equipment
-and successful fighting career, and was
-was caught on an underwater obstruction,
-a favourite of King Henry VIl. Accounts
-which turned out to be the Mary Rose.
-of what happened to the ship vary: while
-Diver John Deane happened to be
-witnesses agree that she was not hit
-exploring another sunken ship nearby,
-by the French, some maintain that she
-and the fishermen approached him,
-was outdated, overladen and sailing too
-asking him to free their gear. Deane dived
-low in the water, others that she was
-down, and found the equipment caught
-mishandled by undisciplined crew. What
-on a timber protruding slightly from the
-is undisputed, however, is that the Mary
-seabed. Exploring further, he uncovered
-Rose sank into the Solent that day, taking
-several other timbers and a bronze
-at least 500 men with her. After the battle,
-gun. Deane continued diving on the
-attempts were made to recover the ship,
-site intermittently until 1840, recovering
-but these failed.
-several more guns, two bows, various
-timbers, part of a pump and various other
-The Mary Rose came to rest on the
-small finds.
-seabed, lying on her starboard (right) side
-at an angle of approximately 60 degrees.
-The Mary Rose then faded into obscurity
-The hull (the body of the ship) acted as
-for another hundred years. But in 1965,
-a trap for the sand and mud carried by
-military historian and amateur diver
-Solent currents. As a result, the starboard
-Alexander McKee, in conjunction with the
-side filled rapidly, leaving the exposed
-British Sub-Aqua Club, initiated a project
-port (left) side to be eroded by marine
-called 'Solent Ships'. While on paper
-organisms and mechanical degradation.
-this was a plan to examine a number of
-Because of the way the ship sank, nearly
-known wrecks in the Solent, what McKee
+On 19 July 1545, English and French fleets were engaged in a sea battle off the coast of southern England in the area of water called the Solent, between Portsmouth and the Isle of Wight. Among the English vessels was a warship by the name of Mary Rose. Built in Portsmouth some 35 years earlier, she had had a long and successful fighting career, and was a favourite of King Henry VIII. Accounts of what happened to the ship vary: while witnesses agree that she was not hit by the French, some maintain that she was outdated, overladen and sailing too low in the water, others that she was mishandled by undisciplined crew. What is undisputed, however, is that the Mary Rose sank into the Solent that day, taking at least 500 men with her. After the battle, attempts were made to recover the ship, but these failed.
+The Mary Rose came to rest on the seabed, lying on her starboard (right) side at an angle of approximately 60 degrees. The hull (the body of the ship) acted as a trap for the sand and mud carried by Solent currents. As a result, the starboard side filled rapidly, leaving the exposed port (left) side to be eroded by marine organisms and mechanical degradation. Because of the way the ship sank, nearly all of the starboard half survived intact. During the seventeenth and eighteenth centuries, the entire site became covered with a layer of hard grey clay, which minimised further erosion.
+Then, on 16 June 1836, some fishermen in the Solent found that their equipment was caught on an underwater obstruction, which turned out to be the Mary Rose. Diver John Deane happened to be exploring another sunken ship nearby, and the fishermen approached him, asking him to free their gear. Deane dived down, and found the equipment caught on a timber protruding slightly from the seabed. Exploring further, he uncovered several other timbers and a bronze gun. Deane continued diving on the site intermittently until 1840, recovering several more guns, two bows, various timbers, part of a pump and various other small finds.
+The Mary Rose then faded into obscurity for another hundred years. But in 1965, military historian and amateur diver Alexander McKee, in conjunction with the British Sub-Aqua Club, initiated a project called ‘Solent Ships’. While on paper this was a plan to examine a number of known wrecks in the Solent, what McKee
 41
 
 ## Page 40
 
 Test 2
-really hoped for was to find the Mary
-hull was an open shell. This led to an
-Rose. Ordinary search techniques proved
-important decision being taken: namely to
-unsatisfactory, so McKee entered into
-carry out the lifting operation in three very
-collaboration with Harold E. Edgerton,
-distinct stages. The hull was attached to
-professor of electrical engineering at the
-a lifting frame via a network of bolts and
-Massachusetts Institute of Technology.
-lifting wires. The problem of the hull being
-In 1967, Edgerton's side-scan sonar
-sucked back downwards into the mud was
-systems revealed a large, unusually
-overcome by using 12 hydraulic jacks.
-shaped object, which McKee believed
-These raised it a few centimetres over a
-was the Mary Rose.
-period of several days, as the lifting frame
-rose slowly up its four legs. It was only
-Further excavations revealed stray
-when the hull was hanging freely from
-pieces of timber and an iron gun. But
-the lifting frame, clear of the seabed and
-the climax to the operation came when,
-the suction effect of the surrounding mud,
-on 5 May 1971, part of the ship's frame
-that the salvage operation progressed to
-was uncovered. McKee and his team
-the second stage. In this stage, the lifting
-now knew for certain that they had found
-frame was fixed to a hook attached to a
-the wreck, but were as yet unaware
-crane, and the hull was lifted completely
-that it also housed a treasure trove of
-clear of the seabed and transferred
-beautifully preserved artefacts. Interest
-underwater into the lifting cradle. This
-in the project grew, and in 1979, The
-required precise positioning to locate the
-Mary Rose Trust was formed, with Prince
-legs into the 'stabbing guides' of the lifting
-Charles as its President and Dr Margaret
-cradle. The lifting cradle was designed
-Rule its Archaeological Director. The
-to fit the hull using archaeological survey
-decision whether or not to salvage the
-drawings, and was fitted with air bags to
-wreck was not an easy one, although
-provide additional cushioning for the hull's
-an excavation in 1978 had shown that it
-delicate timber framework. The third and
-might be possible to raise the hull. While
-final stage was to lift the entire structure
-the original aim was to raise the hull if at
-into the air, by which time the hull was
-all feasible, the operation was not given
-also supported from below. Finally, on 11
-the go-ahead until January 1982, when all
-October 1982, millions of people around
-the necessary information was available.
-the world held their breath as the timber
-skeleton of the Mary Rose was lifted clear
-An important factor in trying to salvage
-of the water, ready to be returned home to
-the Mary Rose was that the remaining
-Portsmouth.
+really hoped for was to find the Mary Rose. Ordinary search techniques proved unsatisfactory, so McKee entered into collaboration with Harold E. Edgerton, professor of electrical engineering at the Massachusetts Institute of Technology. In 1967, Edgerton’s side-scan sonar systems revealed a large, unusually shaped object, which McKee believed was the Mary Rose.
+Further excavations revealed stray pieces of timber and an iron gun. But the climax to the operation came when, on 5 May 1971, part of the ship’s frame was uncovered. McKee and his team now knew for certain that they had found the wreck, but were as yet unaware that it also housed a treasure trove of beautifully preserved artefacts. Interest in the project grew, and in 1979, The Mary Rose Trust was formed, with Prince Charles as its President and Dr Margaret Rule its Archaeological Director. The decision whether or not to salvage the wreck was not an easy one, although an excavation in 1978 had shown that it might be possible to raise the hull. While the original aim was to raise the hull if at all feasible, the operation was not given the go-ahead until January 1982, when all the necessary information was available.
+An important factor in trying to salvage the Mary Rose was that the remaining hull was an open shell. This led to an important decision being taken: namely to carry out the lifting operation in three very distinct stages. The hull was attached to a lifting frame via a network of bolts and lifting wires. The problem of the hull being sucked back downwards into the mud was overcome by using 12 hydraulic jacks. These raised it a few centimetres over a period of several days, as the lifting frame rose slowly up its four legs. It was only when the hull was hanging freely from the lifting frame, clear of the seabed and the suction effect of the surrounding mud, that the salvage operation progressed to the second stage. In this stage, the lifting frame was fixed to a hook attached to a crane, and the hull was lifted completely clear of the seabed and transferred underwater into the lifting cradle. This required precise positioning to locate the legs into the ‘stabbing guides’ of the lifting cradle. The lifting cradle was designed to fit the hull using archaeological survey drawings, and was fitted with air bags to provide additional cushioning for the hull’s delicate timber framework. The third and final stage was to lift the entire structure into the air, by which time the hull was also supported from below. Finally, on 11 October 1982, millions of people around the world held their breath as the timber skeleton of the Mary Rose was lifted clear of the water, ready to be returned home to Portsmouth.
 42
 
 ## Page 41
 
 Reading
-Questions 1-4
+Questions 1–4
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-4 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 1–4 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-1
-There is some doubt about what caused the Mary Rose to sink.
-2
-The Mary Rose was the only ship to sink in the battle of 19 July 1545.
-3
-Most of one side of the Mary Rose lay undamaged under the sea.
-4
-Alexander McKee knew that the wreck would contain many valuable
-historical objects.
-Questions 5-8
-Look at the following statements (Questions 5—8) and the list of dates below.
-Match each statement with the correct date, A-G.
-Write the correct letter, A-G, in boxes 5—8 on your answer sheet.
-5
-A search for the Mary Rose was launched.
-6
-One person's exploration of the Mary Rose site stopped.
-7
-It was agreed that the hull of the Mary Rose should be raised.
-8
-The site of the Mary Rose was found by chance.
+1 There is some doubt about what caused the Mary Rose to sink.
+2 The Mary Rose was the only ship to sink in the battle of 19 July 1545.
+3 Most of one side of the Mary Rose lay undamaged under the sea.
+4 Alexander McKee knew that the wreck would contain many valuable historical objects.
+Questions 5–8
+Look at the following statements (Questions 5–8) and the list of dates below.
+Match each statement with the correct date, A–G.
+Write the correct letter, A–G, in boxes 5–8 on your answer sheet.
+5 A search for the Mary Rose was launched.
+6 One person’s exploration of the Mary Rose site stopped.
+7 It was agreed that the hull of the Mary Rose should be raised.
+8 The site of the Mary Rose was found by chance.
 List of Dates
-A
-1836
-E
-1971
-B
-1840
-F
-1979
-C
-1965
-G
-1982
-D
-1967
+A 1836
+B 1840
+C 1965
+D 1967
+E 1971
+F 1979
+G 1982
 43
 
 ## Page 42
@@ -1576,374 +1095,166 @@ Label prompts:
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 on the following pages.
-Questions 14-20
-Reading Passage 2 has seven paragraphs, A-G.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.
+Questions 14–20
+Reading Passage 2 has seven paragraphs, A–G.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, i-ix, in boxes 14-20 on your answer sheet.
+Write the correct number, i–ix, in boxes 14–20 on your answer sheet.
 List of Headings
-i
-Evidence of innovative environment management practices
-ii
-An undisputed answer to a question about the moai
-iii
-The future of the moai statues
-iv
-A theory which supports a local belief
-v
-The future of Easter Island
-vi
-Two opposing views about the Rapanui people
-vii
-Destruction outside the inhabitants' control
-viii
-How the statues made a situation worse
-ix
-Diminishing food resources
-14
-Paragraph A
-15
-Paragraph B
-16
-Paragraph C
-17
-Paragraph D
-18
-Paragraph E
-19
-Paragraph F
-20
-Paragraph G
+i Evidence of innovative environment management practices
+ii An undisputed answer to a question about the moai
+iii The future of the moai statues
+iv A theory which supports a local belief
+v The future of Easter Island
+vi Two opposing views about the Rapanui people
+vii Destruction outside the inhabitants’ control
+viii How the statues made a situation worse
+ix Diminishing food resources
+14 Paragraph A
+15 Paragraph B
+16 Paragraph C
+17 Paragraph D
+18 Paragraph E
+19 Paragraph F
+20 Paragraph G
 45
 
 ## Page 44
 
-Testz
+Test 2
 What destroyed the civilisation of Easter Island?
 A
-Easter Island, or Rapu Nui as it is known locally, is home to several hundred
-ancient human statues - the moai. After this remote Pacific island was settled by
-the Polynesians, it remained isolated for centuries. All the energy and resources
-that went into the moai - some of which are ten metres tall and weigh over 7,000
-kilos - came from the island itself. Yet when Dutch explorers landed in 1722, they
-met a Stone Age culture. The moai were carved with stone tools, then transported
-for many kilometres, without the use of animals or wheels, to massive stone
-platforms. The identity of the moai builders was in doubt until well into the twentieth
-century. Thor Heyerdahl, the Norwegian ethnographer and adventurer, thought the
-statues had been created by pre-Inca peoples from Peru. Bestselling Swiss author
-Erich von Däniken believed they were built by stranded extraterrestrials. Modern
-science - linguistic, archaeological and genetic evidence - has definitively proved
-the moai builders were Polynesians, but not how they moved their creations.
-Local folklore maintains that the statues walked, while researchers have tended to
-assume the ancestors dragged the statues somehow, using ropes and logs.
+Easter Island, or Rapu Nui as it is known locally, is home to several hundred ancient human statues – the moai. After this remote Pacific island was settled by the Polynesians, it remained isolated for centuries. All the energy and resources that went into the moai – some of which are ten metres tall and weigh over 7,000 kilos – came from the island itself. Yet when Dutch explorers landed in 1722, they met a Stone Age culture. The moai were carved with stone tools, then transported for many kilometres, without the use of animals or wheels, to massive stone platforms. The identity of the moai builders was in doubt until well into the twentieth century. Thor Heyerdahl, the Norwegian ethnographer and adventurer, thought the statues had been created by pre-Inca peoples from Peru. Bestselling Swiss author Erich von Däniken believed they were built by stranded extraterrestrials. Modern science – linguistic, archaeological and genetic evidence – has definitively proved the moai builders were Polynesians, but not how they moved their creations. Local folklore maintains that the statues walked, while researchers have tended to assume the ancestors dragged the statues somehow, using ropes and logs.
 B
-When the Europeans arrived, Rapa Nui was grassland, with only a few scrawny
-trees. In the 1970s and 1980s, though, researchers found pollen preserved in
-lake sediments, which proved the island had been covered in lush palm forests for
-thousands of years. Only after the Polynesians arrived did those forests disappear.
-US scientist Jared Diamond believes that the Rapanui people - descendants of
-Polynesian settlers - wrecked their own environment. They had unfortunately
-settled on an extremely fragile island - dry, cool, and too remote to be properly
-fertilised by windblown volcanic ash. When the islanders cleared the forests for
-firewood and farming, the forests didn't grow back. As trees became scarce and
-they could no longer construct wooden canoes for fishing, they ate birds. Soil
-erosion decreased their crop yields. Before Europeans arrived, the Rapanui had
-descended into civil war and cannibalism, he maintains. The collapse of their
-isolated civilisation, Diamond writes, is a 'worst-case scenario for what may lie
-ahead of us in our own future'.
+When the Europeans arrived, Rapa Nui was grassland, with only a few scrawny trees. In the 1970s and 1980s, though, researchers found pollen preserved in lake sediments, which proved the island had been covered in lush palm forests for thousands of years. Only after the Polynesians arrived did those forests disappear. US scientist Jared Diamond believes that the Rapanui people – descendants of Polynesian settlers – wrecked their own environment. They had unfortunately settled on an extremely fragile island – dry, cool, and too remote to be properly fertilised by windblown volcanic ash. When the islanders cleared the forests for firewood and farming, the forests didn’t grow back. As trees became scarce and they could no longer construct wooden canoes for fishing, they ate birds. Soil erosion decreased their crop yields. Before Europeans arrived, the Rapanui had descended into civil war and cannibalism, he maintains. The collapse of their isolated civilisation, Diamond writes, is a ‘worst-case scenario for what may lie ahead of us in our own future’.
 C
-The moai, he thinks, accelerated the self-destruction. Diamond interprets them
-as power displays by rival chieftains who, trapped on a remote little island, lacked
-other ways of asserting their dominance. They competed by building ever bigger
-figures. Diamond thinks they laid the moai on wooden sledges, hauled over log
-rails, but that required both a lot of wood and a lot of people. To feed the people,
-even more land had to be cleared. When the wood was gone and civil war began,
-the islanders began toppling the moai. By the nineteenth century none were
-standing.
+The moai, he thinks, accelerated the self-destruction. Diamond interprets them as power displays by rival chieftains who, trapped on a remote little island, lacked other ways of asserting their dominance. They competed by building ever bigger figures. Diamond thinks they laid the moai on wooden sledges, hauled over log rails, but that required both a lot of wood and a lot of people. To feed the people, even more land had to be cleared. When the wood was gone and civil war began, the islanders began toppling the moai. By the nineteenth century none were standing.
 46
 
 ## Page 45
 
 Reading
 D
-Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California
-State University agree that Easter Island lost its lush forests and that it was an
-'ecological catastrophe' - but they believe the islanders themselves weren't to
-blame. And the moai certainly weren't. Archaeological excavations indicate that the
-Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile
-fields. They built thousands of circular stone windbreaks and gardened inside them,
-and used broken volcanic rocks to keep the soil moist. In short, Hunt and Lipo
-argue, the prehistoric Rapanui were pioneers of sustainable farming.
+Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State University agree that Easter Island lost its lush forests and that it was an ‘ecological catastrophe’ – but they believe the islanders themselves weren’t to blame. And the moai certainly weren’t. Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields. They built thousands of circular stone windbreaks and gardened inside them, and used broken volcanic rocks to keep the soil moist. In short, Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming.
 E
-Hunt and Lipo contend that moai-building was an activity that helped keep the
-peace between islanders. They also believe that moving the moai required few
-people and no wood, because they were walked upright. On that issue, Hunt and
-Lipo say, archaeological evidence backs up Rapanui folklore. Recent experiments
-indicate that as few as 18 people could, with three strong ropes and a bit of
-practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres. The
-figures' fat bellies tilted them forward, and a D-shaped base allowed handlers to roll
-and rock them side to side.
+Hunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders. They also believe that moving the moai required few people and no wood, because they were walked upright. On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore. Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres. The figures’ fat bellies tilted them forward, and a D-shaped base allowed handlers to roll and rock them side to side.
 F
-Moreover, Hunt and Lipo are convinced that the settlers were not wholly
-responsible for the loss of the island's trees. Archaeological finds of nuts from the
-extinct Easter Island palm show tiny grooves, made by the teeth of Polynesian
-rats. The rats arrived along with the settlers, and in just a few years, Hunt and Lipo
-calculate, they would have overrun the island. They would have prevented the
-reseeding of the slow-growing palm trees and thereby doomed Rapa Nui's forest,
-even without the settlers' campaign of deforestation. No doubt the rats ate birds'
-eggs too. Hunt and Lipo also see no evidence that Rapanui civilisation collapsed
-when the palm forest did. They think its population grew rapidly and then remained
-more or less stable until the arrival of the Europeans, who introduced deadly
-diseases to which islanders had no immunity. Then in the nineteenth century slave
-traders decimated the population, which shrivelled to 111 people by 1877.
+Moreover, Hunt and Lipo are convinced that the settlers were not wholly responsible for the loss of the island’s trees. Archaeological finds of nuts from the extinct Easter Island palm show tiny grooves, made by the teeth of Polynesian rats. The rats arrived along with the settlers, and in just a few years, Hunt and Lipo calculate, they would have overrun the island. They would have prevented the reseeding of the slow-growing palm trees and thereby doomed Rapa Nui’s forest, even without the settlers’ campaign of deforestation. No doubt the rats ate birds’ eggs too. Hunt and Lipo also see no evidence that Rapanui civilisation collapsed when the palm forest did. They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity. Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877.
 G
-Hunt and Lipo's vision, therefore, is one of an island populated by peaceful and
-ingenious moai builders and careful stewards of the land, rather than by reckless
-destroyers ruining their own environment and society. 'Rather than a case of abject
-failure, Rapu Nui is an unlikely story of success', they claim. Whichever is the case,
-there are surely some valuable lessons which the world at large can learn from the
-story of Rapa Nui.
+Hunt and Lipo’s vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society. ‘Rather than a case of abject failure, Rapu Nui is an unlikely story of success’, they claim. Whichever is the case, there are surely some valuable lessons which the world at large can learn from the story of Rapa Nui.
 47
 
 ## Page 46
 
 Test 2
-Questions 21-24
+Questions 21–24
 Complete the summary below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 21-24 on your answer sheet.
-Jared Diamond's View
-Diamond believes that the Polynesian settlers on Rapa Nui destroyed its forests, cutting
-down its trees for fuel and clearing land for 21
-Twentieth-century discoveries
-of pollen prove that Rapu Nui had once been covered in palm forests, which had turned
-into grassland by the time the Europeans arrived on the island. When the islanders were
-no longer able to build the 22
-they needed to go fishing, they began using the
-island's 23
-as a food source, according to Diamond. Diamond also claims that
-the moai were built to show the power of the island's chieftains, and that the methods of
-transporting the statues needed not only a great number of people, but also a great deal
-of 24
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 21–24 on your answer sheet.
+Jared Diamond’s View
+Diamond believes that the Polynesian settlers on Rapa Nui destroyed its forests, cutting down its trees for fuel and clearing land for 21 __________. Twentieth-century discoveries of pollen prove that Rapu Nui had once been covered in palm forests, which had turned into grassland by the time the Europeans arrived on the island. When the islanders were no longer able to build the 22 __________ they needed to go fishing, they began using the island’s 23 __________ as a food source, according to Diamond. Diamond also claims that the moai were built to show the power of the island’s chieftains, and that the methods of transporting the statues needed not only a great number of people, but also a great deal of 24 __________.
 Questions 25 and 26
-ChooseTWo letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 25 and 26 on your answer sheet.
 On what points do Hunt and Lipo disagree with Diamond?
-A
-the period when the moai were created
-B
-how the moai were transported
-C
-the impact of the moai on Rapanui society
-D
-how the moai were carved
-E
-the origins of the people who made the moai
+A the period when the moai were created
+B how the moai were transported
+C the impact of the moai on Rapanui society
+D how the moai were carved
+E the origins of the people who made the moai
 48
 
 ## Page 47
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 Neuroaesthetics
-An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to
-the study of art, and has already given us a better understanding of many masterpieces.
-The blurred imagery of Impressionist paintings seems to stimulate the brain's amygdala, for
-instance. Since the amygdala plays a crucial role in our feelings, that finding might explain why
-many people find these pieces so moving.
-Could the same approach also shed light on abstract twentieth-century pieces, from
-Mondrian's geometrical blocks of colour, to Pollock's seemingly haphazard arrangements
-of splashed paint on canvas? Sceptics believe that people claim to like such works simply
-because they are famous. We certainly do have an inclination to follow the crowd. When
-asked to make simple perceptual decisions such as matching a shape to its rotated image, for
-example, people often choose a definitively wrong answer if they see others doing the same.
-It is easy to imagine that this mentality would have even more impact on a fuzzy concept like
-art appreciation, where there is no right or wrong answer.
-Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by
-asking volunteers to view pairs of paintings - either the creations of famous abstract artists or
-the doodles of infants, chimps and elephants. They then had to judge which they preferred.
-A third of the paintings were given no captions, while many were labelled incorrectly -
-volunteers might think they were viewing a chimp's messy brushstrokes when they were
-actually seeing an acclaimed masterpiece. In each set of trials, volunteers generally preferred
-the work of renowned artists, even when they believed it was by an animal or a child. It seems
-that the viewer can sense the artist's vision in paintings, even if they can't explain why.
-Robert Pepperell, an artist based at Cardiff University, creates ambiguous works that
-are neither entirely abstract nor clearly representational. In one study, Pepperell and his
-collaborators asked volunteers to decide how 'powerful'they considered an artwork to be,
-and whether they saw anything familiar in the piece. The longer they took to answer these
-questions, the more highly they rated the piece under scrutiny, and the greater their neural
-activity. It would seem that the brain sees these images as puzzles, and the harder it is to
-decipher the meaning, the more rewarding is the moment of recognition.
+An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces. The blurred imagery of Impressionist paintings seems to stimulate the brain’s amygdala, for instance. Since the amygdala plays a crucial role in our feelings, that finding might explain why many people find these pieces so moving.
+Could the same approach also shed light on abstract twentieth-century pieces, from Mondrian’s geometrical blocks of colour, to Pollock’s seemingly haphazard arrangements of splashed paint on canvas? Sceptics believe that people claim to like such works simply because they are famous. We certainly do have an inclination to follow the crowd. When asked to make simple perceptual decisions such as matching a shape to its rotated image, for example, people often choose a definitively wrong answer if they see others doing the same. It is easy to imagine that this mentality would have even more impact on a fuzzy concept like art appreciation, where there is no right or wrong answer.
+Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings – either the creations of famous abstract artists or the doodles of infants, chimps and elephants. They then had to judge which they preferred. A third of the paintings were given no captions, while many were labelled incorrectly – volunteers might think they were viewing a chimp’s messy brushstrokes when they were actually seeing an acclaimed masterpiece. In each set of trials, volunteers generally preferred the work of renowned artists, even when they believed it was by an animal or a child. It seems that the viewer can sense the artist’s vision in paintings, even if they can’t explain why.
+Robert Pepperell, an artist based at Cardiff University, creates ambiguous works that are neither entirely abstract nor clearly representational. In one study, Pepperell and his collaborators asked volunteers to decide how ‘powerful’ they considered an artwork to be, and whether they saw anything familiar in the piece. The longer they took to answer these questions, the more highly they rated the piece under scrutiny, and the greater their neural activity. It would seem that the brain sees these images as puzzles, and the harder it is to decipher the meaning, the more rewarding is the moment of recognition.
 49
 
 ## Page 48
 
 Test 2
-And what about artists such as Mondrian, whose paintings consist exclusively of horizontal
-and vertical lines encasing blocks of colour? Mondrian's works are deceptively simple, but
-eye-tracking studies confirm that they are meticulously composed, and that simply rotating a
-piece radically changes the way we view it. With the originals, volunteers' eyes tended to stay
-longer on certain places in the image, but with the altered versions they would flit across a
-piece more rapidly. As a result, the volunteers considered the altered versions less pleasurable
-when they later rated the work.
-In a similar study, Oshin Vartanian of Toronto University asked volunteers to compare original
-paintings with ones which he had altered by moving objects around within the frame. He
-found that almost everyone preferred the original, whether it was a Van Gogh still life or
-an abstract by Miró. Vartanian also found that changing the composition of the paintings
-reduced activation in those brain areas linked with meaning and interpretation.
-In another experiment, Alex Forsythe of the University of Liverpool analysed the visual
-intricacy of different pieces of art, and her results suggest that many artists use a key level of
-detail to please the brain. Too little and the work is boring, but too much results in a kind of
-'perceptual overload', according to Forsythe. What's more, appealing pieces both abstract and
-representational, show signs of 'fractals' - repeated motifs recurring in different scales. Fractals
-are common throughout nature, for example in the shapes of mountain peaks or the branches
-of trees. It is possible that our visual system, which evolved in the great outdoors, finds it
-easier to process such patterns.
-It is also intriguing that the brain appears to process movement when we see a handwritten
-letter, as if we are replaying the writer's moment of creation. This has led some to wonder
-whether Pollock's works feel so dynamic because the brain reconstructs the energetic actions
-the artist used as he painted. This may be down to our brain's 'mirror neurons, which are
-known to mimic others' actions. The hypothesis will need to be thoroughly tested, however. It
-might even be the case that we could use neuroaesthetic studies to understand the longevity
-of some pieces of artwork. While the fashions of the time might shape what is currently
-popular, works that are best adapted to our visual system may be the most likely to linger
-once the trends of previous generations have been forgotten.
-It's still early days for the field of neuroaesthetics - and these studies are probably only a taste
-of what is to come. It would, however, be foolish to reduce art appreciation to a set of scientific
-laws. We shouldn't underestimate the importance of the style of a particular artist, their place
-in history and the artistic environment of their time. Abstract art offers both a challenge and
-the freedom to play with different interpretations. In some ways, it's not so different to science,
-where we are constantly looking for systems and decoding meaning so that we can view and
-appreciate the world in a new way.
+And what about artists such as Mondrian, whose paintings consist exclusively of horizontal and vertical lines encasing blocks of colour? Mondrian’s works are deceptively simple, but eye-tracking studies confirm that they are meticulously composed, and that simply rotating a piece radically changes the way we view it. With the originals, volunteers’ eyes tended to stay longer on certain places in the image, but with the altered versions they would flit across a piece more rapidly. As a result, the volunteers considered the altered versions less pleasurable when they later rated the work.
+In a similar study, Oshin Vartanian of Toronto University asked volunteers to compare original paintings with ones which he had altered by moving objects around within the frame. He found that almost everyone preferred the original, whether it was a Van Gogh still life or an abstract by Miró. Vartanian also found that changing the composition of the paintings reduced activation in those brain areas linked with meaning and interpretation.
+In another experiment, Alex Forsythe of the University of Liverpool analysed the visual intricacy of different pieces of art, and her results suggest that many artists use a key level of detail to please the brain. Too little and the work is boring, but too much results in a kind of ‘perceptual overload’, according to Forsythe. What’s more, appealing pieces both abstract and representational, show signs of ‘fractals’ – repeated motifs recurring in different scales. Fractals are common throughout nature, for example in the shapes of mountain peaks or the branches of trees. It is possible that our visual system, which evolved in the great outdoors, finds it easier to process such patterns.
+It is also intriguing that the brain appears to process movement when we see a handwritten letter, as if we are replaying the writer’s moment of creation. This has led some to wonder whether Pollock’s works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted. This may be down to our brain’s ‘mirror neurons’, which are known to mimic others’ actions. The hypothesis will need to be thoroughly tested, however. It might even be the case that we could use neuroaesthetic studies to understand the longevity of some pieces of artwork. While the fashions of the time might shape what is currently popular, works that are best adapted to our visual system may be the most likely to linger once the trends of previous generations have been forgotten.
+It’s still early days for the field of neuroaesthetics – and these studies are probably only a taste of what is to come. It would, however, be foolish to reduce art appreciation to a set of scientific laws. We shouldn’t underestimate the importance of the style of a particular artist, their place in history and the artistic environment of their time. Abstract art offers both a challenge and the freedom to play with different interpretations. In some ways, it’s not so different to science, where we are constantly looking for systems and decoding meaning so that we can view and appreciate the world in a new way.
 50
 
 ## Page 49
 
 Reading
-Questions 27-30
+Questions 27–30
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-30 on your answer sheet.
-27
-In the second paragraph, the writer refers to a shape-matching test in order to
-illustrate
-A
-the subjective nature of art appreciation.
-B
-the reliance of modern art on abstract forms.
-C
-our tendency to be influenced by the opinions of others.
-D
-a common problem encountered when processing visual data.
-28
-Angelina Hawley-Dolan's findings indicate that people
-A
-mostly favour works of art which they know well.
-B
-hold fixed ideas about what makes a good work of art.
-C
-are often misled by their initial expectations of a work of art.
-D
-have the ability to perceive the intention behind works of art.
-29
-Results of studies involving Robert Pepperell's pieces suggest that people
-A
-can appreciate a painting without fully understanding it.
-B
-find it satisfying to work out what a painting represents.
-C
-vary widely in the time they spend looking at paintings.
-D
-generally prefer representational art to abstract art.
-30
-What do the experiments described in the fifth paragraph suggest about the
-paintings of Mondrian?
-A
-They are more carefully put together than they appear.
-B
-They can be interpreted in a number of different ways.
-C
-They challenge our assumptions about shape and colour.
-D
-They are easier to appreciate than many other abstract works.
+Write the correct letter in boxes 27–30 on your answer sheet.
+27 In the second paragraph, the writer refers to a shape-matching test in order to illustrate
+A the subjective nature of art appreciation.
+B the reliance of modern art on abstract forms.
+C our tendency to be influenced by the opinions of others.
+D a common problem encountered when processing visual data.
+28 Angelina Hawley-Dolan’s findings indicate that people
+A mostly favour works of art which they know well.
+B hold fixed ideas about what makes a good work of art.
+C are often misled by their initial expectations of a work of art.
+D have the ability to perceive the intention behind works of art.
+29 Results of studies involving Robert Pepperell’s pieces suggest that people
+A can appreciate a painting without fully understanding it.
+B find it satisfying to work out what a painting represents.
+C vary widely in the time they spend looking at paintings.
+D generally prefer representational art to abstract art.
+30 What do the experiments described in the fifth paragraph suggest about the paintings of Mondrian?
+A They are more carefully put together than they appear.
+B They can be interpreted in a number of different ways.
+C They challenge our assumptions about shape and colour.
+D They are easier to appreciate than many other abstract works.
 51
 
 ## Page 50
 
 Test 2
-Questions 31-33
-Complete the summary using the list of words, A-H, below.
-Write the correct letters, A-H, in boxes 31-33 on your answer sheet.
+Questions 31–33
+Complete the summary using the list of words, A–H, below.
+Write the correct letters, A–H, in boxes 31–33 on your answer sheet.
 Art and the Brain
-The discipline of neuroaesthetics aims to bring scientific objectivity to the study of
-art. Neurological studies of the brain, for example, demonstrate the impact which
-Impressionist paintings have on our 31
-. Alex Forsythe of the University of
-Liverpool believes many artists give their works the precise degree of 32
-which
-most appeals to the viewer's brain. She also observes that pleasing works of art often
-contain certain repeated 33
-which occur frequently in the natural world.
-A
-interpretation
-B
-complexity
-C
-emotions
-D
-movements
-E
-skill
-F
-layout
-G
-concern
-H
-images
+The discipline of neuroaesthetics aims to bring scientific objectivity to the study of art. Neurological studies of the brain, for example, demonstrate the impact which Impressionist paintings have on our 31 __________. Alex Forsythe of the University of Liverpool believes many artists give their works the precise degree of 32 __________ which most appeals to the viewer’s brain. She also observes that pleasing works of art often contain certain repeated 33 __________ which occur frequently in the natural world.
+A interpretation
+B complexity
+C emotions
+D movements
+E skill
+F layout
+G concern
+H images
 52
 
 ## Page 51
 
 Reading
-Questions 34-39
+Questions 34–39
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 34-39 on your answer sheet, write
-YES
-if the statement agrees with the views of the writer
-NO
-if the statement contradicts the views of the writer
+In boxes 34–39 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
 NOT GIVEN if there is no information on this
-34
-Forsythe's findings contradicted previous beliefs on the function of 'fractals' in art.
-35
-Certain ideas regarding the link between 'mirror neurons' and art appreciation
-require further verification.
-36
-People's taste in paintings depends entirely on the current artistic trends of the
-period.
-37
-Scientists should seek to define the precise rules which govern people's reactions
-to works of art.
-38
-Art appreciation should always involve taking into consideration the cultural context
-in which an artist worked.
-39
-It is easier to find meaning in the field of science than in that of art.
+34 Forsythe’s findings contradicted previous beliefs on the function of ‘fractals’ in art.
+35 Certain ideas regarding the link between ‘mirror neurons’ and art appreciation require further verification.
+36 People’s taste in paintings depends entirely on the current artistic trends of the period.
+37 Scientists should seek to define the precise rules which govern people’s reactions to works of art.
+38 Art appreciation should always involve taking into consideration the cultural context in which an artist worked.
+39 It is easier to find meaning in the field of science than in that of art.
 Question 40
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 40 on your answer sheet.
-40
-What would be the most appropriate subtitle for the article?
-A
-Some scientific insights into how the brain responds to abstract art
-B
-Recent studies focusing on the neural activity of abstract artists
-C
-A comparison of the neurological bases of abstract and representational art
-D
-How brain research has altered public opinion about abstract art
+40 What would be the most appropriate subtitle for the article?
+A Some scientific insights into how the brain responds to abstract art
+B Recent studies focusing on the neural activity of abstract artists
+C A comparison of the neurological bases of abstract and representational art
+D How brain research has altered public opinion about abstract art
 53
 
 ## Page 52
@@ -2321,568 +1632,189 @@ Researchers look for a meaningful pattern in the data.
 ## Page 63
 
 Reading
-READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 THE STORY OF SILK
-The history of the world's most luxurious fabric,
-from ancientChina to the present day
-Silk is a fine, smooth material produced
-Originally, silkworm farming was solely
-from the cocoons - soft protective shells
-restricted to women, and it was they
-- that are made by mulberry silkworms
-who were responsible for the growing,
-(insect larvae). Legend has it that it was
-harvesting and weaving. Silk quickly grew
-Lei Tzu, wife of the Yellow Emperor,
-into a symbol of status, and originally,
-ruler of China in about 3000 BC, who
-only royalty were entitled to have clothes
-discovered silkworms. One account of the
-made of silk. The rules were gradually
-story goes that as she was taking a walk
-relaxed over the years until finally during
-in her husband's gardens, she discovered
-the Qing Dynasty (16441911 AD), even
-that silkworms were responsible for the
-peasants, the lowest caste, were also
-destruction of several mulberry trees. She
-entitled to wear silk. Sometime during the
-collected a number of cocoons and sat
-Han Dynasty (206 BC-220 AD), silk was
-down to have a rest. It just so happened
-so prized that it was also used as a unit of
-that while she was sipping some tea, one
-currency. Government officials were paid
-of the cocoons that she had collected
-their salary in silk, and farmers paid their
-landed in the hot tea and started to
-taxes in grain and silk. Silk was also used
-unravel into a fine thread. Lei Tzu found
-as diplomatic gifts by the emperor. Fishing
-that she could wind this thread around her
-lines, bowstrings, musical instruments
-fingers. Subsequently, she persuaded her
-and paper were all made using silk. The
-husband to allow her to rear silkworms
-earliest indication of silk paper being used
-on a grove of mulberry trees. She also
-was discovered in the tomb of a noble
-devised a special reel to draw the fibres
-who is estimated to have died around
-from the cocoon into a single thread so
-168 AD.
-that they would be strong enough to be
-woven into fabric. While it is unknown
-Demand for this exotic fabric eventually
-just how much of this is true, it is certainly
-created the lucrative trade route now
-known that silk cultivation has existed in
-known as the Silk Road, taking silk
-China for several millennia.
-westward and bringing gold, silver and
+The history of the world’s most luxurious fabric, from ancient China to the present day
+Silk is a fine, smooth material produced from the cocoons – soft protective shells – that are made by mulberry silkworms (insect larvae). Legend has it that it was Lei Tzu, wife of the Yellow Emperor, ruler of China in about 3000 BC, who discovered silkworms. One account of the story goes that as she was taking a walk in her husband’s gardens, she discovered that silkworms were responsible for the destruction of several mulberry trees. She collected a number of cocoons and sat down to have a rest. It just so happened that while she was sipping some tea, one of the cocoons that she had collected landed in the hot tea and started to unravel into a fine thread. Lei Tzu found that she could wind this thread around her fingers. Subsequently, she persuaded her husband to allow her to rear silkworms on a grove of mulberry trees. She also devised a special reel to draw the fibres from the cocoon into a single thread so that they would be strong enough to be woven into fabric. While it is unknown just how much of this is true, it is certainly known that silk cultivation has existed in China for several millennia.
+Originally, silkworm farming was solely restricted to women, and it was they who were responsible for the growing, harvesting and weaving. Silk quickly grew into a symbol of status, and originally, only royalty were entitled to have clothes made of silk. The rules were gradually relaxed over the years until finally during the Qing Dynasty (1644–1911 AD), even peasants, the lowest caste, were also entitled to wear silk. Sometime during the Han Dynasty (206 BC–220 AD), silk was so prized that it was also used as a unit of currency. Government officials were paid their salary in silk, and farmers paid their taxes in grain and silk. Silk was also used as diplomatic gifts by the emperor. Fishing lines, bowstrings, musical instruments and paper were all made using silk. The earliest indication of silk paper being used was discovered in the tomb of a noble who is estimated to have died around 168 AD.
+Demand for this exotic fabric eventually created the lucrative trade route now known as the Silk Road, taking silk westward and bringing gold, silver and
 65
 
 ## Page 64
 
-wool to the East. It was named the Silk
-swept through these lands. Andalusia in
-Road after its most precious commodity,
-southern Spain was Europe's main silk-
-which was considered to be worth more
-producing centre in the tenth century. By
-than gold. The Silk Road stretched over
-the thirteenth century, however, Italy had
-6,000 kilometres from Eastern China to
-become Europe's leader in silk production
-the Mediterranean Sea, following the
-and export. Venetian merchants traded
-Great Wall of China, climbing the Pamir
-extensively in silk and encouraged silk
-mountain range, crossing modern-day
-growers to settle in Italy. Even now,
-Afghanistan and going on to the Middle
-silk processed in the province of Como
-East, with a major trading market in
-in northern Italy enjoys an esteemed
-Damascus. From there, the merchandise
-reputation.
-was shipped across the Mediterranean
-Sea. Few merchants travelled the entire
-The nineteenth century and
-route; goods were handled mostly by a
-industrialisation saw the downfall of the
-series of middlemen.
-European silk industry. Cheaper Japanese
-silk, trade in which was greatly facilitated
-With the mulberry silkworm being native
-by the opening of the Suez Canal, was one
-to China, the country was the world's sole
-of the many factors driving the trend. Then
-producer of silk for many hundreds of
-in the twentieth century, new manmade
-years. The secret of silk-making eventually
-fibres, such as nylon, started to be used in
-reached the rest of the world via the
-what had traditionally been silk products,
-Byzantine Empire, which ruled over the
-such as stockings and parachutes. The two
-Mediterranean region of southern Europe,
-world wars, which interrupted the supply
-North Africa and the Middle East during
-of raw material from Japan, also stifled the
-the period 330-1453 AD. According to
-European silk industry. After the Second
-another legend, monks working for the
-World War, Japan's silk production was
-Byzantine emperor Justinian smuggled
-restored, with improved production and
-silkworm eggs to Constantinople
-quality of raw silk. Japan was to remain
-(Istanbul in modern-day Turkey) in 550
-the world's biggest producer of raw silk,
-AD, concealed inside hollow bamboo
-and practically the only major exporter
-walking canes. The Byzantines were as
-of raw silk, until the 1970s. However, in
-secretive as the Chinese, however, and
-more recent decades, China has gradually
-for many centuries the weaving and
-recaptured its position as the world's
-trading of silk fabric was a strict imperial
-biggest producer and exporter of raw
-monopoly. Then in the seventh century,
-silk and silk yarn. Today, around 125,000
-the Arabs conquered Persia, capturing
-metric tons of silk are produced in the
-their magnificent silks in the process.
-world, and almost two thirds of that
-Silk production thus spread through
-production takes place in China.
-Africa, Sicily and Spain as the Arabs
+Test 3
+wool to the East. It was named the Silk Road after its most precious commodity, which was considered to be worth more than gold. The Silk Road stretched over 6,000 kilometres from Eastern China to the Mediterranean Sea, following the Great Wall of China, climbing the Pamir mountain range, crossing modern-day Afghanistan and going on to the Middle East, with a major trading market in Damascus. From there, the merchandise was shipped across the Mediterranean Sea. Few merchants travelled the entire route; goods were handled mostly by a series of middlemen.
+With the mulberry silkworm being native to China, the country was the world’s sole producer of silk for many hundreds of years. The secret of silk-making eventually reached the rest of the world via the Byzantine Empire, which ruled over the Mediterranean region of southern Europe, North Africa and the Middle East during the period 330–1453 AD. According to another legend, monks working for the Byzantine emperor Justinian smuggled silkworm eggs to Constantinople (Istanbul in modern-day Turkey) in 550 AD, concealed inside hollow bamboo walking canes. The Byzantines were as secretive as the Chinese, however, and for many centuries the weaving and trading of silk fabric was a strict imperial monopoly. Then in the seventh century, the Arabs conquered Persia, capturing their magnificent silks in the process. Silk production thus spread through Africa, Sicily and Spain as the Arabs swept through these lands. Andalusia in southern Spain was Europe’s main silk-producing centre in the tenth century. By the thirteenth century, however, Italy had become Europe’s leader in silk production and export. Venetian merchants traded extensively in silk and encouraged silk growers to settle in Italy. Even now, silk processed in the province of Como in northern Italy enjoys an esteemed reputation.
+The nineteenth century and industrialisation saw the downfall of the European silk industry. Cheaper Japanese silk, trade in which was greatly facilitated by the opening of the Suez Canal, was one of the many factors driving the trend. Then in the twentieth century, new manmade fibres, such as nylon, started to be used in what had traditionally been silk products, such as stockings and parachutes. The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry. After the Second World War, Japan’s silk production was restored, with improved production and quality of raw silk. Japan was to remain the world’s biggest producer of raw silk, and practically the only major exporter of raw silk, until the 1970s. However, in more recent decades, China has gradually recaptured its position as the world’s biggest producer and exporter of raw silk and silk yarn. Today, around 125,000 metric tons of silk are produced in the world, and almost two thirds of that production takes place in China.
+66
 
 ## Page 65
 
 Reading
-Questions 1-9
+Questions 1–9
 Complete the notes below.
-Choose ONE WoRD oNLY from the passage for each answer.
-Write your answers in boxes 1-9 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 1–9 on your answer sheet.
 THE STORY OF SILK
 Early silk production in China
-Around 3000 BC, according to legend:
-silkworm cocoon fell into emperor's wife's 1
-emperor's wife invented a 2
-to pull out silk fibres
-Only 3 ....
-were allowed to produce silk
-Only 4
-were allowed to wear silk
-Silk used as a form of 5
-e.g. farmers' taxes consisted partly of silk
-Silk used for many purposes
-e.g. evidence found of 6
-made from silk around 168 AD
+• Around 3000 BC, according to legend:
+– silkworm cocoon fell into emperor’s wife’s 1 __________
+– emperor’s wife invented a 2 __________ to pull out silk fibres
+• Only 3 __________ were allowed to produce silk
+• Only 4 __________ were allowed to wear silk
+• Silk used as a form of 5 __________
+– e.g. farmers’ taxes consisted partly of silk
+• Silk used for many purposes
+– e.g. evidence found of 6 __________ made from silk around 168 AD
 Silk reaches rest of world
-Merchants use Silk Road to take silk westward and bring back 7
-and
-precious metals
-550 AD: 8
-hide silkworm eggs in canes and take them to Constantinople
-Silk production spreads across Middle East and Europe
-20th century: 9
-and other manmade fibres cause decline in silk production
+• Merchants use Silk Road to take silk westward and bring back 7 __________ and precious metals
+• 550 AD: 8 __________ hide silkworm eggs in canes and take them to Constantinople
+• Silk production spreads across Middle East and Europe
+• 20th century: 9 __________ and other manmade fibres cause decline in silk production
 67
 
 ## Page 66
 
 Test 3
-Questions 10-13
+Questions 10–13
 Do the following statements agree with the information in Reading Passage 1?
-In boxes 10-13 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 10–13 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-10
-Gold was the most valuable material transported along the Silk Road.
-11
-Most tradesmen only went along certain sections of the Silk Road.
-12
-The Byzantines spread the practice of silk production across the West.
-13
-Silk yarn makes up the majority of silk currently exported from China.
+10 Gold was the most valuable material transported along the Silk Road.
+11 Most tradesmen only went along certain sections of the Silk Road.
+12 The Byzantines spread the practice of silk production across the West.
+13 Silk yarn makes up the majority of silk currently exported from China.
 68
 
 ## Page 67
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 Great Migrations
-Animal migration, however it is defined,
-Reaching some gravelly coastline in the
-is far more than just the movement of
-Arctic, upon which other arctic terns have
-animals. It can loosely be described as travel
-converged, will serve its larger purpose
-that takes place at regular intervals - often
-as shaped by evolution: finding a place, a
-in an annual cycle - that may involve many
-time, and a set of circumstances in which it
-members of a species, and is rewarded only
-can successfully hatch and rear offspring.
-after a long journey. It suggests inherited
-instinct. The biologist Hugh Dingle has
-But migration is a complex i
-issue, and
-identified five characteristics that apply, in
-biologists
-s define it differently,
-depending
-varying degrees and combinations, to all
-in part on what
-sorts
-of
-animals
-they
-study.
-migrations. They are prolonged movements
-Joe! Berger, of the University of Montana,
-that carry animals outside familiar habitats;
-who works on the American pronghorn
-they tend to be linear, not zigzaggy; they
-and other large terrestrial mammals, prefers
-involve special behaviours concerning
-what he calls a simple, practical definition
-preparation (such as overfeeding) and
-suited to his beasts: 'movements from
-arrival; they demand special allocations
-a seasonal home area away to another
-of energy. And one more: migrating
-home area and back again'. Generally the
-animals maintain an intense attentiveness
-reason for such seasonal back-and-forth
-to the greater mission, which keeps
-movement is to seek resources that aren't
-them undistracted by temptations and
-available within a single area year-round.
-undeterred by challenges that would turn
-other animals aside.
-But daily vertical movements by
-zooplankton in the ocean - upward by
-An arctic tern, on its 20,000 km flight
-night to seek food, downward by day to
-from the extreme south of South America
-escape predators - can also be considered
-to the Arctic circle, will take no notice
-migration. So can the movement of aphids
-of a nice smelly herring offered from a
-when, having depleted the young leaves
-bird-watcher's boat along the way. While
-on one food plant, their offspring then
-local gulls will dive voraciously for such
-fly onward to a different host plant, with
-handouts, the tern flies on. Why? The arctic
-no one aphid ever returning to where it
-tern resists distraction because it is driven
-started.
-at that moment by an instinctive sense of
-something we humans find admirable:
-Dingle is an evolutionary biologist who
-larger purpose. In other words, it is
-studies insects. His definition is more
-determined to reach its destination. The
-intricate than Berger's, citing those five
-bird senses that it can eat, rest and mate
-features that distinguish migration from
-later. Right now it is totally focused on
-other forms of movement. They allow
-the journey; its undivided intent is arrival.
-for the fact that, for example, aphids will
+Animal migration, however it is defined, is far more than just the movement of animals. It can loosely be described as travel that takes place at regular intervals – often in an annual cycle – that may involve many members of a species, and is rewarded only after a long journey. It suggests inherited instinct. The biologist Hugh Dingle has identified five characteristics that apply, in varying degrees and combinations, to all migrations. They are prolonged movements that carry animals outside familiar habitats; they tend to be linear, not zigzaggy; they involve special behaviours concerning preparation (such as overfeeding) and arrival; they demand special allocations of energy. And one more: migrating animals maintain an intense attentiveness to the greater mission, which keeps them undistracted by temptations and undeterred by challenges that would turn other animals aside.
+An arctic tern, on its 20,000 km flight from the extreme south of South America to the Arctic circle, will take no notice of a nice smelly herring offered from a bird-watcher’s boat along the way. While local gulls will dive voraciously for such handouts, the tern flies on. Why? The arctic tern resists distraction because it is driven at that moment by an instinctive sense of something we humans find admirable: larger purpose. In other words, it is determined to reach its destination. The bird senses that it can eat, rest and mate later. Right now it is totally focused on the journey; its undivided intent is arrival. Reaching some gravelly coastline in the Arctic, upon which other arctic terns have converged, will serve its larger purpose as shaped by evolution: finding a place, a time, and a set of circumstances in which it can successfully hatch and rear offspring.
+But migration is a complex issue, and biologists define it differently, depending in part on what sorts of animals they study. Joel Berger, of the University of Montana, who works on the American pronghorn and other large terrestrial mammals, prefers what he calls a simple, practical definition suited to his beasts: ‘movements from a seasonal home area away to another home area and back again’. Generally the reason for such seasonal back-and-forth movement is to seek resources that aren’t available within a single area year-round.
+But daily vertical movements by zooplankton in the ocean – upward by night to seek food, downward by day to escape predators – can also be considered migration. So can the movement of aphids when, having depleted the young leaves on one food plant, their offspring then fly onward to a different host plant, with no one aphid ever returning to where it started.
+Dingle is an evolutionary biologist who studies insects. His definition is more intricate than Berger’s, citing those five features that distinguish migration from other forms of movement. They allow for the fact that, for example, aphids will
 69
 
 ## Page 68
 
 Test 3
-become sensitive to blue light (from the
-pass through again in autumn, escaping
-sky) when it's time for takeoff on their
-south onto those windblown plains, they
-big journey, and sensitive to yellow light
-are likely to die trying to overwinter in the
-(reflected from tender young leaves) when
-deep snow. Pronghorn, dependent on
-it's appropriate to land. Birds will fatten
-distance vision and speed to keep safe from
-themselves with heavy feeding in advance
-predators, traverse high, open shoulders
-of a long migrational flight. The value of his
-of land, where they can see and run. At
-definition, Dingle argues, is that it focuses
-one of the bottlenecks, forested hills rise to
-attention on what the phenomenon
-form a V, leaving a corridor of open ground
-of wildebeest migration shares with
-only about 150 metres wide, filled with
-the phenomenon of the aphids, and
-private homes. Increasing development is
-therefore helps guide researchers towards
-leading toward a crisis for the pronghorn,
-understanding how evolution has produced
-threatening to choke off their passageway.
-them all.
-Conservation scientists, along with some
-Human behaviour, however, is having a
-biologists and land managers within the
-detrimental impact on animal migration.
-USA's National Park Service and other
-The pronghorn, which resembles an
-agencies, are now working to preserve
-antelope, though they are unrelated,
-migrational behaviours, not just species
-is the fastest land mammal of the New
-and habitats. A National Forest has
-World. One population, which spends the
-recognised the path of the pronghorn,
-summer in the mountainous Grand Teton
-much of which passes across its land, as a
-National Park of the western USA, follows a
-protected migration corridor. But neither
-narrow route from its summer range in the
-the Forest Service nor the Park Service
-mountains, across a river, and down onto
-can control what happens on private
-the plains. Here they wait out the frozen
-land at a bottleneck. And with certain
-months, feeding mainly on sagebrush
-other migrating species, the challenge is
-blown clear of snow. These pronghorn are
-complicated further - by vastly greater
-notable for the invariance of their migration
-distances traversed, more jurisdictions,
-route and the severity of its constriction
-more borders, more dangers along the way.
-at three bottlenecks. If they can't pass
-We will require wisdom and resoluteness to
-through each of the three during their
-ensure that migrating species can continue
-spring migration, they can't reach their
-their journeying a while longer.
-bounty of suinmer grazing; if they can't
+become sensitive to blue light (from the sky) when it’s time for takeoff on their big journey, and sensitive to yellow light (reflected from tender young leaves) when it’s appropriate to land. Birds will fatten themselves with heavy feeding in advance of a long migrational flight. The value of his definition, Dingle argues, is that it focuses attention on what the phenomenon of wildebeest migration shares with the phenomenon of the aphids, and therefore helps guide researchers towards understanding how evolution has produced them all.
+Human behaviour, however, is having a detrimental impact on animal migration. The pronghorn, which resembles an antelope, though they are unrelated, is the fastest land mammal of the New World. One population, which spends the summer in the mountainous Grand Teton National Park of the western USA, follows a narrow route from its summer range in the mountains, across a river, and down onto the plains. Here they wait out the frozen months, feeding mainly on sagebrush blown clear of snow. These pronghorn are notable for the invariance of their migration route and the severity of its constriction at three bottlenecks. If they can’t pass through each of the three during their spring migration, they can’t reach their bounty of summer grazing; if they can’t pass through again in autumn, escaping south onto those windblown plains, they are likely to die trying to overwinter in the deep snow. Pronghorn, dependent on distance vision and speed to keep safe from predators, traverse high, open shoulders of land, where they can see and run. At one of the bottlenecks, forested hills rise to form a V, leaving a corridor of open ground only about 150 metres wide, filled with private homes. Increasing development is leading toward a crisis for the pronghorn, threatening to choke off their passageway.
+Conservation scientists, along with some biologists and land managers within the USA’s National Park Service and other agencies, are now working to preserve migrational behaviours, not just species and habitats. A National Forest has recognised the path of the pronghorn, much of which passes across its land, as a protected migration corridor. But neither the Forest Service nor the Park Service can control what happens on private land at a bottleneck. And with certain other migrating species, the challenge is complicated further – by vastly greater distances traversed, more jurisdictions, more borders, more dangers along the way. We will require wisdom and resoluteness to ensure that migrating species can continue their journeying a while longer.
 70
 
 ## Page 69
 
 Reading
-Questions 14-18
+Questions 14–18
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 14-18 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 14–18 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-14
-Local gulls and migrating arctic terns behave in the same way when offered food.
-15
-Experts' definitions of migration tend to vary according to their area of study.
-16
-Very few experts agree that the movement of aphids can be considered migration.
-17
-Aphids' journeys are affected by changes in the light that they perceive.
-18
-Dingle's aim is to distinguish between the migratory behaviours of different species.
+14 Local gulls and migrating arctic terns behave in the same way when offered food.
+15 Experts’ definitions of migration tend to vary according to their area of study.
+16 Very few experts agree that the movement of aphids can be considered migration.
+17 Aphids’ journeys are affected by changes in the light that they perceive.
+18 Dingle’s aim is to distinguish between the migratory behaviours of different species.
 71
 
 ## Page 70
 
 Test 3
-Questions 19-22
-Complete each sentence with the correct ending, A-G, below.
-Write the correct letter, A-G, in boxes 19-22 on your answer sheet.
-19
-According to Dingle, migratory routes are likely to
-20
-To prepare for migration, animals are likely to
-21
-During migration, animals are unlikely to
-22
-Arctic terns illustrate migrating animals' ability to
-A
-be discouraged by difficulties.
-B
-travel on open land where they can look
-out for predators.
-C
-eat more than they need for immediate
-purposes.
-D
-be repeated daily.
-E
-ignore distractions.
-F
-be governed by the availability of water.
-G
-follow a straight line.
-Questions 23-26
+Questions 19–22
+Complete each sentence with the correct ending, A–G, below.
+Write the correct letter, A–G, in boxes 19–22 on your answer sheet.
+19 According to Dingle, migratory routes are likely to
+20 To prepare for migration, animals are likely to
+21 During migration, animals are unlikely to
+22 Arctic terns illustrate migrating animals’ ability to
+A be discouraged by difficulties.
+B travel on open land where they can look out for predators.
+C eat more than they need for immediate purposes.
+D be repeated daily.
+E ignore distractions.
+F be governed by the availability of water.
+G follow a straight line.
+Questions 23–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
+Write your answers in boxes 23–26 on your answer sheet.
 The migration of pronghorns
-to avoid predators. One particular
-Pronghorns rely on their eyesight and 23
-population's summer habitat is a national park, and their winter home is on
-the 24
-, where they go to avoid the danger presented by the snow at that time
-of year. However, their route between these two areas contains three 25
-of land on the
-One problem is the construction of new homes in a narrow 26.
-pronghorns' route.
+Pronghorns rely on their eyesight and 23 __________ to avoid predators. One particular population’s summer habitat is a national park, and their winter home is on the 24 __________, where they go to avoid the danger presented by the snow at that time of year. However, their route between these two areas contains three 25 __________. One problem is the construction of new homes in a narrow 26 __________ of land on the pronghorns’ route.
 72
 
 ## Page 71
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
-Preface to 'How the other half thinks:
-Adventures in mathematical reasoning'
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
+Preface to ‘How the other half thinks: Adventures in mathematical reasoning’
 A
-Occasionally, in some difficult musical compositions, there are beautiful, but easy
-parts - parts so simple a beginner could play them. So it is with mathematics as
-well. There are some discoveries in advanced mathematics that do not depend on
-specialized knowledge, not even on algebra, geometry, or trigonometry. Instead
-they may involve, at most, a little arithmetic, such as 'the sum of two odd numbers
-is even', and common sense. Each of the eight chapters in this book illustrates this
-phenomenon. Anyone can understand every step in the reasoning.
-The thinking in each chapter uses at most only elementary arithmetic, and
-sometimes not even that. Thus all readers will have the chance to participate in a
-mathematical experience, to appreciate the beauty of mathematics, and to become
-familiar with its logical, yet intuitive,style of thinking.
+Occasionally, in some difficult musical compositions, there are beautiful, but easy parts – parts so simple a beginner could play them. So it is with mathematics as well. There are some discoveries in advanced mathematics that do not depend on specialized knowledge, not even on algebra, geometry, or trigonometry. Instead they may involve, at most, a little arithmetic, such as ‘the sum of two odd numbers is even’, and common sense. Each of the eight chapters in this book illustrates this phenomenon. Anyone can understand every step in the reasoning.
+The thinking in each chapter uses at most only elementary arithmetic, and sometimes not even that. Thus all readers will have the chance to participate in a mathematical experience, to appreciate the beauty of mathematics, and to become familiar with its logical, yet intuitive, style of thinking.
 B
-One of my purposes in writing this book is to give readers who haven't had the
-opportunity to see and enjoy real mathematics the chance to appreciate the
-mathematical way of thinking. I want to reveal not only some of the fascinating
-discoveries, but, more importantly, the reasoning behind them.
-In that respect, this book differs from most books on mathematics written for the
-general public. Some present the lives of colorful mathematicians. Others describe
-important applications of mathematics. Yet others go into mathematical procedures,
-but assume that the reader is adept in using algebra.
-I hope this book will help bridge that notorious gap that separates the two cultures:
-the humanities and the sciences, or should I say the right brain (intuitive) and the
-left brain (analytical, numerical). As the chapters will illustrate, mathematics is not
-restricted to the analytical and numerical; intuition plays a significant role. The
-alleged gap can be narrowed or completely overcome by anyone, in part because
-each of us is far from using the full capacity of either side of the brain. To illustrate
-our human potential, I cite a structural engineer who is an artist, an electrical
-engineer who is an opera singer, an opera singer who published mathematical
-research, and a mathematician who publishes short stories.
+One of my purposes in writing this book is to give readers who haven’t had the opportunity to see and enjoy real mathematics the chance to appreciate the mathematical way of thinking. I want to reveal not only some of the fascinating discoveries, but, more importantly, the reasoning behind them.
+In that respect, this book differs from most books on mathematics written for the general public. Some present the lives of colorful mathematicians. Others describe important applications of mathematics. Yet others go into mathematical procedures, but assume that the reader is adept in using algebra.
+C
+I hope this book will help bridge that notorious gap that separates the two cultures: the humanities and the sciences, or should I say the right brain (intuitive) and the left brain (analytical, numerical). As the chapters will illustrate, mathematics is not restricted to the analytical and numerical; intuition plays a significant role. The alleged gap can be narrowed or completely overcome by anyone, in part because each of us is far from using the full capacity of either side of the brain. To illustrate our human potential, I cite a structural engineer who is an artist, an electrical engineer who is an opera singer, an opera singer who published mathematical research, and a mathematician who publishes short stories.
 D
-Other scientists have written books to explain their fields to non-scientists, but have
-necessarily had to omit the mathematics, although it provides the foundation of their
-theories. The reader must remain a tantalized spectator rather than an involved
-participant, since the appropriate language for describing the details in much of
-science is mathematics, whether the subject is expanding universe, subatomic
-particles, or chromosomes. Though the broad outline of a scientific theory can be
+Other scientists have written books to explain their fields to non-scientists, but have necessarily had to omit the mathematics, although it provides the foundation of their theories. The reader must remain a tantalized spectator rather than an involved participant, since the appropriate language for describing the details in much of science is mathematics, whether the subject is expanding universe, subatomic particles, or chromosomes. Though the broad outline of a scientific theory can be
 73
 
 ## Page 72
 
 Test 3
-sketched intuitively, when a part of the physical universe is finally understood, its
-description often looks like a page in a mathematics text.
+sketched intuitively, when a part of the physical universe is finally understood, its description often looks like a page in a mathematics text.
 E
-Still, the non-mathematical reader can go far in understanding mathematical
-reasoning. This book presents the details that illustrate the mathematical style
-of thinking, which involves sustained, step-by-step analysis, experiments, and
-insights. You will turn these pages much more slowly than when reading a novel
-or a newspaper. It may help to have a pencil and paper ready to check claims and
-carry out experiments.
+Still, the non-mathematical reader can go far in understanding mathematical reasoning. This book presents the details that illustrate the mathematical style of thinking, which involves sustained, step-by-step analysis, experiments, and insights. You will turn these pages much more slowly than when reading a novel or a newspaper. It may help to have a pencil and paper ready to check claims and carry out experiments.
 F
-As I wrote, I kept in mind two types of readers: those who enjoyed mathematics
-until they were turned off by an unpleasant episode, usually around fifth grade, and
-mathematics aficionados, who will find much that is new throughout the book.
-This book also serves readers who simply want to sharpen their analytical skills.
-Many careers, such as law and medicine, require extended, precise analysis. Each
-chapter offers practice in following a sustained and closely argued line of thought.
-That mathematics can develop this skill is shown by these two testimonials:
+As I wrote, I kept in mind two types of readers: those who enjoyed mathematics until they were turned off by an unpleasant episode, usually around fifth grade, and mathematics aficionados, who will find much that is new throughout the book.
+This book also serves readers who simply want to sharpen their analytical skills. Many careers, such as law and medicine, require extended, precise analysis. Each chapter offers practice in following a sustained and closely argued line of thought. That mathematics can develop this skill is shown by these two testimonials:
 G
-A physician wrote, 'The discipline of analytical thought processes [in mathematics]
-prepared me extremely well for medical school. In medicine one is faced with a
-problem which must be thoroughly analyzed before a solution can be found. The
-process is similar to doing mathematics.'
-A lawyer made the same point, 'Although I had no background in law - not even
-one political science course - I did well at one of the best law schools. I attribute
-much of my success there to having learned, through the study of mathematics,
-and, in particular, theorems, how to analyze complicated principles. Lawyers who
-have studied mathematics can master the legal principles in a way that most others
-cannot.'
-I hope you will share my delight in watching as simple, even naïve, questions
-lead to remarkable solutions and purely theoretical discoveries find unanticipated
-applications.
+A physician wrote, ‘The discipline of analytical thought processes [in mathematics] prepared me extremely well for medical school. In medicine one is faced with a problem which must be thoroughly analyzed before a solution can be found. The process is similar to doing mathematics.’
+A lawyer made the same point, ‘Although I had no background in law – not even one political science course – I did well at one of the best law schools. I attribute much of my success there to having learned, through the study of mathematics, and, in particular, theorems, how to analyze complicated principles. Lawyers who have studied mathematics can master the legal principles in a way that most others cannot.’
+I hope you will share my delight in watching as simple, even naïve, questions lead to remarkable solutions and purely theoretical discoveries find unanticipated applications.
 74
 
 ## Page 73
 
 Reading
-Questions 27-34
-Reading Passage 3 has seven sections, A-G.
+Questions 27–34
+Reading Passage 3 has seven sections, A–G.
 Which section contains the following information?
-Write the correct letter, A-G, in boxes 27-34 on your answer sheet.
+Write the correct letter, A–G, in boxes 27–34 on your answer sheet.
 NB You may use any letter more than once.
-27
-a reference to books that assume a lack of mathematical knowledge
-28
-the way in which this is not a typical book about mathematics
-29
-personal examples of being helped by mathematics
-30
-examples of people who each had abilities that seemed incompatible
-31
-mention of different focuses of books about mathematics
-32
-a contrast between reading this book and reading other kinds of publication
-33
-a claim that the whole of the book is accessible to everybody
-34
-a reference to different categories of intended readers of this book
+27 a reference to books that assume a lack of mathematical knowledge
+28 the way in which this is not a typical book about mathematics
+29 personal examples of being helped by mathematics
+30 examples of people who each had abilities that seemed incompatible
+31 mention of different focuses of books about mathematics
+32 a contrast between reading this book and reading other kinds of publication
+33 a claim that the whole of the book is accessible to everybody
+34 a reference to different categories of intended readers of this book
 75
 
 ## Page 74
 
 Test 3
-Questions 35-40
+Questions 35–40
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 35-40 on your answer sheet.
-35
-Some areas of both music and mathematics are suitable for someone who is
-a
-36
-It is sometimes possible to understand advanced mathematics using no more than
-a limited knowledge of
-37
-The writer intends to show that mathematics requires
-thinking, as well as
-analytical skills.
-38
-Some books written by
-have had to leave out the mathematics that is
-central to their theories.
-39
-The writer advises non-mathematical readers to perform
-while reading
-the book.
-40
-A lawyer found that studying
-helped even more than other areas of
-mathematics in the study of law.
+Write your answers in boxes 35–40 on your answer sheet.
+35 Some areas of both music and mathematics are suitable for someone who is a __________.
+36 It is sometimes possible to understand advanced mathematics using no more than a limited knowledge of __________.
+37 The writer intends to show that mathematics requires __________ thinking, as well as analytical skills.
+38 Some books written by __________ have had to leave out the mathematics that is central to their theories.
+39 The writer advises non-mathematical readers to perform __________ while reading the book.
+40 A lawyer found that studying __________ helped even more than other areas of mathematics in the study of law.
 76
 
 ## Page 75
@@ -3209,640 +2141,236 @@ for carbon storage, as well as their produce
 ## Page 85
 
 Reading
-READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 Research using twins
-To biomedical researchers all over the
-The idea of using twins to measure the
-world, twins offer a precious opportunity
-influence of heredity dates back to 1875,
-to untangle the influence of genes and
-when the English scientist Francis Galton
-the environment - of nature and nurture.
-first suggested the approach (and coined
-Because identical twins come from a
-the phrase 'nature and nurture'). But
-single fertilized egg that splits into two,
-twin studies took a surprising twist in
-they share virtually the same genetic
-the 1980s, with the arrival of studies into
-code. Any differences between them -
-identical twins who had been separated
-one twin having younger looking skin, for
-at birth and reunited as adults. Over two
-example - must be due to environmental
-decades 137 sets of twins eventually
-factors such as less time spent in the sun.
-visited Thomas Bouchard's lab in what
-became known as the Minnesota Study of
-Alternatively, by comparing the
-Twins Reared Apart. Numerous tests were
-experiences of identical twins with
-carried out on the twins, and they were
-those of fraternal twins, who come from
-each asked more than 15,000 questions.
-separate eggs and share on average
-half their DNA, researchers can quantify
-Bouchard and his colleagues used this
-the extent to which our genes affect our
-mountain of data to identify how far
-lives. If identical twins are more similar
-twins were affected by their genetic
-to each other with respect to an ailment
-makeup. The key to their approach was
-than fraternal twins are, then vulnerability
-a statistical concept called heritability.
-to the disease must be rooted at least in
-In broad terms, the heritability of a trait
-part in heredity.
-measures the extent to which differences
-among members of a population can be
-These two lines of research - studying
-explained by differences in their genetics.
-the differences between identical twins
-And wherever Bouchard and other
-to pinpoint the influence of environment,
-scientists looked, it seemed, they found
-and comparing identical twins with
-the invisible hand of genetic influence
-fraternal ones to measure the role
-helping to shape our lives.
-of inheritance - have been crucial to
-understanding the interplay of nature and
-Lately, however, twin studies have helped
-nurture in determining our personalities,
-lead scientists to a radical new conclusion:
-behavior, and vulnerability to disease.
-that nature and nurture are not the only
+To biomedical researchers all over the world, twins offer a precious opportunity to untangle the influence of genes and the environment – of nature and nurture. Because identical twins come from a single fertilized egg that splits into two, they share virtually the same genetic code. Any differences between them – one twin having younger looking skin, for example – must be due to environmental factors such as less time spent in the sun.
+Alternatively, by comparing the experiences of identical twins with those of fraternal twins, who come from separate eggs and share on average half their DNA, researchers can quantify the extent to which our genes affect our lives. If identical twins are more similar to each other with respect to an ailment than fraternal twins are, then vulnerability to the disease must be rooted at least in part in heredity.
+These two lines of research – studying the differences between identical twins to pinpoint the influence of environment, and comparing identical twins with fraternal ones to measure the role of inheritance – have been crucial to understanding the interplay of nature and nurture in determining our personalities, behavior, and vulnerability to disease.
+The idea of using twins to measure the influence of heredity dates back to 1875, when the English scientist Francis Galton first suggested the approach (and coined the phrase ‘nature and nurture’). But twin studies took a surprising twist in the 1980s, with the arrival of studies into identical twins who had been separated at birth and reunited as adults. Over two decades 137 sets of twins eventually visited Thomas Bouchard’s lab in what became known as the Minnesota Study of Twins Reared Apart. Numerous tests were carried out on the twins, and they were each asked more than 15,000 questions.
+Bouchard and his colleagues used this mountain of data to identify how far twins were affected by their genetic makeup. The key to their approach was a statistical concept called heritability. In broad terms, the heritability of a trait measures the extent to which differences among members of a population can be explained by differences in their genetics. And wherever Bouchard and other scientists looked, it seemed, they found the invisible hand of genetic influence helping to shape our lives.
+Lately, however, twin studies have helped lead scientists to a radical new conclusion: that nature and nurture are not the only
 87
 
 ## Page 86
 
 Test 4
-elemental forces at work. According to a
-as they become heart, brain, or liver cells,
-recent field called epigenetics, there is a
-for example.
-third factor also in play, one that in some
-cases serves as a bridge between the
-Geneticist Danielle Reed has worked with
-environment and our genes, and in others
-many twins over the years and thought
-operates on its own to shape who we are.
-deeply about what twin studies have
-taught us. 'It's very clear when you look
-Epigenetic processes are chemical
-at twins that much of what they share
-reactions tied to neither nature nor
-is hardwired,' she says. 'Many things
-nurture but representing what researchers
-about them are absolutely the same and
-have called a 'third component'. These
-unalterable. But it's also clear, when you
-reactions influence how our genetic
-get to know them, that other things about
-code is expressed: how each gene is
-them are different. Epigenetics is the
-strengthened or weakened, even turned
-origin of a lot of those differences, in my
-on or off, to build our bones, brains and
-view.'
-all the other parts of our bodies.
-Reed credits Thomas Bouchard's work for
-If you think of our DNA as an immense
-today's surge in twin studies. 'He was the
-piano keyboard and our genes as the keys
-trailblazer,' she says. 'We forget that 50
-- each key symbolizing a segment of DNA
-years ago things like heart disease were
-responsible for a particular note, or trait,
-thought to be caused entirely by lifestyle.
-and all the keys combining to make us
-Schizophrenia was thought to be due
-who we are - then epigenetic processes
-to poor mothering. Twin studies have
-determine when and how each key can be
-allowed us to be more reflective about
-struck, changing the tune being played.
-what people are actually born with and
-what's caused by experience.'
-One way the study of epigenetics is
-revolutionizing our understanding of
-Having said that, Reed adds, the latest
-biology is by revealing a mechanism by
-work in epigenetics promises to take our
-which the environment directly impacts on
-understanding even further. 'What I like
-genes. Studies of animals, for example,
-to say is that nature writes some things in
-have shown that when a rat experiences
-pencil and some things in pen,' she says.
-stress during pregnancy, it can cause
-'Things written in pen you can't change.
-epigenetic changes in a fetus that lead to
-That's DNA. But things written in pencil
-behavioral problems as the rodent grows
-you can. That's epigenetics. Now that
-up. Other epigenetic processes appear to
-we're actually able to look at the DNA
-occur randomly, while others are normal,
-and see where the pencil writings are, it's
-such as those that guide embryonic cells
-sort of a whole new world.'
+elemental forces at work. According to a recent field called epigenetics, there is a third factor also in play, one that in some cases serves as a bridge between the environment and our genes, and in others operates on its own to shape who we are.
+Epigenetic processes are chemical reactions tied to neither nature nor nurture but representing what researchers have called a ‘third component’. These reactions influence how our genetic code is expressed: how each gene is strengthened or weakened, even turned on or off, to build our bones, brains and all the other parts of our bodies.
+If you think of our DNA as an immense piano keyboard and our genes as the keys – each key symbolizing a segment of DNA responsible for a particular note, or trait, and all the keys combining to make us who we are – then epigenetic processes determine when and how each key can be struck, changing the tune being played.
+One way the study of epigenetics is revolutionizing our understanding of biology is by revealing a mechanism by which the environment directly impacts on genes. Studies of animals, for example, have shown that when a rat experiences stress during pregnancy, it can cause epigenetic changes in a fetus that lead to behavioral problems as the rodent grows up. Other epigenetic processes appear to occur randomly, while others are normal, such as those that guide embryonic cells as they become heart, brain, or liver cells, for example.
+Geneticist Danielle Reed has worked with many twins over the years and thought deeply about what twin studies have taught us. ‘It’s very clear when you look at twins that much of what they share is hardwired,’ she says. ‘Many things about them are absolutely the same and unalterable. But it’s also clear, when you get to know them, that other things about them are different. Epigenetics is the origin of a lot of those differences, in my view.’
+Reed credits Thomas Bouchard’s work for today’s surge in twin studies. ‘He was the trailblazer,’ she says. ‘We forget that 50 years ago things like heart disease were thought to be caused entirely by lifestyle. Schizophrenia was thought to be due to poor mothering. Twin studies have allowed us to be more reflective about what people are actually born with and what’s caused by experience.’
+Having said that, Reed adds, the latest work in epigenetics promises to take our understanding even further. ‘What I like to say is that nature writes some things in pencil and some things in pen,’ she says. ‘Things written in pen you can’t change. That’s DNA. But things written in pencil you can. That’s epigenetics. Now that we’re actually able to look at the DNA and see where the pencil writings are, it’s sort of a whole new world.’
 88
 
 ## Page 87
 
 Reading
-Questions 1-4
+Questions 1–4
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-4 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
-NOT GIVEN
-if there is no information on this
-1
-There may be genetic causes for the differences in how young the skin of identical
-twins looks.
-2
-Twins are at greater risk of developing certain illnesses than non-twins.
-3
-Bouchard advertised in newspapers for twins who had been separated at birth.
-4
-Epigenetic processes are different from both genetic and environmental processes.
-Questions 5-9
-Look at the following statements (Questions 5—9) and the list of researchers below.
+In boxes 1–4 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
+NOT GIVEN if there is no information on this
+1 There may be genetic causes for the differences in how young the skin of identical twins looks.
+2 Twins are at greater risk of developing certain illnesses than non-twins.
+3 Bouchard advertised in newspapers for twins who had been separated at birth.
+4 Epigenetic processes are different from both genetic and environmental processes.
+Questions 5–9
+Look at the following statements (Questions 5–9) and the list of researchers below.
 Match each statement with the correct researcher, A, B or C.
-Write the correct letter, A, B or C, in boxes 5—9 on your answer sheet.
-NB
-You may use any letter more than once.
+Write the correct letter, A, B or C, in boxes 5–9 on your answer sheet.
+NB You may use any letter more than once.
+5 invented a term used to distinguish two factors affecting human characteristics
+6 expressed the view that the study of epigenetics will increase our knowledge
+7 developed a mathematical method of measuring genetic influences
+8 pioneered research into genetics using twins
+9 carried out research into twins who had lived apart
 List of Researchers
-A
-Francis Galton
-B
-Thomas Bouchard
-C
-Danielle Reed
-5
-invented a term used to distinguish two factors affecting human characteristics
-6
-expressed the view that the study of epigenetics will increase our knowledge
-7
-developed a mathematical method of measuring genetic influences
-8
-pioneered research into genetics using twins
-9
-carried out research into twins who had lived apart
+A Francis Galton
+B Thomas Bouchard
+C Danielle Reed
 89
 
 ## Page 88
 
 Test 4
-Questions 10-13
-Complete the summary using the list of words, A-F, below.
-Write the correct letter, A-F, in boxes 10-13 on your answer sheet.
+Questions 10–13
+Complete the summary using the list of words, A–F, below.
+Write the correct letter, A–F, in boxes 10–13 on your answer sheet.
 Epigenetic processes
-In epigenetic processes, 10
-influence the activity of our genes, for example
-in creating our internal 11
-. The study of epigenetic processes is uncovering
-a way in which our genes can be affected by our 12
-. One example is that
-if a pregnant rat suffers stress, the new-born rat may later show problems in its
-13
-A
-nurture
-B
-organs
-C
-code
-D
-chemicals
-E
-environment
-F
-behaviour/behavior
+In epigenetic processes, 10 __________ influence the activity of our genes, for example in creating our internal 11 __________. The study of epigenetic processes is uncovering a way in which our genes can be affected by our 12 __________. One example is that if a pregnant rat suffers stress, the new-born rat may later show problems in its 13 __________.
+A nurture
+B organs
+C code
+D chemicals
+E environment
+F behaviour/behavior
 90
 
 ## Page 89
 
 Reading
-READING PASSAGE2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 An Introduction to Film Sound
-Though we might think of film as an
-and very realistic persona emerges. The
-essentially visual experience, we really
-viewer sees not an actor working at his
-cannot afford to underestimate the
-craft, but another human being struggling
-importance of film sound. A meaningful
-with life. It is interesting to note that how
-sound track is often as complicated as
-dialogue is used and the very amount of
-the image on the screen, and is ultimately
-dialogue used varies widely among films.
-just as much the responsibility of the
-For example, in the highly successful
-director. The entire sound track consists
-science-fiction film 2001, little dialogue
-of three essential ingredients: the human
-was evident, and most of it was banal
-voice, sound effects and music. These
-and of little intrinsic interest. In this
-three tracks must be mixed and balanced
-way the film-maker was able to portray
-so as to produce the necessary emphases
-what Thomas Sobochack and Vivian
-which in turn create desired effects.
-Sobochack call, in An Introduction to Film,
-Topics which essentially refer to the
-the 'inadequacy of human responses
-three previously mentioned tracks are
-when compared with the magnificent
-discussed below. They include dialogue,
-technology created by man and the visual
-synchronous and asynchronous sound
-beauties of the universe'.
-effects, and music.
-The comedy Bringing Up Baby, on the
-Let us start with dialogue. As is the case
-other hand, presents practically non-stop
-with stage drama, dialogue serves to
-dialogue delivered at breakneck speed.
-tell the story and expresses feelings and
-This use of dialogue underscores not
-motivations of characters as well. Often
-only the dizzy quality of the character
-with film characterization the audience
-played by Katherine Hepburn, but also
-perceives little or no difference between
-the absurdity of the film itself and thus its
-the character and the actor. Thus, for
-humor. The audience is bounced from gag
-example, the actor Humphrey Bogart is
-to gag and conversation to conversation;
-the character Sam Spade; film personality
-there is no time for audience reflection.
-and life personality seem to merge.
-The audience is caught up in a whirlwind
-Perhaps this is because the very texture of
-of activity in simply managing to follow
-a performer's voice supplies an element
-the plot. This film presents pure escapism
-of character.
-largely due to its frenetic dialogue.
-When voice textures fit the performer's
-Synchronous sound effects are those
-physiognomy and gestures, a whole
-sounds which are synchronized or
+Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects. Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music.
+Let us start with dialogue. As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well. Often with film characterization the audience perceives little or no difference between the character and the actor. Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge. Perhaps this is because the very texture of a performer’s voice supplies an element of character.
+When voice textures fit the performer’s physiognomy and gestures, a whole and very realistic persona emerges. The viewer sees not an actor working at his craft, but another human being struggling with life. It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films. For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the ‘inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe’.
+The comedy Bringing Up Baby, on the other hand, presents practically non-stop dialogue delivered at breakneck speed. This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor. The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection. The audience is caught up in a whirlwind of activity in simply managing to follow the plot. This film presents pure escapism – largely due to its frenetic dialogue.
+Synchronous sound effects are those sounds which are synchronized or
 91
 
 ## Page 90
 
 Test 4
-matched with what is viewed. For
-We are probably all familiar with
-example, if the film portrays a character
-background music in films, which has
-playing the piano, the sounds of the
-become so ubiquitous as to be noticeable
-piano are projected. Synchronous sounds
-in its absence. We are aware that it is used
-contribute to the realism of film and also
-to add emotion and rhythm. Usually not
-help to create a particular atmosphere.
-meant to be noticeable, it often provides
-For example, the 'click' of a door being
-a tone or an emotional attitude toward
-opened may simply serve to convince
-the story and/or the characters depicted.
-the audience that the image portrayed
-In addition, background music often
-is real, and the audience may only
-foreshadows a change in mood. For
-subconsciously note the expected sound.
-example, dissonant music may be used in
-However, if the 'click' of an opening
-film to indicate an approaching (but not
-door is part of an ominous action such
-yetvisible) menace or disaster.
-as a burglary, the sound mixer may call
-attention to the 'click' with an increase in
-Background music may aid viewer
-volume; this helps to engage the audience
-understanding by linking scenes. For
-in a moment of suspense.
-example, a particular musical theme
-associated with an individual character
-Asynchronous sound effects, on the other
-or situation may be repeated at various
-hand, are not matched with a visible
-points in a film in order to remind the
-source of the sound on screen. Such
-audience of salient motifs or ideas.
-sounds are included so as to provide an
-appropriate emotional nuance, and they
-Film sound comprises conventions and
-may also add to the realism of the film.
-innovations. We have come to expect an
-For example, a film-maker might opt
-acceleration of music during car chases
-to include the background sound of an
-and creaky doors in horror films. Yet, it
-ambulance's siren while the foreground
-is important to note as well that sound
-sound and image portrays an arguing
-is often brilliantly conceived. The effects
-couple. The asynchronous ambulance
-of sound are often largely subtle and
-siren underscores the psychic injury
-often are noted by only our subconscious
-incurred in the argument; at the same
-minds. We need to foster an awareness of
-time the noise of the siren adds to the
-film sound as well as film space so as to
-realism of the film by acknowledging the
-truly appreciate an art form that sprang
-film's city setting.
-to life during the twentieth century - the
-modern film.
+matched with what is viewed. For example, if the film portrays a character playing the piano, the sounds of the piano are projected. Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere. For example, the ‘click’ of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound. However, if the ‘click’ of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the ‘click’ with an increase in volume; this helps to engage the audience in a moment of suspense.
+Asynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen. Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film. For example, a film-maker might opt to include the background sound of an ambulance’s siren while the foreground sound and image portrays an arguing couple. The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film’s city setting.
+We are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence. We are aware that it is used to add emotion and rhythm. Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted. In addition, background music often foreshadows a change in mood. For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster.
+Background music may aid viewer understanding by linking scenes. For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas.
+Film sound comprises conventions and innovations. We have come to expect an acceleration of music during car chases and creaky doors in horror films. Yet, it is important to note as well that sound is often brilliantly conceived. The effects of sound are often largely subtle and often are noted by only our subconscious minds. We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century – the modern film.
 92
 
 ## Page 91
 
 Reading
-Questions 14-18
+Questions 14–18
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 14-18 on your answer sheet.
+Write the correct letter in boxes 14–18 on your answer sheet.
 14 In the first paragraph, the writer makes a point that
-A
-the director should plan the sound track at an early stage in filming.
-B
-it would be wrong to overlook the contribution of sound to the artistry of films.
-C
-the music industry can have a beneficial influence on sound in film.
-D
-it is important for those working on the sound in a film to have sole
-responsibility for it.
-15
-One reason that the writer refers to Humphrey Bogart is to exemplify
-A
-the importance of the actor and the character appearing to have similar
-personalities.
-B
-the audience's wish that actors are visually appropriate for their roles.
-C
-the value of the actor having had similar feelings to the character.
-D
-the audience's preference for dialogue to be as authentic as possible.
-16
-In the third paragraph, the writer suggests that
-A
-audiences are likely to be critical of film dialogue that does not reflect their own
-experience.
-B
-film dialogue that appears to be dull may have a specific purpose.
-C
-filmmakers vary considerably in the skill with which they handle dialogue.
-D
-the most successful films are those with dialogue of a high quality.
-7
-What does the writer suggest about Bringing Up Baby?
-A
-The plot suffers from the filmmaker's wish to focus on humorous dialogue.
-B
-The dialogue helps to make it one of the best comedy films ever produced.
-C
-There is a mismatch between the speed of the dialogue and the speed of
-actions.
-D
-The nature of the dialogue emphasises key elements of the film.
-8
-The writer refers to the 'click' of a door to make the point that realistic sounds
-A
-are often used to give the audience a false impression of events in the film.
-B
-may be interpreted in different ways by different members of the audience.
-C
-may be modified in order to manipulate the audience's response to the film.
-D
-tend to be more significant in films presenting realistic situations.
+A the director should plan the sound track at an early stage in filming.
+B it would be wrong to overlook the contribution of sound to the artistry of films.
+C the music industry can have a beneficial influence on sound in film.
+D it is important for those working on the sound in a film to have sole responsibility for it.
+15 One reason that the writer refers to Humphrey Bogart is to exemplify
+A the importance of the actor and the character appearing to have similar personalities.
+B the audience’s wish that actors are visually appropriate for their roles.
+C the value of the actor having had similar feelings to the character.
+D the audience’s preference for dialogue to be as authentic as possible.
+16 In the third paragraph, the writer suggests that
+A audiences are likely to be critical of film dialogue that does not reflect their own experience.
+B film dialogue that appears to be dull may have a specific purpose.
+C filmmakers vary considerably in the skill with which they handle dialogue.
+D the most successful films are those with dialogue of a high quality.
+17 What does the writer suggest about Bringing Up Baby?
+A The plot suffers from the filmmaker’s wish to focus on humorous dialogue.
+B The dialogue helps to make it one of the best comedy films ever produced.
+C There is a mismatch between the speed of the dialogue and the speed of actions.
+D The nature of the dialogue emphasises key elements of the film.
+18 The writer refers to the ‘click’ of a door to make the point that realistic sounds
+A are often used to give the audience a false impression of events in the film.
+B may be interpreted in different ways by different members of the audience.
+C may be modified in order to manipulate the audience’s response to the film.
+D tend to be more significant in films presenting realistic situations.
+93
 
 ## Page 92
 
 Test 4
-Questions 19-23
+Questions 19–23
 Do the following statements agree with the information given in Reading Passage 2?
-In boxes 19-23 on your answer sheet, write
-TRUE
-if the statement agrees with the information
-FALSE
-if the statement contradicts the information
+In boxes 19–23 on your answer sheet, write
+TRUE if the statement agrees with the information
+FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-19
-Audiences are likely to be surprised if a film lacks background music.
-20
-Background music may anticipate a development in a film.
-21
-Background music has more effect on some people than on others.
-22
-Background music may help the audience to make certain connections within
-the film.
-23
-Audiences tend to be aware of how the background music is affecting them.
+19 Audiences are likely to be surprised if a film lacks background music.
+20 Background music may anticipate a development in a film.
+21 Background music has more effect on some people than on others.
+22 Background music may help the audience to make certain connections within the film.
+23 Audiences tend to be aware of how the background music is affecting them.
 94
 
 ## Page 93
 
 Reading
-Questions 24-26
-Complete each sentence with the correct ending, A-E, below.
-Write the correct letter, A-E, in boxes 24-26 on your answer sheet.
-24
-The audience's response to different parts of a film can be controlled
-25
-The feelings and motivations of characters become clear
-26
-A character seems to be a real person rather than an actor
-A
-when the audience listens to the dialogue.
-B
-if the film reflects the audience's own concerns.
-C
-if voice, sound and music are combined appropriately.
-D
-when the director is aware of how the audience will respond.
-E
-when the actor's appearance, voice and moves are
-consistent with each other.
+Questions 24–26
+Complete each sentence with the correct ending, A–E, below.
+Write the correct letter, A–E, in boxes 24–26 on your answer sheet.
+24 The audience’s response to different parts of a film can be controlled
+25 The feelings and motivations of characters become clear
+26 A character seems to be a real person rather than an actor
+A when the audience listens to the dialogue.
+B if the film reflects the audience’s own concerns.
+C if voice, sound and music are combined appropriately.
+D when the director is aware of how the audience will respond.
+E when the actor’s appearance, voice and moves are consistent with each other.
 95
 
 ## Page 94
 
 Test 4
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on the following pages.
-Questions 27-32
-Reading Passage 3 has six paragraphs, A-F.
-Choose the correct heading for paragraphs A-F from the list of headings below.
-Write the correct number, i-vii, in boxes 27-32 on your answer sheet.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.
+Questions 27–32
+Reading Passage 3 has six paragraphs, A–F.
+Choose the correct heading for paragraphs A–F from the list of headings below.
+Write the correct number, i–vii, in boxes 27–32 on your answer sheet.
 List of Headings
-i
-Differences between languages highlight their impressiveness
-ii
-The way in which a few sounds are organised to convey a huge
-range of meaning
-iii
-Why the sounds used in different languages are not identical
-iv
-Apparently incompatible characteristics of language
-V
-Even silence can be meaningful
-vi
-Why language is the most important invention of all
-vii
-The universal ability to use language
-27
-Paragraph A
-28
-Paragraph B
-29
-Paragraph C
-30
-Paragraph D
-31
-Paragraph E
-32
-Paragraph F
+i Differences between languages highlight their impressiveness
+ii The way in which a few sounds are organised to convey a huge range of meaning
+iii Why the sounds used in different languages are not identical
+iv Apparently incompatible characteristics of language
+v Even silence can be meaningful
+vi Why language is the most important invention of all
+vii The universal ability to use language
+27 Paragraph A
+28 Paragraph B
+29 Paragraph C
+30 Paragraph D
+31 Paragraph E
+32 Paragraph F
 96
 
 ## Page 95
 
 Reading
-'This Marvellous Invention'
+‘This Marvellous Invention’
 A
-Of all mankind's manifold creations, language must take pride of place. Other inventions -
-the wheel, agriculture, sliced bread - may have transformed our material existence, but the
-advent of language is what made us human. Compared to language, all other inventions pale
-in significance, since everything we have ever achieved depends on language and originates
-from it. Without language, we could never have embarked on our ascent to unparalleled
-power over all other animals, and even over nature itself.
+Of all mankind’s manifold creations, language must take pride of place. Other inventions – the wheel, agriculture, sliced bread – may have transformed our material existence, but the advent of language is what made us human. Compared to language, all other inventions pale in significance, since everything we have ever achieved depends on language and originates from it. Without language, we could never have embarked on our ascent to unparalleled power over all other animals, and even over nature itself.
 B
-But language is foremost not just because it came first. In its own right it is a tool of
-extraordinary sophistication, yet based on an idea of ingenious simplicity: 'this marvellous
-invention of composing out of twenty-five or thirty sounds that infinite variety of
-expressions which, whilst having in themselves no likeness to what is in our mind, allow
-us to disclose to others its whole secret, and to make known to those who cannot penetrate
-it all that we imagine, and all the various stirrings of our soul. This was how, in 1660,
-the renowned French grammarians of the Port-Royal abbey near Versailles distilled the
-essence of language, and no one since has celebrated more eloquently the magnitude of its
-achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to
-language's unique accomplishment conceals a simple yet critical incongruity. Language is
-mankind's greatest invention - except, of course, that it was never invented. This apparent
-paradox is at the core of our fascination with language, and it holds many of its secrets.
+But language is foremost not just because it came first. In its own right it is a tool of extraordinary sophistication, yet based on an idea of ingenious simplicity: ‘this marvellous invention of composing out of twenty-five or thirty sounds that infinite variety of expressions which, whilst having in themselves no likeness to what is in our mind, allow us to disclose to others its whole secret, and to make known to those who cannot penetrate it all that we imagine, and all the various stirrings of our soul.’ This was how, in 1660, the renowned French grammarians of the Port-Royal abbey near Versailles distilled the essence of language, and no one since has celebrated more eloquently the magnitude of its achievement. Even so, there is just one flaw in all these hymns of praise, for the homage to language’s unique accomplishment conceals a simple yet critical incongruity. Language is mankind’s greatest invention – except, of course, that it was never invented. This apparent paradox is at the core of our fascination with language, and it holds many of its secrets.
 C
-Language often seems so skillfully drafted that one can hardly imagine it as anything other
-than the perfected handiwork of a master craftsman. How else could this instrument
-make so much out of barely three dozen measly morsels of sound? In themselves, these
-configurations of mouth - p,f,b,v,t,d,k,g,sh,a,e and so on - amount to nothing more than a
-few haphazard spits and splutters, random noises with no meaning, no ability to express,
-no power to explain. But run them through the cogs and wheels of the language machine,
-let it arrange them in some very special orders, and there is nothing that these meaningless
-streams of air cannot do: from sighing the interminable boredom of existence to unravelling
-the fundamental order of the universe.
+Language often seems so skillfully drafted that one can hardly imagine it as anything other than the perfected handiwork of a master craftsman. How else could this instrument make so much out of barely three dozen measly morsels of sound? In themselves, these configurations of mouth – p,f,b,v,t,d,k,g,sh,a,e and so on – amount to nothing more than a few haphazard spits and splutters, random noises with no meaning, no ability to express, no power to explain. But run them through the cogs and wheels of the language machine, let it arrange them in some very special orders, and there is nothing that these meaningless streams of air cannot do: from sighing the interminable boredom of existence to unravelling the fundamental order of the universe.
 D
-The most extraordinary thing about language, however, is that one doesn't have to be a
-genius to set its wheels in motion. The language machine allows just about everybody -
-from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the
-suburban sprawl - to tie these meaningless sounds together into an infinite variety of subtle
-senses, and all apparently without the slightest exertion. Yet it is precisely this deceptive ease
-which makes language a victim of its own success, since in everyday life its triumphs are
-usually taken for granted. The wheels of language run so smoothly that one rarely bothers to
-stop and think about all the resourcefulness and expertise that must have gone into making
-it tick. Language conceals art.
+The most extraordinary thing about language, however, is that one doesn’t have to be a genius to set its wheels in motion. The language machine allows just about everybody – from pre-modern foragers in the subtropical savannah, to post-modern philosophers in the suburban sprawl – to tie these meaningless sounds together into an infinite variety of subtle senses, and all apparently without the slightest exertion. Yet it is precisely this deceptive ease which makes language a victim of its own success, since in everyday life its triumphs are usually taken for granted. The wheels of language run so smoothly that one rarely bothers to stop and think about all the resourcefulness and expertise that must have gone into making it tick. Language conceals art.
+97
 
 ## Page 96
 
 Test 4
 E
-Often, it is only the estrangement of foreign tongues, with their many exotic and outlandish
-features, that brings home the wonder of language's design. One of the showiest stunts that
-some languages can pull off is an ability to build up words of breath-breaking length, and
-thus express in one word what English takes a whole sentence to say. The Turkish word
-sehirlilitiremediklerimizdensiniz, to take one example, means nothing less than 'you are
-one of those whom we can't turn into a town-dweller' (In case you were wondering, this
-monstrosity really is one word, not merely many different words squashed together - most of
-its components cannot even stand up on their own.)
+Often, it is only the estrangement of foreign tongues, with their many exotic and outlandish features, that brings home the wonder of language’s design. One of the showiest stunts that some languages can pull off is an ability to build up words of breath-breaking length, and thus express in one word what English takes a whole sentence to say. The Turkish word şehirlileştiremediklerimizdensiniz, to take one example, means nothing less than ‘you are one of those whom we can’t turn into a town-dweller’. (In case you were wondering, this monstrosity really is one word, not merely many different words squashed together – most of its components cannot even stand up on their own.)
 F
-And if that sounds like some one-off freak, then consider Sumerian, the language spoken
-on the banks of the Euphrates some 5,000 years ago by the people who invented writing
-and thus enabled the documentation of history. A Sumerian word like munintuma'a ("when
-he had made it suitable for her') might seem rather trim compared to the Turkish colossus
-above. What is so impressive about it, however, is not its lengthiness but rather the reverse
-- the thrifty compactness of its construction. The word is made up of different slots, each
-corresponding to a particular portion of meaning. This sleek design allows single sounds
-to convey useful information, and in fact even the absence of a sound has been enlisted to
-express something specific. If you were to ask which bit in the Sumerian word corresponds
-to the pronoun 'it' in the English translation 'when he had made it suitable for her', then the
-answer would have to be nothing. Mind you, a very particular kind of nothing: the nothing
-that stands in the empty slot in the middle. The technology is so fine-tuned then that even a
-non-sound, when carefully placed in a particular position, has been invested with a specific
-function. Who could possibly have come up with such a nifty contraption?
+And if that sounds like some one-off freak, then consider Sumerian, the language spoken on the banks of the Euphrates some 5,000 years ago by the people who invented writing and thus enabled the documentation of history. A Sumerian word like munintuma’a (‘when he had made it suitable for her’) might seem rather trim compared to the Turkish colossus above. What is so impressive about it, however, is not its lengthiness but rather the reverse – the thrifty compactness of its construction. The word is made up of different slots, each corresponding to a particular portion of meaning. This sleek design allows single sounds to convey useful information, and in fact even the absence of a sound has been enlisted to express something specific. If you were to ask which bit in the Sumerian word corresponds to the pronoun ‘it’ in the English translation ‘when he had made it suitable for her’, then the answer would have to be nothing. Mind you, a very particular kind of nothing: the nothing that stands in the empty slot in the middle. The technology is so fine-tuned then that even a non-sound, when carefully placed in a particular position, has been invested with a specific function. Who could possibly have come up with such a nifty contraption?
 98
 
 ## Page 97
 
 Reading
-Questions 33-36
-Complete the summary using the list of words, A-G, below.
-Write the correct letter, A-G, in boxes 33—36 on your answer sheet.
+Questions 33–36
+Complete the summary using the list of words, A–G, below.
+Write the correct letter, A–G, in boxes 33–36 on your answer sheet.
 The importance of language
-The wheel is one invention that has had a major impact on 33
-aspects of
-life, but no impact has been as 34
-as that of language. Language is very
-35
-, yet composed of just a small number of sounds.
-Language appears to be 36
-to use. However, its sophistication is often
-overlooked.
-A
-difficult
-B
-complex
-C
-original
-D
-admired
-E
-material
-F
-easy
-G
-fundamental
-Questions 37-40
+The wheel is one invention that has had a major impact on 33 __________ aspects of life, but no impact has been as 34 __________ as that of language. Language is very 35 __________, yet composed of just a small number of sounds.
+Language appears to be 36 __________ to use. However, its sophistication is often overlooked.
+A difficult
+B complex
+C original
+D admired
+E material
+F easy
+G fundamental
+Questions 37–40
 Do the following statements agree with the views of the writer in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
-YES
-if the statement agrees with the views of the writer
-NO
-if the statement contradicts the views of the writer
+In boxes 37–40 on your answer sheet, write
+YES if the statement agrees with the views of the writer
+NO if the statement contradicts the views of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-37
-Human beings might have achieved their present position without language.
-38
-The Port-Royal grammarians did justice to the nature of language.
-39
-A complex idea can be explained more clearly in a sentence than in a single word.
-40
-The Sumerians were responsible for starting the recording of events.
+37 Human beings might have achieved their present position without language.
+38 The Port-Royal grammarians did justice to the nature of language.
+39 A complex idea can be explained more clearly in a sentence than in a single word.
+40 The Sumerians were responsible for starting the recording of events.
 99
 
 ## Page 98
@@ -3890,8 +2418,6 @@ No response
 7
 No response
 100
-
-![Cambridge IELTS 11 page 098 figure](data/generated/image-review/cambridge-ielts-11/page-098-writing-task-1-museum-table-charts.png)
 
 Total number of visitors to Ashdown Museum
 
@@ -5513,110 +4039,55 @@ scores acceptable.
 
 READING
 Reading Passage 1,
-20
-gates
-21
-clamp
-Questions 1-13
-22
-axle
-1
-tomatoes
-23
-cogs
-2
-urban centres/centers
-24
-aqueduct
-3456
-energy
-25
-wall
-fossil fuel
-26
-locks
-artificial
-(stacked) trays
-Reading Passage 3,
-7
-(urban) rooftops
-Questions27-40
-8
-NOT GIVEN
-9
-TRUE
-27
-D
-10
-FALSE
-28
-B
-11
-TRUE
-29
-A
-12
-FALSE
-30
-sunshade
-13
-TRUE
-31
-iron
-32
-algae
+Questions 1–13
+1 tomatoes
+2 urban centres/centers
+3 energy
+4 fossil fuel
+5 artificial
+6 (stacked) trays
+7 (urban) rooftops
+8 NOT GIVEN
+9 TRUE
+10 FALSE
+11 TRUE
+12 FALSE
+13 TRUE
 Reading Passage 2,
-33
-clouds
-34
-cables
 Questions 14-26
-35
-snow
-14
-FALSE
-36
-rivers
-15
-NOT GIVEN
-37
-B
-16
-TRUE
-38
-D
-17
-NOT GIVEN
-39
-C
-18
-FALSE
-40
-A
-19
-TRUE
+14 FALSE
+15 NOT GIVEN
+16 TRUE
+17 NOT GIVEN
+18 FALSE
+19 TRUE
+20 gates
+21 clamp
+22 axle
+23 cogs
+24 aqueduct
+25 wall
+26 locks
+Reading Passage 3,
+Questions 27–40
+27 D
+28 B
+29 A
+30 sunshade
+31 iron
+32 algae
+33 clouds
+34 cables
+35 snow
+36 rivers
+37 B
+38 D
+39 C
+40 A
 If you score ...
-0-11
-12-24
-25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0-11: you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12-24: you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+25-40: you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 125
 
 ## Page 124
@@ -5728,112 +4199,56 @@ scores acceptable.
 Listening and Reading Answer Keys
 READING
 Reading Passage 1,
-20
-vi
-Questions 1-13
-21
-farming
-22
-canoes
-1
-TRUE
-23
-birds
-2
-NOT GIVEN
-24
-wood
-3
-TRUE
-25&26 IN EITHER ORDER
-4
-FALSE
-B
-5
-C
-C
-6
-B
-7
-G
-Reading Passage 3,
-8
-A
-Questions 27-40
-9
-(lifting) frame
-10
-hydraulic jacks
-27
-C
-11
-stabbing guides
-28
-D
-12
-(lifting) cradle
-29
-B
-13
-air bags
-30
-A
-31
-C
+Questions 1–13
+1 TRUE
+2 NOT GIVEN
+3 TRUE
+4 FALSE
+5 C
+6 B
+7 G
+8 A
+9 (lifting) frame
+10 hydraulic jacks
+11 stabbing guides
+12 (lifting) cradle
+13 air bags
 Reading Passage 2,
-32
+Questions 14–26
+14 ii
+15 ix
+16 viii
+17 i
+18 iv
+19 vii
+20 vi
+21 farming
+22 canoes
+23 birds
+24 wood
+25&26 IN EITHER ORDER
 B
-33
-Questions 14-26
-H
-34
-NOT GIVEN
-14
-ii
-35
-YES
-15
-ix
-36
-NO
-16
-viii
-37
-NO
-17
-i
-38
-YES
-18
-iv
-39
-NOT GIVEN
-19
-vii
-40
-A
-If you score...
-0-11
-12-24
-25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+C
+Reading Passage 3,
+Questions 27–40
+27 C
+28 D
+29 B
+30 A
+31 C
+32 B
+33 H
+34 NOT GIVEN
+35 YES
+36 NO
+37 NO
+38 YES
+39 NOT GIVEN
+40 A
+If you score ...
+0–11: you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+12–24: you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+25–40: you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 127
 
 ## Page 126
@@ -5947,113 +4362,53 @@ scores acceptable.
 
 READING
 Reading Passage 1,
-20
-C
-21
-Questions 1-13
-A
-22
-E
-1
-tea
-23
-speed
-2
-reel
-24
-plains
-3
-women
-25
-bottlenecks
-4
-royalty
-26
-corridor/passageway
-5
-currency
-6
-paper
-Reading Passage 3,
-7
-wool
-Questions 27-40
-8
-monks
-9
-nylon
-27
-D
-10
-FALSE
-28
-B
-11
-TRUE
-29
-G
-12
-FALSE
-30
-C
-13
-NOT GIVEN
-31
-B
-32
-E
+Questions 1–13
+1 tea
+2 reel
+3 women
+4 royalty
+5 currency
+6 paper
+7 wool
+8 monks
+9 nylon
+10 FALSE
+11 TRUE
+12 FALSE
+13 NOT GIVEN
+
 Reading Passage 2,
-33
-A
-34
-Questions14-26
-F
-35
-beginner
-14
-FALSE
-36
-arithmetic
-15
-TRUE
-37
-intuitive
-16
-NOT GIVEN
-38
-scientists
-17
-TRUE
-39
-experiments
-18
-FALSE
-40
-theorems
-19
-G
-If you score ...
-0-12
-13-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+Questions 14–26
+14 FALSE
+15 TRUE
+16 NOT GIVEN
+17 TRUE
+18 FALSE
+19 G
+20 C
+21 A
+22 E
+23 speed
+24 plains
+25 bottlenecks
+26 corridor/passageway
+
+Reading Passage 3,
+Questions 27–40
+27 D
+28 B
+29 G
+30 C
+31 B
+32 E
+33 A
+34 F
+35 beginner
+36 arithmetic
+37 intuitive
+38 scientists
+39 experiments
+40 theorems
 129
 
 ## Page 128
@@ -6166,111 +4521,51 @@ scores acceptable.
 
 READING
 Reading Passage 1,
-20
-TRUE
-21
-Questions 1-13
-TRUE
-22
-NOT GIVEN
-1
-FALSE
-23
-TRUE
-NM4
-NOT GIVEN
-24
-FALSE
-NOT GIVEN
-25
-C
-TRUE
-26
-A
-5
-A
-6
-C
-Reading Passage 3,
-7
-B
-Questions27-40
-8
-A
-9
-A
-27
-vi
-10
-D
-28
-iv
-11
-B
-29
-ii
-12
-E
-30
-vii
-13
-F
-31
-i
-32
-V
+Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 NOT GIVEN
+4 TRUE
+5 A
+6 C
+7 B
+8 A
+9 A
+10 D
+11 B
+12 E
+13 F
 Reading Passage 2,
-33
-E
-34
-Questions 14-26
-G
-35
-B
-14
-B
-36
-F
-15
-A
-37
-NO
-16
-B
-38
-YES
-17
-D
-39
-NOT GIVEN
-18
-C
-40
-YES
-19
-D
-If you score ...
-0-12
-13-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+Questions 14–26
+14 B
+15 A
+16 B
+17 D
+18 C
+19 D
+20 TRUE
+21 TRUE
+22 NOT GIVEN
+23 TRUE
+24 FALSE
+25 C
+26 A
+Reading Passage 3,
+Questions 27–40
+27 vi
+28 iv
+29 ii
+30 vii
+31 i
+32 v
+33 E
+34 G
+35 B
+36 F
+37 NO
+38 YES
+39 NOT GIVEN
+40 YES
 131
 
 ## Page 130

@@ -14,6 +14,7 @@
     view: "dashboard",
     activeMode: "reading",
     session: null,
+    lastSavedAt: "",
     history: [],
     lastCompletedSessionId: "",
     errors: [],
@@ -37,6 +38,7 @@
   let timer = null;
   let mediaRecorder = null;
   let recordedChunks = [];
+  let saveError = "";
 
   const sampleImportJson = JSON.stringify(
     {
@@ -132,11 +134,44 @@
     nextState.errors = Array.isArray(nextState.errors) ? nextState.errors : [];
     nextState.anki = Array.isArray(nextState.anki) ? nextState.anki : [];
     nextState.importMessage = nextState.importMessage || "";
+    nextState.lastSavedAt = nextState.lastSavedAt || "";
+    if (nextState.session) {
+      nextState.session.answers = nextState.session.answers || {};
+      nextState.session.flagged = nextState.session.flagged || {};
+      nextState.session.currentIndex = Math.max(0, Number(nextState.session.currentIndex || 0));
+      nextState.session.remainingSec = Math.max(0, Number(nextState.session.remainingSec || 0));
+      nextState.session.selfScores = nextState.session.selfScores || {};
+    }
     return nextState;
   }
 
   function saveState() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    const savedAt = new Date().toISOString();
+    state.lastSavedAt = savedAt;
+    if (state.session) state.session.updatedAt = savedAt;
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      saveError = "";
+      updateSaveIndicator();
+      return true;
+    } catch (error) {
+      saveError = "自动保存失败，请在复盘页导出 JSON 备份";
+      console.warn("Failed to save state", error);
+      updateSaveIndicator();
+      return false;
+    }
+  }
+
+  function savedTimeLabel(value = state.lastSavedAt) {
+    if (!value) return "等待首次保存";
+    return new Date(value).toLocaleTimeString("zh-CN", { hour12: false });
+  }
+
+  function updateSaveIndicator() {
+    document.querySelectorAll("[data-save-status]").forEach((element) => {
+      element.textContent = saveError || `已自动保存 ${savedTimeLabel()}`;
+      element.classList.toggle("is-error", Boolean(saveError));
+    });
   }
 
   function uid(prefix) {
@@ -202,6 +237,7 @@
   }
 
   function setView(view) {
+    if (view === "practice" && state.session) state.activeMode = state.session.mode;
     state.view = view;
     saveState();
     render();
@@ -215,6 +251,13 @@
   }
 
   function startSession(mode) {
+    if (state.session) {
+      state.activeMode = state.session.mode;
+      state.view = "practice";
+      saveState();
+      render();
+      return;
+    }
     const test = getModeTest(mode);
     state.activeMode = mode;
     state.view = "practice";
@@ -240,13 +283,23 @@
       selfScores: {}
     };
     saveState();
+    requestPersistentStorage();
     startTimer();
     render();
   }
 
+  async function requestPersistentStorage() {
+    if (!navigator.storage?.persist) return;
+    try {
+      await navigator.storage.persist();
+    } catch (error) {
+      console.warn("Persistent browser storage is unavailable", error);
+    }
+  }
+
   function startTimer() {
     stopTimer();
-    if (!state.session) return;
+    if (!state.session || state.view !== "practice" || document.hidden) return;
     timer = setInterval(() => {
       if (!state.session) {
         stopTimer();
@@ -527,9 +580,13 @@
   }
 
   function render() {
-    document.body.classList.toggle("is-exam-running", Boolean(state.session));
+    document.body.classList.toggle("is-exam-running", Boolean(state.session && state.view === "practice"));
     navButtons.forEach((button) => button.classList.toggle("is-active", button.dataset.view === state.view));
-    if (state.session) startTimer();
+    if (state.session && state.view === "practice" && !document.hidden) {
+      startTimer();
+    } else {
+      stopTimer();
+    }
 
     if (state.view === "dashboard") {
       app.innerHTML = renderDashboard();
@@ -555,6 +612,7 @@
     return `
       <section class="dashboard-grid">
         <div class="panel">
+          ${renderDraftResumeCard()}
           <div class="panel-header">
             <div>
               <h2>今日闭环</h2>
@@ -596,13 +654,36 @@
     `;
   }
 
+  function renderDraftResumeCard() {
+    if (!state.session) return "";
+    const test = getSessionTest(state.session);
+    const summary = sessionCompletionSummary(state.session);
+    const currentQuestion = currentNavigationQuestion(test, state.session);
+    return `
+      <section class="draft-resume-card" aria-label="未完成练习">
+        <div>
+          <span class="draft-resume-eyebrow">未完成草稿 · ${escapeHtml(state.session.mode)}</span>
+          <h2>${escapeHtml(test.title)}</h2>
+          <p>
+            已答 ${summary.answered}/${summary.total}
+            · 当前第 ${escapeHtml(currentQuestion?.number || state.session.currentIndex + 1)} 题
+            · 剩余 ${formatTime(state.session.remainingSec)}
+          </p>
+          <span class="autosave-status ${saveError ? "is-error" : ""}" data-save-status>${escapeHtml(saveError || `已自动保存 ${savedTimeLabel()}`)}</span>
+        </div>
+        <button type="button" class="primary-button" data-action="open-view" data-view-target="practice">继续未完成练习</button>
+      </section>
+    `;
+  }
+
   function renderFocusCard(mode, title, text) {
     const isRunning = state.session?.mode === mode;
+    const hasDraft = Boolean(state.session);
     return `
-      <button class="focus-card" data-action="${isRunning ? "open-view" : "start-session"}" data-mode="${mode}" data-view-target="practice">
+      <button class="focus-card ${hasDraft && !isRunning ? "is-blocked" : ""}" data-action="${hasDraft ? "open-view" : "start-session"}" data-mode="${mode}" data-view-target="practice">
         <strong>${title}</strong>
         <p>${text}</p>
-        <span class="primary-button">${isRunning ? "继续" : "开始"}</span>
+        <span class="primary-button">${isRunning ? "继续" : hasDraft ? "先完成当前草稿" : "开始"}</span>
       </button>
     `;
   }
@@ -810,6 +891,8 @@
             <div class="timer ${session.remainingSec <= 300 ? "is-low" : ""}" data-timer>${formatTime(session.remainingSec)}</div>
             <span>left</span>
           </div>
+          <span class="autosave-status ${saveError ? "is-error" : ""}" data-save-status>${escapeHtml(saveError || `已自动保存 ${savedTimeLabel()}`)}</span>
+          <button type="button" class="tool-button" data-action="pause-session">保存并退出</button>
           <button type="button" class="tool-button" data-action="toggle-exam-chrome">Show</button>
         </div>
       `;
@@ -830,6 +913,8 @@
           ${options.audioUrl ? `<audio class="exam-audio" controls src="${escapeHtml(options.audioUrl)}"></audio>` : ""}
         </div>
         <div class="exam-top-actions">
+          <span class="autosave-status ${saveError ? "is-error" : ""}" data-save-status>${escapeHtml(saveError || `已自动保存 ${savedTimeLabel()}`)}</span>
+          <button type="button" class="tool-button" data-action="pause-session">保存并退出</button>
           <button type="button" class="finish-button" data-action="finish-session">Finish section</button>
           <button type="button" class="tool-button" data-action="open-exam-settings">Setting</button>
           <button type="button" class="tool-button" data-action="open-exam-help">Help</button>
@@ -856,8 +941,29 @@
     `;
   }
 
-  function questionGroupsForMode(mode) {
+  function readingQuestionGroups(test) {
+    const byPassage = new Map();
+    for (const question of test?.questions || []) {
+      const passage = Number(question.passage);
+      const number = Number(question.number);
+      if (!Number.isInteger(passage) || !Number.isInteger(number)) continue;
+      const numbers = byPassage.get(passage) || [];
+      numbers.push(number);
+      byPassage.set(passage, numbers);
+    }
+    return [...byPassage.entries()]
+      .sort(([a], [b]) => a - b)
+      .map(([passage, numbers]) => ({
+        label: `Part ${passage}`,
+        start: Math.min(...numbers),
+        end: Math.max(...numbers)
+      }));
+  }
+
+  function questionGroupsForMode(mode, test = null) {
     if (mode === "reading") {
+      const calibratedGroups = readingQuestionGroups(test);
+      if (calibratedGroups.length) return calibratedGroups;
       return [
         { label: "Part 1", start: 1, end: 13 },
         { label: "Part 2", start: 14, end: 26 },
@@ -877,12 +983,12 @@
 
   function activeQuestionGroup(session) {
     const questionNumber = Number(session.currentIndex || 0) + 1;
-    return questionGroupsForMode(session.mode).find((group) => questionNumber >= group.start && questionNumber <= group.end)
+    return questionGroupsForMode(session.mode, getSessionTest(session)).find((group) => questionNumber >= group.start && questionNumber <= group.end)
       || { label: "Part 1", start: 1, end: 40 };
   }
 
   function questionGroupIndex(session, group = activeQuestionGroup(session)) {
-    return Math.max(0, questionGroupsForMode(session.mode).findIndex((item) => item.start === group.start && item.end === group.end));
+    return Math.max(0, questionGroupsForMode(session.mode, getSessionTest(session)).findIndex((item) => item.start === group.start && item.end === group.end));
   }
 
   function sectionQuestionRange(section) {
@@ -901,7 +1007,7 @@
   }
 
   function questionsInGroup(test, session, group = activeQuestionGroup(session)) {
-    if (questionGroupsForMode(session.mode).length) {
+    if (questionGroupsForMode(session.mode, test).length) {
       return Array.from({ length: group.end - group.start + 1 }, (_, index) => questionForNumber(test, group.start + index));
     }
     return (test.questions || []).filter((question) => question.number >= group.start && question.number <= group.end);
@@ -920,13 +1026,13 @@
   }
 
   function navigationQuestions(test, session) {
-    const groups = questionGroupsForMode(session.mode);
+    const groups = questionGroupsForMode(session.mode, test);
     if (!groups.length) return Array.isArray(test.questions) ? test.questions : [];
     return groups.flatMap((group) => Array.from({ length: group.end - group.start + 1 }, (_, index) => questionForNumber(test, group.start + index)));
   }
 
   function navigationQuestionCount(test, session) {
-    const groups = questionGroupsForMode(session.mode);
+    const groups = questionGroupsForMode(session.mode, test);
     return groups.length ? groups[groups.length - 1].end : (test.questions || []).length;
   }
 
@@ -952,7 +1058,7 @@
     const questions = navigationQuestions(test, session);
     if (!questions.length) return "";
     const answered = Object.values(session.answers || {}).filter((value) => String(value || "").trim()).length;
-    const groups = questionGroupsForMode(session.mode);
+    const groups = questionGroupsForMode(session.mode, test);
     const currentQuestion = currentNavigationQuestion(test, session);
     const currentFlagged = currentQuestion ? Boolean(session.flagged?.[currentQuestion.id]) : false;
     return `
@@ -1000,18 +1106,46 @@
     const group = activeQuestionGroup(session);
     const groupIndex = questionGroupIndex(session, group);
     const sections = Array.isArray(test.readingSections) ? test.readingSections : [];
-    let questionSections = sections.filter((section) => section.kind === "questions" && sectionOverlapsGroup(section, group));
+    const isQuestionSection = (section) => section.kind === "questions" || Boolean(sectionQuestionRange(section));
+    const nestedQuestionSections = sections.flatMap((section) =>
+      (section.questionSections || []).map((questionSection) =>
+        normalizeQuestionSection(questionSection, section)
+      )
+    );
+    const availableQuestionSections = [
+      ...sections.filter((section) => isQuestionSection(section)),
+      ...nestedQuestionSections
+    ];
+    let questionSections = availableQuestionSections.filter((section) => sectionOverlapsGroup(section, group));
     if (!questionSections.length) {
-      questionSections = sections.filter((section) => section.kind === "questions").slice(groupIndex, groupIndex + 1);
+      questionSections = availableQuestionSections.slice(groupIndex, groupIndex + 1);
     }
     const passage = readingPassageForGroup(sections, groupIndex, questionSections);
+    const assets = readingQuestionAssets(test, passage, group);
+    if (!questionSections.length) {
+      questionSections = [synthesizedQuestionSection(test, group, assets)];
+    } else if (assets.length) {
+      questionSections = questionSections.map((section, index) =>
+        index === 0
+          ? { ...section, paragraphs: [...assets, ...(section.paragraphs || [])] }
+          : section
+      );
+    }
+    const displayedPassage = passage && assets.length
+      ? {
+          ...passage,
+          paragraphs: (passage.paragraphs || []).filter(
+            (paragraph) => !assets.includes(String(paragraph || "").trim())
+          )
+        }
+      : passage;
     return `
       <section class="exam-shell cbt-shell text-size-${escapeHtml(examTextSize(session))}">
         ${renderExamTop(session, test.title)}
         ${renderPartHeader(session, "", `You should spend about 20 minutes on Questions ${group.start}-${group.end}, which are based on Reading Passage ${groupIndex + 1} below.`)}
         <div class="exam-body cbt-reading-body">
           <article class="passage-pane cbt-passage-pane">
-            ${renderStructuredSections(passage ? [passage] : [], test.passage)}
+            ${renderStructuredSections(displayedPassage ? [displayedPassage] : [], test.passage)}
           </article>
           <div class="split-handle" aria-hidden="true">↔</div>
           <aside class="question-pane cbt-question-pane">
@@ -1023,6 +1157,92 @@
         ${renderExamOverlays(session)}
       </section>
     `;
+  }
+
+  function normalizeQuestionSection(section, parentSection) {
+    const range = String(section.range || "").trim();
+    const title = section.title || (range ? `Questions ${range}` : "Questions");
+    const paragraphs = [];
+    const instructions = section.instructions || section.instruction || [];
+    paragraphs.push(...(Array.isArray(instructions) ? instructions : [instructions]).filter(Boolean));
+    if (section.heading) paragraphs.push(section.heading);
+    if (section.optionsTitle) paragraphs.push(section.optionsTitle);
+    paragraphs.push(...questionOptionsAsParagraphs(section.options));
+    if (section.image) {
+      paragraphs.push(`![${title} figure](${section.image})`);
+    }
+    for (const question of section.questions || []) {
+      const prompt = question.prompt || question.stem || question.text;
+      if (prompt) paragraphs.push(`${question.number} ${prompt}`);
+      paragraphs.push(...questionOptionsAsParagraphs(question.options));
+    }
+    return {
+      ...section,
+      kind: "questions",
+      title,
+      pages: section.pages || parentSection.pages || [],
+      paragraphs
+    };
+  }
+
+  function questionOptionsAsParagraphs(options) {
+    if (!options) return [];
+    if (Array.isArray(options)) {
+      return options.map((option, index) => {
+        if (typeof option === "string") return option;
+        return `${option.label || String.fromCharCode(65 + index)} ${option.text || option.value || ""}`.trim();
+      });
+    }
+    if (typeof options === "object") {
+      return Object.entries(options).map(([label, text]) => `${label} ${text}`);
+    }
+    return [];
+  }
+
+  function readingQuestionAssets(test, passage, group) {
+    const assets = [];
+    const passageImages = (passage?.paragraphs || [])
+      .map((paragraph) => String(paragraph || "").trim())
+      .filter((paragraph) => /^!\[[^\]]*]\([^)]+\)$/.test(paragraph));
+    for (const image of test.images || []) {
+      const numbers = Array.isArray(image.questions) ? image.questions.map(Number) : [];
+      if (numbers.some((number) => number >= group.start && number <= group.end) && image.path) {
+        if (passageImages.length) {
+          assets.push(...passageImages);
+        } else {
+          assets.push(`![${image.alt || `Questions ${group.start}-${group.end} figure`}](${image.path})`);
+        }
+      }
+    }
+    for (const paragraph of passage?.paragraphs || []) {
+      const text = String(paragraph || "").trim();
+      if (markdownTableRows(text)) assets.push(text);
+    }
+    return [...new Set(assets)];
+  }
+
+  function synthesizedQuestionSection(test, group, assets = []) {
+    const questions = (test.questions || []).filter(
+      (question) => Number(question.number) >= group.start && Number(question.number) <= group.end
+    );
+    const instructions = [];
+    for (const question of questions) {
+      const source = question.instructions || question.instruction || question.groupPrompt || [];
+      for (const item of Array.isArray(source) ? source : [source]) {
+        if (item && !instructions.includes(item)) instructions.push(item);
+      }
+    }
+    const paragraphs = [...instructions, ...assets];
+    for (const question of questions) {
+      paragraphs.push(`${question.number} ${question.prompt || question.stem || `Question ${question.number}`}`);
+      paragraphs.push(...questionOptionsAsParagraphs(question.optionDetails || question.options));
+    }
+    return {
+      kind: "questions",
+      title: `Questions ${group.start}-${group.end}`,
+      pages: [],
+      paragraphs
+    };
   }
 
   function readingPassageForGroup(sections, groupIndex, questionSections) {
@@ -1125,9 +1345,21 @@
     if (!text) return "";
     const image = text.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
     if (image) {
+      const imagePath = image[2];
+      const imageClass = imagePath.includes("page-020-reading-spinning-wheel-figure")
+        ? " is-compact-figure"
+        : imagePath.includes("page-025-reading-wheel-movement-diagrams")
+          ? " is-diagram-strip"
+          : imagePath.includes("page-076-reading-early-population-movement-map")
+            ? " is-route-map"
+            : imagePath.includes("c08-t1-p1-q09-13-anchor-escapement")
+              ? " is-tall-process-diagram"
+              : imagePath.includes("page-042-reading-pilkingtons-float-process-diagram")
+                ? " is-wide-process-diagram"
+                : "";
       return `
-        <figure class="ocr-image">
-          <img src="${escapeHtml(image[2])}" alt="${escapeHtml(image[1] || "Question image")}" loading="lazy" />
+        <figure class="ocr-image${imageClass}">
+          <img src="${escapeHtml(imagePath)}" alt="${escapeHtml(image[1] || "Question image")}" loading="lazy" />
         </figure>
       `;
     }
@@ -1835,6 +2067,13 @@
     if (action === "open-view") setView(target.dataset.viewTarget);
     if (action === "set-mode") setMode(target.dataset.mode);
     if (action === "start-session") startSession(target.dataset.mode);
+    if (action === "pause-session" && state.session) {
+      state.session.pausedAt = new Date().toISOString();
+      state.view = "dashboard";
+      saveState();
+      stopTimer();
+      render();
+    }
     if (action === "prev-question" && state.session) {
       state.session.currentIndex = Math.max(0, state.session.currentIndex - 1);
       saveState();
@@ -1965,6 +2204,19 @@
 
   navButtons.forEach((button) => {
     button.addEventListener("click", () => setView(button.dataset.view));
+  });
+
+  window.addEventListener("pagehide", () => {
+    if (state.session) saveState();
+  });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.hidden) {
+      if (state.session) saveState();
+      stopTimer();
+    } else if (state.session && state.view === "practice") {
+      startTimer();
+    }
   });
 
   render();

@@ -450,39 +450,45 @@ Water brought to the surface in a pipe
 
 ## Page 16
 
-Testi
+Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
-THE IMPORTANCE OF CHILDREN'S PLAY
-Brick by brick, six-year-old Alice is building a magical kingdom .Imagining fairy-tale turrets and
-fire-breathing dragons, wicked witches and gallant heroes, she's creating an enchanting world.
-Although she isn，t aware of it, this fantasy is helping her take her first steps towards her capacity for
+THE IMPORTANCE OF CHILDREN’S PLAY
+Brick by brick, six-year-old Alice is building a magical kingdom. Imagining fairy-tale turrets and
+fire-breathing dragons, wicked witches and gallant heroes, she’s creating an enchanting world.
+Although she isn’t aware of it, this fantasy is helping her take her first steps towards her capacity for
 creativity and so it will have important repercussions in her adult life.
+
 Minutes later, Alice has abandoned the kingdom in favour of playing schools with her younger
-brother. Wlien she bosses him around as his <teacher\ she's practising how to regulate her emotions
-through pretence. Later on, when they tire of this and settle down with a board game, she's learning
+brother. When she bosses him around as his ‘teacher’, she’s practising how to regulate her emotions
+through pretence. Later on, when they tire of this and settle down with a board game, she’s learning
 about the need to follow rules and take turns with a partner.
-"Play in all its rich variety is one of the highest achievements of the human species/ says
-Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. 4 It
+
+‘Play in all its rich variety is one of the highest achievements of the human species,’ says
+Dr David Whitebread from the Faculty of Education at the University of Cambridge, UK. ‘It
 underpins how we develop as intellectual, problem-solving adults and is crucial to our success as
-a highly adaptable species?
+a highly adaptable species.’
+
 Recognising the importance of play is not new: over two millennia ago, the Greek philosopher
 Plato extolled its virtues as a means of developing skills for adult life, and ideas about play-based
 learning have been developing since the 19th century.
+
 But we live in changing times, and Whitebread is mindful of a worldwide decline in play, pointing
-out that over half the people in the world now live in cities. "The opportunities for free play, which
-I experienced almost every day of my childhood, are becoming increasingly scarce/ he says.
-Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parents5 increased
-wish to protect their children from being the victims of crime, and by the emphasis on "earlier is
-better9 which is leading to greater competition in academic learning and schools.
+out that over half the people in the world now live in cities. ‘The opportunities for free play, which
+I experienced almost every day of my childhood, are becoming increasingly scarce,’ he says.
+Outdoor play is curtailed by perceptions of risk to do with traffic, as well as parents’ increased
+wish to protect their children from being the victims of crime, and by the emphasis on ‘earlier is
+better’ which is leading to greater competition in academic learning and schools.
+
 International bodies like the United Nations and the European Union have begun to develop
-policies concerned with children's right to play, and to consider implications for leisure facilities
+policies concerned with children’s right to play, and to consider implications for leisure facilities
 and educational programmes. But what they often lack is the evidence to base policies on.
-"The type of play we are interested in is child-initiated, spontaneous and unpredictable 一 but, as
-soon as you ask a five-year-old "to play'： then you as the researcher have intervened,9 explains
-Dr Sara Baker. 'And we want to know what the long-term impact of play is. It's a real challenge.5
+
+‘The type of play we are interested in is child-initiated, spontaneous and unpredictable – but, as
+soon as you ask a five-year-old “to play”, then you as the researcher have intervened,’ explains
+Dr Sara Baker. ‘And we want to know what the long-term impact of play is. It’s a real challenge.’
 16
 
 ## Page 17
@@ -490,94 +496,103 @@ Dr Sara Baker. 'And we want to know what the long-term impact of play is. It's a
 Reading
 Dr Jenny Gibson agrees, pointing out that although some of the steps in the puzzle of how and
 why play is important have been looked at, there is very little data on the impact it has on the
-child's later life.
-Now, thanks to the university?s new Centre for Research on Play in Education, Development and
+child’s later life.
+
+Now, thanks to the university’s new Centre for Research on Play in Education, Development and
 Learning (PEDAL), Whitebread, Baker, Gibson and a team of researchers hope to provide evidence
 on the role played by play in how a child develops.
-'A strong possibility is that play supports the early development of children's self-control/
-explains Bake匸 “This is our ability to develop awareness of our own thinking processes — it
-influences how effectively we go about undertaking challenging activities/
+
+‘A strong possibility is that play supports the early development of children’s self-control,’
+explains Baker. ‘This is our ability to develop awareness of our own thinking processes – it
+influences how effectively we go about undertaking challenging activities.’
+
 In a study carried out by Baker with toddlers and young pre-schoolers, she found that children with
 greater self-control solved problems more quickly when exploring an unfamiliar set-up requiring
-scientific reasoning・'This sort of evidence makes us think that giving children the chance to play will
-make them more successful problem-solvers in the long run?
+scientific reasoning. ‘This sort of evidence makes us think that giving children the chance to play will
+make them more successful problem-solvers in the long run.’
+
 If playful experiences do facilitate this aspect of development, say the researchers, it could be
 extremely significant for educational practices, because the ability to self-regulate has been
 shown to be a key predictor of academic performance.
-Gibson adds: "Playful behaviour is also an important indicator of healthy social and emotional
+
+Gibson adds: ‘Playful behaviour is also an important indicator of healthy social and emotional
 development. In my previous research, I investigated how observing children at play can
 give us important clues about their well-being and can even be useful in the diagnosis of
-neurodevelopmental disorders like autism.5
-Whitebreads recent research has involved developing a play-based approach to supporting
-children's writing. "Many primary school children find writing difficult, but we showed in a
-previous study that a playful stimulus was far more effective than an instructional one.5 Children
+neurodevelopmental disorders like autism.’
+
+Whitebread’s recent research has involved developing a play-based approach to supporting
+children’s writing. ‘Many primary school children find writing difficult, but we showed in a
+previous study that a playful stimulus was far more effective than an instructional one.’ Children
 wrote longer and better-structured stories when they first played with dolls representing
-characters in the story. In the latest study，children first created their story with Lego*, with
-similar results. 'Many teachers commented that they had always previously had children saying
-they didn't know what to write about. With the Lego building, however, not a single child said
-this through the whole year of the project.9
-Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s? when,
-as he describes, 'the teaching of young children was largely a quiet backwater, untroubled by any
-serious intellectual debate or controversy? Now, the landscape is very different, with hotly debated
+characters in the story. In the latest study, children first created their story with Lego*, with
+similar results. ‘Many teachers commented that they had always previously had children saying
+they didn’t know what to write about. With the Lego building, however, not a single child said
+this through the whole year of the project.’
+
+Whitebread, who directs PEDAL, trained as a primary school teacher in the early 1970s, when,
+as he describes, ‘the teaching of young children was largely a quiet backwater, untroubled by any
+serious intellectual debate or controversy.’ Now, the landscape is very different, with hotly debated
 topics such as school starting age.
-"Somehow the importance of play has been lost in recent decades .It's regarded as something
-trivial, or even as something negative that contrasts with "work". Lefs not lose sight of its
+
+‘Somehow the importance of play has been lost in recent decades. It’s regarded as something
+trivial, or even as something negative that contrasts with “work”. Let’s not lose sight of its
 benefits, and the fundamental contributions it makes to human achievements in the arts, sciences
-and technology. Let's make sure children have a rich diet of play experiences?
-Lego: coloured plastic building blocks and other pieces that can be joined together
+and technology. Let’s make sure children have a rich diet of play experiences.’
+
+* Lego: coloured plastic building blocks and other pieces that can be joined together
 17
 
 ## Page 18
 
-Testi
-Questions 1-8
+Test 1
+Questions 1–8
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 1-8 on your answer sheet.
-Children^ play
-Uses of children^ play
-6 building a 'magical kingdom, may help develop 1...............................
-® board games involve 2...............................and turn-taking
-Recent changes affecting children^ play
-® populations of 3................................have grown
-◎ opportunities for free play are limited due to
-一 fear of 4...............................
-一 fear of 5...............................
-一 in creased 6...............................in schools
-International policies on children^ play
-• it is difficult to find 7.................................to support new policies
-® research needs to study the impact of play on the rest of the child's
-8...............................
+Write your answers in boxes 1–8 on your answer sheet.
+Children’s play
+Uses of children’s play
+• building a ‘magical kingdom’ may help develop 1 ................................
+• board games involve 2 ................................ and turn-taking
+Recent changes affecting children’s play
+• populations of 3 ................................ have grown
+• opportunities for free play are limited due to
+  – fear of 4 ................................
+  – fear of 5 ................................
+  – increased 6 ................................ in schools
+International policies on children’s play
+• it is difficult to find 7 ................................ to support new policies
+• research needs to study the impact of play on the rest of the child’s
+  8 ................................
 18
 
 ## Page 19
 
 Reading
-Questions 9-13
+Questions 9–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 9-13 on your answer sheet, write
-TRUE if the statement agrees with the information
-FALSE if the statement contradicts the information
-NOT GIVEN if there is no information on this
-9 Children with good self-control are known to be likely to do well at school later on.
-10 The way a child plays may provide in formation about possible medical problems.
-11 Playing with dolls was found to ben efit girlsJ writing more tha n boys' writing.
+In boxes 9–13 on your answer sheet, write
+TRUE        if the statement agrees with the information
+FALSE       if the statement contradicts the information
+NOT GIVEN   if there is no information on this
+9  Children with good self-control are known to be likely to do well at school later on.
+10 The way a child plays may provide information about possible medical problems.
+11 Playing with dolls was found to benefit girls’ writing more than boys’ writing.
 12 Children had problems thinking up ideas when they first created the story
-with Lego.
-13 People nowadays regard children's play as less significant than they did in the past.
+   with Lego.
+13 People nowadays regard children’s play as less significant than they did in the past.
 19
 
 ## Page 20
 
-Testi
+Test 1
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 The growth of bike-sharing schemes around
 the world
 How Dutch engineer Luud Schimmelpennink helped to devise urban
 bike-sharing schemes
-A The original idea for an urban bike-sharing scheme dates back to a summer's day
+A  The original idea for an urban bike-sharing scheme dates back to a summer’s day
 in Amsterdam in 1965. Provo, the organisation that came up with the idea, was a
 group of Dutch activists who wanted to change society. They believed the scheme,
 which was known as the Witte Fietsenplan, was an answer to the perceived threats
@@ -585,139 +600,138 @@ of air pollution and consumerism. In the centre of Amsterdam, they painted a sma
 number of used bikes white. They also distributed leaflets describing the dangers of
 cars and inviting people to use the white bikes. The bikes were then left unlocked at
 various locations around the city, to be used by anyone in need of transport.
-B Luud Schimmelpe nnink, a Dutch in dustrial engin eer who still lives and cycles
+
+B  Luud Schimmelpennink, a Dutch industrial engineer who still lives and cycles
 in Amsterdam, was heavily involved in the original scheme. He recalls how the
-scheme succeeded in attracting a great deal of attention — particularly when it
-came to publicising Provo's aims 一 but struggled to get off the ground. The police
-were opposed to Provo5s initiatives and almost as soon as the white bikes were
+scheme succeeded in attracting a great deal of attention – particularly when it
+came to publicising Provo’s aims – but struggled to get off the ground. The police
+were opposed to Provo’s initiatives and almost as soon as the white bikes were
 distributed around the city, they removed them. However, for Schimmelpennink and
-for bike-sharing schemes in general, this was just the beginning. The first Witte
-Fietsenplan was just a symbolic thing, he says. 'We painted a few bikes white, that
+for bike-sharing schemes in general, this was just the beginning. ‘The first Witte
+Fietsenplan was just a symbolic thing,’ he says. ‘We painted a few bikes white, that
 was all. Things got more serious when I became a member of the Amsterdam city
-council two years later.5
-C Schimmelpennink seized this opportunity to present a more elaborate Witte
-Fietsenplan to the city council. 'My idea was that the municipality of Amsterdam
-would distribute 10,000 white bikes over the city, for every one to use/ he explai ns.
-1 made serious calculations. It turned out that a white bicycle 一 per person, per
-kilometre - would cost the municipality only 10% of what it contributed to public
-transport per person per kilometre.5 Nevertheless, the council unanimously rejected
-the plan.4They said that the bicycle belongs to the past. They saw a glorious future
-for the car/ says Schimmelpennink. But he was not in the least discouraged.
-D Schimmelpennink never stopped believing in bike-sharing and in the mid-90s,
+council two years later.’
+
+C  Schimmelpennink seized this opportunity to present a more elaborate Witte
+Fietsenplan to the city council. ‘My idea was that the municipality of Amsterdam
+would distribute 10,000 white bikes over the city, for everyone to use,’ he explains.
+‘I made serious calculations. It turned out that a white bicycle – per person, per
+kilometre – would cost the municipality only 10% of what it contributed to public
+transport per person per kilometre.’ Nevertheless, the council unanimously rejected
+the plan. ‘They said that the bicycle belongs to the past. They saw a glorious future
+for the car,’ says Schimmelpennink. But he was not in the least discouraged.
+
+D  Schimmelpennink never stopped believing in bike-sharing, and in the mid-90s,
 two Danes asked for his help to set up a system in Copenhagen. The result was
-the world's first large-scale bike-share programme. It worked on a deposit: {You
-dropped a coin in the bike and when you returned it, you got your money back/
+the world’s first large-scale bike-share programme. It worked on a deposit: ‘You
+dropped a coin in the bike and when you returned it, you got your money back.’
 After setting up the Danish system, Schimmelpennink decided to try his luck again
 20
 
 ## Page 21
 
 Reading
-in the Netherlands 一 and this time he succeeded in arousing the interest of the
-Dutch Ministry of Transport. Times had changed/ he recalls. People had become
+in the Netherlands – and this time he succeeded in arousing the interest of the
+Dutch Ministry of Transport. ‘Times had changed,’ he recalls. ‘People had become
 more environmentally conscious, and the Danish experiment had proved that
-bike-sharing was a real possibility.5 Anew Witte Fietsenplan was launched in 1999
+bike-sharing was a real possibility.’ A new Witte Fietsenplan was launched in 1999
 in Amsterdam. However, riding a white bike was no longer free; it cost one guilder
 per trip and payment was made with a chip card developed by the Dutch bank
 Postbank. Schimmelpennink designed conspicuous, sturdy white bikes locked
-in special racks which could be opened with the chip card 一 the plan started with
+in special racks which could be opened with the chip card – the plan started with
 250 bikes, distributed over five stations.
-Theo Molenaar, who was a system designer for the project, worked alongside
-Schimmelpennink. 1 remember when we were testing the bike racks, he announced
+
+E  Theo Molenaar, who was a system designer for the project, worked alongside
+Schimmelpennink. ‘I remember when we were testing the bike racks, he announced
 that he had already designed better ones. But of course, we had to go through with
-the ones we had/ The system, however, was prone to vandalism and theft. 'After
-every weekend there would always be a couple of bikes missing,5 Molenaar says.
-1 really have no idea what people did with them, because they could instantly be
-recognised as white bikes.5 But the biggest blow came when Postbank decided to
-abolish the chip card, because it wasn't profitable. That chip card was pivotal to the
-system/ Molenaar says. 'To continue the project we would have needed to set up
-another system, but the business partner had lost interest.5
-Schimmelpennink was disappointed, but 一 characteristically 一 not for long. In 2002
+the ones we had.’ The system, however, was prone to vandalism and theft. ‘After
+every weekend there would always be a couple of bikes missing,’ Molenaar says.
+‘I really have no idea what people did with them, because they could instantly be
+recognised as white bikes.’ But the biggest blow came when Postbank decided to
+abolish the chip card, because it wasn’t profitable. ‘That chip card was pivotal to the
+system,’ Molenaar says. ‘To continue the project we would have needed to set up
+another system, but the business partner had lost interest.’
+
+F  Schimmelpennink was disappointed, but – characteristically – not for long. In 2002
 he got a call from the French advertising corporation JC Decaux, who wanted to set
-up his bike-sharing scheme in Vienna. That went really well. After Vienna, they set
+up his bike-sharing scheme in Vienna. ‘That went really well. After Vienna, they set
 up a system in Lyon. Then in 2007, Paris followed. That was a decisive moment in
-the history of bike-sharing「The huge and unexpected success of the Parisian
-bike-sharing programme, which now boasts more tha n 20,000 bicycles, in spired cities
-all over the world to set up their own schemes, all modelled on Schimmelpennink's.
-'It's wonderful that this happened/ he says. But financially I didn't really benefit from
-it, because I n ever filed for a pate nt.'
-In Amsterdam today, 38% of all trips are made by bike and, along with
+the history of bike-sharing.’ The huge and unexpected success of the Parisian
+bike-sharing programme, which now boasts more than 20,000 bicycles, inspired cities
+all over the world to set up their own schemes, all modelled on Schimmelpennink’s.
+‘It’s wonderful that this happened,’ he says. ‘But financially I didn’t really benefit from
+it, because I never filed for a patent.’
+
+G  In Amsterdam today, 38% of all trips are made by bike and, along with
 Copenhagen, it is regarded as one of the two most cycle-friendly capitals in the
-world 一 but the city never got another Witte Fietsenplan. Molenaar believes this
+world – but the city never got another Witte Fietsenplan. Molenaar believes this
 may be because everybody in Amsterdam already has a bike. Schimmelpennink,
-however, can not see that this cha nges Amsterdam's need for a bike-shari ng
-scheme. People who travel on the underground don't carry their bikes around.
-But often they need additional transport to reach their final destination/Although
+however, cannot see that this changes Amsterdam’s need for a bike-sharing
+scheme. ‘People who travel on the underground don’t carry their bikes around.
+But often they need additional transport to reach their final destination.’ Although
 he thinks it is strange that a city like Amsterdam does not have a successful bike-
-shari ng scheme, he is optimistic about the future. In the '60s we didn't stand a
-chanee because people were prepared to give their lives to keep cars in the city.
+sharing scheme, he is optimistic about the future. ‘In the ’60s we didn’t stand a
+chance because people were prepared to give their lives to keep cars in the city.
 But that mentality has totally changed. Today everybody longs for cities that are not
-dominated by cars/
+dominated by cars.’
 21
 
 ## Page 22
 
-Testi
-Questions 14-18
-Reading Passage 2 has seven paragraphs, A-G.
+Test 1
+Questions 14–18
+Reading Passage 2 has seven paragraphs, A–G.
 Which paragraph contains the following information?
-Write the correct letter, A-G, in boxes 14-18 on your answer sheet.
-NB You may use any letter more than once.
+Write the correct letter, A–G, in boxes 14–18 on your answer sheet.
+NB  You may use any letter more than once.
 14 a description of how people misused a bike-sharing scheme
 15 an explanation of why a proposed bike-sharing scheme was turned down
 16 a reference to a person being unable to profit from their work
 17 an explanation of the potential savings a bike-sharing scheme would bring
 18 a reference to the problems a bike-sharing scheme was intended to solve
+
 Questions 19 and 20
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 19 and 20 on your answer sheet.
 Which TWO of the following statements are made in the text about the Amsterdam
 bike-sharing scheme of 1999?
-A
-It was initially opposed by a government department.
-B
-It failed when a partner in the scheme withdrew support.
-C
-It aimed to be more successful than the Copenhagen scheme.
-D
-It was made possible by a change in people's attitudes.
-E
-It attracted interest from a range of bike designers.
+A  It was initially opposed by a government department.
+B  It failed when a partner in the scheme withdrew support.
+C  It aimed to be more successful than the Copenhagen scheme.
+D  It was made possible by a change in people’s attitudes.
+E  It attracted interest from a range of bike designers.
 22
 
 ## Page 23
 
 Reading
 Questions 21 and 22
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 21 and 22 on your answer sheet.
 Which TWO of the following statements are made in the text about Amsterdam today?
-A
-The majority of residents would like to prevent all cars from entering the city.
-呂 There is little likelihood of the city having another bike-sharing scheme.
-C
-More trips in the city are made by bike than by any other form of transport.
-D
-A bike-shari ng scheme would ben efit reside nts who use public tran sport.
-E
-The city has a reputation as a place that welcomes cyclists.
+A  The majority of residents would like to prevent all cars from entering the city.
+B  There is little likelihood of the city having another bike-sharing scheme.
+C  More trips in the city are made by bike than by any other form of transport.
+D  A bike-sharing scheme would benefit residents who use public transport.
+E  The city has a reputation as a place that welcomes cyclists.
 23
 
 ## Page 24
 
-Testi
-Questions 23-26
+Test 1
+Questions 23–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
+Write your answers in boxes 23–26 on your answer sheet.
 The first urban bike-sharing scheme
 The first bike-sharing scheme was the idea of the Dutch group Provo. The people who
-belonged to this group were 23..................................They were concerned about damage
-to the environment and about 24..............................., and believed that the bike-sharing
+belonged to this group were 23 ................................ . They were concerned about damage
+to the environment and about 24 ................................ , and believed that the bike-sharing
 scheme would draw attention to these issues. As well as painting some bikes white, they
-handed out 25...............................that condemned the use of cars.
+handed out 25 ................................ that condemned the use of cars.
+
 However, the scheme was not a great success: almost as quickly as Provo left
-the bikes around the city, the 26...............................took them away. According to
+the bikes around the city, the 26 ................................ took them away. According to
 Schimmelpennink, the scheme was intended to be symbolic. The idea was to get people
 thinking about the issues.
 24
@@ -726,93 +740,38 @@ thinking about the issues.
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 Motivational factors and the hospitality industry
-A critical ingredient in the success of hotels is developing and maintaining superior performance
-from their employees. How is that accomplished? What Human Resource Management (HRM)
-practices should organizations invest in to acquire and retain great employees?
-Some hotels aim to provide superior working conditions for their employees. The idea originated
-from workplaces 一 usually in the non-service sector 一 that emphasized fon and enjoyment as
-part of work-life balance. By contrast, the service sector, and more specifically hotels, has
-traditionally not extended these practices to address basic employee needs, such as good
-working conditions.
-Pfeffer (1994) emphasizes that in order to succeed in a global business environment,
-organizations must make investment in Human Resource Management (HRM) to allow them
-to acquire employees who possess better skills and capabilities than their competitors. This
-investment will be to their competitive advantage. Despite this recognition of the importance
-of employee development, the hospitality industry has historically been dominated by
-underdeveloped HR practices (Lucas, 2002).
-Lucas also points out that 'the substance of HRM practices does not appear to be designed to
-foster constructive relations with employees or to represent a managerial approach that enables
-developing and drawing out the full potential of people, even though employees may be broadly
-satisfied with many aspects of their work5 (Lucas, 2002). In addition, or maybe as a result, high
-employee turnover has been a recurring problem throughout the hospitality industry. Among
-the many cited reasons are low compensation, inadequate benefits, poor working conditions and
-compromised employee morale and attitudes (Maroudas et al., 2008).
-Ng and Sorensen (2008) demonstrated that when managers provide recognition to employees,
-motivate employees to work together, and remove obstacles preventing effective performance,
-employees feel more obligated to stay with the company. This was succinctly summarized by
-Michel et al. (2013): “[Providing support to employees gives them the confidence to perform
-their jobs better and the motivation to stay with the organization? Hospitality organizations can
-therefore enhance employee motivation and retention through the development and improvement
-of their working conditions. These conditions are inherently linked to the working environment・
-While it seems likely that employees' reactions to their job characteristics could be affected
-by a predisposition to view their work environment negatively, no evidence exists to support
-this hypothesis (Spector et al., 2000). However, given the opportunity, many people will find
+A critical ingredient in the success of hotels is developing and maintaining superior performance from their employees. How is that accomplished? What Human Resource Management (HRM) practices should organizations invest in to acquire and retain great employees?
+Some hotels aim to provide superior working conditions for their employees. The idea originated from workplaces – usually in the non-service sector – that emphasized fun and enjoyment as part of work–life balance. By contrast, the service sector, and more specifically hotels, has traditionally not extended these practices to address basic employee needs, such as good working conditions.
+Pfeffer (1994) emphasizes that in order to succeed in a global business environment, organizations must make investment in Human Resource Management (HRM) to allow them to acquire employees who possess better skills and capabilities than their competitors. This investment will be to their competitive advantage. Despite this recognition of the importance of employee development, the hospitality industry has historically been dominated by underdeveloped HR practices (Lucas, 2002).
+Lucas also points out that ‘the substance of HRM practices does not appear to be designed to foster constructive relations with employees or to represent a managerial approach that enables developing and drawing out the full potential of people, even though employees may be broadly satisfied with many aspects of their work’ (Lucas, 2002). In addition, or maybe as a result, high employee turnover has been a recurring problem throughout the hospitality industry. Among the many cited reasons are low compensation, inadequate benefits, poor working conditions and compromised employee morale and attitudes (Maroudas et al., 2008).
+Ng and Sorensen (2008) demonstrated that when managers provide recognition to employees, motivate employees to work together, and remove obstacles preventing effective performance, employees feel more obligated to stay with the company. This was succinctly summarized by Michel et al. (2013): ‘[P]roviding support to employees gives them the confidence to perform their jobs better and the motivation to stay with the organization.’ Hospitality organizations can therefore enhance employee motivation and retention through the development and improvement of their working conditions. These conditions are inherently linked to the working environment.
+While it seems likely that employees’ reactions to their job characteristics could be affected by a predisposition to view their work environment negatively, no evidence exists to support this hypothesis (Spector et al., 2000). However, given the opportunity, many people will find
 25
 
 ## Page 26
 
-Testi
-something to complain about in relation to their workplace (Poulston, 2009). There is a strong
-link between the perceptions of employees and particular factors of their work environment that
-are separate from the work itself, including company policies, salary and vacations.
-Such conditions are particularly troubling for the luxury hotel market, where high-quality service,
-requiring a sophisticated approach to HRM, is recognized as a critical source of competitive
-advantage (Maroudas et al., 2008)・ In a real sense, the services of hotel employees represent
-their industry (Schneider and Bowen, 1993). This representation has commonly been limited to
-guest experiences. This suggests that there has been a dichotomy between the guest environment
-provided in luxury hotels and the working conditions of their employees・
-It is therefore essential for hotel management to develop HRM practices that enable them to
-inspire and retain competent employees. This requires an understanding of what motivates
-employees at different levels of management and different stages of their careers (Enz and Siguaw,
-2000). This implies that it is beneficial for hotel managers to understand what practices are most
-favorable to increase employee satisfaction and retention.
-Herzberg (1966) proposes that people have two major types of needs, the first being extrinsic
-motivation factors relating to the context in which work is performed, rather than the work
-itself. These include working conditions and job security. When these factors are unfavorable,
-job dissatisfaction may result. Significantly, though, just fulfilling these needs does not result in
-satisfaction, but only in the reduction of dissatisfaction (Maroudas et al.? 2008).
-Employees also have intrinsic motivation needs or motivators, which include such factors as
-achievement and recognition. Unlike extrinsic factors, motivator factors may ideally result in job
-satisfaction (Maroudas et at, 2008). Herzberg^ (1966) theory discusses the need for a "balance5
-of these two types of needs.
-The impact of fun as a motivating factor at work has also been explored. For example, Tews,
-Michel and Stafford (2013) conducted a study focusing on staff from a chain of themed restaurants
-in the United States. It was found that fun activities had a favorable impact on performance and
-manager support for fun had a favorable impact in reducing turnover. Their findings support the
-view that fun may indeed have a beneficial effect, but the framing of that fun must be carefully
-aligned with both organizational goals and employee characteristics. "Managers must learn how to
-achieve the delicate balance of allowing employees the freedom to enjoy themselves at work while
-simultaneously maintaining high levels of perfbrmance, (Tews et al., 2013),
-Deery (2008) has recommended several actions that can be adopted at the organizational level to
-retain good staff as well as assist in balancing work and family liffe. Those particularly appropriate
-to the hospitality industry include allowing adequate breaks during the working day, staff
-fanctions that involve families, and providing health and well-being opportunities.
+Test 1
+something to complain about in relation to their workplace (Poulston, 2009). There is a strong link between the perceptions of employees and particular factors of their work environment that are separate from the work itself, including company policies, salary and vacations.
+Such conditions are particularly troubling for the luxury hotel market, where high-quality service, requiring a sophisticated approach to HRM, is recognized as a critical source of competitive advantage (Maroudas et al., 2008). In a real sense, the services of hotel employees represent their industry (Schneider and Bowen, 1993). This representation has commonly been limited to guest experiences. This suggests that there has been a dichotomy between the guest environment provided in luxury hotels and the working conditions of their employees.
+It is therefore essential for hotel management to develop HRM practices that enable them to inspire and retain competent employees. This requires an understanding of what motivates employees at different levels of management and different stages of their careers (Enz and Siguaw, 2000). This implies that it is beneficial for hotel managers to understand what practices are most favorable to increase employee satisfaction and retention.
+Herzberg (1966) proposes that people have two major types of needs, the first being extrinsic motivation factors relating to the context in which work is performed, rather than the work itself. These include working conditions and job security. When these factors are unfavorable, job dissatisfaction may result. Significantly, though, just fulfilling these needs does not result in satisfaction, but only in the reduction of dissatisfaction (Maroudas et al., 2008).
+Employees also have intrinsic motivation needs or motivators, which include such factors as achievement and recognition. Unlike extrinsic factors, motivator factors may ideally result in job satisfaction (Maroudas et al., 2008). Herzberg’s (1966) theory discusses the need for a ‘balance’ of these two types of needs.
+The impact of fun as a motivating factor at work has also been explored. For example, Tews, Michel and Stafford (2013) conducted a study focusing on staff from a chain of themed restaurants in the United States. It was found that fun activities had a favorable impact on performance and manager support for fun had a favorable impact in reducing turnover. Their findings support the view that fun may indeed have a beneficial effect, but the framing of that fun must be carefully aligned with both organizational goals and employee characteristics. ‘Managers must learn how to achieve the delicate balance of allowing employees the freedom to enjoy themselves at work while simultaneously maintaining high levels of performance’ (Tews et al., 2013).
+Deery (2008) has recommended several actions that can be adopted at the organizational level to retain good staff as well as assist in balancing work and family life. Those particularly appropriate to the hospitality industry include allowing adequate breaks during the working day, staff functions that involve families, and providing health and well-being opportunities.
 26
 
 ## Page 27
 
 Reading
-Questions 27-31
-Look at the following statements (Questions 27-31) and the list of researchers below.
-Match each statement with the correct researcher, A-F.
-Write the correct letter, A-F, in boxes 27-31 on your answer sheet.
-NB You may use any letter more than once・
+Questions 27–31
+Look at the following statements (Questions 27–31) and the list of researchers below.
+Match each statement with the correct researcher, A–F.
+Write the correct letter, A–F, in boxes 27–31 on your answer sheet.
+NB You may use any letter more than once.
 27 Hotel managers need to know what would encourage good staff to remain.
-28 The actions of managers may make staff feel they shouldn't move to a different
-employer.
+28 The actions of managers may make staff feel they shouldn’t move to a different employer.
 29 Little is done in the hospitality industry to help workers improve their skills.
 30 Staff are less likely to change jobs if cooperation is encouraged.
 31 Dissatisfaction with pay is not the only reason why hospitality workers change jobs.
@@ -820,35 +779,34 @@ List of Researchers
 A Pfeffer
 B Lucas
 C Maroudas et al.
-IO Ng and Sorensen
+D Ng and Sorensen
 E Enz and Siguaw
 F Deery
 27
 
 ## Page 28
 
-Testi
-Questions 32-35
+Test 1
+Questions 32–35
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 32-35 on your answer sheet, write
+In boxes 32–35 on your answer sheet, write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
 32 One reason for high staff turnover in the hospitality industry is poor morale.
 33 Research has shown that staff have a tendency to dislike their workplace.
-34 An improvement in working conditions and job security makes staff satisfied with
-their jobs.
+34 An improvement in working conditions and job security makes staff satisfied with their jobs.
 35 Staff should be allowed to choose when they take breaks during the working day.
-Questions 36-40
+Questions 36–40
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 36-40 on your answer sheet.
+Write your answers in boxes 36–40 on your answer sheet.
 Fun at work
-lews, Michel and Stafford carried out research on staff in an American chain of
-36 ..................................They discovered that activities designed for staff to have fun
-improved their 37................................, and that management involvement led to lower
-staff 38.................................They also found that the activities needed to fit with both the
-company's 39................................and the 40...............................of the staff. A balanee was
+Tews, Michel and Stafford carried out research on staff in an American chain of
+36 __________. They discovered that activities designed for staff to have fun
+improved their 37 __________, and that management involvement led to lower
+staff 38 __________. They also found that the activities needed to fit with both the
+company’s 39 __________ and the 40 __________ of the staff. A balance was
 required between a degree of freedom and maintaining work standards.
 28
 
@@ -1116,9 +1074,9 @@ place by 40...........................
 Test 2
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
-Alexander Henderson (1831-1913)
+Alexander Henderson (1831–1913)
 Born in Scotland, Henderson emigrated to Canada in 1855 and became a
 well-known landscape photographer
 Alexander Henderson was born in Scotland in 1831 and was the son of a successful merchant.
@@ -1134,21 +1092,21 @@ accountant. Although he never liked the prospect of a business career, he stayed
 please his family. In October 1855, however, he emigrated to Canada with his wife Agnes Elder
 Robertson and they settled in Montreal.
 Henderson learned photography in Montreal around the year 1857 and quickly took it up
-as a serious amateu匸 He became a personal friend and colleague of the Scottish-Canadian
+as a serious amateur. He became a personal friend and colleague of the Scottish–Canadian
 photographer William Notman. The two men made a photographic excursion to Niagara Falls in
 1860 and they cooperated on experiments with magnesium flares as a source of artificial light
 in 1865. They belonged to the same societies and were among the founding members of the Art
-Association of Montreal. Henderson acted as chairman of the association's first meeting, which
-was held in Notmanstudio on 11 January 1860.
-In spite of their friendship, their styles of photography were quite different・ While Notman's
+Association of Montreal. Henderson acted as chairman of the association’s first meeting, which
+was held in Notman’s studio on 11 January 1860.
+In spite of their friendship, their styles of photography were quite different. While Notman’s
 landscapes were noted for their bold realism, Henderson for the first 20 years of his career
 produced romantic images, showing the strong influence of the British landscape tradition. His
 artistic and technical progress was rapid and in 1865 he published his first major collection of
 landscape photographs. The publication had limited circulation (only seven copies have ever been
-found), and was called Canadian Views and Studies、The contents of each copy vary significantly
-and have proved a useful source for evaluating Henderson^ early work.
-This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography \fo\urne XIV (1911-1920). For design purposes,
-quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexande「_J831_J9彳3_14E,html. Reproduced
+found), and was called Canadian Views and Studies. The contents of each copy vary significantly
+and have proved a useful source for evaluating Henderson’s early work.
+This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911–1920). For design purposes,
+quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced
 with permission.
 38
 
@@ -1174,174 +1132,191 @@ for landscapes using the Lambertype process. In 1878 his work won second prize a
 exhibition in Paris.
 In the 1870s and 1880s Henderson travelled widely throughout Quebec and Ontario, in Canada,
 documenting the major cities of the two provinces and many of the villages in Quebec. He was
-especially fond of the wilderness and often travelled by canoe on the Blanche, du Lievre, and
+especially fond of the wilderness and often travelled by canoe on the Blanche, du Lièvre, and
 other noted eastern rivers. He went on several occasions to the Maritimes and in 1872 he sailed
 by yacht along the lower north shore of the St Lawrence River. That same year, while in the lower
 St Lawrence River region, he took some photographs of the construction of the Intercolonial
 Railway. This undertaking led in 1875 to a commission from the railway to record the principal
 structures along the almost-completed line connecting Montreal to Halifax. Commissions from
 other railways followed. In 1876 he photographed bridges on the Quebec, Montreal, Ottawa and
-Occidental Railway between Montreal and Ottawa・ In 1885 he went west along the Canadian
+Occidental Railway between Montreal and Ottawa. In 1885 he went west along the Canadian
 Pacific Railway (CPR) as far as Rogers Pass in British Columbia, where he took photographs of
 the mountains and the progress of construction.
 In 1892 Henderson accepted a full-time position with the CPR as manager of a photographic
-department which he was to set up and administe匚 His duties included spending four months
+department which he was to set up and administer. His duties included spending four months
 in the field each year. That summer he made his second trip west, photographing extensively
 along the railway line as far as Victoria. He continued in this post until 1897, when he retired
 completely from photography.
 When Henderson died in 1913, his huge collection of glass negatives was stored in the basement
 of his house. Today collections of his work are held at the National Archives of Canada, Ottawa,
 and the McCord Museum of Canadian History, Montreal.
-即
-This text is taken, for the most part, verbatim from the Dictionary of Canadian Biogr hy Volume XIV (1911-1920). For design purposes,
+This text is taken, for the most part, verbatim from the Dictionary of Canadian Biography Volume XIV (1911–1920). For design purposes,
 quotation marks have been omitted. Source: http://www.biographi.ca/en/bio/henderson_alexander_1831_1913_14E.html. Reproduced
-with permissi on.
+with permission.
 39
 
 ## Page 40
 
 Test 2
-Questions 1-8
+Questions 1–8
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-8 on your answer sheet, write
+In boxes 1–8 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
 1 Henderson rarely visited the area around Press estate when he was younger.
-2 Hen ders on pursued a busi ness career because it was what his family wan ted.
-3 Henderson and Notman were surprised by the results of their 1865 experiment
-4 There were many similarities between Henderson's early Iandscapes and those
-of Notma n.
+2 Henderson pursued a business career because it was what his family wanted.
+3 Henderson and Notman were surprised by the results of their 1865 experiment.
+4 There were many similarities between Henderson’s early landscapes and those
+of Notman.
 5 The studio that Henderson opened in 1866 was close to his home.
 6 Henderson gave up portraiture so that he could focus on taking photographs of
-see nery.
+scenery.
 7 When Henderson began work for the Intercolonial Railway, the Montreal to Halifax
 line had been finished.
-8 Henderson's last work as a photographer was with the Canadian Pacific Railway.
+8 Henderson’s last work as a photographer was with the Canadian Pacific Railway.
 40
 
 ## Page 41
 
 Reading
-Questions 9-13
+Questions 9–13
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 9-13 on your answer sheet.
-Alexander Hende『son
-◎ was born in Scotia nd in 1831 - father was a 9...............................
-® trained as an accountant, emigrated to Canada in 1855
-Start ©f a photographic career
-® opened up a photographic studio in 1866
-® took photos of city life, but preferred Iandscape photography
-® people bought Henderson's photos because photography took up
-considerable time and the 10................................was heavy
-the photographs Henderson sold were 11................................or souvenirs
-Travellmg as a professional photographer
-® travelled widely in Quebec and Ontario in 1870s and 1880s
-® took many trips along eastern rivers in a 12...............................
-® worked for Canadian railways between 1875 and 1897
-® worked for CPR in 1885 and photographed the 13...............................
+Write your answers in boxes 9–13 on your answer sheet.
+Alexander Henderson
+Early life
+• was born in Scotland in 1831 – father was a 9 ................................
+• trained as an accountant, emigrated to Canada in 1855
+Start of a photographic career
+• opened up a photographic studio in 1866
+• took photos of city life, but preferred landscape photography
+• people bought Henderson’s photos because photography took up
+considerable time and the 10 ................................ was heavy
+• the photographs Henderson sold were 11 ................................ or souvenirs
+Travelling as a professional photographer
+• travelled widely in Quebec and Ontario in 1870s and 1880s
+• took many trips along eastern rivers in a 12 ................................
+• worked for Canadian railways between 1875 and 1897
+• worked for CPR in 1885 and photographed the 13 ................................
 and the railway at Rogers Pass
 41
 
 ## Page 42
 
 Test 2
-READING PASSAGE
-2
-You should spend about 20 minutes on Questions 件26, which are based on Reading
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 Back to the future of skyscraper design
 Answers to the problem of excessive electricity use by skyscrapers
 and large public buildings can be found in ingenious but forgotten
 architectural designs of the 19th and early-20th centuries
-A The Recovery of Natural Environments in Architecture by Professor Alan Short is
+A  The Recovery of Natural Environments in Architecture by Professor Alan Short is
 the culmination of 30 years of research and award-winning green building design
 by Short and colleagues in Architecture, Engineering, Applied Maths and Earth
 Sciences at the University of Cambridge.
-The crisis in building design is already here,' said Short. Policy makers think
-you can solve energy and building problems with gadgets. You can't. As global
+
+‘The crisis in building design is already here,’ said Short. ‘Policy makers think
+you can solve energy and building problems with gadgets. You can’t. As global
 temperatures continue to rise, we are going to continue to squander more and more
-energy on keeping our buildings mechanically cool until we have run out of capacity.5
-B Short is calling for a sweeping reinvention of how skyscrapers and major public
-buildings are designed - to end the reliance on sealed buildings which exist solely
-via the life supporf system of vast air conditioning units.
-In stead, he shows it is en tirely possible to accommodate n atural ventilatio n
+energy on keeping our buildings mechanically cool until we have run out of capacity.’
+
+B  Short is calling for a sweeping reinvention of how skyscrapers and major public
+buildings are designed – to end the reliance on sealed buildings which exist solely
+via the ‘life support’ system of vast air conditioning units.
+
+Instead, he shows it is entirely possible to accommodate natural ventilation
 and cooling in large buildings by looking into the past, before the widespread
-introduction of air conditioning systems, which were Telentlessly and aggressively
-marketed5 by their inventors.
-C Short points out that to make most contemporary buildings habitable, they have
-to be sealed and air condition ed. The en ergy use and carb on emissi ons this
-gen erates is spectacular and largely unn ecessary. Buildings in the West account for
-40-50% of electricity usage, gen erati ng substa ntial carb on emissi ons, and the rest
-of the world is catchi ng up at a frighteni ng rate. Short regards glass, steel and
+introduction of air conditioning systems, which were ‘relentlessly and aggressively
+marketed’ by their inventors.
+
+C  Short points out that to make most contemporary buildings habitable, they have
+to be sealed and air conditioned. The energy use and carbon emissions this
+generates is spectacular and largely unnecessary. Buildings in the West account for
+40–50% of electricity usage, generating substantial carbon emissions, and the rest
+of the world is catching up at a frightening rate. Short regards glass, steel and
 air-conditioned skyscrapers as symbols of status, rather than practical ways of
 meeting our requirements.
-D Shorfs book highlights a developing and sophisticated art and scienee of ventilating
+
+D  Short’s book highlights a developing and sophisticated art and science of ventilating
 buildings through the 19th and earlier-20th centuries, including the design of
 ingeniously ventilated hospitals. Of particular interest were those built to the
-desig ns of John Shaw Billin gs, includi ng the first Johns Hopkins Hospital in the US
-city of Baltimore (1873-1889).
-'We spe nt three years digitally modelli ng Billings' final desig ns,' says Short. £We
-put pathoge ns* in the airstreams, modelled for some one with tuberculosis (TB)
+designs of John Shaw Billings, including the first Johns Hopkins Hospital in the US
+city of Baltimore (1873–1889).
+
+‘We spent three years digitally modelling Billings’ final designs,’ says Short. ‘We
+put pathogens* in the airstreams, modelled for someone with tuberculosis (TB)
 coughing in the wards and we found the ventilation systems in the room would
 have kept other patients safe from harm.
-pathogens: microorganisms that can cause disease
+
+* pathogens: microorganisms that can cause disease
 42
 
 ## Page 43
 
 Reading
-£We discovered that 19th-century hospital wards could generate up to 24 air changes
-an hour 一 thafs similar to the performa nee of a moder n・day, computer-c on trolled
+E  ‘We discovered that 19th-century hospital wards could generate up to 24 air changes
+an hour – that’s similar to the performance of a modern-day, computer-controlled
 operating theatre. We believe you could build wards based on these principles now.
+
 Single rooms are not appropriate for all patients. Communal wards appropriate for
-certain patients 一 older people with dementia, for example 一 would work just as well
-in today's hospitals, at a fraction of the energy cost/
+certain patients – older people with dementia, for example – would work just as well
+in today’s hospitals, at a fraction of the energy cost.’
+
 Professor Short contends the mindset and skill-sets behind these designs have
-been completely lost, lamenting the disappearanee of expertly designed theatres,
+been completely lost, lamenting the disappearance of expertly designed theatres,
 opera houses, and other buildings where up to half the volume of the building was
-give n over to ensuri ng every one got fresh air.
-Much of the in genuity prese nt in 19th-ce ntury hospital a nd building design was
+given over to ensuring everyone got fresh air.
+
+F  Much of the ingenuity present in 19th-century hospital and building design was
 driven by a panicked public clamouring for buildings that could protect against
-what was thought to be the lethal threat of miasmas - toxic air that spread disease.
+what was thought to be the lethal threat of miasmas – toxic air that spread disease.
 Miasmas were feared as the principal agents of disease and epidemics for
 centuries, and were used to explain the spread of infection from the Middle Ages
 right through to the cholera outbreaks in London and Paris during the 1850s. Foul
-air, rather than germs, was believed to be the main driver of 'hospital fever5, leading
+air, rather than germs, was believed to be the main driver of ‘hospital fever’, leading
 to disease and frequent death. The prosperous steered clear of hospitals.
+
 While miasma theory has been long since disproved, Short has for the last 30 years
 advocated a return to some of the building design principles produced in its wake.
-Today, huge amounts of a building's space and construction cost are given over to
-air conditioning. But I have designed and built a series of buildings over the past
+
+G  Today, huge amounts of a building’s space and construction cost are given over to
+air conditioning. ‘But I have designed and built a series of buildings over the past
 three decades which have tried to reinvent some of these ideas and then measure
 what happens.
-'To go forward into our new low-energy, low-carb on future, we would be well
-advised to look back at design before our high-e nergy, high-carb on prese nt
-appeared. What is surprising is what a rich legacy we have abandoned.'
-Successful examples of Shorfs approach include the Queen's Building at De
+
+‘To go forward into our new low-energy, low-carbon future, we would be well
+advised to look back at design before our high-energy, high-carbon present
+appeared. What is surprising is what a rich legacy we have abandoned.’
+
+H  Successful examples of Short’s approach include the Queen’s Building at De
 Montfort University in Leicester. Containing as many as 2,000 staff and students,
 the entire building is naturally ventilated, passively cooled and naturally lit, including
 the two largest auditoria, each seating more than 150 people. The award-winning
 building uses a fraction of the electricity of comparable buildings in the UK.
+
 Short contends that glass skyscrapers in London and around the world will become
 a liability over the next 20 or 30 years if climate modelling predictions and energy
 price rises come to pass as expected.
-He is convinced that sufficiently cooled skyscrapers using the natural environment
+
+I  He is convinced that sufficiently cooled skyscrapers using the natural environment
 can be produced in almost any climate. He and his team have worked on hybrid
-buildings in the harsh climates of Beijing and Chicago 一 built with natural ventilation
-assisted by back-up air conditioning - which, surprisingly perhaps, can be switched
+buildings in the harsh climates of Beijing and Chicago – built with natural ventilation
+assisted by back-up air conditioning – which, surprisingly perhaps, can be switched
 off more than half the time on milder days and during the spring and autumn.
+
 Short looks at how we might reimagine the cities, offices and homes of the future.
-Maybe ifs time we changed our outlook, 43
+Maybe it’s time we changed our outlook.
+43
 
 ## Page 44
 
 Test 2
-Questions 14-18
-Reading Passage 2 has nine sections, A-!.
+Questions 14–18
+Reading Passage 2 has nine sections, A–I.
 Which section contains the following information?
-Write the correct letter, A-l, in boxes 14-18 on your answer sheet.
+Write the correct letter, A–I, in boxes 14–18 on your answer sheet.
 14 why some people avoided hospitals in the 19th century
 15 a suggestion that the popularity of tall buildings is linked to prestige
 16 a comparison between the circulation of air in a 19th-century building and modern
@@ -1353,45 +1328,44 @@ standards
 ## Page 45
 
 Reading
-Questions 19-26
+Questions 19–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 19-26 on your answer sheet.
+Write your answers in boxes 19–26 on your answer sheet.
 Ventilation in 19th-century hospital wards
 Professor Alan Short examined the work of John Shaw Billings, who influenced the
-architectural 19................................of hospitals to ensure they had good ventilation.
-He calculated that 20...............................in the air comi ng from patie nts sufferi ng from
-21...............................would not have harmed other patients. He also found that the air
-in 22...............................in hospitals could change as often as in a modern operating
+architectural 19 ................................ of hospitals to ensure they had good ventilation.
+He calculated that 20 ................................ in the air coming from patients suffering from
+21 ................................ would not have harmed other patients. He also found that the air
+in 22 ................................ in hospitals could change as often as in a modern operating
 theatre. He suggests that energy use could be reduced by locating more patients in
-23...............................areas.
+23 ................................ areas.
+
 A major reason for improving ventilation in 19th-century hospitals was the demand from
-the 24...............................for protection against bad air, known as 25..................................
+the 24 ................................ for protection against bad air, known as 25 ................................ .
 These were blamed for the spread of disease for hundreds of years, including epidemics
-of 26...............................in London and Paris in the middle of the 19th century.
+of 26 ................................ in London and Paris in the middle of the 19th century.
 45
 
 ## Page 46
 
 Test 2
-READJNG PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 on pages 47 and 48.
-Questions 27-34
-Reading Passage 3 has eight sections, A-HI.
+READING PASSAGE 3
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on pages 47 and 48.
+Questions 27–34
+Reading Passage 3 has eight sections, A–H.
 Choose the correct heading for each section from the list of headings below.
-Write the correct number, i-ix, in boxes 27-34 on your answer sheet.
+Write the correct number, i–ix, in boxes 27–34 on your answer sheet.
 List of Headings
 i Complaints about the impact of a certain approach
-ii Fun dame ntal beliefs that are in fact in correct
+ii Fundamental beliefs that are in fact incorrect
 iii Early recommendations concerning business activities
 iv Organisations that put a new approach into practice
 v Companies that have suffered from changing their approach
 vi What people are increasingly expected to do
 vii How to achieve outcomes that are currently impossible
 viii Neither approach guarantees continuous improvement
-ix Evidenee that a certain approach can have more
-disadvantages than advantages
+ix Evidence that a certain approach can have more disadvantages than advantages
 27 Section A
 28 Section B
 29 Section C
@@ -1406,94 +1380,45 @@ disadvantages than advantages
 
 Reading
 Why companies should welcome disorder
-A Organisation is big business. Whether it is of our lives 一 all those inboxes and calendars 一
-or how companies are structured, a multi-billion dollar industry helps to meet this need.
-We have more strategies for time management, project management and
-self-organisation than at any other time in human history. We are told that we ought to
-organise our company, our home life, our week, our day and even our sleep, all as a means
-to becoming more productive. Every week, countless seminars and workshops take place
-around the world to tell a paying public that they ought to structure their lives in order to
-achieve this.
-This rhetoric has also crept into the thinking of business leaders and entrepreneurs, much
-to the delight of self-proclaimed perfectionists with the need to get everything right・ The
-number of business schools and graduates has massively increased over the past 50 years,
-essentially teaching people how to organise well.
-B Ironically, however, the number of businesses that fail has also steadily increased.
-Work-related stress has increased. A large proportion of workers from all demographics
-claim to be dissatisfied with the way their work is structured and the way they are managed.
-This begs the question: what has gone wrong? Why is it that on paper the drive for
-organisation seems a sure shot for increasing productivity, but in reality fells well short of
-what is expected?
-C This has been a problem for a while now. Frederick Taylor was one of the forefathers of
-scientific management. Writing in the first half of the 20th century, he designed a number
-of principles to improve the efficiency of the work process, which have since become
-widespread in modern companies・ So the approach has been around for a while.
-D New research suggests that this obsession with efficiency is misguided. The problem is not
-necessarily the management theories or strategies we use to organise our work; ifs the basic
-assumptions we hold in approaching how we work. Here it's the assumption that order is a
-necessary condition for productivity. This assumption has also fostered the idea that disorder
-must be detrimental to organisational productivity. The result is that businesses and people
-spend time and money organising themselves for the sake of organising, rather than actually
-looking at the end goal and usefulness of such an effort,
-E Whafs more, recent studies show that order actually has diminishing returns. Order does
-increase productivity to a certain extent, but eventually the usefulness of the process of
-organisation, and the benefit it yields, reduce until the point where any further increase in
-order reduces productivity. Some argue that in a business, if the cost of formally structuring
-something outweighs the benefit of doing it, then that thing ought not to be formally
-structured. Instead, the resources involved can be better used elsewhere.
+A Organisation is big business. Whether it is of our lives – all those inboxes and calendars – or how companies are structured, a multi-billion dollar industry helps to meet this need.
+We have more strategies for time management, project management and self-organisation than at any other time in human history. We are told that we ought to organise our company, our home life, our week, our day and even our sleep, all as a means to becoming more productive. Every week, countless seminars and workshops take place around the world to tell a paying public that they ought to structure their lives in order to achieve this.
+This rhetoric has also crept into the thinking of business leaders and entrepreneurs, much to the delight of self-proclaimed perfectionists with the need to get everything right. The number of business schools and graduates has massively increased over the past 50 years, essentially teaching people how to organise well.
+B Ironically, however, the number of businesses that fail has also steadily increased. Work-related stress has increased. A large proportion of workers from all demographics claim to be dissatisfied with the way their work is structured and the way they are managed.
+This begs the question: what has gone wrong? Why is it that on paper the drive for organisation seems a sure shot for increasing productivity, but in reality falls well short of what is expected?
+C This has been a problem for a while now. Frederick Taylor was one of the forefathers of scientific management. Writing in the first half of the 20th century, he designed a number of principles to improve the efficiency of the work process, which have since become widespread in modern companies. So the approach has been around for a while.
+D New research suggests that this obsession with efficiency is misguided. The problem is not necessarily the management theories or strategies we use to organise our work; it’s the basic assumptions we hold in approaching how we work. Here it’s the assumption that order is a necessary condition for productivity. This assumption has also fostered the idea that disorder must be detrimental to organisational productivity. The result is that businesses and people spend time and money organising themselves for the sake of organising, rather than actually looking at the end goal and usefulness of such an effort.
+E What’s more, recent studies show that order actually has diminishing returns. Order does increase productivity to a certain extent, but eventually the usefulness of the process of organisation, and the benefit it yields, reduce until the point where any further increase in order reduces productivity. Some argue that in a business, if the cost of formally structuring something outweighs the benefit of doing it, then that thing ought not to be formally structured. Instead, the resources involved can be better used elsewhere.
 47
 
 ## Page 48
 
 Test 2
-F In fact, research shows that, when innovating, the best approach is to create an environment
-devoid of structure and hierarchy and enable everyone involved to engage as one organic
-group・ These environments can lead to new solutions that, under conventionally structured
-environments (filled with bottlenecks in terms of information flow, power structures, rules,
-and routines) would never be reached.
-G In recent times companies have slowly started to embrace this disorganisation. Many of
-them embrace it in terms of perception (embracing the idea of disorder, as opposed to
-fearing it) and in terms of process (putting mechanisms in place to reduce structure).
-For example, Oticon, a large Danish manufacturer of hearing aids, used what it called a
-'spaghetti5 structure in order to reduce the organisation^ rigid hierarchies. This involved
-scrapping formal job titles and giving staff huge amounts of ownership over their own time
-and projects. This approach proved to be highly successful initially, with clear improvements
-in worker productivity in all facets of the business.
-In similar fashion, the former chairman of General Electric embraced disorganisation,
-putting forward the idea of the "boundaryless9 organisation. Again, it involves breaking
-down the barriers between different parts of a company and encouraging virtual
-collaboration and flexible working. Google and a number of other tech companies have
-embraced (at least in part) these kinds of flexible structures, facilitated by technology and
-strong company values which glue people together.
-H A word of warning to others thinking of jumping on this bandwagon: the evidence so far
-suggests disorder, much like order, also seems to have diminishing utility, and can also have
-detrimental effects on performance if overused. Like order, disorder should be embraced
-only so far as it is useful. But we should not fear it 一 nor venerate one over the other.
-This research also shows that we should continually question whether or not our existing
-assumptions work.
+F In fact, research shows that, when innovating, the best approach is to create an environment devoid of structure and hierarchy and enable everyone involved to engage as one organic group. These environments can lead to new solutions that, under conventionally structured environments (filled with bottlenecks in terms of information flow, power structures, rules, and routines) would never be reached.
+G In recent times companies have slowly started to embrace this disorganisation. Many of them embrace it in terms of perception (embracing the idea of disorder, as opposed to fearing it) and in terms of process (putting mechanisms in place to reduce structure).
+For example, Oticon, a large Danish manufacturer of hearing aids, used what it called a ‘spaghetti’ structure in order to reduce the organisation’s rigid hierarchies. This involved scrapping formal job titles and giving staff huge amounts of ownership over their own time and projects. This approach proved to be highly successful initially, with clear improvements in worker productivity in all facets of the business.
+In similar fashion, the former chairman of General Electric embraced disorganisation, putting forward the idea of the ‘boundaryless’ organisation. Again, it involves breaking down the barriers between different parts of a company and encouraging virtual collaboration and flexible working. Google and a number of other tech companies have embraced (at least in part) these kinds of flexible structures, facilitated by technology and strong company values which glue people together.
+H A word of warning to others thinking of jumping on this bandwagon: the evidence so far suggests disorder, much like order, also seems to have diminishing utility, and can also have detrimental effects on performance if overused. Like order, disorder should be embraced only so far as it is useful. But we should not fear it – nor venerate one over the other. This research also shows that we should continually question whether or not our existing assumptions work.
 48
 
 ## Page 49
 
 Reading
-35-37
-Questions
+Questions 35–37
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 35-37 on your answer sheet.
-35 Numerous training sessions are aimed at people who feel they are not
-enough.
-36 Being organised appeals to people who regard themselves as..............................
-37 Many people feel...............................with aspects of their work.
-Questions 38-40
+Write your answers in boxes 35–37 on your answer sheet.
+35 Numerous training sessions are aimed at people who feel they are not __________ enough.
+36 Being organised appeals to people who regard themselves as __________.
+37 Many people feel __________ with aspects of their work.
+Questions 38–40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38–40 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
 38 Both businesses and people aim at order without really considering its value.
-39 Innovation is most successful if the people invoIved have distinct roles.
-40 Google was in spired to adopt flexibility by the success of Gen eral Electric.
+39 Innovation is most successful if the people involved have distinct roles.
+40 Google was inspired to adopt flexibility by the success of General Electric.
 49
 
 ## Page 50
@@ -1736,77 +1661,86 @@ Concert 3
 Reading
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13 which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The concept of intelligence
-A Looked at in one way, everyone knows what intelligence is; looked at in another way, no one
-does. In other words, people all have unconscious notions 一 lcnown as "implicit theories9 -
+A  Looked at in one way, everyone knows what intelligence is; looked at in another way, no one
+does. In other words, people all have unconscious notions – known as ‘implicit theories’ –
 of intelligence, but no one knows for certain what it actually is. This chapter addresses how
 people conceptualize intelligence, whatever it may actually be.
+
 But why should we even care what people think intelligence is, as opposed only to valuing
-whatever it actually is? There are at least four reasons people's conceptions of intelligence
+whatever it actually is? There are at least four reasons people’s conceptions of intelligence
 matter.
-B First, implicit theories of intelligence drive the way in which people perceive and evaluate
+
+B  First, implicit theories of intelligence drive the way in which people perceive and evaluate
 their own intelligence and that of others. To better understand the judgments people make
-about their own and others' abilities, it is useful to learn about peopled implicit theories.
-For example, parents9 implicit theories of their children's language development will
-determine at what ages they will be willing to make various corrections in their children^
-speech. More generally, parents9 implicit theories of intelligence will determine at what ages
+about their own and others’ abilities, it is useful to learn about people’s implicit theories.
+For example, parents’ implicit theories of their children’s language development will
+determine at what ages they will be willing to make various corrections in their children’s
+speech. More generally, parents’ implicit theories of intelligence will determine at what ages
 they believe their children are ready to perform various cognitive tasks. Job interviewers
 will make hiring decisions on the basis of their implicit theories of intelligence. People
-will decide who to be friends with on the basis of such theories. In sum, laiowledge about
+will decide who to be friends with on the basis of such theories. In sum, knowledge about
 implicit theories of intelligence is important because this knowledge is so often used by
 people to make judgments in the course of their everyday lives.
-C Second, the implicit theories of scientific investigators ultimately give rise to their explicit
+
+C  Second, the implicit theories of scientific investigators ultimately give rise to their explicit
 theories. Thus it is useful to find out what these implicit theories are. Implicit theories
-provide a framework that is useful in defining the general scope of a phenomenon 一
-especially a not-well-understood phenomenon・ These implicit theories can suggest what
+provide a framework that is useful in defining the general scope of a phenomenon –
+especially a not-well-understood phenomenon. These implicit theories can suggest what
 aspects of the phenomenon have been more or less attended to in previous investigations.
-D Third, implicit theories can be useful when an investigator suspects that existing explicit
+
+D  Third, implicit theories can be useful when an investigator suspects that existing explicit
 theories are wrong or misleading. If an investigation of implicit theories reveals little
 correspondence between the extant implicit and explicit theories, the implicit theories may
 be wrong. But the possibility also needs to be taken into account that the explicit theories
 are wrong and in need of correction or supplementation. For example, some implicit
 theories of intelligence suggest the need for expansion of some of our explicit theories of
-the construct・
+the construct.
 59
 
 ## Page 60
 
 Test 3
-E Finally, understanding implicit theories of intelligence can help elucidate developmental and
+E  Finally, understanding implicit theories of intelligence can help elucidate developmental and
 cross-cultural differences. As mentioned earlier, people have expectations for intellectual
-performances that differ for children of different ages・ How these expectations differ is
+performances that differ for children of different ages. How these expectations differ is
 in part a function of culture. For example, expectations for children who participate in
 Western-style schooling are almost certain to be different from those for children who do
 not participate in such schooling.
-F I have suggested that there are three major implicit theories of how intelligence relates to
+
+F  I have suggested that there are three major implicit theories of how intelligence relates to
 society as a whole (Sternberg, 1997). These might be called Hamiltonian, Jeffersonian, and
 Jacksonian. These views are not based strictly, but rather, loosely, on the philosophies of
 Alexander Hamilton, Thomas Jefferson, and Andrew Jackson, three great statesmen in the
 history of the United States.
-G The Hamiltonian view, which is similar to the Platonic view, is that people are born with
+
+G  The Hamiltonian view, which is similar to the Platonic view, is that people are born with
 different levels of intelligence and that those who are less intelligent need the good offices
 of the more intelligent to keep them in line, whether they are called government officials or,
-in Plato5s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this
+in Plato’s term, philosopher-kings. Herrnstein and Murray (1994) seem to have shared this
 belief when they wrote about the emergence of a cognitive (high-IQ) elite, which eventually
 would have to take responsibility for the largely irresponsible masses of non-elite (low-IQ)
 people who cannot take care of themselves. Left to themselves, the unintelligent would
 create, as they always have created, a kind of chaos.
-H The Jeffersonian view is that people should have equal opportunities, but they do not
+
+H  The Jeffersonian view is that people should have equal opportunities, but they do not
 necessarily avail themselves equally of these opportunities and are not necessarily equally
 rewarded for their accomplishments. People are rewarded for what they accomplish, if given
 equal opportunity. Low achievers are not rewarded to the same extent as high achievers.
 In the Jeffersonian view, the goal of education is not to favor or foster an elite, as in the
 Hamiltonian tradition, but rather to allow children the opportunities to make full use of the
-skills they have・ My own views are similar to these (Sternberg, 1997).
-I The Jacksonian view is that all people are equal, not only as human beings but in terms
-of their competencies — that one person would serve as well as another in government or
+skills they have. My own views are similar to these (Sternberg, 1997).
+
+I  The Jacksonian view is that all people are equal, not only as human beings but in terms
+of their competencies – that one person would serve as well as another in government or
 on a jury or in almost any position of responsibility. In this view of democracy, people are
-essentially intersubstitutable except for specialized skills, all of which can be learned・ In
+essentially intersubstitutable except for specialized skills, all of which can be learned. In
 this view, we do not need or want any institutions that might lead to favoring one group
 over another.
-J Implicit theories of intelligence and of the relationship of intelligence to society perhaps
+
+J  Implicit theories of intelligence and of the relationship of intelligence to society perhaps
 need to be considered more carefully than they have been because they often serve as
 underlying presuppositions for explicit theories and even experimental designs that are then
 taken as scientific contributions. Until scholars are able to discuss their implicit theories
@@ -1817,289 +1751,166 @@ discussing their explicit theories and their data.
 ## Page 61
 
 Reading
-Questions 1-3
-Reading Passage 1 has ten sections, A-J.
+Questions 1–3
+Reading Passage 1 has ten sections, A–J.
 Which section contains the following information?
-Write the correct letter, A-J, in boxes 1_3 on your answer sheet.
-1 information about how non-scientists, assumptions about intelligence influence their
+Write the correct letter, A–J, in boxes 1–3 on your answer sheet.
+1 information about how non-scientists’ assumptions about intelligence influence their
 behaviour towards others
-2 a reference to lack of clarity over the definition of intelligenee
-3 the point that a researcher's implicit and explicit theories may be very different
-Questions 4-6
+2 a reference to lack of clarity over the definition of intelligence
+3 the point that a researcher’s implicit and explicit theories may be very different
+
+Questions 4–6
 Do the following statements agree with the claims of the writer in Reading Passage 1?
-In boxes 4-6 on your answer sheet, write
+In boxes 4–6 on your answer sheet, write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
-4 Slow language developme nt in chi Id re n is likely to prove disappoi nting to their
-pare nts.
-5 People's expectations of what children should gain from education are universal.
+4 Slow language development in children is likely to prove disappointing to their
+parents.
+5 People’s expectations of what children should gain from education are universal.
 6 Scholars may discuss theories without fully understanding each other.
 61
 
 ## Page 62
 
 Test 3
-Questions 7-13
-Look at the following statements (Questions 7-13) and the list of theories below.
+Questions 7–13
+Look at the following statements (Questions 7–13) and the list of theories below.
 Match each statement with the correct theory, A, B, or C.
-Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet.
+Write the correct letter, A, B, or C, in boxes 7–13 on your answer sheet.
 NB You may use any letter more than once.
-7 It is desirable for the same possibilities to be ope n to every one.
+7 It is desirable for the same possibilities to be open to everyone.
 8 No section of society should have preferential treatment at the expense of another.
 9 People should only gain benefits on the basis of what they actually achieve.
-10 Variation in intelligenee begins at birth.
+10 Variation in intelligence begins at birth.
 11 The more intelligent people should be in positions of power.
-12 Every one can develop the same abilities.
-13 People of low intelligenee are likely to lead uncontrolled lives.
+12 Everyone can develop the same abilities.
+13 People of low intelligence are likely to lead uncontrolled lives.
 List of Theories
-A Hamilt onian
-B Jeffers onian
-C Jacksonia n
+A Hamiltonian
+B Jeffersonian
+C Jacksonian
 62
 
 ## Page 63
 
 Reading
-READSNG PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
-Ssiviing bugs to find new drugs
-Zoologist Ross Piper looks at the potential of insects in
-pharmaceutical research
-A More drugs than you might think are derived from, or inspired by, compounds found
-in living things. Looking to nature for the soothing and curing of our ailments is
-nothing new 一 we have been doing it for tens of thousands of years. You only have
-to look at other primates 一 such as the capuchi n mon keys who rub themselves with
-toxin・oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious
-forest plants to rid themselves of intestinal parasites - to realise that our ancient
-ancestors too probably had a basic grasp of medicine.
-B Pharmaceutical science and chemistry built on these ancient foundations and
-perfected the extract!on, characterisation, modification and testing of these natural
-products. Then, for a while, modern pharmaceutical scienee moved its focus away
-from nature and into the laboratory, designing chemical compounds from scratch.
-The main cause of this shift is that although there are plenty of promising chemical
-compo unds in n ature, fin ding them is far from easy. Securing sufficie nt numbers of
-the organism in question, isolating and characterising the compounds of interest,
-and producing large quantities of these compounds are all significant hurdles.
-C Laboratory-based drug discovery has achieved varying levels of success,
-something which has now prompted the development of new approaches focusing
-once again on natural products. With the ability to mine genomes for useful
-compounds, it is now evident that we have barely scratched the surface of nature's
-molecular diversity. This realisation, together with several looming health crises,
-such as antibiotic resistance, has put bioprospecting — the search for useful
-compounds in nature - firmly back on the map.
-D Insects are the undisputed masters of the terrestrial domain, where they occupy
-every possible niche. Consequently, they have a bewildering array of interactions
-with other organisms, something which has driven the evolution of an enormous
-range of very interesting compounds for defensive and offensive purposes・ Their
-remarkable diversity exceeds that of every other group of animals on the plznet
-combi ned. Yet eve n though in sects are far and away the most diverse animals in
-existence, their potential as sources of therapeutic compounds is yet to be realised.
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
+Saving bugs to find new drugs
+Zoologist Ross Piper looks at the potential of insects in pharmaceutical research
+A More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new – we have been doing it for tens of thousands of years. You only have to look at other primates – such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites – to realise that our ancient ancestors too probably had a basic grasp of medicine.
+B Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.
+C Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature’s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map.
+D Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised.
 63
 
 ## Page 64
 
 Test 3
-E From the tiny proporti on of in sects that have bee n inv estigated, several promisi ng
-compounds have been identified. For example, alloferon, an antimicrobial
-compound produced by blow fly larvae, is used as an antiviral and antitumor agent
-in South Korea and Russia. The larvae of a few other insect species are being
-in vestigated for the pote nt antimicrobial compo unds they produce. Mean while, a
-compound from the venom of the wasp Polybia paulista has potential in cancer
-treatment.
-F Why is it that in sects have received relatively little atte ntion in bioprospecti ng?
-Firstly, there are so many in sects that, without some manner of targeted approach,
-investigating this huge variety of species is a daunting task. Secondly, insects are
-gen erally very small, and the glands in side them that secrete pote ntially useful
-compounds are smaller still. This can make it difficult to obtain sufficient quantities
-of the compound for subsequent testing. Thirdly, although we consider insects to be
-everywhere, the reality of this ubiquity is vast numbers of a few extremely common
-species. Many insect species are infrequently encountered and very difficult to rear
-in captivity, which, again, can leave us with insufficient material to work with.
-G My colleagues and I at Aberystwyth University in the UK have developed an
-approach in which we use our knowledge of ecology as a guide to target our
-efforts. The creatures that particularly interest us are the many insects that secrete
-powerful poison for subduing prey and keeping it fresh for future consumption.
-There are even more in sects that are masters of exploiti ng filthy habitats, such as
-faeces and carcasses, where they are regularly challenged by thousands of micro-
-orga nisrns. These in sects have many an timicrobial compo unds for deali ng with
-pathogenic bacteria and fungi, suggesting that there is certainly potential to find
-many compounds that can serve as or inspire new antibiotics.
-H Although n atural history kno wledge points us in the right direction, it does n't
-solve the problems associated with obtai ning useful compo unds from in sects.
-Fort un ately, it is now possible to snip out the stretches of the in sect's DNAthat
-carry the codes for the interesting compounds and insert them into cell lines that
-allow larger quantities to be produced. And although the road from isolating and
-characterising compounds with desirable qualities to developing a commercial
-product is very long and full of pitfalls, the variety of successful animal-derived
-pharmaceuticals on the market demonstrates there is a precedent here that is
-worth exploring.
-I With every bit of wilderness that disappears, we deprive ourselves of potential
-medici nes. As much as I'd love to help develop a groun dbreaki ng in sect-derived
-medicine, my main motivation for looking at insects in this way is conservation. I
-sincerely believe that all species, however small and seemingly insignificant, have
-a right to exist for their own sake. If we can shine a light on the darker recesses
-of nature's medicine cabinet, exploring the useful chemistry of the most diverse
-animals on the planet, I believe we can make people think differently about the
-value of nature.
+E From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment.
+F Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with.
+G My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics.
+H Although natural history knowledge points us in the right direction, it doesn’t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.
+I With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.
 64
 
 ## Page 65
 
 Reading
-Questions 14-20
-Reading Passage 2 has nine paragraphs, A-l.
-Which paragraph contains the following in formation?
-Write the correct letter, A-i, in boxes 1-4一20 on your answer sheet.
+Questions 14–20
+Reading Passage 2 has nine paragraphs, A–I.
+Which paragraph contains the following information?
+Write the correct letter, A–I, in boxes 14–20 on your answer sheet.
 14 mention of factors driving a renewed interest in natural medicinal compounds
-15 how recent tech no logical adva nces have made insect research easier
+15 how recent technological advances have made insect research easier
 16 examples of animals which use medicinal substances from nature
-17 reasons why it is challe nging to use in sects in drug research
-18 reference to how interest in drug research may ben efit wildlife
+17 reasons why it is challenging to use insects in drug research
+18 reference to how interest in drug research may benefit wildlife
 19 a reason why nature-based medicines fell out of favour for a period
 20 an example of an insect-derived medicine in use at the moment
 Questions 21 and 22
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 21 and 22 on your answer sheet.
 Which TWO of the following make insects interesting for drug research?
-A the huge number of individual insects in the World
+A the huge number of individual insects in the world
 B the variety of substances insects have developed to protect themselves
-C the pote ntial to extract and make use of in sects1 ge netic codes
-D the similarities between differe nt species of in sect
-E the manageable size of most in sects
+C the potential to extract and make use of insects’ genetic codes
+D the similarities between different species of insect
+E the manageable size of most insects
 65
 
 ## Page 66
 
 Test 3
-Questions 23-26
+Questions 23–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 23-26 on your answer sheet.
+Write your answers in boxes 23–26 on your answer sheet.
 Research at Aberystwyth University
-Ross Piper and fellow zoologists at Aberystwyth University are using their expertise
-in 23...............................when undertaking bioprospecting with insects. They are
-especially in terested in the compounds that in sects produce to overpower and
-preserve their 24..................................They are also interested in compounds which
-insects use to protect themselves from pathogenic bacteria and fungi found in their
-25................................Piper hopes that these substances will be useful in the
-development of drugs such as 26................................
+Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in 23 __________ when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their 24 __________. They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their 25 __________. Piper hopes that these substances will be useful in the development of drugs such as 26 __________.
 66
 
 ## Page 67
 
 Reading
-READBNG PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
+READING PASSAGE 3
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
 The power of play
-Virtually every child, the world over, plays. The drive to play is so intense that children will do so
-in any circumstances, for instance when they have no real toys, or when parents do not actively
-encourage the behavior. In the eyes of a young child, running, pretending, and building are fim.
-Researchers and educators know that these playful activities benefit the development of the
-whole child across social, cognitive, physical, and emotional domains. Indeed, play is such an
-instrumental component to healthy child development that the United Nations High Commission
-on Human Rights (1989) recognized play as a fundamental right of every child.
-Yet, while experts continue to expound a powerful argument for the importance of play in
-children's lives, the actual time children spend playing continues to decrease. Today, children play
-eight hours less each week than their counterparts did two decades ago (Elkind 2008). Under
-pressure of rising academic standards, play is being replaced by test preparation in kindergartens
-and grade schools, and parents who aim to give their preschoolers a leg up are led to believe
-that flashcards and educational 'toys' are the path to success. Our society has created a false
-dichotomy between play and learning.
-Through play, children learn to regulate their behavior, lay the foundations for later learning in
-science and mathematics, figure out the complex negotiations of social relationships, build a
-repertoire of creative problem-solving skills, and so much more. There is also an important role
-for adults in guiding children through playful learning opportunities・
-Full consensus on a formal definition of play continues to elude the researchers and theorists who
-study it. Definitions range from discrete descriptions of various types of play such as physical,
-construction, language, or symbolic play (Miller & Almon 2009), to lists of broad criteria, based
-on observations and attitudes, that are meant to capture the essence of all play behaviors (e.g.
-Rubin et al. 1983).
-A majority of the contemporary definitions of play focus on several key criteria. The founder of
-the National Institute for Play, Stuart Brown, has described play as 'anything that spontaneously
-is done for its own sake'. More specifically, he says it 'appears purposeless, produces pleasure
-and joy, [and] leads one to the next stage of mastery5 (as quoted in Tippett 2008). Similarly, Miller
-and Almon (2009) say that play includes 'activities that are freely chosen and directed by children
-and arise from intrinsic motivation5. Often, play is defined along a continuum as more or less
-playful using the following set of behavioral and dispositional criteria (e.g. Rubin et al. 1983):
-Play is pleasurable: Children must enjoy the activity or it is not play. It is intrinsically
-motivated: Children engage in play simply for the satisfaction the behavior itself brings.
-It has no extrinsically motivated function or goal. Play is process oriented: When children
+Virtually every child, the world over, plays. The drive to play is so intense that children will do so in any circumstances, for instance when they have no real toys, or when parents do not actively encourage the behavior. In the eyes of a young child, running, pretending, and building are fun. Researchers and educators know that these playful activities benefit the development of the whole child across social, cognitive, physical, and emotional domains. Indeed, play is such an instrumental component to healthy child development that the United Nations High Commission on Human Rights (1989) recognized play as a fundamental right of every child.
+Yet, while experts continue to expound a powerful argument for the importance of play in children’s lives, the actual time children spend playing continues to decrease. Today, children play eight hours less each week than their counterparts did two decades ago (Elkind 2008). Under pressure of rising academic standards, play is being replaced by test preparation in kindergartens and grade schools, and parents who aim to give their preschoolers a leg up are led to believe that flashcards and educational ‘toys’ are the path to success. Our society has created a false dichotomy between play and learning.
+Through play, children learn to regulate their behavior, lay the foundations for later learning in science and mathematics, figure out the complex negotiations of social relationships, build a repertoire of creative problem-solving skills, and so much more. There is also an important role for adults in guiding children through playful learning opportunities.
+Full consensus on a formal definition of play continues to elude the researchers and theorists who study it. Definitions range from discrete descriptions of various types of play such as physical, construction, language, or symbolic play (Miller & Almon 2009), to lists of broad criteria, based on observations and attitudes, that are meant to capture the essence of all play behaviors (e.g. Rubin et al. 1983).
+A majority of the contemporary definitions of play focus on several key criteria. The founder of the National Institute for Play, Stuart Brown, has described play as ‘anything that spontaneously is done for its own sake’. More specifically, he says it ‘appears purposeless, produces pleasure and joy, [and] leads one to the next stage of mastery’ (as quoted in Tippett 2008). Similarly, Miller and Almon (2009) say that play includes ‘activities that are freely chosen and directed by children and arise from intrinsic motivation’. Often, play is defined along a continuum as more or less playful using the following set of behavioral and dispositional criteria (e.g. Rubin et al. 1983):
+Play is pleasurable: Children must enjoy the activity or it is not play. It is intrinsically motivated: Children engage in play simply for the satisfaction the behavior itself brings. It has no extrinsically motivated function or goal. Play is process oriented: When children
 67
 
 ## Page 68
 
 Test 3
-play, the means are more important than the ends. It is freely chosen, spontaneous and
-voluntary. If a child is pressured, they will likely not think of the activity as play. Play is
-actively engaged: Players must be physically and/or mentally involved in the activity. Play
-is non-literal・ It involves make-believe.
-According to this view, children's playful behaviors can range in degree from 0% to 100%
-playful. Rubin and colleagues did not assign greater weight to any one dimension in determining
-playfulness; however, other researchers have suggested that process orientation and a lack of
-obvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).
-From the perspective of a continuum, play can thus blend with other motives and attitudes that
-are less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is
-extrinsically motivated (i.e. it is goal oriented)・ Researcher Joan Goodman (1994) suggested that
-hybrid forms of work and play are not a detriment to learning; rather, they can provide optimal
-contexts for learning. For example, a child may be engaged in a difficult, goal-directed activity
-set up by their teacher, but they may still be actively engaged and intrinsically motivated. At this
-mid-point between play and work, the child's motivation, coupled with guidance from an adult,
-can create robust opportunities for playful learning.
-Critically, recent research supports the idea that adults can facilitate children's learning while
-maintaining a playfill approach in interactions known as 'guided play9 (Fisher et al. 2011). The
-adulfs role in play varies as a function of their educational goals and the child's developmental
-level (Hirsch-Pasek et al. 2009).
-Guided play takes two forms. At a very basic level, adults can enrich the child's environment by
-providing objects or experiences that promote aspects of a curriculum .In the more direct form
-of guided play, parents or other adults can support children's play by joining in the fun as a
-co-player, raising thoughtful questions, commenting on children's discoveries, or encouraging
-further exploration or new facets to the child's activity. Although playful learning can be
-somewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem
-from the child's own desire・
-Both free and guided play are essential elements in a child-centered approach to playful learning.
-Intrinsically motivated free play provides the child with true autonomy, while guided play is an
-avenue through which parents and educators can provide more targeted learning experiences.
-In either case, play should be actively engaged, it should be predominantly child-directed, and it
-must be fun.
+play, the means are more important than the ends. It is freely chosen, spontaneous and voluntary. If a child is pressured, they will likely not think of the activity as play. Play is actively engaged: Players must be physically and/or mentally involved in the activity. Play is non-literal. It involves make-believe.
+According to this view, children’s playful behaviors can range in degree from 0% to 100% playful. Rubin and colleagues did not assign greater weight to any one dimension in determining playfulness; however, other researchers have suggested that process orientation and a lack of obvious functional purpose may be the most important aspects of play (e.g. Pellegrini 2009).
+From the perspective of a continuum, play can thus blend with other motives and attitudes that are less playful, such as work. Unlike play, work is typically not viewed as enjoyable and it is extrinsically motivated (i.e. it is goal oriented). Researcher Joan Goodman (1994) suggested that hybrid forms of work and play are not a detriment to learning; rather, they can provide optimal contexts for learning. For example, a child may be engaged in a difficult, goal-directed activity set up by their teacher, but they may still be actively engaged and intrinsically motivated. At this mid-point between play and work, the child’s motivation, coupled with guidance from an adult, can create robust opportunities for playful learning.
+Critically, recent research supports the idea that adults can facilitate children’s learning while maintaining a playful approach in interactions known as ‘guided play’ (Fisher et al. 2011). The adult’s role in play varies as a function of their educational goals and the child’s developmental level (Hirsch-Pasek et al. 2009).
+Guided play takes two forms. At a very basic level, adults can enrich the child’s environment by providing objects or experiences that promote aspects of a curriculum. In the more direct form of guided play, parents or other adults can support children’s play by joining in the fun as a co-player, raising thoughtful questions, commenting on children’s discoveries, or encouraging further exploration or new facets to the child’s activity. Although playful learning can be somewhat structured, it must also be child-centered (Nicolopolou et al. 2006). Play should stem from the child’s own desire.
+Both free and guided play are essential elements in a child-centered approach to playful learning. Intrinsically motivated free play provides the child with true autonomy, while guided play is an avenue through which parents and educators can provide more targeted learning experiences. In either case, play should be actively engaged, it should be predominantly child-directed, and it must be fun.
 68
 
 ## Page 69
 
 Reading
-Questions 27-31
-Look at the following statements (Questions 27-31) and the list of researchers below.
-Match each statement with the correct researcher, A-G.
-Write the correct letter, A-G, in boxes 27-31 on your answer sheet.
+Questions 27–31
+Look at the following statements (Questions 27–31) and the list of researchers below.
+Match each statement with the correct researcher, A–G.
+Write the correct letter, A–G, in boxes 27–31 on your answer sheet.
 27 Play can be divided into a number of separate categories.
-28 Adults' intended goals affect how they play with children.
-29 Combining work with play may be the best way for children to tearn.
+28 Adults’ intended goals affect how they play with children.
+29 Combining work with play may be the best way for children to learn.
 30 Certain elements of play are more significant than others.
 31 Activities can be classified on a scale of playfulness.
 List of Researchers
 A Elkind
-同 Miller & Almon
+B Miller & Almon
 C Rubin et al.
-B Stuart Brown
+D Stuart Brown
 E Pellegrini
-IF Joan Goodman
+F Joan Goodman
 G Hirsch-Pasek et al.
 69
 
 ## Page 70
 
 Test 3
-Questions 32-36
+Questions 32–36
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 32-36 on your answer sheet, write
+In boxes 32–36 on your answer sheet, write
 YES if the statement agrees with the claims of the writer
 NO if the statement contradicts the claims of the writer
 NOT GIVEN if it is impossible to say what the writer thinks about this
 32 Children need toys in order to play.
 33 It is a mistake to treat play and learning as separate types of activities.
-34 Play helps children to develop their artistic talents・
+34 Play helps children to develop their artistic talents.
 35 Researchers have agreed on a definition of play.
 36 Work and play differ in terms of whether or not they have a target.
 70
@@ -2107,19 +1918,13 @@ NOT GIVEN if it is impossible to say what the writer thinks about this
 ## Page 71
 
 Reading
-Questions 37-40
+Questions 37–40
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 37-40 on your answer sheet.
+Write your answers in boxes 37–40 on your answer sheet.
 Guided play
-In the simplest form of guided play, an adult contributes to the environment in which
-the child is playing. Alternatively, an adult can play with a child and develop the play,
-for instance by 37................................the child to investigate ditferent aspects of their
-game. Adults can help children to learn through play, and may make the activity rather
-structured, but it should still be based on the child's 38................................to play.
-Play without the interventio n of adults gives chi Id re n real 39.................................; with
-adults, play can be 40...............................at particular goals. However, all forms of play
-should be an opport unity for childre n to have furu
+In the simplest form of guided play, an adult contributes to the environment in which the child is playing. Alternatively, an adult can play with a child and develop the play, for instance by 37 __________ the child to investigate different aspects of their game. Adults can help children to learn through play, and may make the activity rather structured, but it should still be based on the child’s 38 __________ to play.
+Play without the intervention of adults gives children real 39 __________; with adults, play can be 40 __________ at particular goals. However, all forms of play should be an opportunity for children to have fun.
 71
 
 ## Page 72
@@ -2395,367 +2200,198 @@ for clea ning the 39...............................
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
-Passage 1 below.
+You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.
 The secret of staying young
-Pheidole dentata, a native ant of the south-eastern U.S., isrf t immortal. But scientists have found
-that it doesift seem to show any signs of aging. Old worker ants can do everything just as well as
-the youngsters, and their brains appear just as sharp. 6We get a picture that these ants really don't
-decline/ says Ysabel Giraldo, who studied the ants for her doctoral thesis at Boston University.
-Such age-defying feats are rare in the animal kingdom. Naked mole rats can live for almost
-30 years and stay fit for nearly their entire lives. They can still reproduce even when old, and they
-never get cancer. But the vast majority of animals deteriorate with age just like people do. Like
-the naked mole rat, ants are social creatures that usually live in highly organised colonies. 6Ifs
-this social complexity that makes P dentata useful for studying aging in people/ says Giraldo,
-now at the California Institute of Technology. Humans are also highly social, a trait that has been
-connected to healthier aging. By contrast, most animal studies of aging use mice, worms or fruit
-flies, which all lead much more isolated lives.
-In the lab, P. dentata worker ants typically live for around 140 days. Giraldo focused on ants
-at four age ranges: 20 to 22 days, 45 to 47 days, 95 to 97 days and 120 to 122 days. Unlike all
-previous studies, which only estimated how old the ants were, her work tracked the ants from the
-time the pupae became adults, so she knew their exact ages. Then she put them through a range
-of tests.
-Giraldo watched how well the ants took care of the young of the colony, recording how often each
-ant attended to, carried and fed them. She compared how well 20-day-old and 95-day-old ants
-followed the telltale scent that the insects usually leave to mark a trail to food. She tested how
-ants responded to light and also measured how active they were by counting how often ants in a
-small dish walked across a line・ And she experimented with how ants react to live prey: a tethered
-fruit fly. Giraldo expected the older ants to perform poorly in all these tasks. But the elderly
-insects were all good caretakers and trail-followers—the 95-day-old ants could track the scent
-even longer than their younger counterparts. They all responded to light well, and the older ants
-were more active. And when it came to reacting to prey, the older ants attacked the poor fruit fly
-just as aggressively as the young ones did, flaring their mandibles or pulling at the fly?s legs.
-Then Giraldo compared the brains of 20-day-old and 95-day-old ants, identifying any cells that
-were close to death・ She saw no major differences with age, nor was there any difference in the
-location of the dying cells, showing that age didn5t seem to affect specific brain functions. Ants
-and other insects have structures in their brains called mushroom bodies, which are important for
+Pheidole dentata, a native ant of the south-eastern U.S., isn’t immortal. But scientists have found that it doesn’t seem to show any signs of aging. Old worker ants can do everything just as well as the youngsters, and their brains appear just as sharp. ‘We get a picture that these ants really don’t decline,’ says Ysabel Giraldo, who studied the ants for her doctoral thesis at Boston University.
+Such age-defying feats are rare in the animal kingdom. Naked mole rats can live for almost 30 years and stay fit for nearly their entire lives. They can still reproduce even when old, and they never get cancer. But the vast majority of animals deteriorate with age just like people do. Like the naked mole rat, ants are social creatures that usually live in highly organised colonies. ‘It’s this social complexity that makes P. dentata useful for studying aging in people,’ says Giraldo, now at the California Institute of Technology. Humans are also highly social, a trait that has been connected to healthier aging. By contrast, most animal studies of aging use mice, worms or fruit flies, which all lead much more isolated lives.
+In the lab, P. dentata worker ants typically live for around 140 days. Giraldo focused on ants at four age ranges: 20 to 22 days, 45 to 47 days, 95 to 97 days and 120 to 122 days. Unlike all previous studies, which only estimated how old the ants were, her work tracked the ants from the time the pupae became adults, so she knew their exact ages. Then she put them through a range of tests.
+Giraldo watched how well the ants took care of the young of the colony, recording how often each ant attended to, carried and fed them. She compared how well 20-day-old and 95-day-old ants followed the telltale scent that the insects usually leave to mark a trail to food. She tested how ants responded to light and also measured how active they were by counting how often ants in a small dish walked across a line. And she experimented with how ants react to live prey: a tethered fruit fly. Giraldo expected the older ants to perform poorly in all these tasks. But the elderly insects were all good caretakers and trail-followers—the 95-day-old ants could track the scent even longer than their younger counterparts. They all responded to light well, and the older ants were more active. And when it came to reacting to prey, the older ants attacked the poor fruit fly just as aggressively as the young ones did, flaring their mandibles or pulling at the fly’s legs.
+Then Giraldo compared the brains of 20-day-old and 95-day-old ants, identifying any cells that were close to death. She saw no major differences with age, nor was there any difference in the location of the dying cells, showing that age didn’t seem to affect specific brain functions. Ants and other insects have structures in their brains called mushroom bodies, which are important for
 82
 
 ## Page 83
 
 Reading
-processing information, learning and memory. She also wanted to see 讦 aging affects the density
-of synaptic complexes within these structures一regions where neurons come togethe匸 Again, the
-answer was no. What was more, the old ants didn't experience any drop in the levels of either
-serotonin or dopamine—brain chemicals whose decline often coincides with aging. In humans,
-for example, a decrease in serotonin has been linked to Alzheimer's disease.
-'This is the first time anyone has looked at both behavioral and neural changes in these ants so
-thoroughly/ says Giraldo, who recently published the findings in the Proceedings of the Royal
-Society B. Scientists have looked at some similar aspects in bees, but the results of recent bee
-studies were mixed—some studies showed age-related declines, which biologists call senescence,
-and others didn't. Tor now, the study raises more questions than it answers/ Giraldo says,
-"including how P. dentata stays in such good shape.5
-Also, if the ants don't deteriorate with age? why do they die at all? Out in the wild, the ants
-probably don't live for a foil 140 days thanks to predators, disease and just being in an
-environment thafs much harsher than the comforts of the lab. "The lucky ants that do live into old
-age may suffer a steep decline just before dying/ Giraldo says, but she can't say for sure because
-her study wasn't designed to follow an anfs final moments.
-“It will be important to extend these findings to other species of social insects/ says Gene E・
-Robinson, an entomologist at the University of Illinois at Urbana-Champaign. This ant might be
-unique, or it might represent a broader pattern among other social bugs with possible clues to the
-science of aging in larger animals. Either way, it seems that for these ants, age really
-doesift matter.
+processing information, learning and memory. She also wanted to see if aging affects the density of synaptic complexes within these structures—regions where neurons come together. Again, the answer was no. What was more, the old ants didn’t experience any drop in the levels of either serotonin or dopamine—brain chemicals whose decline often coincides with aging. In humans, for example, a decrease in serotonin has been linked to Alzheimer’s disease.
+‘This is the first time anyone has looked at both behavioral and neural changes in these ants so thoroughly,’ says Giraldo, who recently published the findings in the Proceedings of the Royal Society B. Scientists have looked at some similar aspects in bees, but the results of recent bee studies were mixed—some studies showed age-related declines, which biologists call senescence, and others didn’t. ‘For now, the study raises more questions than it answers,’ Giraldo says, ‘including how P. dentata stays in such good shape.’
+Also, if the ants don’t deteriorate with age, why do they die at all? Out in the wild, the ants probably don’t live for a full 140 days thanks to predators, disease and just being in an environment that’s much harsher than the comforts of the lab. ‘The lucky ants that do live into old age may suffer a steep decline just before dying,’ Giraldo says, but she can’t say for sure because her study wasn’t designed to follow an ant’s final moments.
+‘It will be important to extend these findings to other species of social insects,’ says Gene E. Robinson, an entomologist at the University of Illinois at Urbana-Champaign. This ant might be unique, or it might represent a broader pattern among other social bugs with possible clues to the science of aging in larger animals. Either way, it seems that for these ants, age really doesn’t matter.
 83
 
 ## Page 84
 
 Test 4
-Questions 1-8
+Questions 1–8
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answer in boxes 1-8 on your answer sheet.
-YsabeS Gira5do3s research
-Focused on a total of 1................................different age groups of ants, analysing
+Write your answer in boxes 1–8 on your answer sheet.
+Ysabel Giraldo’s research
+Focused on a total of 1 __________ different age groups of ants, analysing
 Behaviour:
-® how well ants looked after their 2...............................
-® their ability to locate 3................................using a see nt trail
-® the effect that 4................................had on them
-® how 5................................they attacked prey
+• how well ants looked after their 2 __________
+• their ability to locate 3 __________ using a scent trail
+• the effect that 4 __________ had on them
+• how 5 __________ they attacked prey
 Brains:
-9 comparison between age and the 6.................................of dying cells in the
-brains of ants
-® condition of synaptic complexes (areas in which 7.................................meet) in
-the brain's 'mushroom bodies5
-level of two 8................................in the brain associated with ageing
+• comparison between age and the 6 __________ of dying cells in the brains of ants
+• condition of synaptic complexes (areas in which 7 __________ meet) in the brain’s ‘mushroom bodies’
+• level of two 8 __________ in the brain associated with ageing
 84
 
 ## Page 85
 
 Reading
-Questions 9-13
+Questions 9–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 9-13 on your answer sheet, write
+In boxes 9–13 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-9 Pheidole dentata ants are the only known animals which remain active for almost
-their whole lives.
-10 Ysabel Giraldo was the first person to study Pheidole dentata ants using precise
-data about the in sects5 ages.
-11 The ants in Giraldo's experiments behaved as she had predicted that they would.
-12 The recent studies of bees used different methods of measuring age-
-related decli ne.
-13 Pheidole dentata ants kept in laboratory conditions tend to live Ion ger lives.
+9 Pheidole dentata ants are the only known animals which remain active for almost their whole lives.
+10 Ysabel Giraldo was the first person to study Pheidole dentata ants using precise data about the insects’ ages.
+11 The ants in Giraldo’s experiments behaved as she had predicted that they would.
+12 The recent studies of bees used different methods of measuring age-related decline.
+13 Pheidole dentata ants kept in laboratory conditions tend to live longer lives.
 85
 
 ## Page 86
 
 Test 4
-READ8NG PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
-Passage 2 below.
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.
 Why zoos are good
 Scientist David Hone makes the case for zoos
-A In my view, it is perfectly possible for many species of animals living in zoos
-or wildlife parks to have a quality of life as high as, or higher than, in the wild.
-Animals in good zoos get a varied and high-quality diet with all the supplements
-required, and any illnesses they might have will be treated. Their movement might
-be somewhat restricted, but they have a safe environment in which to live, and
-they are spared bullying and social ostracism by others of their kind. They do not
-suffer from the threat or stress of predators, or the irritation and pain of parasites or
-injuries. The average captive animal will have a greater life expectancy compared
-with its wild counterpart, and will not die of drought, of starvation or in the jaws of
-a predator. A lot of very nasty things happen to truly 'wild' animals that simply don't
-happen in good zoos, and to view a life that is 'free' as one that is automatically
-'good' is, I think, an error. Furthermore, zoos serve several key purposes.
-B Firstly, zoos aid conservation. Colossal numbers of species are becoming extinct
-across the world, and many more are increasingly threatened and therefore risk
-extinction. Moreover, some of these collapses have been sudden, dramatic and
-unexpected, or were simply discovered very late in the day. A species protected
-in captivity can be bred up to provide a reservoir population against a population
-crash or extinction in the wild. A good number of species only exist in captivity, with
-many of these living in zoos. Still more only exist in the wild because they have
-been reintroduced from zoos, or have wild populations that have been boosted
-by captive bred animals. Without these efforts there would be fewer species alive
-today. Although reintroduction successes are few and far between, the numbers
-are increasing and the very fact that species have been saved or reintroduced as a
-result of captive breeding proves the value of such initiatives.
-C Zoos also provide educati on. Many chi Id re n and adults, especially those in cities,
-will never see a wild animal beyond a fox or pigeon. While it is true that television
-documentaries are becoming ever more detailed and impressive, and many
-natural history specimens are on display in museums, there really is nothing to
-compare with seeing a living creature in the flesh, hearing it, smelling it, watching
-what it does and having the time to absorb details. That alone will bring a greater
-understanding and perspective to many, and hopefully give them a greater
-appreciati on for wildlife, conservati on efforts and how they can con tribute.
+A In my view, it is perfectly possible for many species of animals living in zoos or wildlife parks to have a quality of life as high as, or higher than, in the wild. Animals in good zoos get a varied and high-quality diet with all the supplements required, and any illnesses they might have will be treated. Their movement might be somewhat restricted, but they have a safe environment in which to live, and they are spared bullying and social ostracism by others of their kind. They do not suffer from the threat or stress of predators, or the irritation and pain of parasites or injuries. The average captive animal will have a greater life expectancy compared with its wild counterpart, and will not die of drought, of starvation or in the jaws of a predator. A lot of very nasty things happen to truly ‘wild’ animals that simply don’t happen in good zoos, and to view a life that is ‘free’ as one that is automatically ‘good’ is, I think, an error. Furthermore, zoos serve several key purposes.
+B Firstly, zoos aid conservation. Colossal numbers of species are becoming extinct across the world, and many more are increasingly threatened and therefore risk extinction. Moreover, some of these collapses have been sudden, dramatic and unexpected, or were simply discovered very late in the day. A species protected in captivity can be bred up to provide a reservoir population against a population crash or extinction in the wild. A good number of species only exist in captivity, with many of these living in zoos. Still more only exist in the wild because they have been reintroduced from zoos, or have wild populations that have been boosted by captive-bred animals. Without these efforts there would be fewer species alive today. Although reintroduction successes are few and far between, the numbers are increasing and the very fact that species have been saved or reintroduced as a result of captive breeding proves the value of such initiatives.
+C Zoos also provide education. Many children and adults, especially those in cities, will never see a wild animal beyond a fox or pigeon. While it is true that television documentaries are becoming ever more detailed and impressive, and many natural history specimens are on display in museums, there really is nothing to compare with seeing a living creature in the flesh, hearing it, smelling it, watching what it does and having the time to absorb details. That alone will bring a greater understanding and perspective to many, and hopefully give them a greater appreciation for wildlife, conservation efforts and how they can contribute.
 86
 
 ## Page 87
 
 Reading
-In addition to this, there is also the education that can take place in zoos through
-signs, talks and presentations which directly communicate information to visitors
-about the animals they are seeing and their place in the world. This was an area
-where zoos used to be lacking, but they are now increasingly sophisticated in
-their communication and outreach work. Many zoos also work directly to educate
-conservation workers in other countries, or send their animal keepers abroad
-to con tribute their knowledge and skills to those working in zoos and reserves,
-thereby helping to improve conditions and reintroductions all over the world.
-Zoos also play a key role in research. If we are to save wild species and restore
-and repair ecosystems we need to know about how key species live, act and react.
-Being able to undertake research on animals in zoos where there is less risk and
-fewer variables means real changes can be effected on wild populations. Finding
-out about, for example, the oestrus cycle of an animal or its breeding rate helps
-us manage wild populations. Procedures such as capturing and moving at-risk or
-dangerous individuals are bolstered by knowledge gained in zoos about doses for
-an aesthetics, and by experie nee in handling and tran sporting an imals. This can
-make a real differenee to conservation efforts and to the reduction of human-animal
-conflicts, and can provide a knowledge base for helping with the increasing threats
-of habitat destruction and other problems.
-In conclusion, considering the many ongoing global threats to the environment, it is
-hard for me to see zoos as anything other than essential to the Iong-term survival
-of numerous species. They are vital not just in terms of protecting animals, but as
-a means of learning about them to aid those still in the wild, as well as educating
-and informing the general population about these animals and their world so that
-they can assist or at least accept the need to be more environmentally conscious・
-Without them, the world would be, and would increasingly become, a much
-poorer place.
+D In addition to this, there is also the education that can take place in zoos through signs, talks and presentations which directly communicate information to visitors about the animals they are seeing and their place in the world. This was an area where zoos used to be lacking, but they are now increasingly sophisticated in their communication and outreach work. Many zoos also work directly to educate conservation workers in other countries, or send their animal keepers abroad to contribute their knowledge and skills to those working in zoos and reserves, thereby helping to improve conditions and reintroductions all over the world.
+E Zoos also play a key role in research. If we are to save wild species and restore and repair ecosystems we need to know about how key species live, act and react. Being able to undertake research on animals in zoos where there is less risk and fewer variables means real changes can be effected on wild populations. Finding out about, for example, the oestrus cycle of an animal or its breeding rate helps us manage wild populations. Procedures such as capturing and moving at-risk or dangerous individuals are bolstered by knowledge gained in zoos about doses for anaesthetics, and by experience in handling and transporting animals. This can make a real difference to conservation efforts and to the reduction of human-animal conflicts, and can provide a knowledge base for helping with the increasing threats of habitat destruction and other problems.
+F In conclusion, considering the many ongoing global threats to the environment, it is hard for me to see zoos as anything other than essential to the long-term survival of numerous species. They are vital not just in terms of protecting animals, but as a means of learning about them to aid those still in the wild, as well as educating and informing the general population about these animals and their world so that they can assist or at least accept the need to be more environmentally conscious. Without them, the world would be, and would increasingly become, a much poorer place.
 87
 
 ## Page 88
 
 Test 4
-Questions 14-17
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–17
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
-Write the correct letter, A-F, in boxes 14-17 on your answer sheet.
+Write the correct letter, A–F, in boxes 14–17 on your answer sheet.
 14 a reference to how quickly animal species can die out
 15 reasons why it is preferable to study animals in captivity rather than in the wild
 16 mention of two ways of learning about animals other than visiting them in zoos
 17 reasons why animals in zoos may be healthier than those in the wild
-Questions 18-22
-Do the following statements agree with the in formation give n in Reading Passage 2?
-In boxes 18-22 on your answer sheet, write
+Questions 18–22
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 18–22 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
 18 An animal is likely to live longer in a zoo than in the wild.
-19 There are some species in zoos which can no Ion ger be found in the wild.
-20 Improveme nts in the quality of TV wildlife docume ntaries have resulted in in creased
-numbers of zoo visitors.
-21 Zoos have always excelled at transmitti ng in formation about animals to the public.
-22 Studying animals in zoos is less stressful for the animals than studying them in
-the wild.
+19 There are some species in zoos which can no longer be found in the wild.
+20 Improvements in the quality of TV wildlife documentaries have resulted in increased numbers of zoo visitors.
+21 Zoos have always excelled at transmitting information about animals to the public.
+22 Studying animals in zoos is less stressful for the animals than studying them in the wild.
 88
 
 ## Page 89
 
 Reading
 Questions 23 and 24
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 23 and 24 on your answer sheet.
 Which TWO of the following are stated about zoo staff in the text?
 A Some take part in television documentaries about animals.
 B Some travel to overseas locations to join teams in zoos.
 C Some get experience with species in the wild before taking up zoo jobs.
-D Some teach people who are invoIved with conservation projects.
+D Some teach people who are involved with conservation projects.
 E Some specialise in caring for species which are under threat.
 Questions 25 and 26
-Choose TWO letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 25 and 26 on your answer sheet.
 Which TWO of these beliefs about zoos does the writer mention in the text?
-A
-They can help children overcome their fears of wild animals.
-B
-They can in crease public aware ness of environmental issues.
-C
-They can provide employment for a range of professional people.
-D
-They can gen erate income to support wildlife con servati on projects.
-E
-They can raise animals which can later be released into the wild.
+A They can help children overcome their fears of wild animals.
+B They can increase public awareness of environmental issues.
+C They can provide employment for a range of professional people.
+D They can generate income to support wildlife conservation projects.
+E They can raise animals which can later be released into the wild.
 89
 
 ## Page 90
 
 Test 4
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
-Passage 3 below.
-Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer
-a dismal question: Is everything terrible, or are things just very, very bad?
-Rochman is a member of the National Center for Ecological Analysis and Synthesis's
-marine-debris working group, a collection of scientists who study, among other things, the
-growing problem of marine debris, also known as ocean trash. Plenty of studies have sounded
-alarm bells about the state of marine debris; in a recent paper published in the journal Ecology,
-Rochman and her colleagues set out to determine how many of those perceived risks are real.
-Often, Rochman says? scientists will end a paper by speculating about the broader impacts of
-what they've found. For example, a study could show that certain seabirds eat plastic bags, and
-go on to warn that whole bird populations are at risk of dying out. "But the truth was that nobody
-had yet tested those perceived threats/ Rochman says. "There wasn't a lot of information?
-Rochman and her colleagues examined more than a hundred papers on the impacts of marine
-debris that were published through 2013. Within each paper, they asked what threats scientists
-had studied -366 perceived threats in all - and what they'd actually found・
-In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining
-cases, the working group found the studies had weaknesses in design and content which affected
-the validity of their conclusions - they lacked a control group, for example, or used faulty
-statistics.
-Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking
-for, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the
-mussels9 stomachs to their bloodstreams, scientists found, and stayed there for weeks 一 but didn't
-seem to stress out the shellfish・
-While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the
-many ways that ocean debris is bothersome.
-Within the studies they looked at, most of the proven threats came from plastic debris, rather than
-other materials like metal or wood. Most of the dangers also involved large pieces of debris 一
-animals getting entangled in trash, for example, or eating it and severely injuring themselves.
-But a lot of ocean debris is Cmicroplastic\ or pieces smaller than five millimeters. These may
-be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or
-eroded remnants of larger debris. Compared to the number of studies investigating large-scale
-debris, Rochman's group found little research on the effects of these tiny bits. "There are a lot of
-open questions still for microplastic/ Rochman says, though she notes that more papers on the
-subject have been published since 2013, the cutoff point for the group 9s analysis.
+You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.
+Chelsea Rochman, an ecologist at the University of California, Davis, has been trying to answer a dismal question: Is everything terrible, or are things just very, very bad?
+Rochman is a member of the National Center for Ecological Analysis and Synthesis’s marine-debris working group, a collection of scientists who study, among other things, the growing problem of marine debris, also known as ocean trash. Plenty of studies have sounded alarm bells about the state of marine debris; in a recent paper published in the journal Ecology, Rochman and her colleagues set out to determine how many of those perceived risks are real.
+Often, Rochman says, scientists will end a paper by speculating about the broader impacts of what they’ve found. For example, a study could show that certain seabirds eat plastic bags, and go on to warn that whole bird populations are at risk of dying out. ‘But the truth was that nobody had yet tested those perceived threats,’ Rochman says. ‘There wasn’t a lot of information.’
+Rochman and her colleagues examined more than a hundred papers on the impacts of marine debris that were published through 2013. Within each paper, they asked what threats scientists had studied – 366 perceived threats in all – and what they’d actually found.
+In 83 percent of cases, the perceived dangers of ocean trash were proven true. In the remaining cases, the working group found the studies had weaknesses in design and content which affected the validity of their conclusions – they lacked a control group, for example, or used faulty statistics.
+Strikingly, Rochman says, only one well-designed study failed to find the effect it was looking for, an investigation of mussels ingesting microscopic plastic bits. The plastic moved from the mussels’ stomachs to their bloodstreams, scientists found, and stayed there for weeks – but didn’t seem to stress out the shellfish.
+While mussels may be fine eating trash, though, the analysis also gave a clearer picture of the many ways that ocean debris is bothersome.
+Within the studies they looked at, most of the proven threats came from plastic debris, rather than other materials like metal or wood. Most of the dangers also involved large pieces of debris – animals getting entangled in trash, for example, or eating it and severely injuring themselves.
+But a lot of ocean debris is ‘microplastic’, or pieces smaller than five millimeters. These may be ingredients used in cosmetics and toiletries, fibers shed by synthetic clothing in the wash, or eroded remnants of larger debris. Compared to the number of studies investigating large-scale debris, Rochman’s group found little research on the effects of these tiny bits. ‘There are a lot of open questions still for microplastic,’ Rochman says, though she notes that more papers on the subject have been published since 2013, the cutoff point for the group’s analysis.
 90
 
 ## Page 91
 
 Reading
-There are also, she adds, a lot of open questions about the ways that ocean debris can lead to
-sea-creature death. Many studies have looked at how plastic affects an individual animal, or that
-animal9s tissues or cells, rather than whole populations. And in the lab, scientists often use higher
-concentrations of plastic than what9s really in the ocean. None of that tells us how many birds or
-fish or sea turtles could die from plastic pollution 一 or how deaths in one species could affect that
-animafs predators, or the rest of the ecosystem.
-cWe need to be asking more ecologically relevant questions/ Rochman says. Usually, scientists
-don?t know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and
-polluting huge areas of the ocean will affect the environment until after they9ve happened.4 We
-don't ask the right questions early enough,9 she says. But if ecologists can understand how the
-slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things
-from getting worse.
-Asking the right questions can help policy makers, and the public, figure out where to focus their
-attention. The problems that look or sound most dramatic may not be the best places to start. For
-example, the name of the 'Great Pacific Garbage Patch* 一 a collection of marine debris in the
-northern Pacific Ocean 一 might conjure up a vast, floating trash island. In reality though, much
-of the debris is tiny or below the surface; a person could sail through the area without seeing
-any trash at all. A Dutch group called 6The Ocean Cleanup5 is currently working on plans to put
-mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic. But a recent
-paper used simulations to show that strategically positioning the cleanup devices closer to shore
-would more effectively reduce pollution over the long term.
-CI think clearing up some of these misperceptions is really important/ Rochman says.
-Among scientists as well as in the media, she says, 6A lot of the images about strandings and
-entanglement and all of that cause the perception that plastic debris is killing everything in
-the ocean? Interrogating the existing scientific literature can help ecologists figure out which
-problems really need addressing, and which ones they'd be better off - like the mussels -
-absorbing and ignoring.
+There are also, she adds, a lot of open questions about the ways that ocean debris can lead to sea-creature death. Many studies have looked at how plastic affects an individual animal, or that animal’s tissues or cells, rather than whole populations. And in the lab, scientists often use higher concentrations of plastic than what’s really in the ocean. None of that tells us how many birds or fish or sea turtles could die from plastic pollution – or how deaths in one species could affect that animal’s predators, or the rest of the ecosystem.
+‘We need to be asking more ecologically relevant questions,’ Rochman says. Usually, scientists don’t know exactly how disasters such as a tanker accidentally spilling its whole cargo of oil and polluting huge areas of the ocean will affect the environment until after they’ve happened. ‘We don’t ask the right questions early enough,’ she says. But if ecologists can understand how the slow-moving effect of ocean trash is damaging ecosystems, they might be able to prevent things from getting worse.
+Asking the right questions can help policy makers, and the public, figure out where to focus their attention. The problems that look or sound most dramatic may not be the best places to start. For example, the name of the ‘Great Pacific Garbage Patch’ – a collection of marine debris in the northern Pacific Ocean – might conjure up a vast, floating trash island. In reality though, much of the debris is tiny or below the surface; a person could sail through the area without seeing any trash at all. A Dutch group called ‘The Ocean Cleanup’ is currently working on plans to put mechanical devices in the Pacific Garbage Patch and similar areas to suck up plastic. But a recent paper used simulations to show that strategically positioning the cleanup devices closer to shore would more effectively reduce pollution over the long term.
+‘I think clearing up some of these misperceptions is really important,’ Rochman says. Among scientists as well as in the media, she says, ‘A lot of the images about strandings and entanglement and all of that cause the perception that plastic debris is killing everything in the ocean.’ Interrogating the existing scientific literature can help ecologists figure out which problems really need addressing, and which ones they’d be better off – like the mussels – absorbing and ignoring.
 91
 
 ## Page 92
 
 Test 4
-Questions 27-33
+Questions 27–33
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 27-33 on your answer sheet, write
+In boxes 27–33 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
-27 Rochman and her colleagues were the first people to research the problem of
-marine debris.
+27 Rochman and her colleagues were the first people to research the problem of marine debris.
 28 The creatures most in danger from ocean trash are certain seabirds.
-29 The studies Rochman has reviewed have already proved that populations of some
-birds will soon become extinct.
-30 Rochma n analysed papers on the different kinds of dan ger caused by ocea n trash.
-31 Most of the research analysed by Rochman and her colleagues was badly
-designed.
-32 One study examined by Rochman was expecting to find that mussels were harmed
-by eating plastic.
-33 Some mussels choose to eat plastic in preferenee to their natural diet.
+29 The studies Rochman has reviewed have already proved that populations of some birds will soon become extinct.
+30 Rochman analysed papers on the different kinds of danger caused by ocean trash.
+31 Most of the research analysed by Rochman and her colleagues was badly designed.
+32 One study examined by Rochman was expecting to find that mussels were harmed by eating plastic.
+33 Some mussels choose to eat plastic in preference to their natural diet.
 92
 
 ## Page 93
 
 Reading
-Questions 34-39
+Questions 34–39
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 34-39 on your answer sheet.
-Findmgs reBated to marine debris
-Studies of marine debris f©ond the biggest threats were
-® plastic (not metal or wood)
-® bits of debris that were 34...............................(harmful to animals)
-There was little research into 35................................e.g. from synthetic fibres.
+Write your answers in boxes 34–39 on your answer sheet.
+Findings related to marine debris
+Studies of marine debris found the biggest threats were
+• plastic (not metal or wood)
+• bits of debris that were 34 __________ (harmful to animals)
+There was little research into 35 __________ e.g. from synthetic fibres.
 Drawbacks of the studies examined
-• most of them focused on individual a nirnmls, not entire 36................................
-® the 37.................................of plastic used in the lab did not always reflect those
-in the ocean
-® there was insufficient information on
-- numbers of animals which could be affected
-一 the impact of a reduction in numbers on the 38...............................of that
-species
-一 the impact on the ecosystem
-Rochman says more information is needed on the possible impact of future
-39................................(e.g. involving oil).
+• most of them focused on individual animals, not entire 36 __________
+• the 37 __________ of plastic used in the lab did not always reflect those in the ocean
+• there was insufficient information on
+– numbers of animals which could be affected
+– the impact of a reduction in numbers on the 38 __________ of that species
+– the impact on the ecosystem
+Rochman says more information is needed on the possible impact of future 39 __________ (e.g. involving oil).
 Question 40
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 40 on your answer sheet.
 40 What would be the best title for this passage?
-A
-Assessing the threat of marine debris
-B
-Marine debris: who is to blame?
-C
-A new solution to the problem of marine debris
-D
-Marine debris: the need for international action
+A Assessing the threat of marine debris
+B Marine debris: who is to blame?
+C A new solution to the problem of marine debris
+D Marine debris: the need for international action
 93
 
 ## Page 94
@@ -3936,44 +3572,61 @@ Listening and Reading answer keys
 TEST 1
 READING
 Reading Passage 1,
-Questions 1-13
-1 creativity 21&22 IN EITHER ORDER
-2 rules D
+Questions 1–13
+1 creativity
+2 rules
 3 cities
-E
-4&5 IN EITHER ORDER 23 activists
-traffic 24 con sumerism
-6 crime 25 leaflets
-7 competiti on 26 police
-8 evide nee
-9 life
-Reading Passage 3,
-1o TRUE
-Questions 27-40
-1 i TRUE
-1 NOT GIVEN 27 E
-1 3 FALSE 28 D
-TRUE 29 B
-30 D
-Reading Passage 2, 31 C
-Questions 14-26 32 YES
-33 NO
-14 E 34 NO
-15 C 35 NOT GIVEN
-16 F 36 restaurants
-17 C 37 performance
-18 A 38 turno ver
-19&20 IN EITHER ORDER 39 goals
-B 40 characteristics
+4&5 IN EITHER ORDER
+traffic
+crime
+6 competition
+7 evidence
+8 life
+9 TRUE
+10 TRUE
+11 NOT GIVEN
+12 FALSE
+13 TRUE
+Reading Passage 2,
+Questions 14–26
+14 E
+15 C
+16 F
+17 C
+18 A
+19&20 IN EITHER ORDER
+B
 D
-if you score ・.・
-0-17 18-26 27-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score un der exami nation acceptable score under
-examination conditions and we conditions but we recommend exami nation conditi ons but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+21&22 IN EITHER ORDER
+D
+E
+23 activists
+24 consumerism
+25 leaflets
+26 police
+Reading Passage 3,
+Questions 27–40
+27 E
+28 D
+29 B
+30 D
+31 C
+32 YES
+33 NO
+34 NO
+35 NOT GIVEN
+36 restaurants
+37 performance
+38 turnover
+39 goals
+40 characteristics
+If you score ...
+0–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–26
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+27–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 120
 
 ## Page 121
@@ -4020,41 +3673,59 @@ before you take IELTS. you take IELTS. scores acceptable.
 Listening and Reading answer keys
 TEST 2
 READING
-Reading Passage 1, 20 pathogens
-Questions 1-13 21 tuberculosis
-4 22 wards
-2 FALSE 23 communal
-3 TRUE 24 public
-4 NOT GIVEN 25 miasmas
-5 FALSE 26 cholera
-6 NOT GIVEN
-7 TRUE Reading Passage 3,
-8 FALSE
-Questions 27-40
-9 TRUE
-4 mercha nt 27 vi
-equipme nt 28 i
-11 gifts 29 iii
-12 canoe 30 ii
-13 mountains 31 ix
-32 vii
-Reading Passage 2, 33 iv
-Questions 14-26 34 viii
-i4 F 35 productive
-1 5 c 36 perfectionists
-1 6 E 37 dissatisfied
-1 7 D 38 TRUE
-1 8 B 39 FALSE
-40 NOT GIVEN
+Reading Passage 1,
+Questions 1–13
+1 FALSE
+2 TRUE
+3 NOT GIVEN
+4 FALSE
+5 NOT GIVEN
+6 TRUE
+7 FALSE
+8 TRUE
+9 merchant
+10 equipment
+11 gifts
+12 canoe
+13 mountains
+Reading Passage 2,
+Questions 14–26
+14 F
+15 C
+16 E
+17 D
+18 B
 19 design(s)
-If you score …
-0-18 19-27 28-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score under examination acceptable score under
-examination conditions and we conditions but we recommend examination conditions but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+20 pathogens
+21 tuberculosis
+22 wards
+23 communal
+24 public
+25 miasmas
+26 cholera
+Reading Passage 3,
+Questions 27–40
+27 vi
+28 i
+29 iii
+30 ii
+31 ix
+32 vii
+33 iv
+34 viii
+35 productive
+36 perfectionists
+37 dissatisfied
+38 TRUE
+39 FALSE
+40 NOT GIVEN
+If you score ...
+0–18
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+19–27
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+28–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 122
 
 ## Page 123
@@ -4102,45 +3773,59 @@ Listening and Reading answer keys
 TEST 3
 READING
 Reading Passage 1,
-Questions 1-13 21&22 IN EITHER ORDER
-4 B
-2 B C
-3 A 23 ecology
-4 D 24 prey
-5 NOT GIVEN 25 habitats
-6 NO 26 antibiotics
-7 YES
-8 B
-Reading Passage 33
-9 C
-Questions 27-40
-B
-巾
-1 A 27 B
-1 A 28 G
-C 29 F
-12
-A 30 E
-13
-31 C
-Reading Passage 2, 32 NO
-Questions 14-26 33 YES
-34 NOT GIVEN
-14 c 35 NO
-15 H 36 YES
-16 A 37 en couragi ng
-17 F 38 desire
-18 I 39 autonomy
-19 B 40 targeted
+Questions 1–13
+1 B
+2 A
+3 D
+4 NOT GIVEN
+5 NO
+6 YES
+7 B
+8 C
+9 B
+10 A
+11 A
+12 C
+13 A
+Reading Passage 2,
+Questions 14–26
+14 C
+15 H
+16 A
+17 F
+18 I
+19 B
 20 E
-If you score ・・・
-0-17 18-26 27-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score under examinmtion acceptable score under
-examination conditions and we conditions but we recommend examination conditions but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+21&22 IN EITHER ORDER
+B
+C
+23 ecology
+24 prey
+25 habitats
+26 antibiotics
+Reading Passage 3,
+Questions 27–40
+27 B
+28 G
+29 F
+30 E
+31 C
+32 NO
+33 YES
+34 NOT GIVEN
+35 NO
+36 YES
+37 encouraging
+38 desire
+39 autonomy
+40 targeted
+If you score ...
+0–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–26
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+27–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 124
 
 ## Page 125
@@ -4187,44 +3872,61 @@ before you take IELTS. you take IELTS. scores acceptable.
 Listening and Reading answer keys
 TEST 4
 READING
-Reading Passage 1, 21 FALSE
-Questions 1-13 22 NOT GIVEN
-1 23&24 IN EITHER ORDER
-2 four/4 B
-3 young D
-4 food 25&26 IN EITHER ORDER
-5 light B
-6 aggressively E
-7 location
-8 neurons
-Reading Passage 3,
-9 chemicals
-Questions 27-40
-FALSE
-巾
-TRUE 27 FALSE
-114 FALSE 28 NOT GIVEN
-NOT GIVEN 29 FALSE
-13 TRUE 30 TRUE
-31 FALSE
-Reading Passage 2, 32 TRUE
-Questions 14-26 33 NOT GIVEN
-34 large
-14 B 35 microplastic
-15 E 36 populatio ns
-16 C 37 concen tratio ns
-17 A 38 predators
-18 TRUE 39 disasters
-19 TRUE 40 A
+Reading Passage 1,
+Questions 1–13
+1 four / 4
+2 young
+3 food
+4 light
+5 aggressively
+6 location
+7 neurons
+8 chemicals
+9 FALSE
+10 TRUE
+11 FALSE
+12 NOT GIVEN
+13 TRUE
+Reading Passage 2,
+Questions 14–26
+14 B
+15 E
+16 C
+17 A
+18 TRUE
+19 TRUE
 20 NOT GIVEN
-If you score ・・・
-0-17 18-26 27-40
-you are unlikely to get an you may get an acceptable you are likely to get an
-acceptable score under score un der exami nation acceptable score under
-examination conditions and we conditions but we recommend exami nation conditi ons but
-recommend that you spend a lot that you think about having remember that different
-of time improving your English more practice or lessons before institutions will find different
-before you take IELTS. you take IELTS. scores acceptable.
+21 FALSE
+22 NOT GIVEN
+23&24 IN EITHER ORDER
+B
+D
+25&26 IN EITHER ORDER
+B
+E
+Reading Passage 3,
+Questions 27–40
+27 FALSE
+28 NOT GIVEN
+29 FALSE
+30 TRUE
+31 FALSE
+32 TRUE
+33 NOT GIVEN
+34 large
+35 microplastic
+36 populations
+37 concentrations
+38 predators
+39 disasters
+40 A
+If you score ...
+0–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–26
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+27–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 126
 
 ## Page 127

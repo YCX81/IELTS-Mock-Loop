@@ -161,7 +161,7 @@ Write your answers in boxes 15-21 on your answer sheet.
     text: `| Taste | some types | poor | nerves linked to their 15 __________ are underdeveloped |
 | Touch | all | yes | region around the blowhole very sensitive |
 | Vision | 16 __________ | yes | probably do not have stereoscopic vision |
-| Vision | dolphins, porpoises | yes | probably have stereoscopic vision 17 __________ and __________ |
+| Vision | dolphins, porpoises | yes | probably have stereoscopic vision 17 __________ |
 | Vision | 18 __________ | yes | probably have stereoscopic vision forward and upward |
 | Vision | bottlenose dolphin | yes | exceptional in 19 __________ and good in air-water interface |
 | Vision | boutu and beiji | poor | have limited vision |
@@ -1826,6 +1826,7 @@ Write ONE WORD AND/OR A NUMBER for each answer.
     page: 98,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-11/page-098-writing-task-1-museum-table-charts.png"],
     image: "data/generated/image-review/cambridge-ielts-11/page-098-writing-task-1-museum-satisfaction-pie-charts.png",
     appendText: `Total number of visitors to Ashdown Museum
 
@@ -5262,6 +5263,7 @@ Write ONE WORD AND/OR A NUMBER for each answer.
     page: 57,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-07/page-057-writing-task-1-graph.png"],
     image: "data/generated/image-review/cambridge-ielts-07/page-057-writing-task-1-fish-meat-consumption-chart-image2.png",
     notes: ["Restored the Writing Test 2 Task 1 fish-and-meat consumption line graph with all four series and complete axes."],
   },
@@ -5339,6 +5341,7 @@ D the eating habits of American and Asian populations.`,
     page: 105,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-07/page-105-writing-task-1-pie-charts.png"],
     image: "data/generated/image-review/cambridge-ielts-07/page-105-writing-task-1-electricity-fuel-pie-charts-image2.png",
     notes: ["Restored all four Writing Test 4 Task 1 pie charts and their fuel-source legend for Australia and France in 1980 and 2000."],
   },
@@ -5424,6 +5427,7 @@ Write ONE WORD AND/OR A NUMBER for each answer.
     page: 52,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-08/page-052-writing-task-1-pie-charts.png"],
     image: "data/generated/image-review/cambridge-ielts-08/page-052-writing-task-1-school-spending-pie-charts-image2.png",
     notes: ["Restored all three Writing Test 2 Task 1 school-spending pie charts with complete category labels and percentages for 1981, 1991 and 2001."],
   },
@@ -5465,6 +5469,7 @@ Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.
     page: 77,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-08/page-077-writing-task-1-process-diagrams.png"],
     image: "data/generated/image-review/cambridge-ielts-08/page-077-writing-task-1-cement-concrete-process-image2.png",
     notes: ["Restored both Writing Test 3 Task 1 process diagrams, including all cement-production stages and the four concrete ingredients with proportions."],
   },
@@ -5501,6 +5506,7 @@ Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.
     page: 24,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-09/page-024-writing-task-1-island-maps.png"],
     image: "data/generated/image-review/cambridge-ielts-09/page-024-writing-task-1-island-development-maps-image2.png",
     notes: ["Restored the before-and-after island maps for Writing Test 1 Task 1, including all tourist facilities, paths, pier and swimming area."],
   },
@@ -5618,6 +5624,7 @@ Write ONE WORD AND/OR A NUMBER for each answer.
     page: 80,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-09/page-080-writing-task-1-population-charts.png"],
     image: "data/generated/image-review/cambridge-ielts-09/page-080-writing-task-1-yemen-italy-population-pie-charts-image2.png",
     notes: ["Restored all four Yemen/Italy population-age pie charts, the age-band legend and every percentage for 2000 and 2050."],
   },
@@ -5700,6 +5707,7 @@ Write ONE WORD ONLY for each answer.
     page: 111,
     status: "calibrated",
     reason: "visual_review",
+    removeImages: ["data/generated/image-review/cambridge-ielts-09/page-111-writing-task-1-energy-graph.png"],
     image: "data/generated/image-review/cambridge-ielts-09/page-111-writing-task-1-us-energy-consumption-chart-image2.png",
     notes: ["Restored the Writing Test 4 Task 1 US energy-consumption graph with all six fuels, history/projection split and complete 1980-2030 axes."],
   },
@@ -6051,14 +6059,19 @@ function applyBookCalibrations(book, entries) {
     if (!page) throw new Error(`Could not find page-json ${book} page ${entry.page}`);
     const nextText = withEmbeddedImage(entry, withAppendedText(entry, withoutRemovedImages(entry, entry.text || page.text)));
     if (entry.text || entry.appendText || entry.removeImages || shouldEmbedImage(entry)) raw = replaceMarkdownPage(raw, entry.page, nextText);
-    if (page.text !== nextText || !page.calibration) {
+    const calibration = {
+      status: entry.status,
+      reason: entry.reason,
+      image: entry.image,
+    };
+    if (shouldEmbedImage(entry)) calibration.embeddedInText = true;
+    const calibrationChanged =
+      page.calibration?.status !== calibration.status ||
+      page.calibration?.reason !== calibration.reason ||
+      page.calibration?.image !== calibration.image ||
+      Boolean(page.calibration?.embeddedInText) !== Boolean(calibration.embeddedInText);
+    if (page.text !== nextText || calibrationChanged) {
       page.text = nextText;
-      const calibration = {
-        status: entry.status,
-        reason: entry.reason,
-        image: entry.image,
-      };
-      if (shouldEmbedImage(entry)) calibration.embeddedInText = true;
       page.calibration = calibration;
       changes += 1;
     }

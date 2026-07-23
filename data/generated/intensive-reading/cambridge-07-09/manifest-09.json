@@ -1,0 +1,632 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.722Z",
+  "book": 9,
+  "generatedCount": 12,
+  "recoveredCount": 0,
+  "skippedCount": 0,
+  "sourceBank": "data/cambridge-test-bank.json",
+  "outputDir": "data/generated/intensive-reading/cambridge-07-09",
+  "files": [
+    {
+      "key": "9-1-1",
+      "book": 9,
+      "test": 1,
+      "passage": 1,
+      "title": "William Henry Perkin",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-01-William-Henry-Perkin.md",
+      "sentenceCount": 43,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "answerKeyPage": 148,
+      "sha256": "5998afea4155e6706596dc4695e3faad9c5774d70f14fcfdef6e4c4945fe143a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-1-2",
+      "book": 9,
+      "test": 1,
+      "passage": 2,
+      "title": "IS THERE ANYBODY OUT THERE?",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-02-Search-for-Extra-terrestrial-Intelligence.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "answerKeyPage": 148,
+      "sha256": "26461c0fcdb0cb6a5de04e9c7426be1856b00a7fcf01ba5a3c9a91f75d6ef893",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-1-3",
+      "book": 9,
+      "test": 1,
+      "passage": 3,
+      "title": "The history of the tortoise",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-03-History-of-the-Tortoise.md",
+      "sentenceCount": 42,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        18,
+        19,
+        20
+      ],
+      "answerKeyPage": 148,
+      "sha256": "d5c8c5dba9466c9c3aaa04fa2afd38e9de26834554b15d22d96ee5a4cc29e530",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-1",
+      "book": 9,
+      "test": 2,
+      "passage": 1,
+      "title": "Reading Passage 1",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-01-Classroom-noise-and-children.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "answerKeyPage": 150,
+      "sha256": "d893db3270663d03f5b2b3726e7fcbcecee394cc3e14e39a097ebb173fcb7d0b",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-2",
+      "book": 9,
+      "test": 2,
+      "passage": 2,
+      "title": "Venus in transit",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-02-Venus-in-transit.md",
+      "sentenceCount": 44,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "answerKeyPage": 150,
+      "sha256": "071849449d71740f633007421117f30835897293864aa75335a30894a2e77968",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-3",
+      "book": 9,
+      "test": 2,
+      "passage": 3,
+      "title": "A neuroscientist reveals how to think differently",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-03-A-neuroscientist-reveals-how-to-think-differently.md",
+      "sentenceCount": 55,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "answerKeyPage": 150,
+      "sha256": "3d2a4ae8b654b48de948ea7d356e1dde7f0c9be576141011fb52b3dbae7961f4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-3-1",
+      "book": 9,
+      "test": 3,
+      "passage": 1,
+      "title": "Attitudes to Language",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-01-Attitudes-to-Language.md",
+      "sentenceCount": 29,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        64,
+        65,
+        66
+      ],
+      "answerKeyPage": 152,
+      "sha256": "2254ce5278b7ef705453a8af8c5d603a48c8d711b41265c3b1e7a7f8eca281e4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-3-2",
+      "book": 9,
+      "test": 3,
+      "passage": 2,
+      "title": "Tidal Power",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-02-Tidal-Power.md",
+      "sentenceCount": 31,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        69,
+        70,
+        71
+      ],
+      "answerKeyPage": 152,
+      "sha256": "2dbfbe351c514ab27d79e4bcc3211028a072e7cbabbfae07e4247a867ad1c663",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "key": "9-3-3",
+      "book": 9,
+      "test": 3,
+      "passage": 3,
+      "title": "Information theory — the big idea",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-03-Information-theory-the-big-idea.md",
+      "sentenceCount": 36,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "answerKeyPage": 152,
+      "sha256": "f060fe35d666856886ee79582855cf08387c0d52eec9899e12796003638f35ce",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-1",
+      "book": 9,
+      "test": 4,
+      "passage": 1,
+      "title": "The life and work of Marie Curie",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-01-The-life-and-work-of-Marie-Curie.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "answerKeyPage": 154,
+      "sha256": "9e9d0cae66e990f0bad640abe56441b8d66343f02ad7bab82a84dc52819bf144",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-2",
+      "book": 9,
+      "test": 4,
+      "passage": 2,
+      "title": "Young children’s sense of identity",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-02-Young-childrens-sense-of-identity.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "answerKeyPage": 154,
+      "sha256": "fd4a8e03b7516ec415674eb3cf5293e74eca1bf0cdc7b73c96d595ccbd23fbf7",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-3",
+      "book": 9,
+      "test": 4,
+      "passage": 3,
+      "title": "The Development of Museums",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-03-The-Development-of-Museums.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "answerKeyPage": 154,
+      "sha256": "0e9a1c143a6d88002fd7871695eee2d272029b3227651f30563ac70565798deb",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "entries": [
+    {
+      "key": "9-1-1",
+      "book": 9,
+      "test": 1,
+      "passage": 1,
+      "title": "William Henry Perkin",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-01-William-Henry-Perkin.md",
+      "sentenceCount": 43,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "answerKeyPage": 148,
+      "sha256": "5998afea4155e6706596dc4695e3faad9c5774d70f14fcfdef6e4c4945fe143a",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-1-2",
+      "book": 9,
+      "test": 1,
+      "passage": 2,
+      "title": "IS THERE ANYBODY OUT THERE?",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-02-Search-for-Extra-terrestrial-Intelligence.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "answerKeyPage": 148,
+      "sha256": "26461c0fcdb0cb6a5de04e9c7426be1856b00a7fcf01ba5a3c9a91f75d6ef893",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-1-3",
+      "book": 9,
+      "test": 1,
+      "passage": 3,
+      "title": "The history of the tortoise",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-01-Passage-03-History-of-the-Tortoise.md",
+      "sentenceCount": 42,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        18,
+        19,
+        20
+      ],
+      "answerKeyPage": 148,
+      "sha256": "d5c8c5dba9466c9c3aaa04fa2afd38e9de26834554b15d22d96ee5a4cc29e530",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-1",
+      "book": 9,
+      "test": 2,
+      "passage": 1,
+      "title": "Reading Passage 1",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-01-Classroom-noise-and-children.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 4,
+      "sourcePages": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "answerKeyPage": 150,
+      "sha256": "d893db3270663d03f5b2b3726e7fcbcecee394cc3e14e39a097ebb173fcb7d0b",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-2",
+      "book": 9,
+      "test": 2,
+      "passage": 2,
+      "title": "Venus in transit",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-02-Venus-in-transit.md",
+      "sentenceCount": 44,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "answerKeyPage": 150,
+      "sha256": "071849449d71740f633007421117f30835897293864aa75335a30894a2e77968",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-2-3",
+      "book": 9,
+      "test": 2,
+      "passage": 3,
+      "title": "A neuroscientist reveals how to think differently",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-02-Passage-03-A-neuroscientist-reveals-how-to-think-differently.md",
+      "sentenceCount": 55,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "answerKeyPage": 150,
+      "sha256": "3d2a4ae8b654b48de948ea7d356e1dde7f0c9be576141011fb52b3dbae7961f4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-3-1",
+      "book": 9,
+      "test": 3,
+      "passage": 1,
+      "title": "Attitudes to Language",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-01-Attitudes-to-Language.md",
+      "sentenceCount": 29,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        64,
+        65,
+        66
+      ],
+      "answerKeyPage": 152,
+      "sha256": "2254ce5278b7ef705453a8af8c5d603a48c8d711b41265c3b1e7a7f8eca281e4",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-3-2",
+      "book": 9,
+      "test": 3,
+      "passage": 2,
+      "title": "Tidal Power",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-02-Tidal-Power.md",
+      "sentenceCount": 31,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        69,
+        70,
+        71
+      ],
+      "answerKeyPage": 152,
+      "sha256": "2dbfbe351c514ab27d79e4bcc3211028a072e7cbabbfae07e4247a867ad1c663",
+      "links": 3,
+      "deepDives": 3,
+      "images": 1,
+      "partial": false
+    },
+    {
+      "key": "9-3-3",
+      "book": 9,
+      "test": 3,
+      "passage": 3,
+      "title": "Information theory — the big idea",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-03-Passage-03-Information-theory-the-big-idea.md",
+      "sentenceCount": 36,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "answerKeyPage": 152,
+      "sha256": "f060fe35d666856886ee79582855cf08387c0d52eec9899e12796003638f35ce",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-1",
+      "book": 9,
+      "test": 4,
+      "passage": 1,
+      "title": "The life and work of Marie Curie",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-01-The-life-and-work-of-Marie-Curie.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        93,
+        94,
+        95,
+        96
+      ],
+      "answerKeyPage": 154,
+      "sha256": "9e9d0cae66e990f0bad640abe56441b8d66343f02ad7bab82a84dc52819bf144",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-2",
+      "book": 9,
+      "test": 4,
+      "passage": 2,
+      "title": "Young children’s sense of identity",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-02-Young-childrens-sense-of-identity.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "answerKeyPage": 154,
+      "sha256": "fd4a8e03b7516ec415674eb3cf5293e74eca1bf0cdc7b73c96d595ccbd23fbf7",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "9-4-3",
+      "book": 9,
+      "test": 4,
+      "passage": 3,
+      "title": "The Development of Museums",
+      "file": "data/generated/intensive-reading/cambridge-07-09/Cambridge-IELTS-09-Test-04-Passage-03-The-Development-of-Museums.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "answerKeyPage": 154,
+      "sha256": "0e9a1c143a6d88002fd7871695eee2d272029b3227651f30563ac70565798deb",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "skipped": []
+}

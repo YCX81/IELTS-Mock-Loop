@@ -170,7 +170,6 @@ At the time of Perkin’s enrolment, the Royal College of Chemistry was headed
 by the noted German chemist August Wilhelm Hofmann. Perkin’s scientific gifts soon
 caught Hofmann’s attention and, within two years, he became Hofmann’s youngest
 assistant. Not long after that, Perkin made the scientific breakthrough that would bring
-
 ## Page 8
 
 him both fame and fortune.
@@ -195,7 +194,6 @@ was once so costly that in society at the time only the rich could afford it. Fu
 natural dyes tend to be muddy in hue and fade quickly. It was against this backdrop
 that Perkin’s discovery was made.
 Perkin quickly grasped that his purple solution could be used to colour fabric,
-
 ## Page 9
 
 thus making it the world’s first synthetic dye. Realising the importance of this
@@ -220,7 +218,6 @@ fast, and the public clamoured for more. Perkin went back to the drawing board.
 Although Perkin’s fame was achieved and fortune assured by his first discovery,
 the chemist continued his research. Among other dyes he developed and introduced
 were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin’s
-
 ## Page 10
 
 synthetic dye discoveries had outcomes far beyond the merely decorative. The dyes
@@ -245,7 +242,6 @@ famous.
 5 The trees from which quinine is derived grow only in South America.
 6 Perkin hoped to manufacture a drug from a coal tar waste product.
 7 Perkin was inspired by the discoveries of the famous scientist Louis Pasteur.
-
 ## Page 11
 
 Questions 8-13
@@ -261,16 +257,15 @@ dye works?
 12 In what county did Perkin’s newly invented colour first become fashionable?
 13 According to the passage, which disease is now being targeted by researchers
 using synthetic dyes?
-
 ## Page 12
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Questions 14—26, which are based on
 Reading Passage 2 on the following pages.
-Questions 14-17
+Questions 14—17
 Reading Passage 2 has five paragraphs, A—E.
 Choose the correct heading for paragraphs B—E from the list of headings below.
-Write the correct number, ⅰ—ⅶ, in boxes 14-17 in your answer sheet.
+Write the correct number, i—vii, in boxes 14-17 in your answer sheet.
 List of Headings
 i. Seeking the transmission of radio signals from planets
 ii. Appropriate responses to signals from other civilisations
@@ -280,12 +275,11 @@ v. Reasons for the search for extra-terrestrial intelligence
 vi. Knowledge of extra terrestrial life forms
 vii. Likelihood of life on other planets
 Example Answer
-Paragraph A ⅴ
+Paragraph A v
 14 Paragraph B
 15 Paragraph C
 16 Paragraph D
 17 Paragraph E
-
 ## Page 13
 
 IS THERE ANYBODY OUT THERE?
@@ -309,7 +303,6 @@ other reasons for being interested in whether life exists elsewhere. For example
 have had civilization on Earth for perhaps only a few thousand years, and the threats
 of the nuclear war and pollution over the last few decades have told us that our
 survival may be tenuous. Will we last another two thousand years or will we wipe
-
 ## Page 14
 
 ourselves out? Since the lifetime of a planet like outs is several billion years, we can
@@ -334,7 +327,6 @@ Universe, live on a planet orbiting a star like our Sun, and perhaps most restri
 have a chemistry, like us, based on carbon and water.
 C
 Even when we make these assumptions, our understanding of other life forms is still
-
 ## Page 15
 
 severely limited. We do not even know, for example, how many stars have planets,
@@ -359,7 +351,6 @@ detections from the few hundred stars which have been searched. The scale of the
 searches has been increased dramatically since 1992, when the US Congress NASA
 110 million per year for ten years to conduct a thorough search for extra terrestrial life.
 Much of the money in this project is being spent on the developing the special
-
 ## Page 16
 
 hardware needed to search many frequencies at once. The project has two parts.
@@ -383,7 +374,6 @@ While the human race debates the question of whether to reply, and perhaps caref
 drafts a reply.
 Questions 18-20
 Answer the questions below.
-
 ## Page 17
 
 Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage
@@ -407,7 +397,6 @@ ways.
 24 So far SETI scientists have picked up radio signals from several stars.
 25 The NASA project attracted criticism from some members of Congress.
 26 If a signal from outer space is received, it will be important to respond promptly.
-
 ## Page 18
 
 READING PASSAGE 3
@@ -431,7 +420,6 @@ what the intermediates might have been like, on the way to extreme cases such as
 whales and dugongs. Whales (including the small whales we call dolphins) and
 dugongs, with their close cousins the manatees, ceased to be land creatures
 altogether and reverted to the full marine habits of their remote ancestors. They don’t
-
 ## Page 19
 
 even come ashore to breed. They do, however, still breathe air, having never
@@ -456,7 +444,6 @@ part of the triangle; all the water turtles cluster in the lower part of the tri
 There was no overlap except when they added some species that spend time both in
 water and on land. Sure enough, these amphibious species show up on the triangular
 graph approximately half way between the ‘wet cluster’ of land tortoises. The next
-
 ## Page 20
 
 step was to determine where the fossils fell. The bones of P. quenstedti and P.
@@ -479,10 +466,9 @@ primeval bacteria. Later ancestors lived on land and stayed there for a very lar
 number of generations. Later ancestors still evolved back into the water and became
 sea turtles. And finally they returned yet again to the land as tortoises, some of which
 now live in the driest of deserts.
-
 ## Page 21
 
-Questions 27-30
+Question 27-30
 Answer the questions below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 27-30 on your answer sheet.
@@ -491,7 +477,7 @@ Write your answers in boxes 27-30 on your answer sheet.
 big changes as they moved onto land?
 29 Which physical feature, possessed by their ancestors, do whales lack?
 30 Which animals might ichthyosaurs have resembled?
-Questions 31-33
+Question 31-33
 Do the following statements agree with the information given in Reading Passage 3?
 In boxes 31—33 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -502,7 +488,6 @@ NOT GIVEN if there is no information on this
 remains are incomplete.
 33 The habitat of ichthyosaurs can be determined by the appearance of their
 fossilized remains.
-
 ## Page 22
 
 Reading
@@ -564,8 +549,6 @@ tourist facilities.
 Summarise the information by selecting and reporting the main features, and
 make comparisons where relevant.
 Write at least 150 words.
-
-![Cambridge IELTS 09 page 024 figure](data/generated/image-review/cambridge-ielts-09/page-024-writing-task-1-island-maps.png)
 
 ![Cambridge IELTS 09 page 024 figure](data/generated/image-review/cambridge-ielts-09/page-024-writing-task-1-island-development-maps-image2.png)
 
@@ -792,7 +775,7 @@ Suitable employee: likes to work in groups
 
 READING
 READING PASSAGE 1
-You should spend about 20 minutes an Questions 1-13, which are based on
+You should spend about 20 minutes an Question 1—13, which are based on
 Reading Passage 1 below.
 A. Hearing impairment or other auditory function deficit in young children can have a
 major impact on their development of speech and communication, resulting in a
@@ -925,7 +908,7 @@ C cooling systems
 D large class sizes
 E loud-voiced teachers
 F playground games
-Questions 1-3
+Questions 13
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 13 on your answer sheet.
 What is the writer’s overall purpose in writing this article?
@@ -937,7 +920,7 @@ D to promote New Zealand as a model for other countries to follow
 ## Page 41
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Question 14—26, which are based on
 Reading Passage 2 below.
 Venus in transit
 June 2004 saw the first passage, known as a ‘transit’, of the planet Venus across the
@@ -1022,10 +1005,10 @@ G. June 2004’s transit of Venus was thus more of an astronomical spectacle tha
 a scientifically important event. But such transits have paved the way for what
 might prove to be one of the most vital breakthrough in the cosmos—detecting
 Earth-sized planets orbiting other stars.
-Questions 14-17
+Questions 14—17
 Reading Passage 2 has seven paragraphs, A—G.
 Which paragraph contains the following information?
-Write the correct letter, A—G, in boxes 14-17 on your answer sheet.
+Write the correct letter, A—G, in boxes 14—17 on your answer sheet.
 14 examples of different ways in which the parallax principle has been applied
 15 a description of an event which prevented a transit observation
 16 a statement about potential future discoveries leading on from transit
@@ -1036,9 +1019,9 @@ instruments failed to overcome
 ## Page 45
 
 Questions 18-21
-Look at the following statements (Questions 18-21) and the list of people below.
+Look at the following statements (Questions 18—21) and the list of people below.
 Match each statement with the correct person, A, B, C or D.
-Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 18—21 on your answer sheet.
 18 He calculated the distance of the Sun from the Earth based one observations of
 Venus with a fair degree of accuracy.
 19 He understood that the distance of the Sun from the Earth could be worked out
@@ -1070,7 +1053,7 @@ stars are from the Earth.
 ## Page 47
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27—40, which are based on
 Reading Passage 3 below.
 A neuroscientist reveals how to think differently
 In the last decade a revolution has occurred in the way that scientists think about the
@@ -1151,9 +1134,9 @@ technology to business. They supply creativity and innovation not easily
 accomplished by committees. Rules aren’t important to them. Iconoclasts face
 alienation and failure, but can also be a major asset to any organization. It is crucial
 for success in any field to understand how the iconoclastic mind works.
-Questions 27-31
+Questions 27—31
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-31 on your answer sheet.
+Write the correct letter in boxes 27—31 on your answer sheet.
 27 Neuroeconomics is a field of study which seeks to
 A cause a change in how scientists understand brain chemistry.
 B understand how good decisions are made in the brain.
@@ -1200,7 +1183,7 @@ irrelevant.
 37 Fear of public speaking is a psychological illness.
 Questions 38-40
 Complete each sentence with the correct ending, A—E, below.
-Write the correct letter, A—E, in boxes 38-40 on your answer sheet.
+Write the correct letter, A—E, in boxes 38—40 on your answer sheet.
 38 Thinking like a successful iconoclast is demanding because it
 39 The concept of the social brain is useful to iconoclasts because it
 40 Iconoclasts are generally an asset because their way of thinking
@@ -1491,7 +1474,7 @@ because of the way they see all forms of usage as equally valid. Prescriptive
 grammarians have been presented as blind adherents to a historical tradition. The
 opposition has even been presented in quasi-political terms—of radical liberalism vs
 elitist conservatism.
-Questions 1-8
+Question 1—8
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—8 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -1510,7 +1493,7 @@ language.
 6 According to descriptivist it is pointless to try to stop language change.
 7 Descriptivism only appeared after the 18th century.
 8 Both descriptivists and prescriptivists have been misrepresented.
-Questions 9-12
+Question 9-12
 Complete the summary using the list of words, A—I, below.
 Write the correct letter, A—I, in boxes 9—12 on your answer sheet.
 The language debate
@@ -1538,7 +1521,7 @@ D to show how a certain view of language has been discredited.
 ## Page 69
 
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on
+You should spend about 20 minutes on Question 14—26, which are based on
 Reading Passage 2 below.
 Tidal Power
 Undersea turbines which produce electricity from the tides are set to become an
@@ -1610,19 +1593,19 @@ we can do it are good.
 
 ## Page 72
 
-Questions 14-17
+Question14-17
 Reading Passage 2 has six paragraphs, A—F.
 Which paragraph contains the following information?
-Write the correct letter, A—F, in boxes 14-17 on your answer sheet.
+Write the correct letter, A—F, in boxes 14—17 on your answer sheet.
 NB You may use any letter more than once.
 14 The location of the first test site
 15 a way of bringing the power produced on one site back into Britain
 16 a reference to a previous attempt by Britain to find an alternative source of
 energy
 17 mention of the possibility of applying technology from another industry
-Questions 18-22
+Question18-22
 Choose FIVE letters, A—J.
-Write the correct letters in boxes 18-22 on your answer sheet.
+Write the correct letters in boxes 18—22 on your answer sheet.
 Which FIVE of the following claims about tidal power are made by the writer?
 A It is a more reliable source of energy than wind power.
 B It would replace all other forms of energy in Britain
@@ -1652,7 +1635,7 @@ Label prompts:
 ## Page 74
 
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on
+You should spend about 20 minutes on Questions 27—40, which are based on
 Reading Passage 3 below.
 Information theory — the big idea
 Information theory lies at the heart of everything—from DVD players and the genetic
@@ -1734,10 +1717,10 @@ correction, however, there’s a limit beyond which message become too
 ambiguous. Shannon showed how to calculate this limit, opening the way to the
 design of compression methods that cram maximum information into the
 minimum space.
-Questions 27-32
+Question27-32
 Reading Passage 3 has six paragraphs, A—F.
 Which paragraph contains the following information?
-Write the correct letter, A—F, in boxes 27-32 on your answer sheet.
+Write the correct letter, A—F, in boxes 27—32 on your answer sheet.
 27 an explanation of the factors affecting the transmission of the information
 28 an example of how unnecessary information can be omitted
 29 a reference to Shannon’s attitude to fame
@@ -1747,7 +1730,7 @@ Write the correct letter, A—F, in boxes 27-32 on your answer sheet.
 
 ## Page 78
 
-Questions 33-37
+Question33-37
 Complete the notes below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 33—37 on your answer sheet.
@@ -1765,9 +1748,9 @@ distance made communication with probe difficult.
 
 ## Page 79
 
-Questions 38-40
+Question38-40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38—40 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
@@ -1788,8 +1771,6 @@ Italy in 2000 and projections for 2050.
 Summarise the information by selecting and reporting the main features, and
 make comparisons where relavant.
 Write at least 150 words.
-
-![Cambridge IELTS 09 page 080 figure](data/generated/image-review/cambridge-ielts-09/page-080-writing-task-1-population-charts.png)
 
 ![Cambridge IELTS 09 page 080 figure](data/generated/image-review/cambridge-ielts-09/page-080-writing-task-1-yemen-italy-population-pie-charts-image2.png)
 
@@ -2105,14 +2086,14 @@ of the experiments undertaken in the years around 1930.This work prepared the wa
 ## Page 96
 
 for the discovery of the neutron by Sir James Chadwick and, above all, for the
-discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity. A few
+discovery in 1934 by Irene and Frederic Joliot-Curie of artificial radioactivity.A few
 months after this discovery, Marie Curie died as a result of leukaemia caused by
 exposure to radiation. She had often carried test tubes containing radioactive
 isotopes in her pocket, remarking on the pretty blue-green light they gave off.
 Her contribution to physics had been immense, not only in her own work, the
 importance of which had been demonstrated by her two Nobel Prizes, but because of
 her influence on subsequent generations of nuclear physicists and chemists.
-Questions 1--6
+Questions 1—6
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—6 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -2145,10 +2126,10 @@ technique for 10……….
 research and for cases of 11……….
  The radioactive material stocked in Paris contributed to the discoveries in the
 1930s of the 12……… and of what was known as artificial radioactivity.
-READING PASSAGE 2
  During her research, Marie Curie was exposed to radiation and as a result
-You should spend about 20 minutes on Questions 14-26 which are based on
 she suffered from 13……….
+READING PASSAGE 2
+You should spend about 20 minutes on Questions 14-26 which are based on
 
 ## Page 98
 
@@ -2235,7 +2216,7 @@ before or after the tug-of-war: the children seemed to be disputing ownership
 rather than wanting to play with it. Although it may be less marked in other
 societies, the link between the sense of ‘self’ and of ‘ownership’ is a notable
 feature of childhood in Western societies.
-Questions 14-19
+Question 14-19
 Reading Passage 2 has eight paragraphs, A-H.
 Which paragraph contains the following information?
 Write the correct letter, A—H, in boxes 14-19 on your answer sheet.
@@ -2250,7 +2231,7 @@ NB You may use any letter more than once.
 
 ## Page 102
 
-Questions 20-23
+Question 20-23
 Look at the following findings (Questions 20-23) and the list of researchers below.
 Match each finding with the correct researcher or researchers. A—E.
 Write the correct letter, A—E, in boxes 20—23 on your answer sheet.
@@ -2288,18 +2269,18 @@ disputes.
 READING PASSAGE 3
 You should spend about 20 minutes on Questions 27-40, which are based on
 Reading Passage 3 on the following pages.
-Questions 27-30
+Questions 27—30
 Reading Passage 3 has six paragraphs, A—F.
 Choose the correct heading for paragraphs B—E from the list of headings below.
-Write the correct number,ⅰ—ⅶ, in boxes 27-30 in your answer sheet.
+Write the correct number, i—vii, in boxes 27-30 in your answer sheet.
 List of headings
-I. Commercial pressures on people in charge
-II. Mixed views on current changes to museums
-III. Interpreting the facts to meet visitor expectations
-IV. The international dimension
-V. Collections of factual evidence
-VI. Fewer differences between public attractions
-VII. Current reviews and suggestions
+i. Commercial pressures on people in charge
+ii. Mixed views on current changes to museums
+iii. Interpreting the facts to meet visitor expectations
+iv. The international dimension
+v. Collections of factual evidence
+vi. Fewer differences between public attractions
+vii. Current reviews and suggestions
 Example Answer
 Paragraph A v
 27 Paragraph B
@@ -2392,7 +2373,7 @@ of the upper class of that era. No wonder that people who stroll around exhibiti
 are filled with nostalgia; the evidence in museums indicates that life was so much
 better in the past. This notion is induced by the bias in its representation in
 museums and heritage centers.
-Questions 31-36
+Question 31-36
 Choose the correct letter, A, B, C or D.
 Write the correct letter in boxes 31—36 on your answer sheet.
 31. Compared with today’s museums, those of the past
@@ -2431,9 +2412,9 @@ D. museum exhibits focus too much on the local area.
 
 ## Page 110
 
-Questions 37-40
+Questions 37—40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 37-40 on your answer sheet, write
+In boxes 37—40 on your answer sheet, write
 TRUE if the statement agrees with the information
 FALSE if the statement contradicts the information
 NOT GIVEN if there is no information on this
@@ -2452,8 +2433,6 @@ energy in the USA since 1980 with projections until 2030.
 Summarise the information by selecting and reporting the main features, and
 make comparisons where relevant.
 Write at least 150 words.
-
-![Cambridge IELTS 09 page 111 figure](data/generated/image-review/cambridge-ielts-09/page-111-writing-task-1-energy-graph.png)
 
 ![Cambridge IELTS 09 page 111 figure](data/generated/image-review/cambridge-ielts-09/page-111-writing-task-1-us-energy-consumption-chart-image2.png)
 
@@ -3685,25 +3664,196 @@ Now, I'd be happy to answer any questions you may have ...
 
 ## Page 148
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 FALSE
+4 TRUE
+5 NOT GIVEN
+6 TRUE
+7 NOT GIVEN
+8 (the / only) rich
+9 commercial (possibilities)
+10 mauve (was/is)
+11 (Robert) Pullar
+12 (in) France
+13 malaria (is)
+Reading Passage 2, Questions 14–26
+14 iv
+15 vii
+16 i
+17 ii
+18 several billion years
+19 radio (waves/signals)
+20 1000 (stars)
+21 YES
+22 YES
+23 NOT GIVEN
+24 NO
+25 NOT GIVEN
+26 NO
+Reading Passage 3, Questions 27–40
+27 plants
+28 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: breathing; reproduction
+29 gills
+30 dolphins
+31 NOT GIVEN
+32 FALSE
+33 TRUE
+34 3 measurements
+35 (triangular) graph
+36 cluster
+37 amphibious
+38 half way
+39 dry-land tortoises
+40 D
 ## Page 149
 
 
 ## Page 150
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 H
+2 C
+3 B
+4 I
+5 D
+6 A
+7 two decades
+8 crowd (noise)
+9 invisible (disabilities/disability)
+10 Objective 3
+11&12 IN EITHER ORDER: A; C
+13 C
+Reading Passage 2, Questions 14–26
+14 F
+15 D
+16 G
+17 E
+18 D
+19 A
+20 B
+21 C
+22 FALSE
+23 FALSE
+24 TRUE
+25 NOT GIVEN
+26 TRUE
+Reading Passage 3, Questions 27–40
+27 C
+28 B
+29 D
+30 C
+31 B
+32 YES
+33 YES
+34 NOT GIVEN
+35 NO
+36 NOT GIVEN
+37 NO
+38 A
+39 B
+40 C
 ## Page 151
 
 
 ## Page 152
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 YES
+2 NO
+3 YES
+4 NOT GIVEN
+5 YES
+6 YES
+7 NO
+8 YES
+9 H
+10 F
+11 A
+12 C
+13 B
+Reading Passage 2, Questions 14–26
+14 C
+15 E
+16 A
+17 C
+18–22 IN ANY ORDER: A; D; E; F; J
+23 maintenance
+24 slow (turning)
+25 low pressure
+26 cavitation
+Reading Passage 3, Questions 27–40
+27 D
+28 F
+29 B
+30 E
+31 A
+32 C
+33 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: Jupiter; Saturn
+34 Solar System
+35 IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK: sensors; circuits
+36 spares
+37 radio dish
+38 TRUE
+39 TRUE
+40 FALSE
 ## Page 153
 
 
 ## Page 154
 
-
+Listening and Reading Answer Keys
+ACADEMIC READING
+Reading Passage 1, Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 TRUE
+4 FALSE
+5 TRUE
+6 NOT GIVEN
+7 thorium
+8 pitchblende
+9 radium
+10 soldiers
+11 illness
+12 neutron
+13 leukaemia/leukemia
+Reading Passage 2, Questions 14–26
+14 G
+15 C
+16 G
+17 D
+18 H
+19 E
+20 D
+21 B
+22 E
+23 C
+24 mirror
+25 communication
+26 ownership
+Reading Passage 3, Questions 27–40
+27 ii
+28 vi
+29 i
+30 iii
+31 B
+32 A
+33 D
+34 D
+35 C
+36 B
+37 FALSE
+38 NOT GIVEN
+39 FALSE
+40 TRUE
 ## Page 155
 
 

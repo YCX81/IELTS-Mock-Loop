@@ -1,0 +1,354 @@
+{
+  "book": 14,
+  "test": 3,
+  "passage": 2,
+  "status": "manually_calibrated",
+  "title": "Saving bugs to find new drugs",
+  "subtitle": "Zoologist Ross Piper looks at the potential of insects in pharmaceutical research",
+  "overallInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+  "pages": [
+    {
+      "page": 63,
+      "role": "passage",
+      "text": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nSaving bugs to find new drugs\nZoologist Ross Piper looks at the potential of insects in pharmaceutical research\nA More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new – we have been doing it for tens of thousands of years. You only have to look at other primates – such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites – to realise that our ancient ancestors too probably had a basic grasp of medicine.\nB Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.\nC Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature’s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map.\nD Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised.\n63"
+    },
+    {
+      "page": 64,
+      "role": "passage",
+      "text": "Test 3\nE From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment.\nF Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with.\nG My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics.\nH Although natural history knowledge points us in the right direction, it doesn’t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.\nI With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.\n64"
+    },
+    {
+      "page": 65,
+      "role": "questions",
+      "text": "Reading\nQuestions 14–20\nReading Passage 2 has nine paragraphs, A–I.\nWhich paragraph contains the following information?\nWrite the correct letter, A–I, in boxes 14–20 on your answer sheet.\n14 mention of factors driving a renewed interest in natural medicinal compounds\n15 how recent technological advances have made insect research easier\n16 examples of animals which use medicinal substances from nature\n17 reasons why it is challenging to use insects in drug research\n18 reference to how interest in drug research may benefit wildlife\n19 a reason why nature-based medicines fell out of favour for a period\n20 an example of an insect-derived medicine in use at the moment\nQuestions 21 and 22\nChoose TWO letters, A–E.\nWrite the correct letters in boxes 21 and 22 on your answer sheet.\nWhich TWO of the following make insects interesting for drug research?\nA the huge number of individual insects in the world\nB the variety of substances insects have developed to protect themselves\nC the potential to extract and make use of insects’ genetic codes\nD the similarities between different species of insect\nE the manageable size of most insects\n65"
+    },
+    {
+      "page": 66,
+      "role": "questions",
+      "text": "Test 3\nQuestions 23–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 23–26 on your answer sheet.\nResearch at Aberystwyth University\nRoss Piper and fellow zoologists at Aberystwyth University are using their expertise in 23 __________ when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their 24 __________. They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their 25 __________. Piper hopes that these substances will be useful in the development of drugs such as 26 __________.\n66"
+    }
+  ],
+  "bodyParagraphs": [
+    {
+      "label": "A",
+      "sourcePages": [
+        63
+      ],
+      "text": "More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new – we have been doing it for tens of thousands of years. You only have to look at other primates – such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites – to realise that our ancient ancestors too probably had a basic grasp of medicine."
+    },
+    {
+      "label": "B",
+      "sourcePages": [
+        63
+      ],
+      "text": "Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles."
+    },
+    {
+      "label": "C",
+      "sourcePages": [
+        63
+      ],
+      "text": "Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature’s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map."
+    },
+    {
+      "label": "D",
+      "sourcePages": [
+        63
+      ],
+      "text": "Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised."
+    },
+    {
+      "label": "E",
+      "sourcePages": [
+        64
+      ],
+      "text": "From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment."
+    },
+    {
+      "label": "F",
+      "sourcePages": [
+        64
+      ],
+      "text": "Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with."
+    },
+    {
+      "label": "G",
+      "sourcePages": [
+        64
+      ],
+      "text": "My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics."
+    },
+    {
+      "label": "H",
+      "sourcePages": [
+        64
+      ],
+      "text": "Although natural history knowledge points us in the right direction, it doesn’t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring."
+    },
+    {
+      "label": "I",
+      "sourcePages": [
+        64
+      ],
+      "text": "With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature."
+    }
+  ],
+  "questionGroups": [
+    {
+      "range": "14–20",
+      "type": "matching_information",
+      "instructions": [
+        "Reading Passage 2 has nine paragraphs, A–I.",
+        "Which paragraph contains the following information?",
+        "Write the correct letter, A–I, in boxes 14–20 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "text": "mention of factors driving a renewed interest in natural medicinal compounds",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C"
+          ],
+          "evidence": "This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map.",
+          "location": "Section C, page 63",
+          "distractorBasis": "Genome mining, previously unexplored molecular diversity and looming health crises are the stated factors behind renewed interest."
+        },
+        {
+          "number": 15,
+          "text": "how recent technological advances have made insect research easier",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H"
+          ],
+          "evidence": "it is now possible to snip out the stretches of the insect’s DNA ... and insert them into cell lines that allow larger quantities to be produced",
+          "location": "Section H, page 64",
+          "distractorBasis": "The modern DNA and cell-line method directly addresses the difficulty of obtaining enough insect compounds."
+        },
+        {
+          "number": 16,
+          "text": "examples of animals which use medicinal substances from nature",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "evidence": "the capuchin monkeys who rub themselves with toxin-oozing millipedes ... or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites",
+          "location": "Section A, page 63",
+          "distractorBasis": "Only Section A gives concrete animal examples of self-medication from nature."
+        },
+        {
+          "number": 17,
+          "text": "reasons why it is challenging to use insects in drug research",
+          "answer": "F",
+          "acceptableAnswers": [
+            "F"
+          ],
+          "evidence": "there are so many insects ... insects are generally very small ... Many insect species are infrequently encountered and very difficult to rear in captivity",
+          "location": "Section F, page 64",
+          "distractorBasis": "Section F groups the targeting, sample-size and captivity obstacles."
+        },
+        {
+          "number": 18,
+          "text": "reference to how interest in drug research may benefit wildlife",
+          "answer": "I",
+          "acceptableAnswers": [
+            "I"
+          ],
+          "evidence": "my main motivation for looking at insects in this way is conservation ... make people think differently about the value of nature",
+          "location": "Section I, page 64",
+          "distractorBasis": "Piper explicitly links drug research with conservation and a greater valuation of species."
+        },
+        {
+          "number": 19,
+          "text": "a reason why nature-based medicines fell out of favour for a period",
+          "answer": "B",
+          "acceptableAnswers": [
+            "B"
+          ],
+          "evidence": "The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy.",
+          "location": "Section B, page 63",
+          "distractorBasis": "Section B explains why pharmaceutical science temporarily moved from nature to laboratory design."
+        },
+        {
+          "number": 20,
+          "text": "an example of an insect-derived medicine in use at the moment",
+          "answer": "E",
+          "acceptableAnswers": [
+            "E"
+          ],
+          "evidence": "alloferon ... is used as an antiviral and antitumor agent in South Korea and Russia",
+          "location": "Section E, page 64",
+          "distractorBasis": "Alloferon is the only compound described as already in use; the other examples remain under investigation or have potential."
+        }
+      ]
+    },
+    {
+      "range": "21–22",
+      "type": "multiple_choice_multiple_answers",
+      "instructions": [
+        "Choose TWO letters, A–E.",
+        "Write the correct letters in boxes 21 and 22 on your answer sheet.",
+        "Which TWO of the following make insects interesting for drug research?"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "text": "the huge number of individual insects in the world"
+        },
+        {
+          "label": "B",
+          "text": "the variety of substances insects have developed to protect themselves"
+        },
+        {
+          "label": "C",
+          "text": "the potential to extract and make use of insects’ genetic codes"
+        },
+        {
+          "label": "D",
+          "text": "the similarities between different species of insect"
+        },
+        {
+          "label": "E",
+          "text": "the manageable size of most insects"
+        }
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "text": "First selected letter",
+          "answer": "B",
+          "acceptableAnswers": [
+            "B",
+            "C"
+          ],
+          "evidence": "insects’ interactions have driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes",
+          "location": "Section D, page 63",
+          "distractorBasis": "A confuses common-species abundance with useful diversity; D contradicts the emphasis on diversity; E is an obstacle because insects and their glands are small."
+        },
+        {
+          "number": 22,
+          "text": "Second selected letter",
+          "answer": "C",
+          "acceptableAnswers": [
+            "B",
+            "C"
+          ],
+          "evidence": "it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds",
+          "location": "Section H, page 64",
+          "distractorBasis": "A confuses common-species abundance with useful diversity; D contradicts the emphasis on diversity; E is an obstacle because insects and their glands are small."
+        }
+      ]
+    },
+    {
+      "range": "23–26",
+      "type": "summary_completion",
+      "instructions": [
+        "Complete the summary below.",
+        "Choose ONE WORD ONLY from the passage for each answer.",
+        "Write your answers in boxes 23–26 on your answer sheet."
+      ],
+      "title": "Research at Aberystwyth University",
+      "content": "Ross Piper and fellow zoologists at Aberystwyth University are using their expertise in 23 ______ when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their 24 ______. They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their 25 ______. Piper hopes that these substances will be useful in the development of drugs such as 26 ______.",
+      "questions": [
+        {
+          "number": 23,
+          "text": "using their expertise in ______ when undertaking bioprospecting with insects",
+          "answer": "ecology",
+          "acceptableAnswers": [
+            "ecology"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "we use our knowledge of ecology as a guide to target our efforts",
+          "location": "Section G, page 64",
+          "distractorBasis": "“ecology” is the exact field of expertise and fits after the preposition “in”."
+        },
+        {
+          "number": 24,
+          "text": "compounds that insects produce to overpower and preserve their ______",
+          "answer": "prey",
+          "acceptableAnswers": [
+            "prey"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "powerful poison for subduing prey and keeping it fresh for future consumption",
+          "location": "Section G, page 64",
+          "distractorBasis": "“subduing” and “keeping it fresh” are paraphrased by “overpower and preserve”."
+        },
+        {
+          "number": 25,
+          "text": "pathogenic bacteria and fungi found in their ______",
+          "answer": "habitats",
+          "acceptableAnswers": [
+            "habitats"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "exploiting filthy habitats ... where they are regularly challenged by thousands of micro-organisms",
+          "location": "Section G, page 64",
+          "distractorBasis": "The bacteria and fungi occur in the insects’ filthy habitats; “faeces” and “carcasses” are examples but neither covers both contexts."
+        },
+        {
+          "number": 26,
+          "text": "development of drugs such as ______",
+          "answer": "antibiotics",
+          "acceptableAnswers": [
+            "antibiotics"
+          ],
+          "wordLimit": "ONE WORD ONLY",
+          "evidence": "many compounds that can serve as or inspire new antibiotics",
+          "location": "Section G, page 64",
+          "distractorBasis": "“antibiotics” is the drug class explicitly named as a possible development."
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "14": "C",
+    "15": "H",
+    "16": "A",
+    "17": "F",
+    "18": "I",
+    "19": "B",
+    "20": "E",
+    "21": "B",
+    "22": "C",
+    "23": "ecology",
+    "24": "prey",
+    "25": "habitats",
+    "26": "antibiotics"
+  },
+  "sourcePages": [
+    63,
+    64,
+    65,
+    66
+  ],
+  "answerKeyPage": 124,
+  "answerKeyText": "Listening and Reading answer keys\nTEST 3\nREADING\nReading Passage 1,\nQuestions 1–13\n1 B\n2 A\n3 D\n4 NOT GIVEN\n5 NO\n6 YES\n7 B\n8 C\n9 B\n10 A\n11 A\n12 C\n13 A\nReading Passage 2,\nQuestions 14–26\n14 C\n15 H\n16 A\n17 F\n18 I\n19 B\n20 E\n21&22 IN EITHER ORDER\nB\nC\n23 ecology\n24 prey\n25 habitats\n26 antibiotics\nReading Passage 3,\nQuestions 27–40\n27 B\n28 G\n29 F\n30 E\n31 C\n32 NO\n33 YES\n34 NOT GIVEN\n35 NO\n36 YES\n37 encouraging\n38 desire\n39 autonomy\n40 targeted\nIf you score ...\n0–17\nyou are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.\n18–26\nyou may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.\n27–40\nyou are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.\n124",
+  "images": [],
+  "calibrationFindings": [
+    "Page 63: restored the passage heading and title; corrected broken words, en dashes, punctuation, apostrophes and all text in sections A–D.",
+    "Page 64: corrected broken words and spacing throughout sections E–I, including DNA, micro-organisms, apostrophes and compound words.",
+    "Page 65: restored A–I, question ranges, information, technological, world, insects’ genetic codes and every option exactly.",
+    "Page 66: restored the summary instructions, all prose, answer positions and ONE WORD ONLY constraint.",
+    "Page 124: visually verified Test 3 Reading answers, including Questions 21 and 22 in either order, and reused the already calibrated full-page text."
+  ],
+  "selfCheck": {
+    "bodyParagraphCount": 9,
+    "sentenceCount": 35,
+    "questionGroupCount": 3,
+    "questionCount": 13,
+    "questionRange": "14–26",
+    "answerCount": 13,
+    "allInstructionsCaptured": true,
+    "allOptionsCaptured": true,
+    "visualReviewCompleted": true,
+    "sourceImages": 0
+  },
+  "pageTexts": {
+    "63": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nSaving bugs to find new drugs\nZoologist Ross Piper looks at the potential of insects in pharmaceutical research\nA More drugs than you might think are derived from, or inspired by, compounds found in living things. Looking to nature for the soothing and curing of our ailments is nothing new – we have been doing it for tens of thousands of years. You only have to look at other primates – such as the capuchin monkeys who rub themselves with toxin-oozing millipedes to deter mosquitoes, or the chimpanzees who use noxious forest plants to rid themselves of intestinal parasites – to realise that our ancient ancestors too probably had a basic grasp of medicine.\nB Pharmaceutical science and chemistry built on these ancient foundations and perfected the extraction, characterisation, modification and testing of these natural products. Then, for a while, modern pharmaceutical science moved its focus away from nature and into the laboratory, designing chemical compounds from scratch. The main cause of this shift is that although there are plenty of promising chemical compounds in nature, finding them is far from easy. Securing sufficient numbers of the organism in question, isolating and characterising the compounds of interest, and producing large quantities of these compounds are all significant hurdles.\nC Laboratory-based drug discovery has achieved varying levels of success, something which has now prompted the development of new approaches focusing once again on natural products. With the ability to mine genomes for useful compounds, it is now evident that we have barely scratched the surface of nature’s molecular diversity. This realisation, together with several looming health crises, such as antibiotic resistance, has put bioprospecting – the search for useful compounds in nature – firmly back on the map.\nD Insects are the undisputed masters of the terrestrial domain, where they occupy every possible niche. Consequently, they have a bewildering array of interactions with other organisms, something which has driven the evolution of an enormous range of very interesting compounds for defensive and offensive purposes. Their remarkable diversity exceeds that of every other group of animals on the planet combined. Yet even though insects are far and away the most diverse animals in existence, their potential as sources of therapeutic compounds is yet to be realised.\n63",
+    "64": "Test 3\nE From the tiny proportion of insects that have been investigated, several promising compounds have been identified. For example, alloferon, an antimicrobial compound produced by blow fly larvae, is used as an antiviral and antitumor agent in South Korea and Russia. The larvae of a few other insect species are being investigated for the potent antimicrobial compounds they produce. Meanwhile, a compound from the venom of the wasp Polybia paulista has potential in cancer treatment.\nF Why is it that insects have received relatively little attention in bioprospecting? Firstly, there are so many insects that, without some manner of targeted approach, investigating this huge variety of species is a daunting task. Secondly, insects are generally very small, and the glands inside them that secrete potentially useful compounds are smaller still. This can make it difficult to obtain sufficient quantities of the compound for subsequent testing. Thirdly, although we consider insects to be everywhere, the reality of this ubiquity is vast numbers of a few extremely common species. Many insect species are infrequently encountered and very difficult to rear in captivity, which, again, can leave us with insufficient material to work with.\nG My colleagues and I at Aberystwyth University in the UK have developed an approach in which we use our knowledge of ecology as a guide to target our efforts. The creatures that particularly interest us are the many insects that secrete powerful poison for subduing prey and keeping it fresh for future consumption. There are even more insects that are masters of exploiting filthy habitats, such as faeces and carcasses, where they are regularly challenged by thousands of micro-organisms. These insects have many antimicrobial compounds for dealing with pathogenic bacteria and fungi, suggesting that there is certainly potential to find many compounds that can serve as or inspire new antibiotics.\nH Although natural history knowledge points us in the right direction, it doesn’t solve the problems associated with obtaining useful compounds from insects. Fortunately, it is now possible to snip out the stretches of the insect’s DNA that carry the codes for the interesting compounds and insert them into cell lines that allow larger quantities to be produced. And although the road from isolating and characterising compounds with desirable qualities to developing a commercial product is very long and full of pitfalls, the variety of successful animal-derived pharmaceuticals on the market demonstrates there is a precedent here that is worth exploring.\nI With every bit of wilderness that disappears, we deprive ourselves of potential medicines. As much as I’d love to help develop a groundbreaking insect-derived medicine, my main motivation for looking at insects in this way is conservation. I sincerely believe that all species, however small and seemingly insignificant, have a right to exist for their own sake. If we can shine a light on the darker recesses of nature’s medicine cabinet, exploring the useful chemistry of the most diverse animals on the planet, I believe we can make people think differently about the value of nature.\n64",
+    "65": "Reading\nQuestions 14–20\nReading Passage 2 has nine paragraphs, A–I.\nWhich paragraph contains the following information?\nWrite the correct letter, A–I, in boxes 14–20 on your answer sheet.\n14 mention of factors driving a renewed interest in natural medicinal compounds\n15 how recent technological advances have made insect research easier\n16 examples of animals which use medicinal substances from nature\n17 reasons why it is challenging to use insects in drug research\n18 reference to how interest in drug research may benefit wildlife\n19 a reason why nature-based medicines fell out of favour for a period\n20 an example of an insect-derived medicine in use at the moment\nQuestions 21 and 22\nChoose TWO letters, A–E.\nWrite the correct letters in boxes 21 and 22 on your answer sheet.\nWhich TWO of the following make insects interesting for drug research?\nA the huge number of individual insects in the world\nB the variety of substances insects have developed to protect themselves\nC the potential to extract and make use of insects’ genetic codes\nD the similarities between different species of insect\nE the manageable size of most insects\n65",
+    "66": "Test 3\nQuestions 23–26\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 23–26 on your answer sheet.\nResearch at Aberystwyth University\nRoss Piper and fellow zoologists at Aberystwyth University are using their expertise in 23 __________ when undertaking bioprospecting with insects. They are especially interested in the compounds that insects produce to overpower and preserve their 24 __________. They are also interested in compounds which insects use to protect themselves from pathogenic bacteria and fungi found in their 25 __________. Piper hopes that these substances will be useful in the development of drugs such as 26 __________.\n66",
+    "124": "Listening and Reading answer keys\nTEST 3\nREADING\nReading Passage 1,\nQuestions 1–13\n1 B\n2 A\n3 D\n4 NOT GIVEN\n5 NO\n6 YES\n7 B\n8 C\n9 B\n10 A\n11 A\n12 C\n13 A\nReading Passage 2,\nQuestions 14–26\n14 C\n15 H\n16 A\n17 F\n18 I\n19 B\n20 E\n21&22 IN EITHER ORDER\nB\nC\n23 ecology\n24 prey\n25 habitats\n26 antibiotics\nReading Passage 3,\nQuestions 27–40\n27 B\n28 G\n29 F\n30 E\n31 C\n32 NO\n33 YES\n34 NOT GIVEN\n35 NO\n36 YES\n37 encouraging\n38 desire\n39 autonomy\n40 targeted\nIf you score ...\n0–17\nyou are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.\n18–26\nyou may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.\n27–40\nyou are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.\n124"
+  }
+}

@@ -143,6 +143,7 @@ Use these conventions in this project:
 - Extracted audio may live under `data/generated/audio/`.
 - OCR page images are disposable and may live under `data/generated/ocr-images/`.
 - Text/page JSON/report artifacts may live under `data/generated/`.
+- Do not embed full original-book pages in intensive-reading lessons, including passage pages, full question pages, or official answer-key pages. Use page renders only for internal calibration. A lesson may include a tightly cropped local diagram only when the question cannot be understood or answered from text alone.
 - Browser-facing lightweight indexes are:
   - `data/materials.js`
   - `data/cambridge-resource-index.js`
@@ -175,4 +176,3 @@ When advising the learner, keep the answer operational:
 - explain why it follows from the last review;
 - keep the next action small enough to complete today;
 - avoid broad motivational language.
-

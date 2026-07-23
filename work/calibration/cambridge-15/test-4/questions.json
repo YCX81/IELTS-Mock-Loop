@@ -1,0 +1,1222 @@
+{
+  "questionSections": [
+    {
+      "heading": "Questions 1–5",
+      "physicalPage": 84,
+      "taskType": "note-completion",
+      "instructions": [
+        "Complete the notes below.",
+        "Choose ONE WORD ONLY from the passage for each answer.",
+        "Write your answers in boxes 1–5 on your answer sheet."
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "notesTitle": "The importance of the huarango tree",
+      "passage": 1
+    },
+    {
+      "heading": "Questions 6–8",
+      "physicalPage": 84,
+      "taskType": "table-completion",
+      "instructions": [
+        "Complete the table below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 6–8 on your answer sheet."
+      ],
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "tableTitle": "Traditional uses of the huarango tree",
+      "columnHeadings": [
+        "Part of tree",
+        "Traditional use"
+      ],
+      "passage": 1
+    },
+    {
+      "heading": "Questions 9–13",
+      "physicalPage": 85,
+      "taskType": "TRUE/FALSE/NOT GIVEN",
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 1?",
+        "In boxes 9–13 on your answer sheet, write"
+      ],
+      "definitions": {
+        "TRUE": "if the statement agrees with the information",
+        "FALSE": "if the statement contradicts the information",
+        "NOT GIVEN": "if there is no information on this"
+      },
+      "passage": 1
+    },
+    {
+      "heading": "Questions 14–19",
+      "physicalPage": 88,
+      "taskType": "TRUE/FALSE/NOT GIVEN",
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 2?",
+        "In boxes 14–19 on your answer sheet, write"
+      ],
+      "definitions": {
+        "TRUE": "if the statement agrees with the information",
+        "FALSE": "if the statement contradicts the information",
+        "NOT GIVEN": "if there is no information on this"
+      },
+      "optionDomain": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "passage": 2
+    },
+    {
+      "heading": "Questions 20–26",
+      "physicalPage": 89,
+      "taskType": "notes completion",
+      "instructions": [
+        "Complete the notes below.",
+        "Choose ONE WORD ONLY from the passage for each answer.",
+        "Write your answers in boxes 20–26 on your answer sheet."
+      ],
+      "notesTitle": "Silbo Gomero",
+      "subheadings": [
+        "How Silbo is produced",
+        "How Silbo is used",
+        "The future of Silbo"
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "passage": 2
+    },
+    {
+      "instructions": [
+        "Complete the summary using the list of words, A–J, below.",
+        "Write the correct letter, A–J, in boxes 27–31 on your answer sheet."
+      ],
+      "title": "Big businesses",
+      "summary": "Many big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no 27 __________. Lack of 28 __________ by governments and lack of public 29 __________ can lead to environmental problems such as 30 __________ or the destruction of 31 __________.",
+      "sharedOptions": {
+        "A": "funding",
+        "B": "trees",
+        "C": "rare species",
+        "D": "moral standards",
+        "E": "control",
+        "F": "involvement",
+        "G": "flooding",
+        "H": "overfishing",
+        "I": "worker support"
+      },
+      "sourceNote": "The printed instruction says A–J, but the original option box contains A–I only.",
+      "heading": "Questions 27–31",
+      "physicalPage": 92,
+      "taskType": "summary_completion",
+      "passage": 3
+    },
+    {
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 32–34 on your answer sheet."
+      ],
+      "heading": "Questions 32–34",
+      "physicalPage": 93,
+      "taskType": "multiple_choice",
+      "passage": 3
+    },
+    {
+      "instructions": [
+        "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+        "In boxes 35–39 on your answer sheet, write"
+      ],
+      "definitions": {
+        "YES": "if the statement agrees with the claims of the writer",
+        "NO": "if the statement contradicts the claims of the writer",
+        "NOT GIVEN": "if it is impossible to say what the writer thinks about this"
+      },
+      "heading": "Questions 35–39",
+      "physicalPage": 94,
+      "taskType": "yes_no_not_given",
+      "passage": 3
+    },
+    {
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "heading": "Questions 40",
+      "physicalPage": 94,
+      "taskType": "multiple_choice",
+      "passage": 3
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "prompt": "can access 1 __________ deep below the surface",
+      "options": [],
+      "answer": "water",
+      "acceptedAnswers": [
+        "water"
+      ],
+      "evidence": "It hardly ever rains there, and the only year-round source of water is located tens of metres below the surface.",
+      "evidenceLocation": "paragraph 1",
+      "synonymSubstitutions": [
+        "access ↔ source is located",
+        "deep below the surface ↔ tens of metres below the surface"
+      ],
+      "distractors": "‘soil’ and ‘subsoil’ describe the material or location, but the thing accessed deep below the surface is water.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "note-completion",
+      "id": "R1"
+    },
+    {
+      "number": 2,
+      "prompt": "was a crucial part of local inhabitants’ 2 __________ a long time ago",
+      "options": [],
+      "answer": "diet",
+      "acceptedAnswers": [
+        "diet"
+      ],
+      "evidence": "He believes the huarango was key to the ancient people’s diet",
+      "evidenceLocation": "paragraph 2",
+      "synonymSubstitutions": [
+        "crucial part ↔ key",
+        "local inhabitants a long time ago ↔ ancient people"
+      ],
+      "distractors": "‘crops’ were what later replaced huarango trees; the passage directly names diet as what the huarango was key to.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "note-completion",
+      "id": "R2"
+    },
+    {
+      "number": 3,
+      "prompt": "helped people to survive periods of 3 __________",
+      "options": [],
+      "answer": "drought",
+      "acceptedAnswers": [
+        "drought"
+      ],
+      "evidence": "it allowed local people to withstand years of drought when their other crops failed",
+      "evidenceLocation": "paragraph 2",
+      "synonymSubstitutions": [
+        "helped people to survive ↔ allowed local people to withstand",
+        "periods ↔ years"
+      ],
+      "distractors": "‘failed’ describes the crops during the drought; only drought names the periods that people withstood.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "note-completion",
+      "id": "R3"
+    },
+    {
+      "number": 4,
+      "prompt": "prevents 4 __________ of the soil",
+      "options": [],
+      "answer": "erosion",
+      "acceptedAnswers": [
+        "erosion"
+      ],
+      "evidence": "Cutting down native woodland leads to erosion, as there is nothing to keep the soil in place.",
+      "evidenceLocation": "paragraph 2",
+      "synonymSubstitutions": [
+        "prevents ↔ trees keep the soil in place",
+        "of the soil ↔ soil in place"
+      ],
+      "distractors": "‘woodland’ is what is cut down, while erosion is the damaging process that intact huarangos prevent.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "note-completion",
+      "id": "R4"
+    },
+    {
+      "number": 5,
+      "prompt": "prevents land from becoming a 5 __________",
+      "options": [],
+      "answer": "desert",
+      "acceptedAnswers": [
+        "desert"
+      ],
+      "evidence": "So when the huarangos go, the land turns into a desert.",
+      "evidenceLocation": "paragraph 2",
+      "synonymSubstitutions": [
+        "becoming ↔ turns into",
+        "when the huarangos go implies the trees normally prevent the change"
+      ],
+      "distractors": "The valley is the geographical location, whereas desert is the state the land becomes without huarangos.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "note-completion",
+      "id": "R5"
+    },
+    {
+      "number": 6,
+      "prompt": "6 __________ | fuel",
+      "options": [],
+      "answer": "(its / huarango / the) branches",
+      "acceptedAnswers": [
+        "branches",
+        "its branches",
+        "huarango branches",
+        "the branches"
+      ],
+      "evidence": "its branches were used for charcoal for cooking and heating",
+      "evidenceLocation": "paragraph 3",
+      "synonymSubstitutions": [
+        "fuel ↔ charcoal for cooking and heating",
+        "part of tree ↔ branches"
+      ],
+      "distractors": "Leaves and bark supplied remedies, and the trunk supplied building material; branches were the part turned into fuel.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "table-completion",
+      "id": "R6"
+    },
+    {
+      "number": 7,
+      "prompt": "7 __________ and __________ | medicine",
+      "options": [],
+      "answer": "leaves (and) bark [IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK]",
+      "acceptedAnswers": [
+        "leaves and bark",
+        "bark and leaves",
+        "leaves / bark",
+        "bark / leaves",
+        "leaves; bark",
+        "bark; leaves"
+      ],
+      "selectionCount": 2,
+      "answerOrder": "either",
+      "answerRequirement": "IN EITHER ORDER (BOTH REQUIRED FOR ONE MARK)",
+      "evidence": "Its leaves and bark were used for herbal remedies",
+      "evidenceLocation": "paragraph 3",
+      "synonymSubstitutions": [
+        "medicine ↔ herbal remedies",
+        "part of tree ↔ leaves and bark"
+      ],
+      "distractors": "Branches were used for charcoal and the trunk for houses; both leaves and bark are required for the medicine row.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "table-completion",
+      "id": "R7"
+    },
+    {
+      "number": 8,
+      "prompt": "8 __________ | construction",
+      "options": [],
+      "answer": "(its / huarango / the) trunk",
+      "acceptedAnswers": [
+        "trunk",
+        "its trunk",
+        "huarango trunk",
+        "the trunk"
+      ],
+      "evidence": "its trunk was used to build houses",
+      "evidenceLocation": "paragraph 3",
+      "synonymSubstitutions": [
+        "construction ↔ used to build houses",
+        "part of tree ↔ trunk"
+      ],
+      "distractors": "Branches were used as fuel and leaves and bark as medicine; the trunk was the construction material.",
+      "sourcePages": [
+        82
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "table-completion",
+      "id": "R8"
+    },
+    {
+      "number": 9,
+      "prompt": "Local families have told Whaley about some traditional uses of huarango products.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "So, he has been working with local families to attempt to create a sustainable income from the huarangos by turning their products into foodstuffs.",
+      "evidenceLocation": "paragraph 5",
+      "synonymSubstitutions": [
+        "local families ↔ local families",
+        "uses of products ↔ turning their products into foodstuffs"
+      ],
+      "distractors": "The passage states that Whaley works with local families and then describes product uses, but it never says the families told him those uses; the source of the information is absent.",
+      "sourcePages": [
+        83
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R9"
+    },
+    {
+      "number": 10,
+      "prompt": "Farmer Alberto Benevides is now making a good profit from growing huarangos.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ],
+      "evidence": "His farm is relatively small and doesn’t yet provide him with enough to live on, but he hopes this will change.",
+      "evidenceLocation": "paragraph 6",
+      "synonymSubstitutions": [
+        "now making a good profit contradicts doesn’t yet provide enough to live on",
+        "growing huarangos ↔ planting the tree"
+      ],
+      "distractors": "Benevides does sell syrup and flour, but the explicit statement that the farm does not yet support him contradicts a good current profit.",
+      "sourcePages": [
+        83
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R10"
+    },
+    {
+      "number": 11,
+      "prompt": "Whaley needs the co-operation of farmers to help preserve the area’s wildlife.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [
+        "TRUE"
+      ],
+      "evidence": "In the hope of counteracting this, he’s persuading farmers to let him plant forest corridors on their land.",
+      "evidenceLocation": "paragraph 7",
+      "synonymSubstitutions": [
+        "needs the co-operation of farmers ↔ persuading farmers to let him",
+        "preserve wildlife ↔ corridors allow movement of mammals, birds and pollen"
+      ],
+      "distractors": "The cooperation is not merely implied by general community support: the passage explicitly says forest corridors must be planted on farmers’ land to counter habitat fragmentation.",
+      "sourcePages": [
+        83
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R11"
+    },
+    {
+      "number": 12,
+      "prompt": "For Whaley’s project to succeed, it needs to be extended over a very large area.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ],
+      "evidence": "It’s not like a rainforest that needs to have this huge expanse. Life has always been confined to corridors and islands here. If you just have a few trees left, the population can grow up quickly because it’s used to exploiting water when it arrives.",
+      "evidenceLocation": "paragraph 8",
+      "synonymSubstitutions": [
+        "very large area ↔ huge expanse",
+        "needs to be extended contradicts a few trees left can support quick growth"
+      ],
+      "distractors": "Although Whaley hopes the model can later be rolled out elsewhere, he explicitly says this desert habitat does not require a huge expanse.",
+      "sourcePages": [
+        83
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R12"
+    },
+    {
+      "number": 13,
+      "prompt": "Whaley has plans to go to Africa to set up a similar project.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "He sees his project as a model that has the potential to be rolled out across other arid areas around the world. ‘If we can do it here, in the most fragile system on Earth, then that’s a real message of hope for lots of places, including Africa",
+      "evidenceLocation": "paragraph 8",
+      "synonymSubstitutions": [
+        "similar project ↔ model with potential to be rolled out",
+        "Africa ↔ including Africa"
+      ],
+      "distractors": "Africa is mentioned only as a place that could receive a message of hope; no travel plan or intention by Whaley to establish a project there is stated.",
+      "sourcePages": [
+        83
+      ],
+      "answerKeyPage": 128,
+      "passage": 1,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R13"
+    },
+    {
+      "number": 14,
+      "prompt": "La Gomera is the most mountainous of all the Canary Islands.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "This small volcanic island is mountainous, with steep rocky slopes and deep, wooded ravines, rising to 1,487 metres at its highest peak.",
+      "evidenceLocation": "paragraph 1",
+      "synonymSubstitutions": [
+        "mountainous ↔ mountainous"
+      ],
+      "distractors": "No comparison with every other Canary Island is given. TRUE adds an unsupported superlative; FALSE would require proof that another island is more mountainous.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R14"
+    },
+    {
+      "number": 15,
+      "prompt": "Silbo is only appropriate for short and simple messages.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ],
+      "evidence": "‘In daily life they use whistles to communicate short commands, but any Spanish sentence could be whistled.’",
+      "evidenceLocation": "paragraph 5",
+      "synonymSubstitutions": [
+        "short and simple messages ↔ short commands",
+        "only appropriate ↔ any Spanish sentence could be whistled"
+      ],
+      "distractors": "‘Short commands’ tempts TRUE, but ‘any Spanish sentence’ directly contradicts ‘only’; the issue is explicit, so NOT GIVEN is excluded.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R15"
+    },
+    {
+      "number": 16,
+      "prompt": "In the brain-activity study, silbadores and non-whistlers produced different results.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [
+        "TRUE"
+      ],
+      "evidence": "The researchers found that other key regions in the brain’s frontal lobe also responded to the whistles, including those activated in response to sign language among deaf people. When the experiments were repeated with non-whistlers, however, activation was observed in all areas of the brain.",
+      "evidenceLocation": "paragraph 6",
+      "synonymSubstitutions": [
+        "brain-activity study ↔ neuroimaging",
+        "different results ↔ key regions / all areas"
+      ],
+      "distractors": "‘However’ marks the explicit contrast. FALSE denies it, and NOT GIVEN ignores the reported results.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R16"
+    },
+    {
+      "number": 17,
+      "prompt": "The Spanish introduced Silbo to the islands in the 15th century.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ],
+      "evidence": "indigenous Canary Islanders, who were of North African origin, already had a whistled language when Spain conquered the volcanic islands in the 15th century",
+      "evidenceLocation": "paragraph 8",
+      "synonymSubstitutions": [
+        "The Spanish ↔ Spain",
+        "introduced ↔ already had"
+      ],
+      "distractors": "The date and Spain tempt TRUE, but ‘already had’ shows the language predated conquest; the chronology excludes NOT GIVEN.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R17"
+    },
+    {
+      "number": 18,
+      "prompt": "There is precise data available regarding all of the whistle languages in existence today.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "FALSE",
+      "acceptedAnswers": [
+        "FALSE"
+      ],
+      "evidence": "There are thought to be as many as 70 whistled languages still in use, though only 12 have been described and studied scientifically.",
+      "evidenceLocation": "paragraph 8",
+      "synonymSubstitutions": [
+        "in existence today ↔ still in use",
+        "precise data regarding all ↔ only 12 studied scientifically"
+      ],
+      "distractors": "‘As many as 70’ is an estimate and only 12 are studied, contradicting precise data for all; this is stated, so NOT GIVEN is excluded.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R18"
+    },
+    {
+      "number": 19,
+      "prompt": "The children of Gomera now learn Silbo.",
+      "options": [
+        "TRUE",
+        "FALSE",
+        "NOT GIVEN"
+      ],
+      "answer": "TRUE",
+      "acceptedAnswers": [
+        "TRUE"
+      ],
+      "evidence": "Since 1999, Silbo Gomero has been taught in all of the island’s elementary schools.",
+      "evidenceLocation": "paragraph 9",
+      "synonymSubstitutions": [
+        "children of Gomera ↔ island’s elementary schools",
+        "now learn ↔ has been taught since 1999"
+      ],
+      "distractors": "The school programme directly supports the statement; FALSE contradicts it and NOT GIVEN overlooks it.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "TRUE/FALSE/NOT GIVEN",
+      "id": "R19"
+    },
+    {
+      "number": 20,
+      "prompt": "high- and low-frequency tones represent different sounds in Spanish 20 __________",
+      "options": [],
+      "answer": "words",
+      "acceptedAnswers": [
+        "words"
+      ],
+      "evidence": "Silbo is a substitute for Spanish, with individual words recoded into whistles which have high- and low-frequency tones.",
+      "evidenceLocation": "paragraph 4",
+      "synonymSubstitutions": [
+        "represent different sounds ↔ recoded into whistles"
+      ],
+      "distractors": "Whistles are the recoded form and tones are frequencies; the plural item represented is words.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R20"
+    },
+    {
+      "number": 21,
+      "prompt": "pitch of whistle is controlled using silbador’s 21 __________",
+      "options": [],
+      "answer": "finger",
+      "acceptedAnswers": [
+        "finger"
+      ],
+      "evidence": "A whistler – or silbador – puts a finger in his or her mouth to increase the whistle’s pitch",
+      "evidenceLocation": "paragraph 4",
+      "synonymSubstitutions": [
+        "controlled using ↔ puts ... to increase",
+        "silbador ↔ whistler"
+      ],
+      "distractors": "Mouth is the location, but finger is the instrument; hand controls direction in the next note.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R21"
+    },
+    {
+      "number": 22,
+      "prompt": "22 __________ is changed with a cupped hand",
+      "options": [],
+      "answer": "direction",
+      "acceptedAnswers": [
+        "direction"
+      ],
+      "evidence": "the other hand can be cupped to adjust the direction of the sound",
+      "evidenceLocation": "paragraph 4",
+      "synonymSubstitutions": [
+        "is changed ↔ adjust",
+        "with a cupped hand ↔ hand can be cupped"
+      ],
+      "distractors": "Pitch is changed with a finger; sound is general, while direction is the precise property adjusted.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R22"
+    },
+    {
+      "number": 23,
+      "prompt": "in everyday use for the transmission of brief 23 __________",
+      "options": [],
+      "answer": "commands",
+      "acceptedAnswers": [
+        "commands"
+      ],
+      "evidence": "‘In daily life they use whistles to communicate short commands, but any Spanish sentence could be whistled.’",
+      "evidenceLocation": "paragraph 5",
+      "synonymSubstitutions": [
+        "everyday use ↔ In daily life",
+        "transmission ↔ communicate",
+        "brief ↔ short"
+      ],
+      "distractors": "Sentence describes wider capability; routine use is specifically for commands. Information is too broad.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R23"
+    },
+    {
+      "number": 24,
+      "prompt": "can relay essential information quickly, e.g. to inform people about 24 __________",
+      "options": [],
+      "answer": "fires",
+      "acceptedAnswers": [
+        "fires"
+      ],
+      "evidence": "Silbo has proved particularly useful when fires have occurred on the island and rapid communication across large areas has been vital.",
+      "evidenceLocation": "paragraph 5",
+      "synonymSubstitutions": [
+        "quickly ↔ rapid",
+        "essential ↔ vital"
+      ],
+      "distractors": "Areas is the reach and island the location; fires are the emergency communicated about.",
+      "sourcePages": [
+        86
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R24"
+    },
+    {
+      "number": 25,
+      "prompt": "future under threat because of new 25 __________",
+      "options": [],
+      "answer": "technology",
+      "acceptedAnswers": [
+        "technology"
+      ],
+      "evidence": "But with modern communication technology now widely available, researchers say whistled languages like Silbo are threatened with extinction.",
+      "evidenceLocation": "paragraph 9",
+      "synonymSubstitutions": [
+        "new ↔ modern",
+        "future under threat ↔ threatened with extinction"
+      ],
+      "distractors": "Communication modifies technology; extinction is the outcome, not the cause.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R25"
+    },
+    {
+      "number": 26,
+      "prompt": "Canaries’ authorities hoping to receive a UNESCO 26 __________ to help preserve it",
+      "options": [],
+      "answer": "award",
+      "acceptedAnswers": [
+        "award"
+      ],
+      "evidence": "‘The local authorities are trying to get an award from the organisation to declare [Silbo Gomero] as something that should be preserved for humanity,’ Carreiras adds.",
+      "evidenceLocation": "paragraph 9",
+      "synonymSubstitutions": [
+        "hoping to receive ↔ trying to get",
+        "UNESCO ↔ the organisation",
+        "help preserve ↔ preserved for humanity"
+      ],
+      "distractors": "Assistance is a general request, but the quotation and article ‘a’ identify award; organisation refers to UNESCO itself.",
+      "sourcePages": [
+        87
+      ],
+      "answerKeyPage": 128,
+      "passage": 2,
+      "type": "notes completion",
+      "wordLimit": "ONE WORD ONLY",
+      "id": "R26"
+    },
+    {
+      "number": 27,
+      "prompt": "Many big businesses today are prepared to harm people and the environment in order to make money, and they appear to have no __________.",
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "evidence": "businesses are not charities but profit-making companies",
+      "evidenceLocation": "Paragraph B; physical page 90.",
+      "distractors": {
+        "A": "No absent funding is stated.",
+        "B": "Trees are destroyed, not lacked.",
+        "C": "Rare species are not identified here.",
+        "E": "Government control fits 28.",
+        "F": "Public involvement fits 29.",
+        "G": "Flooding is not stated.",
+        "H": "Overfishing fits 30.",
+        "I": "Worker support is not stated."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "summary_completion",
+      "id": "R27",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "no moral standards ↔ not charities / maximize profits"
+      ]
+    },
+    {
+      "number": 28,
+      "prompt": "Lack of __________ by governments",
+      "answer": "E",
+      "acceptedAnswers": [
+        "E"
+      ],
+      "evidence": "the reverse is likely to be true if government regulation is ineffective",
+      "evidenceLocation": "Paragraph A; physical page 90.",
+      "distractors": {
+        "A": "No funding gap is stated.",
+        "B": "Trees are not government action.",
+        "C": "Rare species are not government action.",
+        "D": "Moral standards concern business conduct.",
+        "F": "Involvement fits the public blank.",
+        "G": "Flooding is an outcome.",
+        "H": "Overfishing is an outcome.",
+        "I": "Worker support is unrelated."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "summary_completion",
+      "id": "R28",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "control ↔ government regulation",
+        "lack of ↔ ineffective"
+      ]
+    },
+    {
+      "number": 29,
+      "prompt": "lack of public __________",
+      "answer": "F",
+      "acceptedAnswers": [
+        "F"
+      ],
+      "evidence": "When government regulation is effective, and when the public is environmentally aware, environmentally clean big businesses may out-compete dirty ones, but the reverse is likely to be true if government regulation is ineffective and if the public doesn't care.",
+      "evidenceLocation": "Paragraph A; physical page 90.",
+      "distractors": {
+        "A": "Funding is not the named public condition.",
+        "B": "Trees are a resource.",
+        "C": "Rare species are not a public quality.",
+        "D": "The public is not said to lack moral standards.",
+        "E": "Control fits governments.",
+        "G": "Flooding is a problem.",
+        "H": "Overfishing is a problem.",
+        "I": "Worker support is not named."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "summary_completion",
+      "id": "R29",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "involvement ↔ environmentally aware / care"
+      ]
+    },
+    {
+      "number": 30,
+      "prompt": "environmental problems such as __________",
+      "answer": "H",
+      "acceptedAnswers": [
+        "H"
+      ],
+      "evidence": "fishermen in an unmanaged fishery without quotas",
+      "evidenceLocation": "Paragraph A; physical page 90.",
+      "distractors": {
+        "A": "Funding is not an environmental problem.",
+        "B": "Trees fit 31.",
+        "C": "Rare species are not stated.",
+        "D": "Moral standards fit 27.",
+        "E": "Control prevents problems.",
+        "F": "Involvement is a public condition.",
+        "G": "Flooding is not mentioned.",
+        "I": "Worker support is unrelated."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "summary_completion",
+      "id": "R30",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "overfishing ↔ unmanaged fishery without quotas"
+      ]
+    },
+    {
+      "number": 31,
+      "prompt": "the destruction of __________",
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "evidence": "international logging companies with short-term leases on tropical rainforest land",
+      "evidenceLocation": "Paragraph A; physical page 90.",
+      "distractors": {
+        "A": "Funding is not destroyed.",
+        "C": "Rare species are not explicitly the target.",
+        "D": "Moral standards fit 27.",
+        "E": "Control is not destroyed.",
+        "F": "Involvement is not destroyed.",
+        "G": "Flooding is not destroyed.",
+        "H": "Overfishing is the other example.",
+        "I": "Worker support is unrelated."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "summary_completion",
+      "id": "R31",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "destruction of trees ↔ logging rainforest land"
+      ]
+    },
+    {
+      "number": 32,
+      "prompt": "The main idea of the third paragraph is that environmental damage",
+      "options": {
+        "A": "requires political action if it is to be stopped.",
+        "B": "is the result of ignorance on the part of the public.",
+        "C": "could be prevented by the action of ordinary people.",
+        "D": "can only be stopped by educating business leaders."
+      },
+      "answer": "C",
+      "acceptedAnswers": [
+        "C"
+      ],
+      "evidence": "it is the public, either directly or through its politicians, that has the power to make such destructive policies unprofitable and illegal",
+      "evidenceLocation": "Paragraph C; physical page 90.",
+      "distractors": {
+        "A": "Politics is only one route; direct public action is also named.",
+        "B": "Public ignorance is not given as the cause.",
+        "D": "Educating business leaders is not mentioned."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "multiple_choice",
+      "id": "R32",
+      "passage": 3,
+      "synonymSubstitutions": [
+        "ordinary people ↔ the public",
+        "prevented ↔ make ... unprofitable and illegal"
+      ]
+    },
+    {
+      "number": 33,
+      "prompt": "In the fourth paragraph, the writer describes ways in which the public can",
+      "options": {
+        "A": "reduce their own individual impact on the environment.",
+        "B": "learn more about the impact of business on the environment.",
+        "C": "raise awareness of the effects of specific environmental disasters.",
+        "D": "influence the environmental policies of businesses and governments."
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "evidence": "The public may also make their opinion felt by preferring to buy sustainably harvested products; by making employees of companies with poor track records feel ashamed of their company and complain to their own management; by preferring their governments to award valuable contracts to businesses with a good environmental track record; and by pressing their governments to pass and enforce laws and regulations requiring good environmental practices.",
+      "evidenceLocation": "Paragraph D; physical page 90.",
+      "distractors": {
+        "A": "The actions target companies and government, not only personal impact.",
+        "B": "The paragraph recommends action, not learning.",
+        "C": "Exxon Valdez illustrates suing, not awareness raising."
+      },
+      "sourcePages": [
+        90
+      ],
+      "answerKeyPage": 128,
+      "type": "multiple_choice",
+      "id": "R33",
+      "passage": 3,
+      "synonymSubstitutions": [
+        "influence policies ↔ buying choices / contracts / pressing governments"
+      ]
+    },
+    {
+      "number": 34,
+      "prompt": "What pressure was exerted by big business in the case of the disease BSE?",
+      "options": {
+        "A": "Meat packers stopped supplying hamburgers to fast-food chains.",
+        "B": "A fast-food company forced their meat suppliers to follow the law.",
+        "C": "Meat packers persuaded the government to reduce their expenses.",
+        "D": "A fast-food company encouraged the government to introduce legislation."
+      },
+      "answer": "B",
+      "acceptedAnswers": [
+        "B"
+      ],
+      "evidence": "However, when a major fast-food company then made the same demands after customer purchases of its hamburgers plummeted, the meat industry complied within weeks.",
+      "evidenceLocation": "Paragraph E; physical page 91.",
+      "distractors": {
+        "A": "Packers did not stop supplying hamburgers.",
+        "C": "They did not obtain reduced expenses.",
+        "D": "Government rules existed before the company demand."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "multiple_choice",
+      "id": "R34",
+      "passage": 3,
+      "synonymSubstitutions": [
+        "forced ↔ made demands / complied",
+        "suppliers ↔ meat industry"
+      ]
+    },
+    {
+      "number": 35,
+      "prompt": "The public should be prepared to fund good environmental practices.",
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES"
+      ],
+      "evidence": "the public must accept the necessity for higher prices for products to cover the added costs, if any, of sound environmental practices",
+      "evidenceLocation": "Paragraph F; physical page 91.",
+      "distractors": {
+        "NO": "This is explicitly required.",
+        "NOT GIVEN": "The writer directly states the claim."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "yes_no_not_given",
+      "id": "R35",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "fund ↔ accept higher prices to cover costs",
+        "good ↔ sound"
+      ]
+    },
+    {
+      "number": 36,
+      "prompt": "There is a contrast between the moral principles of different businesses.",
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "businesses should act in accordance with moral principles even if this leads to a reduction in their profits",
+      "evidenceLocation": "Paragraph F; physical page 91.",
+      "distractors": {
+        "YES": "No comparison between different businesses is made.",
+        "NO": "The writer does not say their principles are the same."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "yes_no_not_given",
+      "id": "R36",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "moral principles ↔ moral principles"
+      ]
+    },
+    {
+      "number": 37,
+      "prompt": "It is important to make a clear distinction between acceptable and unacceptable behaviour.",
+      "answer": "NO",
+      "acceptedAnswers": [
+        "NO"
+      ],
+      "evidence": "My conclusion is not a moralistic one about who is right or wrong, admirable or selfish, a good guy or a bad guy.",
+      "evidenceLocation": "Paragraph G; physical page 91.",
+      "distractors": {
+        "YES": "The writer explicitly rejects a moralistic division.",
+        "NOT GIVEN": "The writer states his position directly."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "yes_no_not_given",
+      "id": "R37",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "distinction ↔ right or wrong / good guy or bad guy"
+      ]
+    },
+    {
+      "number": 38,
+      "prompt": "The public have successfully influenced businesses in the past.",
+      "answer": "YES",
+      "acceptedAnswers": [
+        "YES"
+      ],
+      "evidence": "In the past, businesses have changed when the public came to expect and require different behavior",
+      "evidenceLocation": "Paragraph G; physical page 91.",
+      "distractors": {
+        "NO": "Past public-caused change is explicitly stated.",
+        "NOT GIVEN": "The influence is directly described."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "yes_no_not_given",
+      "id": "R38",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "influenced ↔ businesses have changed",
+        "in the past ↔ In the past"
+      ]
+    },
+    {
+      "number": 39,
+      "prompt": "In the future, businesses will show more concern for the environment.",
+      "answer": "NOT GIVEN",
+      "acceptedAnswers": [
+        "NOT GIVEN"
+      ],
+      "evidence": "I predict that in the future, just as in the past, changes in public attitudes will be essential for changes in businesses' environmental practices.",
+      "evidenceLocation": "Paragraph G; physical page 91.",
+      "distractors": {
+        "YES": "A necessary condition is predicted, not that more concern will occur.",
+        "NO": "Less concern is not predicted either."
+      },
+      "sourcePages": [
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "yes_no_not_given",
+      "id": "R39",
+      "passage": 3,
+      "options": [],
+      "synonymSubstitutions": [
+        "future ↔ in the future",
+        "business practices ↔ environmental practices"
+      ]
+    },
+    {
+      "number": 40,
+      "prompt": "What would be the best subheading for this passage?",
+      "options": {
+        "A": "Will the world survive the threat caused by big businesses?",
+        "B": "How can big businesses be encouraged to be less driven by profit?",
+        "C": "What environmental dangers are caused by the greed of businesses?",
+        "D": "Are big businesses to blame for the damage they cause the environment?"
+      },
+      "answer": "D",
+      "acceptedAnswers": [
+        "D"
+      ],
+      "evidence": "Our blaming of businesses also ignores the ultimate responsibility of the public for creating the conditions that let a business profit through destructive environmental policies.",
+      "evidenceLocation": "Paragraphs C and G; physical pages 90–91.",
+      "distractors": {
+        "A": "Survival of the world is not the focus.",
+        "B": "The passage accepts the profit duty and focuses on incentives and responsibility.",
+        "C": "Environmental dangers are examples, not the central argument."
+      },
+      "sourcePages": [
+        90,
+        91
+      ],
+      "answerKeyPage": 128,
+      "type": "multiple_choice",
+      "id": "R40",
+      "passage": 3,
+      "synonymSubstitutions": [
+        "to blame ↔ blaming / ultimate responsibility"
+      ]
+    }
+  ]
+}

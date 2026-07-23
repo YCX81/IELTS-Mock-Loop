@@ -588,20 +588,20 @@ anything else.
 Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Why we need to protect polar bears
 Polar bears are being increasingly threatened by the effects of climate change, but their disappearance
 could have far-reaching consequences. They are uniquely adapted to the extreme conditions of
-the Arctic Circle, where temperatures can reach —40°C. One reason for this is that they have up to
-1 1 centimetres of fat underneath their skin. Humans with comparative levels of adipose tissue would
+the Arctic Circle, where temperatures can reach –40°C. One reason for this is that they have up to
+11 centimetres of fat underneath their skin. Humans with comparative levels of adipose tissue would
 be considered obese and would be likely to suffer from diabetes and heart disease. Yet the polar bear
 experiences no such consequences.
 A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery. They compared the genetic
 structure of polar bears with that of their closest relatives from a warmer climate, the brown bears.
 This allowed them to determine the genes that have allowed polar bears to survive in one of the
 toughest environments on Earth. Liu and his colleagues found the polar bears had a gene known as
-APoB, which reduces levels of low-density lipoproteins (LDLs) - a form of 'bad' cholesterol. In
+APoB, which reduces levels of low-density lipoproteins (LDLs) – a form of ‘bad’ cholesterol. In
 humans, mutations of this gene are associated with increased risk of heart disease. Polar bears may
 therefore be an important study model to understand heart disease in humans.
 The genome of the polar bear may also provide the solution for another condition, one that particularly
@@ -642,7 +642,7 @@ in what appeared to be a game. The study demonstrates that bears are capable of 
 behaviours. These examples suggest bears have greater creativity and problem-solving abilities than
 previously thought.
 As for emotions, while the evidence is once again anecdotal, many bears have been seen to hit out
-at ice and snow - seemingly out of frustration — when they have just missed out on a kill. Moreover,
+at ice and snow – seemingly out of frustration – when they have just missed out on a kill. Moreover,
 polar bears can form unusual relationships with other species, including playing with the dogs used
 to pull sleds in the Arctic. Remarkably, one hand-raised polar bear called Agee has formed a close
 relationship with her owner Mark Dumas to the point where they even swim together. This is even
@@ -655,14 +655,15 @@ majestic animal.
 ## Page 20
 
 Test 1
-Questions 1-7
+Questions 1–7
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-7 on your answer sheet, write
+In boxes 1–7 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVENif there is no information on this
+NOT GIVEN
+if there is no information on this
 1
 Polar bears suffer from various health problems due to the build-up of fat under
 their skin.
@@ -672,7 +673,7 @@ The study done by Liu and his colleagues compared different groups of polar bear
 Liu and colleagues were the first researchers to compare polar bears and brown
 bears genetically.
 4
-Polar bears are able to control their levels of 'bad' cholesterol by genetic means.
+Polar bears are able to control their levels of ‘bad’ cholesterol by genetic means.
 5
 Female polar bears are able to survive for about six months without food.
 6
@@ -704,12 +705,12 @@ Reasons why polar bears should be protected
 
 Test 1
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 on pages 21 and 22.
-Questions 14-20
-Reading Passage 2 has seven paragraphs, A-G.
+Questions 14–20
+Reading Passage 2 has seven paragraphs, A–G.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, i—ix, in boxes 14-20 on your answer sheet.
+Write the correct number, i–ix, in boxes 14–20 on your answer sheet.
 List of Headings
 i The areas and artefacts within the pyramid itself
 ii A difficult task for those involved
@@ -719,8 +720,7 @@ v An overview of the external buildings and areas
 vi A pyramid design that others copied
 vii An idea for changing the design of burial structures
 viii An incredible experience despite the few remains
-ix
-The answers to some unexpected questions
+ix The answers to some unexpected questions
 14
 Paragraph A
 15
@@ -751,9 +751,9 @@ is no question that, as far as Egypt is concerned, it began with one monument to
 king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara.
 B
 Djoser was the first king of the Third Dynasty of Egypt and the first to build in
-stone. Prior to Djoser's reign, tombs were rectangular monuments made of dried clay
+stone. Prior to Djoser’s reign, tombs were rectangular monuments made of dried clay
 brick, which covered underground passages where the deceased person was buried.
-For reasons which remain unclear, Djoser's main official, whose name was Imhotep,
+For reasons which remain unclear, Djoser’s main official, whose name was Imhotep,
 conceived of building a taller, more impressive tomb for his king by stacking stone
 slabs on top of one another, progressively making them smaller, to form the shape
 now known as the Step Pyramid. Djoser is thought to have reigned for 19 years, but
@@ -762,12 +762,12 @@ number and size of the monuments he built.
 C
 The Step Pyramid has been thoroughly examined and investigated over the
 last century, and it is now known that the building process went through many
-different stages. Historian Marc Van de Mieroop comments on this, writing 'Much
+different stages. Historian Marc Van de Mieroop comments on this, writing ‘Much
 experimentation was involved, which is especially clear in the construction of the
 pyramid in the center of the complex. It had several plans ... before it became the
 first Step Pyramid in history, piling six levels on top of one another ... The weight
 of the enormous mass was a challenge for the builders, who placed the stones at an
-inward incline in order to prevent the monument breaking up.'
+inward incline in order to prevent the monument breaking up.’
 D
 When finally completed, the Step Pyramid rose 62 meters high and was the tallest
 structure of its time. The complex in which it was built was the size of a city in
@@ -779,39 +779,39 @@ south-east corner; the entire wall was then ringed by a trench 750 meters long a
 to discourage unwanted visitors. If someone wished to enter, he or she would have
 needed to know in advance how to find the location of the true opening in the wall.
 Djoser was so proud of his accomplishment that he broke the tradition of having
-only his own name on the monument and had Imhotep's name carved on it as well.
+only his own name on the monument and had Imhotep’s name carved on it as well.
 21
 
 ## Page 24
 
 Test 1
 E
-The burial chamber of the tomb, where the king's body was laid to rest, was dug
+The burial chamber of the tomb, where the king’s body was laid to rest, was dug
 beneath the base of the pyramid, surrounded by a vast maze of long tunnels that
 had rooms off them to discourage robbers. One of the most mysterious discoveries
 found inside the pyramid was a large number of stone vessels. Over 40,000 of
 these vessels, of various forms and shapes, were discovered in storerooms off the
-pyramid's underground passages. They are inscribed with the names of rulers from
+pyramid’s underground passages. They are inscribed with the names of rulers from
 the First and Second Dynasties of Egypt and made from different kinds of stone.
 There is no agreement among scholars and archaeologists on why the vessels
 were placed in the tomb of Djoser or what they were supposed to represent. The
 archaeologist Jean-Philippe Lauer, who excavated most of the pyramid and complex,
-believes they were originally stored and then given a 'proper burial' by Djoser in his
+believes they were originally stored and then given a ‘proper burial’ by Djoser in his
 pyramid to honor his predecessors. There are other historians, however, who claim
 the vessels were dumped into the shafts as yet another attempt to prevent grave
-robbers from getting to the king's burial chamber.
+robbers from getting to the king’s burial chamber.
 F
 Unfortunately, all of the precautions and intricate design of the underground network
-did not prevent ancient robbers from finding a way in. Djoser's grave goods, and
+did not prevent ancient robbers from finding a way in. Djoser’s grave goods, and
 even his body, were stolen at some point in the past and all archaeologists found
 were a small number of his valuables overlooked by the thieves. There was enough
 left throughout the pyramid and its complex, however, to astonish and amaze the
 archaeologists who excavated it.
 G
-Egyptologist Miroslav Verner writes, 'Few monuments hold a place in human
+Egyptologist Miroslav Verner writes, ‘Few monuments hold a place in human
 history as significant as that of the Step Pyramid in Saqqara ... It can be said
 without exaggeration that this pyramid complex constitutes a milestone in the
-evolution of monumental stone architecture in Egypt and in the world as a whole.'
+evolution of monumental stone architecture in Egypt and in the world as a whole.’
 The Step Pyramid was a revolutionary advance in architecture and became the
 archetype which all the other great pyramid builders of Egypt would follow.
 22
@@ -819,27 +819,23 @@ archetype which all the other great pyramid builders of Egypt would follow.
 ## Page 25
 
 Reading
-Questions 21-24
+Questions 21–24
 Complete the notes below.
-Choose ONE WoRD ONLY from the passage for each answer.
-Write your answers in boxes 21-24 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 21–24 on your answer sheet.
 The Step Pyramid of Djoser
 The complex that includes the Step Pyramid and its surroundings is considered to be
-as big as an Egyptian 21
-of the past. The area outside the pyramid
-included accommodation that was occupied by 22
-, along with
+as big as an Egyptian 21 __________ of the past. The area outside the pyramid
+included accommodation that was occupied by 22 __________, along with
 many other buildings and features.
 A wall ran around the outside of the complex and a number of false entrances were
-built into this. In addition, a long 23
-encircled the wall. As a result.
+built into this. In addition, a long 23 __________ encircled the wall. As a result,
 any visitors who had not been invited were cleverly prevented from entering the
-pyramid grounds unless they knew the 24
-of the real entrance.
-Questions 25-26
-Choose TWO letters, A-E.
+pyramid grounds unless they knew the 24 __________ of the real entrance.
+Questions 25–26
+Choose TWO letters, A–E.
 Write the correct letters in boxes 25 and 26 on your answer sheet.
-Which Two of the following points does the writer make about King Djoser?
+Which TWO of the following points does the writer make about King Djoser?
 A
 Initially he had to be persuaded to build in stone rather than clay.
 B
@@ -850,110 +846,109 @@ D
 A few of his possessions were still in his tomb when archaeologists found it.
 E
 He criticised the design and construction of other pyramids in Egypt.
-D
 23
 
 ## Page 26
 
 Test 1
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 The future of work
-According to a leading business consultancy, 3-14% of the global workforce will need to switch
-to a different occupation within the next 10—15 years, and all workers will need to adapt as
-their occupations evolve alongside increasingly capable machines. Automation  or "embodied
-artificial intelligence' (Al)  is one aspect of the disruptive effects of technology on the labour
-market. 'Disembodied AI', like the algorithms running in our smartphones, is another.
+According to a leading business consultancy, 3–14% of the global workforce will need to switch
+to a different occupation within the next 10–15 years, and all workers will need to adapt as
+their occupations evolve alongside increasingly capable machines. Automation – or ‘embodied
+artificial intelligence’ (AI) – is one aspect of the disruptive effects of technology on the labour
+market. ‘Disembodied AI’, like the algorithms running in our smartphones, is another.
 Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most
-fundamental changes are happening as a result of the 'algorithmication' of jobs that are dependent
-on data rather than on production — the so-called knowledge economy. Algorithms are capable of
+fundamental changes are happening as a result of the ‘algorithmication’ of jobs that are dependent
+on data rather than on production – the so-called knowledge economy. Algorithms are capable of
 learning from data to undertake tasks that previously needed human judgement, such as reading
 legal contracts, analysing medical scans and gathering market intelligence.
-'In many cases, they can outperform humans,' says Pachidi. 'Organisations are attracted to
-using algorithms because they want to make choices based on what they consider is "perfect
-information", as well as to reduce costs and enhance productivity.
-'But these enhancements are not without consequences,' says Pachidi. 'If routine cognitive tasks
-are taken over by AI, how do professions develop their future experts?' she asks. 'One way of
-learning about a job is "legitimate peripheral participation" — a novice stands next to experts and
-learns by observation. If this isn't happening, then you need to find new ways to learn.'
+‘In many cases, they can outperform humans,’ says Pachidi. ‘Organisations are attracted to
+using algorithms because they want to make choices based on what they consider is “perfect
+information”, as well as to reduce costs and enhance productivity.’
+‘But these enhancements are not without consequences,’ says Pachidi. ‘If routine cognitive tasks
+are taken over by AI, how do professions develop their future experts?’ she asks. ‘One way of
+learning about a job is “legitimate peripheral participation” – a novice stands next to experts and
+learns by observation. If this isn’t happening, then you need to find new ways to learn.’
 Another issue is the extent to which the technology influences or even controls the workforce.
-For over two years, Pachidi monitored a telecommunications company. 'The way telecoms
+For over two years, Pachidi monitored a telecommunications company. ‘The way telecoms
 salespeople work is through personal and frequent contact with clients, using the benefit of
 experience to assess a situation and reach a decision. However, the company had started using
 a[n] ... algorithm that defined when account managers should contact certain customers about
-which kinds of campaigns and what to offer them.'
-The algorithm — usually built by external designers — often becomes the keeper of knowledge,
+which kinds of campaigns and what to offer them.’
+The algorithm – usually built by external designers – often becomes the keeper of knowledge,
 she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into
-working practices whereby workers learn through the "algorithm's eyes' and become dependent
-on its instructions. Alternative explorations - where experimentation and human instinct lead to
-progress and new ideas - are effectively discouraged.
+working practices whereby workers learn through the ‘algorithm’s eyes’ and become dependent
+on its instructions. Alternative explorations – where experimentation and human instinct lead to
+progress and new ideas – are effectively discouraged.
 Pachidi and colleagues even observed people developing strategies to make the algorithm work
-to their own advantage. 'We are seeing cases where workers feed the algorithm with false data to
-reach their targets,' she reports.
+to their own advantage. ‘We are seeing cases where workers feed the algorithm with false data to
+reach their targets,’ she reports.
 24
 
 ## Page 27
 
 Reading
-It's scenarios like these that many researchers are working to avoid. Their objective is to make AI
+It’s scenarios like these that many researchers are working to avoid. Their objective is to make AI
 technologies more trustworthy and transparent, so that organisations and individuals understand
-how AI decisions are made. In the meantime, says Pachidi, 'We need to make sure we fully
+how AI decisions are made. In the meantime, says Pachidi, ‘We need to make sure we fully
 understand the dilemmas that this new world raises regarding expertise, occupational boundaries
-and control.'
+and control.’
 Economist Professor Hamish Low believes that the future of work will involve major transitions
-across the whole life course for everyone: 'The traditional trajectory of full-time education
-followed by full-time work followed by a pensioned retirement is a thing of the past,' says Low.
+across the whole life course for everyone: ‘The traditional trajectory of full-time education
+followed by full-time work followed by a pensioned retirement is a thing of the past,’ says Low.
 Instead, he envisages a multistage employment life: one where retraining happens across the life
 course, and where multiple jobs and no job happen by choice at different stages.
-On the subject of job losses, Low believes the predictions are founded on a fallacy: 'It assumes
+On the subject of job losses, Low believes the predictions are founded on a fallacy: ‘It assumes
 that the number of jobs is fixed. If in 30 years, half of 100 jobs are being carried out by robots,
-that doesn't mean we are left with just 50 jobs for humans. The number of jobs will increase: we
-would expect there to be 150 jobs.'
-Dr Ewan McGaughey, at Cambridge's Centre for Business Research and King's College London,
-agrees that 'apocalyptic' views about the future of work are misguided. 'It's the laws that
+that doesn’t mean we are left with just 50 jobs for humans. The number of jobs will increase: we
+would expect there to be 150 jobs.’
+Dr Ewan McGaughey, at Cambridge’s Centre for Business Research and King’s College London,
+agrees that ‘apocalyptic’ views about the future of work are misguided. ‘It’s the laws that
 restrict the supply of capital to the job market, not the advent of new technologies that causes
-unemployment.
+unemployment.’
 His recently published research answers the question of whether automation, AI and robotics will
-mean a 'jobless future' by looking at the causes of unemployment. 'History is clear that change
-can mean redundancies. But social policies can tackle this through retraining and redeployment.'
-He adds: 'If there is going to be change to jobs as a result of AI and robotics then I'd like to see
+mean a ‘jobless future’ by looking at the causes of unemployment. ‘History is clear that change
+can mean redundancies. But social policies can tackle this through retraining and redeployment.’
+He adds: ‘If there is going to be change to jobs as a result of AI and robotics then I’d like to see
 governments seizing the opportunity to improve policy to enforce good job security. We can
-"reprogramme" the law to prepare for a fairer future of work and leisure.' McGaughey's findings
+“reprogramme” the law to prepare for a fairer future of work and leisure.’ McGaughey’s findings
 are a call to arms to leaders of organisations, governments and banks to pre-empt the coming
 changes with bold new policies that guarantee full employment, fair incomes and a thriving
 economic democracy.
-'The promises of these new technologies are astounding. They deliver humankind the capacity
-to live in a way that nobody could have once imagined,' he adds. 'Just as the industrial revolution
+‘The promises of these new technologies are astounding. They deliver humankind the capacity
+to live in a way that nobody could have once imagined,’ he adds. ‘Just as the industrial revolution
 brought people past subsistence agriculture, and the corporate revolution enabled mass
 production, a third revolution has been pronounced. But it will not only be one of technology. The
-next revolution will be social.
+next revolution will be social.’
 25
 
 ## Page 28
 
 Test 1
-Questions 27-30
+Questions 27–30
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-30 on your answer sheet.
+Write the correct letter in boxes 27–30 on your answer sheet.
 27
 The first paragraph tells us about
 A
-the kinds of jobs that will be most affected by the growth of Al.
+the kinds of jobs that will be most affected by the growth of AI.
 B
-the extent to which Al will alter the nature of the work that people do.
+the extent to which AI will alter the nature of the work that people do.
 C
-the proportion of the world's labour force who will have jobs in Al in the future.
+the proportion of the world’s labour force who will have jobs in AI in the future.
 D
-the difference between ways that embodied and disembodied Al will impact
+the difference between ways that embodied and disembodied AI will impact
 on workers.
 28
-According to the second paragraph, what is Stella Pachidi's view of the 'knowledge
-economy'?
+According to the second paragraph, what is Stella Pachidi’s view of the ‘knowledge
+economy’?
 A
 It is having an influence on the number of jobs available.
 B
-It is changing people's attitudes towards their occupations.
+It is changing people’s attitudes towards their occupations.
 C
 It is the main reason why the production sector is declining.
 D
@@ -961,13 +956,13 @@ It is a key factor driving current developments in the workplace.
 29
 What did Pachidi observe at the telecommunications company?
 A
-staff disagreeing with the recommendations of Al
+staff disagreeing with the recommendations of AI
 B
-staff feeling resentful about the intrusion of Al in their work
+staff feeling resentful about the intrusion of AI in their work
 C
-staff making sure that Al produces the results that they want
+staff making sure that AI produces the results that they want
 D
-staff allowing Al to carry out tasks they ought to do themselves
+staff allowing AI to carry out tasks they ought to do themselves
 30
 In his recently published research, Ewan McGaughey
 A
@@ -983,55 +978,45 @@ illustrates how changes in the job market can be successfully handled.
 ## Page 29
 
 Reading
-Questions 31-34
-Complete the summary using the list of words, A-G, below.
-Write the correct letter, A-G, in boxes 31-34 on your answer sheet.
-The 'algorithmication' of jobs
+Questions 31–34
+Complete the summary using the list of words, A–G, below.
+Write the correct letter, A–G, in boxes 31–34 on your answer sheet.
+The ‘algorithmication’ of jobs
 Stella Pachidi of Cambridge Judge Business School has been focusing on the
-'algorithmication' of jobs which rely not on production but on 31
+‘algorithmication’ of jobs which rely not on production but on 31 __________.
 While monitoring a telecommunications company, Pachidi observed a growing
-32
-on the recommendations made by Al, as workers begin to learn
-through the 'algorithm's eyes'. Meanwhile, staff are deterred from experimenting and using
-their own 33
-, and are therefore prevented from achieving innovation.
+32 __________ on the recommendations made by AI, as workers begin to learn
+through the ‘algorithm’s eyes’. Meanwhile, staff are deterred from experimenting and using
+their own 33 __________, and are therefore prevented from achieving innovation.
 To avoid the kind of situations which Pachidi observed, researchers are trying to
-make Al's decision-making process easier to comprehend, and to increase users'
-34
-with regard to the technology.
-A
-pressure
-B
-satisfaction
-C
-intuition
-D
-promotion
-E
-reliance
-F
-confidence
-G
-information
+make AI’s decision-making process easier to comprehend, and to increase users’
+34 __________ with regard to the technology.
+A pressure
+B satisfaction
+C intuition
+D promotion
+E reliance
+F confidence
+G information
 27
 
 ## Page 30
 
 Test 1
-Questions 35-40
-Look at the following statements (Questions 35-40) and the list of people below.
+Questions 35–40
+Look at the following statements (Questions 35–40) and the list of people below.
 Match each statement with the correct person, A, B or C.
-Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet.
+Write the correct letter, A, B or C, in boxes 35–40 on your answer sheet.
 NB You may use any letter more than once.
 35
 Greater levels of automation will not result in lower employment.
 36
-There are several reasons why Al is appealing to businesses.
+There are several reasons why AI is appealing to businesses.
 37
-Al's potential to transform people's lives has parallels with major cultural shifts
+AI’s potential to transform people’s lives has parallels with major cultural shifts
 which occurred in previous eras.
 38
-It is important to be aware of the range of problems that Al causes.
+It is important to be aware of the range of problems that AI causes.
 39
 People are going to follow a less conventional career path than in the past.
 40
@@ -1045,7 +1030,6 @@ Hamish Low
 C
 Ewan McGaughey
 28
-9
 
 ## Page 31
 
@@ -1413,15 +1397,15 @@ a
 Test 2
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The White Horse of Uffington
-The cutting of huge figures or 'geoglyphs' into the earth of English hillsides has taken
+The cutting of huge figures or ‘geoglyphs’ into the earth of English hillsides has taken
 place for more than 3,000 years. There are 56 hill figures scattered around England, with
-the vast majority on the chalk downlands of the country's southern counties. The figures
+the vast majority on the chalk downlands of the country’s southern counties. The figures
 include giants, horses, crosses and regimental badges. Although the majority of these
 geoglyphs date within the last 300 years or so, there are one or two that are much older.
-The most famous of these figures is perhaps also the most mysterious - the Uffington
+The most famous of these figures is perhaps also the most mysterious – the Uffington
 White Horse in Oxfordshire. The White Horse has recently been re-dated and shown
 to be even older than its previously assigned ancient pre-Roman Iron Age* date. More
 controversial is the date of the enigmatic Long Man of Wilmington in Sussex. While many
@@ -1438,7 +1422,7 @@ cutting in exactly the same place, thus creating a different shape to the origin
 geoglyph. The fact that any ancient hill figures survive at all in England today is
 testament to the strength and continuity of local customs and beliefs which, in one case
 at least, must stretch back over millennia.
-*Iron Age: a period (in Britain 800 BCE - 43 CE) that is characterised by the use of iron tools
+*Iron Age: a period (in Britain 800 BCE – 43 CE) that is characterised by the use of iron tools
 38
 
 ## Page 41
@@ -1456,22 +1440,21 @@ extremely difficult to see from close quarters, and like many geoglyphs is best 
 from the air. Nevertheless, there are certain areas of the Vale of the White Horse, the valley
 containing and named after the enigmatic creature, from which an adequate impression
 may be gained. Indeed on a clear day the carving can be seen from up to 30 km away.
-The earliest evidence of a horse at Uffington is from the 1070s CE when 'White Horse
-Hill' is mentioned in documents from the nearby Abbey of Abingdon, and the first
+The earliest evidence of a horse at Uffington is from the 1070s CE when ‘White Horse
+Hill’ is mentioned in documents from the nearby Abbey of Abingdon, and the first
 reference to the horse itself is soon after, in 1190 CE. However, the carving is believed
 to date back much further than that. Due to the similarity of the Uffington White Horse to
 the stylised depictions of horses on 1st century BCE coins, it had been thought that the
 creature must also date to that period.
 However, in 1995 Optically Stimulated Luminescence (OSL) testing was carried out by
-the Oxford Archaeological Unit on soil from two of the lower layers of the horse's body,
-and from another cut near the base. The result was a date for the horse's construction
-somewhere between 1400 and 600 BCE - in other words, it had a Late Bronze Age or
+the Oxford Archaeological Unit on soil from two of the lower layers of the horse’s body,
+and from another cut near the base. The result was a date for the horse’s construction
+somewhere between 1400 and 600 BCE – in other words, it had a Late Bronze Age or
 Early Iron Age origin.
 The latter end of this date range would tie the carving of the horse in with occupation of the
 nearby Uffington hillfort, indicating that it may represent a tribal emblem marking the land of
 the inhabitants of the hillfort. Alternatively, the carving may have been carried out during a
-Bronze or Iron Age ritual. Some researchers see the horse as representing the Celtic***
-horse
+Bronze or Iron Age ritual. Some researchers see the horse as representing the Celtic*** horse
 goddess Epona, who was worshipped as a protector of horses, and for her associations with
 fertility. However, the cult of Epona was not imported from Gaul (France) until around the first
 century CE. This date is at least six centuries after the Uffington Horse was probably carved.
@@ -1483,8 +1466,8 @@ The fact that geoglyphs can disappear easily, along with their associated ritual
 indicates that they were never intended to be anything more than temporary gestures. But
 this does not lessen their importance. These giant carvings are a fascinating glimpse into the
 minds of their creators and how they viewed the landscape in which they lived.
-*Bronze Age: a period (in Britain c. 2,500 BCE - 800 BCE) that is characterised by the development of bronze tools
-**Neolithic: a period (in Britain c. 4,000 BCE - c. 2,500 BCE) that is significant for the spread of agricultural practices, and the use of
+*Bronze Age: a period (in Britain c. 2,500 BCE – 800 BCE) that is characterised by the development of bronze tools
+**Neolithic: a period (in Britain c. 4,000 BCE – c. 2,500 BCE) that is significant for the spread of agricultural practices, and the use of
 stone tools
 ***Celtic: an ancient people who migrated from Europe to Britain before the Romans
 39
@@ -1492,14 +1475,15 @@ stone tools
 ## Page 42
 
 Test 2
-Questions 1-8
+Questions 1–8
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-8 on your answer sheet, write
+In boxes 1–8 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVEN if there is no information on this
+NOT GIVEN
+if there is no information on this
 1
 Most geoglyphs in England are located in a particular area of the country.
 2
@@ -1523,88 +1507,83 @@ The fame of the Uffington White Horse is due to its size.
 ## Page 43
 
 Reading
-Questions 9-13
+Questions 9–13
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 9—13 on your answer sheet.
+Write your answers in boxes 9–13 on your answer sheet.
 The Uffington White Horse
 The location of the Uffington White Horse:
-a distance of 2.5 km from Uffington village
-near an ancient road known as the 9
-close to an ancient cemetery that has a number of burial mounds
+• a distance of 2.5 km from Uffington village
+• near an ancient road known as the 9 __________
+• close to an ancient cemetery that has a number of burial mounds
 Dating the Uffington White Horse:
-first reference to White Horse Hill appears in 10
-from
-the 1070s
-horses shown on coins from the period 100 BCE - 1 BCE are similar in
-appearance
-according to analysis of the surrounding 11
-, the Horse is
-Late Bronze Age / Early Iron Age
+• first reference to White Horse Hill appears in 10 __________ from the 1070s
+• horses shown on coins from the period 100 BCE – 1 BCE are similar in appearance
+• according to analysis of the surrounding 11 __________, the Horse is
+  Late Bronze Age / Early Iron Age
 Possible reasons for creation of the Uffington White Horse:
-an emblem to indicate land ownership
-formed part of an ancient ritual
-was a representation of goddess Epona - associated with protection of horses
-and 12
-was a representation of a Welsh goddess called 13
-8
+• an emblem to indicate land ownership
+• formed part of an ancient ritual
+• was a representation of goddess Epona – associated with protection of horses
+  and 12 __________
+• was a representation of a Welsh goddess called 13 __________
 41
 
 ## Page 44
 
 Test 2
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 I contain multitudes
-Wendy Moore reviews Ed Yong's book about microbes
+Wendy Moore reviews Ed Yong’s book about microbes
 Microbes, most of them bacteria, have populated this planet since long before animal life
 developed and they will outlive us. Invisible to the naked eye, they are ubiquitous. They inhabit
 the soil, air, rocks and water and are present within every form of life, from seaweed and coral to
 dogs and humans. And, as Yong explains in his utterly absorbing and hugely important book, we
 mess with them at our peril.
-Every species has its own colony of microbes, called a 'microbiome', and these microbes
+Every species has its own colony of microbes, called a ‘microbiome’, and these microbes
 vary not only between species but also between individuals and within different parts of each
 individual. What is amazing is that while the number of human cells in the average person is
-about 30 trillion, the number of microbial ones is higher - about 39 trillion. At best, Yong informs
+about 30 trillion, the number of microbial ones is higher – about 39 trillion. At best, Yong informs
 us, we are only 50 per cent human. Indeed, some scientists even suggest we should think of each
-species and its microbes as a single unit, dubbed a 'holobiont'.
+species and its microbes as a single unit, dubbed a ‘holobiont’.
 In each human there are microbes that live only in the stomach, the mouth or the armpit and by
-and large they do so peacefully. So 'bad' microbes are just microbes out of context. Microbes
+and large they do so peacefully. So ‘bad’ microbes are just microbes out of context. Microbes
 that sit contentedly in the human gut (where there are more microbes than there are stars in
 the galaxy) can become deadly if they find their way into the bloodstream. These communities
 are constantly changing too. The right hand shares just one sixth of its microbes with the left
 hand. And, of course, we are surrounded by microbes. Every time we eat, we swallow a million
 microbes in each gram of food; we are continually swapping microbes with other humans, pets
 and the world at large.
-It's a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept
+It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept
 guide. Writing with lightness and panache, he has a knack of explaining complex science in terms
 that are both easy to understand and totally enthralling. Yong is on a mission. Leading us gently
-by the hand, he takes us into the world of microbes  a bizarre, alien planet - in a bid to persuade
+by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade
 us to love them as much as he does. By the end, we do.
 For most of human history we had no idea that microbes existed. The first man to see these
 extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the
 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a
-drop of water from a nearby lake and found it teeming with tiny creatures he called 'animalcules'.
-It wasn't until nearly two hundred years later that the research of French biologist Louis Pasteur
-indicated that some microbes caused disease. It was Pasteur's 'germ theory' that gave bacteria the
+drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’.
+It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur
+indicated that some microbes caused disease. It was Pasteur’s ‘germ theory’ that gave bacteria the
 poor image that endures today.
 42
 
 ## Page 45
 
 Reading
-Yong's book is in many ways a plea for microbial tolerance, pointing out that while fewer
+Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer
 than one hundred species of bacteria bring disease, many thousands more play a vital role in
 maintaining our health. The book also acknowledges that our attitude towards bacteria is not
 a simple one. We tend to see the dangers posed by bacteria, yet at the same time we are sold
-yoghurts and drinks that supposedly nurture 'friendly' bacteria. In reality, says Yong, bacteria
+yoghurts and drinks that supposedly nurture ‘friendly’ bacteria. In reality, says Yong, bacteria
 should not be viewed as either friends or foes, villains or heroes. Instead we should realise we
 have a symbiotic relationship, that can be mutually beneficial or mutually destructive.
 What then do these millions of organisms do? The answer is pretty much everything. New
 research is now unravelling the ways in which bacteria aid digestion, regulate our immune
 systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity.
-'They actually help us become who we are,' says Yong. But we are facing a growing problem.
+‘They actually help us become who we are,’ says Yong. But we are facing a growing problem.
 Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are
 disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune
 problems, such as inflammatory bowel disease (IBD).
@@ -1613,13 +1592,13 @@ studies indicating that the excessive use of household detergents and antibacter
 actually destroys the microbes that normally keep the more dangerous germs at bay. Other studies
 show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria,
 which may help protect them against allergies later.
-The readers of Yong's book must be prepared for a decidedly unglamorous world. Among the less
+The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less
 appealing case studies is one about a fungus that is wiping out entire populations of frogs and
 that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent
 bacteria that protect them against predators. However, if you can overcome your distaste for some
-of the investigations, the reasons for Yong's enthusiasm become clear. The microbial world is a
-place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever — a disease
-that infects 400 million people a year — mosquitoes are being loaded with a bacterium to block
+of the investigations, the reasons for Yong’s enthusiasm become clear. The microbial world is a
+place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever – a disease
+that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block
 the disease. In the future, our ability to manipulate microbes means we could construct buildings
 with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital
 ward coated in a specially mixed cocktail of microbes so that babies get the best start in life.
@@ -1628,9 +1607,9 @@ ward coated in a specially mixed cocktail of microbes so that babies get the bes
 ## Page 46
 
 Test 2
-Questions 14-16
+Questions 14–16
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 14-16 on your answer sheet.
+Write the correct letter in boxes 14–16 on your answer sheet.
 14 What point does the writer make about microbes in the first paragraph?
 A
 They adapt quickly to their environment.
@@ -1655,7 +1634,7 @@ What is the writer doing in the fifth paragraph?
 A
 explaining how a discovery was made
 B
-comparing scientists' theories about microbes
+comparing scientists’ theories about microbes
 C
 describing confusion among scientists
 D
@@ -1665,54 +1644,43 @@ giving details of how microbes cause disease
 ## Page 47
 
 Reading
-Questions 17-20
-Complete the summary using the list of words, A-H, below.
-Write the correct letter, A-H, in boxes 17-20 on your answer sheet.
+Questions 17–20
+Complete the summary using the list of words, A–H, below.
+Write the correct letter, A–H, in boxes 17–20 on your answer sheet.
 We should be more tolerant of microbes
-Yong's book argues that we should be more tolerant of microbes. Many have a
-beneficial effect, and only a relatively small number lead to 17
-.And
-although it is misleading to think of microbes as 'friendly', we should also stop thinking of
+Yong’s book argues that we should be more tolerant of microbes. Many have a
+beneficial effect, and only a relatively small number lead to 17 __________. And
+although it is misleading to think of microbes as ‘friendly’, we should also stop thinking of
 them as the enemy. In fact, we should accept that our relationship with microbes is one
-based on 18 ..
-.........................
+based on 18 __________.
 New research shows that microbes have numerous benefits for humans. Amongst other
 things, they aid digestion, remove poisons, produce vitamins and may even help reduce
-obesity. However, there is a growing problem. Our poor 19
-, our
-overuse of antibiotics, and our excessive focus on 20
-are upsetting the
+obesity. However, there is a growing problem. Our poor 19 __________, our
+overuse of antibiotics, and our excessive focus on 20 __________ are upsetting the
 bacterial balance and may be contributing to the huge increase in allergies and immune
 system problems.
-A
-solution
-B
-partnership
-C
-destruction
-D
-exaggeration
-E
-cleanliness
-F
-regulations
-G
-illness
-H
-nutrition
+A solution
+B partnership
+C destruction
+D exaggeration
+E cleanliness
+F regulations
+G illness
+H nutrition
 45
 
 ## Page 48
 
 Test 2
-Questions 21-26
+Questions 21–26
 Do the following statements agree with the claims of the writer in Reading Passage 2?
-In boxes 21-26 on your answer sheet, write
+In boxes 21–26 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
 if the statement contradicts the claims of the writer
-NOT GIVEN if it is impossible to say what the writer thinks about this
+NOT GIVEN
+if it is impossible to say what the writer thinks about this
 21
 It is possible that using antibacterial products in the home fails to have the desired
 effect.
@@ -1720,7 +1688,7 @@ effect.
 It is a good idea to ensure that children come into contact with as few bacteria as
 possible.
 23
-Yong's book contains more case studies than are necessary.
+Yong’s book contains more case studies than are necessary.
 24
 The case study about bacteria that prevent squid from being attacked may have
 limited appeal.
@@ -1735,27 +1703,27 @@ some hospital wards.
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 How to make wise decisions
 Across cultures, wisdom has been considered one of the most revered human qualities. Although
 the truly wise may seem few and far between, empirical research examining wisdom suggests
-that it isn't an exceptional trait possessed by a small handful of bearded philosophers after all  in
+that it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all – in
 fact, the latest studies suggest that most of us have the ability to make wise decisions, given the
 right context.
-'It appears that experiential, situational, and cultural factors are even more powerful in shaping
-wisdom than previously imagined,' says Associate Professor Igor Grossmann of the University
-of Waterloo in Ontario, Canada. 'Recent empirical findings from cognitive, developmental,
-social, and personality psychology cumulatively suggest that people's ability to reason wisely
+‘It appears that experiential, situational, and cultural factors are even more powerful in shaping
+wisdom than previously imagined,’ says Associate Professor Igor Grossmann of the University
+of Waterloo in Ontario, Canada. ‘Recent empirical findings from cognitive, developmental,
+social, and personality psychology cumulatively suggest that people’s ability to reason wisely
 varies dramatically across experiential and situational contexts. Understanding the role of such
 contextual factors offers unique insights into understanding wisdom in daily life, as well as how it
-can be enhanced and taught.'
-It seems that it's not so much that some people simply possess wisdom and others lack it, but
-that our ability to reason wisely depends on a variety of external factors. 'It is impossible to
+can be enhanced and taught.’
+It seems that it’s not so much that some people simply possess wisdom and others lack it, but
+that our ability to reason wisely depends on a variety of external factors. ‘It is impossible to
 characterize thought processes attributed to wisdom without considering the role of contextual
-factors,' explains Grossmann. 'In other words, wisdom is not solely an "inner quality"' but rather
+factors,’ explains Grossmann. ‘In other words, wisdom is not solely an “inner quality” but rather
 unfolds as a function of situations people happen to be in. Some situations are more likely to
-promote wisdom than others.'
+promote wisdom than others.’
 Coming up with a definition of wisdom is challenging, but Grossmann and his colleagues have
 identified four key characteristics as part of a framework of wise reasoning. One is intellectual
 humility or recognition of the limits of our own knowledge, and another is appreciation of
@@ -1764,7 +1732,7 @@ relations is also key, along with compromise or integration of different attitud
 Grossmann and his colleagues have also found that one of the most reliable ways to support
 wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as
 though giving advice to a friend. Research suggests that when adopting a first-person viewpoint
-we focus on 'the focal features of the environment' and when we adopt a third-person, 'observer
+we focus on ‘the focal features of the environment’ and when we adopt a third-person, ‘observer’
 viewpoint we reason more broadly and focus more on interpersonal and moral ideals such as
 justice and impartiality. Looking at problems from this more expansive viewpoint appears to
 foster cognitive processes related to wise decisions.
@@ -1775,38 +1743,38 @@ foster cognitive processes related to wise decisions.
 Test 2
 What are we to do, then, when confronted with situations like a disagreement with a spouse or
 negotiating a contract at work, that require us to take a personal stake? Grossmann argues that
-even when we aren't able to change the situation, we can still evaluate these experiences from
+even when we aren’t able to change the situation, we can still evaluate these experiences from
 different perspectives.
 For example, in one experiment that took place during the peak of a recent economic recession,
 graduating college seniors were asked to reflect on their job prospects. The students were
-instructed to imagine their career either 'as if you were a distant observer' or 'before your own
-eyes as if you were right there'. Participants in the group assigned to the 'distant observer' role
+instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own
+eyes as if you were right there’. Participants in the group assigned to the ‘distant observer’ role
 displayed more wisdom-related reasoning (intellectual humility and recognition of change) than
 did participants in the control group.
 In another study, couples in long-term romantic relationships were instructed to visualize
 an unresolved relationship conflict either through the eyes of an outsider or from their own
 perspective. Participants then discussed the incident with their partner for 10 minutes, after which
-they wrote down their thoughts about it. Couples in the 'other's eyes' condition were significantly
-more likely to rely on wise reasoning - recognizing others' perspectives and searching for a
-compromise  compared to the couples in the egocentric condition.
-'Ego-decentering promotes greater focus on others and enables a bigger picture, conceptual view
-of the experience, affording recognition of intellectual humility and change,' says Grossmann.
+they wrote down their thoughts about it. Couples in the ‘other’s eyes’ condition were significantly
+more likely to rely on wise reasoning – recognizing others’ perspectives and searching for a
+compromise – compared to the couples in the egocentric condition.
+‘Ego-decentering promotes greater focus on others and enables a bigger picture, conceptual view
+of the experience, affording recognition of intellectual humility and change,’ says Grossmann.
 We might associate wisdom with intelligence or particular personality traits, but research shows
 only a small positive relationship between wise thinking and crystallized intelligence and the
-personality traits of openness and agreeableness. 'It is remarkable how much people can vary in
+personality traits of openness and agreeableness. ‘It is remarkable how much people can vary in
 their wisdom from one situation to the next, and how much stronger such contextual effects are
 for understanding the relationship between wise judgment and its social and affective outcomes as
-compared to the generalized "traits",' Grossmann explains. 'That is, knowing how wisely a person
+compared to the generalized “traits”,’ Grossmann explains. ‘That is, knowing how wisely a person
 behaves in a given situation is more informative for understanding their emotions or likelihood to
-forgive [or] retaliate as compared to knowing whether the person may be wise "in general"."
+forgive [or] retaliate as compared to knowing whether the person may be wise “in general”.’
 48
 
 ## Page 51
 
 Reading
-Questions 27-30
+Questions 27–30
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-30 on your answer sheet.
+Write the correct letter in boxes 27–30 on your answer sheet.
 27 What point does the writer make in the first paragraph?
 A
 Wisdom appears to be unique to the human race.
@@ -1852,54 +1820,43 @@ a recommended strategy that can help people to reason wisely
 ## Page 52
 
 Test 2
-Questions 31-35
-Complete the summary using the list of words, A-J, below.
-Write the correct letter, A-J, in boxes 31-35 on your answer sheet.
+Questions 31–35
+Complete the summary using the list of words, A–J, below.
+Write the correct letter, A–J, in boxes 31–35 on your answer sheet.
 The characteristics of wise reasoning
 Igor Grossmann and colleagues have established four characteristics which enable us
-to make wise decisions. It is important to have a certain degree of 31
-regarding the extent of our knowledge, and to take into account 32
+to make wise decisions. It is important to have a certain degree of 31 __________
+regarding the extent of our knowledge, and to take into account 32 __________
 which may not be the same as our own. We should also be able to take a broad
-33
-of any situation. Another key characteristic is being aware of the
+33 __________ of any situation. Another key characteristic is being aware of the
 likelihood of alterations in the way that people relate to each other.
-Grossmann also believes that it is better to regard scenarios with 34
-By avoiding the first-person perspective, we focus more on 35
-and on
+Grossmann also believes that it is better to regard scenarios with 34 __________.
+By avoiding the first-person perspective, we focus more on 35 __________ and on
 other moral ideals, which in turn leads to wiser decision-making.
-A
-opinions
-B
-confidence
-C
-view
-D
-modesty
-E
-problems
-F
-objectivity
-G
-fairness
-H
-experiences
-I
-range
-J
-reasons
+A opinions
+B confidence
+C view
+D modesty
+E problems
+F objectivity
+G fairness
+H experiences
+I range
+J reasons
 50
 
 ## Page 53
 
 Reading
-Questions 36-40
+Questions 36–40
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 36-40 on your answer sheet, write
+In boxes 36–40 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVEN if there is no information on this
+NOT GIVEN
+if there is no information on this
 36
 Students participating in the job prospects experiment could choose one of two
 perspectives to take.
@@ -1907,15 +1864,14 @@ perspectives to take.
 Participants in the couples experiment were aware that they were taking part in a
 study about wise reasoning.
 38
-In the couples experiments, the length of the couples' relationships had an impact
+In the couples experiments, the length of the couples’ relationships had an impact
 on the results.
 39
 In both experiments, the participants who looked at the situation from a more
 detached viewpoint tended to make wiser decisions.
 40
-Grossmann believes that a person's wisdom is determined by their intelligence to
+Grossmann believes that a person’s wisdom is determined by their intelligence to
 only a very limited extent.
-0
 51
 
 ## Page 54
@@ -2249,14 +2205,14 @@ were done while knitting.
 
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Roman shipbuilding and navigation
 Shipbuilding today is based on science and ships are built using computers and sophisticated
 tools. Shipbuilding in ancient Rome, however, was more of an art relying on estimation, inherited
-techniques and personal experience. The Romans were not traditionally sailors but mostly land-
-based people, who learned to build ships from the people that they conquered, namely the Greeks
+techniques and personal experience. The Romans were not traditionally sailors but mostly land-based people, who learned to build ships from the people that they conquered, namely the Greeks
 and the Egyptians.
+
 There are a few surviving written documents that give descriptions and representations of ancient
 Roman ships, including the sails and rigging. Excavated vessels also provide some clues about
 ancient shipbuilding techniques. Studies of these have taught us that ancient Roman shipbuilders
@@ -2269,14 +2225,16 @@ first and then proceeding with the hull and the other components of the ship. Th
 more systematic and dramatically shortened ship construction times. The ancient Romans built
 large merchant ships and warships whose size and technology were unequalled until the 16th
 century CE.
+
 Warships were built to be lightweight and very speedy. They had to be able to sail near the coast,
 which is why they had no ballast or excess load and were built with a long, narrow hull. They did
-not sink when damaged and often would lie crippled on the sea's surface following naval battles.
+not sink when damaged and often would lie crippled on the sea’s surface following naval battles.
 They had a bronze battering ram, which was used to pierce the timber hulls or break the oars of
 enemy vessels. Warships used both wind (sails) and human power (oarsmen) and were therefore
-very fast. Eventually, Rome's navy became the largest and most powerful in the Mediterranean,
-and the Romans had control over what they therefore called Mare Nostrum meaning 'our sea'.
-There were many kinds of warship. The 'trireme' was the dominant warship from the 7th to 4th
+very fast. Eventually, Rome’s navy became the largest and most powerful in the Mediterranean,
+and the Romans had control over what they therefore called Mare Nostrum meaning ‘our sea’.
+
+There were many kinds of warship. The ‘trireme’ was the dominant warship from the 7th to 4th
 century BCE. It had rowers in the top, middle and lower levels, and approximately 50 rowers in
 each bank. The rowers at the bottom had the most uncomfortable position as they were under the
 other rowers and were exposed to the water entering through the oar-holes. It is worth noting that
@@ -2295,13 +2253,15 @@ connected to a system of cables. They had from one to three masts with large squ
 small triangular sail at the bow. Just like warships, merchant ships used oarsmen, but coordinating
 the hundreds of rowers in both types of ship was not an easy task. In order to assist them, music
 would be played on an instrument, and oars would then keep time with this.
+
 The cargo on merchant ships included raw materials (e.g. iron bars, copper, marble and granite),
-and agricultural products (e.g. grain from Egypt's Nile valley). During the Empire, Rome was a
+and agricultural products (e.g. grain from Egypt’s Nile valley). During the Empire, Rome was a
 huge city by ancient standards of about one million inhabitants. Goods from all over the world
 would come to the city through the port of Pozzuoli situated west of the bay of Naples in Italy and
 through the gigantic port of Ostia situated at the mouth of the Tiber River. Large merchant ships
 would approach the destination port and, just like today, be intercepted by a number of towboats
 that would drag them to the quay.
+
 The time of travel along the many sailing routes could vary widely. Navigation in ancient
 Rome did not rely on sophisticated instruments such as compasses but on experience, local
 knowledge and observation of natural phenomena. In conditions of good visibility, seamen in the
@@ -2316,16 +2276,17 @@ today with large vessels regularly crossing the seas and bringing supplies from 
 ## Page 65
 
 Reading
-Questions 1-5
+Questions 1–5
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-5 on your answer sheet, write
+In boxes 1–5 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVEN if there is no information on this
+NOT GIVEN
+if there is no information on this
 1
-The Romans' shipbuilding skills were passed on to the Greeks and the Egyptians.
+The Romans’ shipbuilding skills were passed on to the Greeks and the Egyptians.
 2
 Skilled craftsmen were needed for the mortise and tenon method of fixing planks.
 3
@@ -2341,30 +2302,25 @@ Most rowers on ships were people from the Roman army.
 ## Page 66
 
 Test 3
-Questions 6-13
+Questions 6–13
 Complete the summary below.
-Choose ONE woRD oNLY from the passage for each answer.
-Write your answers in boxes 6—13 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 6–13 on your answer sheet.
 Warships and merchant ships
-Warships were designed so that they were 6
-and moved
+Warships were designed so that they were 6 __________ and moved
 quickly. They often remained afloat after battles and were able to sail close to land as
-they lacked any additional weight. A battering ram made of 7
+they lacked any additional weight. A battering ram made of 7 __________
 was included in the design for attacking and damaging the timber and oars of
-enemy ships. Warships, such as the 'trireme', had rowers on three different
-8
-Unlike warships, merchant ships had a broad 9
-that lay far
+enemy ships. Warships, such as the ‘trireme’, had rowers on three different
+8 __________.
+Unlike warships, merchant ships had a broad 9 __________ that lay far
 below the surface of the sea. Merchant ships were steered through the water with
-the help of large rudders and a tiller bar. They had both square and 10 ..
-sails. On merchant ships and warships, 11
-was used to
+the help of large rudders and a tiller bar. They had both square and 10 __________
+sails. On merchant ships and warships, 11 __________ was used to
 ensure rowers moved their oars in and out of the water at the same time.
-Quantities of agricultural goods such as 12
-were transported
+Quantities of agricultural goods such as 12 __________ were transported
 by merchant ships to two main ports in Italy. The ships were pulled to the shore by
-13
-. When the weather was clear and they could see islands
+13 __________. When the weather was clear and they could see islands
 or land, sailors used landmarks that they knew to help them navigate their route.
 64
 
@@ -2372,21 +2328,22 @@ or land, sailors used landmarks that they knew to help them navigate their route
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
-Climate change reveals ancient artefacts in Norway's glaciers
+Climate change reveals ancient artefacts in Norway’s glaciers
 A
-Well above the treeline in Norway's highest mountains, ancient fields of ice are shrinking
-as Earth's climate warms. As the ice has vanished, it has been giving up the treasures it has
+Well above the treeline in Norway’s highest mountains, ancient fields of ice are shrinking
+as Earth’s climate warms. As the ice has vanished, it has been giving up the treasures it has
 preserved in cold storage for the last 6,000 years — items such as ancient arrows and skis
 from Viking Age* traders. And those artefacts have provided archaeologists with some
 surprising insights into how ancient Norwegians made their livings.
 B
 Organic materials like textiles and hides are relatively rare finds at archaeological sites.
-This is because unless they're protected from the microorganisms that cause decay, they
+This is because unless they’re protected from the microorganisms that cause decay, they
 tend not to last long. Extreme cold is one reliable way to keep artefacts relatively fresh
 for a few thousand years, but once thawed out, these materials experience degradation
 relatively swiftly.
+
 With climate change shrinking ice cover around the world, glacial archaeologists need to
 race the clock to find newly revealed artefacts, preserve them, and study them. If something
 fragile dries and is windblown it might very soon be lost to science, or an arrow might
@@ -2397,18 +2354,20 @@ C
 Over a nine-year period, a team of archaeologists, which included Lars Pilø of Oppland
 County Council, Norway, and James Barrett of the McDonald Institute for Archaeological
 Research, surveyed patches of ice in Oppland, an area of south-central Norway that is home
-to some of the country's highest mountains. Reindeer once congregated on these icy patches
+to some of the country’s highest mountains. Reindeer once congregated on these icy patches
 in the later summer months to escape biting insects, and from the late Stone Age**, hunters
 followed. In addition, trade routes threaded through the mountain passes of Oppland, linking
 settlements in Norway to the rest of Europe.
+
 The slow but steady movement of glaciers tends to destroy anything at their bases, so the
 team focused on stationary patches of ice, mostly above 1,400 metres. That ice is found
 amid fields of frost-weathered boulders, fallen rocks, and exposed bedrock that for nine
 months of the year is buried beneath snow.
-'Fieldwork is hard work — hiking with all our equipment, often camping on permafrost —
-but very rewarding. You're rescuing the archaeology, bringing the melting ice to wider
+
+‘Fieldwork is hard work – hiking with all our equipment, often camping on permafrost –
+but very rewarding. You’re rescuing the archaeology, bringing the melting ice to wider
 attention, discovering a unique environmental history and really connecting with the natural
-environment,'says Barrett.
+environment,’ says Barrett.
 *Viking Age: a period of European history from around 700 CE to around 1050 CE when Scandinavian Vikings migrated throughout
 Europe by means of trade and warfare
 ** The Stone Age: a period in early history that began about 3.4 million years ago
@@ -2425,28 +2384,29 @@ would have easily misplaced arrows and they often discarded broken bows rather t
 them all the way home. Other items could have been used by hunters traversing the high
 mountain passes of Oppland: all-purpose items like tools, skis, and horse tack.
 E
-Barrett's team radiocarbon-dated 153 of the artefacts and compared those dates to the timing
-of major environmental changes in the region - such as periods of cooling or warming - and
-major social and economic shifts - such as the growth of farming settlements and the spread
+Barrett’s team radiocarbon-dated 153 of the artefacts and compared those dates to the timing
+of major environmental changes in the region – such as periods of cooling or warming – and
+major social and economic shifts – such as the growth of farming settlements and the spread
 of international trade networks leading up to the Viking Age. They found that some periods
 had produced lots of artefacts, which indicates that people had been pretty active in the
 mountains during those times. But there were few or no signs of activity during other periods.
 F
-What was surprising, according to Barrett, was the timing of these periods. Oppland's
+What was surprising, according to Barrett, was the timing of these periods. Oppland’s
 mountains present daunting terrain and in periods of extreme cold, glaciers could block the
 higher mountain passes and make travel in the upper reaches of the mountains extremely
 difficult. Archaeologists assumed people would stick to lower elevations during a time
 like the Late Antique Little Ice Age, a short period of deeper-than-usual cold from about
-536-600 CE. But it turned out that hunters kept regularly venturing into the mountains
+536–600 CE. But it turned out that hunters kept regularly venturing into the mountains
 even when the climate turned cold, based on the amount of stuff they had apparently
 dropped there.
-'Remarkably, though, the finds from the ice may have continued through this period,
+
+‘Remarkably, though, the finds from the ice may have continued through this period,
 perhaps suggesting that the importance of mountain hunting increased to supplement
-failing agricultural harvests in times of low temperatures,' says Barrett. A colder turn in the
+failing agricultural harvests in times of low temperatures,’ says Barrett. A colder turn in the
 Scandinavian climate would likely have meant widespread crop failures, so more people
 would have depended on hunting to make up for those losses.
 G
-Many of the artefacts Barrett's team recovered date from the beginning of the Viking Age,
+Many of the artefacts Barrett’s team recovered date from the beginning of the Viking Age,
 the 700s through to the 900s CE. Trade networks connecting Scandinavia with Europe and
 the Middle East were expanding around this time. Although we usually think of ships when
 we think of Scandinavian expansion, these recent discoveries show that plenty of goods
@@ -2455,8 +2415,8 @@ towns, along with export markets, would have created a booming demand for hides 
 off the cold, as well as antlers to make useful things like combs. Business must have been
 good for hunters.
 H
-Norway's mountains are probably still hiding a lot of history - and prehistory - in remote
-ice patches. When Barrett's team looked at the dates for their sample of 153 artefacts,
+Norway’s mountains are probably still hiding a lot of history – and prehistory – in remote
+ice patches. When Barrett’s team looked at the dates for their sample of 153 artefacts,
 they noticed a gap with almost no artefacts from about 3,800 to 2,200 BCE. In fact,
 archaeological finds from that period are rare all over Norway. The researchers say that
 could be because many of those artefacts have already disintegrated or are still frozen in the
@@ -2467,10 +2427,10 @@ ice in years to come.
 ## Page 69
 
 Reading
-Questions 14-19
-Reading Passage 2 has eight sections, A-H.
+Questions 14–19
+Reading Passage 2 has eight sections, A–H.
 Which section contains the following information?
-Write the correct letter, A—H, in boxes 14-19 on your answer sheet.
+Write the correct letter, A–H, in boxes 14–19 on your answer sheet.
 14
 an explanation for weapons being left behind in the mountains
 15
@@ -2483,22 +2443,20 @@ a reference to the possibility of future archaeological discoveries
 examples of items that would have been traded
 19
 a reference to the pressure archaeologists are under to work quickly
-Questions 20-22
+Questions 20–22
 Complete the summary below.
-Choose ONE WoRD ONLY from the passage for each answer.
-Write your answers in boxes 20-22 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 20–22 on your answer sheet.
 Interesting finds at an archaeological site
 Organic materials such as animal skins and textiles are not discovered very often at
-archaeological sites. They have little protection against 20
+archaeological sites. They have little protection against 20 __________,
 which means that they decay relatively quickly. But this is not always the case.
 If temperatures are low enough, fragile artefacts can be preserved for thousands
 of years.
 A team of archaeologists have been working in the mountains in Oppland in Norway
 to recover artefacts revealed by shrinking ice cover. In the past, there were trade
-routes through these mountains and 21
-gathered there in
-the summer months to avoid being attacked by 22
-on lower
+routes through these mountains and 21 __________ gathered there in
+the summer months to avoid being attacked by 22 __________ on lower
 ground. The people who used these mountains left things behind and it is those
 objects that are of interest to archaeologists.
 67
@@ -2507,10 +2465,10 @@ objects that are of interest to archaeologists.
 
 Test 3
 Questions 23 and 24
-Choose Two letters, A-E.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 23 and 24 on your answer sheet.
-Which Two of the following statements does the writer make about the discoveries of
-Barrett's team?
+Which TWO of the following statements does the writer make about the discoveries of
+Barrett’s team?
 A
 Artefacts found in the higher mountain passes were limited to
 skiing equipment.
@@ -2523,9 +2481,9 @@ Radiocarbon dating of artefacts produced some unreliable results.
 E
 More artefacts were found in Oppland than at any other mountain site.
 Questions 25 and 26
-Choose TWo letters, AE.
+Choose TWO letters, A–E.
 Write the correct letters in boxes 25 and 26 on your answer sheet.
-Which Two of the following statements does the writer make about the Viking Age?
+Which TWO of the following statements does the writer make about the Viking Age?
 A
 Hunters at this time benefited from an increased demand for goods.
 B
@@ -2537,51 +2495,52 @@ Norwegian towns at this time attracted traders from around the world.
 E
 Vikings were primarily interested in their trading links with the Middle East.
 68
-4
 
 ## Page 71
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
-Plant 'thermometer' triggers springtime growth by
+Plant ‘thermometer’ triggers springtime growth by
 measuring night-time heat
 A photoreceptor molecule in plant cells has been found to have a second job
-as a thermometer after dark — allowing plants to read seasonal temperature
+as a thermometer after dark – allowing plants to read seasonal temperature
 changes. Scientists say the discovery could help breed crops that are more
 resilient to the temperatures expected to result from climate change
+
 A
 An international team of scientists led by the University of Cambridge has
-discovered that the 'thermometer' molecule in plants enables them to develop
+discovered that the ‘thermometer’ molecule in plants enables them to develop
 according to seasonal temperature changes. Researchers have revealed that
-molecules called phytochromes - used by plants to detect light during the day -
+molecules called phytochromes – used by plants to detect light during the day –
 actually change their function in darkness to become cellular temperature gauges
 that measure the heat of the night.
+
 The new findings, published in the journal Science, show that phytochromes control
 genetic switches in response to temperature as well as light to dictate plant development.
 B
 At night, these molecules change states, and the pace at which they change is
-'directly proportional to temperature', say scientists, who compare phytochromes
-to mercury in a thermometer. The warmer it is, the faster the molecular change -
+‘directly proportional to temperature’, say scientists, who compare phytochromes
+to mercury in a thermometer. The warmer it is, the faster the molecular change –
 stimulating plant growth.
 C
 Farmers and gardeners have known for hundreds of years how responsive plants are
 to temperature: warm winters cause many trees and flowers to bud early, something
 humans have long used to predict weather and harvest times for the coming year. The
 latest research pinpoints for the first time a molecular mechanism in plants that reacts
-to temperature — often triggering the buds of spring we long to see at the end of winter.
+to temperature – often triggering the buds of spring we long to see at the end of winter.
 D
 With weather and temperatures set to become ever more unpredictable due to
 climate change, researchers say the discovery that this light-sensing molecule also
 functions as the internal thermometer in plant cells could help us breed tougher
-crops. 'It is estimated that agricultural yields will need to double by 2050, but
+crops. ‘It is estimated that agricultural yields will need to double by 2050, but
 climate change is a major threat to achieving this. Key crops such as wheat and rice
 are sensitive to high temperatures. Thermal stress reduces crop yields by around
-10% for every one degree increase in temperature,' says lead researcher Dr Philip
-Wigge from Cambridge's Sainsbury Laboratory. 'Discovering the molecules that
+10% for every one degree increase in temperature,’ says lead researcher Dr Philip
+Wigge from Cambridge’s Sainsbury Laboratory. ‘Discovering the molecules that
 allow plants to sense temperature has the potential to accelerate the breeding of
-crops resilient to thermal stress and climate change.'
+crops resilient to thermal stress and climate change.’
 69
 
 ## Page 72
@@ -2590,22 +2549,23 @@ Test 3
 E
 In their active state, phytochrome molecules bind themselves to DNA to restrict
 plant growth. During the day, sunlight activates the molecules, slowing down
-growth. If a plant finds itself in shade, phytochromes are quickly inactivated —
+growth. If a plant finds itself in shade, phytochromes are quickly inactivated –
 enabling it to grow faster to find sunlight again. This is how plants compete to
-escape each other's shade. 'Light-driven changes to phytochrome activity occur very
-fast, in less than a second,' says Wigge.
-At night, however, it's a different story. Instead of a rapid deactivation following
+escape each other’s shade. ‘Light-driven changes to phytochrome activity occur very
+fast, in less than a second,’ says Wigge.
+
+At night, however, it’s a different story. Instead of a rapid deactivation following
 sundown, the molecules gradually change from their active to inactive state. This is
-called 'dark reversion'. 'Just as mercury rises in a thermometer, the rate at which
+called ‘dark reversion’. ‘Just as mercury rises in a thermometer, the rate at which
 phytochromes revert to their inactive state during the night is a direct measure of
-temperature,' says Wigge.
+temperature,’ says Wigge.
 F
-'The lower the temperature, the slower the rate at which phytochromes revert to
+‘The lower the temperature, the slower the rate at which phytochromes revert to
 inactivity, so the molecules spend more time in their active, growth-suppressing
 state. This is why plants are slower to grow in winter. Warm temperatures accelerate
 dark reversion, so that phytochromes rapidly reach an inactive state and detach
-themselves from the plant's DNA  allowing genes to be expressed and plant growth
-to resume.' Wigge believes phytochrome thermo-sensing evolved at a later stage,
+themselves from the plant’s DNA – allowing genes to be expressed and plant growth
+to resume.’ Wigge believes phytochrome thermo-sensing evolved at a later stage,
 and co-opted the biological network already used for light-based growth during the
 downtime of night.
 G
@@ -2613,39 +2573,41 @@ Some plants mainly use day length as an indicator of the season. Other species, 
 as daffodils, have considerable temperature sensitivity, and can flower months in
 advance during a warm winter. In fact, the discovery of the dual role of phytochromes
 provides the science behind a well-known rhyme long used to predict the coming
-season: oak before ash we'll have a splash, ash before oak we're in for a soak.
-Wigge explains: 'Oak trees rely much more on temperature, likely using
+season: oak before ash we’ll have a splash, ash before oak we’re in for a soak.
+
+Wigge explains: ‘Oak trees rely much more on temperature, likely using
 phytochromes as thermometers to dictate development, whereas ash trees rely on
 measuring day length to determine their seasonal timing. A warmer spring, and
 consequently a higher likeliness of a hot summer, will result in oak leafing before
 ash. A cold spring will see the opposite. As the British know only too well, a colder
-summer is likely to be a rain-soaked one.'
+summer is likely to be a rain-soaked one.’
 H
 The new findings are the culmination of twelve years of research involving scientists
 from Germany, Argentina and the US, as well as the Cambridge team. The work was
 done in a model system, using a mustard plant called Arabidopsis, but Wigge says
 the phytochrome genes necessary for temperature sensing are found in crop plants as
-well. 'Recent advances in plant genetics now mean that scientists are able to rapidly
+well. ‘Recent advances in plant genetics now mean that scientists are able to rapidly
 identify the genes controlling these processes in crop plants, and even alter their
-activity using precise molecular "scalpels",' adds Wigge. 'Cambridge is uniquely
+activity using precise molecular “scalpels”,’ adds Wigge. ‘Cambridge is uniquely
 well-positioned to do this kind of research as we have outstanding collaborators
 nearby who work on more applied aspects of plant biology, and can help us transfer
-this new knowledge into the field.
+this new knowledge into the field.’
 70
 
 ## Page 73
 
 Reading
-Questions 27-32
+Questions 27–32
 Do the following statements agree with the information given in Reading Passage 3?
-In boxes 27-32 on your answer sheet, write
+In boxes 27–32 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVEN if there is no information on this
+NOT GIVEN
+if there is no information on this
 27
-The Cambridge scientists' discovery of the 'thermometer molecule' caused surprise
+The Cambridge scientists’ discovery of the ‘thermometer molecule’ caused surprise
 among other scientists.
 28
 The target for agricultural production by 2050 could be missed.
@@ -2657,11 +2619,12 @@ It may be possible to develop crops that require less water.
 Plants grow faster in sunlight than in shade.
 32
 Phytochromes change their state at the same speed day and night.
-Questions 33-37
-Reading Passage 3 has eight sections, A-H.
+Questions 33–37
+Reading Passage 3 has eight sections, A–H.
 Which section contains the following information?
-Write the correct letter, A-H, in boxes 33—37 on your answer sheet.
-33 mention of specialists who can make use of the research findings
+Write the correct letter, A–H, in boxes 33–37 on your answer sheet.
+33
+mention of specialists who can make use of the research findings
 34
 a reference to a potential benefit of the research findings
 35
@@ -2675,19 +2638,18 @@ a reference to where the research has been reported
 ## Page 74
 
 Test 3
-Questions 38-40
+Questions 38–40
 Complete the sentences below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 38-40 on your answer sheet.
+Write your answers in boxes 38–40 on your answer sheet.
 38
-Daffodils are likely to flower early in response to
-weather.
+Daffodils are likely to flower early in response to __________ weather.
 39
-If ash trees come into leaf before oak trees, the weather in
+If ash trees come into leaf before oak trees, the weather in __________
 will probably be wet.
-40 The research was carried out using a particular species of.
+40
+The research was carried out using a particular species of __________.
 72
-3
 
 ## Page 75
 
@@ -3040,12 +3002,13 @@ was destroyed.
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Roman tunnels
 The Romans, who once controlled areas of Europe, North Africa and
 Asia Minor, adopted the construction techniques of other civilizations to
 build tunnels in their territories
+
 The Persians, who lived in present-day Iran, were one of the first civilizations to build tunnels
 that provided a reliable supply of water to human settlements in dry areas. In the early first
 millennium BCE, they introduced the qanat method of tunnel construction, which consisted
@@ -3056,8 +3019,9 @@ to the surface using the shafts, which also provided ventilation during the work
 was completed, it allowed water to flow from the top of a hillside down towards a canal, which
 supplied water for human use. Remarkably, some qanats built by the Persians 2,700 years ago are
 still in use today.
-They later passed on their knowledge to the Romans, who also used the ganat method to
-construct water-supply tunnels for agriculture. Roman ganat tunnels were constructed with
+
+They later passed on their knowledge to the Romans, who also used the qanat method to
+construct water-supply tunnels for agriculture. Roman qanat tunnels were constructed with
 vertical shafts dug at intervals of between 30 and 60 meters. The shafts were equipped with
 handholds and footholds to help those climbing in and out of them and were covered with a
 wooden or stone lid. To ensure that the shafts were vertical, Romans hung a plumb line from a
@@ -3066,32 +3030,33 @@ center of the shaft. Plumb lines were also used to measure the depth of the shaf
 the slope of the tunnel. The 5.6-kilometer-long Claudius tunnel, built in 41 CE to drain the Fucine
 Lake in central Italy, had shafts that were up to 122 meters deep, took 11 years to build and
 involved approximately 30,000 workers.
-By the 6th century BCE, a second method of tunnel construction appeared called the counter-
-excavation method, in which the tunnel was constructed from both ends. It was used to cut
-through high mountains when the ganat method was not a practical alternative. This method
+
+By the 6th century BCE, a second method of tunnel construction appeared called the
+counter-excavation method, in which the tunnel was constructed from both ends. It was used to cut
+through high mountains when the qanat method was not a practical alternative. This method
 required greater planning and advanced knowledge of surveying, mathematics and geometry
 as both ends of a tunnel had to meet correctly at the center of the mountain. Adjustments to the
 direction of the tunnel also had to be made whenever builders encountered geological problems
-or when it deviated from its set path. They constantly checked the tunnel's advancing direction,
-82
+or when it deviated from its set path. They constantly checked the tunnel’s advancing direction,
 
 ## Page 85
 
-Reading
 for example, by looking back at the light that penetrated through the tunnel mouth, and made
 corrections whenever necessary. Large deviations could happen, and they could result in one end
 of the tunnel not being usable. An inscription written on the side of a 428-meter tunnel, built by
 the Romans as part of the Saldae aqueduct system in modern-day Algeria, describes how the two
 teams of builders missed each other in the mountain and how the later construction of a lateral
 link between both corridors corrected the initial error.
+
 The Romans dug tunnels for their roads using the counter-excavation method, whenever they
 encountered obstacles such as hills or mountains that were too high for roads to pass over.
-An example is the 37-meter-long, 6-meter-high, Furlo Pass Tunnel built in Italy in 69-79 CE.
+An example is the 37-meter-long, 6-meter-high, Furlo Pass Tunnel built in Italy in 69–79 CE.
 Remarkably, a modern road still uses this tunnel today. Tunnels were also built for mineral
 extraction. Miners would locate a mineral vein and then pursue it with shafts and tunnels
 underground. Traces of such tunnels used to mine gold can still be found at the Dolaucothi mines
 in Wales. When the sole purpose of a tunnel was mineral extraction, construction required less
 planning, as the tunnel route was determined by the mineral vein.
+
 Roman tunnel projects were carefully planned and carried out. The length of time it took to
 construct a tunnel depended on the method being used and the type of rock being excavated. The
 qanat construction method was usually faster than the counter-excavation method as it was more
@@ -3104,154 +3069,156 @@ years, if not decades, to be built. Construction marks left on a Roman tunnel in
 the rate of advance through solid rock was 30 centimeters per day. In contrast, the rate of advance
 of the Claudius tunnel can be calculated at 1.4 meters per day. Most tunnels had inscriptions
 showing the names of patrons who ordered construction and sometimes the name of the architect.
-For example, the 1.4-kilometer Cevlik tunnel in Turkey, built to divert the floodwater threatening
+For example, the 1.4-kilometer Çevlik tunnel in Turkey, built to divert the floodwater threatening
 the harbor of the ancient city of Seleuceia Pieria, had inscriptions on the entrance, still visible
 today, that also indicate that the tunnel was started in 69 CE and was completed in 81 CE.
-83
 
 ## Page 86
 
 Test 4
-Questions 1-6
+Questions 1–6
 Label the diagrams below.
-Choose ONE woRD oNLY from the passage for each answer.
-Write your answers in boxes 1—6 on your answer sheet.
-The Persian Qanat Method
-to direct
-water runs into a 2
-the tunnelling
-used by local people
-water table
-vertical shafts to remove earth and for 3
-Cross-section of a Roman Qanat Shaft
-made of wood or stone
-rod
-5
-attached to the plumb line
-handholds and footholds used for 6
-84
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 1–6 on your answer sheet.
 
 ![Cambridge IELTS 16 page 086 figure](data/generated/image-review/cambridge-ielts-16/page-086-reading-qanat-diagrams.png)
 
+The Persian Qanat Method
+1 __________ to direct the tunnelling
+water runs into a 2 __________ used by local people
+water table
+vertical shafts to remove earth and for 3 __________
+
+Cross-section of a Roman Qanat Shaft
+4 __________ made of wood or stone
+rod
+5 __________ attached to the plumb line
+handholds and footholds used for 6 __________
+
 ## Page 87
 
-Reading
-Questions 7-10
+Questions 7–10
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 7-10 on your answer sheet, write
+In boxes 7–10 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
 if the statement contradicts the information
-NOT GIVEN if there is no information on this
+NOT GIVEN
+if there is no information on this
 7
 The counter-excavation method completely replaced the qanat method in the
 6th century BCE.
 8
-Only experienced builders were employed to construct a tunnel using the counter-
-excavation method.
+Only experienced builders were employed to construct a tunnel using the counter-excavation method.
 9
 The information about a problem that occurred during the construction of the
 Saldae aqueduct system was found in an ancient book.
 10
 The mistake made by the builders of the Saldae aqueduct system was that the two
 parts of the tunnel failed to meet.
-Questions 11-13
+Questions 11–13
 Answer the questions below.
-Choose NO MORE THAN TWO WoRDS from the passage for each answer.
-Write your answers in boxes 11-13 on your answer sheet.
-11 What type of mineral were the Dolaucothi mines in Wales built to extract?
+Choose NO MORE THAN TWO WORDS from the passage for each answer.
+Write your answers in boxes 11–13 on your answer sheet.
+11
+What type of mineral were the Dolaucothi mines in Wales built to extract?
 12
 In addition to the patron, whose name might be carved onto a tunnel?
 13
-What part of Seleuceia Pieria was the Cevlik tunnel built to protect?
-85
+What part of Seleuceia Pieria was the Çevlik tunnel built to protect?
 
 ## Page 88
 
 Test 4
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 Changes in reading habits
 What are the implications of the way we read today?
+
 Look around on your next plane trip. The iPad is the new pacifier for babies and toddlers. Younger
-school-aged children read stories on smartphones; older kids don't read at all, but hunch over
+school-aged children read stories on smartphones; older kids don’t read at all, but hunch over
 video games. Parents and other passengers read on tablets or skim a flotilla of email and news
 feeds. Unbeknown to most of us, an invisible, game-changing transformation links everyone
-in this picture: the neuronal circuit that underlies the brain's ability to read is subtly, rapidly
-changing and this has implications for everyone from the pre-reading toddler to the expert adult
+in this picture: the neuronal circuit that underlies the brain’s ability to read is subtly, rapidly
+changing and this has implications for everyone from the pre-reading toddler to the expert adult.
+
 As work in neurosciences indicates, the acquisition of literacy necessitated a new circuit in our
-species' brain more than 6,000 years ago. That circuit evolved from a very simple mechanism
-for decoding basic information, like the number of goats in one's herd, to the present, highly
+species’ brain more than 6,000 years ago. That circuit evolved from a very simple mechanism
+for decoding basic information, like the number of goats in one’s herd, to the present, highly
 elaborated reading brain. My research depicts how the present reading brain enables the
 development of some of our most important intellectual and affective processes: internalized
 knowledge, analogical reasoning, and inference; perspective-taking and empathy; critical analysis
 and the generation of insight. Research surfacing in many parts of the world now cautions that
-each of these essential 'deep reading' processes may be under threat as we move into digital-
-based modes of reading.
+each of these essential ‘deep reading’ processes may be under threat as we move into digital-based
+modes of reading.
+
 This is not a simple, binary issue of print versus digital reading and technological innovation. As
 MIT scholar Sherry Turkle has written, we do not err as a society when we innovate but when
 we ignore what we disrupt or diminish while innovating. In this hinge moment between print and
 digital cultures, society needs to confront what is diminishing in the expert reading circuit, what
 our children and older students are not developing, and what we can do about it.
+
 We know from research that the reading circuit is not given to human beings through a genetic
 blueprint like vision or language; it needs an environment to develop. Further, it will adapt to that
-environment's requirements - from different writing systems to the characteristics of whatever
+environment’s requirements – from different writing systems to the characteristics of whatever
 medium is used. If the dominant medium advantages processes that are fast, multi-task oriented
 and well-suited for large volumes of information, like the current digital medium, so will the
 reading circuit. As UCLA psychologist Patricia Greenfield writes, the result is that less attention
 and time will be allocated to slower, time-demanding deep reading processes.
+
 Increasing reports from educators and from researchers in psychology and the humanities bear
 this out. English literature scholar and teacher Mark Edmundson describes how many college
 students actively avoid the classic literature of the 19th and 20th centuries in favour of something
 simpler as they no longer have the patience to read longer, denser, more difficult texts. We should
-86
 
 ## Page 89
 
-Reading
-be less concerned with students' 'cognitive impatience', however, than by what may underlie
+be less concerned with students’ ‘cognitive impatience’, however, than by what may underlie
 it: the potential inability of large numbers of students to read with a level of critical analysis
 sufficient to comprehend the complexity of thought and argument found in more demanding texts.
+
 Multiple studies show that digital screen use may be causing a variety of troubling downstream
 effects on reading comprehension in older high school and college students. In Stavanger,
 Norway, psychologist Anne Mangen and her colleagues studied how high school students
-comprehend the same material in different mediums. Mangen's group asked subjects questions
+comprehend the same material in different mediums. Mangen’s group asked subjects questions
 about a short story whose plot had universal student appeal; half of the students read the story
 on a tablet, the other half in paperback. Results indicated that students who read on print were
 superior in their comprehension to screen-reading peers, particularly in their ability to sequence
 detail and reconstruct the plot in chronological order.
+
 Ziming Liu from San Jose State University has conducted a series of studies which indicate that
-the 'new norm' in reading is skimming, involving word-spotting and browsing through the text.
-Many readers now use a pattern when reading in which they sample the first line and then word-
-spot through the rest of the text. When the reading brain skims like this, it reduces time allocated
-to deep reading processes. In other words, we don't have time to grasp complexity, to understand
-another's feelings, to perceive beauty, and to create thoughts of the reader's own.
+the ‘new norm’ in reading is skimming, involving word-spotting and browsing through the text.
+Many readers now use a pattern when reading in which they sample the first line and then word-spot
+through the rest of the text. When the reading brain skims like this, it reduces time allocated
+to deep reading processes. In other words, we don’t have time to grasp complexity, to understand
+another’s feelings, to perceive beauty, and to create thoughts of the reader’s own.
+
 The possibility that critical analysis, empathy and other deep reading processes could become
-the unintended 'collateral damage' of our digital culture is not a straightforward binary issue
+the unintended ‘collateral damage’ of our digital culture is not a straightforward binary issue
 about print versus digital reading. It is about how we all have begun to read on various mediums
 and how that changes not only what we read, but also the purposes for which we read. Nor is it
 only about the young. The subtle atrophy of critical analysis and empathy affects us all equally. It
 affects our ability to navigate a constant bombardment of information. It incentivizes a retreat to
 the most familiar stores of unchecked information, which require and receive no analysis, leaving
 us susceptible to false information and irrational ideas.
-There's an old rule in neuroscience that does not alter with age: use it or lose it. It is a very
+
+There’s an old rule in neuroscience that does not alter with age: use it or lose it. It is a very
 hopeful principle when applied to critical thought in the reading brain because it implies choice.
 The story of the changing reading brain is hardly finished. We possess both the science and the
 technology to identify and redress the changes in how we read before they become entrenched. If
 we work to understand exactly what we will lose, alongside the extraordinary new capacities that
 the digital world has brought us, there is as much reason for excitement as caution.
-87
 
 ## Page 90
 
 Test 4
-Questions 14-17
+Questions 14–17
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 14-17 on your answer sheet.
+Write the correct letter in boxes 14–17 on your answer sheet.
 14
-What is the writer's main point in the first paragraph?
+What is the writer’s main point in the first paragraph?
 A
 Our use of technology is having a hidden effect on us.
 B
@@ -3290,83 +3257,67 @@ C
 does not worry him as much as it does others.
 D
 does not match the views of the general public.
-88
 
 ## Page 91
 
-Reading
-Questions 18-22
-Complete the summary using the list of words, A—H, below.
-Write the correct letter, A-H, in boxes 18-22 on your answer sheet.
+Questions 18–22
+Complete the summary using the list of words, A–H, below.
+Write the correct letter, A–H, in boxes 18–22 on your answer sheet.
 Studies on digital screen use
-There have been many studies on diqital screen use, showing some 18
-trends. Psychologist Anne Mangen gave high-school students a short story to read, half
-using digital and half using print mediums. Her team then used a question-and-answer
-technique to find out how 19
-each group's understanding of the plot
-was. The findings showed a clear pattern in the responses, with those who read screens
-finding the order of information 20
-to recall.
-Studies by Ziming Liu show that students are tending to read 21
-words and phrases in a text to save time. This approach, she says, gives the reader a
-superficial understanding of the 22
-content of material, leaving no time
-for thought.
-A
-fast
-B
-isolated
-C
-emotional
-D
-worrying
-E
-many
-F
-hard
-G
-combined
-H
-thorough
-Questions 23-26
+There have been many studies on digital screen use, showing some 18 __________ trends.
+Psychologist Anne Mangen gave high-school students a short story to read, half using digital
+and half using print mediums. Her team then used a question-and-answer technique to find out
+how 19 __________ each group’s understanding of the plot was. The findings showed a clear
+pattern in the responses, with those who read screens finding the order of information
+20 __________ to recall.
+Studies by Ziming Liu show that students are tending to read 21 __________ words and phrases
+in a text to save time. This approach, she says, gives the reader a superficial understanding of
+the 22 __________ content of material, leaving no time for thought.
+A fast
+B isolated
+C emotional
+D worrying
+E many
+F hard
+G combined
+H thorough
+Questions 23–26
 Do the following statements agree with the views of the writer in Reading Passage 2?
-In boxes 23-26 on your answer sheet, write
+In boxes 23–26 on your answer sheet, write
 YES
 if the statement agrees with the views of the writer
 NO
 if the statement contradicts the views of the writer
-NoT GIvEN if it is impossible to say what the writer thinks about this
+NOT GIVEN
+if it is impossible to say what the writer thinks about this
 23
 The medium we use to read can affect our choice of reading content.
 24
 Some age groups are more likely to lose their complex reading skills than others.
 25
-False information has become more widespread in today's digital era.
+False information has become more widespread in today’s digital era.
 26
 We still have opportunities to rectify the problems that technology is presenting.
-3
-89
 
 ## Page 92
 
--2
 Test 4
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 on pages 91 and 92.
-Questions 27-32
-Reading Passage 3 has six sections, A-F.
+Questions 27–32
+Reading Passage 3 has six sections, A–F.
 Choose the correct heading for each section from the list of headings below.
-Write the correct number, i—viii, in boxes 27-32 on your answer sheet.
+Write the correct number, i–viii, in boxes 27–32 on your answer sheet.
 List of Headings
-i An increasing divergence of attitudes towards Al
-ii Reasons why we have more faith in human judgement than in Al
-iii The superiority of Al projections over those made by humans
-iv The process by which Al can help us make good decisions
-v The advantages of involving users in Al processes
-vi Widespread distrust of an Al innovation
-vii Encouraging openness about how Al functions
-viii A surprisingly successful Al application
+i An increasing divergence of attitudes towards AI
+ii Reasons why we have more faith in human judgement than in AI
+iii The superiority of AI projections over those made by humans
+iv The process by which AI can help us make good decisions
+v The advantages of involving users in AI processes
+vi Widespread distrust of an AI innovation
+vii Encouraging openness about how AI functions
+viii A surprisingly successful AI application
 27
 Section A
 28
@@ -3390,39 +3341,45 @@ Artificial intelligence (AI) can already predict the future. Police forces are u
 to map when and where crime is likely to occur. Doctors can use it to predict when a
 patient is most likely to have a heart attack or stroke. Researchers are even trying to
 give AI imagination so it can plan for unexpected consequences.
+
 Many decisions in our lives require a good forecast, and AI is almost always better
 at forecasting than we are. Yet for all these technological advances, we still seem to
-deeply lack confidence in AI predictions. Recent cases show that people don't like
+deeply lack confidence in AI predictions. Recent cases show that people don’t like
 relying on AI and prefer to trust human experts, even if these experts are wrong.
+
 If we want AI to really benefit people, we need to find a way to get people to trust
 it. To do that, we need to understand why people are so reluctant to trust AI in the
 first place.
+
 B
-Take the case of Watson for Oncology, one of technology giant IBM's
+Take the case of Watson for Oncology, one of technology giant IBM’s
 supercomputer programs. Their attempt to promote this program to cancer doctors
 was a PR disaster. The AI promised to deliver top-quality recommendations on
-the treatment of 12 cancers that accounted for 80% of the world's cases. But when
+the treatment of 12 cancers that accounted for 80% of the world’s cases. But when
 doctors first interacted with Watson, they found themselves in a rather difficult
 situation. On the one hand, if Watson provided guidance about a treatment that
-coincided with their own opinions, physicians did not see much point in Watson's
+coincided with their own opinions, physicians did not see much point in Watson’s
 recommendations. The supercomputer was simply telling them what they already
 knew, and these recommendations did not change the actual treatment.
+
 On the other hand, if Watson generated a recommendation that contradicted the
-experts' opinion, doctors would typically conclude that Watson wasn't competent.
-And the machine wouldn't be able to explain why its treatment was plausible
+experts’ opinion, doctors would typically conclude that Watson wasn’t competent.
+And the machine wouldn’t be able to explain why its treatment was plausible
 because its machine-learning algorithms were simply too complex to be fully
 understood by humans. Consequently, this has caused even more suspicion
 and disbelief, leading many doctors to ignore the seemingly outlandish AI
 recommendations and stick to their own expertise.
+
 C
-This is just one example of people's lack of confidence in AI and their reluctance to
+This is just one example of people’s lack of confidence in AI and their reluctance to
 accept what AI has to offer. Trust in other people is often based on our understanding
 of how others think and having experience of their reliability. This helps create
 a psychological feeling of safety. AI, on the other hand, is still fairly new and
-unfamiliar to most people. Even if it can be technically explained (and that's not
-always the case), AI's decision-making process is usually too difficult for most
-people to comprehend. And interacting with something we don't understand can
-cause anxiety and give us a sense that we're losing control.
+unfamiliar to most people. Even if it can be technically explained (and that’s not
+always the case), AI’s decision-making process is usually too difficult for most
+people to comprehend. And interacting with something we don’t understand can
+cause anxiety and give us a sense that we’re losing control.
+
 91
 
 ## Page 94
@@ -3433,49 +3390,56 @@ working, because it often happens in the background. Instead, they are acutely
 aware of instances where AI goes wrong. Embarrassing AI failures receive a
 disproportionate amount of media attention, emphasising the message that we
 cannot rely on technology. Machine learning is not foolproof, in part because the
-humans who design it aren't.
+humans who design it aren’t.
+
 D
 Feelings about AI run deep. In a recent experiment, people from a range of
 backgrounds were given various sci-fi films about AI to watch and then asked
 questions about automation in everyday life. It was found that, regardless of whether
 the film they watched depicted AI in a positive or negative light, simply watching
-a cinematic vision of our technological future polarised the participants' attitudes.
+a cinematic vision of our technological future polarised the participants’ attitudes.
 Optimists became more extreme in their enthusiasm for AI and sceptics became
 even more guarded.
+
 This suggests people use relevant evidence about AI in a biased manner to support
-their existing attitudes, a deep-rooted human tendency known as "confirmation
-bias". As AI is represented more and more in media and entertainment, it could lead
+their existing attitudes, a deep-rooted human tendency known as “confirmation
+bias”. As AI is represented more and more in media and entertainment, it could lead
 to a society split between those who benefit from AI and those who reject it. More
 pertinently, refusing to accept the advantages offered by AI could place a large group
 of people at a serious disadvantage.
+
 E
 Fortunately, we already have some ideas about how to improve trust in AI. Simply
-having previous experience with AI can significantly improve people's opinions
+having previous experience with AI can significantly improve people’s opinions
 about the technology, as was found in the study mentioned above. Evidence also
 suggests the more you use other technologies such as the internet, the more you
 trust them.
+
 Another solution may be to reveal more about the algorithms which AI uses and
 the purposes they serve. Several high-profile social media companies and online
 marketplaces already release transparency reports about government requests and
 surveillance disclosures. A similar practice for AI could help people have a better
 understanding of the way algorithmic decisions are made.
+
 F
 Research suggests that allowing people some control over AI decision-making could
 also improve trust and enable AI to learn from human experience. For example,
 one study showed that when people were allowed the freedom to slightly modify an
 algorithm, they felt more satisfied with its decisions, more likely to believe it was
 superior and more likely to use it in the future.
-We don't need to understand the intricate inner workings of AI systems, but if
+
+We don’t need to understand the intricate inner workings of AI systems, but if
 people are given a degree of responsibility for how they are implemented, they will
 be more willing to accept AI into their lives.
+
 92
 
 ## Page 95
 
 Reading
-Questions 33-35
+Questions 33–35
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 33—35 on your answer sheet.
+Write the correct letter in boxes 33–35 on your answer sheet.
 33
 What is the writer doing in Section A?
 A
@@ -3487,7 +3451,7 @@ highlighting the existence of a problem
 D
 explaining the reasons for a phenomenon
 34
-According to Section C, why might some people be reluctant to accept Al?
+According to Section C, why might some people be reluctant to accept AI?
 A
 They are afraid it will replace humans in decision-making jobs.
 B
@@ -3500,21 +3464,21 @@ than it is.
 35
 What does the writer say about the media in Section C of the text?
 A
-It leads the public to be mistrustful of Al.
+It leads the public to be mistrustful of AI.
 B
-It devotes an excessive amount of attention to Al.
+It devotes an excessive amount of attention to AI.
 C
-Its reports of incidents involving Al are often inaccurate.
+Its reports of incidents involving AI are often inaccurate.
 D
-It gives the impression that Al failures are due to designer error.
+It gives the impression that AI failures are due to designer error.
 93
 
 ## Page 96
 
 Test 4
-Questions 36-40
+Questions 36–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 36-40 on your answer sheet, write
+In boxes 36–40 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
@@ -3522,20 +3486,19 @@ if the statement contradicts the claims of the writer
 NOT GIVEN
 if it is impossible to say what the writer thinks about this
 36
-Subjective depictions of Al in sci-fi films make people change their opinions about
+Subjective depictions of AI in sci-fi films make people change their opinions about
 automation.
 37
-Portrayals of Al in media and entertainment are likely to become more positive.
+Portrayals of AI in media and entertainment are likely to become more positive.
 38
-Rejection of the possibilities of Al may have a negative effect on many people's
+Rejection of the possibilities of AI may have a negative effect on many people’s
 lives.
 39
-Familiarity with Al has very little impact on people's attitudes to the technology.
+Familiarity with AI has very little impact on people’s attitudes to the technology.
 40
-Al applications which users are able to modify are more likely to gain consumer
+AI applications which users are able to modify are more likely to gain consumer
 approval.
 94
-3
 
 ## Page 97
 
@@ -5209,110 +5172,98 @@ READING
 Answer key with extra explanations
 in Resource Bank
 Reading Passage 1,
-Questions 1-13
+Questions 1–13
 1
 FALSE
-22
-priests
 2
 FALSE
-23
-trench
 3
 NOT GIVEN
-24
-location
 4
 TRUE
-25&26 IN EITHER ORDER
 5
 TRUE
-B
 6
 FALSE
-D
 7
 TRUE
 8
 violent
 9
 tool
-Reading Passage 3,
 10
 meat
-Questions 27-40
 11
 photographer
 12
 game
-27
-BD
 13
 frustration
+Reading Passage 2,
+Questions 14–26
+14
+iv
+15
+vii
+16
+ii
+17
+v
+18
+i
+19
+viii
+20
+vi
+21
+city
+22
+priests
+23
+trench
+24
+location
+25&26
+IN EITHER ORDER
+B
+D
+Reading Passage 3,
+Questions 27–40
+27
+B
 28
+D
 29
 C
 30
 D
-Reading Passage 2,
 31
 G
-Questions 14-26
 32
 E
-14
-iv
 33
-OF
-15
-vii
+C
 34
-16
-ii
+F
 35
 B
-17
-V
 36
 A
-18
-i
 37
 C
-19
-viii
 38
 A
-20
-vi
 39
 B
-21
-city
 40
 C
 If you score ...
-1-17
-18-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and we
-conditions but we recommend
-examination conditions but
-recommend that you spend a lot
-that you think about having
-remember that different
-of time improving your English
-more practice or lessons before
-institutions will find different
-before you take IELTS.
-you take IELTS.
-scores acceptable.
+1–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–25
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+26–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 122
 
 ## Page 125
@@ -5436,113 +5387,61 @@ READING
 Answer key with extra explanations
 in Resource Bank
 Reading Passage 1,
-Questions 1-13
-21
-YES
-1
-TRUE
-22
-NO
-2
-NOT GIVEN
-23
-NOT GIVEN
-3
-TRUE
-24
-YES
-4
-FALSE
-25
-NOT GIVEN
-5
-FALSE
-26
-NO
-6
-TRUE
-7
-TRUE
-8
-NOT GIVEN
-Reading Passage 3,
-9
-Ridgeway
-Questions 27-40
-10
-documents
-27
-11
-soil
-B
-28
-12
-C
-fertility
-29
-13
-B
-Rhiannon
-30
-D
-31
-D
+Questions 1–13
+1 TRUE
+2 NOT GIVEN
+3 TRUE
+4 FALSE
+5 FALSE
+6 TRUE
+7 TRUE
+8 NOT GIVEN
+9 Ridgeway
+10 documents
+11 soil
+12 fertility
+13 Rhiannon
 Reading Passage 2,
-32
-A
-Questions 14-26
-33
-C
-34
-14
-F
-D
-15
-35
-C
-G
-36
-FALSE
-16
-A
-37
-NOT GIVEN
-17
-G
-38
-18
-NOT GIVEN
-B
-39
-TRUE
-19
-H
-40
-20
-TRUE
-E
+Questions 14–26
+14 D
+15 C
+16 A
+17 G
+18 B
+19 H
+20 E
+21 YES
+22 NO
+23 NOT GIVEN
+24 YES
+25 NOT GIVEN
+26 NO
+Reading Passage 3,
+Questions 27–40
+27 B
+28 C
+29 B
+30 D
+31 D
+32 A
+33 C
+34 F
+35 G
+36 FALSE
+37 NOT GIVEN
+38 NOT GIVEN
+39 TRUE
+40 TRUE
 If you score ...
-1-17
-18-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and we
-conditions but we recommend
-examination conditions but
-recommend that you spend a lot
-that you think about having
-remember that different
-of time improving your English
-more practice or lessons before
-institutions will find different
-before you take IELTS.
-you take IELTS.
-scores acceptable.
+1–17
+you are unlikely to get an acceptable score under examination conditions and we
+recommend that you spend a lot of time improving your English before you take IELTS.
+18–25
+you may get an acceptable score under examination conditions but we recommend
+that you think about having more practice or lessons before you take IELTS.
+26–40
+you are likely to get an acceptable score under examination conditions but remember
+that different institutions will find different scores acceptable.
 124
 
 ## Page 127
@@ -5657,110 +5556,60 @@ READING
 Answer key with extra explanations
 in Resource Bank
 Reading Passage 1,
-Questions 1-13
-22 insects
-1
-FALSE
-2
-NOT GIVEN
-23&24 IN EITHER ORDER
-3
-FALSE
-B
-4
-TRUE
-C
-5
-TRUE
-25&26 IN EITHER ORDER
-6
-lightweight
-A
-7
-bronze
-C
-8
-levels
-9
-hull
-Reading Passage 3,
-10
-triangular
-Questions 27-40
-11
-music
-12
-grain
-27
-NOT GIVEN
-13
-towboats
-28
-TRUE
-29
-TRUE
-30
+Questions 1–13
+1 FALSE
+2 NOT GIVEN
+3 FALSE
+4 TRUE
+5 TRUE
+6 lightweight
+7 bronze
+8 levels
+9 hull
+10 triangular
+11 music
+12 grain
+13 towboats
 Reading Passage 2,
-NOT GIVEN
-31
-FALSE
-Questions 14-26
-32
-FALSE
-14
-33
-D
-H
-15
-C
-34
-D
-16
-F
-35
-G
-17
-H
-36
-C
-18
-G
-37
-A
-19
+Questions 14–26
+14 D
+15 C
+16 F
+17 H
+18 G
+19 B
+20 microorganisms / micro-organisms
+21 reindeer
+22 insects
+23&24 IN EITHER ORDER
 B
-38
-warm (winter)
-20
-microorganisms / micro-organisms
-39
-summer
-21
-reindeer
-40
-mustard plant(s) / mustard
+C
+25&26 IN EITHER ORDER
+A
+C
+Reading Passage 3,
+Questions 27–40
+27 NOT GIVEN
+28 TRUE
+29 TRUE
+30 NOT GIVEN
+31 FALSE
+32 FALSE
+33 H
+34 D
+35 G
+36 C
+37 A
+38 warm (winter)
+39 summer
+40 mustard plant(s) / mustard
 If you score ...
-1-17
-18-26
-27-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and we
-conditions but we recommend
-examination conditions but
-recommend that you spend a lot
-that you think about having
-remember that different
-of time improving your English
-more practice or lessons before
-institutions will find different
-before you take IELTS.
-you take IELTS.
-scores acceptable.
+1–17
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+18–26
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+27–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 126
 
 ## Page 129
@@ -5883,114 +5732,58 @@ READING
 Answer key with extra explanations
 in Resource Bank
 Reading Passage 1,
-Questions 1-13
-1
-posts
-22
-C
-2
-canal
-23
-YES
-3
-ventilation
-24
-NO
-4
-lid
-25
-NOT GIVEN
-5
-weight
-26
-YES
-6
-climbing
-7
-FALSE
-8
-NOT GIVEN
-9
-FALSE
-Reading Passage 3,
-10
-TRUE
-Questions 27-40
-11
-gold
-12
-(the) architect('s) (name)
-27
-iii
-13
-(the) harbour / harbor
-28
-vi
-29
-ii
-30
+Questions 1–13
+1 posts
+2 canal
+3 ventilation
+4 lid
+5 weight
+6 climbing
+7 FALSE
+8 NOT GIVEN
+9 FALSE
+10 TRUE
+11 gold
+12 (the) architect(’s) (name)
+13 (the) harbour / harbor
 Reading Passage 2,
-j
-31
-vii
-Questions 14-26
-32
-v
-14
-A
-33
-C
-15
-B
-34
-B
-16
-D
-35
-A
-17
-B
-36
-NO
-18
-D
-37
-NOT GIVEN
-19
-H
-38
-YES
-20
-F
-39
-NO
-21
-B
-40
-YES
+Questions 14–26
+14 A
+15 B
+16 D
+17 B
+18 D
+19 H
+20 F
+21 B
+22 C
+23 YES
+24 NO
+25 NOT GIVEN
+26 YES
+Reading Passage 3,
+Questions 27–40
+27 iii
+28 vi
+29 ii
+30 i
+31 vii
+32 v
+33 C
+34 B
+35 A
+36 NO
+37 NOT GIVEN
+38 YES
+39 NO
+40 YES
 If you score ...
-1-16
-17-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and we
-conditions but we recommend
-examination conditions but
-recommend that you spend a lot
-that you think about having
-remember that different
-of time improving your English
-more practice or lessons before
-institutions will find different
-before you take IELTS.
-you take IELTS.
-scores acceptable.
-128
+1–16
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+17–25
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+26–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 
 ## Page 131
 

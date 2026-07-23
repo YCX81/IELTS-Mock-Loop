@@ -1,0 +1,180 @@
+{
+  "book": 11,
+  "test": 2,
+  "passage": 2,
+  "status": "manually_calibrated",
+  "title": "What destroyed the civilisation of Easter Island?",
+  "overallInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.",
+  "sourcePages": [43, 44, 45, 46],
+  "passagePages": [44, 45],
+  "questionPages": [43, 46],
+  "answerKeyPage": 125,
+  "paragraphs": [
+    {
+      "label": "A",
+      "sentences": [
+        "Easter Island, or Rapu Nui as it is known locally, is home to several hundred ancient human statues – the moai.",
+        "After this remote Pacific island was settled by the Polynesians, it remained isolated for centuries.",
+        "All the energy and resources that went into the moai – some of which are ten metres tall and weigh over 7,000 kilos – came from the island itself.",
+        "Yet when Dutch explorers landed in 1722, they met a Stone Age culture.",
+        "The moai were carved with stone tools, then transported for many kilometres, without the use of animals or wheels, to massive stone platforms.",
+        "The identity of the moai builders was in doubt until well into the twentieth century.",
+        "Thor Heyerdahl, the Norwegian ethnographer and adventurer, thought the statues had been created by pre-Inca peoples from Peru.",
+        "Bestselling Swiss author Erich von Däniken believed they were built by stranded extraterrestrials.",
+        "Modern science – linguistic, archaeological and genetic evidence – has definitively proved the moai builders were Polynesians, but not how they moved their creations.",
+        "Local folklore maintains that the statues walked, while researchers have tended to assume the ancestors dragged the statues somehow, using ropes and logs."
+      ]
+    },
+    {
+      "label": "B",
+      "sentences": [
+        "When the Europeans arrived, Rapa Nui was grassland, with only a few scrawny trees.",
+        "In the 1970s and 1980s, though, researchers found pollen preserved in lake sediments, which proved the island had been covered in lush palm forests for thousands of years.",
+        "Only after the Polynesians arrived did those forests disappear.",
+        "US scientist Jared Diamond believes that the Rapanui people – descendants of Polynesian settlers – wrecked their own environment.",
+        "They had unfortunately settled on an extremely fragile island – dry, cool, and too remote to be properly fertilised by windblown volcanic ash.",
+        "When the islanders cleared the forests for firewood and farming, the forests didn’t grow back.",
+        "As trees became scarce and they could no longer construct wooden canoes for fishing, they ate birds.",
+        "Soil erosion decreased their crop yields.",
+        "Before Europeans arrived, the Rapanui had descended into civil war and cannibalism, he maintains.",
+        "The collapse of their isolated civilisation, Diamond writes, is a ‘worst-case scenario for what may lie ahead of us in our own future’."
+      ]
+    },
+    {
+      "label": "C",
+      "sentences": [
+        "The moai, he thinks, accelerated the self-destruction.",
+        "Diamond interprets them as power displays by rival chieftains who, trapped on a remote little island, lacked other ways of asserting their dominance.",
+        "They competed by building ever bigger figures.",
+        "Diamond thinks they laid the moai on wooden sledges, hauled over log rails, but that required both a lot of wood and a lot of people.",
+        "To feed the people, even more land had to be cleared.",
+        "When the wood was gone and civil war began, the islanders began toppling the moai.",
+        "By the nineteenth century none were standing."
+      ]
+    },
+    {
+      "label": "D",
+      "sentences": [
+        "Archaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State University agree that Easter Island lost its lush forests and that it was an ‘ecological catastrophe’ – but they believe the islanders themselves weren’t to blame.",
+        "And the moai certainly weren’t.",
+        "Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields.",
+        "They built thousands of circular stone windbreaks and gardened inside them, and used broken volcanic rocks to keep the soil moist.",
+        "In short, Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming."
+      ]
+    },
+    {
+      "label": "E",
+      "sentences": [
+        "Hunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders.",
+        "They also believe that moving the moai required few people and no wood, because they were walked upright.",
+        "On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore.",
+        "Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres.",
+        "The figures’ fat bellies tilted them forward, and a D-shaped base allowed handlers to roll and rock them side to side."
+      ]
+    },
+    {
+      "label": "F",
+      "sentences": [
+        "Moreover, Hunt and Lipo are convinced that the settlers were not wholly responsible for the loss of the island’s trees.",
+        "Archaeological finds of nuts from the extinct Easter Island palm show tiny grooves, made by the teeth of Polynesian rats.",
+        "The rats arrived along with the settlers, and in just a few years, Hunt and Lipo calculate, they would have overrun the island.",
+        "They would have prevented the reseeding of the slow-growing palm trees and thereby doomed Rapa Nui’s forest, even without the settlers’ campaign of deforestation.",
+        "No doubt the rats ate birds’ eggs too.",
+        "Hunt and Lipo also see no evidence that Rapanui civilisation collapsed when the palm forest did.",
+        "They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity.",
+        "Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877."
+      ]
+    },
+    {
+      "label": "G",
+      "sentences": [
+        "Hunt and Lipo’s vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society.",
+        "‘Rather than a case of abject failure, Rapu Nui is an unlikely story of success’, they claim.",
+        "Whichever is the case, there are surely some valuable lessons which the world at large can learn from the story of Rapa Nui."
+      ]
+    }
+  ],
+  "questionSections": [
+    {
+      "range": "14–20",
+      "type": "matching_headings",
+      "instructions": [
+        "Reading Passage 2 has seven paragraphs, A–G.",
+        "Choose the correct heading for each paragraph from the list of headings below.",
+        "Write the correct number, i–ix, in boxes 14–20 on your answer sheet."
+      ],
+      "optionsTitle": "List of Headings",
+      "options": [
+        {"label": "i", "text": "Evidence of innovative environment management practices"},
+        {"label": "ii", "text": "An undisputed answer to a question about the moai"},
+        {"label": "iii", "text": "The future of the moai statues"},
+        {"label": "iv", "text": "A theory which supports a local belief"},
+        {"label": "v", "text": "The future of Easter Island"},
+        {"label": "vi", "text": "Two opposing views about the Rapanui people"},
+        {"label": "vii", "text": "Destruction outside the inhabitants’ control"},
+        {"label": "viii", "text": "How the statues made a situation worse"},
+        {"label": "ix", "text": "Diminishing food resources"}
+      ],
+      "questions": [
+        {"number": 14, "prompt": "Paragraph A", "answer": "ii", "acceptableAnswers": ["ii"], "evidence": "Modern science … has definitively proved the moai builders were Polynesians, but not how they moved their creations.", "location": "Paragraph A, sentences 9–10", "distractorRationale": "iv fits paragraph E because experiments support the local belief that the statues walked; A says identity is settled but transport remains unresolved."},
+        {"number": 15, "prompt": "Paragraph B", "answer": "ix", "acceptableAnswers": ["ix"], "evidence": "As trees became scarce … they ate birds. Soil erosion decreased their crop yields.", "location": "Paragraph B, sentences 17–18", "distractorRationale": "viii belongs to C, where statue building intensifies destruction; B traces shortages of timber, fish access and crops."},
+        {"number": 16, "prompt": "Paragraph C", "answer": "viii", "acceptableAnswers": ["viii"], "evidence": "The moai … accelerated the self-destruction … required both a lot of wood and a lot of people.", "location": "Paragraph C, sentences 21–25", "distractorRationale": "ix describes the resulting food shortage in B; C focuses on the statues’ role in aggravating the crisis."},
+        {"number": 17, "prompt": "Paragraph D", "answer": "i", "acceptableAnswers": ["i"], "evidence": "They built thousands of circular stone windbreaks … and used broken volcanic rocks to keep the soil moist.", "location": "Paragraph D, sentences 30–32", "distractorRationale": "vi is the whole-passage contrast; D specifically supplies archaeological evidence of resource-management methods."},
+        {"number": 18, "prompt": "Paragraph E", "answer": "iv", "acceptableAnswers": ["iv"], "evidence": "archaeological evidence backs up Rapanui folklore … 18 people could … manoeuvre a 1,000 kg moai replica", "location": "Paragraph E, sentences 35–37", "distractorRationale": "ii concerns the builders’ identity in A; E experimentally supports the local claim that the statues walked."},
+        {"number": 19, "prompt": "Paragraph F", "answer": "vii", "acceptableAnswers": ["vii"], "evidence": "rats … doomed Rapa Nui’s forest … Europeans … introduced deadly diseases … slave traders decimated the population", "location": "Paragraph F, sentences 39–45", "distractorRationale": "ix is Diamond’s resource-shortage account in B; F attributes destruction to rats, disease and outsiders beyond the inhabitants’ control."},
+        {"number": 20, "prompt": "Paragraph G", "answer": "vi", "acceptableAnswers": ["vi"], "evidence": "peaceful and ingenious … rather than … reckless destroyers", "location": "Paragraph G, sentences 46–48", "distractorRationale": "v concerns the island’s future, which is not discussed; G explicitly contrasts Hunt and Lipo’s view with Diamond’s."}
+      ]
+    },
+    {
+      "range": "21–24",
+      "type": "summary_completion",
+      "title": "Jared Diamond’s View",
+      "instructions": [
+        "Complete the summary below.",
+        "Choose ONE WORD ONLY from the passage for each answer.",
+        "Write your answers in boxes 21–24 on your answer sheet."
+      ],
+      "summary": "Diamond believes that the Polynesian settlers on Rapa Nui destroyed its forests, cutting down its trees for fuel and clearing land for 21 __________. Twentieth-century discoveries of pollen prove that Rapu Nui had once been covered in palm forests, which had turned into grassland by the time the Europeans arrived on the island. When the islanders were no longer able to build the 22 __________ they needed to go fishing, they began using the island’s 23 __________ as a food source, according to Diamond. Diamond also claims that the moai were built to show the power of the island’s chieftains, and that the methods of transporting the statues needed not only a great number of people, but also a great deal of 24 __________.",
+      "questions": [
+        {"number": 21, "prompt": "clearing land for 21 __________", "answer": "farming", "acceptableAnswers": ["farming"], "wordLimit": "ONE WORD ONLY", "evidence": "cleared the forests for firewood and farming", "location": "Paragraph B, sentence 16", "distractorRationale": "firewood matches fuel earlier in the summary; farming is the purpose of clearing land."},
+        {"number": 22, "prompt": "build the 22 __________ they needed to go fishing", "answer": "canoes", "acceptableAnswers": ["canoes"], "wordLimit": "ONE WORD ONLY", "evidence": "they could no longer construct wooden canoes for fishing", "location": "Paragraph B, sentence 17", "distractorRationale": "wooden is an adjective and fishing is the purpose; the required plural object is canoes."},
+        {"number": 23, "prompt": "using the island’s 23 __________ as a food source", "answer": "birds", "acceptableAnswers": ["birds"], "wordLimit": "ONE WORD ONLY", "evidence": "they ate birds", "location": "Paragraph B, sentence 17", "distractorRationale": "crop yields declined, but the explicit replacement food source after canoe loss is birds."},
+        {"number": 24, "prompt": "a great deal of 24 __________", "answer": "wood", "acceptableAnswers": ["wood"], "wordLimit": "ONE WORD ONLY", "evidence": "that required both a lot of wood and a lot of people", "location": "Paragraph C, sentence 24", "distractorRationale": "people is already paraphrased as a great number of; a great deal of requires the uncountable noun wood."}
+      ]
+    },
+    {
+      "range": "25–26",
+      "type": "multiple_choice_multiple_answers",
+      "instructions": [
+        "Choose TWO letters, A–E.",
+        "Write the correct letters in boxes 25 and 26 on your answer sheet."
+      ],
+      "prompt": "On what points do Hunt and Lipo disagree with Diamond?",
+      "options": [
+        {"label": "A", "text": "the period when the moai were created"},
+        {"label": "B", "text": "how the moai were transported"},
+        {"label": "C", "text": "the impact of the moai on Rapanui society"},
+        {"label": "D", "text": "how the moai were carved"},
+        {"label": "E", "text": "the origins of the people who made the moai"}
+      ],
+      "questions": [
+        {"number": 25, "prompt": "On what points do Hunt and Lipo disagree with Diamond?", "answer": "B", "acceptableAnswers": ["B", "C"], "answerOrder": "IN EITHER ORDER", "evidence": "Diamond thinks they laid the moai on wooden sledges … Hunt and Lipo … believe … they were walked upright.", "location": "Paragraphs C and E", "distractorRationale": "A is not compared; D is stated as stone-tool carving without disagreement; E is definitively settled by modern science."},
+        {"number": 26, "prompt": "On what points do Hunt and Lipo disagree with Diamond?", "answer": "C", "acceptableAnswers": ["B", "C"], "answerOrder": "IN EITHER ORDER", "evidence": "Diamond says the moai accelerated self-destruction; Hunt and Lipo say moai-building helped keep the peace.", "location": "Paragraphs C and E", "distractorRationale": "A, D and E do not present contrasting positions between the researchers; B and C are the only explicit disagreements."}
+      ]
+    }
+  ],
+  "officialAnswers": {"14": "ii", "15": "ix", "16": "viii", "17": "i", "18": "iv", "19": "vii", "20": "vi", "21": "farming", "22": "canoes", "23": "birds", "24": "wood", "25": "B", "26": "C"},
+  "pageTexts": {
+    "43": "Reading\nREADING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.\nQuestions 14–20\nReading Passage 2 has seven paragraphs, A–G.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–ix, in boxes 14–20 on your answer sheet.\nList of Headings\ni Evidence of innovative environment management practices\nii An undisputed answer to a question about the moai\niii The future of the moai statues\niv A theory which supports a local belief\nv The future of Easter Island\nvi Two opposing views about the Rapanui people\nvii Destruction outside the inhabitants’ control\nviii How the statues made a situation worse\nix Diminishing food resources\n14 Paragraph A\n15 Paragraph B\n16 Paragraph C\n17 Paragraph D\n18 Paragraph E\n19 Paragraph F\n20 Paragraph G\n45",
+    "44": "Test 2\nWhat destroyed the civilisation of Easter Island?\nA\nEaster Island, or Rapu Nui as it is known locally, is home to several hundred ancient human statues – the moai. After this remote Pacific island was settled by the Polynesians, it remained isolated for centuries. All the energy and resources that went into the moai – some of which are ten metres tall and weigh over 7,000 kilos – came from the island itself. Yet when Dutch explorers landed in 1722, they met a Stone Age culture. The moai were carved with stone tools, then transported for many kilometres, without the use of animals or wheels, to massive stone platforms. The identity of the moai builders was in doubt until well into the twentieth century. Thor Heyerdahl, the Norwegian ethnographer and adventurer, thought the statues had been created by pre-Inca peoples from Peru. Bestselling Swiss author Erich von Däniken believed they were built by stranded extraterrestrials. Modern science – linguistic, archaeological and genetic evidence – has definitively proved the moai builders were Polynesians, but not how they moved their creations. Local folklore maintains that the statues walked, while researchers have tended to assume the ancestors dragged the statues somehow, using ropes and logs.\nB\nWhen the Europeans arrived, Rapa Nui was grassland, with only a few scrawny trees. In the 1970s and 1980s, though, researchers found pollen preserved in lake sediments, which proved the island had been covered in lush palm forests for thousands of years. Only after the Polynesians arrived did those forests disappear. US scientist Jared Diamond believes that the Rapanui people – descendants of Polynesian settlers – wrecked their own environment. They had unfortunately settled on an extremely fragile island – dry, cool, and too remote to be properly fertilised by windblown volcanic ash. When the islanders cleared the forests for firewood and farming, the forests didn’t grow back. As trees became scarce and they could no longer construct wooden canoes for fishing, they ate birds. Soil erosion decreased their crop yields. Before Europeans arrived, the Rapanui had descended into civil war and cannibalism, he maintains. The collapse of their isolated civilisation, Diamond writes, is a ‘worst-case scenario for what may lie ahead of us in our own future’.\nC\nThe moai, he thinks, accelerated the self-destruction. Diamond interprets them as power displays by rival chieftains who, trapped on a remote little island, lacked other ways of asserting their dominance. They competed by building ever bigger figures. Diamond thinks they laid the moai on wooden sledges, hauled over log rails, but that required both a lot of wood and a lot of people. To feed the people, even more land had to be cleared. When the wood was gone and civil war began, the islanders began toppling the moai. By the nineteenth century none were standing.\n46",
+    "45": "Reading\nD\nArchaeologists Terry Hunt of the University of Hawaii and Carl Lipo of California State University agree that Easter Island lost its lush forests and that it was an ‘ecological catastrophe’ – but they believe the islanders themselves weren’t to blame. And the moai certainly weren’t. Archaeological excavations indicate that the Rapanui went to heroic efforts to protect the resources of their wind-lashed, infertile fields. They built thousands of circular stone windbreaks and gardened inside them, and used broken volcanic rocks to keep the soil moist. In short, Hunt and Lipo argue, the prehistoric Rapanui were pioneers of sustainable farming.\nE\nHunt and Lipo contend that moai-building was an activity that helped keep the peace between islanders. They also believe that moving the moai required few people and no wood, because they were walked upright. On that issue, Hunt and Lipo say, archaeological evidence backs up Rapanui folklore. Recent experiments indicate that as few as 18 people could, with three strong ropes and a bit of practice, easily manoeuvre a 1,000 kg moai replica a few hundred metres. The figures’ fat bellies tilted them forward, and a D-shaped base allowed handlers to roll and rock them side to side.\nF\nMoreover, Hunt and Lipo are convinced that the settlers were not wholly responsible for the loss of the island’s trees. Archaeological finds of nuts from the extinct Easter Island palm show tiny grooves, made by the teeth of Polynesian rats. The rats arrived along with the settlers, and in just a few years, Hunt and Lipo calculate, they would have overrun the island. They would have prevented the reseeding of the slow-growing palm trees and thereby doomed Rapa Nui’s forest, even without the settlers’ campaign of deforestation. No doubt the rats ate birds’ eggs too. Hunt and Lipo also see no evidence that Rapanui civilisation collapsed when the palm forest did. They think its population grew rapidly and then remained more or less stable until the arrival of the Europeans, who introduced deadly diseases to which islanders had no immunity. Then in the nineteenth century slave traders decimated the population, which shrivelled to 111 people by 1877.\nG\nHunt and Lipo’s vision, therefore, is one of an island populated by peaceful and ingenious moai builders and careful stewards of the land, rather than by reckless destroyers ruining their own environment and society. ‘Rather than a case of abject failure, Rapu Nui is an unlikely story of success’, they claim. Whichever is the case, there are surely some valuable lessons which the world at large can learn from the story of Rapa Nui.\n47",
+    "46": "Test 2\nQuestions 21–24\nComplete the summary below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 21–24 on your answer sheet.\nJared Diamond’s View\nDiamond believes that the Polynesian settlers on Rapa Nui destroyed its forests, cutting down its trees for fuel and clearing land for 21 __________. Twentieth-century discoveries of pollen prove that Rapu Nui had once been covered in palm forests, which had turned into grassland by the time the Europeans arrived on the island. When the islanders were no longer able to build the 22 __________ they needed to go fishing, they began using the island’s 23 __________ as a food source, according to Diamond. Diamond also claims that the moai were built to show the power of the island’s chieftains, and that the methods of transporting the statues needed not only a great number of people, but also a great deal of 24 __________.\nQuestions 25 and 26\nChoose TWO letters, A–E.\nWrite the correct letters in boxes 25 and 26 on your answer sheet.\nOn what points do Hunt and Lipo disagree with Diamond?\nA the period when the moai were created\nB how the moai were transported\nC the impact of the moai on Rapanui society\nD how the moai were carved\nE the origins of the people who made the moai\n48",
+    "125": "READING\nReading Passage 2,\nQuestions 14–26\n14 ii\n15 ix\n16 viii\n17 i\n18 iv\n19 vii\n20 vi\n21 farming\n22 canoes\n23 birds\n24 wood\n25&26 IN EITHER ORDER\nB\nC\n127"
+  },
+  "calibrationFindings": [
+    "Verified physical pages 43–46 and answer-key page 125 against 300-DPI renders.",
+    "Preserved the source’s en dashes, curly quotation marks, paragraph labels A–G, the Rapu/Rapa spellings as printed, and all nine heading options.",
+    "Official answers 25 and 26 are B and C in either order."
+  ],
+  "selfCheck": {"paragraphCount": 7, "sentenceCount": 48, "questionSectionCount": 3, "questionCount": 13, "questionRange": "14–26", "headingOptionCount": 9, "multipleChoiceOptionCount": 5, "dictionaryLinkCount": 3, "aLayerCount": 3, "imageCount": 0, "visualReviewCompleted": true}
+}

@@ -1,0 +1,717 @@
+{
+  "passage": 1,
+  "title": "William Henry Perkin",
+  "chineseTitle": "一抹紫色，怎样催生现代化学工业",
+  "intro": [
+    "这篇文章表面上讲的是英国化学家 William Henry Perkin 发明合成染料的经历，真正的主线却是一次偶然结果怎样被一颗“准备好的头脑”识别、验证并推向产业化。文章先铺陈他的早期兴趣和学术训练，再写奎宁实验的失败如何意外产生紫色染料，最后把影响从时尚一路推进到医学研究。",
+    "阅读时要特别留意三组反复出现的关系：偶然与准备、科学发现与商业判断、装饰用途与医学价值。"
+  ],
+  "sentences": [
+    {
+      "number": 1,
+      "english": "William Henry Perkin was born on March 12, 1838, in London, England.",
+      "translation": "威廉·亨利·珀金于1838年3月12日出生在英国伦敦。",
+      "structure": "主干是 William Henry Perkin was born；两个介词短语依次交代日期和地点。作为首句，它用最简洁的传记体信息确定人物与时代坐标。",
+      "vocabulary": [
+        "be born 基础表达（A1/A2）：出生",
+        "on + 日期 基础表达（A1/A2）：用于具体日期前"
+      ]
+    },
+    {
+      "number": 2,
+      "english": "As a boy, Perkin’s curiosity prompted early interests in the arts, sciences, photography, and engineering.",
+      "translation": "珀金年少时的好奇心使他很早便对艺术、科学、摄影和工程产生了兴趣。",
+      "structure": "主干是 curiosity prompted interests；As a boy 是时间背景，四个并列名词展开兴趣范围。作用是说明他后来跨越科学与工业的能力并非突然出现。",
+      "vocabulary": [
+        "curiosity (B2)：好奇心",
+        "prompt (B2)：促使，引发",
+        "the arts (B1)：艺术领域",
+        "photography (B1)：摄影",
+        "engineering (B1)：工程学"
+      ]
+    },
+    {
+      "number": 3,
+      "english": "But it was a chance stumbling upon a run-down, yet functional, laboratory in his late grandfather’s home that solidified the young man’s enthusiasm for chemistry.",
+      "translation": "但真正坚定这个年轻人对化学热情的，是他偶然在已故祖父家里发现了一间破旧却仍能使用的实验室。",
+      "structure": "这是 it was ... that ... 强调句，真正被强调的是 a chance stumbling upon ...；run-down 与 functional 由 yet 构成反差，共同修饰 laboratory。句子把“偶然发现”写成兴趣由广泛好奇转为坚定志向的转折点。",
+      "vocabulary": [
+        "chance (B1)：偶然的，碰巧的",
+        "stumble upon (C1)：偶然发现",
+        "run-down (C1)：破旧失修的",
+        "functional (B2)：能正常使用的",
+        "late (B2)：已故的",
+        "solidify (C1)：使巩固，使坚定",
+        "enthusiasm (B2)：热情",
+        "chemistry (B1，化学专业词)：化学",
+        "laboratory (B1，科学专业词)：实验室；本句指祖父家中虽破旧但仍可使用的实验室"
+      ]
+    },
+    {
+      "number": 4,
+      "english": "As a student at the city of London School, Perkin became immersed in the study at chemistry.",
+      "translation": "在伦敦市学校就读时，珀金沉浸在化学学习之中。",
+      "structure": "主干是 Perkin became immersed；As a student ... 交代身份和阶段，in the study at chemistry 表示投入的领域。原页写作 city 和 at，英文按来源保留；功能上承接上一句的热情，进入系统学习阶段。",
+      "vocabulary": [
+        "become immersed in (C1)：沉浸于，专心投入",
+        "the study of/at chemistry (B2，化学专业表达)：化学学习；原页保留 at"
+      ]
+    },
+    {
+      "number": 5,
+      "english": "His talent and devotion to the subject were perceived by his teachers, Thomas Hall, who encouraged him to attend a series of lectures given by the eminent scientist Michael Faraday at the Royal Institution.",
+      "translation": "他的天赋和对这门学科的投入被老师们看在眼里；托马斯·霍尔鼓励他去皇家研究院听杰出科学家迈克尔·法拉第所作的一系列讲座。",
+      "structure": "主干是 talent and devotion were perceived；Thomas Hall 是同位说明，who 引导定语从句补充霍尔的行动，given by ... 是过去分词短语修饰 lectures。作用是引入两位推动珀金学术道路的重要人物。",
+      "vocabulary": [
+        "talent (B1)：天赋",
+        "devotion (C1)：投入，献身",
+        "perceive (C1)：察觉，认识到",
+        "encourage somebody to do (B1)：鼓励某人做某事",
+        "a series of (B1)：一系列",
+        "lecture (B1)：讲座",
+        "eminent (C2)：杰出的，卓越的",
+        "institution (B2)：机构；此处为专名的一部分"
+      ]
+    },
+    {
+      "number": 6,
+      "english": "Those speeches fired the young chemistry’s enthusiasm further, and he later went on to attend the Royal College of Chemistry, which he succeeded in entering in 1853, at the age of 15.",
+      "translation": "那些演讲进一步点燃了这位年轻化学学习者的热情；后来，他进入皇家化学学院学习，并于1853年、15岁时成功获准入学。",
+      "structure": "and 连接两条主线：speeches fired enthusiasm 与 he went on to attend；which 引导非限制性定语从句补充入学时间和年龄。原页写作 chemistry’s，按来源保留；句子作用是把兴趣推进到正式高等训练。",
+      "vocabulary": [
+        "fire somebody’s enthusiasm (C1)：点燃某人的热情",
+        "further (B1)：进一步",
+        "go on to do (B2)：接着做另一件事",
+        "attend (B1)：就读；参加",
+        "succeed in doing (B1)：成功做成",
+        "at the age of (B1)：在……岁时",
+        "speech (B1)：演讲；本句指法拉第的系列讲座内容"
+      ]
+    },
+    {
+      "number": 7,
+      "english": "At the time of Perkin’s enrolment, the Royal College of Chemistry was headed by the noted German chemist August Wilhelm Hofmann.",
+      "translation": "珀金入学时，皇家化学学院由著名德国化学家奥古斯特·威廉·霍夫曼主持。",
+      "structure": "主干是 the College was headed by Hofmann；At the time of ... 提供时间框架，noted German chemist 是人物身份说明。作用是正式引出导师霍夫曼。",
+      "vocabulary": [
+        "enrolment (B2)：注册入学",
+        "be headed by (B2)：由……领导",
+        "noted (C1)：著名的",
+        "chemist (B1，化学专业词)：化学家"
+      ]
+    },
+    {
+      "number": 8,
+      "english": "Perkin’s scientific gifts soon caught Hofmann’s attention and, within two years, he became Hofmann’s youngest assistant.",
+      "translation": "珀金的科学才华很快引起霍夫曼注意；不到两年，他便成为霍夫曼最年轻的助手。",
+      "structure": "and 连接 caught attention 与 became assistant；within two years 压缩时间，突出晋升迅速。句子为后面的突破建立“年少但已受专业认可”的背景。",
+      "vocabulary": [
+        "scientific (B1)：科学的",
+        "gift (B2)：天赋",
+        "catch somebody’s attention (B1)：引起某人注意",
+        "within (B1)：在……之内",
+        "assistant (B1)：助手"
+      ]
+    },
+    {
+      "number": 9,
+      "english": "Not long after that, Perkin made the scientific breakthrough that would bring him both fame and fortune.",
+      "translation": "此后不久，珀金取得了一项科学突破；这项突破后来为他同时带来名声和财富。",
+      "structure": "主干是 Perkin made the breakthrough；that would bring ... 是定语从句，以过去视角预告未来结果。它像一个段末悬念，把人物培养阶段转入核心发现。",
+      "vocabulary": [
+        "not long after (B1)：不久之后",
+        "scientific breakthrough (B2)：科学突破",
+        "fame (B2)：名声",
+        "fortune (B2)：财富；好运",
+        "both ... and ... 基础表达（A1/A2）：两者都"
+      ]
+    },
+    {
+      "number": 10,
+      "english": "At the time, quinine was the only viable medical treatment for malaria.",
+      "translation": "当时，奎宁是治疗疟疾的唯一可行药物。",
+      "structure": "主干是 quinine was the only viable treatment；for malaria 限定治疗对象。句子建立研究动机：一种关键药物存在供应压力。",
+      "vocabulary": [
+        "quinine (C1，医学专业词)：奎宁",
+        "viable (C1)：可行的，能奏效的",
+        "medical treatment (B2，医学专业表达)：医疗手段，治疗方法",
+        "malaria (B2，医学专业词)：疟疾"
+      ]
+    },
+    {
+      "number": 11,
+      "english": "The drug is derived from the bark of the cinchona tree, native to South America, and by 1856, demand for the drug was surpassing the available supply.",
+      "translation": "这种药取自原产南美洲的金鸡纳树树皮；到1856年，对它的需求已经超过现有供应。",
+      "structure": "and 连接来源与供需两层信息；native to South America 是后置形容词短语，补充 cinchona tree；by 1856 给出截止节点。作用是把化学研究转化为现实的供给难题。",
+      "vocabulary": [
+        "be derived from (B2)：来源于，从……提取",
+        "bark (B2)：树皮",
+        "cinchona (C2，植物学专业词)：金鸡纳属植物",
+        "native to (B2)：原产于",
+        "demand (B1)：需求",
+        "surpass (C1)：超过",
+        "available supply (B2)：可用供应量",
+        "drug (B1，医学专业词)：药物；本句指用于治疗疟疾的奎宁"
+      ]
+    },
+    {
+      "number": 12,
+      "english": "Thus, when Hofmann made some passing comments about the desirability of a synthetic substitute for quinine, it was unsurprising that his star pupil was moved to take up the challenge.",
+      "translation": "因此，当霍夫曼随口谈到人们多么需要一种合成奎宁替代品时，他的得意门生受到触动、接下这项挑战，也就不足为奇了。",
+      "structure": "主句是 it was unsurprising that ...，it 为形式主语；when 从句交代触发时刻；that 从句是真正主语。句子把供应矛盾与实验任务直接扣合。",
+      "vocabulary": [
+        "thus (B2)：因此",
+        "passing comment (C1)：随口一提的评论",
+        "desirability (C1)：可取性；需要程度",
+        "synthetic (B2，化学专业词)：合成的",
+        "substitute for (B2)：……的替代物",
+        "unsurprising (B2)：不足为奇的",
+        "star pupil (B2)：得意门生，优秀学生",
+        "be moved to do (C1)：受到触动而去做",
+        "take up the challenge (B2)：接受挑战"
+      ]
+    },
+    {
+      "number": 13,
+      "english": "During his vacation in 1856, Perkin spent his time in the laboratory on the top floor of his family’s house.",
+      "translation": "1856年假期期间，珀金一直待在自家顶楼的实验室里。",
+      "structure": "主干是 Perkin spent his time；During ... 与 on the top floor ... 分别说明时间和地点。它用私人空间与假期时间突出这项研究的自主性。",
+      "vocabulary": [
+        "vacation (B1)：假期",
+        "laboratory (B1，科学专业词)：实验室",
+        "top floor (B1)：顶层"
+      ]
+    },
+    {
+      "number": 14,
+      "english": "He was attempting to manufacture quinine from aniline, an inexpensive and readily available coal tar waste product.",
+      "translation": "他试图用苯胺制造奎宁；苯胺是一种价格低廉、容易取得的煤焦油废料。",
+      "structure": "主干是 He was attempting to manufacture quinine；from aniline 表示原料，逗号后的名词短语是 aniline 的同位说明。作用是呈现实验目标与廉价原料之间的技术设想。",
+      "vocabulary": [
+        "attempt to do (B1)：试图做",
+        "manufacture (B2)：制造",
+        "aniline (C2，化学专业词)：苯胺",
+        "inexpensive (B1)：不昂贵的",
+        "readily available (B2)：容易获得的",
+        "coal tar (C1，化学专业词)：煤焦油",
+        "waste product (B2)：废料，废弃副产品",
+        "quinine (C1，医学专业词)：奎宁；本句再次指珀金试图人工制造的抗疟药"
+      ]
+    },
+    {
+      "number": 15,
+      "english": "Despite his best efforts, however, he did not end up with quinine.",
+      "translation": "然而，尽管他竭尽全力，最终得到的却不是奎宁。",
+      "structure": "Despite 引出让步背景，however 再次标记转折，主干是 he did not end up with quinine。短句明确宣告预定实验失败，为意外发现蓄势。",
+      "vocabulary": [
+        "despite (B1)：尽管",
+        "best efforts (B2)：最大努力",
+        "end up with (B1)：最终得到，以……收场",
+        "quinine (C1，医学专业词)：奎宁；本句再次说明实验没有得到目标药物"
+      ]
+    },
+    {
+      "number": 16,
+      "english": "Instead, he produced a mysterious dark sludge.",
+      "translation": "相反，他制出的是一种神秘的深色黏稠物。",
+      "structure": "主干是 he produced sludge；Instead 把实际结果与奎宁目标对照，mysterious dark 叠加未知感。作用是把“失败产物”推到镜头中央。",
+      "vocabulary": [
+        "instead (B1)：反而，取而代之",
+        "produce (B1)：制造，产生",
+        "mysterious (B1)：神秘的",
+        "sludge (C2)：污泥状黏稠物"
+      ]
+    },
+    {
+      "number": 17,
+      "english": "Luckily, Perkin’s scientific training and nature prompted him to investigate the substance further.",
+      "translation": "幸运的是，科学训练与天性促使珀金继续研究这种物质。",
+      "structure": "主干是 training and nature prompted him；to investigate ... 是宾语补足语，further 表示研究继续深入。句子把偶然产物与“准备好的头脑”连接起来。",
+      "vocabulary": [
+        "scientific training (B2)：科学训练",
+        "nature (B2)：天性；性质",
+        "prompt somebody to do (B2)：促使某人做",
+        "investigate (B1)：调查，研究",
+        "substance (B2，化学专业词)：物质",
+        "further (B1)：进一步地"
+      ]
+    },
+    {
+      "number": 18,
+      "english": "Incorporating potassium dichromate and alcohol into the aniline at various stages of the experimental process, he finally produced a deep purple solution.",
+      "translation": "他在实验过程的不同阶段把重铬酸钾和酒精加入苯胺，终于得到一种深紫色溶液。",
+      "structure": "句首 Incorporating ... 是现在分词短语，说明主语 he 采取的实验步骤；主干是 he produced a solution。finally 标出多轮尝试后的结果。",
+      "vocabulary": [
+        "incorporate ... into ... (C1)：把……加入/纳入……",
+        "potassium dichromate (C2，化学专业词)：重铬酸钾",
+        "alcohol (B1，化学专业词)：酒精；醇",
+        "aniline (C2，化学专业词)：苯胺",
+        "various (B1)：不同的，多种的",
+        "stage (B1)：阶段",
+        "experimental process (B2，科学专业表达)：实验过程",
+        "solution (B1，化学专业词)：溶液",
+        "produce (B1)：制成、产生；本句指实验最终得到深紫色溶液"
+      ]
+    },
+    {
+      "number": 19,
+      "english": "And, proving the truth of the famous scientist Louis Pasteur’s words ‘chance favours only the prepared mind’, Perkin saw the potential of his unexpected find.",
+      "translation": "正如著名科学家路易·巴斯德所言“机会只垂青有准备的头脑”，珀金看出了这项意外发现的潜力。",
+      "structure": "proving ... 是分词短语，对整件事作评价；主干是 Perkin saw the potential；引语充当 Pasteur’s words 的具体内容。作用是点明全文关于偶然与准备的核心判断。",
+      "vocabulary": [
+        "prove the truth of (B2)：证明……所言属实",
+        "favour (B2)：偏爱，眷顾",
+        "prepared mind (C1)：有准备的头脑",
+        "potential (B2)：潜力",
+        "unexpected (B1)：意外的",
+        "find (B2)：发现物，发现成果"
+      ]
+    },
+    {
+      "number": 20,
+      "english": "Historically, textile dyes were made from such natural sources as plants and animal excretions.",
+      "translation": "从历史上看，纺织染料由植物、动物排泄物等天然来源制成。",
+      "structure": "主干是 textile dyes were made from natural sources；such ... as ... 举例展开来源。Historically 把镜头拉回发现之前，为新技术建立对照背景。",
+      "vocabulary": [
+        "historically (B2)：从历史角度看",
+        "textile (B2，纺织专业词)：纺织品的",
+        "dye (B2，化学/纺织专业词)：染料",
+        "natural source (B1)：天然来源",
+        "excretion (C2，生物学专业词)：排泄物"
+      ]
+    },
+    {
+      "number": 21,
+      "english": "Some of these, such as the glandular mucus of snails, were difficult to obtain and outrageously expensive.",
+      "translation": "其中一些原料，例如蜗牛的腺体黏液，不仅难以取得，而且贵得惊人。",
+      "structure": "主干是 Some ... were difficult and expensive；such as ... 插入举例，两个表语并列呈现获取难和价格高。它把天然染料的缺点具体化。",
+      "vocabulary": [
+        "glandular (C2，生物学专业词)：腺体的",
+        "mucus (C2，生物学专业词)：黏液",
+        "obtain (B2)：获得",
+        "outrageously (C1)：高得离谱地，令人震惊地",
+        "expensive 基础词（A1/A2）：昂贵的"
+      ]
+    },
+    {
+      "number": 22,
+      "english": "Indeed, the purple colour extracted from a snail was once so costly that in society at the time only the rich could afford it.",
+      "translation": "事实上，从蜗牛中提取的紫色曾经昂贵到当时社会里只有富人才买得起。",
+      "structure": "主干是 the colour was so costly；extracted from a snail 是过去分词短语修饰 colour；so ... that ... 构成结果结构。作用是用社会阶层后果强化价格之高。",
+      "vocabulary": [
+        "indeed (B1)：确实，事实上",
+        "extract from (B2)：从……提取",
+        "costly (C1)：昂贵的；代价高的",
+        "society (B1)：社会",
+        "the rich (B1)：富人群体",
+        "afford (B1)：买得起，承担得起",
+        "so ... that ... (B1)：如此……以至于……"
+      ]
+    },
+    {
+      "number": 23,
+      "english": "Further, natural dyes tend to be muddy in hue and fade quickly.",
+      "translation": "此外，天然染料往往色调浑浊，而且很快褪色。",
+      "structure": "主干是 dyes tend to be muddy and fade；Further 追加第二组缺点，in hue 限定 muddy 指颜色不清亮。作用是从价格问题转向品质问题。",
+      "vocabulary": [
+        "further (B2)：此外，而且",
+        "tend to do (B1)：往往会",
+        "muddy (C1)：浑浊暗淡的",
+        "hue (C1，美术/色彩专业词)：色调",
+        "fade (B2)：褪色，逐渐消失",
+        "dye (B2，化学/纺织专业词)：染料；本句再次泛指天然染料"
+      ]
+    },
+    {
+      "number": 24,
+      "english": "It was against this backdrop that Perkin’s discovery was made.",
+      "translation": "珀金的发现正是在这样的背景下出现的。",
+      "structure": "这是 it was ... that ... 强调句，against this backdrop 是被强调的背景条件，主干意义是 Perkin’s discovery was made。它收束天然染料的痛点，凸显合成染料出现的历史意义。",
+      "vocabulary": [
+        "against this backdrop (C1)：在这一背景下",
+        "discovery (B1)：发现",
+        "be made (B1)：被作出；此处指发现产生"
+      ]
+    },
+    {
+      "number": 25,
+      "english": "Perkin quickly grasped that his purple solution could be used to colour fabric, thus making it the world’s first synthetic dye.",
+      "translation": "珀金很快意识到，这种紫色溶液可以给织物染色，从而使它成为世界上第一种合成染料。",
+      "structure": "主干是 Perkin grasped that ...；that 从句说明认识内容，thus making ... 是结果分词结构。句子完成从实验现象到实际用途的关键推断。",
+      "vocabulary": [
+        "grasp (B2)：理解，领会",
+        "be used to do (B1)：被用来做",
+        "colour fabric (B2，纺织专业表达)：给织物染色",
+        "thus (B2)：从而",
+        "synthetic dye (B2，化学/纺织专业词)：合成染料",
+        "solution (B1，化学专业词)：溶液；本句指珀金得到的紫色液体"
+      ]
+    },
+    {
+      "number": 26,
+      "english": "Realising the importance of this breakthrough, he lost no time in patenting it.",
+      "translation": "意识到这项突破的重要性后，他立即为它申请了专利。",
+      "structure": "Realising ... 是原因兼时间背景，逻辑主语与主句 he 一致；主干是 he lost no time in patenting it。作用是表现珀金不仅懂科学价值，也有迅速保护成果的行动力。",
+      "vocabulary": [
+        "realise (B1)：意识到",
+        "breakthrough (B2)：突破",
+        "lose no time in doing (C1)：立即做，毫不耽搁",
+        "patent (C1，法律/商业专业词)：为……申请专利",
+        "importance (B1)：重要性；本句指这项突破的重大价值"
+      ]
+    },
+    {
+      "number": 27,
+      "english": "But perhaps the most fascinating of all Perkin’s reactions to his find was his nearly instant recognition that the new dye had commercial possibilities.",
+      "translation": "珀金对这一发现作出的所有反应中，或许最引人入胜的是：他几乎立刻意识到这种新染料具有商业前景。",
+      "structure": "主干是 the most fascinating ... was his recognition；that 从句说明 recognition 的内容，nearly instant 突出速度。作用是把人物能力从实验判断推进到商业判断。",
+      "vocabulary": [
+        "fascinating (B2)：极有吸引力的",
+        "reaction to (B1)：对……的反应",
+        "nearly instant (B2)：几乎即时的",
+        "recognition (B2)：认识，识别",
+        "commercial possibility (B2)：商业可能性",
+        "find (B2)：发现物；本句作名词，回指意外发现的新染料",
+        "dye (B2，化学/纺织专业词)：染料；本句再次指新发现的合成染料"
+      ]
+    },
+    {
+      "number": 28,
+      "english": "Perkin originally named his dye Tyrian Purple, but it later became commonly known as mauve (from the French for the plant used to make the colour violet).",
+      "translation": "珀金最初把这种染料命名为“泰尔紫”，但后来它通常被称为 mauve（该词来自法语中一种用来制作紫罗兰色的植物名称）。",
+      "structure": "but 对照最初命名与后来通称；括号补充 mauve 的词源说明，used to make ... 是过去分词短语修饰 plant。作用是确定第10题所考的最终名称。",
+      "vocabulary": [
+        "originally (B1)：最初",
+        "name A B (B1)：把 A 命名为 B",
+        "commonly known as (B2)：通常被称为",
+        "mauve (C1，色彩专业词)：淡紫色；苯胺紫",
+        "violet (B2，色彩专业词)：紫罗兰色",
+        "dye (B2，化学/纺织专业词)：染料；本句再次指珀金最初命名的染料"
+      ]
+    },
+    {
+      "number": 29,
+      "english": "He asked advice of Scottish dye works owner Robert Pullar, who assured him that manufacturing the dye would be well worth it if the colour remained fast (i.e. would not fade) and the cost was relatively low.",
+      "translation": "他向苏格兰染坊老板罗伯特·普拉尔征求意见；普拉尔向他保证，只要颜色牢固（即不褪色）且成本相对较低，制造这种染料就非常值得。",
+      "structure": "主干是 He asked advice ...；who 从句补充 Pullar 的判断，that 从句是 assured 的内容，if 从句提出商业成立的两个并列条件。括号解释 fast 在染色语境中的专业含义。",
+      "vocabulary": [
+        "ask advice of (B2)：向……征求意见",
+        "dye works (C1，工业专业词)：染坊，染料工厂",
+        "assure (B2)：向……保证",
+        "manufacture (B2)：生产，制造",
+        "be well worth it (B2)：非常值得",
+        "remain fast (C1，纺织专业表达)：保持牢固、不褪色",
+        "i.e. (B2)：也就是说",
+        "fade (B2)：褪色",
+        "relatively (B2)：相对地",
+        "dye (B2，化学/纺织专业词)：染料；本句独立指出制造这种染料是否值得"
+      ]
+    },
+    {
+      "number": 30,
+      "english": "So, over the fierce objections of his mentor Hofmann, he left college to give birth to the modern chemical industry.",
+      "translation": "因此，尽管导师霍夫曼强烈反对，他还是离开学院，开创了现代化学工业。",
+      "structure": "主干是 he left college；over the fierce objections ... 表示顶着反对，to give birth to ... 表目的及历史结果。句子用强烈动作把发现阶段转入创业阶段。",
+      "vocabulary": [
+        "fierce objection (C1)：强烈反对",
+        "mentor (C1)：导师，指导者",
+        "give birth to (B2)：孕育，催生",
+        "chemical industry (B2，工业专业词)：化学工业"
+      ]
+    },
+    {
+      "number": 31,
+      "english": "With the help of his father and brother, Perkin set up a factory not far from London.",
+      "translation": "在父亲和兄弟的帮助下，珀金在离伦敦不远处建起了一座工厂。",
+      "structure": "主干是 Perkin set up a factory；With the help of ... 说明支持者，not far from London 定位地点。作用是把“开创工业”的宏大说法落到具体生产设施。",
+      "vocabulary": [
+        "with the help of (B1)：在……帮助下",
+        "set up (B1)：建立，创办",
+        "factory 基础词（A1/A2）：工厂"
+      ]
+    },
+    {
+      "number": 32,
+      "english": "Utilising the cheap and plentiful coal tar that was an almost unlimited byproduct of London’s gas street lighting, the dye works began producing the world’s first synthetically dyed material in 1857.",
+      "translation": "这家染坊利用伦敦煤气路灯产业产生的廉价、充足、近乎取之不尽的副产品——煤焦油，于1857年开始生产世界上第一种合成染色材料。",
+      "structure": "Utilising ... 是方式分词短语；that 从句修饰 coal tar；主干是 the dye works began producing material。句子说明产业成功依赖把城市废弃副产品转化为原料。",
+      "vocabulary": [
+        "utilise (C1)：利用",
+        "plentiful (C1)：丰富的，充足的",
+        "coal tar (C1，化学专业词)：煤焦油",
+        "almost unlimited (B2)：近乎无限的",
+        "byproduct (C1，工业专业词)：副产品",
+        "gas street lighting (C1，工业史专业表达)：煤气街灯照明",
+        "dye works (C1，工业专业词)：染料工厂",
+        "synthetically dyed (C1，纺织专业表达)：经合成染料染色的",
+        "material (B1)：材料；布料",
+        "produce (B1)：生产；本句指染厂开始商业化生产合成染色材料"
+      ]
+    },
+    {
+      "number": 33,
+      "english": "The company received a commercial boost from the Empress Eugenie of France, when she decided the new colour flattered her.",
+      "translation": "法国的欧仁妮皇后认为这种新颜色很衬自己，从而显著提升了市场对该公司产品的需求。",
+      "structure": "主干是 The company received a commercial boost；from ... 指助推来源，when 从句交代触发事件。句子把名人穿着转化为市场传播机制。",
+      "vocabulary": [
+        "commercial boost (C1)：商业推动，销量助力",
+        "empress (B2)：皇后，女皇",
+        "flatter somebody (C1)：使某人显得更漂亮/更有吸引力"
+      ]
+    },
+    {
+      "number": 34,
+      "english": "Very soon, Mauve was the necessary shade for all the fashionable ladies in that country.",
+      "translation": "很快，Mauve 成了那个国家所有时髦女士必备的色调。",
+      "structure": "主干是 Mauve was the necessary shade；for ... 限定消费群体，in that country 指回 France。作用是显示皇室示范如何迅速转为大众时尚规范。",
+      "vocabulary": [
+        "necessary shade (B2，时尚/色彩专业表达)：必备色调",
+        "fashionable (B1)：时髦的",
+        "shade (B2，色彩专业词)：色调",
+        "Mauve / mauve (C1，色彩专业词)：淡紫色、苯胺紫；本句再次指流行色"
+      ]
+    },
+    {
+      "number": 35,
+      "english": "Not to be outdone, England’s Queen Victoria also appeared in public wearing a mauve gown, thus making it all the rate in England as well.",
+      "translation": "英国维多利亚女王也不甘落后，身穿淡紫色礼服公开亮相，从而让这种颜色在英国同样风靡。",
+      "structure": "Not to be outdone 是分词化固定表达，说明动机；wearing ... 是伴随状语；thus making ... 表结果。原页写作 all the rate，按来源保留，语境功能相当于“风靡一时”。",
+      "vocabulary": [
+        "not to be outdone (C1)：不甘落后",
+        "appear in public (B2)：公开露面",
+        "mauve (C1，色彩专业词)：淡紫色",
+        "gown (B2)：礼服，长袍",
+        "thus (B2)：从而",
+        "all the rate (C1，原页异常表达)：语境指风靡一时；原页按字面保留 rate",
+        "as well (B1)：也，同样"
+      ]
+    },
+    {
+      "number": 36,
+      "english": "The dye was bold and fast, and the public clamoured for more.",
+      "translation": "这种染料色彩醒目且不易褪色，公众纷纷要求增加供应。",
+      "structure": "and 连接产品属性与市场反应；bold 和 fast 在染料语境中分别指颜色醒目与不易褪色。短句用强烈动词 clamoured 呈现需求爆发。",
+      "vocabulary": [
+        "dye (B2，化学/纺织专业词)：染料",
+        "bold (B2)：鲜明醒目的",
+        "fast (C1，纺织专业词)：色牢的，不易褪色的",
+        "the public (B1)：公众",
+        "clamour for (C2)：强烈要求，争相索求"
+      ]
+    },
+    {
+      "number": 37,
+      "english": "Perkin went back to the drawing board.",
+      "translation": "珀金于是回到起点，重新投入研发。",
+      "structure": "主干就是 Perkin went back；to the drawing board 是习语性方向补语，并非真的只回到一块绘图板。它以极短一句完成节奏转折：市场成功没有让研究停止，反而催生下一轮创新。",
+      "vocabulary": [
+        "go back to the drawing board (C1)：推倒重来，回到起点重新设计"
+      ]
+    },
+    {
+      "number": 38,
+      "english": "Although Perkin’s fame was achieved and fortune assured by his first discovery, the chemist continued his research.",
+      "translation": "虽然第一次发现已经为珀金赢得名声、确保财富，这位化学家仍继续研究。",
+      "structure": "Although 从句让步，内部有 fame was achieved 与 fortune assured 两个并列被动结构；主句 the chemist continued his research 承担真正重点。作用是反驳“成功后停止”的预期。",
+      "vocabulary": [
+        "although (B1)：虽然",
+        "fame (B2)：名声",
+        "achieve (B1)：取得，实现",
+        "fortune (B2)：财富",
+        "assure (B2)：确保",
+        "discovery (B1)：发现",
+        "chemist (B1，化学专业词)：化学家",
+        "continue research (B1)：继续研究"
+      ]
+    },
+    {
+      "number": 39,
+      "english": "Among other dyes he developed and introduced were aniline red (1859) and aniline black (1863) and, in the late 1860s, Perkin’s synthetic dye discoveries had outcomes far beyond the merely decorative.",
+      "translation": "他后来开发并推出的其他染料包括1859年的苯胺红和1863年的苯胺黑；到19世纪60年代末，珀金的合成染料发现所产生的结果已远远超出单纯装饰用途。",
+      "structure": "前半句是地点化介词短语前置引起的倒装：Among ... were ...；and 后转入 discoveries had outcomes，far beyond 强调影响范围扩张。句子是从时尚转向医学的桥梁。",
+      "vocabulary": [
+        "develop (B1)：开发",
+        "introduce (B1)：推出，引入",
+        "aniline red/black (C2，化学专业词)：苯胺红/苯胺黑",
+        "synthetic dye (B2，化学专业词)：合成染料",
+        "outcome (B2)：结果，后果",
+        "far beyond (B2)：远远超出",
+        "merely (B2)：仅仅",
+        "decorative (B2)：装饰性的",
+        "dyes (B2，化学/纺织专业词)：染料；本句第一次出现，指珀金开发并推出的其他染料"
+      ]
+    },
+    {
+      "number": 40,
+      "english": "The dyes also became vital to medical research in many ways.",
+      "translation": "这些染料还在许多方面成为医学研究不可或缺的工具。",
+      "structure": "主干是 The dyes became vital；also 承接装饰之外的新用途，to medical research 指明受益领域。它直接提出末段的新中心。",
+      "vocabulary": [
+        "dye (B2，化学专业词)：染料",
+        "vital to (B2)：对……至关重要",
+        "medical research (B2，医学专业表达)：医学研究"
+      ]
+    },
+    {
+      "number": 41,
+      "english": "For instance, they were used to stain previously invisible microbes and bacteria, allowing researchers to identify such bacilli as tuberculosis, cholera, and anthrax.",
+      "translation": "例如，人们用这些染料给此前看不见的微生物和细菌染色，使研究人员能够识别结核病、霍乱和炭疽等杆菌。",
+      "structure": "主干是 they were used to stain ...；allowing ... 是结果分词结构，such ... as ... 列举识别对象。句子用具体医学应用证明上一句的 vital。",
+      "vocabulary": [
+        "for instance (B1)：例如",
+        "stain (C1，医学/实验专业词)：染色",
+        "previously (B1)：此前",
+        "invisible (B1)：不可见的",
+        "microbe (C1，微生物学专业词)：微生物",
+        "bacteria (B2，微生物学专业词)：细菌",
+        "allow somebody to do (B1)：使某人能够做",
+        "identify (B1)：识别",
+        "bacillus/bacilli (C2，微生物学专业词)：杆菌（单数/复数）",
+        "tuberculosis (C1，医学专业词)：结核病",
+        "cholera (C2，医学专业词)：霍乱",
+        "anthrax (C2，医学专业词)：炭疽",
+        "researcher (B1)：研究人员；本句指借染色技术识别病原体的科研人员"
+      ]
+    },
+    {
+      "number": 42,
+      "english": "Artificial dyes continue to play a crucial role today.",
+      "translation": "如今，人造染料仍继续发挥关键作用。",
+      "structure": "主干是 Artificial dyes continue to play a role；crucial 强化重要性，today 把历史影响延伸到现在。作用是由历史实例过渡到当代。",
+      "vocabulary": [
+        "artificial (B1)：人造的",
+        "dye (B2，化学专业词)：染料",
+        "continue to do (B1)：继续做",
+        "play a crucial role (B2)：发挥关键作用"
+      ]
+    },
+    {
+      "number": 43,
+      "english": "And, in what would have been particularly pleasing to Perkin, their current use is in the search for a vaccine against malaria.",
+      "translation": "而尤其会令珀金欣慰的是，如今这些染料被用于寻找抗疟疾疫苗。",
+      "structure": "主干是 their current use is in the search；in what would have been ... 是评价性插入结构，what 指代“这件会令他高兴的事”。结尾让故事回扣最初未能制成的奎宁与疟疾问题，形成闭环。",
+      "vocabulary": [
+        "particularly (B1)：尤其",
+        "pleasing (B2)：令人高兴的",
+        "current use (B1)：当前用途",
+        "in the search for (B2)：用于寻找",
+        "vaccine against (B2，医学专业表达)：预防……的疫苗",
+        "malaria (B2，医学专业词)：疟疾"
+      ]
+    }
+  ],
+  "deepDives": [
+    {
+      "sentence": 3,
+      "expression": "stumble upon",
+      "level": "C1",
+      "url": "https://dictionary.cambridge.org/dictionary/english/stumble-across-on-upon",
+      "explanation": "本句里的 stumble upon 不是“走路绊倒”，而是“偶然发现”。stumble 的字面画面是脚步失去控制，和 upon 连用后，这种“没有预先计划、一下撞见”的感觉被保留下来。相比普通的 find，它更强调偶然性；相比 discover，它不天然强调研究成果。文章用它把破旧实验室写成命运中的偶遇，同时为后面意外得到紫色溶液埋下“偶然发现”的主题线。使用时常接地点、资料、旧物或信息，不适合描述经过严密计划才找到的目标。例：I stumbled upon an old research notebook while clearing the office. 我整理办公室时偶然发现了一本旧研究笔记。例：The team stumbled upon a cheaper solution while testing a failed prototype. 团队测试失败原型时意外找到了一种成本更低的方案。相近表达 come across 更中性，chance upon 更书面，discover 更突出发现本身的价值。"
+    },
+    {
+      "sentence": 26,
+      "expression": "lose no time in doing",
+      "level": "C1",
+      "url": "https://dictionary.cambridge.org/dictionary/english/lose",
+      "explanation": "lose no time in patenting it 的本句义是“立刻去申请专利，一点时间也不浪费”。这个结构并不是说时间真的丢了，而是用否定方式强调行动极快；它比 immediately 更有“看清机会后马上抓住”的主动感。文章在科学发现之后立刻使用这一表达，突出珀金的商业敏锐度，也解释了为什么成果能被他转化为产业。使用边界是：后面通常接需要迅速采取的具体行动，结构为 lose no time in doing。例：After spotting the error, the editor lost no time in issuing a correction. 编辑发现错误后立即发布了更正。例：The school lost no time in moving the classes online after the storm. 暴风雨后，学校马上把课程转到了线上。相近的 act at once 强调立即行动，waste no time doing 更口语，seize the opportunity 强调抓住机会而不直接强调速度。"
+    },
+    {
+      "sentence": 37,
+      "expression": "go back to the drawing board",
+      "level": "C1",
+      "url": "https://dictionary.cambridge.org/dictionary/english/back-to-the-drawing-board",
+      "explanation": "go back to the drawing board 字面上是“回到绘图板前”，实际表示原方案不够用，需要从设计或规划阶段重新来过。它不同于 simply try again：后者可以原样再试，drawing board 则暗示要重新思考方案。本句只有七个词，却把公众需求推高后的下一轮研发写得很有节奏，也让珀金从一次性幸运者变成持续创新者。它常用于设计、政策、产品和研究方案，通常带有原方案失败或需要重构的前提。例：The pilot failed the safety test, so the engineers went back to the drawing board. 试验型号未通过安全测试，因此工程师重新设计。例：If users cannot understand the first screen, we need to go back to the drawing board. 如果用户看不懂第一个界面，我们就得从头重做方案。相近的 start over 强调从头开始，rethink the plan 强调重新思考，revise the plan 通常只是局部修改。"
+    }
+  ],
+  "questionGroups": {
+    "1-7": {
+      "instructionTranslation": [
+        "下列陈述是否与阅读文章1的信息一致？",
+        "在答题纸1—7题处填写："
+      ],
+      "optionTranslations": {
+        "TRUE": "陈述与原文一致",
+        "FALSE": "陈述与原文矛盾",
+        "NOT GIVEN": "原文没有相关信息"
+      },
+      "strategy": "先锁定人名、时间和逻辑关系，再区分原文明确反驳与没有交代。不能把常识或合理推断当成原文信息。"
+    },
+    "8-13": {
+      "instructionTranslation": [
+        "回答下列问题。",
+        "每题从文章中选取不超过两个单词。",
+        "把答案写在答题纸8—13题处。"
+      ],
+      "optionTranslations": {},
+      "strategy": "答案必须直接取自原文并满足不超过两个单词；括号中的官方答案成分表示可省略变体。"
+    }
+  },
+  "questions": {
+    "1": {
+      "translation": "迈克尔·法拉第是第一个认识到珀金作为化学专业学生的才能的人。",
+      "logic": "定位早期求学段，分清 teachers、Hall 与 Faraday 三种角色。",
+      "distractor": "法拉第名气最大，容易被误当成识才者；原文说识才的是 teachers。"
+    },
+    "2": {
+      "translation": "迈克尔·法拉第建议珀金进入皇家化学学院。",
+      "logic": "查找 encouraged 与 attend 的施事者和宾语。",
+      "distractor": "Hall 鼓励他去听 Faraday 的讲座；原文没有说 Faraday 建议他入学院。"
+    },
+    "3": {
+      "translation": "珀金雇用奥古斯特·威廉·霍夫曼担任助手。",
+      "logic": "抓住 became Hofmann’s youngest assistant，核对主客关系。",
+      "distractor": "题干把师徒/雇佣关系完全倒置。"
+    },
+    "4": {
+      "translation": "珀金在仍很年轻时就作出了令他名利双收的发现。",
+      "logic": "把15岁入学、两年内成助手和此后不久取得突破串联。",
+      "distractor": "原文未给突破的精确年龄，但时间链足以支持 still young。"
+    },
+    "5": {
+      "translation": "用于提取奎宁的树木只生长在南美洲。",
+      "logic": "比较 native to 与 only grow in 的范围。",
+      "distractor": "原产于某地不等于只能在该地生长，因此不是 FALSE，而是 NOT GIVEN。"
+    },
+    "6": {
+      "translation": "珀金希望用一种煤焦油废料制造药物。",
+      "logic": "定位 manufacture quinine from aniline，并回指 aniline 的同位说明。",
+      "distractor": "奎宁是目标药物，苯胺才是煤焦油废料。"
+    },
+    "7": {
+      "translation": "著名科学家路易·巴斯德的发现启发了珀金。",
+      "logic": "区分引语与实验灵感来源。",
+      "distractor": "原文只引用巴斯德的话来评价结果，没有提到巴斯德的 discoveries。"
+    },
+    "8": {
+      "translation": "珀金发现之前，紫色与社会中的哪一群体相关？",
+      "logic": "定位 so costly that ... only the rich could afford it，直接提取群体名词。",
+      "distractor": "society 是问题范围，不是具体群体；答案必须是 rich 相关短语。"
+    },
+    "9": {
+      "translation": "珀金立即明白他的新染料具有什么潜力？",
+      "logic": "用 immediately 对应 nearly instant recognition，后接 commercial possibilities。",
+      "distractor": "importance 和 breakthrough 都在邻近句，但没有回答哪一种 potential。"
+    },
+    "10": {
+      "translation": "珀金发明的第一种颜色最后使用的名称是什么？",
+      "logic": "区分 originally named Tyrian Purple 与 later ... known as mauve。",
+      "distractor": "Tyrian Purple 是原名，题目问 finally used。"
+    },
+    "11": {
+      "translation": "珀金建立自己的染坊前咨询的人叫什么名字？",
+      "logic": "定位 asked advice of，答案是该结构后的 Robert Pullar。",
+      "distractor": "Hofmann 是反对创业的导师，不是被咨询商业可行性的人。"
+    },
+    "12": {
+      "translation": "珀金新发明的颜色最先在哪个国家流行起来？",
+      "logic": "按 Empress Eugenie of France 与后文 England’s Queen Victoria 的先后判断。",
+      "distractor": "英国也流行，但发生在 France 之后；原页题干写 county，按来源保留。"
+    },
+    "13": {
+      "translation": "据文章所述，研究人员目前正利用合成染料针对哪种疾病开展研究？",
+      "logic": "定位末句 current use 与 vaccine against 后的疾病。",
+      "distractor": "结核病、霍乱和炭疽是过去借染色识别的病原；当前疫苗目标是 malaria。"
+    }
+  },
+  "overallInstructionTranslation": "建议用约20分钟完成第1—13题；这些题目基于下方的阅读文章1。"
+}

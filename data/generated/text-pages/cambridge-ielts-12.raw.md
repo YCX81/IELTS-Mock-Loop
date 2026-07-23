@@ -1346,32 +1346,16 @@ Furthermore, the benefits associated with bilingual experience seem to start ver
 
 ## Page 48
 
-Test 6
-Questions 27–31
+Questions 27-31
 Complete the table below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 27–31 on your answer sheet.
+Write your answers in boxes 27-31 on your answer sheet.
 
 | Test | Findings |
 | --- | --- |
 | Observing the 27 __________ of Russian-English bilingual people when asked to select certain objects | Bilingual people engage both languages simultaneously: a mechanism known as 28 __________. |
 | A test called the 29 __________, focusing on naming colours | Bilingual people are more able to handle tasks involving a skill called 30 __________. |
 | A test involving switching between tasks | When changing strategies, bilingual people have superior 31 __________. |
-
-Questions 32–36
-Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 32–36 on your answer sheet, write
-YES if the statement agrees with the claims of the writer
-NO if the statement contradicts the claims of the writer
-NOT GIVEN if it is impossible to say what the writer thinks about this
-
-32 Attitudes towards bilingualism have changed in recent years.
-33 Bilingual people are better than monolingual people at guessing correctly what words are before they are finished.
-34 Bilingual people consistently name images faster than monolingual people.
-35 Bilingual people’s brains process single sounds more efficiently than monolingual people in all situations.
-36 Fewer bilingual people than monolingual people suffer from brain disease in old age.
-
-48
 
 ## Page 49
 

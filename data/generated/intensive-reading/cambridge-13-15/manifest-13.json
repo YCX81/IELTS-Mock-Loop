@@ -1,0 +1,327 @@
+{
+  "generatedAt": "2026-07-23T04:57:31.724Z",
+  "book": 13,
+  "generatedCount": 12,
+  "recoveredCount": 0,
+  "skippedCount": 0,
+  "sourceBank": "data/cambridge-test-bank.json",
+  "outputDir": "data/generated/intensive-reading/cambridge-13-15",
+  "files": [
+    {
+      "key": "13-1-1",
+      "book": 13,
+      "test": 1,
+      "passage": 1,
+      "title": "Case Study: Tourism New Zealand website",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-1-Passage-1-双语精读.md",
+      "sentenceCount": 39,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "answerKeyPage": 118,
+      "sha256": "fa54700d31d0632dd1f97243f78b16a30b2ac4e5e99401cf6572b98990d2ac46",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-1-2",
+      "book": 13,
+      "test": 1,
+      "passage": 2,
+      "title": "Why being bored is stimulating – and useful, too",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-1-Passage-2-双语精读.md",
+      "sentenceCount": 46,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "answerKeyPage": 118,
+      "sha256": "753cff88e44b88e367aa508ee0cf9c2da592e18f19597bfe52fde02ae8416a02",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-1-3",
+      "book": 13,
+      "test": 1,
+      "passage": 3,
+      "title": "Artificial artists",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-1-Passage-3-双语精读.md",
+      "sentenceCount": 52,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "answerKeyPage": 118,
+      "sha256": "44ff09c08bc0a3e91ba26596f6c078d8124bf39b5e45c12ce2fce7d680b1d302",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-2-1",
+      "book": 13,
+      "test": 2,
+      "passage": 1,
+      "title": "Bringing cinnamon to Europe",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-2-Passage-1-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "answerKeyPage": 120,
+      "sha256": "f726eab2e4fcce065669912a4bbb6d5cde0cdd08bd2d2811e0c0d03a584e78ab",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-2-2",
+      "book": 13,
+      "test": 2,
+      "passage": 2,
+      "title": "Oxytocin",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-2-Passage-2-双语精读.md",
+      "sentenceCount": 42,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "answerKeyPage": 120,
+      "sha256": "ed1279484eb55d4c57d24d141a6d7261ad03536c31b60945caf3d315b5bb30c5",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-2-3",
+      "book": 13,
+      "test": 2,
+      "passage": 3,
+      "title": "MAKING THE MOST OF TRENDS",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-2-Passage-3-双语精读.md",
+      "sentenceCount": 38,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "answerKeyPage": 120,
+      "sha256": "3b93d151634ba996876738d8ea6a6c924ae5b87a0337f2b8d5ac006101de8e72",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-3-1",
+      "book": 13,
+      "test": 3,
+      "passage": 1,
+      "title": "The coconut palm",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-3-Passage-1-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "answerKeyPage": 122,
+      "sha256": "f533be35372a5fe58032bc125f47b77cd37778c537ef1bd150c519f13972f780",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-3-2",
+      "book": 13,
+      "test": 3,
+      "passage": 2,
+      "title": "How baby talk gives infant brains a boost",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-3-Passage-2-双语精读.md",
+      "sentenceCount": 37,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "answerKeyPage": 122,
+      "sha256": "f5300fa4f8d44807e460d975889461666b26e2139efb16e373e2827234a65bd8",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-3-3",
+      "book": 13,
+      "test": 3,
+      "passage": 3,
+      "title": "Whatever happened to the Harappan Civilisation?",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-3-Passage-3-双语精读.md",
+      "sentenceCount": 32,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "answerKeyPage": 122,
+      "sha256": "69bb7907e0190d4842fcd9676b324c93b9afad3a7d99f2ccf294d6bc2f8ce97e",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-4-1",
+      "book": 13,
+      "test": 4,
+      "passage": 1,
+      "title": "Cutty Sark: the fastest sailing ship of all time",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-4-Passage-1-双语精读.md",
+      "sentenceCount": 41,
+      "questionRange": [
+        1,
+        13
+      ],
+      "questionSectionCount": 2,
+      "sourcePages": [
+        81,
+        82,
+        83
+      ],
+      "answerKeyPage": 124,
+      "sha256": "c467e51eee02083f9e4e445ab6b2c7ba83bd9b6481da638a311f89f30a3e8634",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-4-2",
+      "book": 13,
+      "test": 4,
+      "passage": 2,
+      "title": "SAVING THE SOIL",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-4-Passage-2-双语精读.md",
+      "sentenceCount": 44,
+      "questionRange": [
+        14,
+        26
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "answerKeyPage": 124,
+      "sha256": "154acb3dc8dd2873376bbf05777be29087f39c85090609e1a7b13d1176f60e52",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    },
+    {
+      "key": "13-4-3",
+      "book": 13,
+      "test": 4,
+      "passage": 3,
+      "title": "Book Review: The Happiness Industry: How the Government and Big Business Sold Us Well-Being",
+      "file": "data/generated/intensive-reading/cambridge-13-15/Cambridge-IELTS-13-Test-4-Passage-3-双语精读.md",
+      "sentenceCount": 36,
+      "questionRange": [
+        27,
+        40
+      ],
+      "questionSectionCount": 3,
+      "sourcePages": [
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "answerKeyPage": 124,
+      "sha256": "534d0fdc08883cb5633e1cd0bb39b660968df862133a958069b02022b5549957",
+      "links": 3,
+      "deepDives": 3,
+      "images": 0,
+      "partial": false
+    }
+  ],
+  "skipped": []
+}

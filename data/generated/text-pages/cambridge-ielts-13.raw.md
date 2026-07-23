@@ -528,16 +528,16 @@ may not be 40
 Test 1
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Case Study: Tourism New Zealand website
 New Zealand is a small country of four million inhabitants, a long-haul flight from all the
 major tourist-generating markets of the world. Tourism currently makes up 9% of the
-country's gross domestic product, and is the country's largest export sector. Unlike other
+country’s gross domestic product, and is the country’s largest export sector. Unlike other
 export sectors, which make products and then sell them overseas, tourism brings its
-customers to New Zealand. The product is the country itself - the people, the places and
+customers to New Zealand. The product is the country itself – the people, the places and
 the experiences. In 1999, Tourism New Zealand launched a campaign to communicate
-a new brand position to the world. The campaign focused on New Zealand's scenic
+a new brand position to the world. The campaign focused on New Zealand’s scenic
 beauty, exhilarating outdoor activities and authentic Maori culture, and it made New
 Zealand one of the strongest national brands in the world.
 A key feature of the campaign was the website www.newzealand.com, which provided
@@ -557,7 +557,7 @@ To communicate the New Zealand experience, the site also carried features relati
 to famous people and places. One of the most popular was an interview with former
 New Zealand All Blacks rugby captain Tana Umaga. Another feature that attracted a
 lot of attention was an interactive journey through a number of the locations chosen
-for blockbuster films which had made use of New Zealand's stunning scenery as a
+for blockbuster films which had made use of New Zealand’s stunning scenery as a
 backdrop. As the site developed, additional features were added to help independent
 travellers devise their own customised itineraries. To make it easier to plan motoring
 holidays, the site catalogued the most popular driving routes in the country, highlighting
@@ -567,12 +567,12 @@ different routes according to the season and indicating distances and times.
 ## Page 18
 
 Reading
-Later, a Travel Planner feature was added, which allowed visitors to click and 'bookmark'
+Later, a Travel Planner feature was added, which allowed visitors to click and ‘bookmark’
 places or attractions they were interested in, and then view the results on a map. The
 Travel Planner offered suggested routes and public transport options between the
 chosen locations. There were also links to accommodation in the area. By registering
 with the website, users could save their Travel Plan and return to it later, or print it out
-to take on the visit. The website also had a 'Your Words' section where anyone could
+to take on the visit. The website also had a ‘Your Words’ section where anyone could
 submit a blog of their New Zealand travels for possible inclusion on the website.
 The Tourism New Zealand website won two Webby awards for online achievement
 and innovation. More importantly perhaps, the growth of tourism to New Zealand was
@@ -590,14 +590,14 @@ undertake, the more satisfied they will be. It has also been found that visitors
 cultural activities most when they are interactive, such as visiting a marae (meeting
 ground) to learn about traditional Maori life. Many long-haul travellers enjoy such
 learning experiences, which provide them with stories to take home to their friends and
-family. In addition, it appears that visitors to New Zealand don't want to be 'one of the
-crowd' and find activities that involve only a few people more special and meaningful.
+family. In addition, it appears that visitors to New Zealand don’t want to be ‘one of the
+crowd’ and find activities that involve only a few people more special and meaningful.
 It could be argued that New Zealand is not a typical destination. New Zealand is a small
 country with a visitor economy composed mainly of small businesses. It is generally
 perceived as a safe English-speaking country with a reliable transport infrastructure.
 Because of the long-haul flight, most visitors stay for longer (average 20 days) and want
 to see as much of the country as possible on what is often seen as a once-in-a-lifetime
-visit. However, the underlying lessons apply anywhere - the effectiveness of a strong
+visit. However, the underlying lessons apply anywhere – the effectiveness of a strong
 brand, a strategy based on unique experiences and a comprehensive and user-friendly
 website.
 17
@@ -620,9 +620,9 @@ Write your answers in boxes 1-7 on your answer sheet.
 ## Page 20
 
 Reading
-Questions 8-13
+Questions 8–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 8-13 on your answer sheet, write
+In boxes 8–13 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -648,14 +648,14 @@ Many visitors feel it is unlikely that they will return to New Zealand after the
 
 Test 1
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 on pages 21 and 22.
-Questions 14-19
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–19
+Reading Passage 2 has six paragraphs, A–F.
 Choose the correct heading for each paragraph from the list of headings below.
-Write the correct number, i-viii, in boxes 14-19 on your answer sheet.
+Write the correct number, i–viii, in boxes 14–19 on your answer sheet.
 List of Headings
-:
+i
 The productive outcomes that may result from boredom
 ii
 What teachers can do to prevent boredom
@@ -663,7 +663,7 @@ iii
 A new explanation and a new cure for boredom
 iv
 Problems with a scientific approach to boredom
-V
+v
 A potential danger arising from boredom
 vi
 Creating a system of classification for feelings of boredom
@@ -688,39 +688,39 @@ Paragraph F
 ## Page 22
 
 Reading
-Why being bored is stimulating - and useful, too
+Why being bored is stimulating – and useful, too
 This most common of emotions is turning out to be more interesting than
 we thought
 A
-We all know how it feels - it's impossible to keep your mind on anything, time
+We all know how it feels – it’s impossible to keep your mind on anything, time
 stretches out, and all the things you could do seem equally unlikely to make you
 feel better. But defining boredom so that it can be studied in the lab has proved
 difficult. For a start, it can include a lot of other mental states, such as frustration,
-apathy, depression and indifference. There isn't even agreement over whether
+apathy, depression and indifference. There isn’t even agreement over whether
 boredom is always a low-energy, flat kind of emotion or whether feeling agitated
 and restless counts as boredom, too. In his book, Boredom: A Lively History, Peter
-Toohey at the University of Calgary, Canada, compares it to disgust - an emotion
-that motivates us to stay away from certain situations. 'If disgust protects humans
-from infection, boredom may protect them from "infectious" social situations,'
+Toohey at the University of Calgary, Canada, compares it to disgust – an emotion
+that motivates us to stay away from certain situations. ‘If disgust protects humans
+from infection, boredom may protect them from “infectious” social situations,’
 he suggests.
 B
 By asking people about their experiences of boredom, Thomas Goetz and his team
 at the University of Konstanz in Germany have recently identified five distinct types:
 indifferent, calibrating, searching, reactant and apathetic. These can be plotted on
-two axes - one running left to right, which measures low to high arousal, and the
+two axes – one running left to right, which measures low to high arousal, and the
 other from top to bottom, which measures how positive or negative the feeling is.
 Intriguingly, Goetz has found that while people experience all kinds of boredom,
-they tend to specialise in one. Of the five types, the most damaging is 'reactant'
+they tend to specialise in one. Of the five types, the most damaging is ‘reactant’
 boredom with its explosive combination of high arousal and negative emotion. The
-most useful is what Goetz calls 'indifferent' boredom: someone isn't engaged in
+most useful is what Goetz calls ‘indifferent’ boredom: someone isn’t engaged in
 anything satisfying but still feels relaxed and calm. However, it remains to be seen
 whether there are any character traits that predict the kind of boredom each of us
 might be prone to.
 C
 Psychologist Sandi Mann at the University of Central Lancashire, UK, goes further.
-'All emotions are there for a reason, including boredom,' she says. Mann has found
-that being bored makes us more creative. 'We're all afraid of being bored but in
-actual fact it can lead to all kinds of amazing things,' she says. In experiments
+‘All emotions are there for a reason, including boredom,’ she says. Mann has found
+that being bored makes us more creative. ‘We’re all afraid of being bored but in
+actual fact it can lead to all kinds of amazing things,’ she says. In experiments
 published last year, Mann found that people who had been made to feel bored by
 copying numbers out of the phone book for 15 minutes came up with more creative
 ideas about how to use a polystyrene cup than a control group. Mann concluded
@@ -728,10 +728,10 @@ that a passive, boring activity is best for creativity because it allows the min
 to wander. In fact, she goes so far as to suggest that we should seek out more
 boredom in our lives.
 D
-Psychologist John Eastwood at York University in Toronto, Canada, isn't convinced.
-'If you are in a state of mind-wandering you are not bored,' he says. 'In my view,
-by definition boredom is an undesirable state.' That doesn't necessarily mean
-that it isn't adaptive, he adds. 'Pain is adaptive - if we didn't have physical pain,
+Psychologist John Eastwood at York University in Toronto, Canada, isn’t convinced.
+‘If you are in a state of mind-wandering you are not bored,’ he says. ‘In my view,
+by definition boredom is an undesirable state.’ That doesn’t necessarily mean
+that it isn’t adaptive, he adds. ‘Pain is adaptive – if we didn’t have physical pain,
 bad things would happen to us. Does that mean that we should actively cause
 pain? No. But even if boredom has evolved to help us survive, it can still be toxic
 21
@@ -739,15 +739,15 @@ pain? No. But even if boredom has evolved to help us survive, it can still be to
 ## Page 23
 
 Test 1
-if allowed to fester.' For Eastwood, the central feature of boredom is a failure to
-put our 'attention system' into gear. This causes an inability to focus on anything,
-which makes time seem to go painfully slowly. What's more, your efforts to improve
-the situation can end up making you feel worse. 'People try to connect with the
-world and if they are not successful there's that frustration and irritability,' he says.
+if allowed to fester.’ For Eastwood, the central feature of boredom is a failure to
+put our ‘attention system’ into gear. This causes an inability to focus on anything,
+which makes time seem to go painfully slowly. What’s more, your efforts to improve
+the situation can end up making you feel worse. ‘People try to connect with the
+world and if they are not successful there’s that frustration and irritability,’ he says.
 Perhaps most worryingly, says Eastwood, repeatedly failing to engage attention
-can lead to a state where we don't know what to do any more, and no longer care.
+can lead to a state where we don’t know what to do any more, and no longer care.
 E
-Eastwood's team is now trying to explore why the attention system fails. It's early
+Eastwood’s team is now trying to explore why the attention system fails. It’s early
 days but they think that at least some of it comes down to personality. Boredom
 proneness has been linked with a variety of traits. People who are motivated by
 pleasure seem to suffer particularly badly. Other personality traits, such as curiosity,
@@ -755,15 +755,15 @@ are associated with a high boredom threshold. More evidence that boredom has
 detrimental effects comes from studies of people who are more or less prone to
 boredom. It seems those who bore easily face poorer prospects in education,
 their career and even life in general. But of course, boredom itself cannot kill —
-it's the things we do to deal with it that may put us in danger. What can we do to
-alleviate it before it comes to that? Goetz's group has one suggestion. Working with
-teenagers, they found that those who 'approach' a boring situation - in other words,
-see that it's boring and get stuck in anyway - report less boredom than those who
+it’s the things we do to deal with it that may put us in danger. What can we do to
+alleviate it before it comes to that? Goetz’s group has one suggestion. Working with
+teenagers, they found that those who ‘approach’ a boring situation – in other words,
+see that it’s boring and get stuck in anyway – report less boredom than those who
 try to avoid it by using snacks, TV or social media for distraction.
 F
 Psychologist Francoise Wemelsfelder speculates that our over-connected lifestyles
-might even be a new source of boredom. 'In modern human society there is a lot of
-overstimulation but still a lot of problems finding meaning,' she says. So instead of
+might even be a new source of boredom. ‘In modern human society there is a lot of
+overstimulation but still a lot of problems finding meaning,’ she says. So instead of
 seeking yet more mental stimulation, perhaps we should leave our phones alone,
 and use boredom to motivate us to engage with the world in a more
 meaningful way.
@@ -772,10 +772,10 @@ meaningful way.
 ## Page 24
 
 Reading
-Questions 20-23
-Look at the following people (Questions 20-23) and the list of ideas below.
-Match each person with the correct idea, A-E.
-Write the correct letter, A-E, in boxes 20-23 on your answer sheet.
+Questions 20–23
+Look at the following people (Questions 20–23) and the list of ideas below.
+Match each person with the correct idea, A–E.
+Write the correct letter, A–E, in boxes 20–23 on your answer sheet.
 20
 Peter Toohey
 21
@@ -795,14 +795,14 @@ D
 Trying to cope with boredom can increase its negative effects.
 E
 Boredom may encourage us to avoid an unpleasant experience.
-Questions 24-26
+Questions 24–26
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 24-26 on your answer sheet.
+Write your answers in boxes 24–26 on your answer sheet.
 Responses to boredom
 For John Eastwood, the central feature of boredom is that people cannot
 24
-, due to a failure in what he calls the 'attention system', and as a
+, due to a failure in what he calls the ‘attention system’, and as a
 result they become frustrated and irritable. His team suggests that those for whom
 25
 is an important aim in life may have problems in coping with
@@ -815,7 +815,7 @@ generally cope with it.
 
 Test 1
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Artificial artists
 Can computers really create works of art?
@@ -827,67 +827,67 @@ in prestigious galleries. And software has been built which creates art that cou
 have been imagined by the programmer.
 Human beings are the only species to perform sophisticated creative acts regularly.
 If we can break this process down into computer code, where does that leave human
-creativity? 'This is a question at the very core of humanity,' says Geraint Wiggins, a
-computational creativity researcher at Goldsmiths, University of London. 'It scares a lot
+creativity? ‘This is a question at the very core of humanity,’ says Geraint Wiggins, a
+computational creativity researcher at Goldsmiths, University of London. ‘It scares a lot
 of people. They are worried that it is taking something special away from what it means
-to be human.'
+to be human.’
 To some extent, we are all familiar with computerised art. The question is: where does
 the work of the artist stop and the creativity of the computer begin? Consider one of the
-oldest machine artists, Aaron, a robot that has had paintings exhibited in London's Tate
+oldest machine artists, Aaron, a robot that has had paintings exhibited in London’s Tate
 Modern and the San Francisco Museum of Modern Art. Aaron can pick up a paintbrush
 and paint on canvas on its own. Impressive perhaps, but it is still little more than a tool to
-realise the programmer's own creative ideas.
+realise the programmer’s own creative ideas.
 Simon Colton, the designer of the Painting Fool, is keen to make sure his creation
-doesn't attract the same criticism. Unlike earlier 'artists' such as Aaron, the Painting Fool
+doesn’t attract the same criticism. Unlike earlier ‘artists’ such as Aaron, the Painting Fool
 only needs minimal direction and can come up with its own concepts by going online for
 material. The software runs its own web searches and trawls through social media sites.
 It is now beginning to display a kind of imagination too, creating pictures from scratch.
 One of its original works is a series of fuzzy landscapes, depicting trees and sky. While
 some might say they have a mechanical look, Colton argues that such reactions arise
-from people's double standards towards software-produced and human-produced
+from people’s double standards towards software-produced and human-produced
 art. After all, he says, consider that the Painting Fool painted the landscapes without
-referring to a photo. 'If a child painted a new scene from its head, you'd say it has a
-certain level of imagination,' he points out. 'The same should be true of a machine.'
-Software bugs can also lead to unexpected results. Some of the Painting Fool's
+referring to a photo. ‘If a child painted a new scene from its head, you’d say it has a
+certain level of imagination,’ he points out. ‘The same should be true of a machine.’
+Software bugs can also lead to unexpected results. Some of the Painting Fool’s
 paintings of a chair came out in black and white, thanks to a technical glitch. This gives
 the work an eerie, ghostlike quality. Human artists like the renowned Ellsworth Kelly are
-lauded for limiting their colour palette - so why should computers be any different?
+lauded for limiting their colour palette – so why should computers be any different?
 24
 
 ## Page 26
 
 Reading
-Researchers like Colton don't believe it is right to measure machine creativity directly
-to that of humans who 'have had millennia to develop our skills'. Others, though, are
+Researchers like Colton don’t believe it is right to measure machine creativity directly
+to that of humans who ‘have had millennia to develop our skills’. Others, though, are
 fascinated by the prospect that a computer might create something as original and
 subtle as our best artists. So far, only one has come close. Composer David Cope
-invented a program called Experiments in Musical Intelligence, or EMl. Not only did
-EMl create compositions in Cope's style, but also that of the most revered classical
+invented a program called Experiments in Musical Intelligence, or EMI. Not only did
+EMI create compositions in Cope’s style, but also that of the most revered classical
 composers, including Bach, Chopin and Mozart. Audiences were moved to tears, and
-EMl even fooled classical music experts into thinking they were hearing genuine Bach.
-Not everyone was impressed however. Some, such as Wiggins, have blasted Cope's
+EMI even fooled classical music experts into thinking they were hearing genuine Bach.
+Not everyone was impressed however. Some, such as Wiggins, have blasted Cope’s
 work as pseudoscience, and condemned him for his deliberately vague explanation of
 how the software worked. Meanwhile, Douglas Hofstadter of Indiana University said
-EMl created replicas which still rely completely on the original artist's creative impulses.
+EMI created replicas which still rely completely on the original artist’s creative impulses.
 When audiences found out the truth they were often outraged with Cope, and one music
-lover even tried to punch him. Amid such controversy, Cope destroyed EMl's
+lover even tried to punch him. Amid such controversy, Cope destroyed EMI’s
 vital databases.
 But why did so many people love the music, yet recoil when they discovered how it
 was composed? A study by computer scientist David Moffat of Glasgow Caledonian
 University provides a clue. He asked both expert musicians and non-experts to assess
-six compositions. The participants weren't told beforehand whether the tunes were
+six compositions. The participants weren’t told beforehand whether the tunes were
 composed by humans or computers, but were asked to guess, and then rate how much
 they liked each one. People who thought the composer was a computer tended to dislike
 the piece more than those who believed it was human. This was true even among the
 experts, who might have been expected to be more objective in their analyses.
 Where does this prejudice come from? Paul Bloom of Yale University has a suggestion:
 he reckons part of the pleasure we get from art stems from the creative process behind
-the work. This can give it an 'irresistible essence', says Bloom. Meanwhile, experiments
-by Justin Kruger of New York University have shown that people's enjoyment of an
+the work. This can give it an ‘irresistible essence’, says Bloom. Meanwhile, experiments
+by Justin Kruger of New York University have shown that people’s enjoyment of an
 artwork increases if they think more time and effort was needed to create it. Similarly,
 Colton thinks that when people experience art, they wonder what the artist might have
 been thinking or what the artist is trying to tell them. It seems obvious, therefore, that
-with computers producing art, this speculation is cut short - there's nothing to explore.
+with computers producing art, this speculation is cut short – there’s nothing to explore.
 But as technology becomes increasingly complex, finding those greater depths in
 computer art could become possible. This is precisely why Colton asks the Painting
 Fool to tap into online social networks for its inspiration: hopefully this way it will choose
@@ -897,14 +897,14 @@ themes that will already be meaningful to us.
 ## Page 27
 
 Test 1
-Questions 27-31
+Questions 27–31
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-31 on your answer sheet.
+Write the correct letter in boxes 27–31 on your answer sheet.
 27
 What is the writer suggesting about computer-produced works in the
 first paragraph?
 A
-People's acceptance of them can vary considerably.
+People’s acceptance of them can vary considerably.
 B
 A great deal of progress has already been attained in this field.
 C
@@ -924,7 +924,7 @@ It will lead to a deterioration in human ability.
 29
 What is a key difference between Aaron and the Painting Fool?
 A
-its programmer's background
+its programmer’s background
 B
 public response to its work
 C
@@ -957,21 +957,21 @@ highlights the technical limitations of the software.
 ## Page 28
 
 Reading
-Questions 32-37
-Complete each sentence with the correct ending, A-G below.
-Write the correct letter, A-G, in boxes 32-37 on your answer sheet.
+Questions 32–37
+Complete each sentence with the correct ending, A–G below.
+Write the correct letter, A–G, in boxes 32–37 on your answer sheet.
 32
 Simon Colton says it is important to consider the long-term view when
 33
-David Cope's EMI software surprised people by
+David Cope’s EMI software surprised people by
 34
 Geraint Wiggins criticised Cope for not
 35
-Douglas Hofstadter claimed that EMl was
+Douglas Hofstadter claimed that EMI was
 36
-Audiences who had listened to EMl's music became angry after
+Audiences who had listened to EMI’s music became angry after
 37
-The participants in David Moffat's study had to assess music without
+The participants in David Moffat’s study had to assess music without
 List of Ideas
 A
 generating work that was virtually indistinguishable from that of humans.
@@ -992,20 +992,20 @@ discovering that it was the product of a computer program.
 ## Page 29
 
 Test 1
-Questions 38-40
+Questions 38–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 38-40 on your answer sheet, write
+In boxes 38–40 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
 if the statement contradicts the claims of the writer
-NOT GIvEN if it is impossible to say what the writer thinks about this
+NOT GIVEN if it is impossible to say what the writer thinks about this
 38
-Moffat's research may help explain people's reactions to EMl.
+Moffat’s research may help explain people’s reactions to EMI.
 39
-The non-experts in Moffat's study all responded in a predictable way.
+The non-experts in Moffat’s study all responded in a predictable way.
 40
-Justin Kruger's findings cast doubt on Paul Bloom's theory about people's prejudice
+Justin Kruger’s findings cast doubt on Paul Bloom’s theory about people’s prejudice
 towards computer art.
 28
 
@@ -1377,18 +1377,18 @@ memory training may help autistic children develop social skills
 Test 2
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Bringing cinnamon to Europe
 Cinnamon is a sweet, fragrant spice produced from the inner bark of trees of the genus
 Cinnamomum, which is native to the Indian sub-continent. It was known in biblical times,
 and is mentioned in several books of the Bible, both as an ingredient that was mixed
-with oils for anointing people's bodies, and also as a token indicating friendship among
+with oils for anointing people’s bodies, and also as a token indicating friendship among
 lovers and friends. In ancient Rome, mourners attending funerals burnt cinnamon to
 create a pleasant scent. Most often, however, the spice found its primary use as an
 additive to food and drink. In the Middle Ages, Europeans who could afford the spice
 used it to flavour food, particularly meat, and to impress those around them with their
-ability to purchase an expensive condiment from the 'exotic' East. At a banquet, a host
+ability to purchase an expensive condiment from the ‘exotic’ East. At a banquet, a host
 would offer guests a plate with various spices piled upon it as a sign of the wealth at his
 or her disposal. Cinnamon was also reported to have health benefits, and was thought
 to cure various ailments, such as indigestion.
@@ -1410,7 +1410,7 @@ on the island of Ceylon in the Indian Ocean toward the end of the 15th century. 
 Europeans arrived on the island, the state had organized the cultivation of cinnamon.
 People belonging to the ethnic group called the Salagama would peel the bark off
 young shoots of the cinnamon plant in the rainy season, when the wet bark was
-more pliable. During the peeling process, they curled the bark into the 'stick' shape
+more pliable. During the peeling process, they curled the bark into the ‘stick’ shape
 still associated with the spice today. The Salagama then gave the finished product to
 the king as a form of tribute. When the Portuguese arrived, they needed to increase
 38
@@ -1433,7 +1433,7 @@ overran and occupied their factories. By 1658, they had permanently expelled the
 Portuguese from the island, thereby gaining control of the lucrative cinnamon trade.
 In order to protect their hold on the market, the Dutch, like the Portuguese before them,
 treated the native inhabitants harshly. Because of the need to boost production and
-satisfy Europe's ever-increasing appetite for cinnamon, the Dutch began to alter the
+satisfy Europe’s ever-increasing appetite for cinnamon, the Dutch began to alter the
 harvesting practices of the Ceylonese. Over time, the supply of cinnamon trees on the
 island became nearly exhausted, due to systematic stripping of the bark. Eventually, the
 Dutch began cultivating their own cinnamon trees to supplement the diminishing number
@@ -1451,39 +1451,35 @@ chocolate, and sugar.
 ## Page 41
 
 Test 2
-Questions 1-9
+Questions 1–9
 Complete the notes below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 1-9 on your answer sheet.
+Write your answers in boxes 1–9 on your answer sheet.
 The Early History of Cinnamon
 Biblical times:
-added to 1
-used to show 2.
-between people
+added to 1 __________
+used to show 2 __________ between people
 Ancient Rome:
-used for its sweet smell at 3
+used for its sweet smell at 3 __________
 Middle Ages:
 added to food, especially meat
-was an indication of a person's 4
-known as a treatment for 5
-and other
+was an indication of a person’s 4 __________
+known as a treatment for 5 __________ and other
 health problems
-grown in 6
-merchants used 7
-to bring it to
+grown in 6 __________
+merchants used 7 __________ to bring it to
 the Mediterranean
-arrived in the Mediterranean at 8
-traders took it to 9
-and sold it to
+arrived in the Mediterranean at 8 __________
+traders took it to 9 __________ and sold it to
 destinations around Europe
 40
 
 ## Page 42
 
 Reading
-Questions 10-13
+Questions 10–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 10-13 on your answer sheet, write
+In boxes 10–13 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -1506,10 +1502,10 @@ The spice trade maintained its economic importance during the 19th century.
 
 Test 2
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 Oxytocin
-The positive and negative effects of the chemical known as the 'love hormone'
+The positive and negative effects of the chemical known as the ‘love hormone’
 A
 Oxytocin is a chemical, a hormone produced in the pituitary gland in the brain. It
 was through various studies focusing on animals that scientists first became aware
@@ -1518,32 +1514,32 @@ between prairie voles, which mate for life, and triggers the motherly behaviour
 that sheep show towards their newborn lambs. It is also released by women in
 childbirth, strengthening the attachment between mother and baby. Few chemicals
 have as positive a reputation as oxytocin, which is sometimes referred to as the
-'love hormone'. One sniff of it can, it is claimed, make a person more trusting,
+‘love hormone’. One sniff of it can, it is claimed, make a person more trusting,
 empathetic, generous and cooperative. It is time, however, to revise this wholly
 optimistic view. A new wave of studies has shown that its effects vary greatly
 depending on the person and the circumstances, and it can impact on our social
 interactions for worse as well as for better.
 B
-Oxytocin's role in human behaviour first emerged in 2005. In a groundbreaking
+Oxytocin’s role in human behaviour first emerged in 2005. In a groundbreaking
 experiment, Markus Heinrichs and his colleagues at the University of Freiburg,
 Germany, asked volunteers to do an activity in which they could invest money with
 an anonymous person who was not guaranteed to be honest. The team found
 that participants who had sniffed oxytocin via a nasal spray beforehand invested
 more money than those who received a placebo instead. The study was the start
-of research into the effects of oxytocin on human interactions. 'For eight years, it
-was quite a lonesome field,' Heinrichs recalls. 'Now, everyone is interested.' These
+of research into the effects of oxytocin on human interactions. ‘For eight years, it
+was quite a lonesome field,’ Heinrichs recalls. ‘Now, everyone is interested.’ These
 follow-up studies have shown that after a sniff of the hormone, people become
-more charitable, better at reading emotions on others' faces and at communicating
+more charitable, better at reading emotions on others’ faces and at communicating
 constructively in arguments. Together, the results fuelled the view that oxytocin
 universally enhanced the positive aspects of our social nature.
 C
 Then, after a few years, contrasting findings began to emerge. Simone Shamay-
 Tsoory at the University of Haifa, Israel, found that when volunteers played a
 competitive game, those who inhaled the hormone showed more pleasure when
-they beat other players, and felt more envy when others won. What's more,
+they beat other players, and felt more envy when others won. What’s more,
 administering oxytocin also has sharply contrasting outcomes depending on a
-person's disposition. Jennifer Bartz from Mount Sinai School of Medicine, New
-York, found that it improves people's ability to read emotions, but only if they are
+person’s disposition. Jennifer Bartz from Mount Sinai School of Medicine, New
+York, found that it improves people’s ability to read emotions, but only if they are
 not very socially adept to begin with. Her research also shows that oxytocin in fact
 reduces cooperation in subjects who are particularly anxious or sensitive
 to rejection.
@@ -1553,7 +1549,7 @@ to rejection.
 
 Reading
 D
-Another discovery is that oxytocin's effects vary depending on who we are
+Another discovery is that oxytocin’s effects vary depending on who we are
 interacting with. Studies conducted by Carolyn DeClerck of the University of
 Antwerp, Belgium, revealed that people who had received a dose of oxytocin
 actually became less cooperative when dealing with complete strangers.
@@ -1568,14 +1564,14 @@ E
 There were signs of these subtleties from the start. Bartz has recently shown that
 in almost half of the existing research results, oxytocin influenced only certain
 individuals or in certain circumstances. Where once researchers took no notice
-of such findings, now a more nuanced understanding of oxytocin's effects is
+of such findings, now a more nuanced understanding of oxytocin’s effects is
 propelling investigations down new lines. To Bartz, the key to understanding what
 the hormone does lies in pinpointing its core function rather than in cataloguing its
 seemingly endless effects. There are several hypotheses which are not mutually
 exclusive. Oxytocin could help to reduce anxiety and fear. Or it could simply
 motivate people to seek out social connections. She believes that oxytocin acts as
-a chemical spotlight that shines on social clues - a shift in posture, a flicker of the
-eyes, a dip in the voice - making people more attuned to their social environment.
+a chemical spotlight that shines on social cues – a shift in posture, a flicker of the
+eyes, a dip in the voice – making people more attuned to their social environment.
 This would explain why it makes us more likely to look others in the eye and
 improves our ability to identify emotions. But it could also make things worse for
 people who are overly sensitive or prone to interpreting social cues in the
@@ -1583,22 +1579,22 @@ worst light.
 F
 Perhaps we should not be surprised that the oxytocin story has become more
 perplexing. The hormone is found in everything from octopuses to sheep, and its
-evolutionary roots stretch back half a billion years. 'It's a very simple and ancient
-molecule that has been co-opted for many different functions,' says Sue Carter at
-the University of Illinois, Chicago, USA. 'It affects primitive parts of the brain like
-the amygdala, so it's going to have many effects on just about everything.' Bartz
-agrees. 'Oxytocin probably does some very basic things, but once you add our
+evolutionary roots stretch back half a billion years. ‘It’s a very simple and ancient
+molecule that has been co-opted for many different functions,’ says Sue Carter at
+the University of Illinois, Chicago, USA. ‘It affects primitive parts of the brain like
+the amygdala, so it’s going to have many effects on just about everything.’ Bartz
+agrees. ‘Oxytocin probably does some very basic things, but once you add our
 higher-order thinking and social situations, these basic processes could manifest
-in different ways depending on individual differences and context.'
+in different ways depending on individual differences and context.’
 43
 
 ## Page 45
 
 Test 2
-Questions 14-17
-Reading Passage 2 has six paragraphs, A-F.
+Questions 14–17
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
-Write the correct letter, A-F, in boxes 14-17 on your answer sheet.
+Write the correct letter, A–F, in boxes 14–17 on your answer sheet.
 NB You may use any letter more than once.
 14
 reference to research showing the beneficial effects of oxytocin on people
@@ -1608,15 +1604,15 @@ reasons why the effects of oxytocin are complex
 mention of a period in which oxytocin attracted little scientific attention
 17
 reference to people ignoring certain aspects of their research data
-Questions 18-20
-Look at the following research findings (Questions 18-20) and the list of
+Questions 18–20
+Look at the following research findings (Questions 18–20) and the list of
 researchers below.
-Match each research finding with the correct researcher, A-F.
-Write the correct letter, A-F, in boxes 18-20 on your answer sheet.
+Match each research finding with the correct researcher, A–F.
+Write the correct letter, A–F, in boxes 18–20 on your answer sheet.
 18
 People are more trusting when affected by oxytocin.
 19
-Oxytocin increases people's feelings of jealousy.
+Oxytocin increases people’s feelings of jealousy.
 20
 The effect of oxytocin varies from one type of person to another.
 List of Researchers
@@ -1637,28 +1633,22 @@ Sue Carter
 ## Page 46
 
 Reading
-Questions 21-26
+Questions 21–26
 Complete the summary below.
-Choose ONE WoRD ONLY from the passage for each answer.
-Write your answers in boxes 21-26 on your answer sheet.
+Choose ONE WORD ONLY from the passage for each answer.
+Write your answers in boxes 21–26 on your answer sheet.
 Oxytocin research
 The earliest findings about oxytocin and bonding came from research involving
-21
-. It was also discovered that humans produce oxytocin during
-22
-. An experiment in 2005, in which participants were given either
-oxytocin or a 23
-, reinforced the belief that the hormone had a
+21 __________. It was also discovered that humans produce oxytocin during
+22 __________. An experiment in 2005, in which participants were given either
+oxytocin or a 23 __________, reinforced the belief that the hormone had a
 positive effect.
 However, later research suggests that this is not always the case. A study at the
-University of Haifa where participants took part in a 24
-.. revealed
+University of Haifa where participants took part in a 24 __________, revealed
 the negative emotions which oxytocin can trigger. A study at the University of Antwerp
-showed people's lack of willingness to help 25
-... while under the
+showed people’s lack of willingness to help 25 __________ while under the
 influence of oxytocin. Meanwhile, research at the University of Amsterdam revealed that
-people who have been given oxytocin consider 26
-that are familiar
+people who have been given oxytocin consider 26 __________ that are familiar
 to them in their own country to have more positive associations than those from other
 cultures.
 45
@@ -1667,14 +1657,14 @@ cultures.
 
 Test 2
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 MAKING THE MOST OF TRENDS
 Experts from Harvard Business School give advice to managers
 Most managers can identify the major trends of the day. But in the course of conducting research
 in a number of industries and working directly with companies, we have discovered that
 managers often fail to recognize the less obvious but profound ways these trends are influencing
-consumers' aspirations, attitudes, and behaviors. This is especially true of trends that managers
+consumers’ aspirations, attitudes, and behaviors. This is especially true of trends that managers
 view as peripheral to their core markets.
 Many ignore trends in their innovation strategies or adopt a wait-and-see approach and let
 competitors take the lead. At a minimum, such responses mean missed profit opportunities. At
@@ -1683,22 +1673,22 @@ industry. The purpose of this article is twofold: to spur managers to think more
 how trends could engender new value propositions in their core markets, and to provide some
 high-level advice on how to make market research and product development personnel more
 adept at analyzing and exploiting trends.
-One strategy, known as 'infuse and augment', is to design a product or service that retains most
+One strategy, known as ‘infuse and augment’, is to design a product or service that retains most
 of the attributes and functions of existing products in the category but adds others that address
 the needs and desires unleashed by a major trend. A case in point is the Poppy range of handbags,
 which the firm Coach created in response to the economic downturn of 2008. The Coach brand
 had been a symbol of opulence and luxury for nearly 70 years, and the most obvious reaction
 to the downturn would have been to lower prices. However, that would have risked cheapening
-the brand's image. Instead, they initiated a consumer-research project which revealed that
+the brand’s image. Instead, they initiated a consumer-research project which revealed that
 customers were eager to lift themselves and the country out of tough times. Using these insights,
 Coach launched the lower-priced Poppy handbags, which were in vibrant colors, and looked
 more youthful and playful than conventional Coach products. Creating the sub-brand allowed
 Coach to avert an across-the-board price cut. In contrast to the many companies that responded
 to the recession by cutting prices, Coach saw the new consumer mindset as an opportunity for
 innovation and renewal.
-A further example of this strategy was supermarket Tesco's response to consumers' growing
-concerns about the environment. With that in mind, Tesco, one of the world's top five retailers,
-introduced its Greener Living program, which demonstrates the company's commitment to
+A further example of this strategy was supermarket Tesco’s response to consumers’ growing
+concerns about the environment. With that in mind, Tesco, one of the world’s top five retailers,
+introduced its Greener Living program, which demonstrates the company’s commitment to
 protecting the environment by involving consumers in ways that produce tangible results. For
 example, Tesco customers can accumulate points for such activities as reusing bags, recycling
 cans and printer cartridges, and buying home-insulation materials. Like points earned on regular
@@ -1710,40 +1700,40 @@ proposition with a green streak.
 ## Page 48
 
 Reading
-A more radical strategy is 'combine and transcend'. This entails combining aspects of the
-product's existing value proposition with attributes addressing changes arising from a trend, to
-create a novel experience - one that may land the company in an entirely new market space.
+A more radical strategy is ‘combine and transcend’. This entails combining aspects of the
+product’s existing value proposition with attributes addressing changes arising from a trend, to
+create a novel experience – one that may land the company in an entirely new market space.
 At first glance, spending resources to incorporate elements of a seemingly irrelevant trend into
-one's core offerings sounds like it's hardly worthwhile. But consider Nike's move to integrate the
+one’s core offerings sounds like it’s hardly worthwhile. But consider Nike’s move to integrate the
 digital revolution into its reputation for high-performance athletic footwear. In 2006, they teamed
 up with technology company Apple to launch Nike+, a digital sports kit comprising a sensor
-that attaches to the running shoe and a wireless receiver that connects to the user's iPod. By
-combining Nike's original value proposition for amateur athletes with one for digital consumers,
+that attaches to the running shoe and a wireless receiver that connects to the user’s iPod. By
+combining Nike’s original value proposition for amateur athletes with one for digital consumers,
 the Nike+ sports kit and web interface moved the company from a focus on athletic apparel to a
 new plane of engagement with its customers.
-A third approach, known as 'counteract and reaffirm', involves developing products or services
+A third approach, known as ‘counteract and reaffirm’, involves developing products or services
 that stress the values traditionally associated with the category in ways that allow consumers to
-oppose - or at least temporarily escape from — the aspects of trends they view as undesirable.
-A product that accomplished this is the ME2, a video game created by Canada's iToys. By
-reaffirming the toy category's association with physical play, the ME2 counteracted some of
+oppose – or at least temporarily escape from – the aspects of trends they view as undesirable.
+A product that accomplished this is the ME2, a video game created by Canada’s iToys. By
+reaffirming the toy category’s association with physical play, the ME2 counteracted some of
 the widely perceived negative impacts of digital gaming devices. Like other handheld games,
 the device featured a host of exciting interactive games, a full-color LCD screen, and advanced
 3D graphics. What set it apart was that it incorporated the traditional physical component
-of children's play: it contained a pedometer, which tracked and awarded points for physical
+of children’s play: it contained a pedometer, which tracked and awarded points for physical
 activity (walking, running, biking, skateboarding, climbing stairs). The child could use the
 points to enhance various virtual skills needed for the video game. The ME2, introduced in mid-
-2008, catered to kids' huge desire to play video games while countering the negatives, such as
+2008, catered to kids’ huge desire to play video games while countering the negatives, such as
 associations with lack of exercise and obesity.
 Once you have gained perspective on how trend-related changes in consumer opinions and
 behaviors impact on your category, you can determine which of our three innovation strategies to
-pursue. When your category's basic value proposition continues to be meaningful for consumers
+pursue. When your category’s basic value proposition continues to be meaningful for consumers
 influenced by the trend, the infuse-and-augment strategy will allow you to reinvigorate the
-category. If analysis reveals an increasing disparity between your category and consumers' new
+category. If analysis reveals an increasing disparity between your category and consumers’ new
 focus, your innovations need to transcend the category to integrate the two worlds. Finally,
 if aspects of the category clash with undesired outcomes of a trend, such as associations with
 unhealthy lifestyles, there is an opportunity to counteract those changes by reaffirming the core
 values of your category.
-Trends — technological, economic, environmental, social, or political  that affect how people
+Trends – technological, economic, environmental, social, or political – that affect how people
 perceive the world around them and shape what they expect from products and services present
 firms with unique opportunities for growth.
 47
@@ -1751,9 +1741,9 @@ firms with unique opportunities for growth.
 ## Page 49
 
 Test 2
-Questions 27-31
+Questions 27–31
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-31 on your answer sheet.
+Write the correct letter in boxes 27–31 on your answer sheet.
 27
 In the first paragraph, the writer says that most managers
 A
@@ -1763,7 +1753,7 @@ make the mistake of focusing only on the principal consumer trends.
 C
 misinterpret market research data relating to current consumer trends.
 D
-are unaware of the significant impact that trends have on consumers' lives.
+are unaware of the significant impact that trends have on consumers’ lives.
 28
 According to the third paragraph, Coach was anxious to
 A
@@ -1775,17 +1765,17 @@ safeguard its reputation as a manufacturer of luxury goods.
 D
 modify the entire look of its brand to suit the economic climate.
 29
-What point is made about Tesco's Greener Living programme?
+What point is made about Tesco’s Greener Living programme?
 A
 It did not require Tesco to modify its core business activities.
 B
 It succeeded in attracting a more eco-conscious clientele.
 C
-Its main aim was to raise consumers' awareness of environmental issues.
+Its main aim was to raise consumers’ awareness of environmental issues.
 D
 It was not the first time that Tesco had implemented such an initiative.
 30
-What does the writer suggest about Nike's strategy?
+What does the writer suggest about Nike’s strategy?
 A
 It was an extremely risky strategy at the time.
 B
@@ -1804,17 +1794,17 @@ C
 It took advantage of a current trend for video games with colourful 3D
 graphics.
 D
-It was a handheld game that addressed people's concerns about unhealthy
+It was a handheld game that addressed people’s concerns about unhealthy
 lifestyles.
 48
 
 ## Page 50
 
 Reading
-Questions 32-37
-Look at the following statements (Questions 32-37) and the list of companies below.
+Questions 32–37
+Look at the following statements (Questions 32–37) and the list of companies below.
 Match each statement with the correct company, A, B, C or D.
-Write the correct letter, A, B, C or D, in boxes 32-37 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 32–37 on your answer sheet.
 NB You may use any letter more than once.
 32
 It turned the notion that its products could have harmful effects to its own
@@ -1845,22 +1835,22 @@ iToys
 ## Page 51
 
 Test 2
-Questions 38-40
+Questions 38–40
 Complete each sentence with the correct ending, A, B, C or D below.
-Write the correct letter, A, B, C or D, in boxes 38-40 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 38–40 on your answer sheet.
 38
 If there are any trend-related changes impacting on your category, you should
 39
 If a current trend highlights a negative aspect of your category, you should
 40
-If the consumers' new focus has an increasing lack of connection with your offering,
+If the consumers’ new focus has an increasing lack of connection with your offering,
 you should
 A
 employ a combination of strategies to maintain your consumer base.
 B
 identify the most appropriate innovation strategy to use.
 C
-emphasise your brand's traditional values with the counteract-and-
+emphasise your brand’s traditional values with the counteract-and-
 affirm strategy.
 D
 use the combine-and-transcend strategy to integrate the two worlds.
@@ -2114,14 +2104,14 @@ This may be in order to reduce chances of 40
 Test 3
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 The coconut palm
 For millennia, the coconut has been central to the lives of Polynesian and Asian peoples.
 In the western world, on the other hand, coconuts have always been exotic and unusual,
 sometimes rare. The Italian merchant traveller Marco Polo apparently saw coconuts
 in South Asia in the late 13th century, and among the mid-14th-century travel writings
-of Sir John Mandeville there is mention of 'great Notes of Ynde' (great Nuts of India).
+of Sir John Mandeville there is mention of ‘great Notes of Ynde’ (great Nuts of India).
 Today, images of palm-fringed tropical beaches are clichés in the west to sell holidays,
 chocolate bars, fizzy drinks and even romance.
 Typically, we envisage coconuts as brown cannonballs that, when opened, provide
@@ -2138,8 +2128,8 @@ by boiling to produce a type of sugar used for cooking.
 Coconut palms produce as many as seventy fruits per year, weighing more than a
 kilogram each. The wall of the fruit has three layers: a waterproof outer layer, a fibrous
 middle layer and a hard, inner layer. The thick fibrous middle layer produces coconut
-fibre, 'coir', which has numerous uses and is particularly important in manufacturing
-ropes. The woody innermost layer, the shell, with its three prominent 'eyes', surrounds
+fibre, ‘coir’, which has numerous uses and is particularly important in manufacturing
+ropes. The woody innermost layer, the shell, with its three prominent ‘eyes’, surrounds
 the seed. An important product obtained from the shell is charcoal, which is widely used
 in various industries as well as in the home as a cooking fuel. When broken in half, the
 shells are also used as bowls in many parts of Asia.
@@ -2147,7 +2137,7 @@ Inside the shell are the nutrients (endosperm) needed by the developing seed. In
 the endosperm is a sweetish liquid, coconut water, which is enjoyed as a drink, but also
 provides the hormones which encourage other plants to grow more rapidly and produce
 higher yields. As the fruit matures, the coconut water gradually solidifies to form the
-brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, 'copra', is made into
+brilliant white, fat-rich, edible flesh or meat. Dried coconut flesh, ‘copra’, is made into
 coconut oil and coconut milk, which are widely used in cooking in different parts of the
 world, as well as in cosmetics. A derivative of coconut fat, glycerine, acquired strategic
 60
@@ -2176,7 +2166,7 @@ America. But the origin of coconuts discovered along the west coast of America b
 16th century sailors has been the subject of centuries of discussion. Two diametrically
 opposed origins have been proposed: that they came from Asia, or that they were native
 to America. Both suggestions have problems. In Asia, there is a large degree of coconut
-diversity and evidence of millennia of human use - but there are no relatives growing
+diversity and evidence of millennia of human use – but there are no relatives growing
 in the wild. In America, there are close coconut relatives, but no evidence that coconuts
 are indigenous. These problems have led to the intriguing suggestion that coconuts
 originated on coral islands in the Pacific and were dispersed from there.
@@ -2205,9 +2195,9 @@ THE COCONUT PALM
 ## Page 62
 
 Reading
-Questions 9-13
+Questions 9–13
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 9-13 on your answer sheet, write
+In boxes 9–13 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -2230,37 +2220,37 @@ Coconuts are cultivated in different ways in America and the Pacific.
 
 Test 3
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 How baby talk gives infant brains a boost
 A
-The typical way of talking to a baby - high-pitched, exaggerated and repetitious - is
-a source of fascination for linguists who hope to understand how 'baby talk' impacts
+The typical way of talking to a baby – high-pitched, exaggerated and repetitious – is
+a source of fascination for linguists who hope to understand how ‘baby talk’ impacts
 on learning. Most babies start developing their hearing while still in the womb,
 prompting some hopeful parents to play classical music to their pregnant bellies.
 Some research even suggests that infants are listening to adult speech as early
-as 10 weeks before being born, gathering the basic building blocks of their family's
+as 10 weeks before being born, gathering the basic building blocks of their family’s
 native tongue.
 B
-Early language exposure seems to have benefits to the brain - for instance, studies
+Early language exposure seems to have benefits to the brain – for instance, studies
 suggest that babies raised in bilingual homes are better at learning how to mentally
 prioritize information. So how does the sweet if sometimes absurd sound of infant-
-directed speech influence a baby's development? Here are some recent studies
+directed speech influence a baby’s development? Here are some recent studies
 that explore the science behind baby talk.
 C
-Fathers don't use baby talk as often or in the same ways as mothers - and that's
+Fathers don’t use baby talk as often or in the same ways as mothers – and that’s
 perfectly OK, according to a new study. Mark VanDam of Washington State
 University at Spokane and colleagues equipped parents with recording devices and
 speech-recognition software to study the way they interacted with their youngsters
-during a normal day. 'We found that moms do exactly what you'd expect and what's
-been described many times over,' VanDam explains. 'But we found that dads aren't
-doing the same thing. Dads didn't raise their pitch or fundamental frequency when
-they talked to kids.' Their role may be rooted in what is called the bridge hypothesis,
+during a normal day. ‘We found that moms do exactly what you’d expect and what’s
+been described many times over,’ VanDam explains. ‘But we found that dads aren’t
+doing the same thing. Dads didn’t raise their pitch or fundamental frequency when
+they talked to kids.’ Their role may be rooted in what is called the bridge hypothesis,
 which dates back to 1975. It suggests that fathers use less familial language to
-provide their children with a bridge to the kind of speech they'll hear in public. 'The
+provide their children with a bridge to the kind of speech they’ll hear in public. ‘The
 idea is that a kid gets to practice a certain kind of speech with mom and another
 kind of speech with dad, so the kid then has a wider repertoire of kinds of speech to
-practice,' says VanDam.
+practice,’ says VanDam.
 D
 Scientists from the University of Washington and the University of Connecticut
 collected thousands of 30-second conversations between parents and their babies,
@@ -2268,48 +2258,48 @@ fitting 26 children with audio-recording vests that captured language and sound
 during a typical eight-hour day. The study found that the more baby talk parents
 used, the more their youngsters began to babble. And when researchers saw
 the same babies at age two, they found that frequent baby talk had dramatically
-boosted vocabulary, regardless of socioeconomic status. 'Those children who
+boosted vocabulary, regardless of socioeconomic status. ‘Those children who
 listened to a lot of baby talk were talking more than the babies that listened to more
 64
 
 ## Page 64
 
 Reading
-adult talk or standard speech,' says Nairán Ramírez-Esparza of the University of
-Connecticut. 'We also found that it really matters whether you use baby talk in a
-one-on-one context,' she adds. 'The more parents use baby talk one-on-one, the
+adult talk or standard speech,’ says Nairán Ramírez-Esparza of the University of
+Connecticut. ‘We also found that it really matters whether you use baby talk in a
+one-on-one context,’ she adds. ‘The more parents use baby talk one-on-one, the
 more babies babble, and the more they babble, the more words they produce later
-in life.'
+in life.’
 E
 Another study suggests that parents might want to pair their youngsters up so
 they can babble more with their own kind. Researchers from McGill University
 and Université du Québec à Montréal found that babies seem to like listening to
-each other rather than to adults - which may be why baby talk is such a universal
+each other rather than to adults – which may be why baby talk is such a universal
 tool among parents. They played repeating vowel sounds made by a special
 synthesizing device that mimicked sounds made by either an adult woman or
 another baby. This way, only the impact of the auditory cues was observed. The
-team then measured how long each type of sound held the infants' attention. They
-found that the 'infant' sounds held babies' attention nearly 40 percent longer. The
+team then measured how long each type of sound held the infants’ attention. They
+found that the ‘infant’ sounds held babies’ attention nearly 40 percent longer. The
 baby noises also induced more reactions in the listening infants, like smiling or lip
 moving, which approximates sound making. The team theorizes that this attraction
 to other infant sounds could help launch the learning process that leads to speech.
-'It may be some property of the sound that is just drawing their attention,' says
-study co-author Linda Polka. 'Or maybe they are really interested in that particular
+‘It may be some property of the sound that is just drawing their attention,’ says
+study co-author Linda Polka. ‘Or maybe they are really interested in that particular
 type of sound because they are starting to focus on their own ability to make
 sounds. We are speculating here but it might catch their attention because they
-recognize it as a sound they could possibly make.'
+recognize it as a sound they could possibly make.’
 F
 In a study published in Proceedings of the National Academy of Sciences, a total
-of 57 babies from two slightly different age groups - seven months and eleven and
-a half months - were played a number of syllables from both their native language
+of 57 babies from two slightly different age groups – seven months and eleven and
+a half months – were played a number of syllables from both their native language
 (English) and a non-native tongue (Spanish). The infants were placed in a brain-
 activation scanner that recorded activity in a brain region known to guide the motor
 movements that produce speech. The results suggest that listening to baby talk
-prompts infant brains to start practicing their language skills. 'Finding activation in
+prompts infant brains to start practicing their language skills. ‘Finding activation in
 motor areas of the brain when infants are simply listening is significant, because
 it means the baby brain is engaged in trying to talk back right from the start, and
-suggests that seven-month-olds' brains are already trying to figure out how to make
-the right movements that will produce words,' says co-author Patricia Kuhl. Another
+suggests that seven-month-olds’ brains are already trying to figure out how to make
+the right movements that will produce words,’ says co-author Patricia Kuhl. Another
 interesting finding was that while the seven-month-olds responded to all speech
 sounds regardless of language, the brains of the older infants worked harder at the
 motor activations of non-native sounds compared to native sounds. The study may
@@ -2320,10 +2310,10 @@ their native language and other tongues.
 ## Page 65
 
 Test 3
-Questions 14-17
-Look at the following ideas (Questions 14-17) and the list of researchers below.
+Questions 14–17
+Look at the following ideas (Questions 14–17) and the list of researchers below.
 Match each idea with the correct researcher, A, B or C.
-Write the correct letter, A, B or C, in boxes 14-17 on your answer sheet.
+Write the correct letter, A, B or C, in boxes 14–17 on your answer sheet.
 NB You may use any letter more than once.
 14
 the importance of adults giving babies individual attention when talking to them
@@ -2338,7 +2328,7 @@ List of Researchers
 A
 Mark VanDam
 B
-Nairán Ramirez-Esparza
+Nairán Ramírez-Esparza
 C
 Patricia Kuhl
 66
@@ -2346,67 +2336,60 @@ Patricia Kuhl
 ## Page 66
 
 Reading
-Questions 18-23
+Questions 18–23
 Complete the summary below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
-Write your answers in boxes 18-23 on your answer sheet.
+Write your answers in boxes 18–23 on your answer sheet.
 Research into how parents talk to babies
-Researchers at Washington State University used 18
-, together with
+Researchers at Washington State University used 18 __________, together with
 specialised computer programs, to analyse how parents interacted with their babies
-during a normal day. The study revealed that 19
-tended not to modify
+during a normal day. The study revealed that 19 __________ tended not to modify
 their ordinary speech patterns when interacting with their babies. According to an idea
-known as the 20
-, they may use a more adult type of speech to
+known as the 20 __________, they may use a more adult type of speech to
 prepare infants for the language they will hear outside the family home. According to the
-researchers, hearing baby talk from one parent and 'normal' language from the other
-expands the baby's 21
-of types of speech which they can practise.
+researchers, hearing baby talk from one parent and ‘normal’ language from the other
+expands the baby’s 21 __________ of types of speech which they can practise.
 Meanwhile, another study carried out by scientists from the University of Washington
-and the University of Connecticut recorded speech and sound using special
-22
-that the babies were equipped with. When they studied the babies
+and the University of Connecticut recorded speech and sound using special 22 __________ that the babies were equipped with. When they studied the babies
 again at age two, they found that those who had heard a lot of baby talk in infancy had a
-much larger 23
-than those who had not.
-Questions 24-26
-Reading Passage 2 has six paragraphs, A-F.
+much larger 23 __________ than those who had not.
+Questions 24–26
+Reading Passage 2 has six paragraphs, A–F.
 Which paragraph contains the following information?
-Write the correct letter, A-F, in boxes 24-26 on your answer sheet.
+Write the correct letter, A–E, in boxes 24–26 on your answer sheet.
 24
-a reference to a change which occurs in babies' brain activity before the end of their
+a reference to a change which occurs in babies’ brain activity before the end of their
 first year
 25
-an example of what some parents do for their baby's benefit before birth
+an example of what some parents do for their baby’s benefit before birth
 26
-a mention of babies' preference for the sounds that other babies make
+a mention of babies’ preference for the sounds that other babies make
 67
 
 ## Page 67
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Whatever happened to the Harappan Civilisation?
 New research sheds light on the disappearance of an ancient society
 A
 The Harappan Civilisation of ancient Pakistan and India flourished 5,000 years
 ago, but a thousand years later their cities were abandoned. The Harappan
-Civilisation was a sophisticated Bronze Age society who built 'megacities' and
+Civilisation was a sophisticated Bronze Age society who built ‘megacities’ and
 traded internationally in luxury craft products, and yet seemed to have left almost
-no depictions of themselves. But their lack of self-imagery - at a time when the
+no depictions of themselves. But their lack of self-imagery – at a time when the
 Egyptians were carving and painting representations of themselves all over their
-temples - is only part of the mystery.
+temples – is only part of the mystery.
 B
-'There is plenty of archaeological evidence to tell us about the rise of the Harappan
-Civilisation, but relatively little about its fall,' explains archaeologist Dr Cameron
-Petrie of the University of Cambridge. 'As populations increased, cities were
+‘There is plenty of archaeological evidence to tell us about the rise of the Harappan
+Civilisation, but relatively little about its fall,’ explains archaeologist Dr Cameron
+Petrie of the University of Cambridge. ‘As populations increased, cities were
 built that had great baths, craft workshops, palaces and halls laid out in distinct
 sectors. Houses were arranged in blocks, with wide main streets and narrow
 alleyways, and many had their own wells and drainage systems. It was very much
-a "thriving" civilisation.' Then around 2100 BC, a transformation began. Streets
+a “thriving” civilisation.’ Then around 2100 BC, a transformation began. Streets
 went uncleaned, buildings started to be abandoned, and ritual structures fell out of
 use. After their final demise, a millennium passed before really large-scale cities
 appeared once more in South Asia.
@@ -2416,10 +2399,10 @@ affecting the water supply and agriculture; or that the cities could not cope wi
 increasing population, they exhausted their resource base, the trading economy
 broke down or they succumbed to invasion and conflict; and yet others that climate
 change caused an environmental change that affected food and water provision.
-'It is unlikely that there was a single cause for the decline of the civilisation. But the
+‘It is unlikely that there was a single cause for the decline of the civilisation. But the
 fact is, until now, we have had little solid evidence from the area for most of the key
-elements,' said Petrie. 'A lot of the archaeological debate has really only been well-
-argued speculation.'
+elements,’ said Petrie. ‘A lot of the archaeological debate has really only been well-
+argued speculation.’
 D
 A research team led by Petrie, together with Dr Ravindanath Singh of Banaras
 Hindu University in India, found early in their investigations that many of the
@@ -2438,28 +2421,28 @@ Over the course of several seasons of fieldwork they carried out new surveys,
 finding an astonishing 198 settlement sites that were previously unknown.
 E
 Now, research published by Dr Yama Dixit and Professor David Hodell, both
-from Cambridge's Department of Earth Sciences, has provided the first definitive
+from Cambridge’s Department of Earth Sciences, has provided the first definitive
 evidence for climate change affecting the plains of north-western India, where
 hundreds of Harappan sites are known to have been situated. The researchers
 gathered shells of Melanoides tuberculata snails from the sediments of an ancient
 lake and used geochemical analysis as a means of tracing the climate history of
-the region. 'As today, the major source of water into the lake is likely to have been
-the summer monsoon,' says Dixit. 'But we have observed that there was an abrupt
+the region. ‘As today, the major source of water into the lake is likely to have been
+the summer monsoon,’ says Dixit. ‘But we have observed that there was an abrupt
 change about 4,100 years ago, when the amount of evaporation from the lake
-exceeded the rainfall - indicative of a drought.' Hodell adds: 'We estimate that the
+exceeded the rainfall – indicative of a drought.’ Hodell adds: ‘We estimate that the
 weakening of the Indian summer monsoon climate lasted about 200 years before
-recovering to the previous conditions, which we still see today.'
+recovering to the previous conditions, which we still see today.’
 F
 It has long been thought that other great Bronze Age civilisations also declined at
 a similar time, with a global-scale climate event being seen as the cause. While it
 is possible that these local-scale processes were linked, the real archaeological
 interest lies in understanding the impact of these larger-scale events on different
-environments and different populations. 'Considering the vast area of the Harappan
-Civilisation with its variable weather systems,' explains Singh, 'it is essential that we
+environments and different populations. ‘Considering the vast area of the Harappan
+Civilisation with its variable weather systems,’ explains Singh, ‘it is essential that we
 obtain more climate data from areas close to the two great cities at Mohenjodaro
-and Harappa and also from the Indian Punjab.'
+and Harappa and also from the Indian Punjab.’
 G
-Petrie and Singh's team is now examining archaeological records and trying to
+Petrie and Singh’s team is now examining archaeological records and trying to
 understand details of how people led their lives in the region five millennia ago.
 They are analysing grains cultivated at the time, and trying to work out whether
 they were grown under extreme conditions of water stress, and whether they
@@ -2470,21 +2453,21 @@ similar across larger areas. This gives us insight into the types of interactive
 networks that the population was involved in, and whether those changed.
 H
 Petrie believes that archaeologists are in a unique position to investigate how
-past societies responded to environmental and climatic change. 'By investigating
+past societies responded to environmental and climatic change. ‘By investigating
 responses to environmental pressures and threats, we can learn from the past to
 engage with the public, and the relevant governmental and administrative bodies,
 to be more proactive in issues such as the management and administration of
 water supply, the balance of urban and rural development, and the importance of
-preserving cultural heritage in the future.'
+preserving cultural heritage in the future.’
 69
 
 ## Page 69
 
 Test 3
-Questions 27-31
-Reading Passage 3 has eight paragraphs, A-H.
+Questions 27–31
+Reading Passage 3 has eight paragraphs, A–H.
 Which paragraph contains the following information?
-Write the correct letter, A-H, in boxes 27-31 on your answer sheet.
+Write the correct letter, A–H, in boxes 27–31 on your answer sheet.
 NB You may use any letter more than once.
 27
 proposed explanations for the decline of the Harappan Civilisation
@@ -2502,35 +2485,28 @@ reference to the discovery of errors made by previous archaeologists
 ## Page 70
 
 Reading
-Questions 32-36
+Questions 32–36
 Complete the summary below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 32-36 on your answer sheet.
+Write your answers in boxes 32–36 on your answer sheet.
 Looking at evidence of climate change
 Yama Dixit and David Hodell have found the first definitive evidence of climate change
-affecting the plains of north-western India thousands of years ago. By collecting the
-32
-of snails and analysing them, they discovered evidence of a
-change in water levels in a 33
-in the region. This occurred when
-there was less 34
-than evaporation, and suggests that there was an
+affecting the plains of north-western India thousands of years ago. By collecting the 32 __________ of snails and analysing them, they discovered evidence of a
+change in water levels in a 33 __________ in the region. This occurred when
+there was less 34 __________ than evaporation, and suggests that there was an
 extended period of drought.
-Petrie and Singh's team are using archaeological records to look at 35
-from five millennia ago, in order to know whether people had adapted their agricultural
-practices to changing climatic conditions. They are also examining objects including
-36
-... , so as to find out about links between inhabitants of different parts
+Petrie and Singh’s team are using archaeological records to look at 35 __________ from five millennia ago, in order to know whether people had adapted their agricultural
+practices to changing climatic conditions. They are also examining objects including 36 __________, so as to find out about links between inhabitants of different parts
 of the region and whether these changed over time.
 71
 
 ## Page 71
 
 Test 3
-Questions 37-40
-Look at the following statements (Questions 37-40) and the list of researchers below.
+Questions 37–40
+Look at the following statements (Questions 37–40) and the list of researchers below.
 Match each statement with the correct researcher, A, B, C or D.
-Write the correct letter, A, B, C or D, in boxes 37-40 on your answer sheet.
+Write the correct letter, A, B, C or D, in boxes 37–40 on your answer sheet.
 NB You may use any letter more than once.
 37
 Finding further information about changes to environmental conditions in the region
@@ -2899,7 +2875,7 @@ Industrial workers found coffee helped them to work at 40
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Questions 1-13, which are based on Reading
+You should spend about 20 minutes on Questions 1–13, which are based on Reading
 Passage 1 below.
 Cutty Sark: the fastest sailing ship of all time
 The nineteenth century was a period of great technological development in Britain, and for
@@ -2909,16 +2885,16 @@ transport goods around the world, although some also took passengers. From the 1
 1869, when the Suez Canal opened and steam propulsion was replacing sail, clippers dominated
 world trade. Although many were built, only one has survived more or less intact: Cutty Sark,
 now on display in Greenwich, southeast London.
-Cutty Sark's unusual name comes from the poem Tam O'Shanter by the Scottish poet Robert
-Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a 'cutty sark' - an
-old Scottish name for a short nightdress. The witch is depicted in Cutty Sark's figurehead  the
-carving of a woman typically at the front of old sailing ships. In legend, and in Burns's poem,
+Cutty Sark’s unusual name comes from the poem Tam O’Shanter by the Scottish poet Robert
+Burns. Tam, a farmer, is chased by a witch called Nannie, who is wearing a ‘cutty sark’ – an
+old Scottish name for a short nightdress. The witch is depicted in Cutty Sark’s figurehead – the
+carving of a woman typically at the front of old sailing ships. In legend, and in Burns’s poem,
 witches cannot cross water, so this was a rather strange choice of name for a ship.
 Cutty Sark was built in Dumbarton, Scotland, in 1869, for a shipping company owned by John
 Willis. To carry out construction, Willis chose a new shipbuilding firm, Scott & Linton, and
 ensured that the contract with them put him in a very strong position. In the end, the firm was
 forced out of business, and the ship was finished by a competitor.
-Willis's company was active in the tea trade between China and Britain, where speed could
+Willis’s company was active in the tea trade between China and Britain, where speed could
 bring shipowners both profits and prestige, so Cutty Sark was designed to make the journey
 more quickly than any other ship. On her maiden voyage, in 1870, she set sail from London,
 carrying large amounts of goods to China. She returned laden with tea, making the journey back
@@ -2926,7 +2902,7 @@ to London in four months. However, Cutty Sark never lived up to the high expecta
 owner, as a result of bad winds and various misfortunes. On one occasion, in 1872, the ship and
 a rival clipper, Thermopylae, left port in China on the same day. Crossing the Indian Ocean,
 Cutty Sark gained a lead of over 400 miles, but then her rudder was severely damaged in stormy
-seas, making her impossible to steer. The ship's crew had the daunting task of repairing the
+seas, making her impossible to steer. The ship’s crew had the daunting task of repairing the
 rudder at sea, and only succeeded at the second attempt. Cutty Sark reached London a week after
 Thermopylae.
 82
@@ -2940,14 +2916,14 @@ had a serious impact. While steam ships could make use of the quick, direct rout
 Mediterranean and the Red Sea, the canal was of no use to sailing ships, which needed the much
 stronger winds of the oceans, and so had to sail a far greater distance. Steam ships reduced the
 journey time between Britain and China by approximately two months.
-By 1878, tea traders weren't interested in Cutty Sark, and instead, she took on the much less
+By 1878, tea traders weren’t interested in Cutty Sark, and instead, she took on the much less
 prestigious work of carrying any cargo between any two ports in the world. In 1880, violence
 aboard the ship led ultimately to the replacement of the captain with an incompetent drunkard
-who stole the crew's wages. He was suspended from service, and a new captain appointed. This
-marked a turnaround and the beginning of the most successful period in Cutty Sark's working
+who stole the crew’s wages. He was suspended from service, and a new captain appointed. This
+marked a turnaround and the beginning of the most successful period in Cutty Sark’s working
 life, transporting wool from Australia to Britain. One such journey took just under 12 weeks,
 beating every other ship sailing that year by around a month.
-The ship's next captain, Richard Woodget, was an excellent navigator, who got the best out of
+The ship’s next captain, Richard Woodget, was an excellent navigator, who got the best out of
 both his ship and his crew. As a sailing ship, Cutty Sark depended on the strong trade winds of the
 southern hemisphere, and Woodget took her further south than any previous captain, bringing her
 dangerously close to icebergs off the southern tip of South America. His gamble paid off, though,
@@ -2969,9 +2945,9 @@ Cutty Sark attracts a quarter of a million visitors a year.
 ## Page 83
 
 Test 4
-Questions 1-8
+Questions 1–8
 Do the following statements agree with the information given in Reading Passage 1?
-In boxes 1-8 on your answer sheet, write
+In boxes 1–8 on your answer sheet, write
 TRUE
 if the statement agrees with the information
 FALSE
@@ -2995,49 +2971,46 @@ and China faster than clippers.
 Steam ships sometimes used the ocean route to travel between London and China.
 8
 Captain Woodget put Cutty Sark at risk of hitting an iceberg.
-Questions 9-13
+Questions 9–13
 Complete the sentences below.
 Choose ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 9-13 on your answer sheet.
+Write your answers in boxes 9–13 on your answer sheet.
 9
-After 1880, Cutty Sark carried
-... as its main cargo during its most
+After 1880, Cutty Sark carried __________ as its main cargo during its most
 successful time.
 10
-As a captain and ..
-, Woodget was very skilled.
+As a captain and __________, Woodget was very skilled.
 11
-Fer. w..  am...t r p..e . h. ..a d .h hused.
+Ferreira went to Falmouth to repair damage that a __________ had caused.
 12
-Between 1923 and 1954, Cutty Sark was used for ..
+Between 1923 and 1954, Cutty Sark was used for __________.
 13
-Cut...... .. tury.
+Cutty Sark has twice been damaged by __________ in the 21st century.
 84
 
 ## Page 84
 
 Reading
 READING PASSAGE 2
-You should spend about 20 minutes on Questions 14-26, which are based on Reading
+You should spend about 20 minutes on Questions 14–26, which are based on Reading
 Passage 2 below.
 SAVING THE SOIL
-More than a third of the Earth's top layer is at risk. Is there hope for our planet's
+More than a third of the Earth’s top layer is at risk. Is there hope for our planet’s
 most precious resource?
 A
-More than a third of the world's soil is endangered, according to a recent UN report.
-If we don't slow the decline, all farmable soil could be gone in 60 years. Since soil
+More than a third of the world’s soil is endangered, according to a recent UN report.
+If we don’t slow the decline, all farmable soil could be gone in 60 years. Since soil
 grows 95% of our food, and sustains human life in other more surprising ways, that
 is a huge problem.
 B
 Peter Groffman, from the Cary Institute of Ecosystem Studies in New York, points
-out that soil scientists have been warning about the degradation of the world's soil
+out that soil scientists have been warning about the degradation of the world’s soil
 for decades. At the same time, our understanding of its importance to humans has
 grown. A single gram of healthy soil might contain 100 million bacteria, as well as
 other microorganisms such as viruses and fungi, living amid decomposing plants
 and various minerals.
 That means soils do not just grow our food, but are the source of nearly all our
-existing antibiotics, and could be our best hope in the fight against antibiotic-
-resistant bacteria. Soil is also an ally against climate change: as microorganisms
+existing antibiotics, and could be our best hope in the fight against antibiotic-resistant bacteria. Soil is also an ally against climate change: as microorganisms
 within soil digest dead animals and plants, they lock in their carbon content, holding
 three times the amount of carbon as does the entire atmosphere. Soils also store
 water, preventing flood damage: in the UK, damage to buildings, roads and bridges
@@ -3064,7 +3037,7 @@ putting this synthetic fertiliser on their fields ever since.
 ## Page 85
 
 Test 4
-But over the past few decades, it has become clear this wasn't such a bright idea.
+But over the past few decades, it has become clear this wasn’t such a bright idea.
 Chemical fertilisers can release polluting nitrous oxide into the atmosphere and
 excess is often washed away with the rain, releasing nitrogen into rivers. More
 recently, we have found that indiscriminate use of fertilisers hurts the soil itself,
@@ -3072,18 +3045,18 @@ turning it acidic and salty, and degrading the soil they are supposed to nourish
 E
 One of the people looking for a solution to this problem is Pius Floris, who started
 out running a tree-care business in the Netherlands, and now advises some of the
-world's top soil scientists. He came to realise that the best way to ensure his trees
+world’s top soil scientists. He came to realise that the best way to ensure his trees
 flourished was to take care of the soil, and has developed a cocktail of beneficial
 bacteria, fungi and humus* to do this. Researchers at the University of Valladolid in
 Spain recently used this cocktail on soils destroyed by years of fertiliser overuse.
-When they applied Floris's mix to the desert-like test plots, a good crop of plants
+When they applied Floris’s mix to the desert-like test plots, a good crop of plants
 emerged that were not just healthy at the surface, but had roots strong enough to
 pierce dirt as hard as rock. The few plants that grew in the control plots, fed with
 traditional fertilisers, were small and weak.
 F
 However, measures like this are not enough to solve the global soil degradation
 problem. To assess our options on a global scale we first need an accurate picture
-of what types of soil are out there, and the problems they face. That's not easy. For
+of what types of soil are out there, and the problems they face. That’s not easy. For
 one thing, there is no agreed international system for classifying soil. In an attempt
 to unify the different approaches, the UN has created the Global Soil Map project.
 Researchers from nine countries are working together to create a map linked to a
@@ -3094,9 +3067,9 @@ Within the next four years, they aim to have mapped soils worldwide to a depth o
 G
 But this is only a first step. We need ways of presenting the problem that bring
 it home to governments and the wider public, says Pamela Chasek at the
-International Institute for Sustainable Development, in Winnipeg, Canada. 'Most
-scientists don't speak language that policy-makers can understand, and vice versa.'
-Chasek and her colleagues have proposed a goal of 'zero net land degradation'.
+International Institute for Sustainable Development, in Winnipeg, Canada. ‘Most
+scientists don’t speak language that policy-makers can understand, and vice versa.’
+Chasek and her colleagues have proposed a goal of ‘zero net land degradation’.
 Like the idea of carbon neutrality, it is an easily understood target that can help
 shape expectations and encourage action.
 For soils on the brink, that may be too late. Several researchers are agitating for
@@ -3111,24 +3084,21 @@ Whatever we do, if we want our soils to survive, we need to take action now.
 ## Page 86
 
 Reading
-Questions 14-17
+Questions 14–17
 Complete the summary below.
 Write ONE WORD ONLY from the passage for each answer.
-Write your answers in boxes 14-17 on your answer sheet.
+Write your answers in boxes 14–17 on your answer sheet.
 Why soil degradation could be a disaster for humans
 Healthy soil contains a large variety of bacteria and other microorganisms, as well
-as plant remains and 14
-. It provides us with food and also with
-antibiotics, and its function in storing 15
-.. has a significant effect on the
+as plant remains and 14 __________. It provides us with food and also with
+antibiotics, and its function in storing 15 __________ has a significant effect on the
 climate. In addition, it prevents damage to property and infrastructure because it
-holds 16
+holds 16 __________.
 If these microorganisms are lost, soil may lose its special properties. The main factor
-contributing to soil degradation is the 17
-carried out by humans.
-Questions 18-21
-Complete each sentence with the correct ending, A-F, below.
-Write the correct letter, A-F, in boxes 18-21 on your answer sheet.
+contributing to soil degradation is the 17 __________ carried out by humans.
+Questions 18–21
+Complete each sentence with the correct ending, A–F, below.
+Write the correct letter, A–F, in boxes 18–21 on your answer sheet.
 18
 Nutrients contained in the unused parts of harvested crops
 19
@@ -3154,13 +3124,13 @@ may be better for use at a global level.
 ## Page 87
 
 Test 4
-Questions 22-26
-Reading Passage 2 has seven paragraphs, A-G.
+Questions 22–26
+Reading Passage 2 has seven paragraphs, A–G.
 Which section contains the following information?
-Write the correct letter, A-G, in boxes 22-26 on your answer sheet.
+Write the correct letter, A–G, in boxes 22–26 on your answer sheet.
 NB You may use any letter more than once.
 22
-a reference to one person's motivation for a soil-improvement project
+a reference to one person’s motivation for a soil-improvement project
 23
 an explanation of how soil stayed healthy before the development of farming
 24
@@ -3175,63 +3145,63 @@ a reason why it is difficult to provide an overview of soil degradation
 
 Reading
 READING PASSAGE 3
-You should spend about 20 minutes on Questions 27-40, which are based on Reading
+You should spend about 20 minutes on Questions 27–40, which are based on Reading
 Passage 3 below.
 Book Review
 The Happiness Industry: How the Government and Big Business
 Sold Us Well-Being
 By William Davies
-'Happiness is the ultimate goal because it is self-evidently good. If we are asked why
-happiness matters we can give no further external reason. It just obviously does matter.' This
-pronouncement by Richard Layard, an economist and advocate of 'positive psychology',
+‘Happiness is the ultimate goal because it is self-evidently good. If we are asked why
+happiness matters we can give no further external reason. It just obviously does matter.’ This
+pronouncement by Richard Layard, an economist and advocate of ‘positive psychology’,
 summarises the beliefs of many people today. For Layard and others like him, it is obvious that
 the purpose of government is to promote a state of collective well-being. The only question is
-how to achieve it, and here positive psychology - a supposed science that not only identifies
-what makes people happy but also allows their happiness to be measured  can show the way.
+how to achieve it, and here positive psychology – a supposed science that not only identifies
+what makes people happy but also allows their happiness to be measured – can show the way.
 Equipped with this science, they say, governments can secure happiness in society in a way they
 never could in the past.
 It is an astonishingly crude and simple-minded way of thinking, and for that very reason
 increasingly popular. Those who think in this way are oblivious to the vast philosophical
 literature in which the meaning and value of happiness have been explored and questioned,
 and write as if nothing of any importance had been thought on the subject until it came to their
-attention. It was the philosopher Jeremy Bentham (1748—1832) who was more than anyone else
+attention. It was the philosopher Jeremy Bentham (1748–1832) who was more than anyone else
 responsible for the development of this way of thinking. For Bentham it was obvious that the
 human good consists of pleasure and the absence of pain. The Greek philosopher Aristotle may
 have identified happiness with self-realisation in the 4th century BC, and thinkers throughout the
 ages may have struggled to reconcile the pursuit of happiness with other human values, but for
 Bentham all this was mere metaphysics or fiction. Without knowing anything much of him or the
-school of moral theory he established  since they are by education and intellectual conviction
-illiterate in the history of ideas - our advocates of positive psychology follow in his tracks in
+school of moral theory he established – since they are by education and intellectual conviction
+illiterate in the history of ideas – our advocates of positive psychology follow in his tracks in
 rejecting as outmoded and irrelevant pretty much the entirety of ethical reflection on human
 happiness to date.
 But as William Davies notes in his recent book The Happiness Industry, the view that happiness
 is the only self-evident good is actually a way of limiting moral inquiry. One of the virtues of
 this rich, lucid and arresting book is that it places the current cult of happiness in a well-defined
 historical framework. Rightly, Davies begins his story with Bentham, noting that he was far
-more than a philosopher. Davies writes, 'Bentham's activities were those which we might now
-associate with a public sector management consultant'. In the 1790s, he wrote to the Home Office
-suggesting that the departments of government be linked together through a set of 'conversation
-tubes' , and to the Bank of England with a design for a printing device that could produce
+more than a philosopher. Davies writes, ‘Bentham’s activities were those which we might now
+associate with a public sector management consultant’. In the 1790s, he wrote to the Home Office
+suggesting that the departments of government be linked together through a set of ‘conversation
+tubes’, and to the Bank of England with a design for a printing device that could produce
 89
 
 ## Page 89
 
 Test 4
-unforgeable banknotes. He drew up plans for a 'frigidarium' to keep provisions such as meat,
-fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a 'Panopticon',
+unforgeable banknotes. He drew up plans for a ‘frigidarium’ to keep provisions such as meat,
+fish, fruit and vegetables fresh. His celebrated design for a prison to be known as a ‘Panopticon’,
 in which prisoners would be kept in solitary confinement while being visible at all times to the
 guards, was very nearly adopted. (Surprisingly, Davies does not discuss the fact that Bentham
 meant his Panopticon not just as a model prison but also as an instrument of control that could be
 applied to schools and factories.)
-Bentham was also a pioneer of the 'science of happiness' . If happiness is to be regarded as
+Bentham was also a pioneer of the ‘science of happiness’. If happiness is to be regarded as
 a science, it has to be measured, and Bentham suggested two ways in which this might be
 done. Viewing happiness as a complex of pleasurable sensations, he suggested that it might be
 quantified by measuring the human pulse rate. Alternatively, money could be used as the standard
 for quantification: if two different goods have the same price, it can be claimed that they produce
 the same quantity of pleasure in the consumer. Bentham was more attracted by the latter measure.
-By associating money so closely to inner experience, Davies writes, Bentham 'set the stage for
+By associating money so closely to inner experience, Davies writes, Bentham ‘set the stage for
 the entangling of psychological research and capitalism that would shape the business practices
-of the twentieth century'.
+of the twentieth century’.
 The Happiness Industry describes how the project of a science of happiness has become
 integral to capitalism. We learn much that is interesting about how economic problems are
 being redefined and treated as psychological maladies. In addition, Davies shows how the
@@ -3239,30 +3209,30 @@ belief that inner states of pleasure and displeasure can be objectively measured
 management studies and advertising. The tendency of thinkers such as J B Watson, the founder
 of behaviourism*, was that human beings could be shaped, or manipulated, by policymakers and
 managers. Watson had no factual basis for his view of human action. When he became president
-of the American Psychological Association in 1915, he 'had never even studied a single human
-being': his research had been confined to experiments on white rats. Yet Watson's reductive
-model is now widely applied, with 'behaviour change' becoming the goal of governments: in
-Britain, a 'Behaviour Insights Team' has been established by the government to study how people
+of the American Psychological Association in 1915, he ‘had never even studied a single human
+being’: his research had been confined to experiments on white rats. Yet Watson’s reductive
+model is now widely applied, with ‘behaviour change’ becoming the goal of governments: in
+Britain, a ‘Behaviour Insights Team’ has been established by the government to study how people
 can be encouraged, at minimum cost to the public purse, to live in what are considered to be
 socially desirable ways.
 Modern industrial societies appear to need the possibility of ever-increasing happiness to
 motivate them in their labours. But whatever its intellectual pedigree, the idea that governments
 should be responsible for promoting happiness is always a threat to human freedom.
-* 'behaviourism': a branch of psychology which is concerned with observable behaviour
+* ‘behaviourism’: a branch of psychology which is concerned with observable behaviour
 90
 
 ## Page 90
 
 Reading
-Questions 27-29
+Questions 27–29
 Choose the correct letter, A, B, C or D.
-Write the correct letter in boxes 27-29 on your answer sheet.
+Write the correct letter in boxes 27–29 on your answer sheet.
 27
-What is the reviewer's attitude to advocates of positive psychology?
+What is the reviewer’s attitude to advocates of positive psychology?
 A
 They are wrong to reject the ideas of Bentham.
 B
-They are over-influenced by their study of Bentham's theories.
+They are over-influenced by their study of Bentham’s theories.
 C
 They have a fresh new approach to ideas on human happiness.
 D
@@ -3279,7 +3249,7 @@ is not something that should be fought for.
 D
 is not just an abstract concept.
 29
-According to Davies, Bentham's suggestion for linking the price of goods to
+According to Davies, Bentham’s suggestion for linking the price of goods to
 happiness was significant because
 A
 it was the first successful way of assessing happiness.
@@ -3294,22 +3264,17 @@ it involved consideration of the rights of consumers.
 ## Page 91
 
 Test 4
-Questions 30-34
-Complete the summary using the list of words A-G below.
-Write the correct letter, A-G, in boxes 30—34 on your answer sheet.
+Questions 30–34
+Complete the summary using the list of words A–G below.
+Write the correct letter, A–G, in boxes 30–34 on your answer sheet.
 Jeremy Bentham
 Jeremy Bentham was active in other areas besides philosophy. In the 1790s he
-suggested a type of technology to improve 30
-. for different Government
+suggested a type of technology to improve 30 __________ for different Government
 departments. He developed a new way of printing banknotes to increase
-31
-and also designed a method for the 32
-of food. He
-also drew up plans for a prison which allowed the 33
-of prisoners at all
+31 __________ and also designed a method for the 32 __________ of food. He
+also drew up plans for a prison which allowed the 33 __________ of prisoners at all
 times, and believed the same design could be used for other institutions as well. When
-researching happiness, he investigated possibilities for its 34
-, and
+researching happiness, he investigated possibilities for its 34 __________, and
 suggested some methods of doing this.
 A
 measurement
@@ -3330,24 +3295,24 @@ preservation
 ## Page 92
 
 Reading
-Questions 35-40
+Questions 35–40
 Do the following statements agree with the claims of the writer in Reading Passage 3?
-In boxes 35-40 on your answer sheet, write
+In boxes 35–40 on your answer sheet, write
 YES
 if the statement agrees with the claims of the writer
 NO
 if the statement contradicts the claims of the writer
-NOT GIvEN if it is impossible to say what the writer thinks about this
+NOT GIVEN if it is impossible to say what the writer thinks about this
 35
 One strength of The Happiness Industry is its discussion of the relationship
 between psychology and economics.
 36
 It is more difficult to measure some emotions than others.
 37
-Watson's ideas on behaviourism were supported by research on humans he carried
+Watson’s ideas on behaviourism were supported by research on humans he carried
 out before 1915.
 38
-Watson's ideas have been most influential on governments outside America.
+Watson’s ideas have been most influential on governments outside America.
 39
 The need for happiness is linked to industrialisation.
 40
@@ -4967,7 +4932,7 @@ Listening and Reading Answer Keys
 TEST 1
 READING
 Reading Passage 1,
-Questions 1-13
+Questions 1–13
 20
 E
 21
@@ -5001,7 +4966,7 @@ Reading Passage 3,
 FALSE
 9
 NOT GIVEN
-Questions 27-40
+Questions 27–40
 10
 FALSE
 27
@@ -5023,7 +4988,7 @@ A
 Reading Passage 2,
 32
 D
-Questions 14-26
+Questions 14–26
 33
 A
 34
@@ -5053,9 +5018,9 @@ iii
 40
 NO
 If you score ...
-0-16
-17-25
-26-40
+0–16
+17–25
+26–40
 you are unlikely to get an
 you may get an acceptable
 you are likely to get an
@@ -5193,114 +5158,56 @@ scores acceptable.
 Listening and Reading Answer Keys
 TEST 2
 READING
-Reading Passage 1,
-Questions 1-13
-20
-C
-21
-animals
-1
-oils
-22
-childbirth
-2
-friendship
-23
-placebo
-3
-funerals
-24
-game
-4
-wealth
-25
-strangers
-5
-indigestion
-26
-names
-6
-India
-7
-camels
-Reading Passage 3,
-8
-Alexandria
-9
-Venice
-Questions 27-40
-10
-TRUE
-27
-D
-11
-FALSE
-28
-C
-12
-NOT GIVEN
-29
-A
-13
-FALSE
-30
-D
-31
-D
-Reading Passage 2,
-32
-D
-Questions 14-26
-33
-C
-34
-B
-14
-B
-35
-A
-15
-F
-36
-C
-16
-B
-37
-A
-17
-E
-38
-B
-18
-A
-39
-C
-19
-B
-40
-D
+Reading Passage 1, Questions 1–13
+1 oils
+2 friendship
+3 funerals
+4 wealth
+5 indigestion
+6 India
+7 camels
+8 Alexandria
+9 Venice
+10 TRUE
+11 FALSE
+12 NOT GIVEN
+13 FALSE
+Reading Passage 2, Questions 14–26
+14 B
+15 F
+16 B
+17 E
+18 A
+19 B
+20 C
+21 animals
+22 childbirth
+23 placebo
+24 game
+25 strangers
+26 names
+Reading Passage 3, Questions 27–40
+27 D
+28 C
+29 A
+30 D
+31 D
+32 D
+33 C
+34 B
+35 A
+36 C
+37 A
+38 B
+39 C
+40 D
 If you score ...
-0-15
-16-23
-24-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0–15
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+16–23
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+24–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 121
 
 ## Page 121
@@ -5419,114 +5326,56 @@ scores acceptable.
 Listening and Reading Answer Keys
 TEST 3
 READING
-Reading Passage 1,
-Questions 1-13
-20
-bridge hypothesis
-21
-repertoire
-1
-furniture
-22
-(audio-recording) vests
-2
-sugar
-23
-vocabulary
-3
-ropes
-24
-F
-4
-charcoal
-25
-A
-5
-bowls
-26
-E
-6
-hormones
-7
-cosmetics
-Reading Passage 3,
-8
-dynamite
-Questions 27-40
-9
-FALSE
-10
-FALSE
-27
-C
-11
-NOT GIVEN
-28
-H
-12
-TRUE
-29
-A
-13
-NOT GIVEN
-30
-B
-31
-D
-Reading Passage 2,
-32
-shells
-Questions 14-26
-33
-lake
-34
-rainfall
-14
-B
-35
-grains
-15
-C
-36
-pottery
-16
-A
-37
-B
-17
-B
-38
-A
-18
-recording devices
-39
-D
-19
-fathers / dads
-40
-A
+Reading Passage 1, Questions 1–13
+1 furniture
+2 sugar
+3 ropes
+4 charcoal
+5 bowls
+6 hormones
+7 cosmetics
+8 dynamite
+9 FALSE
+10 FALSE
+11 NOT GIVEN
+12 TRUE
+13 NOT GIVEN
+Reading Passage 2, Questions 14–26
+14 B
+15 C
+16 A
+17 B
+18 recording devices
+19 fathers / dads
+20 bridge hypothesis
+21 repertoire
+22 (audio-recording) vests
+23 vocabulary
+24 F
+25 A
+26 E
+Reading Passage 3, Questions 27–40
+27 C
+28 H
+29 A
+30 B
+31 D
+32 shells
+33 lake
+34 rainfall
+35 grains
+36 pottery
+37 B
+38 A
+39 D
+40 A
 If you score ...
-0-16
-17-24
-25-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0–16
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+17–24
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+25–40
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 123
 
 ## Page 123
@@ -5648,110 +5497,58 @@ Listening and Reading Answer Keys
 TEST 4
 READING
 Reading Passage 1,
-20
-ADE
-21
-Questions 1-13
-22
-1
-FALSE
-23
-C
-2
-FALSE
-24
-F
-3
-TRUE
-25
-GF
-4
-TRUE
-26
-5
-FALSE
-6
-TRUE
-Reading Passage 3,
-7
-NOT GIVEN
-8
-Questions 27-40
-TRUE
-9
-wool
-27
-D
-10
-navigator
-28
-A
-11
-gale
-29
-B
-12
-training
-30
-F
-13
-fire
-31
-B
-32
-G
+Questions 1–13
+1 FALSE
+2 FALSE
+3 TRUE
+4 TRUE
+5 FALSE
+6 TRUE
+7 NOT GIVEN
+8 TRUE
+9 wool
+10 navigator
+11 gale
+12 training
+13 fire
 Reading Passage 2,
-33
-E
-Questions 14-26
-34
-A
-35
-YES
-14
-minerals
-36
-NOT GIVEN
-15
-carbon
-37
-NO
-16
-water
-38
-NOT GIVEN
-17
-agriculture
-39
-YES
-18
-C
-40
-NO
-19
-E
+Questions 14–26
+14 minerals
+15 carbon
+16 water
+17 agriculture
+18 C
+19 E
+20 A
+21 D
+22 E
+23 C
+24 F
+25 G
+26 F
+Reading Passage 3,
+Questions 27–40
+27 D
+28 A
+29 B
+30 F
+31 B
+32 G
+33 E
+34 A
+35 YES
+36 NOT GIVEN
+37 NO
+38 NOT GIVEN
+39 YES
+40 NO
 If you score ...
-0-16
-17-25
-26-40
-you are unlikely to get an
-you may get an acceptable
-you are likely to get an
-acceptable score under
-score under examination
-acceptable score under
-examination conditions and
-conditions but we recommend
-examination conditions but
-we recommend that you spend
-that you think about having
-remember that different
-a lot of time improving your
-more practice or lessons
-institutions will find different
-English before you take IELTS.
-before you take IELTS.
-scores acceptable.
+0–16
+17–25
+26–40
+you are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.
+you may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.
+you are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable.
 125
 
 ## Page 125
