@@ -1,0 +1,667 @@
+{
+  "book": 7,
+  "test": 4,
+  "passage": 2,
+  "calibrationStatus": "second_reviewer_independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-07.pdf",
+  "calibrationMethod": "Second-reviewer independent blind visual audit using data/Cambridge-IELTS-07.pdf as the sole authority. Physical pages 95-100 and 163 were freshly rendered at high resolution and checked directly against the book, item by item. Existing JSON content was treated only as untrusted material to verify and repair; no pages.json, raw.md, bank, prior intensive-reading material, recovered source, or OCR was consulted.",
+  "reviewedPhysicalPages": [95, 96, 97, 98, 99, 100, 163],
+  "boundaryPages": [
+    {
+      "physicalPage": 95,
+      "printedPage": 91,
+      "finding": "Reading Passage 1 Questions 1-13 continue through this page; Reading Passage 2 has not started."
+    },
+    {
+      "physicalPage": 100,
+      "printedPage": 96,
+      "finding": "Reading Passage 3 begins with EFFECTS OF NOISE; Reading Passage 2 ended on physical page 99."
+    }
+  ],
+  "sourcePages": [96, 97, 98, 99],
+  "sourcePrintedPages": [92, 93, 94, 95],
+  "printedPageMap": {
+    "95": 91,
+    "96": 92,
+    "97": 93,
+    "98": 94,
+    "99": 95,
+    "100": 96,
+    "163": 159
+  },
+  "passagePages": [96, 97],
+  "passagePrintedPages": [92, 93],
+  "questionPages": [98, 99],
+  "questionPrintedPages": [94, 95],
+  "answerPage": 163,
+  "answerKeyPage": 163,
+  "answerKeyPrintedPage": 159,
+  "answerKey": {
+    "section": "ACADEMIC READING - Reading Passage 2, Questions 14-26",
+    "actualPdfPhysicalPage": 163,
+    "printedPageNumber": 159,
+    "finding": "The page visibly lists Test 4 Academic Reading answers. Under Reading Passage 2, Questions 14-26, the printed sequence is FALSE, NOT GIVEN, TRUE, NOT GIVEN, TRUE, TRUE, FALSE, G, E, B, A, K, F."
+  },
+  "sectionHeading": "READING PASSAGE 2",
+  "leadInstruction": "You should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.",
+  "title": "Endless Harvest",
+  "titleLineation": ["Endless Harvest"],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": "P1",
+      "printedLabel": null,
+      "paragraphs": [
+        "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska."
+      ]
+    },
+    {
+      "label": "P2",
+      "printedLabel": null,
+      "paragraphs": [
+        "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world."
+      ]
+    },
+    {
+      "label": "P3",
+      "printedLabel": null,
+      "paragraphs": [
+        "According to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’ All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million."
+      ]
+    },
+    {
+      "label": "P4",
+      "printedLabel": null,
+      "paragraphs": [
+        "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+      ]
+    },
+    {
+      "label": "P5",
+      "printedLabel": null,
+      "paragraphs": [
+        "The primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+      ]
+    },
+    {
+      "label": "P6",
+      "printedLabel": null,
+      "paragraphs": [
+        "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others."
+      ]
+    },
+    {
+      "label": "P7",
+      "printedLabel": null,
+      "paragraphs": [
+        "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated."
+      ]
+    },
+    {
+      "label": "P8",
+      "printedLabel": null,
+      "paragraphs": [
+        "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+      ]
+    },
+    {
+      "label": "P9",
+      "printedLabel": null,
+      "paragraphs": [
+        "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+      ]
+    }
+  ],
+  "footnotes": [
+    {
+      "number": 1,
+      "marker": "*",
+      "physicalPage": 96,
+      "anchor": "spawners*",
+      "text": "spawners: fish that have released eggs"
+    },
+    {
+      "number": 2,
+      "marker": "**",
+      "physicalPage": 96,
+      "anchor": "spawn**",
+      "text": "spawn: release eggs"
+    },
+    {
+      "number": 3,
+      "marker": "***",
+      "physicalPage": 97,
+      "anchor": "(MSC)***",
+      "text": "MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national"
+    }
+  ],
+  "sentences": [
+    "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north.",
+    "The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska.",
+    "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined.",
+    "It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States.",
+    "The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs.",
+    "Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world.",
+    "According to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000.",
+    "The true cultural heart and soul of Alaska’s fisheries, however, is salmon.",
+    "‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’",
+    "The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’",
+    "All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there.",
+    "Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world.",
+    "During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.",
+    "Catches have not always been so healthy.",
+    "Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area.",
+    "With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis.",
+    "At that time, statewide harvests totalled around 25 million salmon.",
+    "Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.",
+    "The primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’.",
+    "There are biologists throughout the state constantly monitoring adult fish as they show up to spawn.",
+    "The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen.",
+    "The salmon season in Alaska is not pre-set.",
+    "The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing.",
+    "Even sport fishing can be brought to a halt.",
+    "It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered.",
+    "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery.",
+    "The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility.",
+    "The MSC has established a set of criteria by which commercial fisheries can be judged.",
+    "Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process.",
+    "The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others.",
+    "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed.",
+    "In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated.",
+    "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries.",
+    "Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen.",
+    "It could have meant the end as far as the certification process was concerned.",
+    "However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.",
+    "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification.",
+    "Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.",
+    "Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraphIndex": 1, "section": "P1", "sentenceStart": 0, "sentenceEndExclusive": 2},
+    {"paragraphIndex": 2, "section": "P2", "sentenceStart": 2, "sentenceEndExclusive": 6},
+    {"paragraphIndex": 3, "section": "P3", "sentenceStart": 6, "sentenceEndExclusive": 13},
+    {"paragraphIndex": 4, "section": "P4", "sentenceStart": 13, "sentenceEndExclusive": 18},
+    {"paragraphIndex": 5, "section": "P5", "sentenceStart": 18, "sentenceEndExclusive": 25},
+    {"paragraphIndex": 6, "section": "P6", "sentenceStart": 25, "sentenceEndExclusive": 30},
+    {"paragraphIndex": 7, "section": "P7", "sentenceStart": 30, "sentenceEndExclusive": 32},
+    {"paragraphIndex": 8, "section": "P8", "sentenceStart": 32, "sentenceEndExclusive": 36},
+    {"paragraphIndex": 9, "section": "P9", "sentenceStart": 36, "sentenceEndExclusive": 39}
+  ],
+  "sentenceClauses": [
+    {"sentence": 1, "paragraph": "P1", "physicalPages": [96], "clauses": [{"page": 96, "text": "Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific"}, {"page": 96, "text": "and learned of a land mass that lay farther to the north"}]},
+    {"sentence": 2, "paragraph": "P1", "physicalPages": [96], "clauses": [{"page": 96, "text": "The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’"}, {"page": 96, "text": "today, we know it as Alaska"}]},
+    {"sentence": 3, "paragraph": "P2", "physicalPages": [96], "clauses": [{"page": 96, "text": "Alaska is fully one-fifth the size of the mainland 48 states combined"}]},
+    {"sentence": 4, "paragraph": "P2", "physicalPages": [96], "clauses": [{"page": 96, "text": "It shares, with Canada, the second longest river system in North America"}, {"page": 96, "text": "and has over half the coastline of the United States"}]},
+    {"sentence": 5, "paragraph": "P2", "physicalPages": [96], "clauses": [{"page": 96, "text": "The rivers feed into the Bering Sea and Gulf of Alaska"}, {"page": 96, "text": "the cold, nutrient-rich waters support tens of millions of seabirds and over 400 species of fish, shellfish, crustaceans, and molluscs"}]},
+    {"sentence": 6, "paragraph": "P2", "physicalPages": [96], "clauses": [{"page": 96, "text": "Alaska’s commercial fisheries have developed into some of the largest in the world"}]},
+    {"sentence": 7, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish in 2000"}]},
+    {"sentence": 8, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "The true cultural heart and soul of Alaska’s fisheries is salmon"}]},
+    {"sentence": 9, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "Salmon pump through Alaska like blood through a heart"}, {"page": 96, "text": "bringing rhythmic, circulating nourishment to land, animals and people"}]},
+    {"sentence": 10, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "The predictable abundance of salmon allowed some native cultures to flourish"}, {"page": 96, "text": "dying spawners feed bears, eagles, other animals, and ultimately the soil itself"}]},
+    {"sentence": 11, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "All five species of Pacific salmon spawn in Alaskan waters"}, {"page": 96, "text": "90% of all Pacific salmon commercially caught in North America are produced there"}]},
+    {"sentence": 12, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "if Alaska was an independent nation"}, {"page": 96, "text": "it would be the largest producer of wild salmon in the world"}]},
+    {"sentence": 13, "paragraph": "P3", "physicalPages": [96], "clauses": [{"page": 96, "text": "commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes during 2000"}, {"page": 96, "text": "the ex-vessel value was over $US260 million"}]},
+    {"sentence": 14, "paragraph": "P4", "physicalPages": [96], "clauses": [{"page": 96, "text": "Catches have not always been so healthy"}]},
+    {"sentence": 15, "paragraph": "P4", "physicalPages": [96], "clauses": [{"page": 96, "text": "overfishing led to crashes in salmon populations between 1940 and 1959"}, {"page": 96, "text": "the crashes were so severe that in 1953 Alaska was declared a federal disaster area"}]},
+    {"sentence": 16, "paragraph": "P4", "physicalPages": [96], "clauses": [{"page": 96, "text": "the State of Alaska took over management of its own fisheries with the onset of statehood"}, {"page": 96, "text": "a state constitution mandates that Alaska’s natural resources be managed on a sustainable basis"}]},
+    {"sentence": 17, "paragraph": "P4", "physicalPages": [96], "clauses": [{"page": 96, "text": "statewide harvests totalled around 25 million salmon at that time"}]},
+    {"sentence": 18, "paragraph": "P4", "physicalPages": [96, 97], "clauses": [{"page": 96, "text": "Over the next few decades average catches steadily increased as a result of this policy of sustainable"}, {"page": 97, "text": "management, until, during the 1990s, annual harvests were well in excess of 100 million"}, {"page": 97, "text": "and on several occasions annual harvests were over 200 million fish"}]},
+    {"sentence": 19, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "The primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’"}]},
+    {"sentence": 20, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "There are biologists throughout the state constantly monitoring adult fish"}, {"page": 97, "text": "the adult fish show up to spawn"}]},
+    {"sentence": 21, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen"}]},
+    {"sentence": 22, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "The salmon season in Alaska is not pre-set"}]},
+    {"sentence": 23, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "The fishermen know the approximate time of year when they will be allowed to fish"}, {"page": 97, "text": "on any given day, one or more field biologists in a particular area can put a halt to fishing"}]},
+    {"sentence": 24, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "Even sport fishing can be brought to a halt"}]},
+    {"sentence": 25, "paragraph": "P5", "physicalPages": [97], "clauses": [{"page": 97, "text": "This management mechanism has allowed Alaska salmon stocks and Alaska salmon fisheries to prosper"}, {"page": 97, "text": "salmon populations in the rest of the United States are increasingly considered threatened or even endangered"}]},
+    {"sentence": 26, "paragraph": "P6", "physicalPages": [97], "clauses": [{"page": 97, "text": "In 1999, the Marine Stewardship Council commissioned a review of the Alaska salmon fishery"}]},
+    {"sentence": 27, "paragraph": "P6", "physicalPages": [97], "clauses": [{"page": 97, "text": "The Council was founded in 1996"}, {"page": 97, "text": "the Council certifies fisheries that meet high environmental standards"}, {"page": 97, "text": "certification enables fisheries to use a label that recognises their environmental responsibility"}]},
+    {"sentence": 28, "paragraph": "P6", "physicalPages": [97], "clauses": [{"page": 97, "text": "The MSC has established a set of criteria by which commercial fisheries can be judged"}]},
+    {"sentence": 29, "paragraph": "P6", "physicalPages": [97], "clauses": [{"page": 97, "text": "fisheries recognise the potential benefits of being identified as environmentally responsible"}, {"page": 97, "text": "fisheries approach the Council requesting to undergo the certification process"}]},
+    {"sentence": 30, "paragraph": "P6", "physicalPages": [97], "clauses": [{"page": 97, "text": "The MSC then appoints a certification committee composed of a panel of fisheries experts"}, {"page": 97, "text": "the committee gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others"}]},
+    {"sentence": 31, "paragraph": "P7", "physicalPages": [97], "clauses": [{"page": 97, "text": "Some observers thought the Alaska salmon fisheries would not have any chance of certification"}, {"page": 97, "text": "salmon runs throughout western Alaska completely collapsed in the months leading up to MSC’s final decision"}]},
+    {"sentence": 32, "paragraph": "P7", "physicalPages": [97], "clauses": [{"page": 97, "text": "In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood"}, {"page": 97, "text": "subsistence communities throughout the region were devastated"}, {"page": 97, "text": "those communities normally have priority over commercial fishing"}]},
+    {"sentence": 33, "paragraph": "P8", "physicalPages": [97], "clauses": [{"page": 97, "text": "The crisis was completely unexpected"}, {"page": 97, "text": "researchers believe it had nothing to do with impacts of fisheries"}]},
+    {"sentence": 34, "paragraph": "P8", "physicalPages": [97], "clauses": [{"page": 97, "text": "researchers contend that the crisis was almost certainly the result of climatic shifts"}, {"page": 97, "text": "the shifts were prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures"}, {"page": 97, "text": "the sequence culminated in a harsh winter in which huge numbers of salmon eggs were frozen"}]},
+    {"sentence": 35, "paragraph": "P8", "physicalPages": [97], "clauses": [{"page": 97, "text": "It could have meant the end as far as the certification process was concerned"}]},
+    {"sentence": 36, "paragraph": "P8", "physicalPages": [97], "clauses": [{"page": 97, "text": "the state reacted quickly"}, {"page": 97, "text": "the state closed down all fisheries, even those necessary for subsistence purposes"}]},
+    {"sentence": 37, "paragraph": "P9", "physicalPages": [97], "clauses": [{"page": 97, "text": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification"}]},
+    {"sentence": 38, "paragraph": "P9", "physicalPages": [97], "clauses": [{"page": 97, "text": "Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products"}]},
+    {"sentence": 39, "paragraph": "P9", "physicalPages": [97], "clauses": [{"page": 97, "text": "Certification is for an initial period of five years"}, {"page": 97, "text": "an annual review ensures that the fishery is continuing to meet the required standards"}]}
+  ],
+  "typography": {
+    "bodyStructure": "Nine unnumbered body paragraphs. Editorial labels P1-P9 are supplied only for integration and evidence mapping; no paragraph letters or numbers are printed in the source. P4 crosses the page boundary from physical 96 to 97 after the word ‘sustainable’.",
+    "semanticItalics": [
+      "The Great Alaska Nature Factbook",
+      "el niño/la niña"
+    ],
+    "questionItalics": [
+      "Questions 14-20",
+      "Do the following statements agree with the information given in Reading Passage 2?",
+      "In boxes 14-20 on your answer sheet, write",
+      "TRUE / FALSE / NOT GIVEN definitions",
+      "Questions 21-26",
+      "Complete each sentence with the correct ending, A-K, below.",
+      "Write the correct letter, A-K, in boxes 21-26 on your answer sheet."
+    ],
+    "quotation": "Curly single quotation marks are used for Aleyska’s gloss, the Susan Ewing quotations, and the name ‘In-Season Abundance-Based Management’.",
+    "dashes": "The source uses spaced long dashes for apposition and parenthesis, including the Gulf of Alaska description, the five-species list, and the interruption around ‘and, accordingly, Alaska salmon fisheries’. ASCII hyphens are retained in machine-facing transcription fields for compatibility.",
+    "numbersAndUnits": [
+      "two hundred years",
+      "1959",
+      "one-fifth",
+      "48 states",
+      "over 400 species",
+      "2000",
+      "90%",
+      "320,000 tonnes",
+      "$US260 million",
+      "1940 and 1959",
+      "1953",
+      "25 million salmon",
+      "1990s",
+      "100 million",
+      "200 million fish",
+      "1996",
+      "1999",
+      "September 2000",
+      "five years",
+      "seven companies"
+    ],
+    "superscripts": ["spawners*", "spawn**", "(MSC)***"]
+  },
+  "questionGroups": [
+    {
+      "range": "14-20",
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "sourcePages": [98],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 2?",
+        "In boxes 14-20 on your answer sheet, write",
+        "TRUE if the statement agrees with the information",
+        "FALSE if the statement contradicts the information",
+        "NOT GIVEN if there is no information on this"
+      ],
+      "options": {
+        "TRUE": "if the statement agrees with the information",
+        "FALSE": "if the statement contradicts the information",
+        "NOT GIVEN": "if there is no information on this"
+      },
+      "prompts": {
+        "14": "The inhabitants of the Aleutian islands renamed their islands ‘Aleyska’.",
+        "15": "Alaska’s fisheries are owned by some of the world’s largest companies.",
+        "16": "Life in Alaska is dependent on salmon.",
+        "17": "Ninety per cent of all Pacific salmon caught are sockeye or pink salmon.",
+        "18": "More than 320,000 tonnes of salmon were caught in Alaska in 2000.",
+        "19": "Between 1940 and 1959, there was a sharp decrease in Alaska’s salmon population.",
+        "20": "During the 1990s, the average number of salmon caught each year was 100 million."
+      },
+      "example": null
+    },
+    {
+      "range": "21-26",
+      "type": "MATCHING_SENTENCE_ENDINGS",
+      "sourcePages": [99],
+      "instructions": [
+        "Complete each sentence with the correct ending, A-K, below.",
+        "Write the correct letter, A-K, in boxes 21-26 on your answer sheet."
+      ],
+      "prompts": {
+        "21": "In Alaska, biologists keep a check on adult fish",
+        "22": "Biologists have the authority",
+        "23": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries",
+        "24": "The Marine Stewardship Council (MSC) was established",
+        "25": "As a result of the collapse of the salmon runs in 1999, the state decided",
+        "26": "In September 2000, the MSC allowed seven Alaska salmon companies"
+      },
+      "options": {
+        "A": "to recognise fisheries that care for the environment.",
+        "B": "to be successful.",
+        "C": "to stop fish from spawning.",
+        "D": "to set up environmental protection laws.",
+        "E": "to stop people fishing for sport.",
+        "F": "to label their products using the MSC logo.",
+        "G": "to ensure that fish numbers are sufficient to permit fishing.",
+        "H": "to assist the subsistence communities in the region.",
+        "I": "to freeze a huge number of salmon eggs.",
+        "J": "to deny certification to the Alaska fisheries.",
+        "K": "to close down all fisheries."
+      },
+      "example": null
+    }
+  ],
+  "answers": {
+    "14": "FALSE",
+    "15": "NOT GIVEN",
+    "16": "TRUE",
+    "17": "NOT GIVEN",
+    "18": "TRUE",
+    "19": "TRUE",
+    "20": "FALSE",
+    "21": "G",
+    "22": "E",
+    "23": "B",
+    "24": "A",
+    "25": "K",
+    "26": "F"
+  },
+  "acceptedForms": {
+    "14": ["FALSE"],
+    "15": ["NOT GIVEN"],
+    "16": ["TRUE"],
+    "17": ["NOT GIVEN"],
+    "18": ["TRUE"],
+    "19": ["TRUE"],
+    "20": ["FALSE"],
+    "21": ["G"],
+    "22": ["E"],
+    "23": ["B"],
+    "24": ["A"],
+    "25": ["K"],
+    "26": ["F"]
+  },
+  "officialAnswerSequence": ["FALSE", "NOT GIVEN", "TRUE", "NOT GIVEN", "TRUE", "TRUE", "FALSE", "G", "E", "B", "A", "K", "F"],
+  "answerEvidence": [
+    {
+      "number": 14,
+      "answer": "FALSE",
+      "section": "P1",
+      "evidence": "The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska.",
+      "reason": "The inhabitants named the northern land mass Aleyska; they did not rename their own Aleutian islands.",
+      "distractors": {
+        "TRUE": "The source changes both the object and the action: Aleyska names a land mass, not the inhabitants’ islands, and the text says ‘called’, not ‘renamed’.",
+        "NOT GIVEN": "The relevant naming event and named object are explicitly stated, so this is a contradiction rather than missing information."
+      }
+    },
+    {
+      "number": 15,
+      "answer": "NOT GIVEN",
+      "section": "P2/P3/P9",
+      "evidence": "The passage states that Alaska’s commercial fisheries are among the largest in the world and later mentions seven companies producing Alaska salmon, but gives no ownership information.",
+      "reason": "No sentence identifies who owns Alaska’s fisheries or the size of any owner companies.",
+      "distractors": {
+        "TRUE": "‘Some of the largest in the world’ describes the fisheries, not companies that own them; the seven producers are not described as owners or globally large.",
+        "FALSE": "The passage never states that the fisheries are not owned by large companies, so the proposition is not contradicted either."
+      }
+    },
+    {
+      "number": 16,
+      "answer": "TRUE",
+      "section": "P3",
+      "evidence": "The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’",
+      "reason": "The passage explicitly depicts salmon as sustaining Alaska’s people, animals, land, and native cultures.",
+      "distractors": {
+        "FALSE": "The cited material supports dependence and nourishment; it does not deny salmon’s importance to life in Alaska.",
+        "NOT GIVEN": "The role of salmon in sustaining land, animals, people, and cultures is directly described."
+      }
+    },
+    {
+      "number": 17,
+      "answer": "NOT GIVEN",
+      "section": "P3",
+      "evidence": "All five species of Pacific salmon - chinook, chum, coho, sockeye and pink - are listed. The separate 90% figure concerns the proportion of North America’s commercially caught Pacific salmon that is produced in Alaska.",
+      "reason": "No distribution by salmon species is supplied, so the combined share of sockeye and pink cannot be determined.",
+      "distractors": {
+        "TRUE": "The 90% statistic is geographic production, not a species composition statistic; it cannot support sockeye plus pink equalling 90%.",
+        "FALSE": "The passage gives no alternative percentage for sockeye and pink, so it does not contradict the claimed proportion."
+      }
+    },
+    {
+      "number": 18,
+      "answer": "TRUE",
+      "section": "P3",
+      "evidence": "During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.",
+      "reason": "‘Exceeded 320,000 tonnes’ directly means more than 320,000 tonnes were caught in Alaska in 2000.",
+      "distractors": {
+        "FALSE": "The source uses ‘exceeded’, so ‘more than’ is not contradicted.",
+        "NOT GIVEN": "The species group, location, year, and amount are all explicitly supplied."
+      }
+    },
+    {
+      "number": 19,
+      "answer": "TRUE",
+      "section": "P4",
+      "evidence": "Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area.",
+      "reason": "Severe population crashes are a sharp decrease over the stated period.",
+      "distractors": {
+        "FALSE": "The passage reports severe crashes, not stability or an increase.",
+        "NOT GIVEN": "Both the time span and the population collapse are expressly stated."
+      }
+    },
+    {
+      "number": 20,
+      "answer": "FALSE",
+      "section": "P4",
+      "evidence": "During the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.",
+      "reason": "The annual catches were well above 100 million, whereas the statement fixes the average at 100 million.",
+      "distractors": {
+        "TRUE": "‘Well in excess of 100 million’ contradicts an average of exactly 100 million; several years also exceeded 200 million.",
+        "NOT GIVEN": "The passage directly characterises annual harvest levels during the 1990s, so the comparison is possible."
+      }
+    },
+    {
+      "number": 21,
+      "answer": "G",
+      "section": "P5",
+      "evidence": "There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing.",
+      "reason": "Monitoring abundance allows biologists to permit fishing only when fish numbers support it.",
+      "distractors": {
+        "A": "Recognising environmentally responsible fisheries is the MSC certification role in P6, not the purpose of biologists checking adult fish.",
+        "B": "Success is the result for fisheries under the management system in Q23, not the immediate purpose of checking adult fish.",
+        "C": "The fish are monitored as they arrive to spawn; the passage does not say biologists try to prevent spawning.",
+        "D": "No environmental protection laws are set up by these biologists.",
+        "E": "Stopping sport fishing is an authority biologists possess in Q22, not the purpose expressed by Q21’s ‘keep a check’ construction.",
+        "F": "MSC-logo labelling is granted to companies in P9 and is unrelated to adult-fish monitoring.",
+        "H": "Subsistence communities are discussed during the collapse, but monitoring is not said to assist them.",
+        "I": "Eggs were frozen by a harsh winter, not by biologists monitoring adult fish.",
+        "J": "Certification was feared to be at risk, but adult-fish checks are not performed to deny certification.",
+        "K": "Closing all fisheries was the state’s emergency response in 1999, not the normal purpose of checking adult fish."
+      }
+    },
+    {
+      "number": 22,
+      "answer": "E",
+      "section": "P5",
+      "evidence": "One or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt.",
+      "reason": "The text explicitly gives field biologists authority to halt fishing, including sport fishing.",
+      "distractors": {
+        "A": "Recognition of environmentally responsible fisheries belongs to the MSC, not to field biologists’ authority.",
+        "B": "Biologists can regulate fishing; the passage does not give them an abstract authority ‘to be successful’.",
+        "C": "Biologists monitor fish arriving to spawn and are not authorised to stop the fish from spawning.",
+        "D": "The passage gives no law-making authority to biologists.",
+        "F": "Permission to use the MSC logo is granted by the MSC to companies, not by biologists.",
+        "G": "Ensuring sufficient fish numbers describes why abundance is monitored in Q21; it is not the specific authority completed by Q22.",
+        "H": "No authority to assist subsistence communities is stated.",
+        "I": "The freezing of eggs is attributed to climatic conditions, not to biological authority.",
+        "J": "Certification decisions are made through the MSC process, not by field biologists.",
+        "K": "The state closed all fisheries during the crisis; ordinary field biologists can halt fishing in a particular area, so the universal state action is not their stated authority."
+      }
+    },
+    {
+      "number": 23,
+      "answer": "B",
+      "section": "P5",
+      "evidence": "It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper.",
+      "reason": "‘To prosper’ directly matches ‘to be successful’.",
+      "distractors": {
+        "A": "Environmental recognition is the MSC’s certification purpose, not the result attributed to abundance-based management.",
+        "C": "The system protects spawning stocks; it is not said to stop fish spawning.",
+        "D": "The mechanism operates through monitoring and fishing closures, not by setting up environmental laws.",
+        "E": "Sport fishing can be halted as one regulatory action, but this is not the overall outcome the system has allowed the fisheries to achieve.",
+        "F": "MSC-logo labelling follows certification and is unrelated to the result of abundance-based management.",
+        "G": "Sufficient abundance is the condition used to decide when fishing is permitted, not the grammatical result ‘has allowed the fisheries’ in Q23.",
+        "H": "No assistance to subsistence communities is identified as the management system’s result.",
+        "I": "Egg freezing was caused by a harsh winter, not by the management system.",
+        "J": "The passage ultimately reports certification, not denial caused by the management system.",
+        "K": "A complete closure was an emergency response to the 1999 collapse, not the long-term result of the management mechanism."
+      }
+    },
+    {
+      "number": 24,
+      "answer": "A",
+      "section": "P6",
+      "evidence": "The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility.",
+      "reason": "The MSC was founded to certify and thereby recognise fisheries meeting environmental standards.",
+      "distractors": {
+        "B": "The text does not say the MSC was established so that the Council itself could be successful.",
+        "C": "The MSC certifies fisheries; it does not stop fish spawning.",
+        "D": "The MSC establishes certification criteria, not environmental protection laws.",
+        "E": "Stopping sport fishing is an Alaskan field-management power, not the MSC’s founding purpose.",
+        "F": "Logo use is a benefit granted to certified companies; the broader founding purpose is recognising environmentally responsible fisheries.",
+        "G": "Monitoring sufficient fish numbers belongs to Alaska’s in-season management, not the MSC’s establishment.",
+        "H": "The MSC is not said to have been established to assist regional subsistence communities.",
+        "I": "Climatic conditions froze salmon eggs; this is unrelated to why the MSC was established.",
+        "J": "The Council certifies qualifying fisheries and did certify Alaska; denial is not its stated founding purpose.",
+        "K": "The state, not the MSC, closed all fisheries during the crisis."
+      }
+    },
+    {
+      "number": 25,
+      "answer": "K",
+      "section": "P7/P8",
+      "evidence": "Salmon runs throughout western Alaska completely collapsed. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.",
+      "reason": "The state’s direct response to the collapse was to close every fishery.",
+      "distractors": {
+        "A": "Recognition of environmentally responsible fisheries is the MSC’s certification function, not the state’s response to the collapse.",
+        "B": "The collapse devastated communities; the state did not decide simply ‘to be successful’.",
+        "C": "The state closed fishing operations, not fish spawning.",
+        "D": "No new environmental protection laws are reported as the response.",
+        "E": "The closure included sport, commercial, and subsistence fishing; limiting the answer to sport fishing is too narrow.",
+        "F": "Logo permission was later granted by the MSC to seven companies, not decided by the state as its crisis response.",
+        "G": "Abundance monitoring is the regular management mechanism, while the stated 1999 response was complete closure.",
+        "H": "Subsistence communities were devastated, but the state also closed fisheries necessary for subsistence rather than deciding to assist them through continued fishing.",
+        "I": "A harsh winter froze the eggs; the state did not decide to freeze them.",
+        "J": "The state’s closure could have affected certification, but the passage does not say the state decided to deny certification."
+      }
+    },
+    {
+      "number": 26,
+      "answer": "F",
+      "section": "P9",
+      "evidence": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products.",
+      "reason": "Displaying the MSC logo on products is equivalent to labelling those products with the logo.",
+      "distractors": {
+        "A": "The MSC recognises qualifying fisheries generally, but the specific permission given to the seven companies was to display the logo on products.",
+        "B": "The companies were granted logo permission, not an undefined permission ‘to be successful’.",
+        "C": "Nothing authorises the companies to stop salmon spawning.",
+        "D": "The companies were not authorised to create environmental protection laws.",
+        "E": "Stopping sport fishing is a field-management action and was not granted to the seven companies.",
+        "G": "Monitoring fish numbers is performed by biologists and is not a permission granted to salmon companies.",
+        "H": "The companies were not tasked with assisting subsistence communities.",
+        "I": "Egg freezing resulted from climate and is unrelated to the companies’ certification.",
+        "J": "The fisheries qualified for certification, the opposite of being allowed to deny it.",
+        "K": "Closing fisheries was the state’s earlier emergency action, not a power granted to the companies."
+      }
+    }
+  ],
+  "rawPages": {
+    "96": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nEndless Harvest\n\n[Contextual photograph of an Alaska fishery display; decorative, not required to answer Questions 14-26.]\n\nMore than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska.\n\nThe forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world.\n\nAccording to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’ All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.\n\nCatches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable\n\n* spawners: fish that have released eggs\n** spawn: release eggs",
+    "97": "P4 continued\nmanagement, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.\n\nThe primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered.\n\nIn 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others.\n\nSome observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated.\n\nThe crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.\n\nIn September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards.\n\n*** MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national",
+    "98": "Questions 14-20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n\n14 The inhabitants of the Aleutian islands renamed their islands ‘Aleyska’.\n15 Alaska’s fisheries are owned by some of the world’s largest companies.\n16 Life in Alaska is dependent on salmon.\n17 Ninety per cent of all Pacific salmon caught are sockeye or pink salmon.\n18 More than 320,000 tonnes of salmon were caught in Alaska in 2000.\n19 Between 1940 and 1959, there was a sharp decrease in Alaska’s salmon population.\n20 During the 1990s, the average number of salmon caught each year was 100 million.",
+    "99": "Questions 21-26\nComplete each sentence with the correct ending, A-K, below.\nWrite the correct letter, A-K, in boxes 21-26 on your answer sheet.\n\n21 In Alaska, biologists keep a check on adult fish\n22 Biologists have the authority\n23 In-Season Abundance-Based Management has allowed the Alaska salmon fisheries\n24 The Marine Stewardship Council (MSC) was established\n25 As a result of the collapse of the salmon runs in 1999, the state decided\n26 In September 2000, the MSC allowed seven Alaska salmon companies\n\nA to recognise fisheries that care for the environment.\nB to be successful.\nC to stop fish from spawning.\nD to set up environmental protection laws.\nE to stop people fishing for sport.\nF to label their products using the MSC logo.\nG to ensure that fish numbers are sufficient to permit fishing.\nH to assist the subsistence communities in the region.\nI to freeze a huge number of salmon eggs.\nJ to deny certification to the Alaska fisheries.\nK to close down all fisheries.",
+    "163": "ACADEMIC READING\nReading Passage 2, Questions 14-26\n14 FALSE\n15 NOT GIVEN\n16 TRUE\n17 NOT GIVEN\n18 TRUE\n19 TRUE\n20 FALSE\n21 G\n22 E\n23 B\n24 A\n25 K\n26 F"
+  },
+  "sourceAudit": {
+    "type": "second-reviewer original-book blind visual calibration",
+    "reviewerRole": "second independent reviewer",
+    "authority": "data/Cambridge-IELTS-07.pdf only",
+    "reviewedPhysicalPages": [95, 96, 97, 98, 99, 100, 163],
+    "pageResponsibilities": {
+      "95": "Left boundary: Reading Passage 1 Questions 1-13; no Passage 2 content.",
+      "96": "Reading Passage 2 heading, timing instruction, title, decorative photograph, body P1-P4 start, footnotes * and **.",
+      "97": "P4 continuation, body P5-P9, footnote ***; article ends.",
+      "98": "Questions 14-20 instructions, TRUE/FALSE/NOT GIVEN definitions, and seven statements.",
+      "99": "Questions 21-26 instructions, six sentence stems, and endings A-K.",
+      "100": "Right boundary: Reading Passage 3 begins; no Passage 2 content.",
+      "163": "Official Test 4 Academic Reading answer key; Passage 2 answers 14-26 verified."
+    },
+    "pageTransitions": [
+      "95->96: Reading Passage 1 questions end; Reading Passage 2 begins.",
+      "96->97: P4 sentence 18 crosses the page after ‘this policy of sustainable’ and resumes with ‘management, until’. Footnotes * and ** remain on page 96.",
+      "97->98: Article and footnote *** end; Questions 14-20 begin.",
+      "98->99: TRUE/FALSE/NOT GIVEN set ends; matching sentence endings set begins.",
+      "99->100: Reading Passage 2 ends; Reading Passage 3 begins."
+    ],
+    "columnTransitions": [],
+    "blindAuditResult": {
+      "contentFinding": "Physical 96-99 contain the complete Passage 2 article and Questions 14-26. Physical 163 contains the official answers. Boundary pages 95 and 100 contain only adjacent passages.",
+      "repair": "Re-audited the existing artifact as untrusted data against the original-book PDF, then directly repaired reviewer provenance, exact instruction lineation, Q21 evidence continuity, evidence-count claims, numeric-format wording, and the non-semantic photograph record.",
+      "sharedSourcesConsulted": false
+    }
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "reason": "The uncaptioned photograph on physical page 96 is decorative/contextual only. It contains no labels, values, routes, answer choices, or relationships needed to answer Questions 14-26.",
+    "images": [
+      {
+        "id": "p96-fishery-photograph",
+        "physicalPage": 96,
+        "printedPage": 92,
+        "purpose": "decorative/contextual",
+        "caption": "Uncaptioned monochrome decorative photograph associated with the Endless Harvest title.",
+        "cropPdfPoints": {"left": 60, "top": 174, "right": 203, "bottom": 284},
+        "cropPolicy": "Do not extract for semantic integration; retain only as a source-layout record.",
+        "outputPathSuggestion": null
+      }
+    ]
+  },
+  "images": [
+    {
+      "id": "p96-fishery-photograph",
+      "physicalPage": 96,
+      "printedPage": 92,
+      "semantic": false,
+      "questionRange": null,
+      "caption": "Uncaptioned monochrome photograph; recorded for source layout but decorative/contextual and non-semantic.",
+      "cropPdfPoints": [60, 174, 203, 284],
+      "outputPathSuggestion": null
+    }
+  ],
+  "selfCheck": {
+    "jsonParse": "passed",
+    "sourcePageCount": 4,
+    "passagePageCount": 2,
+    "questionPageCount": 2,
+    "bodyParagraphCount": 9,
+    "sentenceCount": 39,
+    "sentenceReconstruction": "39 sentences map exactly across P1-P9; sentence 18 is the only sentence crossing a physical-page boundary (96->97).",
+    "questionCount": 13,
+    "questionNumbers": "14-26 continuous",
+    "officialAnswerCount": 13,
+    "officialAnswerSequenceMatchesPhysicalPage163": true,
+    "trueFalseNotGivenWrongJudgmentsCovered": 14,
+    "sentenceEndingWrongOptionsCovered": 60,
+    "explicitWrongOptionDistractorCount": 74,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 10,
+    "multiSpanEvidenceCount": 1,
+    "notGivenAbsenceEvidenceCount": 2,
+    "rawPagesEqualPages": true,
+    "acceptedFormsVerified": true,
+    "sourceImageCount": 1,
+    "semanticImagesRequired": false,
+    "semanticImageCount": 0,
+    "sharedFilesModified": false,
+    "evidenceValidation": "Every question has direct passage evidence or an explicit absence audit for NOT GIVEN. Ten answers use contiguous evidence; Q25 necessarily links the collapse statement to the later state response in the same crisis account. Every wrong judgment or ending has an independent exclusion reason.",
+    "semanticImageCropVisualCheck": "The only source image was visually inspected at high resolution and judged non-semantic."
+  },
+  "bodyParagraphs": [
+    "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska.",
+    "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world.",
+    "According to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’ All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.",
+    "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.",
+    "The primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered.",
+    "In 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others.",
+    "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated.",
+    "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.",
+    "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+  ],
+  "pages": {
+    "96": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14-26, which are based on Reading Passage 2 below.\n\nEndless Harvest\n\n[Contextual photograph of an Alaska fishery display; decorative, not required to answer Questions 14-26.]\n\nMore than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska.\n\nThe forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world.\n\nAccording to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners* feed bears, eagles, other animals, and ultimately the soil itself.’ All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn** in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US260 million.\n\nCatches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable\n\n* spawners: fish that have released eggs\n** spawn: release eggs",
+    "97": "P4 continued\nmanagement, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish.\n\nThe primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries - to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered.\n\nIn 1999, the Marine Stewardship Council (MSC)*** commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others.\n\nSome observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated.\n\nThe crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes.\n\nIn September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards.\n\n*** MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national",
+    "98": "Questions 14-20\nDo the following statements agree with the information given in Reading Passage 2?\nIn boxes 14-20 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n\n14 The inhabitants of the Aleutian islands renamed their islands ‘Aleyska’.\n15 Alaska’s fisheries are owned by some of the world’s largest companies.\n16 Life in Alaska is dependent on salmon.\n17 Ninety per cent of all Pacific salmon caught are sockeye or pink salmon.\n18 More than 320,000 tonnes of salmon were caught in Alaska in 2000.\n19 Between 1940 and 1959, there was a sharp decrease in Alaska’s salmon population.\n20 During the 1990s, the average number of salmon caught each year was 100 million.",
+    "99": "Questions 21-26\nComplete each sentence with the correct ending, A-K, below.\nWrite the correct letter, A-K, in boxes 21-26 on your answer sheet.\n\n21 In Alaska, biologists keep a check on adult fish\n22 Biologists have the authority\n23 In-Season Abundance-Based Management has allowed the Alaska salmon fisheries\n24 The Marine Stewardship Council (MSC) was established\n25 As a result of the collapse of the salmon runs in 1999, the state decided\n26 In September 2000, the MSC allowed seven Alaska salmon companies\n\nA to recognise fisheries that care for the environment.\nB to be successful.\nC to stop fish from spawning.\nD to set up environmental protection laws.\nE to stop people fishing for sport.\nF to label their products using the MSC logo.\nG to ensure that fish numbers are sufficient to permit fishing.\nH to assist the subsistence communities in the region.\nI to freeze a huge number of salmon eggs.\nJ to deny certification to the Alaska fisheries.\nK to close down all fisheries.",
+    "163": "ACADEMIC READING\nReading Passage 2, Questions 14-26\n14 FALSE\n15 NOT GIVEN\n16 TRUE\n17 NOT GIVEN\n18 TRUE\n19 TRUE\n20 FALSE\n21 G\n22 E\n23 B\n24 A\n25 K\n26 F"
+  }
+}

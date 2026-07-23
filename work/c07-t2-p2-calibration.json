@@ -1,0 +1,531 @@
+{
+  "book": 7,
+  "test": 2,
+  "passage": 2,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-07.pdf",
+  "calibrationMethod": "Independent visual transcription from the original book PDF only. Physical pages 47–52 were inspected to establish both boundaries; physical pages 48–51 were reread strip by strip for the complete passage and questions; physical page 159 was independently identified as the Test 2 Academic Reading answer page. Existing intensive-reading files, recovered text, OCR, pages.json, raw.md and bank data were not used as source evidence.",
+  "reviewedPhysicalPages": [47, 48, 49, 50, 51, 52, 159],
+  "boundaryPages": [
+    {
+      "physicalPage": 47,
+      "finding": "Physical page 47 contains the end of Reading Passage 1 questions only. Reading Passage 2 begins on physical page 48."
+    },
+    {
+      "physicalPage": 52,
+      "finding": "Physical page 52 begins Reading Passage 3. Reading Passage 2 ends on physical page 51."
+    }
+  ],
+  "sourcePages": [48, 49, 50, 51],
+  "sourcePrintedPages": [44, 45, 46, 47],
+  "printedPageMap": {
+    "48": 44,
+    "49": 45,
+    "50": 46,
+    "51": 47,
+    "159": 155
+  },
+  "passagePages": [48, 49],
+  "passagePrintedPages": [44, 45],
+  "questionPages": [50, 51],
+  "questionPrintedPages": [46, 47],
+  "answerPage": 159,
+  "answerKeyPage": 159,
+  "answerKeyPrintedPage": 155,
+  "answerKey": {
+    "section": "ACADEMIC READING",
+    "actualPdfPhysicalPage": 159,
+    "printedPageNumber": 155,
+    "finding": "Physical page 159, printed page 155, contains the Test 2 Academic Reading answer key, including the complete Reading Passage 2, Questions 14–26 sequence."
+  },
+  "sectionHeading": "READING PASSAGE 2",
+  "leadInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+  "title": "The True Cost of Food",
+  "titleLineation": ["The True Cost of Food"],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": "A",
+      "paragraphs": [
+        "For more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture."
+      ]
+    },
+    {
+      "label": "B",
+      "paragraphs": [
+        "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off."
+      ]
+    },
+    {
+      "label": "C",
+      "paragraphs": [
+        "Put it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren’t paying for it, are they?"
+      ]
+    },
+    {
+      "label": "D",
+      "paragraphs": [
+        "But the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world’s leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate."
+      ]
+    },
+    {
+      "label": "E",
+      "paragraphs": [
+        "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind."
+      ]
+    },
+    {
+      "label": "F",
+      "paragraphs": [
+        "So can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals."
+      ]
+    },
+    {
+      "label": "G",
+      "paragraphs": [
+        "But if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture."
+      ]
+    }
+  ],
+  "footnotes": [],
+  "bodyParagraphs": [
+    "For more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture.",
+    "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off.",
+    "Put it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren’t paying for it, are they?",
+    "But the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world’s leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate.",
+    "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind.",
+    "So can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals.",
+    "But if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture."
+  ],
+  "sentences": [
+    "For more than forty years the cost of food has been rising.",
+    "It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century.",
+    "That cost, however, is not in immediate cash.",
+    "In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960.",
+    "The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture.",
+    "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared.",
+    "But the damage it has caused has been colossal.",
+    "In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects.",
+    "This is a direct result of the way we have produced our food in the last four decades.",
+    "Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape.",
+    "The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland.",
+    "Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off.",
+    "Put it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table.",
+    "That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers.",
+    "To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money.",
+    "And anyway they, as consumers of food, certainly aren’t paying for it, are they?",
+    "But the costs to society can actually be quantified and, when added up, can amount to staggering sums.",
+    "A remarkable exercise in doing this has been carried out by one of the world’s leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex.",
+    "Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year.",
+    "They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m.",
+    "This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year.",
+    "And according to Professor Pretty, it was a conservative estimate.",
+    "The costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease.",
+    "Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold.",
+    "We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind.",
+    "So can the true cost of food be brought down?",
+    "Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible.",
+    "The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals.",
+    "But if industrial agriculture is to be replaced, what is a viable alternative?",
+    "Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers.",
+    "Furthermore, the price premium would put the produce out of reach of many poorer consumers.",
+    "He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production.",
+    "Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health.",
+    "It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraphIndex": 0, "section": "A", "sentenceStart": 0, "sentenceEndExclusive": 5},
+    {"paragraphIndex": 1, "section": "B", "sentenceStart": 5, "sentenceEndExclusive": 12},
+    {"paragraphIndex": 2, "section": "C", "sentenceStart": 12, "sentenceEndExclusive": 16},
+    {"paragraphIndex": 3, "section": "D", "sentenceStart": 16, "sentenceEndExclusive": 22},
+    {"paragraphIndex": 4, "section": "E", "sentenceStart": 22, "sentenceEndExclusive": 25},
+    {"paragraphIndex": 5, "section": "F", "sentenceStart": 25, "sentenceEndExclusive": 28},
+    {"paragraphIndex": 6, "section": "G", "sentenceStart": 28, "sentenceEndExclusive": 34}
+  ],
+  "typography": {
+    "bodyStructure": "The title is bold white text on a black band; the seven prose paragraphs are labelled A–G in bold. No standfirst, author note or footnote is printed.",
+    "semanticItalics": [],
+    "questionItalics": [
+      "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+      "Questions 14–17",
+      "Write the correct letter, A–G, in boxes 14–17 on your answer sheet.",
+      "NB You may use any letter more than once.",
+      "Questions 18–21",
+      "In boxes 18–21 on your answer sheet, write",
+      "YES if the statement agrees with the claims of the writer",
+      "NO if the statement contradicts the claims of the writer",
+      "NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "Questions 22–26",
+      "Complete the summary below.",
+      "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "Write your answers in boxes 22–26 on your answer sheet."
+    ],
+    "dashes": "The spaced em dash in paragraph B, the spaced en dash in paragraph C, en dashes in all printed ranges, and hyphens in half-century, best-loved and run-off are retained.",
+    "quotation": "The expression ‘Greener Food Standard’ is enclosed in curly single quotation marks; curly apostrophes are retained in world’s and aren’t.",
+    "numbersAndUnits": [
+      "forty years",
+      "twenty first century",
+      "1960",
+      "last half-century",
+      "last four decades",
+      "£2,343m",
+      "£208 for every hectare",
+      "£120m",
+      "£16m",
+      "£55m",
+      "£23m",
+      "£125m",
+      "£1,113m",
+      "£106m",
+      "£169m",
+      "£607m",
+      "threefold"
+    ]
+  },
+  "questionGroups": [
+    {
+      "range": "14–17",
+      "type": "matching_information",
+      "sourcePages": [50],
+      "instructions": [
+        "Reading Passage 2 has seven paragraphs, A–G.",
+        "Which paragraph contains the following information?",
+        "Write the correct letter, A–G, in boxes 14–17 on your answer sheet.",
+        "NB You may use any letter more than once."
+      ],
+      "options": {
+        "A": "Paragraph A",
+        "B": "Paragraph B",
+        "C": "Paragraph C",
+        "D": "Paragraph D",
+        "E": "Paragraph E",
+        "F": "Paragraph F",
+        "G": "Paragraph G"
+      },
+      "prompts": {
+        "14": "a cost involved in purifying domestic water",
+        "15": "the stages in the development of the farming industry",
+        "16": "the term used to describe hidden costs",
+        "17": "one effect of chemicals on water sources"
+      }
+    },
+    {
+      "range": "18–21",
+      "type": "yes_no_not_given",
+      "sourcePages": [50],
+      "instructions": [
+        "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+        "In boxes 18–21 on your answer sheet, write",
+        "YES if the statement agrees with the claims of the writer",
+        "NO if the statement contradicts the claims of the writer",
+        "NOT GIVEN if it is impossible to say what the writer thinks about this"
+      ],
+      "labels": {
+        "YES": "if the statement agrees with the claims of the writer",
+        "NO": "if the statement contradicts the claims of the writer",
+        "NOT GIVEN": "if it is impossible to say what the writer thinks about this"
+      },
+      "prompts": {
+        "18": "Several species of wildlife in the British countryside are declining.",
+        "19": "The taste of food has deteriorated in recent years.",
+        "20": "The financial costs of environmental damage are widely recognised.",
+        "21": "One of the costs calculated by Professor Pretty was illness caused by food."
+      }
+    },
+    {
+      "range": "22–26",
+      "type": "summary_completion",
+      "sourcePages": [51],
+      "instructions": [
+        "Complete the summary below.",
+        "Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "Write your answers in boxes 22–26 on your answer sheet."
+      ],
+      "summaryText": "Professor Pretty concludes that our 22 ______ are higher than most people realise, because we make three different types of payment. He feels it is realistic to suggest that Britain should reduce its reliance on 23 ______. Although most farmers would be unable to adapt to 24 ______, Professor Pretty wants the government to initiate change by establishing what he refers to as a 25 ______. He feels this would help to change the attitudes of both 26 ______ and ______.",
+      "prompts": {
+        "22": "Professor Pretty concludes that our 22 ______ are higher than most people realise, because we make three different types of payment.",
+        "23": "He feels it is realistic to suggest that Britain should reduce its reliance on 23 ______.",
+        "24": "Although most farmers would be unable to adapt to 24 ______, Professor Pretty wants the government to initiate change by establishing what he refers to as a 25 ______.",
+        "25": "Although most farmers would be unable to adapt to 24 ______, Professor Pretty wants the government to initiate change by establishing what he refers to as a 25 ______.",
+        "26": "He feels this would help to change the attitudes of both 26 ______ and ______."
+      }
+    }
+  ],
+  "answers": {
+    "14": "E",
+    "15": "B",
+    "16": "C",
+    "17": "B",
+    "18": "YES",
+    "19": "NOT GIVEN",
+    "20": "NO",
+    "21": "YES",
+    "22": "food bills / costs",
+    "23": "(modern) intensive farming",
+    "24": "organic farming",
+    "25": "Greener Food Standard",
+    "26": "farmers / consumers (IN EITHER ORDER)"
+  },
+  "acceptedForms": {
+    "14": ["E"],
+    "15": ["B"],
+    "16": ["C"],
+    "17": ["B"],
+    "18": ["YES"],
+    "19": ["NOT GIVEN"],
+    "20": ["NO"],
+    "21": ["YES"],
+    "22": ["food bills", "costs"],
+    "23": ["intensive farming", "modern intensive farming"],
+    "24": ["organic farming"],
+    "25": ["Greener Food Standard"],
+    "26": {
+      "mode": "two_blanks_in_either_order",
+      "items": ["farmers", "consumers"],
+      "officialSurface": "IN EITHER ORDER farmers (and) consumers"
+    }
+  },
+  "officialAnswerSequence": [
+    "E",
+    "B",
+    "C",
+    "B",
+    "YES",
+    "NOT GIVEN",
+    "NO",
+    "YES",
+    "food bills / costs",
+    "(modern) intensive farming",
+    "organic farming",
+    "Greener Food Standard",
+    "farmers / consumers (IN EITHER ORDER)"
+  ],
+  "answerEvidence": [
+    {
+      "number": 14,
+      "answer": "E",
+      "section": "E",
+      "evidence": "£23m for the removal of the bug cryptosporidium from drinking water by water companies",
+      "reason": "Removing a contaminating organism from drinking water is a domestic-water purification cost.",
+      "distractors": {
+        "A": "Paragraph A mentions water pollution only as general collateral damage and gives no purification cost.",
+        "B": "Paragraph B describes ecological damage and fertiliser run-off, not the cost of purifying domestic water.",
+        "C": "Paragraph C explains the concept of externalities, not a water-treatment expense.",
+        "D": "Paragraph D gives an aggregate estimate of agricultural externalities, not the specific domestic-water purification item.",
+        "F": "Paragraph F proposes a more sustainable farming economy and contains no water-purification cost.",
+        "G": "Paragraph G proposes a Greener Food Standard and contains no water-purification cost."
+      }
+    },
+    {
+      "number": 15,
+      "answer": "B",
+      "section": "B",
+      "evidence": "First mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared.",
+      "reason": "The repeated sequence first/then/then/then/now explicitly traces successive stages in farming development.",
+      "distractors": {
+        "A": "Paragraph A contrasts cheap food with its collateral damage but does not set out the industry’s successive stages.",
+        "C": "Paragraph C defines hidden external costs rather than narrating the development of farming methods.",
+        "D": "Paragraph D quantifies external costs for one year rather than describing historical stages.",
+        "E": "Paragraph E itemises costs and three forms of payment, not stages in farming development.",
+        "F": "Paragraph F discusses moving away from intensive agriculture, not how that industry developed.",
+        "G": "Paragraph G presents possible alternatives and standards, not the historical stages of the industry."
+      }
+    },
+    {
+      "number": 16,
+      "answer": "C",
+      "section": "C",
+      "evidence": "That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction",
+      "reason": "The paragraph explicitly names hidden costs outside the main transaction as externalities.",
+      "distractors": {
+        "A": "Paragraph A calls the harm collateral damage but does not supply the economists’ term requested.",
+        "B": "Paragraph B lists environmental damage without naming the hidden-cost concept.",
+        "D": "Paragraph D calculates the costs but does not introduce the requested term.",
+        "E": "Paragraph E itemises external costs and payment routes but does not define the term.",
+        "F": "Paragraph F considers reducing intensive farming and contains no hidden-cost terminology.",
+        "G": "Paragraph G considers alternatives and standards and contains no hidden-cost terminology."
+      }
+    },
+    {
+      "number": 17,
+      "answer": "B",
+      "section": "B",
+      "evidence": "Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off.",
+      "reason": "The sentence states a concrete effect of agricultural chemicals on a water source: fertiliser run-off increases algae in lakes.",
+      "distractors": {
+        "A": "Paragraph A mentions water pollution in a general list but does not identify a specific chemical effect on a water source.",
+        "C": "Paragraph C explains why consumers do not see external costs and gives no chemical effect on water.",
+        "D": "Paragraph D quantifies aggregate damage and gives no chemical effect on water sources.",
+        "E": "Paragraph E lists removal costs for pollutants but not an ecological effect caused by chemicals in a water source.",
+        "F": "Paragraph F proposes policy change and gives no chemical effect on water.",
+        "G": "Paragraph G outlines a farming standard and gives no chemical effect on water."
+      }
+    },
+    {
+      "number": 18,
+      "answer": "YES",
+      "section": "B",
+      "evidence": "In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects.",
+      "reason": "The explicit disappearance of numerous bird, flower and insect species supports the claim of wildlife decline.",
+      "distractors": {
+        "NO": "NO would contradict the explicit report that many species have vanished from large areas.",
+        "NOT GIVEN": "NOT GIVEN is impossible because the passage directly describes the decline of several kinds of British wildlife."
+      }
+    },
+    {
+      "number": 19,
+      "answer": "NOT GIVEN",
+      "section": null,
+      "evidence": "The passage contains no statement comparing the taste of food in recent years with its taste in the past.",
+      "reason": "Food price, production damage, health and policy are discussed, but no change in taste is stated.",
+      "distractors": {
+        "YES": "YES would require an explicit claim that food tastes worse now; the passage makes no such claim.",
+        "NO": "NO would require an explicit claim that taste has stayed the same or improved; the passage makes no such claim."
+      }
+    },
+    {
+      "number": 20,
+      "answer": "NO",
+      "section": "C",
+      "evidence": "To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money.",
+      "reason": "The writer says many people do not even recognise the damage as financial, directly contradicting widely recognised.",
+      "distractors": {
+        "YES": "YES reverses the writer’s explicit point that consumers rarely make the connection.",
+        "NOT GIVEN": "NOT GIVEN is wrong because the passage directly addresses whether people recognise these financial costs."
+      }
+    },
+    {
+      "number": 21,
+      "answer": "YES",
+      "section": "E",
+      "evidence": "£169m from food poisoning",
+      "reason": "Food poisoning is illness caused by food and is explicitly included among Professor Pretty’s calculated costs.",
+      "distractors": {
+        "NO": "NO contradicts the explicit £169m cost assigned to food poisoning.",
+        "NOT GIVEN": "NOT GIVEN is wrong because food poisoning appears directly in the itemised calculation."
+      }
+    },
+    {
+      "number": 22,
+      "answer": "food bills / costs",
+      "acceptedForms": ["food bills", "costs"],
+      "section": "E",
+      "evidence": "Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold.",
+      "reason": "Threefold food bills/costs are higher than the single visible shop payment most people perceive."
+    },
+    {
+      "number": 23,
+      "answer": "(modern) intensive farming",
+      "acceptedForms": ["intensive farming", "modern intensive farming"],
+      "section": "F",
+      "evidence": "Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible.",
+      "reason": "For Britain, breaking away from intensive farming is presented as feasible; the official key permits modern as an optional modifier."
+    },
+    {
+      "number": 24,
+      "answer": "organic farming",
+      "acceptedForms": ["organic farming"],
+      "section": "G",
+      "evidence": "Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers.",
+      "reason": "Too big a jump paraphrases the summary’s statement that most farmers would be unable to adapt to it."
+    },
+    {
+      "number": 25,
+      "answer": "Greener Food Standard",
+      "acceptedForms": ["Greener Food Standard"],
+      "section": "G",
+      "evidence": "He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production.",
+      "reason": "This is the named standard Professor Pretty recommends the government introduce."
+    },
+    {
+      "number": 26,
+      "answer": "farmers / consumers (IN EITHER ORDER)",
+      "acceptedForms": {
+        "mode": "two_blanks_in_either_order",
+        "items": ["farmers", "consumers"]
+      },
+      "section": "G",
+      "evidence": "It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture.",
+      "reason": "The proposed standard is intended to shift both groups; the official key accepts farmers and consumers in either order."
+    }
+  ],
+  "rawPages": {
+    "48": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nThe True Cost of Food\nA\nFor more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture.\nB\nFirst mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off.\nC\nPut it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren’t paying for it, are they?",
+    "49": "D\nBut the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world’s leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate.\nE\nThe costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind.\nF\nSo can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals.\nG\nBut if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture.",
+    "50": "Questions 14–17\nReading Passage 2 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 14–17 on your answer sheet.\nNB You may use any letter more than once.\n14 a cost involved in purifying domestic water\n15 the stages in the development of the farming industry\n16 the term used to describe hidden costs\n17 one effect of chemicals on water sources\nQuestions 18–21\nDo the following statements agree with the claims of the writer in Reading Passage 2?\nIn boxes 18–21 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n18 Several species of wildlife in the British countryside are declining.\n19 The taste of food has deteriorated in recent years.\n20 The financial costs of environmental damage are widely recognised.\n21 One of the costs calculated by Professor Pretty was illness caused by food.",
+    "51": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nWrite your answers in boxes 22–26 on your answer sheet.\nProfessor Pretty concludes that our 22 ______ are higher than most people realise, because we make three different types of payment. He feels it is realistic to suggest that Britain should reduce its reliance on 23 ______. Although most farmers would be unable to adapt to 24 ______, Professor Pretty wants the government to initiate change by establishing what he refers to as a 25 ______. He feels this would help to change the attitudes of both 26 ______ and ______.",
+    "159": "ACADEMIC READING\nReading Passage 2, Questions 14–26\n14 E\n15 B\n16 C\n17 B\n18 YES\n19 NOT GIVEN\n20 NO\n21 YES\n22 food bills/costs\n23 (modern) intensive farming\n24 organic farming\n25 Greener Food Standard\n26 IN EITHER ORDER\nfarmers (and)\nconsumers"
+  },
+  "pages": {
+    "48": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\nThe True Cost of Food\nA\nFor more than forty years the cost of food has been rising. It has now reached a point where a growing number of people believe that it is far too high, and that bringing it down will be one of the great challenges of the twenty first century. That cost, however, is not in immediate cash. In the West at least, most food is now far cheaper to buy in relative terms than it was in 1960. The cost is in the collateral damage of the very methods of food production that have made the food cheaper: in the pollution of water, the enervation of soil, the destruction of wildlife, the harm to animal welfare and the threat to human health caused by modern industrial agriculture.\nB\nFirst mechanisation, then mass use of chemical fertilisers and pesticides, then monocultures, then battery rearing of livestock, and now genetic engineering — the onward march of intensive farming has seemed unstoppable in the last half-century, as the yields of produce have soared. But the damage it has caused has been colossal. In Britain, for example, many of our best-loved farmland birds, such as the skylark, the grey partridge, the lapwing and the corn bunting, have vanished from huge stretches of countryside, as have even more wild flowers and insects. This is a direct result of the way we have produced our food in the last four decades. Thousands of miles of hedgerows, thousands of ponds, have disappeared from the landscape. The faecal filth of salmon farming has driven wild salmon from many of the sea lochs and rivers of Scotland. Natural soil fertility is dropping in many areas because of continuous industrial fertiliser and pesticide use, while the growth of algae is increasing in lakes because of the fertiliser run-off.\nC\nPut it all together and it looks like a battlefield, but consumers rarely make the connection at the dinner table. That is mainly because the costs of all this damage are what economists refer to as externalities: they are outside the main transaction, which is for example producing and selling a field of wheat, and are borne directly by neither producers nor consumers. To many, the costs may not even appear to be financial at all, but merely aesthetic – a terrible shame, but nothing to do with money. And anyway they, as consumers of food, certainly aren’t paying for it, are they?",
+    "49": "D\nBut the costs to society can actually be quantified and, when added up, can amount to staggering sums. A remarkable exercise in doing this has been carried out by one of the world’s leading thinkers on the future of agriculture, Professor Jules Pretty, Director of the Centre for Environment and Society at the University of Essex. Professor Pretty and his colleagues calculated the externalities of British agriculture for one particular year. They added up the costs of repairing the damage it caused, and came up with a total figure of £2,343m. This is equivalent to £208 for every hectare of arable land and permanent pasture, almost as much again as the total government and EU spend on British farming in that year. And according to Professor Pretty, it was a conservative estimate.\nE\nThe costs included: £120m for removal of pesticides; £16m for removal of nitrates; £55m for removal of phosphates and soil; £23m for the removal of the bug cryptosporidium from drinking water by water companies; £125m for damage to wildlife habitats, hedgerows and dry stone walls; £1,113m from emissions of gases likely to contribute to climate change; £106m from soil erosion and organic carbon losses; £169m from food poisoning; and £607m from cattle disease. Professor Pretty draws a simple but memorable conclusion from all this: our food bills are actually threefold. We are paying for our supposedly cheaper food in three separate ways: once over the counter, secondly through our taxes, which provide the enormous subsidies propping up modern intensive farming, and thirdly to clean up the mess that modern farming leaves behind.\nF\nSo can the true cost of food be brought down? Breaking away from industrial agriculture as the solution to hunger may be very hard for some countries, but in Britain, where the immediate need to supply food is less urgent, and the costs and the damage of intensive farming have been clearly seen, it may be more feasible. The government needs to create sustainable, competitive and diverse farming and food sectors, which will contribute to a thriving and sustainable rural economy, and advance environmental, economic, health, and animal welfare goals.\nG\nBut if industrial agriculture is to be replaced, what is a viable alternative? Professor Pretty feels that organic farming would be too big a jump in thinking and in practices for many farmers. Furthermore, the price premium would put the produce out of reach of many poorer consumers. He is recommending the immediate introduction of a ‘Greener Food Standard’, which would push the market towards more sustainable environmental practices than the current norm, while not requiring the full commitment to organic production. Such a standard would comprise agreed practices for different kinds of farming, covering agrochemical use, soil health, land management, water and energy use, food safety and animal health. It could go a long way, he says, to shifting consumers as well as farmers towards a more sustainable system of agriculture.",
+    "50": "Questions 14–17\nReading Passage 2 has seven paragraphs, A–G.\nWhich paragraph contains the following information?\nWrite the correct letter, A–G, in boxes 14–17 on your answer sheet.\nNB You may use any letter more than once.\n14 a cost involved in purifying domestic water\n15 the stages in the development of the farming industry\n16 the term used to describe hidden costs\n17 one effect of chemicals on water sources\nQuestions 18–21\nDo the following statements agree with the claims of the writer in Reading Passage 2?\nIn boxes 18–21 on your answer sheet, write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n18 Several species of wildlife in the British countryside are declining.\n19 The taste of food has deteriorated in recent years.\n20 The financial costs of environmental damage are widely recognised.\n21 One of the costs calculated by Professor Pretty was illness caused by food.",
+    "51": "Questions 22–26\nComplete the summary below.\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nWrite your answers in boxes 22–26 on your answer sheet.\nProfessor Pretty concludes that our 22 ______ are higher than most people realise, because we make three different types of payment. He feels it is realistic to suggest that Britain should reduce its reliance on 23 ______. Although most farmers would be unable to adapt to 24 ______, Professor Pretty wants the government to initiate change by establishing what he refers to as a 25 ______. He feels this would help to change the attitudes of both 26 ______ and ______.",
+    "159": "ACADEMIC READING\nReading Passage 2, Questions 14–26\n14 E\n15 B\n16 C\n17 B\n18 YES\n19 NOT GIVEN\n20 NO\n21 YES\n22 food bills/costs\n23 (modern) intensive farming\n24 organic farming\n25 Greener Food Standard\n26 IN EITHER ORDER\nfarmers (and)\nconsumers"
+  },
+  "sourceAudit": {
+    "type": "independent_original_book_calibration",
+    "authority": "data/Cambridge-IELTS-07.pdf only",
+    "reviewedPhysicalPages": [47, 48, 49, 50, 51, 52, 159],
+    "pageResponsibilities": {
+      "47": "Passage 1 question boundary; no Passage 2 content.",
+      "48": "Passage 2 heading, lead instruction, title, decorative cartoon and body paragraphs A–C.",
+      "49": "Body paragraphs D–G; passage body ends here.",
+      "50": "Questions 14–21 and all instructions/response definitions.",
+      "51": "Questions 22–26 summary completion.",
+      "52": "Passage 3 boundary; no Passage 2 content.",
+      "159": "Test 2 Academic Reading official answers; printed page 155."
+    },
+    "pageTransitions": [
+      "47→48: Passage 1 questions end and Reading Passage 2 begins.",
+      "48→49: paragraph C ends on physical page 48 and paragraph D begins on physical page 49; no body sentence or paragraph is split.",
+      "49→50: paragraph G ends on physical page 49 and Questions 14–17 begin on physical page 50.",
+      "50→51: Question 21 ends on physical page 50 and Questions 22–26 begin on physical page 51; no question is split.",
+      "51→52: Reading Passage 2 questions end and Reading Passage 3 begins."
+    ],
+    "visualChecks": [
+      "Verified title, A–G labels, all 34 sentence endpoints and all page boundaries directly from rendered original pages.",
+      "Verified en dashes, em dash, hyphens, curly quotation marks/apostrophes, currency figures, comma grouping, semicolons and colon-led lists.",
+      "Verified the complete Q14–26 wording, response labels, blank count and Q26 two-blank construction.",
+      "Verified the official key on physical page 159 and retained its slash, optional-parenthesis and IN EITHER ORDER conventions."
+    ]
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "reason": "The shopping-cart cartoon beside paragraph A on physical page 48 is decorative and contains no information needed to understand the passage or answer any question. All three question types are fully textual, so no crop is retained.",
+    "images": []
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 4,
+    "passagePageCount": 2,
+    "questionPageCount": 2,
+    "bodyParagraphCount": 7,
+    "sentenceCount": 34,
+    "sentenceReconstruction": "PASS: joining each mapped sentence slice with one space exactly reproduces bodyParagraphs",
+    "questionCount": 13,
+    "questionNumbers": "PASS: 14–26 continuous",
+    "officialAnswerCount": 13,
+    "officialAnswerSequenceMatchesPhysicalPage159": true,
+    "matchingInformationQuestions": 4,
+    "matchingInformationWrongOptionsCovered": 24,
+    "judgementQuestions": 4,
+    "judgementWrongLabelsCovered": 8,
+    "summaryCompletionQuestions": 5,
+    "explicitWrongOptionDistractorCount": 32,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 12,
+    "notGivenAbsenceEvidenceCount": 1,
+    "rawPagesEqualPages": true,
+    "answerKeyVerifiedAsTest2AcademicReading": true,
+    "acceptedFormsVerified": true,
+    "semanticImagesRequired": false,
+    "independentCalibrationAgainstAuthoritativePdf": true,
+    "authoritativePdfPhysicalPages": [48, 49, 50, 51, 159],
+    "boundaryPhysicalPages": [47, 52],
+    "sharedFilesModified": false
+  }
+}

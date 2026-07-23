@@ -1,0 +1,568 @@
+{
+  "book": 8,
+  "test": 2,
+  "passage": 3,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-23",
+  "pdf": "data/Cambridge-IELTS-08.pdf",
+  "calibrationMethod": "Fresh visual transcription from independently rendered original-book pages, followed by a second visual blind comparison. pages.json and raw.md were not authorities.",
+  "reviewedPhysicalPages": [47, 48, 49, 50, 51, 52, 154],
+  "boundaryPages": {
+    "before": {
+      "physicalPage": 47,
+      "printedPage": 48,
+      "finding": "Reading Passage 2 Questions 18–26; Passage 3 has not begun."
+    },
+    "after": {
+      "physicalPage": 52,
+      "printedPage": 53,
+      "finding": "Writing Task 1 begins; Reading Passage 3 ended on physical page 51."
+    }
+  },
+  "sourcePages": [48, 49, 50, 51],
+  "sourcePrintedPages": [49, 50, 51, 52],
+  "printedPageMap": {
+    "48": 49,
+    "49": 50,
+    "50": 51,
+    "51": 52,
+    "154": 155
+  },
+  "passagePages": [49, 50],
+  "passagePrintedPages": [50, 51],
+  "questionPages": [48, 50, 51],
+  "questionPrintedPages": [49, 51, 52],
+  "answerPage": 154,
+  "answerKeyPage": 154,
+  "answerKeyPrintedPage": 155,
+  "sectionHeading": "READING PASSAGE 3",
+  "leadInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.",
+  "title": "The meaning and power of smell",
+  "titleLineation": ["The meaning and power of smell"],
+  "standfirst": "The sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.",
+  "standfirstSentences": [
+    "The sense of smell, or olfaction, is powerful.",
+    "Odours affect us on a physical, psychological and social level.",
+    "For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us.",
+    "It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being."
+  ],
+  "authorNote": null,
+  "sections": [
+    {
+      "label": "A",
+      "sourcePages": [49],
+      "paragraphs": [
+        "A survey conducted by Anthony Synott at Montreal’s Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them."
+      ]
+    },
+    {
+      "label": "B",
+      "sourcePages": [49],
+      "paragraphs": [
+        "Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register."
+      ]
+    },
+    {
+      "label": "C",
+      "sourcePages": [49],
+      "paragraphs": [
+        "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities."
+      ]
+    },
+    {
+      "label": "D",
+      "sourcePages": [49],
+      "paragraphs": [
+        "Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist. ‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research."
+      ]
+    },
+    {
+      "label": "E",
+      "sourcePages": [50],
+      "paragraphs": [
+        "Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers."
+      ]
+    },
+    {
+      "label": "F",
+      "sourcePages": [50],
+      "paragraphs": [
+        "However, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture."
+      ]
+    }
+  ],
+  "bodyParagraphs": [
+    "A survey conducted by Anthony Synott at Montreal’s Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them.",
+    "Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.",
+    "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.",
+    "Smell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist. ‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research.",
+    "Most of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.",
+    "However, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture."
+  ],
+  "sentences": [
+    "A survey conducted by Anthony Synott at Montreal’s Concordia University asked participants to comment on how important smell was to them in their lives.",
+    "It became apparent that smell can evoke strong emotional responses.",
+    "A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust.",
+    "Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations.",
+    "Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals.",
+    "The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them.",
+    "Odours are also essential cues in social bonding.",
+    "One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one.",
+    "In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent.",
+    "In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people.",
+    "Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.",
+    "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures.",
+    "The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped.",
+    "While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute.",
+    "Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.",
+    "Smell, however, is a highly elusive phenomenon.",
+    "Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist.",
+    "‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience.",
+    "Nor can odours be recorded: there is no effective way to either capture or store them over time.",
+    "In the realm of olfaction, we must make do with descriptions and recollections.",
+    "This has implications for olfactory research.",
+    "Most of the research on smell undertaken to date has been of a physical scientific nature.",
+    "Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered.",
+    "Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air.",
+    "Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components.",
+    "Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.",
+    "However, smell is not simply a biological and psychological phenomenon.",
+    "Smell is cultural, hence it is a social and historical phenomenon.",
+    "Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others.",
+    "Therefore, our sense of smell is a means of, and model for, interacting with the world.",
+    "Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way.",
+    "Importantly, our commonly held feelings about smells can help distinguish us from other cultures.",
+    "The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraphIndex": 0, "section": "A", "physicalPage": 49, "sentenceStart": 0, "sentenceEndExclusive": 6},
+    {"paragraphIndex": 1, "section": "B", "physicalPage": 49, "sentenceStart": 6, "sentenceEndExclusive": 11},
+    {"paragraphIndex": 2, "section": "C", "physicalPage": 49, "sentenceStart": 11, "sentenceEndExclusive": 15},
+    {"paragraphIndex": 3, "section": "D", "physicalPage": 49, "sentenceStart": 15, "sentenceEndExclusive": 21},
+    {"paragraphIndex": 4, "section": "E", "physicalPage": 50, "sentenceStart": 21, "sentenceEndExclusive": 26},
+    {"paragraphIndex": 5, "section": "F", "physicalPage": 50, "sentenceStart": 26, "sentenceEndExclusive": 33}
+  ],
+  "sentencePageMap": [
+    {"physicalPage": 49, "standfirstSentenceNumbers": [1, 2, 3, 4], "bodySentenceStart": 1, "bodySentenceEnd": 21},
+    {"physicalPage": 50, "bodySentenceStart": 22, "bodySentenceEnd": 33}
+  ],
+  "pageBreaks": [
+    {"afterPhysicalPage": 48, "finding": "Questions 27–32 end; title and passage begin on physical page 49."},
+    {"afterPhysicalPage": 49, "finding": "Paragraph D ends completely; paragraph E begins on physical page 50. No sentence crosses the page boundary."},
+    {"afterPhysicalPage": 50, "finding": "Paragraph F ends and Questions 33–34 follow on the same page; Questions 35–40 continue on physical page 51."}
+  ],
+  "typography": {
+    "title": "white bold text in a black horizontal banner",
+    "standfirst": "italic",
+    "paragraphLabels": "bold capitals A–F",
+    "questionHeadings": "italic",
+    "headingList": "boxed text list",
+    "answerBlanks": "dotted rules"
+  },
+  "questionGroups": [
+    {
+      "range": "27–32",
+      "type": "matching_headings",
+      "sourcePages": [48],
+      "instructions": [
+        "Reading Passage 3 has six paragraphs, A–F.",
+        "Choose the correct heading for each paragraph from the list of headings below.",
+        "Write the correct number, i–viii, in boxes 27–32 on your answer sheet."
+      ],
+      "listTitle": "List of Headings",
+      "options": {
+        "i": "The difficulties of talking about smells",
+        "ii": "The role of smell in personal relationships",
+        "iii": "Future studies into smell",
+        "iv": "The relationship between the brain and the nose",
+        "v": "The interpretation of smells as a factor in defining groups",
+        "vi": "Why our sense of smell is not appreciated",
+        "vii": "Smell is our superior sense",
+        "viii": "The relationship between smell and feelings"
+      },
+      "prompts": {
+        "27": "Paragraph A",
+        "28": "Paragraph B",
+        "29": "Paragraph C",
+        "30": "Paragraph D",
+        "31": "Paragraph E",
+        "32": "Paragraph F"
+      }
+    },
+    {
+      "range": "33–36",
+      "type": "multiple_choice",
+      "sourcePages": [50, 51],
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 33–36 on your answer sheet."
+      ],
+      "questions": {
+        "33": {
+          "stem": "According to the introduction, we become aware of the importance of smell when",
+          "options": {
+            "A": "we discover a new smell.",
+            "B": "we experience a powerful smell.",
+            "C": "our ability to smell is damaged.",
+            "D": "we are surrounded by odours."
+          }
+        },
+        "34": {
+          "stem": "The experiment described in paragraph B",
+          "options": {
+            "A": "shows how we make use of smell without realising it.",
+            "B": "demonstrates that family members have a similar smell.",
+            "C": "proves that a sense of smell is learnt.",
+            "D": "compares the sense of smell in males and females."
+          }
+        },
+        "35": {
+          "stem": "What is the writer doing in paragraph C?",
+          "options": {
+            "A": "supporting other research",
+            "B": "making a proposal",
+            "C": "rejecting a common belief",
+            "D": "describing limitations"
+          }
+        },
+        "36": {
+          "stem": "What does the writer suggest about the study of smell in the atmosphere in paragraph E?",
+          "options": {
+            "A": "The measurement of smell is becoming more accurate.",
+            "B": "Researchers believe smell is a purely physical reaction.",
+            "C": "Most smells are inoffensive.",
+            "D": "Smell is yet to be defined."
+          }
+        }
+      }
+    },
+    {
+      "range": "37–40",
+      "type": "sentence_completion",
+      "sourcePages": [51],
+      "instructions": [
+        "Complete the sentences below.",
+        "Choose ONE WORD ONLY from the passage for each answer.",
+        "Write your answers in boxes 37–40 on your answer sheet."
+      ],
+      "prompts": {
+        "37": "Tests have shown that odours can help people recognise the ______ belonging to their husbands and wives.",
+        "38": "Certain linguistic groups may have difficulty describing smell because they lack the appropriate ______.",
+        "39": "The sense of smell may involve response to ______ which do not smell, in addition to obvious odours.",
+        "40": "Odours regarded as unpleasant in certain ______ are not regarded as unpleasant in others."
+      },
+      "printedOptions": null,
+      "formalDistractors": null
+    }
+  ],
+  "answers": {
+    "27": "viii",
+    "28": "ii",
+    "29": "vi",
+    "30": "i",
+    "31": "iii",
+    "32": "v",
+    "33": "C",
+    "34": "A",
+    "35": "C",
+    "36": "D",
+    "37": "clothing",
+    "38": "vocabulary",
+    "39": "chemicals",
+    "40": "cultures"
+  },
+  "acceptedForms": {
+    "27": ["viii"],
+    "28": ["ii"],
+    "29": ["vi"],
+    "30": ["i"],
+    "31": ["iii"],
+    "32": ["v"],
+    "33": ["C"],
+    "34": ["A"],
+    "35": ["C"],
+    "36": ["D"],
+    "37": ["clothing"],
+    "38": ["vocabulary"],
+    "39": ["chemicals"],
+    "40": ["cultures"]
+  },
+  "officialAnswerSequence": ["viii", "ii", "vi", "i", "iii", "v", "C", "A", "C", "D", "clothing", "vocabulary", "chemicals", "cultures"],
+  "answerEvidence": [
+    {
+      "number": 27,
+      "answer": "viii",
+      "section": "A",
+      "evidence": "It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations.",
+      "reason": "Paragraph A repeatedly explains how smells evoke and acquire emotional responses.",
+      "distractors": {
+        "i": "Difficulties naming and recording smells are the focus of paragraph D, not A.",
+        "ii": "Personal and family bonding through smell is developed in paragraph B.",
+        "iii": "Unanswered research questions and future psychological study appear in paragraph E.",
+        "iv": "Paragraph A does not discuss a brain–nose relationship.",
+        "v": "Cultural interpretation and group distinction are developed in paragraph F.",
+        "vi": "The undervaluing of smell is explained in paragraph C.",
+        "vii": "The paragraph does not claim smell is superior to the other senses."
+      }
+    },
+    {
+      "number": 28,
+      "answer": "ii",
+      "section": "B",
+      "evidence": "Odours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent.",
+      "reason": "Paragraph B centres on smell in bonding with loved ones and identifying family members.",
+      "distractors": {
+        "i": "The paragraph presents successful recognition by smell, not difficulty describing smell.",
+        "iii": "It reports an existing experiment rather than proposing future studies.",
+        "iv": "No brain–nose mechanism is discussed.",
+        "v": "The paragraph concerns interpersonal bonds, not culturally defined groups.",
+        "vi": "It does not explain society’s low regard for smell.",
+        "vii": "It shows one important use of smell but does not rank it above other senses.",
+        "viii": "Emotional association with pleasant and unpleasant odours is paragraph A’s main focus; B narrows the issue to relationships."
+      }
+    },
+    {
+      "number": 29,
+      "answer": "vi",
+      "section": "C",
+      "evidence": "In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped.",
+      "reason": "Paragraph C states that smell is undervalued and identifies the belief used to justify that low regard.",
+      "distractors": {
+        "i": "Language and recording difficulties belong to paragraph D.",
+        "ii": "Personal relationships are the subject of paragraph B.",
+        "iii": "Future research is discussed in paragraph E.",
+        "iv": "No relationship between the brain and nose is explained.",
+        "v": "Cultural values and group distinction are paragraph F’s focus.",
+        "vii": "The writer says human smell is acute, but does not call it superior to all other senses.",
+        "viii": "The relationship between smells and emotional responses is paragraph A’s main idea."
+      }
+    },
+    {
+      "number": 30,
+      "answer": "i",
+      "section": "D",
+      "evidence": "Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist. ‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience.",
+      "reason": "Paragraph D explicitly describes the linguistic difficulty of naming and expressing smells.",
+      "distractors": {
+        "ii": "No family or partner relationship is discussed.",
+        "iii": "The final sentence mentions research implications, but the paragraph’s controlling idea is the difficulty of describing and preserving smells.",
+        "iv": "No anatomical relationship between brain and nose is described.",
+        "v": "The paragraph discusses language and recording, not how cultures use smell to define groups.",
+        "vi": "It does not explain why smell receives low social regard.",
+        "vii": "It presents limitations of discussing smell, not its superiority.",
+        "viii": "Feelings and emotional associations are not the paragraph’s focus."
+      }
+    },
+    {
+      "number": 31,
+      "answer": "iii",
+      "section": "E",
+      "evidence": "Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.",
+      "reason": "The paragraph identifies unresolved questions and predicts a growing future role for psychological smell research.",
+      "distractors": {
+        "i": "The paragraph concerns research questions, not the everyday linguistic difficulty of talking about smells.",
+        "ii": "Personal relationships are not discussed.",
+        "iv": "The nose is mentioned as one unresolved question, but no brain–nose relationship is explained.",
+        "v": "Cultural interpretation and group identity belong to paragraph F.",
+        "vi": "The paragraph does not explain why smell is undervalued.",
+        "vii": "It does not rank smell as the superior sense.",
+        "viii": "Emotional responses to smell are not the central issue here."
+      }
+    },
+    {
+      "number": 32,
+      "answer": "v",
+      "section": "F",
+      "evidence": "Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures.",
+      "reason": "Paragraph F explains that cultural interpretations of smell are internalised and can distinguish one social group from another.",
+      "distractors": {
+        "i": "The paragraph does not focus on vocabulary or the difficulty of describing smells.",
+        "ii": "It concerns cultural groups rather than intimate family relationships.",
+        "iii": "It presents a cultural interpretation, not a programme of future studies.",
+        "iv": "No brain–nose relationship is discussed.",
+        "vi": "It does not explain the undervaluing of smell.",
+        "vii": "The paragraph does not claim smell is superior to other senses.",
+        "viii": "Feelings are mentioned as culturally shared values that define groups, not merely as individual emotional reactions."
+      }
+    },
+    {
+      "number": 33,
+      "answer": "C",
+      "section": "standfirst",
+      "evidence": "It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.",
+      "reason": "The introduction says awareness arises when the faculty of smell is impaired, meaning the ability is damaged.",
+      "distractors": {
+        "A": "The introduction does not say discovering a new smell triggers awareness of smell’s importance.",
+        "B": "A powerful smell is not the stated trigger; impairment is.",
+        "D": "Being surrounded by aromas is described as something of which we are usually not consciously aware."
+      }
+    },
+    {
+      "number": 34,
+      "answer": "A",
+      "section": "B",
+      "evidence": "In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.",
+      "reason": "The subjects used smell to identify partners even though they had not consciously regarded smell as such a cue.",
+      "distractors": {
+        "B": "The experiment distinguishes partners’ clothing from others’ clothing; it does not show that family members smell alike.",
+        "C": "Nothing in the experiment proves that the sense of smell is learned.",
+        "D": "Women and men both participated, but their abilities are not compared by sex."
+      }
+    },
+    {
+      "number": 35,
+      "answer": "C",
+      "section": "C",
+      "evidence": "The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.",
+      "reason": "The writer introduces the common belief that human smell is feeble, then counters it with evidence that it is remarkably acute.",
+      "distractors": {
+        "A": "No named study or body of other research is being supported.",
+        "B": "The writer makes no proposal for action or research.",
+        "D": "Animal superiority is conceded, but the paragraph’s rhetorical purpose is to reject the broader belief that human smell is simply feeble."
+      }
+    },
+    {
+      "number": 36,
+      "answer": "D",
+      "section": "E",
+      "evidence": "Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air.",
+      "reason": "Researchers have not yet decided even whether smell is one sense or two, so its nature remains incompletely defined.",
+      "distractors": {
+        "A": "The passage asks how smells can be measured objectively; it does not say measurement is becoming more accurate.",
+        "B": "The passage explicitly adds non-physical components and predicts a larger role for psychology, so it rejects a purely physical account.",
+        "C": "The offensiveness of smells is discussed culturally in paragraph F, not as a research finding about most atmospheric smells."
+      }
+    },
+    {
+      "number": 37,
+      "answer": "clothing",
+      "section": "B",
+      "evidence": "In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people.",
+      "reason": "The one-word noun copied from the passage is ‘clothing’.",
+      "distractors": {}
+    },
+    {
+      "number": 38,
+      "answer": "vocabulary",
+      "section": "D",
+      "evidence": "Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist.",
+      "reason": "The missing linguistic resource is the appropriate ‘vocabulary’.",
+      "distractors": {}
+    },
+    {
+      "number": 39,
+      "answer": "chemicals",
+      "section": "E",
+      "evidence": "Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air.",
+      "reason": "The passage names odourless ‘chemicals’ as the possible second stimulus.",
+      "distractors": {}
+    },
+    {
+      "number": 40,
+      "answer": "cultures",
+      "section": "F",
+      "evidence": "Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others.",
+      "reason": "The passage contrasts what is offensive in some ‘cultures’ with what is acceptable in others.",
+      "distractors": {}
+    }
+  ],
+  "answerKey": {
+    "sourcePhysicalPage": 154,
+    "sourcePrintedPage": 155,
+    "heading": "Reading Passage 3, Questions 27–40",
+    "transcription": [
+      "27 viii", "28 ii", "29 vi", "30 i", "31 iii", "32 v", "33 C", "34 A", "35 C", "36 D", "37 clothing", "38 vocabulary", "39 chemicals", "40 cultures"
+    ]
+  },
+  "answerEvidencePage": 154,
+  "footnotes": [],
+  "semanticImageDecision": {
+    "required": false,
+    "reason": "The black title banner and the boxed List of Headings are typographic layout only. Every answer depends on printed passage or question text; there is no map, chart, process diagram, labelled figure or other answer-essential visual.",
+    "images": []
+  },
+  "images": [],
+  "pages": {
+    "48": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.\nQuestions 27–32\nReading Passage 3 has six paragraphs, A–F.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–viii, in boxes 27–32 on your answer sheet.\nList of Headings\ni The difficulties of talking about smells\nii The role of smell in personal relationships\niii Future studies into smell\niv The relationship between the brain and the nose\nv The interpretation of smells as a factor in defining groups\nvi Why our sense of smell is not appreciated\nvii Smell is our superior sense\nviii The relationship between smell and feelings\n27 Paragraph A\n28 Paragraph B\n29 Paragraph C\n30 Paragraph D\n31 Paragraph E\n32 Paragraph F",
+    "49": "The meaning and power of smell\nThe sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.\nA\nA survey conducted by Anthony Synott at Montreal’s Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them.\nB\nOdours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.\nC\nIn spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.\nD\nSmell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist. ‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research.",
+    "50": "E\nMost of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.\nF\nHowever, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture.\nQuestions 33–36\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–36 on your answer sheet.\n33 According to the introduction, we become aware of the importance of smell when\nA we discover a new smell.\nB we experience a powerful smell.\nC our ability to smell is damaged.\nD we are surrounded by odours.\n34 The experiment described in paragraph B\nA shows how we make use of smell without realising it.\nB demonstrates that family members have a similar smell.\nC proves that a sense of smell is learnt.\nD compares the sense of smell in males and females.",
+    "51": "35 What is the writer doing in paragraph C?\nA supporting other research\nB making a proposal\nC rejecting a common belief\nD describing limitations\n36 What does the writer suggest about the study of smell in the atmosphere in paragraph E?\nA The measurement of smell is becoming more accurate.\nB Researchers believe smell is a purely physical reaction.\nC Most smells are inoffensive.\nD Smell is yet to be defined.\nQuestions 37–40\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 37–40 on your answer sheet.\n37 Tests have shown that odours can help people recognise the ______ belonging to their husbands and wives.\n38 Certain linguistic groups may have difficulty describing smell because they lack the appropriate ______.\n39 The sense of smell may involve response to ______ which do not smell, in addition to obvious odours.\n40 Odours regarded as unpleasant in certain ______ are not regarded as unpleasant in others.",
+    "154": "ACADEMIC READING\nReading Passage 3, Questions 27–40\n27 viii\n28 ii\n29 vi\n30 i\n31 iii\n32 v\n33 C\n34 A\n35 C\n36 D\n37 clothing\n38 vocabulary\n39 chemicals\n40 cultures"
+  },
+  "rawPages": {
+    "48": "READING PASSAGE 3\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.\nQuestions 27–32\nReading Passage 3 has six paragraphs, A–F.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number, i–viii, in boxes 27–32 on your answer sheet.\nList of Headings\ni The difficulties of talking about smells\nii The role of smell in personal relationships\niii Future studies into smell\niv The relationship between the brain and the nose\nv The interpretation of smells as a factor in defining groups\nvi Why our sense of smell is not appreciated\nvii Smell is our superior sense\nviii The relationship between smell and feelings\n27 Paragraph A\n28 Paragraph B\n29 Paragraph C\n30 Paragraph D\n31 Paragraph E\n32 Paragraph F",
+    "49": "The meaning and power of smell\nThe sense of smell, or olfaction, is powerful. Odours affect us on a physical, psychological and social level. For the most part, however, we breathe in the aromas which surround us without being consciously aware of their importance to us. It is only when the faculty of smell is impaired for some reason that we begin to realise the essential role the sense of smell plays in our sense of well-being.\nA\nA survey conducted by Anthony Synott at Montreal’s Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. Respondents to the survey noted that many of their olfactory likes and dislikes were based on emotional associations. Such associations can be powerful enough so that odours that we would generally label unpleasant become agreeable, and those that we would generally consider fragrant become disagreeable for particular individuals. The perception of smell, therefore, consists not only of the sensation of the odours themselves, but of the experiences and emotions associated with them.\nB\nOdours are also essential cues in social bonding. One respondent to the survey believed that there is no true emotional bonding without touching and smelling a loved one. In fact, infants recognise the odours of their mothers soon after birth and adults can often identify their children or spouses by scent. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.\nC\nIn spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.\nD\nSmell, however, is a highly elusive phenomenon. Odours, unlike colours, for instance, cannot be named in many languages because the specific vocabulary simply doesn’t exist. ‘It smells like . . . ,’ we have to say when describing an odour, struggling to express our olfactory experience. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections. This has implications for olfactory research.",
+    "50": "E\nMost of the research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in the understanding of the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers have still to decide whether smell is one sense or two – one responding to odours proper and the other registering odourless chemicals in the air. Other unanswered questions are whether the nose is the only part of the body affected by odours, and how smells can be measured objectively given the non-physical components. Questions like these mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.\nF\nHowever, smell is not simply a biological and psychological phenomenon. Smell is cultural, hence it is a social and historical phenomenon. Odours are invested with cultural values: smells that are considered to be offensive in some cultures may be perfectly acceptable in others. Therefore, our sense of smell is a means of, and model for, interacting with the world. Different smells can provide us with intimate and emotionally charged experiences and the value that we attach to these experiences is interiorised by the members of society in a deeply personal way. Importantly, our commonly held feelings about smells can help distinguish us from other cultures. The study of the cultural history of smell is, therefore, in a very real sense, an investigation into the essence of human culture.\nQuestions 33–36\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 33–36 on your answer sheet.\n33 According to the introduction, we become aware of the importance of smell when\nA we discover a new smell.\nB we experience a powerful smell.\nC our ability to smell is damaged.\nD we are surrounded by odours.\n34 The experiment described in paragraph B\nA shows how we make use of smell without realising it.\nB demonstrates that family members have a similar smell.\nC proves that a sense of smell is learnt.\nD compares the sense of smell in males and females.",
+    "51": "35 What is the writer doing in paragraph C?\nA supporting other research\nB making a proposal\nC rejecting a common belief\nD describing limitations\n36 What does the writer suggest about the study of smell in the atmosphere in paragraph E?\nA The measurement of smell is becoming more accurate.\nB Researchers believe smell is a purely physical reaction.\nC Most smells are inoffensive.\nD Smell is yet to be defined.\nQuestions 37–40\nComplete the sentences below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 37–40 on your answer sheet.\n37 Tests have shown that odours can help people recognise the ______ belonging to their husbands and wives.\n38 Certain linguistic groups may have difficulty describing smell because they lack the appropriate ______.\n39 The sense of smell may involve response to ______ which do not smell, in addition to obvious odours.\n40 Odours regarded as unpleasant in certain ______ are not regarded as unpleasant in others.",
+    "154": "ACADEMIC READING\nReading Passage 3, Questions 27–40\n27 viii\n28 ii\n29 vi\n30 i\n31 iii\n32 v\n33 C\n34 A\n35 C\n36 D\n37 clothing\n38 vocabulary\n39 chemicals\n40 cultures"
+  },
+  "sourceAudit": {
+    "type": "independent_visual_blind_audit",
+    "authority": "data/Cambridge-IELTS-08.pdf",
+    "reviewedPhysicalPages": [47, 48, 49, 50, 51, 52, 154],
+    "authoritativeContentPages": [48, 49, 50, 51, 154],
+    "auxiliarySourcesAfterVisualPass": [],
+    "excludedAuthorities": [
+      "data/generated/page-json/cambridge-ielts-08.pages.json",
+      "data/generated/text-pages/cambridge-ielts-08.raw.md",
+      "bank data",
+      "old intensive-reading lessons",
+      "recovered lessons",
+      "OCR-only output"
+    ],
+    "pageResponsibilities": {
+      "47": "Boundary page: Passage 2 Questions 18–26.",
+      "48": "Passage 3 heading, lead instruction, Questions 27–32, headings i–viii and prompts for paragraphs A–F.",
+      "49": "Title, four-sentence italic standfirst and complete paragraphs A–D.",
+      "50": "Complete paragraphs E–F and Questions 33–34 with all options.",
+      "51": "Questions 35–40 with all instructions, stems, options and blanks; Reading section ends.",
+      "52": "Boundary page: Writing Task 1 begins.",
+      "154": "Test 2 Academic Reading answer key, printed page 155, including all answers for Questions 27–40."
+    },
+    "pageTransitions": [
+      "47→48: Passage 2 questions end; Reading Passage 3 question sheet begins.",
+      "48→49: Heading-matching task ends; passage title and text begin.",
+      "49→50: Paragraph D ends; paragraph E begins. No sentence crosses the boundary.",
+      "50→51: Question 34 ends; Questions 35–40 continue.",
+      "51→52: Reading ends; Writing Task 1 begins."
+    ],
+    "blindAuditResult": {
+      "auditMode": "After creating the candidate JSON, the rendered original-book pages were reviewed again from the beginning without consulting pages.json, raw.md, bank files or prior lessons.",
+      "contentFinding": "The title, four standfirst sentences, six A–F paragraphs, 33 body sentences, all wording for Questions 27–40, headings i–viii, multiple-choice options A–D, 14 official answers, 14 continuous evidence records and 54 explicit formal distractor reasons match the original pages.",
+      "repairsDuringBlindAudit": [],
+      "sharedSourcesConsulted": false,
+      "result": "PASS"
+    }
+  },
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 4,
+    "passagePageCount": 2,
+    "questionPageCount": 3,
+    "standfirstSentenceCount": 4,
+    "bodyParagraphCount": 6,
+    "bodySentenceCount": 33,
+    "completePassageSentenceCountIncludingStandfirst": 37,
+    "sentenceReconstruction": "PASS: every mapped body-sentence slice exactly reproduces its body paragraph and the four standfirst sentences exactly reproduce the standfirst.",
+    "questionCount": 14,
+    "questionNumbers": "PASS: 27–40 continuous",
+    "officialAnswerCount": 14,
+    "officialAnswerSequenceMatchesPhysicalPage154": true,
+    "matchingHeadingWrongOptionsCovered": 42,
+    "multipleChoiceWrongOptionsCovered": 12,
+    "sentenceCompletionPrintedDistractors": 0,
+    "explicitFormalDistractorCount": 54,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 14,
+    "rawPagesEqualPages": true,
+    "acceptedFormsVerified": true,
+    "answerKeyVerifiedAsTest2AcademicReading": true,
+    "semanticImagesRequired": false,
+    "semanticImageCount": 0,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditResult": "PASS",
+    "sharedFilesModified": false,
+    "evidenceValidation": "PASS: every evidence quotation is a continuous substring of its cited standfirst or paragraph, and every printed wrong option has one specific reason.",
+    "semanticImageCropVisualCheck": "NOT APPLICABLE: no answer-essential semantic image exists."
+  }
+}

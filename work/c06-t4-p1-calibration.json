@@ -1,0 +1,620 @@
+{
+  "book": 6,
+  "test": 4,
+  "passage": 1,
+  "sourcePdf": "data/Cambridge-IELTS-06.pdf",
+  "calibrationMethod": "manual_visual_calibration",
+  "visualInspection": {
+    "requestedPhysicalPages": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      159
+    ],
+    "passageAndQuestionPhysicalPages": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "passageAndQuestionPrintedPages": [
+      85,
+      86,
+      87,
+      88
+    ],
+    "nextPassageBoundaryPhysicalPage": 90,
+    "requestedAnswerPage": 159,
+    "requestedAnswerPageInterpretation": "physical_page",
+    "answerKeyPhysicalPage": 159,
+    "answerKeyPrintedPage": 158,
+    "pageNumberNote": "PDF physical page 90 is printed page 89 and begins Reading Passage 2, so it is outside Passage 1. The Test 4 Academic Reading answers are on PDF physical page 159, printed page 158.",
+    "inspectedPhysicalPages": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      159
+    ]
+  },
+  "sectionHeading": "READING PASSAGE 1",
+  "leadInstruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 on the following pages.",
+  "articleTitle": "Doctoring sales",
+  "articleSubtitle": "Pharmaceuticals is one of the most profitable industries in North America. But do the drugs industry's sales and marketing strategies go too far?",
+  "bodyParagraphs": [
+    {
+      "label": "A",
+      "sourcePages": [
+        87
+      ],
+      "text": "A few months ago Kim Schaefer, sales representative of a major global pharmaceutical company, walked into a medical center in New York to bring information and free samples of her company's latest products. That day she was lucky – a doctor was available to see her. ‘The last rep offered me a trip to Florida. What do you have?’ the physician asked. He was only half joking."
+    },
+    {
+      "label": "B",
+      "sourcePages": [
+        87
+      ],
+      "text": "What was on offer that day was a pair of tickets for a New York musical. But on any given day, what Schaefer can offer is typical for today's drugs rep – a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile. And she also has a few $1,000 honoraria to offer in exchange for doctors' attendance at her company's next educational lecture."
+    },
+    {
+      "label": "C",
+      "sourcePages": [
+        87
+      ],
+      "text": "Selling pharmaceuticals is a daily exercise in ethical judgement. Salespeople like Schaefer walk the line between the common practice of buying a prospect's time with a free meal, and bribing doctors to prescribe their drugs. They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question – businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing? Or is it the industry's responsibility to decide the boundaries?"
+    },
+    {
+      "label": "D",
+      "sourcePages": [
+        87
+      ],
+      "text": "The explosion in the sheer number of salespeople in the field – and the amount of funding used to promote their causes – forces close examination of the pressures, influences and relationships between drug reps and doctors. Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers. With the huge investment the industry has placed in face-to-face selling, salespeople have essentially become specialists in one drug or group of drugs – a tremendous advantage in getting the attention of busy doctors in need of quick information."
+    },
+    {
+      "label": "E",
+      "sourcePages": [
+        87,
+        88
+      ],
+      "text": "But the sales push rarely stops in the office. The flashy brochures and pamphlets left by the sales reps are often followed up with meals at expensive restaurants, meetings in warm and sunny places, and an inundation of promotional gadgets. Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a nurse use a tablet not bearing a pharmaceutical company's logo. Millions of dollars are spent by pharmaceutical companies on promotional products like coffee mugs, shirts, umbrellas, and golf balls. Money well spent? It's hard to tell. ‘I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,’ says one doctor. ‘I tend to think I'm not influenced by what they give me.’"
+    },
+    {
+      "label": "F",
+      "sourcePages": [
+        88
+      ],
+      "text": "Free samples of new and expensive drugs might be the single most effective way of getting doctors and patients to become loyal to a product. Salespeople hand out hundreds of dollars' worth of samples each week – $7.2 billion worth of them in one year. Though few comprehensive studies have been conducted, one by the University of Washington investigated how drug sample availability affected what physicians prescribe. A total of 131 doctors self-reported their prescribing patterns – the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice."
+    },
+    {
+      "label": "G",
+      "sourcePages": [
+        88
+      ],
+      "text": "The bottom line is that pharmaceutical companies as a whole invest more in marketing than they do in research and development. And patients are the ones who pay – in the form of sky-rocketing prescription prices – for every pen that's handed out, every free theatre ticket, and every steak dinner eaten. In the end the fact remains that pharmaceutical companies have every right to make a profit and will continue to find new ways to increase sales. But as the medical world continues to grapple with what's acceptable and what's not, it is clear that companies must continue to be heavily scrutinized for their sales and marketing strategies."
+    }
+  ],
+  "questionGroups": [
+    {
+      "range": "1–7",
+      "sourcePages": [
+        86
+      ],
+      "type": "matching_headings",
+      "instructions": [
+        "Reading Passage 1 has seven paragraphs, A–G.",
+        "Choose the correct heading for each paragraph from the list of headings below.",
+        "Write the correct number, i–x, in boxes 1–7 on your answer sheet."
+      ],
+      "listHeading": "List of Headings",
+      "options": [
+        {
+          "label": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "label": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "label": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "label": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "label": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "label": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "label": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "label": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "label": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "label": "x",
+          "text": "Who really pays for doctors' free gifts?"
+        }
+      ],
+      "prompts": [
+        {
+          "number": 1,
+          "text": "Paragraph A"
+        },
+        {
+          "number": 2,
+          "text": "Paragraph B"
+        },
+        {
+          "number": 3,
+          "text": "Paragraph C"
+        },
+        {
+          "number": 4,
+          "text": "Paragraph D"
+        },
+        {
+          "number": 5,
+          "text": "Paragraph E"
+        },
+        {
+          "number": 6,
+          "text": "Paragraph F"
+        },
+        {
+          "number": 7,
+          "text": "Paragraph G"
+        }
+      ]
+    },
+    {
+      "range": "8–13",
+      "sourcePages": [
+        89
+      ],
+      "type": "yes_no_not_given",
+      "instructions": [
+        "Do the following statements agree with the views of the writer in Reading Passage 1?",
+        "In boxes 8–13 on your answer sheet, write"
+      ],
+      "options": [
+        {
+          "label": "YES",
+          "text": "if the statement agrees with the views of the writer"
+        },
+        {
+          "label": "NO",
+          "text": "if the statement contradicts the views of the writer"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if it is impossible to say what the writer thinks about this"
+        }
+      ],
+      "prompts": [
+        {
+          "number": 8,
+          "text": "Sales representatives like Kim Schaefer work to a very limited budget."
+        },
+        {
+          "number": 9,
+          "text": "Kim Schaefer's marketing technique may be open to criticism on moral grounds."
+        },
+        {
+          "number": 10,
+          "text": "The information provided by drug companies is of little use to doctors."
+        },
+        {
+          "number": 11,
+          "text": "Evidence of drug promotion is clearly visible in the healthcare environment."
+        },
+        {
+          "number": 12,
+          "text": "The drug companies may give free drug samples to patients without doctors' prescriptions."
+        },
+        {
+          "number": 13,
+          "text": "It is legitimate for drug companies to make money."
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "v",
+    "2": "vi",
+    "3": "iii",
+    "4": "ix",
+    "5": "i",
+    "6": "vii",
+    "7": "x",
+    "8": "NO",
+    "9": "YES",
+    "10": "NO",
+    "11": "YES",
+    "12": "NOT GIVEN",
+    "13": "YES"
+  },
+  "answerEvidence": [
+    {
+      "number": 1,
+      "answer": "v",
+      "paragraph": "A",
+      "evidence": "‘The last rep offered me a trip to Florida. What do you have?’ the physician asked.",
+      "reason": "The doctor's immediate comparison with a previous free trip shows what he has come to expect from pharmaceutical representatives.",
+      "distractors": {
+        "i": "The doctor is receptive and asks what is available; the paragraph does not show an unpersuaded doctor.",
+        "ii": "He compares offers, but the paragraph gives one example of expectation rather than a process for choosing the best offer.",
+        "iii": "The paragraph does not discuss responsibility for the growth in promotion.",
+        "iv": "Neither the doctor nor Schaefer is fighting a drug company.",
+        "vi": "No payment or honorarium is mentioned in paragraph A.",
+        "vii": "No research into the effect of promotion appears here.",
+        "viii": "Research costs are not discussed.",
+        "ix": "The paragraph narrates an encounter and does not explain the benefits of drug promotion.",
+        "x": "It does not identify who ultimately pays for the free gifts."
+      }
+    },
+    {
+      "number": 2,
+      "answer": "vi",
+      "paragraph": "B",
+      "evidence": "But on any given day, what Schaefer can offer is typical for today's drugs rep – a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile. And she also has a few $1,000 honoraria to offer in exchange for doctors' attendance at her company's next educational lecture.",
+      "reason": "The paragraph lists promotional gifts that explicitly include direct payments and honoraria.",
+      "distractors": {
+        "i": "No doctor's resistance to the offers is described.",
+        "ii": "The paragraph inventories available offers; it does not explain how doctors choose among them.",
+        "iii": "It does not assign responsibility for increasing promotions.",
+        "iv": "No opposition to drug companies occurs.",
+        "v": "A doctor's expectation is illustrated in paragraph A, whereas B focuses on the scale and financial nature of Schaefer's offers.",
+        "vii": "The paragraph contains no study proving an effect on prescribing.",
+        "viii": "The budget described is promotional spending, not the cost of pharmaceutical research.",
+        "ix": "The paragraph does not present drug education as a benefit.",
+        "x": "It lists the gifts but does not identify the party who eventually pays for them."
+      }
+    },
+    {
+      "number": 3,
+      "answer": "iii",
+      "paragraph": "C",
+      "evidence": "They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question – businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing? Or is it the industry's responsibility to decide the boundaries?",
+      "reason": "The paragraph frames the central responsibility question: whether doctors or the pharmaceutical industry drives escalating promotion.",
+      "distractors": {
+        "i": "The issue is ethical responsibility, not whether some individual doctors resist persuasion.",
+        "ii": "No method of selecting offers is discussed.",
+        "iv": "The paragraph criticizes practices but does not describe a campaign against drug companies.",
+        "v": "The physician's expectation appears in paragraph A.",
+        "vi": "Financial incentives are listed in paragraph B, not analyzed here.",
+        "vii": "The claim that businesses avoid ineffective strategies is part of the responsibility debate, not a report of research.",
+        "viii": "Research expenditure is not mentioned.",
+        "ix": "The paragraph emphasizes ethical uncertainty rather than the benefits of promotion.",
+        "x": "It does not explain who bears the final cost of gifts."
+      }
+    },
+    {
+      "number": 4,
+      "answer": "ix",
+      "paragraph": "D",
+      "evidence": "Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers. With the huge investment the industry has placed in face-to-face selling, salespeople have essentially become specialists in one drug or group of drugs – a tremendous advantage in getting the attention of busy doctors in need of quick information.",
+      "reason": "Unlike the surrounding criticism, this paragraph explains the useful informational and educational side of pharmaceutical promotion.",
+      "distractors": {
+        "i": "The paragraph does not present doctors rejecting promotional influence.",
+        "ii": "Doctors' choice among offers is not discussed.",
+        "iii": "The paragraph calls for examination but does not ask whether doctors or industry is responsible.",
+        "iv": "Close examination is not the same as fighting the companies.",
+        "v": "No doctor states an expectation about gifts.",
+        "vi": "The focus is information and education, not cash incentives.",
+        "vii": "No prescribing-effect study is reported.",
+        "viii": "The ‘huge investment’ is in face-to-face selling, not high research costs.",
+        "x": "The paragraph does not identify who pays for the promotional activity."
+      }
+    },
+    {
+      "number": 5,
+      "answer": "i",
+      "paragraph": "E",
+      "evidence": "‘I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,’ says one doctor. ‘I tend to think I'm not influenced by what they give me.’",
+      "reason": "The quoted doctor explicitly denies that the gifts persuade or influence prescribing.",
+      "distractors": {
+        "ii": "The doctor does not compare gifts or describe choosing the best one.",
+        "iii": "Responsibility for increasing promotion is not the paragraph's main idea.",
+        "iv": "The doctor denies influence but is not fighting the company.",
+        "v": "The paragraph describes ubiquitous gifts, but the controlling idea is a doctor's lack of persuasion, not his expectation of an offer.",
+        "vi": "The gifts here are merchandise, meals and travel; direct financial payments are not the focus.",
+        "vii": "The quotation is an individual's denial, not research demonstrating promotion's effectiveness.",
+        "viii": "No research costs are discussed.",
+        "ix": "The paragraph questions whether the spending works rather than presenting its positive informational role.",
+        "x": "The paragraph says millions are spent but does not state who ultimately pays."
+      }
+    },
+    {
+      "number": 6,
+      "answer": "vii",
+      "paragraph": "F",
+      "evidence": "the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice",
+      "reason": "A University of Washington study directly found that sample availability changed doctors' prescribing behavior.",
+      "distractors": {
+        "i": "The paragraph reports doctors being influenced, not resisting persuasion.",
+        "ii": "It is about prescribing effects, not selecting among promotional offers.",
+        "iii": "It does not apportion responsibility for the overall increase in promotion.",
+        "iv": "The researchers investigate effects; they do not campaign against companies.",
+        "v": "No doctor's expectation of gifts is illustrated.",
+        "vi": "Free samples have monetary value, but the main idea is the study showing their effect, not a list of financial incentives.",
+        "viii": "The paragraph mentions few studies, not the high cost of doing research.",
+        "ix": "It reports influence on drug choice rather than the informational benefit of sales representatives.",
+        "x": "Who pays for the samples is not addressed."
+      }
+    },
+    {
+      "number": 7,
+      "answer": "x",
+      "paragraph": "G",
+      "evidence": "patients are the ones who pay – in the form of sky-rocketing prescription prices – for every pen that's handed out, every free theatre ticket, and every steak dinner eaten",
+      "reason": "The paragraph explicitly answers the heading's question by identifying patients as the ultimate payers.",
+      "distractors": {
+        "i": "No doctor's resistance to persuasion is discussed.",
+        "ii": "There is no comparison or selection of offers.",
+        "iii": "The paragraph scrutinizes companies but does not frame the doctor-versus-industry responsibility question developed in C.",
+        "iv": "Calling for scrutiny is not an account of fighting drug companies.",
+        "v": "No example of a doctor's expectations appears.",
+        "vi": "Gifts are mentioned only to explain their hidden cost, not to emphasize honoraria or direct payments.",
+        "vii": "No research study on promotional effectiveness is presented.",
+        "viii": "The comparison says firms invest more in marketing than research; it does not argue that research itself has high costs.",
+        "ix": "The paragraph focuses on costs and scrutiny, not the positive informational side of promotion."
+      }
+    },
+    {
+      "number": 8,
+      "answer": "NO",
+      "paragraph": "B",
+      "evidence": "a budget that could buy lunches and dinners for a small country",
+      "reason": "The text describes an enormous promotional budget, directly contradicting ‘a very limited budget’.",
+      "distractors": {
+        "YES": "The scale of tickets, meals, samples, payments and honoraria contradicts rather than supports a limited budget.",
+        "NOT GIVEN": "The paragraph explicitly characterizes the size of the budget, so the information is given."
+      }
+    },
+    {
+      "number": 9,
+      "answer": "YES",
+      "paragraph": "C",
+      "evidence": "Selling pharmaceuticals is a daily exercise in ethical judgement. Salespeople like Schaefer walk the line between the common practice of buying a prospect's time with a free meal, and bribing doctors to prescribe their drugs.",
+      "reason": "The passage explicitly raises ethical and bribery concerns, which are criticism on moral grounds.",
+      "distractors": {
+        "NO": "The ethical-judgement and bribery language supports, rather than contradicts, possible moral criticism.",
+        "NOT GIVEN": "The writer directly discusses the moral boundary, so the view is stated."
+      }
+    },
+    {
+      "number": 10,
+      "answer": "NO",
+      "paragraph": "D",
+      "evidence": "Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers.",
+      "reason": "Calling the information ‘much-needed’ and a primary source directly contradicts the claim that it is of little use.",
+      "distractors": {
+        "YES": "The writer evaluates the information as useful and important, not of little use.",
+        "NOT GIVEN": "Its usefulness is explicitly evaluated in paragraph D."
+      }
+    },
+    {
+      "number": 11,
+      "answer": "YES",
+      "paragraph": "E",
+      "evidence": "Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a nurse use a tablet not bearing a pharmaceutical company's logo.",
+      "reason": "Branded pens and tablets are described as routinely visible in healthcare settings.",
+      "distractors": {
+        "NO": "The examples demonstrate visibility rather than absence of promotional evidence.",
+        "NOT GIVEN": "The passage supplies direct, observable examples in the healthcare environment."
+      }
+    },
+    {
+      "number": 12,
+      "answer": "NOT GIVEN",
+      "paragraph": "F",
+      "evidence": "Salespeople hand out hundreds of dollars' worth of samples each week – $7.2 billion worth of them in one year. Though few comprehensive studies have been conducted, one by the University of Washington investigated how drug sample availability affected what physicians prescribe.",
+      "reason": "The passage discusses free samples and doctors' prescribing, but never states whether companies may give samples directly to patients without prescriptions.",
+      "distractors": {
+        "YES": "No sentence confirms direct company-to-patient distribution without a prescription.",
+        "NO": "No sentence states that such distribution is forbidden or impossible."
+      }
+    },
+    {
+      "number": 13,
+      "answer": "YES",
+      "paragraph": "G",
+      "evidence": "pharmaceutical companies have every right to make a profit",
+      "reason": "‘Have every right’ explicitly endorses the legitimacy of pharmaceutical companies making money.",
+      "distractors": {
+        "NO": "The statement restates, rather than contradicts, the writer's explicit view.",
+        "NOT GIVEN": "The writer directly addresses the legitimacy of profit."
+      }
+    }
+  ],
+  "sourceAudit": {
+    "pagesJsonPath": "data/generated/page-json/cambridge-ielts-06.pages.json",
+    "rawMarkdownPath": "data/generated/text-pages/cambridge-ielts-06.raw.md",
+    "bankPath": "data/cambridge-test-bank.json",
+    "bankTestId": "cambridge-06-reading-test-4",
+    "pagesJsonAndRawExactMatch": {
+      "86": true,
+      "87": true,
+      "88": true,
+      "89": true,
+      "90": true,
+      "158": true,
+      "159": true
+    },
+    "assessment": "The raw.md blocks exactly mirror pages.json on all inspected pages, but both are copies of the same OCR output and contain the same errors. Agreement between them is not evidence of fidelity to the PDF.",
+    "issues": [
+      {
+        "sources": [
+          "pages.json",
+          "raw.md",
+          "bank"
+        ],
+        "physicalPages": [
+          87
+        ],
+        "severity": "critical",
+        "problem": "The article title and subtitle are unreadable OCR strings: ‘Doctoringsales’, ‘Phanmadeutloalellstoneofithemoatypnofitableinduetiiaeiin’, ‘Nonth Amerloa Butdo thednugsinduetryatealesand’, and ‘Amanketingarnategteego too fan?’.",
+        "recommendation": "Replace them with articleTitle and articleSubtitle from this calibration."
+      },
+      {
+        "sources": [
+          "pages.json",
+          "raw.md",
+          "bank"
+        ],
+        "physicalPages": [
+          87,
+          88
+        ],
+        "severity": "critical",
+        "problem": "The passage contains numerous lexical and numeric OCR errors, including ‘physlcian’, ‘$2oo’, ‘$ 1 ,ooo’, ‘strategles’, ‘relatlonships’, ‘provicde’, ‘Millons’, ‘companles’, ‘13 1’ and capitalized ‘In’/‘Increase’ inside sentences.",
+        "recommendation": "Replace the OCR passage wholesale with bodyParagraphs and the calibrated page texts; local substitutions are too fragile."
+      },
+      {
+        "sources": [
+          "pages.json",
+          "raw.md",
+          "bank"
+        ],
+        "physicalPages": [
+          87,
+          88
+        ],
+        "severity": "high",
+        "problem": "Paragraph labels are merged into text (‘CSelling’, ‘DThe’), paragraph E is split by the page break, and running-header/watermark artifacts (‘=’, ‘Reading’, ‘731’, ‘com’) are inserted into content.",
+        "recommendation": "Use the A–G paragraph boundaries and page-specific writebacks in this calibration; omit running headers, watermarks and printed page numbers."
+      },
+      {
+        "sources": [
+          "pages.json",
+          "raw.md",
+          "bank"
+        ],
+        "physicalPages": [
+          86
+        ],
+        "severity": "high",
+        "problem": "The heading question page misreads ‘Reading Passage 1’ as ‘Reading Passage I’, lower-case heading v as capital ‘V’, and hyphen/range typography; it also includes a leading punctuation artifact.",
+        "recommendation": "Use the exact instructions, ten heading options and seven prompts in questionGroups."
+      },
+      {
+        "sources": [
+          "pages.json",
+          "raw.md"
+        ],
+        "physicalPages": [
+          86,
+          87,
+          88,
+          89,
+          90,
+          158,
+          159
+        ],
+        "severity": "medium",
+        "problem": "Running headers, site watermark fragments and printed page numbers are mixed into OCR content, including ‘READING’, ‘Test 4’, ‘Reading’, ‘7=311’, ‘731’, ‘www.TopSage.com’, and terminal page numbers.",
+        "recommendation": "Exclude decorative running matter and retain only semantic passage, question and answer-key text."
+      },
+      {
+        "sources": [
+          "bank"
+        ],
+        "physicalPages": [
+          86,
+          87,
+          88,
+          89
+        ],
+        "severity": "critical",
+        "problem": "The bank merges the title, subtitle, all heading prompts and paragraphs A–G into the ‘Questions 1–7’ section, carries every OCR error forward, and incorrectly assigns Questions 8–13 to pages 89–90 even though physical page 90 begins Passage 2.",
+        "recommendation": "Rebuild Passage 1 as one reading section from bodyParagraphs plus two question sections from questionGroups; Questions 8–13 belong only to physical page 89."
+      },
+      {
+        "sources": [
+          "bank"
+        ],
+        "physicalPages": [
+          159
+        ],
+        "severity": "critical",
+        "problem": "Questions 1–13 are generic completion placeholders with empty answers and evidence. The bank answerKeyPages point to physical pages 108–125 and answerKeyText contains unrelated General Training material instead of Test 4 Academic Reading answers.",
+        "recommendation": "Use answers and answerEvidence from this calibration, and set the Academic Reading answer source to PDF physical page 159."
+      },
+      {
+        "sources": [
+          "pages.json",
+          "raw.md"
+        ],
+        "physicalPages": [
+          158,
+          159
+        ],
+        "severity": "high",
+        "problem": "Physical page 158 is Test 4 Listening answers; Academic Reading answers are on physical page 159, whose printed page number is 158. Treating ‘page 158’ as an unqualified physical page selects the wrong answer key.",
+        "recommendation": "Store physical page 159 and printed page 158 separately."
+      }
+    ]
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "images": [],
+    "reason": "Passage 1 and Questions 1–13 contain prose, a conventional list of headings and YES/NO/NOT GIVEN statements. No diagram, chart, map, process, table or spatial layout is semantically necessary. Insert no image and never insert a whole-page screenshot."
+  },
+  "sourcePages": [
+    86,
+    87,
+    88,
+    89
+  ],
+  "answerKeyPage": 159,
+  "answerKeyPrintedPage": 158,
+  "images": [],
+  "pages": {
+    "86": "READING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 on the following pages.\n\nQuestions 1–7\n\nReading Passage 1 has seven paragraphs, A–G.\n\nChoose the correct heading for each paragraph from the list of headings below.\n\nWrite the correct number, i–x, in boxes 1–7 on your answer sheet.\n\nList of Headings\n\ni    Not all doctors are persuaded\nii   Choosing the best offers\niii  Who is responsible for the increase in promotions?\niv   Fighting the drug companies\nv    An example of what doctors expect from drug companies\nvi   Gifts include financial incentives\nvii  Research shows that promotion works\nviii The high costs of research\nix   The positive side of drugs promotion\nx    Who really pays for doctors' free gifts?\n\n1    Paragraph A\n2    Paragraph B\n3    Paragraph C\n4    Paragraph D\n5    Paragraph E\n6    Paragraph F\n7    Paragraph G",
+    "87": "Doctoring sales\n\nPharmaceuticals is one of the most profitable industries in North America. But do the drugs industry's sales and marketing strategies go too far?\n\nA\n\nA few months ago Kim Schaefer, sales representative of a major global pharmaceutical company, walked into a medical center in New York to bring information and free samples of her company's latest products. That day she was lucky – a doctor was available to see her. ‘The last rep offered me a trip to Florida. What do you have?’ the physician asked. He was only half joking.\n\nB\n\nWhat was on offer that day was a pair of tickets for a New York musical. But on any given day, what Schaefer can offer is typical for today's drugs rep – a car trunk full of promotional gifts and gadgets, a budget that could buy lunches and dinners for a small country, hundreds of free drug samples and the freedom to give a physician $200 to prescribe her new product to the next six patients who fit the drug's profile. And she also has a few $1,000 honoraria to offer in exchange for doctors' attendance at her company's next educational lecture.\n\nC\n\nSelling pharmaceuticals is a daily exercise in ethical judgement. Salespeople like Schaefer walk the line between the common practice of buying a prospect's time with a free meal, and bribing doctors to prescribe their drugs. They work in an industry highly criticized for its sales and marketing practices, but find themselves in the middle of the age-old chicken-or-egg question – businesses won't use strategies that don't work, so are doctors to blame for the escalating extravagance of pharmaceutical marketing? Or is it the industry's responsibility to decide the boundaries?\n\nD\n\nThe explosion in the sheer number of salespeople in the field – and the amount of funding used to promote their causes – forces close examination of the pressures, influences and relationships between drug reps and doctors. Salespeople provide much-needed information and education to physicians. In many cases the glossy brochures, article reprints and prescriptions they deliver are primary sources of drug education for healthcare givers. With the huge investment the industry has placed in face-to-face selling, salespeople have essentially become specialists in one drug or group of drugs – a tremendous advantage in getting the attention of busy doctors in need of quick information.\n\nE\n\nBut the sales push rarely stops in the office. The flashy brochures and pamphlets left by the sales reps are often followed up with meals at expensive restaurants, meetings in warm and sunny places, and an inundation of promotional gadgets. Rarely do patients watch a doctor write with a pen that isn't emblazoned with a drug's name, or see a",
+    "88": "nurse use a tablet not bearing a pharmaceutical company's logo. Millions of dollars are spent by pharmaceutical companies on promotional products like coffee mugs, shirts, umbrellas, and golf balls. Money well spent? It's hard to tell. ‘I've been the recipient of golf balls from one company and I use them, but it doesn't make me prescribe their medicine,’ says one doctor. ‘I tend to think I'm not influenced by what they give me.’\n\nF\n\nFree samples of new and expensive drugs might be the single most effective way of getting doctors and patients to become loyal to a product. Salespeople hand out hundreds of dollars' worth of samples each week – $7.2 billion worth of them in one year. Though few comprehensive studies have been conducted, one by the University of Washington investigated how drug sample availability affected what physicians prescribe. A total of 131 doctors self-reported their prescribing patterns – the conclusion was that the availability of samples led them to dispense and prescribe drugs that differed from their preferred drug choice.\n\nG\n\nThe bottom line is that pharmaceutical companies as a whole invest more in marketing than they do in research and development. And patients are the ones who pay – in the form of sky-rocketing prescription prices – for every pen that's handed out, every free theatre ticket, and every steak dinner eaten. In the end the fact remains that pharmaceutical companies have every right to make a profit and will continue to find new ways to increase sales. But as the medical world continues to grapple with what's acceptable and what's not, it is clear that companies must continue to be heavily scrutinized for their sales and marketing strategies.",
+    "89": "Questions 8–13\n\nDo the following statements agree with the views of the writer in Reading Passage 1?\n\nIn boxes 8–13 on your answer sheet, write\n\nYES         if the statement agrees with the views of the writer\nNO          if the statement contradicts the views of the writer\nNOT GIVEN   if it is impossible to say what the writer thinks about this\n\n8    Sales representatives like Kim Schaefer work to a very limited budget.\n9    Kim Schaefer's marketing technique may be open to criticism on moral grounds.\n10   The information provided by drug companies is of little use to doctors.\n11   Evidence of drug promotion is clearly visible in the healthcare environment.\n12   The drug companies may give free drug samples to patients without doctors' prescriptions.\n13   It is legitimate for drug companies to make money.",
+    "159": "ACADEMIC READING\n\nReading Passage 1, Questions 1–13\n\n1    v\n2    vi\n3    iii\n4    ix\n5    i\n6    vii\n7    x\n8    NO\n9    YES\n10   NO\n11   YES\n12   NOT GIVEN\n13   YES\n\nReading Passage 2, Questions 14–26\n\n14   B\n15   F\n16   C\n17   J\n18   F\n19   NOT GIVEN\n20   NO\n21   YES\n22   YES\n23   NO\n24   NOT GIVEN\n25&26 IN EITHER ORDER\n     C\n     E\n\nReading Passage 3, Questions 27–40\n\n27   iv\n28   vi\n29   v\n30   vii\n31   B\n32   D\n33   D\n34   A\n35   policy\n36   (explicit) guidelines\n37   (school) curriculum\n38   victims\n39   playful fighting\n40   D\n\nIf you score ...\n\n0–12\n\nyou are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.\n\n13–29\n\nyou may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.\n\n30–40\n\nyou are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable."
+  },
+  "independentBlindReview": {
+    "authority": "data/Cambridge-IELTS-06.pdf",
+    "visuallyInspectedPhysicalPages": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      159
+    ],
+    "passagePhysicalPages": [
+      86,
+      87,
+      88,
+      89
+    ],
+    "boundaryConfirmationPage": 90,
+    "answerKeyPhysicalPage": 159,
+    "pagesJsonRawAndBankUsedAsAuthority": false,
+    "bodySentenceUnits": 32,
+    "questionCount": 13,
+    "headingOptionCount": 10,
+    "distractorRationaleCount": 75,
+    "semanticImageRequired": false
+  }
+}

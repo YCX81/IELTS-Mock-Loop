@@ -1,0 +1,527 @@
+{
+  "book": 16,
+  "test": 2,
+  "passage": 3,
+  "calibrationStatus": "authoritative_manual_visual_calibration_against_original_pdf",
+  "calibrationDate": "2026-07-23",
+  "pdf": "data/Cambridge-IELTS-16.pdf",
+  "calibrationMethod": "The original PDF was rendered and inspected visually before auxiliary extracted text was consulted. PDF 1-based page 48 was checked as the end of Passage 2, pages 49–50 contain the complete Passage 3 article, pages 51–53 contain Questions 27–40, and page 54 begins Writing. The Test 2 Academic Reading answer key was located and read visually on PDF 1-based page 126 (printed page 124). Extracted text and the existing intensive-reading transcription were used only after the visual pass as comparison aids.",
+  "reviewedPdfPages1Based": [48, 49, 50, 51, 52, 53, 54, 125, 126, 127],
+  "boundaryPages": [
+    {
+      "pdfPage1Based": 48,
+      "printedPage": 46,
+      "finding": "Questions 21–26 conclude Reading Passage 2; Passage 3 has not started."
+    },
+    {
+      "pdfPage1Based": 49,
+      "printedPage": 47,
+      "finding": "READING PASSAGE 3, its lead instruction, title and body paragraphs 1–5 begin here."
+    },
+    {
+      "pdfPage1Based": 53,
+      "printedPage": 51,
+      "finding": "Questions 36–40 conclude Reading Passage 3."
+    },
+    {
+      "pdfPage1Based": 54,
+      "printedPage": 52,
+      "finding": "WRITING TASK 1 begins; no Passage 3 material crosses this boundary."
+    }
+  ],
+  "sourcePages": [49, 50, 51, 52, 53],
+  "sourcePrintedPages": [47, 48, 49, 50, 51],
+  "printedPageMap": {
+    "48": 46,
+    "49": 47,
+    "50": 48,
+    "51": 49,
+    "52": 50,
+    "53": 51,
+    "54": 52,
+    "125": 123,
+    "126": 124,
+    "127": 125
+  },
+  "passagePages": [49, 50],
+  "passagePrintedPages": [47, 48],
+  "questionPages": [51, 52, 53],
+  "questionPrintedPages": [49, 50, 51],
+  "answerPage": 126,
+  "answerKeyPage": 126,
+  "answerKeyPrintedPage": 124,
+  "answerKey": {
+    "section": "TEST 2 READING",
+    "heading": "Reading Passage 3, Questions 27–40",
+    "actualPdfPage1Based": 126,
+    "printedPageNumber": 124,
+    "finding": "The visually inspected key prints 27 B, 28 C, 29 B, 30 D, 31 D, 32 A, 33 C, 34 F, 35 G, 36 FALSE, 37 NOT GIVEN, 38 NOT GIVEN, 39 TRUE and 40 TRUE."
+  },
+  "sectionHeading": "READING PASSAGE 3",
+  "leadInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "title": "How to make wise decisions",
+  "titleLineation": ["How to make wise decisions"],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": null,
+      "sourcePages": [49],
+      "paragraphs": [
+        "Across cultures, wisdom has been considered one of the most revered human qualities. Although the truly wise may seem few and far between, empirical research examining wisdom suggests that it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all – in fact, the latest studies suggest that most of us have the ability to make wise decisions, given the right context.",
+        "‘It appears that experiential, situational, and cultural factors are even more powerful in shaping wisdom than previously imagined,’ says Associate Professor Igor Grossmann of the University of Waterloo in Ontario, Canada. ‘Recent empirical findings from cognitive, developmental, social, and personality psychology cumulatively suggest that people’s ability to reason wisely varies dramatically across experiential and situational contexts. Understanding the role of such contextual factors offers unique insights into understanding wisdom in daily life, as well as how it can be enhanced and taught.’",
+        "It seems that it’s not so much that some people simply possess wisdom and others lack it, but that our ability to reason wisely depends on a variety of external factors. ‘It is impossible to characterize thought processes attributed to wisdom without considering the role of contextual factors,’ explains Grossmann. ‘In other words, wisdom is not solely an “inner quality” but rather unfolds as a function of situations people happen to be in. Some situations are more likely to promote wisdom than others.’",
+        "Coming up with a definition of wisdom is challenging, but Grossmann and his colleagues have identified four key characteristics as part of a framework of wise reasoning. One is intellectual humility or recognition of the limits of our own knowledge, and another is appreciation of perspectives wider than the issue at hand. Sensitivity to the possibility of change in social relations is also key, along with compromise or integration of different attitudes and beliefs.",
+        "Grossmann and his colleagues have also found that one of the most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend. Research suggests that when adopting a first-person viewpoint we focus on ‘the focal features of the environment’ and when we adopt a third-person, ‘observer’ viewpoint we reason more broadly and focus more on interpersonal and moral ideals such as justice and impartiality. Looking at problems from this more expansive viewpoint appears to foster cognitive processes related to wise decisions."
+      ]
+    },
+    {
+      "label": null,
+      "sourcePages": [50],
+      "paragraphs": [
+        "What are we to do, then, when confronted with situations like a disagreement with a spouse or negotiating a contract at work, that require us to take a personal stake? Grossmann argues that even when we aren’t able to change the situation, we can still evaluate these experiences from different perspectives.",
+        "For example, in one experiment that took place during the peak of a recent economic recession, graduating college seniors were asked to reflect on their job prospects. The students were instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own eyes as if you were right there’. Participants in the group assigned to the ‘distant observer’ role displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group.",
+        "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective. Participants then discussed the incident with their partner for 10 minutes, after which they wrote down their thoughts about it. Couples in the ‘other’s eyes’ condition were significantly more likely to rely on wise reasoning – recognizing others’ perspectives and searching for a compromise – compared to the couples in the egocentric condition.",
+        "‘Ego-decentering promotes greater focus on others and enables a bigger picture, conceptual view of the experience, affording recognition of intellectual humility and change,’ says Grossmann.",
+        "We might associate wisdom with intelligence or particular personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness. ‘It is remarkable how much people can vary in their wisdom from one situation to the next, and how much stronger such contextual effects are for understanding the relationship between wise judgment and its social and affective outcomes as compared to the generalized “traits”,’ Grossmann explains. ‘That is, knowing how wisely a person behaves in a given situation is more informative for understanding their emotions or likelihood to forgive [or] retaliate as compared to knowing whether the person may be wise “in general”.’"
+      ]
+    }
+  ],
+  "footnotes": [],
+  "sentences": [
+    "Across cultures, wisdom has been considered one of the most revered human qualities.",
+    "Although the truly wise may seem few and far between, empirical research examining wisdom suggests that it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all – in fact, the latest studies suggest that most of us have the ability to make wise decisions, given the right context.",
+    "‘It appears that experiential, situational, and cultural factors are even more powerful in shaping wisdom than previously imagined,’ says Associate Professor Igor Grossmann of the University of Waterloo in Ontario, Canada.",
+    "‘Recent empirical findings from cognitive, developmental, social, and personality psychology cumulatively suggest that people’s ability to reason wisely varies dramatically across experiential and situational contexts.",
+    "Understanding the role of such contextual factors offers unique insights into understanding wisdom in daily life, as well as how it can be enhanced and taught.’",
+    "It seems that it’s not so much that some people simply possess wisdom and others lack it, but that our ability to reason wisely depends on a variety of external factors.",
+    "‘It is impossible to characterize thought processes attributed to wisdom without considering the role of contextual factors,’ explains Grossmann.",
+    "‘In other words, wisdom is not solely an “inner quality” but rather unfolds as a function of situations people happen to be in.",
+    "Some situations are more likely to promote wisdom than others.’",
+    "Coming up with a definition of wisdom is challenging, but Grossmann and his colleagues have identified four key characteristics as part of a framework of wise reasoning.",
+    "One is intellectual humility or recognition of the limits of our own knowledge, and another is appreciation of perspectives wider than the issue at hand.",
+    "Sensitivity to the possibility of change in social relations is also key, along with compromise or integration of different attitudes and beliefs.",
+    "Grossmann and his colleagues have also found that one of the most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend.",
+    "Research suggests that when adopting a first-person viewpoint we focus on ‘the focal features of the environment’ and when we adopt a third-person, ‘observer’ viewpoint we reason more broadly and focus more on interpersonal and moral ideals such as justice and impartiality.",
+    "Looking at problems from this more expansive viewpoint appears to foster cognitive processes related to wise decisions.",
+    "What are we to do, then, when confronted with situations like a disagreement with a spouse or negotiating a contract at work, that require us to take a personal stake?",
+    "Grossmann argues that even when we aren’t able to change the situation, we can still evaluate these experiences from different perspectives.",
+    "For example, in one experiment that took place during the peak of a recent economic recession, graduating college seniors were asked to reflect on their job prospects.",
+    "The students were instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own eyes as if you were right there’.",
+    "Participants in the group assigned to the ‘distant observer’ role displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group.",
+    "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective.",
+    "Participants then discussed the incident with their partner for 10 minutes, after which they wrote down their thoughts about it.",
+    "Couples in the ‘other’s eyes’ condition were significantly more likely to rely on wise reasoning – recognizing others’ perspectives and searching for a compromise – compared to the couples in the egocentric condition.",
+    "‘Ego-decentering promotes greater focus on others and enables a bigger picture, conceptual view of the experience, affording recognition of intellectual humility and change,’ says Grossmann.",
+    "We might associate wisdom with intelligence or particular personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.",
+    "‘It is remarkable how much people can vary in their wisdom from one situation to the next, and how much stronger such contextual effects are for understanding the relationship between wise judgment and its social and affective outcomes as compared to the generalized “traits”,’ Grossmann explains.",
+    "‘That is, knowing how wisely a person behaves in a given situation is more informative for understanding their emotions or likelihood to forgive [or] retaliate as compared to knowing whether the person may be wise “in general”.’"
+  ],
+  "sentenceParagraphMap": [
+    {"paragraph": 1, "sentenceStart": 0, "sentenceEndExclusive": 2},
+    {"paragraph": 2, "sentenceStart": 2, "sentenceEndExclusive": 5},
+    {"paragraph": 3, "sentenceStart": 5, "sentenceEndExclusive": 9},
+    {"paragraph": 4, "sentenceStart": 9, "sentenceEndExclusive": 12},
+    {"paragraph": 5, "sentenceStart": 12, "sentenceEndExclusive": 15},
+    {"paragraph": 6, "sentenceStart": 15, "sentenceEndExclusive": 17},
+    {"paragraph": 7, "sentenceStart": 17, "sentenceEndExclusive": 20},
+    {"paragraph": 8, "sentenceStart": 20, "sentenceEndExclusive": 23},
+    {"paragraph": 9, "sentenceStart": 23, "sentenceEndExclusive": 24},
+    {"paragraph": 10, "sentenceStart": 24, "sentenceEndExclusive": 27}
+  ],
+  "sentencePageMap": [
+    {"pdfPage1Based": 49, "printedPage": 47, "sentenceStart": 0, "sentenceEndExclusive": 15},
+    {"pdfPage1Based": 50, "printedPage": 48, "sentenceStart": 15, "sentenceEndExclusive": 27}
+  ],
+  "pageBreaks": [
+    {
+      "afterPdfPage1Based": 49,
+      "beforePdfPage1Based": 50,
+      "finding": "The page break falls between paragraphs 5 and 6; no body sentence crosses the page boundary."
+    }
+  ],
+  "typography": {
+    "bodyStructure": "A centred title is followed by ten unlabelled body paragraphs. Paragraphs 1–5 are on PDF page 49 and paragraphs 6–10 are on PDF page 50.",
+    "questionStructure": "PDF page 51 contains Questions 27–30, page 52 contains Questions 31–35 and their A–J word list, and page 53 contains Questions 36–40.",
+    "quotation": "Curly quotation marks and apostrophes, nested double quotation marks, and the editorial square brackets around [or] are retained exactly.",
+    "dashes": "Printed ranges and parenthetical interruptions use en dashes; day-to-day, third-party, first-person, wisdom-related, long-term and Ego-decentering retain their source hyphens.",
+    "spelling": "Source spellings such as characterize, visualize, judgment, behaviour is absent, and crystallized are retained exactly as printed.",
+    "excludedVisuals": "The A–J option border, answer lines, page-turn icon and Resource Bank icon are layout or decorative elements rather than semantic images."
+  },
+  "questionGroups": [
+    {
+      "range": "27–30",
+      "type": "multiple_choice_single_answer",
+      "sourcePages": [51],
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 27–30 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 27,
+          "stem": "What point does the writer make in the first paragraph?",
+          "options": {
+            "A": "Wisdom appears to be unique to the human race.",
+            "B": "A basic assumption about wisdom may be wrong.",
+            "C": "Concepts of wisdom may depend on the society we belong to.",
+            "D": "There is still much to be discovered about the nature of wisdom."
+          },
+          "answer": "B",
+          "evidence": "Although the truly wise may seem few and far between, empirical research examining wisdom suggests that it isn’t an exceptional trait possessed by a small handful of bearded philosophers after all – in fact, the latest studies suggest that most of us have the ability to make wise decisions, given the right context.",
+          "evidenceSentenceIndices": [1],
+          "distractors": ["A", "C", "D"],
+          "optionAnalysis": {
+            "A": "The paragraph calls wisdom a revered human quality but does not compare humans with other species or say wisdom is unique to humans.",
+            "B": "Correct: the assumption that wisdom belongs only to a rare handful is challenged by evidence that most people can make wise decisions in the right context.",
+            "C": "Across cultures establishes widespread reverence for wisdom; it does not say concepts of wisdom differ by society.",
+            "D": "The paragraph reports a corrective research finding rather than emphasizing how much remains unknown."
+          }
+        },
+        {
+          "number": 28,
+          "stem": "What does Igor Grossmann suggest about the ability to make wise decisions?",
+          "options": {
+            "A": "It can vary greatly from one person to another.",
+            "B": "Earlier research into it was based on unreliable data.",
+            "C": "The importance of certain influences on it was underestimated.",
+            "D": "Various branches of psychology define it according to their own criteria."
+          },
+          "answer": "C",
+          "evidence": "‘It appears that experiential, situational, and cultural factors are even more powerful in shaping wisdom than previously imagined,’ says Associate Professor Igor Grossmann of the University of Waterloo in Ontario, Canada.",
+          "evidenceSentenceIndices": [2],
+          "distractors": ["A", "B", "D"],
+          "optionAnalysis": {
+            "A": "Grossmann says wisdom varies across experiential and situational contexts, not chiefly from one person to another.",
+            "B": "Previously imagined concerns the estimated strength of influences; it does not accuse earlier research of using unreliable data.",
+            "C": "Correct: the factors are more powerful than previously imagined, so their importance had been underestimated.",
+            "D": "The branches of psychology contribute cumulative findings; no separate definitions or criteria are described."
+          }
+        },
+        {
+          "number": 29,
+          "stem": "According to the third paragraph, Grossmann claims that the level of wisdom an individual shows",
+          "options": {
+            "A": "can be greater than they think it is.",
+            "B": "will be different in different circumstances.",
+            "C": "may be determined by particular aspects of their personality.",
+            "D": "should develop over time as a result of their life experiences."
+          },
+          "answer": "B",
+          "evidence": "‘In other words, wisdom is not solely an “inner quality” but rather unfolds as a function of situations people happen to be in. Some situations are more likely to promote wisdom than others.’",
+          "evidenceSentenceIndices": [7, 8],
+          "distractors": ["A", "C", "D"],
+          "optionAnalysis": {
+            "A": "The paragraph does not compare self-assessed and actual wisdom.",
+            "B": "Correct: wisdom unfolds according to situations, and some situations promote it more than others.",
+            "C": "The paragraph rejects wisdom as solely an inner quality and emphasizes external contextual factors.",
+            "D": "Experiential factors do not amount to a claim that wisdom should steadily develop over time."
+          }
+        },
+        {
+          "number": 30,
+          "stem": "What is described in the fifth paragraph?",
+          "options": {
+            "A": "a difficulty encountered when attempting to reason wisely",
+            "B": "an example of the type of person who is likely to reason wisely",
+            "C": "a controversial view about the benefits of reasoning wisely",
+            "D": "a recommended strategy that can help people to reason wisely"
+          },
+          "answer": "D",
+          "evidence": "Grossmann and his colleagues have also found that one of the most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend.",
+          "evidenceSentenceIndices": [12],
+          "distractors": ["A", "B", "C"],
+          "optionAnalysis": {
+            "A": "The paragraph presents a method, not an obstacle.",
+            "B": "It describes a perspective anyone can adopt, not a type of person.",
+            "C": "No controversy or opposing view is reported.",
+            "D": "Correct: looking from a third-party perspective is identified as a reliable way to support wise decisions."
+          }
+        }
+      ]
+    },
+    {
+      "range": "31–35",
+      "type": "summary_completion_from_word_list",
+      "sourcePages": [52],
+      "instructions": [
+        "Complete the summary using the list of words, A–J, below.",
+        "Write the correct letter, A–J, in boxes 31–35 on your answer sheet."
+      ],
+      "summaryTitle": "The characteristics of wise reasoning",
+      "summaryText": [
+        "Igor Grossmann and colleagues have established four characteristics which enable us to make wise decisions. It is important to have a certain degree of 31 __________ regarding the extent of our knowledge, and to take into account 32 __________ which may not be the same as our own. We should also be able to take a broad 33 __________ of any situation. Another key characteristic is being aware of the likelihood of alterations in the way that people relate to each other.",
+        "Grossmann also believes that it is better to regard scenarios with 34 __________. By avoiding the first-person perspective, we focus more on 35 __________ and on other moral ideals, which in turn leads to wiser decision-making."
+      ],
+      "options": {
+        "A": "opinions",
+        "B": "confidence",
+        "C": "view",
+        "D": "modesty",
+        "E": "problems",
+        "F": "objectivity",
+        "G": "fairness",
+        "H": "experiences",
+        "I": "range",
+        "J": "reasons"
+      },
+      "questions": [
+        {
+          "number": 31,
+          "stem": "It is important to have a certain degree of 31 __________ regarding the extent of our knowledge",
+          "answer": "D",
+          "answerText": "modesty",
+          "evidence": "One is intellectual humility or recognition of the limits of our own knowledge, and another is appreciation of perspectives wider than the issue at hand.",
+          "evidenceSentenceIndices": [10],
+          "distractors": ["A", "B", "C", "E", "F", "G", "H", "I", "J"]
+        },
+        {
+          "number": 32,
+          "stem": "and to take into account 32 __________ which may not be the same as our own.",
+          "answer": "A",
+          "answerText": "opinions",
+          "evidence": "One is intellectual humility or recognition of the limits of our own knowledge, and another is appreciation of perspectives wider than the issue at hand.",
+          "evidenceSentenceIndices": [10],
+          "distractors": ["B", "C", "D", "E", "F", "G", "H", "I", "J"]
+        },
+        {
+          "number": 33,
+          "stem": "We should also be able to take a broad 33 __________ of any situation.",
+          "answer": "C",
+          "answerText": "view",
+          "evidence": "One is intellectual humility or recognition of the limits of our own knowledge, and another is appreciation of perspectives wider than the issue at hand.",
+          "evidenceSentenceIndices": [10],
+          "distractors": ["A", "B", "D", "E", "F", "G", "H", "I", "J"]
+        },
+        {
+          "number": 34,
+          "stem": "Grossmann also believes that it is better to regard scenarios with 34 __________.",
+          "answer": "F",
+          "answerText": "objectivity",
+          "evidence": "Grossmann and his colleagues have also found that one of the most reliable ways to support wisdom in our own day-to-day decisions is to look at scenarios from a third-party perspective, as though giving advice to a friend.",
+          "evidenceSentenceIndices": [12],
+          "distractors": ["A", "B", "C", "D", "E", "G", "H", "I", "J"]
+        },
+        {
+          "number": 35,
+          "stem": "By avoiding the first-person perspective, we focus more on 35 __________ and on other moral ideals, which in turn leads to wiser decision-making.",
+          "answer": "G",
+          "answerText": "fairness",
+          "evidence": "Research suggests that when adopting a first-person viewpoint we focus on ‘the focal features of the environment’ and when we adopt a third-person, ‘observer’ viewpoint we reason more broadly and focus more on interpersonal and moral ideals such as justice and impartiality.",
+          "evidenceSentenceIndices": [13],
+          "distractors": ["A", "B", "C", "D", "E", "F", "H", "I", "J"]
+        }
+      ],
+      "optionAnalysis": {
+        "31": {
+          "A": "Opinions answer blank 32 rather than the degree of intellectual humility.",
+          "B": "Confidence fits the grammar but conflicts with recognition of the limits of knowledge.",
+          "C": "View answers blank 33.",
+          "D": "Correct: modesty paraphrases intellectual humility.",
+          "E": "Problems do not describe a degree regarding knowledge.",
+          "F": "Objectivity answers blank 34.",
+          "G": "Fairness answers blank 35.",
+          "H": "Experiences do not paraphrase intellectual humility.",
+          "I": "Range does not express humility and does not fit the intended meaning.",
+          "J": "Reasons do not paraphrase intellectual humility."
+        },
+        "32": {
+          "A": "Correct: opinions paraphrases perspectives that may differ from our own.",
+          "B": "Confidence is not something described as differing from our own in this characteristic.",
+          "C": "View is needed in the fixed phrase for blank 33.",
+          "D": "Modesty answers blank 31.",
+          "E": "The passage says to appreciate wider perspectives, not different problems.",
+          "F": "Objectivity answers blank 34.",
+          "G": "Fairness answers blank 35.",
+          "H": "Experiences are a topic-level lure but do not directly paraphrase perspectives here.",
+          "I": "Range does not fit the relative clause or the source idea.",
+          "J": "Reasons are not identified as the perspectives to consider."
+        },
+        "33": {
+          "A": "Opinions answer blank 32.",
+          "B": "Take a broad confidence of is not a valid collocation.",
+          "C": "Correct: take a broad view of is the required collocation and paraphrases a wider perspective.",
+          "D": "Take a broad modesty of is not grammatical.",
+          "E": "Take a broad problems of is not grammatical.",
+          "F": "Take a broad objectivity of is not the source construction.",
+          "G": "Take a broad fairness of is not grammatical.",
+          "H": "Take a broad experiences of is not grammatical.",
+          "I": "A broad range requires a following plural set, not of any situation in this meaning.",
+          "J": "Take a broad reasons of is not grammatical."
+        },
+        "34": {
+          "A": "Opinions answer blank 32 and do not express the detached manner of viewing.",
+          "B": "Confidence is not the third-party perspective described.",
+          "C": "View answers blank 33.",
+          "D": "Modesty answers blank 31.",
+          "E": "Regard scenarios with problems does not describe an observer perspective.",
+          "F": "Correct: objectivity paraphrases looking from a third-party perspective.",
+          "G": "Fairness answers blank 35.",
+          "H": "Experiences do not express the manner in which scenarios should be regarded.",
+          "I": "Range does not fit the meaning or collocation.",
+          "J": "Reasons do not paraphrase third-party objectivity."
+        },
+        "35": {
+          "A": "Opinions answer blank 32 and are not a class of moral ideals in this sentence.",
+          "B": "Confidence is not one of the moral ideals named.",
+          "C": "View answers blank 33.",
+          "D": "Modesty answers blank 31.",
+          "E": "Problems are not a moral ideal.",
+          "F": "Objectivity answers blank 34.",
+          "G": "Correct: fairness summarizes justice and impartiality.",
+          "H": "Experiences are not a moral ideal.",
+          "I": "Range is not a moral ideal.",
+          "J": "Reasons are not a moral ideal."
+        }
+      }
+    },
+    {
+      "range": "36–40",
+      "type": "true_false_not_given",
+      "sourcePages": [53],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 3?",
+        "In boxes 36–40 on your answer sheet, write",
+        "TRUE if the statement agrees with the information",
+        "FALSE if the statement contradicts the information",
+        "NOT GIVEN if there is no information on this"
+      ],
+      "questions": [
+        {
+          "number": 36,
+          "stem": "Students participating in the job prospects experiment could choose one of two perspectives to take.",
+          "answer": "FALSE",
+          "evidence": "The students were instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own eyes as if you were right there’. Participants in the group assigned to the ‘distant observer’ role displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group.",
+          "evidenceSentenceIndices": [18, 19],
+          "distractors": ["TRUE", "NOT GIVEN"],
+          "rationale": "The two perspectives were experimental conditions: participants were instructed and assigned, not allowed to choose."
+        },
+        {
+          "number": 37,
+          "stem": "Participants in the couples experiment were aware that they were taking part in a study about wise reasoning.",
+          "answer": "NOT GIVEN",
+          "evidence": "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective. Participants then discussed the incident with their partner for 10 minutes, after which they wrote down their thoughts about it.",
+          "evidenceSentenceIndices": [20, 21],
+          "distractors": ["TRUE", "FALSE"],
+          "rationale": "The procedure is described, but the passage gives no information about whether participants knew the study’s purpose."
+        },
+        {
+          "number": 38,
+          "stem": "In the couples experiments, the length of the couples’ relationships had an impact on the results.",
+          "answer": "NOT GIVEN",
+          "evidence": "In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective. Participants then discussed the incident with their partner for 10 minutes, after which they wrote down their thoughts about it. Couples in the ‘other’s eyes’ condition were significantly more likely to rely on wise reasoning – recognizing others’ perspectives and searching for a compromise – compared to the couples in the egocentric condition.",
+          "evidenceSentenceIndices": [20, 21, 22],
+          "distractors": ["TRUE", "FALSE"],
+          "rationale": "Long-term describes the sample, but no relationship-length comparison or effect on results is reported."
+        },
+        {
+          "number": 39,
+          "stem": "In both experiments, the participants who looked at the situation from a more detached viewpoint tended to make wiser decisions.",
+          "answer": "TRUE",
+          "evidence": "For example, in one experiment that took place during the peak of a recent economic recession, graduating college seniors were asked to reflect on their job prospects. The students were instructed to imagine their career either ‘as if you were a distant observer’ or ‘before your own eyes as if you were right there’. Participants in the group assigned to the ‘distant observer’ role displayed more wisdom-related reasoning (intellectual humility and recognition of change) than did participants in the control group. In another study, couples in long-term romantic relationships were instructed to visualize an unresolved relationship conflict either through the eyes of an outsider or from their own perspective. Participants then discussed the incident with their partner for 10 minutes, after which they wrote down their thoughts about it. Couples in the ‘other’s eyes’ condition were significantly more likely to rely on wise reasoning – recognizing others’ perspectives and searching for a compromise – compared to the couples in the egocentric condition.",
+          "evidenceSentenceIndices": [17, 18, 19, 20, 21, 22],
+          "distractors": ["FALSE", "NOT GIVEN"],
+          "rationale": "The distant-observer group and the other’s-eyes group both showed more wise reasoning than their comparison groups."
+        },
+        {
+          "number": 40,
+          "stem": "Grossmann believes that a person’s wisdom is determined by their intelligence to only a very limited extent.",
+          "answer": "TRUE",
+          "evidence": "We might associate wisdom with intelligence or particular personality traits, but research shows only a small positive relationship between wise thinking and crystallized intelligence and the personality traits of openness and agreeableness.",
+          "evidenceSentenceIndices": [24],
+          "distractors": ["FALSE", "NOT GIVEN"],
+          "rationale": "Only a small positive relationship directly supports the claim that intelligence determines wisdom to a very limited extent."
+        }
+      ]
+    }
+  ],
+  "officialAnswers": {
+    "27": "B",
+    "28": "C",
+    "29": "B",
+    "30": "D",
+    "31": "D",
+    "32": "A",
+    "33": "C",
+    "34": "F",
+    "35": "G",
+    "36": "FALSE",
+    "37": "NOT GIVEN",
+    "38": "NOT GIVEN",
+    "39": "TRUE",
+    "40": "TRUE"
+  },
+  "officialAnswerSequence": ["B", "C", "B", "D", "D", "A", "C", "F", "G", "FALSE", "NOT GIVEN", "NOT GIVEN", "TRUE", "TRUE"],
+  "distractorOccurrences": [
+    {"question": 27, "option": "A"}, {"question": 27, "option": "C"}, {"question": 27, "option": "D"},
+    {"question": 28, "option": "A"}, {"question": 28, "option": "B"}, {"question": 28, "option": "D"},
+    {"question": 29, "option": "A"}, {"question": 29, "option": "C"}, {"question": 29, "option": "D"},
+    {"question": 30, "option": "A"}, {"question": 30, "option": "B"}, {"question": 30, "option": "C"},
+    {"question": 31, "option": "A"}, {"question": 31, "option": "B"}, {"question": 31, "option": "C"}, {"question": 31, "option": "E"}, {"question": 31, "option": "F"}, {"question": 31, "option": "G"}, {"question": 31, "option": "H"}, {"question": 31, "option": "I"}, {"question": 31, "option": "J"},
+    {"question": 32, "option": "B"}, {"question": 32, "option": "C"}, {"question": 32, "option": "D"}, {"question": 32, "option": "E"}, {"question": 32, "option": "F"}, {"question": 32, "option": "G"}, {"question": 32, "option": "H"}, {"question": 32, "option": "I"}, {"question": 32, "option": "J"},
+    {"question": 33, "option": "A"}, {"question": 33, "option": "B"}, {"question": 33, "option": "D"}, {"question": 33, "option": "E"}, {"question": 33, "option": "F"}, {"question": 33, "option": "G"}, {"question": 33, "option": "H"}, {"question": 33, "option": "I"}, {"question": 33, "option": "J"},
+    {"question": 34, "option": "A"}, {"question": 34, "option": "B"}, {"question": 34, "option": "C"}, {"question": 34, "option": "D"}, {"question": 34, "option": "E"}, {"question": 34, "option": "G"}, {"question": 34, "option": "H"}, {"question": 34, "option": "I"}, {"question": 34, "option": "J"},
+    {"question": 35, "option": "A"}, {"question": 35, "option": "B"}, {"question": 35, "option": "C"}, {"question": 35, "option": "D"}, {"question": 35, "option": "E"}, {"question": 35, "option": "F"}, {"question": 35, "option": "H"}, {"question": 35, "option": "I"}, {"question": 35, "option": "J"},
+    {"question": 36, "option": "TRUE"}, {"question": 36, "option": "NOT GIVEN"},
+    {"question": 37, "option": "TRUE"}, {"question": 37, "option": "FALSE"},
+    {"question": 38, "option": "TRUE"}, {"question": 38, "option": "FALSE"},
+    {"question": 39, "option": "FALSE"}, {"question": 39, "option": "NOT GIVEN"},
+    {"question": 40, "option": "FALSE"}, {"question": 40, "option": "NOT GIVEN"}
+  ],
+  "semanticImages": [],
+  "images": [],
+  "bodyParagraphs": 10,
+  "sourceAudit": {
+    "visualPdfFirst": true,
+    "bodyComparedWithExtractedTextAfterVisualPass": true,
+    "questionsComparedWithExtractedTextAfterVisualPass": true,
+    "answersReadDirectlyFromAnswerPage": true,
+    "rawPageConvention": "one_based_physical_pdf_page",
+    "knownExtractedTextCorrections": [
+      "Visual inspection restored the en dash after ‘after all’ and in printed question ranges.",
+      "Visual inspection confirmed curly quotation marks, nested double quotation marks and the closing quotation mark after ‘in general’.",
+      "Visual inspection confirmed the original editorial insertion [or] in the final sentence.",
+      "Visual inspection confirmed the original wording ‘In the couples experiments’ in Question 38."
+    ],
+    "excludedNonBookContent": []
+  },
+  "semanticImageDecision": "No semantic image is present in Passage 3 or Questions 27–40. The A–J option border, answer lines, page-turn icon and Resource Bank icon are layout or decorative elements and are excluded.",
+  "imageDecision": {
+    "count": 0,
+    "finding": "No semantic image is needed. The A–J word list is fully preserved as structured text; borders, icons and page furniture are not content images. No whole-page screenshot is retained."
+  },
+  "pages": [
+    {"page": 49, "printedPage": 47, "content": "Passage heading, lead instruction, title and body paragraphs 1–5."},
+    {"page": 50, "printedPage": 48, "content": "Body paragraphs 6–10; article concludes."},
+    {"page": 51, "printedPage": 49, "content": "Questions 27–30 with four options each."},
+    {"page": 52, "printedPage": 50, "content": "Questions 31–35, complete summary and options A–J."},
+    {"page": 53, "printedPage": 51, "content": "Questions 36–40 and complete TRUE/FALSE/NOT GIVEN instructions."},
+    {"page": 126, "printedPage": 124, "content": "Official Test 2 Academic Reading answer key for Questions 27–40."}
+  ],
+  "validation": {
+    "paragraphCount": 10,
+    "sentenceCount": 27,
+    "questionCount": 14,
+    "questionRange": "27–40",
+    "questionNumbers": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40],
+    "formalDistractorOccurrenceCount": 67,
+    "semanticImageCount": 0,
+    "paragraphsReconstructFromSentences": true,
+    "allEvidenceIndicesValid": true,
+    "allEvidenceIsContinuousOriginalText": true,
+    "officialAnswersVisuallyVerified": true,
+    "extractedTextUsedOnlyAsAuxiliaryAfterVisualInspection": true
+  },
+  "selfCheck": {
+    "sentenceCount": 27,
+    "sentenceNumbering": "1–27 continuous; title excluded",
+    "paragraphCoverage": "ten unlabelled paragraphs complete",
+    "questionCoverage": "27–40 complete",
+    "questionCount": 14,
+    "formalDistractorOccurrences": 67,
+    "formalDistractorCounting": "Questions 27–30 each expose three non-answer choices (12 occurrences). Questions 31–35 each expose nine non-answer choices from A–J (45 occurrences). Questions 36–40 each expose the two non-answer TRUE/FALSE/NOT GIVEN branches (10 occurrences).",
+    "imageCount": 0,
+    "sourcePages": [49, 50, 51, 52, 53],
+    "answerKeyPage": 126
+  }
+}

@@ -1,0 +1,674 @@
+{
+  "book": 8,
+  "test": 2,
+  "passage": 1,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-08.pdf",
+  "calibrationMethod": "Independent blind visual audit against data/Cambridge-IELTS-08.pdf only. Physical pages 39 and 44 established the boundaries; physical pages 40–43 were rendered at high resolution and reread for the title, eight body paragraphs, 38 complete sentences, page break, table, process diagram and every word of Questions 1–13. Physical page 154 was independently read as the Test 2 Academic Reading answer page. No pages.json, raw.md, bank, prior intensive-reading material, recovered source or OCR was consulted.",
+  "reviewedPhysicalPages": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    154
+  ],
+  "boundaryPages": [
+    {
+      "physicalPage": 39,
+      "printedPage": 40,
+      "finding": "Physical page 39 is the final page of Listening Test 2 (Questions 37–40); Reading Passage 1 begins on physical page 40."
+    },
+    {
+      "physicalPage": 44,
+      "printedPage": 45,
+      "finding": "Physical page 44 begins Reading Passage 2 and Questions 14–17; Reading Passage 1 ends on physical page 43."
+    }
+  ],
+  "sourcePages": [
+    40,
+    41,
+    42,
+    43
+  ],
+  "sourcePrintedPages": [
+    41,
+    42,
+    43,
+    44
+  ],
+  "printedPageMap": {
+    "39": 40,
+    "40": 41,
+    "41": 42,
+    "42": 43,
+    "43": 44,
+    "44": 45,
+    "154": 155
+  },
+  "passagePages": [
+    40,
+    41
+  ],
+  "passagePrintedPages": [
+    41,
+    42
+  ],
+  "questionPages": [
+    42,
+    43
+  ],
+  "questionPrintedPages": [
+    43,
+    44
+  ],
+  "answerPage": 154,
+  "answerKeyPage": 154,
+  "answerKeyPrintedPage": 155,
+  "answerKey": {
+    "section": "ACADEMIC READING",
+    "heading": "Reading Passage 1, Questions 1–13",
+    "actualPdfPhysicalPage": 154,
+    "printedPageNumber": 155,
+    "finding": "Physical page 154, printed page 155, contains the Test 2 Academic Reading key; Questions 1–13 are in the upper left column."
+  },
+  "sectionHeading": "READING PASSAGE 1",
+  "leadInstruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+  "title": "Sheet glass manufacture: the float process",
+  "titleLineation": [
+    "Sheet glass manufacture:",
+    "the float process"
+  ],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": null,
+      "paragraphs": [
+        "Glass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’. However, the process took a long time and was labour intensive.",
+        "Nevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive.",
+        "The float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin.",
+        "The rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass.",
+        "Pilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years.",
+        "Float plants today make glass of near optical quality. Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved.",
+        "The principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws.",
+        "Float glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste."
+      ]
+    }
+  ],
+  "footnotes": [],
+  "sentences": [
+    "Glass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime.",
+    "When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled.",
+    "The first successful method for making clear, flat glass involved spinning.",
+    "This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’.",
+    "However, the process took a long time and was labour intensive.",
+    "Nevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously.",
+    "The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle.",
+    "This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished.",
+    "This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive.",
+    "The float process for making flat glass was invented by Alistair Pilkington.",
+    "This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles.",
+    "Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath.",
+    "The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C).",
+    "The best metal for the job was tin.",
+    "The rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal.",
+    "Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat.",
+    "If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface.",
+    "Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers.",
+    "The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin.",
+    "By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass.",
+    "Pilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant.",
+    "However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass.",
+    "Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production.",
+    "When it started up again it took another four months to get the process right again.",
+    "They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years.",
+    "Float plants today make glass of near optical quality.",
+    "Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace.",
+    "They occur in separate zones in a complex glass flow driven by high temperatures.",
+    "It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved.",
+    "The principle of float glass is unchanged since the 1950s.",
+    "However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection.",
+    "To ensure the highest quality, inspection takes place at every stage.",
+    "Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon.",
+    "Automated on-line inspection does two things.",
+    "Firstly, it reveals process faults upstream that can be corrected.",
+    "Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see.",
+    "Secondly, it enables computers downstream to steer cutters around flaws.",
+    "Float glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste."
+  ],
+  "sentenceParagraphMap": [
+    {
+      "paragraphIndex": 0,
+      "section": null,
+      "sentenceStart": 0,
+      "sentenceEndExclusive": 5
+    },
+    {
+      "paragraphIndex": 1,
+      "section": null,
+      "sentenceStart": 5,
+      "sentenceEndExclusive": 9
+    },
+    {
+      "paragraphIndex": 2,
+      "section": null,
+      "sentenceStart": 9,
+      "sentenceEndExclusive": 14
+    },
+    {
+      "paragraphIndex": 3,
+      "section": null,
+      "sentenceStart": 14,
+      "sentenceEndExclusive": 20
+    },
+    {
+      "paragraphIndex": 4,
+      "section": null,
+      "sentenceStart": 20,
+      "sentenceEndExclusive": 25
+    },
+    {
+      "paragraphIndex": 5,
+      "section": null,
+      "sentenceStart": 25,
+      "sentenceEndExclusive": 29
+    },
+    {
+      "paragraphIndex": 6,
+      "section": null,
+      "sentenceStart": 29,
+      "sentenceEndExclusive": 37
+    },
+    {
+      "paragraphIndex": 7,
+      "section": null,
+      "sentenceStart": 37,
+      "sentenceEndExclusive": 38
+    }
+  ],
+  "sentencePageMap": [
+    {
+      "physicalPage": 40,
+      "printedPage": 41,
+      "sentenceStart": 0,
+      "sentenceEndExclusive": 20
+    },
+    {
+      "physicalPage": 41,
+      "printedPage": 42,
+      "sentenceStart": 20,
+      "sentenceEndExclusive": 38
+    }
+  ],
+  "pageBreaks": [
+    {
+      "afterPhysicalPage": 40,
+      "beforePhysicalPage": 41,
+      "afterParagraphIndex": 3,
+      "beforeParagraphIndex": 4,
+      "beforeSentenceIndex": 20,
+      "finding": "The break falls between complete paragraphs; no sentence or paragraph crosses the page."
+    }
+  ],
+  "typography": {
+    "bodyStructure": "The bold two-line centred title is enclosed by horizontal rules. The article has eight unlabelled full-width paragraphs: 1–4 on physical page 40 and 5–8 on page 41.",
+    "questionStructure": "Physical page 42 has italic Questions 1–8 instructions, a three-column shaded-header table and a labelled process diagram. Page 43 has italic Questions 9–13 instructions, an indented TRUE/FALSE/NOT GIVEN definition block and five statements.",
+    "emphasis": [
+      "READING PASSAGE 1 is bold uppercase.",
+      "Questions 1–13 and Reading Passage 1 are bold in the lead.",
+      "NO MORE THAN TWO WORDS is bold uppercase.",
+      "TRUE, FALSE and NOT GIVEN are bold italic uppercase; definitions are italic.",
+      "Both task subheadings are bold and centred."
+    ],
+    "unitsAndSymbols": [
+      "1500 degrees Celsius (°C)",
+      "600°C",
+      "1500°C",
+      "604°C",
+      "£100,000",
+      "6.8 mm",
+      "25 mm"
+    ],
+    "sourceWatermarks": "The supplied PDF has non-book Chinese distribution watermarks at top and bottom; they are excluded from calibrated book content and the crop."
+  },
+  "questionGroups": [
+    {
+      "range": "1–8",
+      "type": "table_and_diagram_completion",
+      "sourcePages": [
+        42
+      ],
+      "instructions": [
+        "Complete the table and diagram below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 1–8 on your answer sheet."
+      ],
+      "tableTitle": "Early methods of producing flat glass",
+      "tableHeaders": [
+        "Method",
+        "Advantages",
+        "Disadvantages"
+      ],
+      "tableRows": [
+        {
+          "method": "1 ______",
+          "advantages": [
+            "Glass remained 2 ______"
+          ],
+          "disadvantages": [
+            "Slow",
+            "3 ______"
+          ]
+        },
+        {
+          "method": "Ribbon",
+          "advantages": [
+            "Could produce glass sheets of varying 4 ______",
+            "Non-stop process"
+          ],
+          "disadvantages": [
+            "Glass was 5 ______",
+            "20% of glass rubbed away",
+            "Machines were expensive"
+          ]
+        }
+      ],
+      "diagramTitle": "Pilkington’s float process",
+      "diagramPrintedLabels": [
+        "melting zone",
+        "cooling zone"
+      ],
+      "diagramPrompts": {
+        "6": "Arrow to glass entering the bath from the left",
+        "7": "Arrow to the hatched liquid bed beneath the glass",
+        "8": "Two arrows to the pair of rollers at the right outlet"
+      },
+      "semanticImageId": "c08-t2-p1-q6-8-float-process"
+    },
+    {
+      "range": "9–13",
+      "type": "true_false_not_given",
+      "sourcePages": [
+        43
+      ],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 1?",
+        "In boxes 9–13 on your answer sheet, write"
+      ],
+      "definitions": {
+        "TRUE": "if the statement agrees with the information",
+        "FALSE": "if the statement contradicts the information",
+        "NOT GIVEN": "if there is no information on this"
+      },
+      "prompts": {
+        "9": "The metal used in the float process had to have specific properties.",
+        "10": "Pilkington invested some of his own money in his float plant.",
+        "11": "Pilkington’s first full-scale plant was an instant commercial success.",
+        "12": "The process invented by Pilkington has now been improved.",
+        "13": "Computers are better than humans at detecting faults in glass."
+      }
+    }
+  ],
+  "answers": {
+    "1": "spinning",
+    "2": "unblemished",
+    "3": "labour-intensive",
+    "4": "thickness",
+    "5": "marked",
+    "6": "glass",
+    "7": "tin",
+    "8": "rollers",
+    "9": "TRUE",
+    "10": "NOT GIVEN",
+    "11": "FALSE",
+    "12": "TRUE",
+    "13": "TRUE"
+  },
+  "acceptedForms": {
+    "1": [
+      "spinning"
+    ],
+    "2": [
+      "unblemished",
+      "perfectly unblemished"
+    ],
+    "3": [
+      "labour-intensive",
+      "labor-intensive"
+    ],
+    "4": [
+      "thickness"
+    ],
+    "5": [
+      "marked"
+    ],
+    "6": [
+      "glass",
+      "molten glass"
+    ],
+    "7": [
+      "tin",
+      "molten tin",
+      "metal",
+      "molten metal"
+    ],
+    "8": [
+      "rollers"
+    ],
+    "9": [
+      "TRUE"
+    ],
+    "10": [
+      "NOT GIVEN"
+    ],
+    "11": [
+      "FALSE"
+    ],
+    "12": [
+      "TRUE"
+    ],
+    "13": [
+      "TRUE"
+    ]
+  },
+  "officialAnswerSequence": [
+    "spinning",
+    "(perfectly) unblemished",
+    "labour/labor-intensive",
+    "thickness",
+    "marked",
+    "(molten) glass",
+    "(molten) tin/metal",
+    "rollers",
+    "TRUE",
+    "NOT GIVEN",
+    "FALSE",
+    "TRUE",
+    "TRUE"
+  ],
+  "rawPages": {
+    "40": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\nSheet glass manufacture:\nthe float process\n\nGlass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’. However, the process took a long time and was labour intensive.\n\nNevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive.\n\nThe float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin.\n\nThe rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass.",
+    "41": "Test 2\n\nPilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years.\n\nFloat plants today make glass of near optical quality. Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved.\n\nThe principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws.\n\nFloat glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste.",
+    "42": "Reading\nQuestions 1–8\nComplete the table and diagram below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 1–8 on your answer sheet.\n\nEarly methods of producing flat glass\nMethod | Advantages | Disadvantages\n1 ______ | Glass remained 2 ______ | Slow; 3 ______\nRibbon | Could produce glass sheets of varying 4 ______; Non-stop process | Glass was 5 ______; 20% of glass rubbed away; Machines were expensive\n\nPilkington’s float process\n6 ______ [arrow to incoming glass]\nmelting zone\ncooling zone\n7 ______ [arrow to lower bath]\n8 ______ [arrows to outlet rollers]",
+    "43": "Test 2\nQuestions 9–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n9 The metal used in the float process had to have specific properties.\n10 Pilkington invested some of his own money in his float plant.\n11 Pilkington’s first full-scale plant was an instant commercial success.\n12 The process invented by Pilkington has now been improved.\n13 Computers are better than humans at detecting faults in glass.",
+    "154": "Listening and Reading Answer Keys\nACADEMIC READING\nReading Passage 1, Questions 1–13\n1 spinning\n2 (perfectly) unblemished\n3 labour/labor-intensive\n4 thickness\n5 marked\n6 (molten) glass\n7 (molten) tin/metal\n8 rollers\n9 TRUE\n10 NOT GIVEN\n11 FALSE\n12 TRUE\n13 TRUE"
+  },
+  "sourceAudit": {
+    "type": "independent_original_book_calibration",
+    "authority": "data/Cambridge-IELTS-08.pdf only",
+    "reviewedPhysicalPages": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      154
+    ],
+    "pageResponsibilities": {
+      "39": "Listening Test 2 ending boundary.",
+      "40": "Passage heading, lead, title and body paragraphs 1–4.",
+      "41": "Body paragraphs 5–8 and article ending.",
+      "42": "Questions 1–8, table and process diagram.",
+      "43": "Questions 9–13 and judgment definitions.",
+      "44": "Reading Passage 2 starting boundary.",
+      "154": "Test 2 Academic Reading answers, printed page 155."
+    },
+    "pageTransitions": [
+      "39→40: Listening Test 2 ends and Reading Passage 1 begins.",
+      "40→41: paragraph 4 ends; paragraph 5 starts; no sentence crosses.",
+      "41→42: article ends; Questions 1–8 begin.",
+      "42→43: Questions 1–8 end; Questions 9–13 begin.",
+      "43→44: Reading Passage 1 ends and Reading Passage 2 begins."
+    ],
+    "blindAuditResult": {
+      "contentFinding": "Two-line title, eight paragraphs, 38 sentences, all Q1–13 wording, table cells, diagram labels, official forms, evidence and alternative reasons were checked against the original PDF.",
+      "sharedSourcesConsulted": false,
+      "forbiddenSourcesConsulted": false
+    }
+  },
+  "semanticImageDecision": {
+    "required": true,
+    "reason": "Q6–8 depend on arrow geometry distinguishing incoming glass, the lower bath and outlet rollers; ordinary text/table reconstruction cannot preserve those spatial references.",
+    "images": [
+      {
+        "id": "c08-t2-p1-q6-8-float-process",
+        "physicalPage": 42,
+        "printedPage": 43,
+        "purpose": "Questions 6–8 diagram-label identification",
+        "caption": "Pilkington’s float process",
+        "cropPdfPoints": {
+          "left": 48,
+          "top": 533,
+          "right": 595,
+          "bottom": 785
+        },
+        "cropRaster300Dpi": {
+          "x": 200,
+          "y": 2220,
+          "width": 2280,
+          "height": 1050
+        },
+        "cropPolicy": "Tight diagram-only crop with title, labels 6–8, arrows, zones, bath and both rollers; excludes table, footer, page number and unrelated margins.",
+        "outputPathSuggestion": "data/generated/image-review/cambridge-ielts-08/page-042-reading-pilkingtons-float-process-diagram.png"
+      }
+    ]
+  },
+  "images": [
+    {
+      "id": "c08-t2-p1-q6-8-float-process",
+      "physicalPage": 42,
+      "printedPage": 43,
+      "semantic": true,
+      "questionRange": "6–8",
+      "caption": "Pilkington’s float process",
+      "cropPdfPoints": [
+        48,
+        533,
+        595,
+        785
+      ],
+      "outputPathSuggestion": "data/generated/image-review/cambridge-ielts-08/page-042-reading-pilkingtons-float-process-diagram.png"
+    }
+  ],
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 4,
+    "passagePageCount": 2,
+    "questionPageCount": 2,
+    "bodyParagraphCount": 8,
+    "sentenceCount": 38,
+    "sentenceReconstruction": "PASS: every sentence slice exactly reproduces its body paragraph",
+    "questionCount": 13,
+    "questionNumbers": "PASS: 1–13 continuous",
+    "officialAnswerCount": 13,
+    "officialAnswerSequenceMatchesPhysicalPage154": true,
+    "completionFixedWrongOptionCount": 0,
+    "completionRejectedAlternativeReasonCount": 24,
+    "trueFalseNotGivenWrongJudgmentsCovered": 10,
+    "explicitAlternativeReasonCount": 34,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 12,
+    "notGivenAbsenceEvidenceCount": 1,
+    "rawPagesEqualPages": true,
+    "acceptedFormsVerified": true,
+    "semanticImagesRequired": true,
+    "semanticImageCount": 1,
+    "sharedFilesModified": false,
+    "evidenceValidation": "PASS: 13 evidence records; 12 positive/contradictory evidence cases and one explicit NOT GIVEN absence case",
+    "semanticImageCropVisualCheck": "PASS: title, labels 6–8, arrows, melting and cooling zones, bath and both rollers are visible; table, page number, footer and watermarks are excluded."
+  },
+  "bodyParagraphs": [
+    "Glass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’. However, the process took a long time and was labour intensive.",
+    "Nevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive.",
+    "The float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin.",
+    "The rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass.",
+    "Pilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years.",
+    "Float plants today make glass of near optical quality. Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved.",
+    "The principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws.",
+    "Float glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste."
+  ],
+  "pages": {
+    "40": "READING\nREADING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\nSheet glass manufacture:\nthe float process\n\nGlass, which has been made since the time of the Mesopotamians and Egyptians, is little more than a mixture of sand, soda ash and lime. When heated to about 1500 degrees Celsius (°C) this becomes a molten mass that hardens when slowly cooled. The first successful method for making clear, flat glass involved spinning. This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’. However, the process took a long time and was labour intensive.\n\nNevertheless, demand for flat glass was very high and glassmakers across the world were looking for a method of making it continuously. The first continuous ribbon process involved squeezing molten glass through two hot rollers, similar to an old mangle. This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished. This part of the process rubbed away around 20 per cent of the glass, and the machines were very expensive.\n\nThe float process for making flat glass was invented by Alistair Pilkington. This process allows the manufacture of clear, tinted and coated glass for buildings, and clear and tinted glass for vehicles. Pilkington had been experimenting with improving the melting process, and in 1952 he had the idea of using a bed of molten metal to form the flat glass, eliminating altogether the need for rollers within the float bath. The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C). The best metal for the job was tin.\n\nThe rest of the concept relied on gravity, which guaranteed that the surface of the molten metal was perfectly flat and horizontal. Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat. If the glass were kept hot enough, it would flow over the molten tin until the top surface was also flat, horizontal and perfectly parallel to the bottom surface. Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers. The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin. By fortunate coincidence, 60 per cent of the flat glass market at that time was for six-millimetre glass.",
+    "41": "Test 2\n\nPilkington built a pilot plant in 1953 and by 1955 he had convinced his company to build a full-scale plant. However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. Furthermore, once they succeeded in making marketable flat glass, the machine was turned off for a service to prepare it for years of continuous production. When it started up again it took another four months to get the process right again. They finally succeeded in 1959 and there are now float plants all over the world, with each able to produce around 1000 tons of glass every day, non-stop for around 15 years.\n\nFloat plants today make glass of near optical quality. Several processes – melting, refining, homogenising – take place simultaneously in the 2000 tonnes of molten glass in the furnace. They occur in separate zones in a complex glass flow driven by high temperatures. It adds up to a continuous melting process, lasting as long as 50 hours, that delivers glass smoothly and continuously to the float bath, and from there to a coating zone and finally a heat treatment zone, where stresses formed during cooling are relieved.\n\nThe principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection. To ensure the highest quality, inspection takes place at every stage. Occasionally, a bubble is not removed during refining, a sand grain refuses to melt, a tremor in the tin puts ripples into the glass ribbon. Automated on-line inspection does two things. Firstly, it reveals process faults upstream that can be corrected. Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see. Secondly, it enables computers downstream to steer cutters around flaws.\n\nFloat glass is sold by the square metre, and at the final stage computers translate customer requirements into patterns of cuts designed to minimise waste.",
+    "42": "Reading\nQuestions 1–8\nComplete the table and diagram below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 1–8 on your answer sheet.\n\nEarly methods of producing flat glass\nMethod | Advantages | Disadvantages\n1 ______ | Glass remained 2 ______ | Slow; 3 ______\nRibbon | Could produce glass sheets of varying 4 ______; Non-stop process | Glass was 5 ______; 20% of glass rubbed away; Machines were expensive\n\nPilkington’s float process\n6 ______ [arrow to incoming glass]\nmelting zone\ncooling zone\n7 ______ [arrow to lower bath]\n8 ______ [arrows to outlet rollers]",
+    "43": "Test 2\nQuestions 9–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 9–13 on your answer sheet, write\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n9 The metal used in the float process had to have specific properties.\n10 Pilkington invested some of his own money in his float plant.\n11 Pilkington’s first full-scale plant was an instant commercial success.\n12 The process invented by Pilkington has now been improved.\n13 Computers are better than humans at detecting faults in glass.",
+    "154": "Listening and Reading Answer Keys\nACADEMIC READING\nReading Passage 1, Questions 1–13\n1 spinning\n2 (perfectly) unblemished\n3 labour/labor-intensive\n4 thickness\n5 marked\n6 (molten) glass\n7 (molten) tin/metal\n8 rollers\n9 TRUE\n10 NOT GIVEN\n11 FALSE\n12 TRUE\n13 TRUE"
+  },
+  "answerEvidence": [
+    {
+      "number": 1,
+      "answer": "spinning",
+      "paragraphIndex": 0,
+      "evidence": "The first successful method for making clear, flat glass involved spinning.",
+      "reason": "The passage directly names the early method.",
+      "distractors": {
+        "ribbon": "The second method is already printed in the next row.",
+        "rollers": "Equipment in the ribbon process, not a method.",
+        "spinning method": "Not the exact official form; ‘spinning’ alone fills the cell."
+      }
+    },
+    {
+      "number": 2,
+      "answer": "unblemished",
+      "paragraphIndex": 0,
+      "evidence": "This method was very effective as the glass had not touched any surfaces between being soft and becoming hard, so it stayed perfectly unblemished, with a ‘fire finish’.",
+      "reason": "‘remained’ paraphrases ‘stayed’; both official forms fit.",
+      "distractors": {
+        "clear": "The tested advantage is remaining unblemished.",
+        "fire finish": "Does not complete ‘Glass remained …’ in the tested wording.",
+        "perfect": "The source uses ‘perfectly unblemished’; this is not official."
+      }
+    },
+    {
+      "number": 3,
+      "answer": "labour-intensive",
+      "paragraphIndex": 0,
+      "evidence": "However, the process took a long time and was labour intensive.",
+      "reason": "The second disadvantage follows the time disadvantage; the key hyphenates it and accepts both spellings.",
+      "distractors": {
+        "expensive": "Belongs to the ribbon process.",
+        "long time": "The table already supplies ‘Slow’.",
+        "labour": "Omits the required second element."
+      }
+    },
+    {
+      "number": 4,
+      "answer": "thickness",
+      "paragraphIndex": 1,
+      "evidence": "This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished.",
+      "reason": "The table changes ‘any thickness’ to ‘varying thickness’.",
+      "distractors": {
+        "sizes": "The passage varies thickness, not dimensions.",
+        "quality": "Not the varying property here.",
+        "any thickness": "Does not fit after printed ‘varying’."
+      }
+    },
+    {
+      "number": 5,
+      "answer": "marked",
+      "paragraphIndex": 1,
+      "evidence": "This allowed glass of virtually any thickness to be made non-stop, but the rollers would leave both sides of the glass marked, and these would then need to be ground and polished.",
+      "reason": "The passive table wording takes ‘marked’.",
+      "distractors": {
+        "ground": "A later remedy for marks.",
+        "polished": "Corrective processing, not the defect.",
+        "rubbing": "The next bullet separately gives 20% rubbed away."
+      }
+    },
+    {
+      "number": 6,
+      "answer": "glass",
+      "paragraphIndex": 3,
+      "evidence": "Consequently, when pouring molten glass onto the molten tin, the underside of the glass would also be perfectly flat.",
+      "reason": "The arrow points to material poured into the bath; ‘molten’ is optional.",
+      "distractors": {
+        "tin": "The lower bed labelled 7.",
+        "metal": "The bath material, not incoming stream.",
+        "molten mass": "An earlier phrase not in the official forms."
+      }
+    },
+    {
+      "number": 7,
+      "answer": "tin",
+      "paragraphIndex": 3,
+      "evidence": "The glass settled to a thickness of six millimetres because of surface tension interactions between the glass and the tin.",
+      "reason": "The arrow points to the lower bath; tin or metal is accepted, optionally with ‘molten’.",
+      "distractors": {
+        "glass": "The upper ribbon/incoming material labelled 6.",
+        "float bath": "An apparatus/location, not the substance.",
+        "surface tension": "Explains thickness, not the labelled material."
+      }
+    },
+    {
+      "number": 8,
+      "answer": "rollers",
+      "paragraphIndex": 3,
+      "evidence": "Once the glass cooled to 604°C or less it was too hard to mark and could be transported out of the cooling zone by rollers.",
+      "reason": "The arrows point to the paired circular outlet components.",
+      "distractors": {
+        "cooling zone": "Already printed; not the arrow target.",
+        "cutters": "Downstream but not shown as the paired circles.",
+        "machines": "Too general and from the earlier method."
+      }
+    },
+    {
+      "number": 9,
+      "answer": "TRUE",
+      "paragraphIndex": 2,
+      "evidence": "The metal had to melt at a temperature less than the hardening point of glass (about 600°C), but could not boil at a temperature below the temperature of the molten glass (about 1500°C).",
+      "reason": "Two required thermal properties make this accurate.",
+      "distractors": {
+        "FALSE": "No contradiction; both requirements are explicit.",
+        "NOT GIVEN": "The constraints directly supply the information."
+      }
+    },
+    {
+      "number": 10,
+      "answer": "NOT GIVEN",
+      "paragraphIndex": 4,
+      "evidence": "However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass.",
+      "reason": "Company costs are stated; personal investment is never stated.",
+      "distractors": {
+        "TRUE": "No sentence says his own money was invested.",
+        "FALSE": "Company expenditure does not prove he invested none."
+      }
+    },
+    {
+      "number": 11,
+      "answer": "FALSE",
+      "paragraphIndex": 4,
+      "evidence": "However, it took 14 months of non-stop production, costing the company £100,000 a month, before the plant produced any usable glass. When it started up again it took another four months to get the process right again.",
+      "reason": "Long delay, heavy cost and another four-month restart contradict ‘instant commercial success’.",
+      "distractors": {
+        "TRUE": "The chronology is the opposite of instant success.",
+        "NOT GIVEN": "Timing and outcomes are detailed."
+      }
+    },
+    {
+      "number": 12,
+      "answer": "TRUE",
+      "paragraphIndex": 6,
+      "evidence": "The principle of float glass is unchanged since the 1950s. However, the product has changed dramatically, from a single thickness of 6.8 mm to a range from sub-millimetre to 25 mm, from a ribbon frequently marred by inclusions and bubbles to almost optical perfection.",
+      "reason": "The principle remains, but capability and product quality improved substantially.",
+      "distractors": {
+        "FALSE": "An unchanged principle does not mean no process/product improvement.",
+        "NOT GIVEN": "The passage explicitly details dramatic gains."
+      }
+    },
+    {
+      "number": 13,
+      "answer": "TRUE",
+      "paragraphIndex": 6,
+      "evidence": "Inspection technology allows more than 100 million measurements a second to be made across the ribbon, locating flaws the unaided eye would be unable to see.",
+      "reason": "Automated inspection detects flaws invisible to an unaided human eye.",
+      "distractors": {
+        "FALSE": "Computer detection exceeds the unaided eye.",
+        "NOT GIVEN": "The comparison is direct."
+      }
+    }
+  ]
+}

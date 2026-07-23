@@ -1,0 +1,958 @@
+{
+  "book": 7,
+  "test": 3,
+  "passage": 3,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-07.pdf",
+  "calibrationMethod": "Independent blind visual audit against freshly rendered pixels from data/Cambridge-IELTS-07.pdf only. Physical pages 77–82 and 161 were rendered directly from the original PDF and inspected at full-page and cropped detail scales. No derived file was used as evidence during the audit.",
+  "reviewedPhysicalPages": [
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    161
+  ],
+  "boundaryPages": [
+    {
+      "physicalPage": 77,
+      "printedPageNumber": 73,
+      "position": "before",
+      "finding": "Physical page 77 contains Reading Passage 2 Questions 22–26 only; Reading Passage 3 begins on physical page 78."
+    },
+    {
+      "physicalPage": 82,
+      "printedPageNumber": 78,
+      "position": "after",
+      "finding": "Physical page 82 begins Test 3 Writing; Reading Passage 3 ends on physical page 81."
+    }
+  ],
+  "sourcePhysicalPages": [
+    78,
+    79,
+    80,
+    81
+  ],
+  "sourcePages": [
+    78,
+    79,
+    80,
+    81
+  ],
+  "passagePages": [
+    78,
+    79
+  ],
+  "questionPages": [
+    80,
+    81
+  ],
+  "printedSourcePages": [
+    74,
+    75,
+    76,
+    77
+  ],
+  "answerPhysicalPage": 161,
+  "answerPage": 161,
+  "answerKeyPage": 161,
+  "answerKeyPrintedPage": 157,
+  "answerKey": {
+    "actualPdfPhysicalPage": 161,
+    "printedPageNumber": 157,
+    "section": "ACADEMIC READING",
+    "heading": "Reading Passage 3, Questions 27–40",
+    "finding": "Physical page 161 is the Test 3 Academic Reading answer key and explicitly lists answers 27–40."
+  },
+  "sectionHeading": "READING PASSAGE 3",
+  "leadInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "title": "",
+  "titleFinding": "The original passage has no printed article title; no title is inferred or supplied.",
+  "standfirst": "",
+  "authorNote": "",
+  "bodyParagraphs": [
+    "Forests are one of the main elements of our natural heritage. The decline of Europe’s forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe’s forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored.",
+    "As a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a ‘green lung’ for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man – wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles.",
+    "The myth of the ‘natural’ forest has survived, yet there are effectively no remaining ‘primary’ forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that ‘a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained’.",
+    "That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree’s needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the ‘genetic material’ of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference’s main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31 European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+  ],
+  "sentences": [
+    "Forests are one of the main elements of our natural heritage.",
+    "The decline of Europe’s forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them.",
+    "European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage.",
+    "There has been a growing awareness of the need for countries to get together to co-ordinate their policies.",
+    "In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe’s forests.",
+    "The conference brought together 31 countries from both Western and Eastern Europe.",
+    "The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem.",
+    "The preparatory work for the conference had been undertaken at two meetings of experts.",
+    "Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action.",
+    "Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded.",
+    "However, this does not mean that in future they will be ignored.",
+    "As a whole, European countries see forests as performing a triple function: biological, economic and recreational.",
+    "The first is to act as a ‘green lung’ for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant.",
+    "At the same time, forests provide raw materials for human activities through their constantly renewed production of wood.",
+    "Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking.",
+    "The economic importance of forests has been understood since the dawn of man – wood was the first fuel.",
+    "The other aspects have been recognised only for a few centuries but they are becoming more and more important.",
+    "Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles.",
+    "The myth of the ‘natural’ forest has survived, yet there are effectively no remaining ‘primary’ forests in Europe.",
+    "All European forests are artificial, having been adapted and exploited by man for thousands of years.",
+    "This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy.",
+    "The Strasbourg conference was one of the first events on such a scale to reach this conclusion.",
+    "A general declaration was made that ‘a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained’.",
+    "That general declaration was accompanied by six detailed resolutions to assist national policy-making.",
+    "The first proposes the extension and systematisation of surveillance sites to monitor forest decline.",
+    "Forest decline is still poorly understood but leads to the loss of a high proportion of a tree’s needles or leaves.",
+    "The entire continent and the majority of species are now affected: between 30% and 50% of the tree population.",
+    "The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits.",
+    "Compounds of nitrogen and sulphur dioxide should be particularly closely watched.",
+    "However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots.",
+    "The second resolution concentrates on the need to preserve the genetic diversity of European forests.",
+    "The aim is to reverse the decline in the number of tree species or at least to preserve the ‘genetic material’ of all of them.",
+    "Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject.",
+    "All information used in the development of national preventative policies would become generally available.",
+    "The subject of the fourth resolution discussed by the ministers was mountain forests.",
+    "In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk.",
+    "A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems.",
+    "Proposed developments include a preferential research program on mountain forests.",
+    "The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva.",
+    "Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects.",
+    "Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.",
+    "Finally, the conference established the framework for a European research network on forest ecosystems.",
+    "This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests.",
+    "The Strasbourg conference’s main concern was to provide for the future.",
+    "This was the initial motivation, one now shared by all 31 participants representing 31 European countries.",
+    "Their final text commits them to on-going discussion between government representatives with responsibility for forests."
+  ],
+  "sentenceParagraphMap": [
+    {
+      "paragraph": 1,
+      "physicalPage": 78,
+      "sentences": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "paragraph": 2,
+      "physicalPage": 78,
+      "sentences": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "paragraph": 3,
+      "physicalPage": 78,
+      "sentences": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "paragraph": 4,
+      "physicalPage": 79,
+      "sentences": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    }
+  ],
+  "pageBreaks": [
+    {
+      "fromPhysicalPage": 78,
+      "toPhysicalPage": 79,
+      "position": "between_sentences",
+      "afterSentence": 23,
+      "beforeSentence": 24,
+      "finding": "Physical page 78 ends after the quoted declaration ending “is maintained’.” Physical page 79 begins “That general declaration was accompanied …”. No body sentence is split across the page boundary."
+    }
+  ],
+  "typography": [
+    {
+      "feature": "passage lead typography",
+      "physicalPage": 78,
+      "finding": "The complete lead instruction is italic, with ‘Questions 27–40’ additionally bold; the article body itself is roman. No article title is printed between the lead and the opening paragraph."
+    },
+    {
+      "feature": "decorative photograph",
+      "physicalPage": 78,
+      "finding": "A forest photograph accompanies the opening but is not labelled and supplies no information needed to understand the text or answer any question."
+    },
+    {
+      "feature": "quotation marks",
+      "finding": "Curly single quotation marks are preserved in ‘green lung’, ‘natural’, ‘primary’, the quoted declaration, and ‘genetic material’."
+    },
+    {
+      "feature": "dash, hyphenation and line wrapping",
+      "finding": "The spaced en dash in “man – wood” and lexical hyphens in co-ordinate, co-ordinated, non-polluting, policy-making, long-term and on-going are preserved. On physical page 79, policy-making is visually split at the line end as ‘policy-’ followed by ‘making.’ on the next line; this is a layout wrap, so the calibrated text correctly restores the single lexical form policy-making."
+    },
+    {
+      "feature": "question typography",
+      "physicalPages": [
+        80,
+        81
+      ],
+      "finding": "The headings ‘Questions 27–33’, ‘Questions 34–39’ and ‘Question 40’ are bold italic. On page 80, ‘In boxes 27–33 on your answer sheet, write’ is italic; TRUE, FALSE and NOT GIVEN are bold italic and their definitions are italic. On page 81, ‘Look at the following statements issued by the conference.’, ‘Match the statements with the appropriate resolutions (Questions 34–39).’ and both ‘Write ...’ directions are italic as printed; the intervening ‘Which six ...’ sentence and the ‘Choose ...’ direction are roman."
+    },
+    {
+      "feature": "numbers and units",
+      "finding": "December 1990, 31 countries/participants, 30%, 50%, and the six numbered resolutions are preserved exactly."
+    }
+  ],
+  "questionGroups": [
+    {
+      "range": "27–33",
+      "sourcePages": [
+        80
+      ],
+      "type": "true_false_not_given",
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 3?",
+        "In boxes 27–33 on your answer sheet, write",
+        "TRUE if the statement agrees with the information",
+        "FALSE if the statement contradicts the information",
+        "NOT GIVEN if there is no information on this"
+      ],
+      "prompts": [
+        {
+          "number": 27,
+          "prompt": "Forest problems of Mediterranean countries are to be discussed at the next meeting of experts."
+        },
+        {
+          "number": 28,
+          "prompt": "Problems in Nordic countries were excluded because they are outside the European Economic Community."
+        },
+        {
+          "number": 29,
+          "prompt": "Forests are a renewable source of raw material."
+        },
+        {
+          "number": 30,
+          "prompt": "The biological functions of forests were recognised only in the twentieth century."
+        },
+        {
+          "number": 31,
+          "prompt": "Natural forests still exist in parts of Europe."
+        },
+        {
+          "number": 32,
+          "prompt": "Forest policy should be limited by national boundaries."
+        },
+        {
+          "number": 33,
+          "prompt": "The Strasbourg conference decided that a forest policy must allow for the possibility of change."
+        }
+      ]
+    },
+    {
+      "range": "34–39",
+      "sourcePages": [
+        81
+      ],
+      "type": "matching_resolutions",
+      "instructions": [
+        "Look at the following statements issued by the conference.",
+        "Which six of the following statements, A–J, refer to the resolutions that were issued?",
+        "Match the statements with the appropriate resolutions (Questions 34–39).",
+        "Write the correct letter, A–J, in boxes 34–39 on your answer sheet."
+      ],
+      "options": {
+        "A": "All kinds of species of trees should be preserved.",
+        "B": "Fragile mountain forests should be given priority in research programs.",
+        "C": "The surviving natural forests of Europe do not need priority treatment.",
+        "D": "Research is to be better co-ordinated throughout Europe.",
+        "E": "Information on forest fires should be collected and shared.",
+        "F": "Loss of leaves from trees should be more extensively and carefully monitored.",
+        "G": "Resources should be allocated to research into tree diseases.",
+        "H": "Skiing should be encouraged in thinly populated areas.",
+        "I": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+        "J": "Information is to be systematically gathered on any decline in the condition of forests."
+      },
+      "prompts": [
+        {
+          "number": 34,
+          "prompt": "Resolution 1"
+        },
+        {
+          "number": 35,
+          "prompt": "Resolution 2"
+        },
+        {
+          "number": 36,
+          "prompt": "Resolution 3"
+        },
+        {
+          "number": 37,
+          "prompt": "Resolution 4"
+        },
+        {
+          "number": 38,
+          "prompt": "Resolution 5"
+        },
+        {
+          "number": 39,
+          "prompt": "Resolution 6"
+        }
+      ]
+    },
+    {
+      "range": "40",
+      "sourcePages": [
+        81
+      ],
+      "type": "multiple_choice_best_title",
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in box 40 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 40,
+          "prompt": "What is the best title for Reading Passage 3?",
+          "options": {
+            "A": "The biological, economic and recreational role of forests",
+            "B": "Plans to protect the forests of Europe",
+            "C": "The priority of European research into ecosystems",
+            "D": "Proposals for a world-wide policy on forest management"
+          }
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "27": "NOT GIVEN",
+    "28": "FALSE",
+    "29": "TRUE",
+    "30": "FALSE",
+    "31": "FALSE",
+    "32": "FALSE",
+    "33": "TRUE",
+    "34": "J",
+    "35": "A",
+    "36": "E",
+    "37": "B",
+    "38": "G",
+    "39": "D",
+    "40": "B"
+  },
+  "acceptedForms": {
+    "27": [
+      "NOT GIVEN"
+    ],
+    "28": [
+      "FALSE"
+    ],
+    "29": [
+      "TRUE"
+    ],
+    "30": [
+      "FALSE"
+    ],
+    "31": [
+      "FALSE"
+    ],
+    "32": [
+      "FALSE"
+    ],
+    "33": [
+      "TRUE"
+    ],
+    "34": [
+      "J"
+    ],
+    "35": [
+      "A"
+    ],
+    "36": [
+      "E"
+    ],
+    "37": [
+      "B"
+    ],
+    "38": [
+      "G"
+    ],
+    "39": [
+      "D"
+    ],
+    "40": [
+      "B"
+    ]
+  },
+  "officialAnswerSequence": [
+    "NOT GIVEN",
+    "FALSE",
+    "TRUE",
+    "FALSE",
+    "FALSE",
+    "FALSE",
+    "TRUE",
+    "J",
+    "A",
+    "E",
+    "B",
+    "G",
+    "D",
+    "B"
+  ],
+  "answerEvidence": [
+    {
+      "number": 27,
+      "answer": "NOT GIVEN",
+      "evidenceType": "absence",
+      "evidence": "Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored.",
+      "reason": "The passage says these geographically confined issues were discarded from the joint agenda and might be considered in future, but never states that Mediterranean problems will be discussed at the next experts’ meeting.",
+      "distractors": [
+        {
+          "label": "TRUE",
+          "reason": "TRUE is incorrect because the passage says these geographically confined issues were discarded from the joint agenda and might be considered in future, but never states that Mediterranean problems will be discussed at the next experts’ meeting."
+        },
+        {
+          "label": "FALSE",
+          "reason": "FALSE is incorrect because the passage says these geographically confined issues were discarded from the joint agenda and might be considered in future, but never states that Mediterranean problems will be discussed at the next experts’ meeting."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "answer": "FALSE",
+      "evidenceType": "continuous",
+      "evidence": "Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded.",
+      "reason": "The stated reason is their confinement to particular geographical areas, not exclusion from the European Economic Community.",
+      "distractors": [
+        {
+          "label": "TRUE",
+          "reason": "TRUE is incorrect because the stated reason is their confinement to particular geographical areas, not exclusion from the European Economic Community."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because the stated reason is their confinement to particular geographical areas, not exclusion from the European Economic Community."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "answer": "TRUE",
+      "evidenceType": "continuous",
+      "evidence": "At the same time, forests provide raw materials for human activities through their constantly renewed production of wood.",
+      "reason": "“Constantly renewed production” directly establishes that the raw material is renewable.",
+      "distractors": [
+        {
+          "label": "FALSE",
+          "reason": "FALSE is incorrect because “Constantly renewed production” directly establishes that the raw material is renewable."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because “Constantly renewed production” directly establishes that the raw material is renewable."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "answer": "FALSE",
+      "evidenceType": "continuous",
+      "evidence": "The economic importance of forests has been understood since the dawn of man – wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important.",
+      "reason": "The biological and recreational aspects have been recognised for a few centuries, not only since the twentieth century.",
+      "distractors": [
+        {
+          "label": "TRUE",
+          "reason": "TRUE is incorrect because the biological and recreational aspects have been recognised for a few centuries, not only since the twentieth century."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because the biological and recreational aspects have been recognised for a few centuries, not only since the twentieth century."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "answer": "FALSE",
+      "evidenceType": "continuous",
+      "evidence": "The myth of the ‘natural’ forest has survived, yet there are effectively no remaining ‘primary’ forests in Europe.",
+      "reason": "The passage explicitly says no primary natural forests remain in Europe.",
+      "distractors": [
+        {
+          "label": "TRUE",
+          "reason": "TRUE is incorrect because the passage explicitly says no primary natural forests remain in Europe."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because the passage explicitly says no primary natural forests remain in Europe."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "answer": "FALSE",
+      "evidenceType": "continuous",
+      "evidence": "This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy.",
+      "reason": "“Transcend national frontiers” contradicts limiting policy by national boundaries.",
+      "distractors": [
+        {
+          "label": "TRUE",
+          "reason": "TRUE is incorrect because “Transcend national frontiers” contradicts limiting policy by national boundaries."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because “Transcend national frontiers” contradicts limiting policy by national boundaries."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "answer": "TRUE",
+      "evidenceType": "continuous",
+      "evidence": "This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy.",
+      "reason": "The sentence explicitly requires forest policy to allow for inevitable change.",
+      "distractors": [
+        {
+          "label": "FALSE",
+          "reason": "FALSE is incorrect because the sentence explicitly requires forest policy to allow for inevitable change."
+        },
+        {
+          "label": "NOT GIVEN",
+          "reason": "NOT GIVEN is incorrect because the sentence explicitly requires forest policy to allow for inevitable change."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "answer": "J",
+      "evidenceType": "continuous",
+      "evidence": "The first proposes the extension and systematisation of surveillance sites to monitor forest decline.",
+      "reason": "Resolution 1 establishes systematic monitoring of forest decline, so J is the precise paraphrase.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "All kinds of species of trees should be preserved.",
+          "reason": "Option A belongs to Resolution 2, not Resolution 1: it concerns preserving the genetic diversity of all tree species."
+        },
+        {
+          "label": "B",
+          "option": "Fragile mountain forests should be given priority in research programs.",
+          "reason": "Option B belongs to Resolution 4, not Resolution 1: it concerns preferential research on vulnerable mountain forests."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 1: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "D",
+          "option": "Research is to be better co-ordinated throughout Europe.",
+          "reason": "Option D belongs to Resolution 6, not Resolution 1: it concerns the Europe-wide research network and harmonisation of research."
+        },
+        {
+          "label": "E",
+          "option": "Information on forest fires should be collected and shared.",
+          "reason": "Option E belongs to Resolution 3, not Resolution 1: it concerns the European databank for forest-fire information."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 1: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "G",
+          "option": "Resources should be allocated to research into tree diseases.",
+          "reason": "Option G belongs to Resolution 5, not Resolution 1: it concerns Eurosilva funding and research into tree diseases."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 1: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 1: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "answer": "A",
+      "evidenceType": "continuous",
+      "evidence": "The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the ‘genetic material’ of all of them.",
+      "reason": "Resolution 2 aims to preserve the genetic material of all tree species, matching A.",
+      "distractors": [
+        {
+          "label": "B",
+          "option": "Fragile mountain forests should be given priority in research programs.",
+          "reason": "Option B belongs to Resolution 4, not Resolution 2: it concerns preferential research on vulnerable mountain forests."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 2: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "D",
+          "option": "Research is to be better co-ordinated throughout Europe.",
+          "reason": "Option D belongs to Resolution 6, not Resolution 2: it concerns the Europe-wide research network and harmonisation of research."
+        },
+        {
+          "label": "E",
+          "option": "Information on forest fires should be collected and shared.",
+          "reason": "Option E belongs to Resolution 3, not Resolution 2: it concerns the European databank for forest-fire information."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 2: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "G",
+          "option": "Resources should be allocated to research into tree diseases.",
+          "reason": "Option G belongs to Resolution 5, not Resolution 2: it concerns Eurosilva funding and research into tree diseases."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 2: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 2: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        },
+        {
+          "label": "J",
+          "option": "Information is to be systematically gathered on any decline in the condition of forests.",
+          "reason": "Option J belongs to Resolution 1, not Resolution 2: it concerns systematic surveillance of forest decline."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "answer": "E",
+      "evidenceType": "continuous",
+      "evidence": "Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available.",
+      "reason": "Resolution 3 creates a shared European databank for forest-fire information, matching E.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "All kinds of species of trees should be preserved.",
+          "reason": "Option A belongs to Resolution 2, not Resolution 3: it concerns preserving the genetic diversity of all tree species."
+        },
+        {
+          "label": "B",
+          "option": "Fragile mountain forests should be given priority in research programs.",
+          "reason": "Option B belongs to Resolution 4, not Resolution 3: it concerns preferential research on vulnerable mountain forests."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 3: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "D",
+          "option": "Research is to be better co-ordinated throughout Europe.",
+          "reason": "Option D belongs to Resolution 6, not Resolution 3: it concerns the Europe-wide research network and harmonisation of research."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 3: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "G",
+          "option": "Resources should be allocated to research into tree diseases.",
+          "reason": "Option G belongs to Resolution 5, not Resolution 3: it concerns Eurosilva funding and research into tree diseases."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 3: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 3: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        },
+        {
+          "label": "J",
+          "option": "Information is to be systematically gathered on any decline in the condition of forests.",
+          "reason": "Option J belongs to Resolution 1, not Resolution 3: it concerns systematic surveillance of forest decline."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "answer": "B",
+      "evidenceType": "continuous",
+      "evidence": "The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests.",
+      "reason": "Resolution 4 gives vulnerable mountain forests preferential research attention, matching B.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "All kinds of species of trees should be preserved.",
+          "reason": "Option A belongs to Resolution 2, not Resolution 4: it concerns preserving the genetic diversity of all tree species."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 4: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "D",
+          "option": "Research is to be better co-ordinated throughout Europe.",
+          "reason": "Option D belongs to Resolution 6, not Resolution 4: it concerns the Europe-wide research network and harmonisation of research."
+        },
+        {
+          "label": "E",
+          "option": "Information on forest fires should be collected and shared.",
+          "reason": "Option E belongs to Resolution 3, not Resolution 4: it concerns the European databank for forest-fire information."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 4: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "G",
+          "option": "Resources should be allocated to research into tree diseases.",
+          "reason": "Option G belongs to Resolution 5, not Resolution 4: it concerns Eurosilva funding and research into tree diseases."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 4: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 4: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        },
+        {
+          "label": "J",
+          "option": "Information is to be systematically gathered on any decline in the condition of forests.",
+          "reason": "Option J belongs to Resolution 1, not Resolution 4: it concerns systematic surveillance of forest decline."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "answer": "G",
+      "evidenceType": "continuous",
+      "evidence": "The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area.",
+      "reason": "Resolution 5 provides research and financial support for work on tree diseases, matching G.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "All kinds of species of trees should be preserved.",
+          "reason": "Option A belongs to Resolution 2, not Resolution 5: it concerns preserving the genetic diversity of all tree species."
+        },
+        {
+          "label": "B",
+          "option": "Fragile mountain forests should be given priority in research programs.",
+          "reason": "Option B belongs to Resolution 4, not Resolution 5: it concerns preferential research on vulnerable mountain forests."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 5: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "D",
+          "option": "Research is to be better co-ordinated throughout Europe.",
+          "reason": "Option D belongs to Resolution 6, not Resolution 5: it concerns the Europe-wide research network and harmonisation of research."
+        },
+        {
+          "label": "E",
+          "option": "Information on forest fires should be collected and shared.",
+          "reason": "Option E belongs to Resolution 3, not Resolution 5: it concerns the European databank for forest-fire information."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 5: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 5: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 5: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        },
+        {
+          "label": "J",
+          "option": "Information is to be systematically gathered on any decline in the condition of forests.",
+          "reason": "Option J belongs to Resolution 1, not Resolution 5: it concerns systematic surveillance of forest decline."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "answer": "D",
+      "evidenceType": "continuous",
+      "evidence": "Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests.",
+      "reason": "Resolution 6 coordinates and harmonises research across Europe, matching D.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "All kinds of species of trees should be preserved.",
+          "reason": "Option A belongs to Resolution 2, not Resolution 6: it concerns preserving the genetic diversity of all tree species."
+        },
+        {
+          "label": "B",
+          "option": "Fragile mountain forests should be given priority in research programs.",
+          "reason": "Option B belongs to Resolution 4, not Resolution 6: it concerns preferential research on vulnerable mountain forests."
+        },
+        {
+          "label": "C",
+          "option": "The surviving natural forests of Europe do not need priority treatment.",
+          "reason": "Option C does not state Resolution 6: it is a claim contradicted by the passage, which says no primary forests remain."
+        },
+        {
+          "label": "E",
+          "option": "Information on forest fires should be collected and shared.",
+          "reason": "Option E belongs to Resolution 3, not Resolution 6: it concerns the European databank for forest-fire information."
+        },
+        {
+          "label": "F",
+          "option": "Loss of leaves from trees should be more extensively and carefully monitored.",
+          "reason": "Option F does not state Resolution 6: it is a narrowing of Resolution 1 to leaf loss rather than systematic monitoring of forest decline."
+        },
+        {
+          "label": "G",
+          "option": "Resources should be allocated to research into tree diseases.",
+          "reason": "Option G belongs to Resolution 5, not Resolution 6: it concerns Eurosilva funding and research into tree diseases."
+        },
+        {
+          "label": "H",
+          "option": "Skiing should be encouraged in thinly populated areas.",
+          "reason": "Option H does not state Resolution 6: it is a claim contradicted by the passage, where skiing is a cause of ecosystem change."
+        },
+        {
+          "label": "I",
+          "option": "Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.",
+          "reason": "Option I does not state Resolution 6: it is a reversal of the passage: nitrogen and sulphur compounds are pollutants to monitor, not treatments."
+        },
+        {
+          "label": "J",
+          "option": "Information is to be systematically gathered on any decline in the condition of forests.",
+          "reason": "Option J belongs to Resolution 1, not Resolution 6: it concerns systematic surveillance of forest decline."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "answer": "B",
+      "evidenceType": "continuous",
+      "evidence": "That general declaration was accompanied by six detailed resolutions to assist national policy-making.",
+      "reason": "The passage explains Europe’s forest problems, the Strasbourg conference and its six protection resolutions; B captures that full scope.",
+      "distractors": [
+        {
+          "label": "A",
+          "option": "The biological, economic and recreational role of forests",
+          "reason": "This covers only the paragraph on forests’ three functions and omits the conference and six protection resolutions."
+        },
+        {
+          "label": "C",
+          "option": "The priority of European research into ecosystems",
+          "reason": "European ecosystem research is only part of the later resolutions, not the passage’s complete focus."
+        },
+        {
+          "label": "D",
+          "option": "Proposals for a world-wide policy on forest management",
+          "reason": "The policy and conference are European, not world-wide."
+        }
+      ]
+    }
+  ],
+  "rawPages": {
+    "78": "READING PASSAGE 3\n\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.\n\nForests are one of the main elements of our natural heritage. The decline of Europe’s forests over the last decade and a half has led to an increasing awareness and understanding of the serious imbalances which threaten them. European countries are becoming increasingly concerned by major threats to European forests, threats which know no frontiers other than those of geography or climate: air pollution, soil deterioration, the increasing number of forest fires and sometimes even the mismanagement of our woodland and forest heritage. There has been a growing awareness of the need for countries to get together to co-ordinate their policies. In December 1990, Strasbourg hosted the first Ministerial Conference on the protection of Europe’s forests. The conference brought together 31 countries from both Western and Eastern Europe. The topics discussed included the co-ordinated study of the destruction of forests, as well as how to combat forest fires and the extension of European research programs on the forest ecosystem. The preparatory work for the conference had been undertaken at two meetings of experts. Their initial task was to decide which of the many forest problems of concern to Europe involved the largest number of countries and might be the subject of joint action. Those confined to particular geographical areas, such as countries bordering the Mediterranean or the Nordic countries therefore had to be discarded. However, this does not mean that in future they will be ignored.\n\nAs a whole, European countries see forests as performing a triple function: biological, economic and recreational. The first is to act as a ‘green lung’ for our planet; by means of photosynthesis, forests produce oxygen through the transformation of solar energy, thus fulfilling what for humans is the essential role of an immense, non-polluting power plant. At the same time, forests provide raw materials for human activities through their constantly renewed production of wood. Finally, they offer those condemned to spend five days a week in an urban environment an unrivalled area of freedom to unwind and take part in a range of leisure activities, such as hunting, riding and hiking. The economic importance of forests has been understood since the dawn of man – wood was the first fuel. The other aspects have been recognised only for a few centuries but they are becoming more and more important. Hence, there is a real concern throughout Europe about the damage to the forest environment which threatens these three basic roles.\n\nThe myth of the ‘natural’ forest has survived, yet there are effectively no remaining ‘primary’ forests in Europe. All European forests are artificial, having been adapted and exploited by man for thousands of years. This means that a forest policy is vital, that it must transcend national frontiers and generations of people, and that it must allow for the inevitable changes that take place in the forests, in needs, and hence in policy. The Strasbourg conference was one of the first events on such a scale to reach this conclusion. A general declaration was made that ‘a central place in any ecologically coherent forest policy must be given to continuity over time and to the possible effects of unforeseen events, to ensure that the full potential of these forests is maintained’.",
+    "79": "That general declaration was accompanied by six detailed resolutions to assist national policy-making. The first proposes the extension and systematisation of surveillance sites to monitor forest decline. Forest decline is still poorly understood but leads to the loss of a high proportion of a tree’s needles or leaves. The entire continent and the majority of species are now affected: between 30% and 50% of the tree population. The condition appears to result from the cumulative effect of a number of factors, with atmospheric pollutants the principal culprits. Compounds of nitrogen and sulphur dioxide should be particularly closely watched. However, their effects are probably accentuated by climatic factors, such as drought and hard winters, or soil imbalances such as soil acidification, which damages the roots. The second resolution concentrates on the need to preserve the genetic diversity of European forests. The aim is to reverse the decline in the number of tree species or at least to preserve the ‘genetic material’ of all of them. Although forest fires do not affect all of Europe to the same extent, the amount of damage caused the experts to propose as the third resolution that the Strasbourg conference consider the establishment of a European databank on the subject. All information used in the development of national preventative policies would become generally available. The subject of the fourth resolution discussed by the ministers was mountain forests. In Europe, it is undoubtedly the mountain ecosystem which has changed most rapidly and is most at risk. A thinly scattered permanent population and development of leisure activities, particularly skiing, have resulted in significant long-term changes to the local ecosystems. Proposed developments include a preferential research program on mountain forests. The fifth resolution relaunched the European research network on the physiology of trees, called Eurosilva. Eurosilva should support joint European research on tree diseases and their physiological and biochemical aspects. Each country concerned could increase the number of scholarships and other financial support for doctoral theses and research projects in this area. Finally, the conference established the framework for a European research network on forest ecosystems. This would also involve harmonising activities in individual countries as well as identifying a number of priority research topics relating to the protection of forests. The Strasbourg conference’s main concern was to provide for the future. This was the initial motivation, one now shared by all 31 participants representing 31 European countries. Their final text commits them to on-going discussion between government representatives with responsibility for forests.",
+    "80": "Questions 27–33\n\nDo the following statements agree with the information given in Reading Passage 3?\n\nIn boxes 27–33 on your answer sheet, write\n\nTRUE if the statement agrees with the information\n\nFALSE if the statement contradicts the information\n\nNOT GIVEN if there is no information on this\n\n27  Forest problems of Mediterranean countries are to be discussed at the next meeting of experts.\n\n28  Problems in Nordic countries were excluded because they are outside the European Economic Community.\n\n29  Forests are a renewable source of raw material.\n\n30  The biological functions of forests were recognised only in the twentieth century.\n\n31  Natural forests still exist in parts of Europe.\n\n32  Forest policy should be limited by national boundaries.\n\n33  The Strasbourg conference decided that a forest policy must allow for the possibility of change.",
+    "81": "Questions 34–39\n\nLook at the following statements issued by the conference.\n\nWhich six of the following statements, A–J, refer to the resolutions that were issued?\n\nMatch the statements with the appropriate resolutions (Questions 34–39).\n\nWrite the correct letter, A–J, in boxes 34–39 on your answer sheet.\n\nA  All kinds of species of trees should be preserved.\n\nB  Fragile mountain forests should be given priority in research programs.\n\nC  The surviving natural forests of Europe do not need priority treatment.\n\nD  Research is to be better co-ordinated throughout Europe.\n\nE  Information on forest fires should be collected and shared.\n\nF  Loss of leaves from trees should be more extensively and carefully monitored.\n\nG  Resources should be allocated to research into tree diseases.\n\nH  Skiing should be encouraged in thinly populated areas.\n\nI  Soil imbalances such as acidification should be treated with compounds of nitrogen and sulphur.\n\nJ  Information is to be systematically gathered on any decline in the condition of forests.\n\n34  Resolution 1\n\n35  Resolution 2\n\n36  Resolution 3\n\n37  Resolution 4\n\n38  Resolution 5\n\n39  Resolution 6\n\nQuestion 40\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in box 40 on your answer sheet.\n\n40  What is the best title for Reading Passage 3?\n\nA  The biological, economic and recreational role of forests\n\nB  Plans to protect the forests of Europe\n\nC  The priority of European research into ecosystems\n\nD  Proposals for a world-wide policy on forest management",
+    "161": "ACADEMIC READING\nReading Passage 3, Questions 27–40\n27  NOT GIVEN\n28  FALSE\n29  TRUE\n30  FALSE\n31  FALSE\n32  FALSE\n33  TRUE\n34  J\n35  A\n36  E\n37  B\n38  G\n39  D\n40  B"
+  },
+  "sourceAudit": {
+    "authority": "data/Cambridge-IELTS-07.pdf",
+    "originalOnlyReview": "All wording, layout, punctuation, typography, page boundaries, question content and answers were independently checked from fresh renders of the original PDF only.",
+    "blindAuditResult": "No body, question, answer, accepted-form, evidence, distractor or image-decision correction was required. Audit metadata was cleaned to remove downstream-source references, and the original italic, bold-italic, quotation and policy-making line-wrap observations were made explicit."
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "count": 0,
+    "finding": "No diagram, chart, map, table or labelled illustration is needed for meaning or answering. The unlabelled forest photograph on physical page 78 is decorative and is excluded.",
+    "tightCropPlan": []
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": true,
+    "sourcePageCount": 4,
+    "bodyParagraphCount": 4,
+    "sentenceCount": 46,
+    "sentenceReconstruction": "Each body paragraph is exactly reconstructable by joining its mapped sentence slice with one space.",
+    "questionCount": 14,
+    "questionNumbers": "27–40 contiguous",
+    "officialAnswerCount": 14,
+    "officialAnswerSequenceVerified": true,
+    "trueFalseNotGivenAlternativeStatusesCovered": 14,
+    "matchingResolutionWrongOptionsCovered": 54,
+    "multipleChoiceWrongOptionsCovered": 3,
+    "totalDistractorCount": 71,
+    "explicitWrongOptionsAllCovered": true,
+    "answerKeyVerifiedAsTest3AcademicReading": true,
+    "semanticImagesRequired": false,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditMetadataClean": true,
+    "authoritativePdfPhysicalPages": [
+      78,
+      79,
+      80,
+      81,
+      161
+    ],
+    "boundaryPhysicalPages": [
+      77,
+      82
+    ]
+  }
+}

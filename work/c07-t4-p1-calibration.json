@@ -1,0 +1,662 @@
+{
+  "book": 7,
+  "test": 4,
+  "passage": 1,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-07.pdf",
+  "calibrationMethod": "Second-reviewer independent blind page-by-page visual audit against data/Cambridge-IELTS-07.pdf only. Physical pages 92–96 and answer page 163 were rendered directly from the authoritative PDF at 300 DPI equivalent and reviewed through high-resolution page images and overlapping readable bands. Existing pages.json, raw.md, bank files, lessons, recovered sources and OCR were not consulted or treated as authority while checking boundaries, body text, sentence structure, questions, typography, official answers, accepted forms, evidence, distractor reasons or image necessity.",
+  "reviewedPhysicalPages": [
+    92,
+    93,
+    94,
+    95,
+    96,
+    163
+  ],
+  "boundaryPages": [
+    {
+      "physicalPage": 92,
+      "printedPageNumber": 88,
+      "finding": "Test 4 Listening, Questions 34–40; Test 4 Academic Reading has not started."
+    },
+    {
+      "physicalPage": 96,
+      "printedPageNumber": 92,
+      "finding": "Test 4 Reading Passage 2, ‘Endless Harvest’, starts here; Passage 1 ended on physical page 95."
+    }
+  ],
+  "sourcePages": [
+    93,
+    94,
+    95
+  ],
+  "sourcePrintedPages": [
+    89,
+    90,
+    91
+  ],
+  "passagePages": [
+    93,
+    94
+  ],
+  "passagePrintedPages": [
+    89,
+    90
+  ],
+  "questionPages": [
+    95
+  ],
+  "questionPrintedPages": [
+    91
+  ],
+  "answerPage": 163,
+  "answerKeyPage": 163,
+  "answerKeyPrintedPage": 159,
+  "answerKey": {
+    "actualPdfPhysicalPage": 163,
+    "printedPageNumber": 159,
+    "section": "ACADEMIC READING",
+    "finding": "Physical page 163 is the Test 4 Academic Reading answer key and contains the complete official answers and parenthesised optional answer words for Reading Passage 1, Questions 1–13."
+  },
+  "sectionHeading": "READING PASSAGE 1",
+  "leadInstruction": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+  "title": "Pulling strings to build pyramids",
+  "standfirst": "No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.",
+  "authorNote": null,
+  "sections": [],
+  "bodyParagraphs": [
+    "The pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object.",
+    "Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. ‘Coming from Iran, I have a keen interest in Middle Eastern science,’ he says. He too was puzzled by the picture that had sparked Clemmons’s interest. The object in the sky apparently had wings far too short and wide for a bird. ‘The possibility certainly existed that it was a kite,’ he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea.",
+    "Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn’t need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold’s apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley.",
+    "Earlier this year, the team put Clemmons’s unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. ‘We were absolutely stunned,’ Gharib says. ‘The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.’",
+    "The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. ‘There was a huge initial force – five times larger than the steady state force,’ Gharib says. This jerk meant that kites could lift huge weights, Gharib realised.",
+    "Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. ‘Whether they actually did is another matter,’ Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. ‘The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,’ Gharib says.",
+    "Indeed, the experiments have left many specialists unconvinced. ‘The evidence for kite-lifting is non-existent,’ says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles.",
+    "Others feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.",
+    "The experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can’t reach. His idea is to build the arches horizontally, then lift them into place using kites. ‘We’ve given him some design hints,’ says Gharib. ‘We’re just waiting for him to report back.’ So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD."
+  ],
+  "sentences": [
+    "The pyramids of Egypt were built more than three thousand years ago, and no one knows how.",
+    "The conventional picture is that tens of thousands of slaves dragged stones on sledges.",
+    "But there is no evidence to back this up.",
+    "Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved.",
+    "While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures.",
+    "They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky.",
+    "She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object.",
+    "Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology.",
+    "He was fascinated by the idea.",
+    "‘Coming from Iran, I have a keen interest in Middle Eastern science,’ he says.",
+    "He too was puzzled by the picture that had sparked Clemmons’s interest.",
+    "The object in the sky apparently had wings far too short and wide for a bird.",
+    "‘The possibility certainly existed that it was a kite,’ he says.",
+    "And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea.",
+    "Gharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind.",
+    "Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn’t need a strong wind to lift the 33.5-tonne column.",
+    "Even a modest force, if sustained over a long time, would do.",
+    "The key was to use a pulley system that would magnify the applied force.",
+    "So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold’s apex.",
+    "The idea was that as one end of the column rose, the base would roll across the ground on a trolley.",
+    "Earlier this year, the team put Clemmons’s unlikely theory to the test, using a 40-square-metre rectangular nylon sail.",
+    "The kite lifted the column clean off the ground.",
+    "‘We were absolutely stunned,’ Gharib says.",
+    "‘The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.’",
+    "The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed.",
+    "What they had failed to reckon with was what happened when the kite was opened.",
+    "‘There was a huge initial force – five times larger than the steady state force,’ Gharib says.",
+    "This jerk meant that kites could lift huge weights, Gharib realised.",
+    "Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails.",
+    "So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place.",
+    "‘Whether they actually did is another matter,’ Gharib says.",
+    "There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened.",
+    "‘The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,’ Gharib says.",
+    "Indeed, the experiments have left many specialists unconvinced.",
+    "‘The evidence for kite-lifting is non-existent,’ says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles.",
+    "Others feel there is more of a case for the theory.",
+    "Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.",
+    "And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone.",
+    "In addition, there is some physical evidence that the ancient Egyptians were interested in flight.",
+    "A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.",
+    "Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.",
+    "And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.",
+    "The experiments might even have practical uses nowadays.",
+    "There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles.",
+    "Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can’t reach.",
+    "His idea is to build the arches horizontally, then lift them into place using kites.",
+    "‘We’ve given him some design hints,’ says Gharib.",
+    "‘We’re just waiting for him to report back.’",
+    "So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD."
+  ],
+  "sentenceParagraphMap": [
+    {
+      "paragraphIndex": 0,
+      "sentenceStart": 0,
+      "sentenceEndExclusive": 7
+    },
+    {
+      "paragraphIndex": 1,
+      "sentenceStart": 7,
+      "sentenceEndExclusive": 14
+    },
+    {
+      "paragraphIndex": 2,
+      "sentenceStart": 14,
+      "sentenceEndExclusive": 20
+    },
+    {
+      "paragraphIndex": 3,
+      "sentenceStart": 20,
+      "sentenceEndExclusive": 24
+    },
+    {
+      "paragraphIndex": 4,
+      "sentenceStart": 24,
+      "sentenceEndExclusive": 28
+    },
+    {
+      "paragraphIndex": 5,
+      "sentenceStart": 28,
+      "sentenceEndExclusive": 33
+    },
+    {
+      "paragraphIndex": 6,
+      "sentenceStart": 33,
+      "sentenceEndExclusive": 35
+    },
+    {
+      "paragraphIndex": 7,
+      "sentenceStart": 35,
+      "sentenceEndExclusive": 42
+    },
+    {
+      "paragraphIndex": 8,
+      "sentenceStart": 42,
+      "sentenceEndExclusive": 49
+    }
+  ],
+  "footnotes": [],
+  "typography": {
+    "semanticItalics": [
+      {
+        "text": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+        "meaning": "Lead instruction",
+        "physicalPage": 93,
+        "sentenceNumber": null,
+        "occurrenceCount": 1
+      },
+      {
+        "text": "No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.",
+        "meaning": "Standfirst",
+        "physicalPage": 93,
+        "sentenceNumber": null,
+        "occurrenceCount": 1
+      }
+    ],
+    "quotedText": [
+      "‘hanging in the air’",
+      "‘Coming from Iran, I have a keen interest in Middle Eastern science,’",
+      "‘The possibility certainly existed that it was a kite,’",
+      "‘We were absolutely stunned,’",
+      "‘The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.’",
+      "‘There was a huge initial force – five times larger than the steady state force,’",
+      "‘Whether they actually did is another matter,’",
+      "‘The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,’",
+      "‘The evidence for kite-lifting is non-existent,’",
+      "‘We’ve given him some design hints,’",
+      "‘We’re just waiting for him to report back.’"
+    ],
+    "dashes": "The source uses hyphens in compounds (scale-model, wind-tunnel, tent-shaped, 40-square-metre, kite-lifting), an en dash in ‘initial force – five times larger’, and no sentence-spanning dash at the physical-page break.",
+    "apostrophes": "Curly apostrophes are retained in Clemmons’s, wouldn’t, scaffold’s, can’t, We’ve and We’re; source quotation marks are retained as curly single quotes.",
+    "numbersAndUnits": [
+      "more than three thousand years",
+      "4.5-metre",
+      "33.5-tonne",
+      "40-square-metre",
+      "40 seconds",
+      "16 to 20 kilometres an hour",
+      "five times",
+      "300-tonne",
+      "40 or so men",
+      "four or five sails",
+      "1250 BC",
+      "21st century AD"
+    ],
+    "diacritics": [],
+    "footnoteMarker": "None in Passage 1 or Questions 1–13.",
+    "instructionFormatting": [
+      {
+        "physicalPage": 95,
+        "text": "Questions 1–7; Do the following statements agree with the information given in Reading Passage 1?; In boxes 1–7 on your answer sheet, write; TRUE / FALSE / NOT GIVEN definitions",
+        "style": "The question-range heading is bold italic. The prompt ‘Do the following statements agree with the information given in Reading Passage 1?’ is roman. ‘In boxes 1–7 on your answer sheet, write’ and the three response definitions are italic; TRUE, FALSE and NOT GIVEN are bold italic capitals."
+      },
+      {
+        "physicalPage": 95,
+        "text": "Questions 8–13; Complete the summary below.; Choose NO MORE THAN TWO WORDS from the passage for each answer.; Write your answers in boxes 8–13 on your answer sheet.",
+        "style": "The question-range heading is bold italic and all three instruction lines are italic; NO MORE THAN TWO WORDS is bold italic capitals. The summary title is bold upright sans serif and the summary body is upright sans serif."
+      }
+    ],
+    "titleFormatting": {
+      "text": "Pulling strings to build pyramids",
+      "physicalPage": 93,
+      "style": "Large bold white sans-serif title reversed out of a black rounded rectangular band."
+    },
+    "sectionHeadingFormatting": {
+      "text": "READING PASSAGE 1",
+      "physicalPage": 93,
+      "style": "Large bold uppercase serif, upright."
+    },
+    "leadInstructionFormatting": {
+      "text": "You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.",
+      "physicalPage": 93,
+      "style": "Italic serif, with Questions 1–13 in bold italic."
+    },
+    "standfirstFormatting": {
+      "text": "No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.",
+      "physicalPage": 93,
+      "style": "Italic sans serif beside the pyramid photograph."
+    },
+    "bodyFormatting": {
+      "physicalPages": [
+        93,
+        94
+      ],
+      "style": "Upright sans serif body text in nine unlabelled paragraphs."
+    }
+  },
+  "questionGroups": [
+    {
+      "range": "1–7",
+      "sourcePages": [
+        95
+      ],
+      "sourcePrintedPages": [
+        91
+      ],
+      "type": "TRUE_FALSE_NOT_GIVEN",
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 1?",
+        "In boxes 1–7 on your answer sheet, write",
+        "TRUE if the statement agrees with the information",
+        "FALSE if the statement contradicts the information",
+        "NOT GIVEN if there is no information on this"
+      ],
+      "options": [
+        {
+          "label": "TRUE",
+          "text": "if the statement agrees with the information"
+        },
+        {
+          "label": "FALSE",
+          "text": "if the statement contradicts the information"
+        },
+        {
+          "label": "NOT GIVEN",
+          "text": "if there is no information on this"
+        }
+      ],
+      "prompts": [
+        {
+          "number": 1,
+          "text": "It is generally believed that large numbers of people were needed to build the pyramids."
+        },
+        {
+          "number": 2,
+          "text": "Clemmons found a strange hieroglyph on the wall of an Egyptian monument."
+        },
+        {
+          "number": 3,
+          "text": "Gharib had previously done experiments on bird flight."
+        },
+        {
+          "number": 4,
+          "text": "Gharib and Graff tested their theory before applying it."
+        },
+        {
+          "number": 5,
+          "text": "The success of the actual experiment was due to the high speed of the wind."
+        },
+        {
+          "number": 6,
+          "text": "They found that, as the kite flew higher, the wind force got stronger."
+        },
+        {
+          "number": 7,
+          "text": "The team decided that it was possible to use kites to raise very heavy stones."
+        }
+      ]
+    },
+    {
+      "range": "8–13",
+      "sourcePages": [
+        95
+      ],
+      "sourcePrintedPages": [
+        91
+      ],
+      "type": "SUMMARY_COMPLETION",
+      "instructions": [
+        "Complete the summary below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 8–13 on your answer sheet."
+      ],
+      "summaryTitle": "Additional evidence for theory of kite-lifting",
+      "summaryText": "The Egyptians had 8 ______, which could lift large pieces of 9 ______, and they knew how to use the energy of the wind from their skill as 10 ______. The discovery on one pyramid of an object which resembled a 11 ______ suggests they may have experimented with 12 ______. In addition, over two thousand years ago kites were used in China as weapons, as well as for sending 13 ______.",
+      "options": [],
+      "prompts": [
+        {
+          "number": 8,
+          "text": "The Egyptians had 8 ______, which could lift large pieces of …"
+        },
+        {
+          "number": 9,
+          "text": "… which could lift large pieces of 9 ______ …"
+        },
+        {
+          "number": 10,
+          "text": "… they knew how to use the energy of the wind from their skill as 10 ______."
+        },
+        {
+          "number": 11,
+          "text": "The discovery on one pyramid of an object which resembled a 11 ______ …"
+        },
+        {
+          "number": 12,
+          "text": "… suggests they may have experimented with 12 ______."
+        },
+        {
+          "number": 13,
+          "text": "… kites were used in China as weapons, as well as for sending 13 ______."
+        }
+      ]
+    }
+  ],
+  "answers": {
+    "1": "TRUE",
+    "2": "FALSE",
+    "3": "NOT GIVEN",
+    "4": "TRUE",
+    "5": "FALSE",
+    "6": "NOT GIVEN",
+    "7": "TRUE",
+    "8": "(wooden) pulleys",
+    "9": "stone",
+    "10": "(accomplished) sailors",
+    "11": "(modern) glider",
+    "12": "flight",
+    "13": "messages"
+  },
+  "acceptedForms": {
+    "1": [
+      "TRUE"
+    ],
+    "2": [
+      "FALSE"
+    ],
+    "3": [
+      "NOT GIVEN"
+    ],
+    "4": [
+      "TRUE"
+    ],
+    "5": [
+      "FALSE"
+    ],
+    "6": [
+      "NOT GIVEN"
+    ],
+    "7": [
+      "TRUE"
+    ],
+    "8": [
+      "pulleys",
+      "wooden pulleys"
+    ],
+    "9": [
+      "stone"
+    ],
+    "10": [
+      "sailors",
+      "accomplished sailors"
+    ],
+    "11": [
+      "glider",
+      "modern glider"
+    ],
+    "12": [
+      "flight"
+    ],
+    "13": [
+      "messages"
+    ]
+  },
+  "officialAnswerSequence": [
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN",
+    "TRUE",
+    "FALSE",
+    "NOT GIVEN",
+    "TRUE",
+    "(wooden) pulleys",
+    "stone",
+    "(accomplished) sailors",
+    "(modern) glider",
+    "flight",
+    "messages"
+  ],
+  "answerEvidence": [
+    {
+      "number": 1,
+      "answer": "TRUE",
+      "evidence": "The conventional picture is that tens of thousands of slaves dragged stones on sledges.",
+      "evidenceStatus": "continuous",
+      "reason": "The conventional picture is the general belief, and ‘tens of thousands’ directly supports ‘large numbers of people’.",
+      "distractors": {
+        "FALSE": "The statement matches the conventional picture; the following lack-of-evidence caveat questions proof, not whether this belief is generally held.",
+        "NOT GIVEN": "The conventional picture and the number ‘tens of thousands’ are stated explicitly."
+      }
+    },
+    {
+      "number": 2,
+      "answer": "FALSE",
+      "evidence": "While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures.",
+      "evidenceStatus": "continuous",
+      "reason": "Clemmons encountered the hieroglyph while looking through a book, not by finding it on a monument wall.",
+      "distractors": {
+        "TRUE": "The source location is a book about the monuments, so ‘on the wall’ contradicts the account.",
+        "NOT GIVEN": "The passage explicitly identifies how and where she encountered the hieroglyph."
+      }
+    },
+    {
+      "number": 3,
+      "answer": "NOT GIVEN",
+      "evidence": "Intrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. ‘Coming from Iran, I have a keen interest in Middle Eastern science,’ he says. He too was puzzled by the picture that had sparked Clemmons’s interest. The object in the sky apparently had wings far too short and wide for a bird. ‘The possibility certainly existed that it was a kite,’ he says.",
+      "evidenceStatus": "missingness_checked_in_continuous_relevant_passage",
+      "reason": "The relevant introduction gives Gharib’s role, interests and reaction, but says nothing about any previous bird-flight experiments.",
+      "distractors": {
+        "TRUE": "Being an aeronautics professor and discussing bird-like wings does not establish that he had conducted bird-flight experiments.",
+        "FALSE": "The passage does not state that he had never conducted such experiments, so the claim is not contradicted either."
+      }
+    },
+    {
+      "number": 4,
+      "answer": "TRUE",
+      "evidence": "Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn’t need a strong wind to lift the 33.5-tonne column.",
+      "evidenceStatus": "continuous",
+      "reason": "They performed calculations and scale-model wind-tunnel experiments before the later full-scale test.",
+      "distractors": {
+        "FALSE": "The initial modelling and wind-tunnel experiments are tests carried out before the actual application.",
+        "NOT GIVEN": "Both the preliminary testing and later real experiment are described explicitly and in sequence."
+      }
+    },
+    {
+      "number": 5,
+      "answer": "FALSE",
+      "evidence": "The wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. ‘There was a huge initial force – five times larger than the steady state force,’ Gharib says.",
+      "evidenceStatus": "continuous",
+      "reason": "The wind was gentle; the decisive factor was the large initial force when the kite opened, not high wind speed.",
+      "distractors": {
+        "TRUE": "The measured wind speed was only a little over half the expected requirement, directly opposing ‘high speed’ as the cause.",
+        "NOT GIVEN": "The passage explicitly gives both the wind speed and the opening-force explanation."
+      }
+    },
+    {
+      "number": 6,
+      "answer": "NOT GIVEN",
+      "evidence": "What they had failed to reckon with was what happened when the kite was opened. ‘There was a huge initial force – five times larger than the steady state force,’ Gharib says. This jerk meant that kites could lift huge weights, Gharib realised.",
+      "evidenceStatus": "missingness_checked_in_continuous_relevant_passage",
+      "reason": "The passage compares an initial opening force with a later steady-state force; it gives no kite-altitude change and no relationship between height and wind force.",
+      "distractors": {
+        "TRUE": "An initial-versus-steady force comparison is temporal and does not show that force increased as the kite climbed.",
+        "FALSE": "The passage does not state that force weakened or stayed unchanged as the kite flew higher; altitude is simply not discussed."
+      }
+    },
+    {
+      "number": 7,
+      "answer": "TRUE",
+      "evidence": "Even a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place.",
+      "evidenceStatus": "continuous",
+      "reason": "The team extrapolated that kites could lift a 300-tonne column and therefore massive stones.",
+      "distractors": {
+        "FALSE": "The stated 300-tonne estimate and conclusion about massive stones directly support feasibility.",
+        "NOT GIVEN": "The feasibility decision is stated explicitly in two consecutive sentences."
+      }
+    },
+    {
+      "number": 8,
+      "answer": "(wooden) pulleys",
+      "evidence": "And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone.",
+      "evidenceStatus": "continuous",
+      "reason": "‘Wooden pulleys’ supplies the plural noun phrase for what the Egyptians had; the answer key marks ‘wooden’ optional.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    },
+    {
+      "number": 9,
+      "answer": "stone",
+      "evidence": "And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone.",
+      "evidenceStatus": "continuous",
+      "reason": "The summary paraphrases ‘massive blocks of stone’ as ‘large pieces of stone’.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    },
+    {
+      "number": 10,
+      "answer": "(accomplished) sailors",
+      "evidence": "Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians.",
+      "evidenceStatus": "continuous",
+      "reason": "Their skill as sailors explains their ability to harness wind; the answer key marks ‘accomplished’ optional.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    },
+    {
+      "number": 11,
+      "answer": "(modern) glider",
+      "evidence": "A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider.",
+      "evidenceStatus": "continuous",
+      "reason": "The object resembled a modern glider; the answer key marks ‘modern’ optional.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    },
+    {
+      "number": 12,
+      "answer": "flight",
+      "evidence": "Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time.",
+      "evidenceStatus": "continuous",
+      "reason": "‘Developing ideas of flight’ is paraphrased by the summary as experimenting with flight.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    },
+    {
+      "number": 13,
+      "answer": "messages",
+      "evidence": "And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.",
+      "evidenceStatus": "continuous",
+      "reason": "‘Deliver messages’ maps directly to ‘for sending messages’ in the summary.",
+      "distractors": {},
+      "distractorNote": "No answer list or printed alternatives are supplied for Questions 8–13."
+    }
+  ],
+  "rawPages": {
+    "93": "READING\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\n\nPulling strings to build pyramids\n\nNo one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.\n\nThe pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object.\n\nIntrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. ‘Coming from Iran, I have a keen interest in Middle Eastern science,’ he says. He too was puzzled by the picture that had sparked Clemmons’s interest. The object in the sky apparently had wings far too short and wide for a bird. ‘The possibility certainly existed that it was a kite,’ he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea.\n\nGharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn’t need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold’s apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley.",
+    "94": "Test 4\n\nEarlier this year, the team put Clemmons’s unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. ‘We were absolutely stunned,’ Gharib says. ‘The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.’\n\nThe wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. ‘There was a huge initial force – five times larger than the steady state force,’ Gharib says. This jerk meant that kites could lift huge weights, Gharib realised.\n\nEven a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. ‘Whether they actually did is another matter,’ Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. ‘The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,’ Gharib says.\n\nIndeed, the experiments have left many specialists unconvinced. ‘The evidence for kite-lifting is non-existent,’ says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles.\n\nOthers feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.\n\nThe experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can’t reach. His idea is to build the arches horizontally, then lift them into place using kites. ‘We’ve given him some design hints,’ says Gharib. ‘We’re just waiting for him to report back.’ So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD.",
+    "95": "Questions 1–7\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 1–7 on your answer sheet, write\n\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n\n1 It is generally believed that large numbers of people were needed to build the pyramids.\n2 Clemmons found a strange hieroglyph on the wall of an Egyptian monument.\n3 Gharib had previously done experiments on bird flight.\n4 Gharib and Graff tested their theory before applying it.\n5 The success of the actual experiment was due to the high speed of the wind.\n6 They found that, as the kite flew higher, the wind force got stronger.\n7 The team decided that it was possible to use kites to raise very heavy stones.\n\nQuestions 8–13\n\nComplete the summary below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 8–13 on your answer sheet.\n\nAdditional evidence for theory of kite-lifting\n\nThe Egyptians had 8 ______, which could lift large pieces of 9 ______, and they knew how to use the energy of the wind from their skill as 10 ______. The discovery on one pyramid of an object which resembled a 11 ______ suggests they may have experimented with 12 ______. In addition, over two thousand years ago kites were used in China as weapons, as well as for sending 13 ______.",
+    "163": "ACADEMIC READING\n\nReading Passage 1, Questions 1–13\n\n1 TRUE\n2 FALSE\n3 NOT GIVEN\n4 TRUE\n5 FALSE\n6 NOT GIVEN\n7 TRUE\n8 (wooden) pulleys\n9 stone\n10 (accomplished) sailors\n11 (modern) glider\n12 flight\n13 messages"
+  },
+  "pages": {
+    "93": "READING\n\nREADING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below.\n\nPulling strings to build pyramids\n\nNo one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.\n\nThe pyramids of Egypt were built more than three thousand years ago, and no one knows how. The conventional picture is that tens of thousands of slaves dragged stones on sledges. But there is no evidence to back this up. Now a Californian software consultant called Maureen Clemmons has suggested that kites might have been involved. While perusing a book on the monuments of Egypt, she noticed a hieroglyph that showed a row of men standing in odd postures. They were holding what looked like ropes that led, via some kind of mechanical system, to a giant bird in the sky. She wondered if perhaps the bird was actually a giant kite, and the men were using it to lift a heavy object.\n\nIntrigued, Clemmons contacted Morteza Gharib, aeronautics professor at the California Institute of Technology. He was fascinated by the idea. ‘Coming from Iran, I have a keen interest in Middle Eastern science,’ he says. He too was puzzled by the picture that had sparked Clemmons’s interest. The object in the sky apparently had wings far too short and wide for a bird. ‘The possibility certainly existed that it was a kite,’ he says. And since he needed a summer project for his student Emilio Graff, investigating the possibility of using kites as heavy lifters seemed like a good idea.\n\nGharib and Graff set themselves the task of raising a 4.5-metre stone column from horizontal to vertical, using no source of energy except the wind. Their initial calculations and scale-model wind-tunnel experiments convinced them they wouldn’t need a strong wind to lift the 33.5-tonne column. Even a modest force, if sustained over a long time, would do. The key was to use a pulley system that would magnify the applied force. So they rigged up a tent-shaped scaffold directly above the tip of the horizontal column, with pulleys suspended from the scaffold’s apex. The idea was that as one end of the column rose, the base would roll across the ground on a trolley.",
+    "94": "Test 4\n\nEarlier this year, the team put Clemmons’s unlikely theory to the test, using a 40-square-metre rectangular nylon sail. The kite lifted the column clean off the ground. ‘We were absolutely stunned,’ Gharib says. ‘The instant the sail opened into the wind, a huge force was generated and the column was raised to the vertical in a mere 40 seconds.’\n\nThe wind was blowing at a gentle 16 to 20 kilometres an hour, little more than half what they thought would be needed. What they had failed to reckon with was what happened when the kite was opened. ‘There was a huge initial force – five times larger than the steady state force,’ Gharib says. This jerk meant that kites could lift huge weights, Gharib realised.\n\nEven a 300-tonne column could have been lifted to the vertical with 40 or so men and four or five sails. So Clemmons was right: the pyramid builders could have used kites to lift massive stones into place. ‘Whether they actually did is another matter,’ Gharib says. There are no pictures showing the construction of the pyramids, so there is no way to tell what really happened. ‘The evidence for using kites to move large stones is no better or worse than the evidence for the brute force method,’ Gharib says.\n\nIndeed, the experiments have left many specialists unconvinced. ‘The evidence for kite-lifting is non-existent,’ says Willeke Wendrich, an associate professor of Egyptology at the University of California, Los Angeles.\n\nOthers feel there is more of a case for the theory. Harnessing the wind would not have been a problem for accomplished sailors like the Egyptians. And they are known to have used wooden pulleys, which could have been made strong enough to bear the weight of massive blocks of stone. In addition, there is some physical evidence that the ancient Egyptians were interested in flight. A wooden artefact found on the step pyramid at Saqqara looks uncannily like a modern glider. Although it dates from several hundred years after the building of the pyramids, its sophistication suggests that the Egyptians might have been developing ideas of flight for a long time. And other ancient civilisations certainly knew about kites; as early as 1250 BC, the Chinese were using them to deliver messages and dump flaming debris on their foes.\n\nThe experiments might even have practical uses nowadays. There are plenty of places around the globe where people have no access to heavy machinery, but do know how to deal with wind, sailing and basic mechanical principles. Gharib has already been contacted by a civil engineer in Nicaragua, who wants to put up buildings with adobe roofs supported by concrete arches on a site that heavy equipment can’t reach. His idea is to build the arches horizontally, then lift them into place using kites. ‘We’ve given him some design hints,’ says Gharib. ‘We’re just waiting for him to report back.’ So whether they were actually used to build the pyramids or not, it seems that kites may make sensible construction tools in the 21st century AD.",
+    "95": "Questions 1–7\n\nDo the following statements agree with the information given in Reading Passage 1?\n\nIn boxes 1–7 on your answer sheet, write\n\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this\n\n1 It is generally believed that large numbers of people were needed to build the pyramids.\n2 Clemmons found a strange hieroglyph on the wall of an Egyptian monument.\n3 Gharib had previously done experiments on bird flight.\n4 Gharib and Graff tested their theory before applying it.\n5 The success of the actual experiment was due to the high speed of the wind.\n6 They found that, as the kite flew higher, the wind force got stronger.\n7 The team decided that it was possible to use kites to raise very heavy stones.\n\nQuestions 8–13\n\nComplete the summary below.\n\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\n\nWrite your answers in boxes 8–13 on your answer sheet.\n\nAdditional evidence for theory of kite-lifting\n\nThe Egyptians had 8 ______, which could lift large pieces of 9 ______, and they knew how to use the energy of the wind from their skill as 10 ______. The discovery on one pyramid of an object which resembled a 11 ______ suggests they may have experimented with 12 ______. In addition, over two thousand years ago kites were used in China as weapons, as well as for sending 13 ______.",
+    "163": "ACADEMIC READING\n\nReading Passage 1, Questions 1–13\n\n1 TRUE\n2 FALSE\n3 NOT GIVEN\n4 TRUE\n5 FALSE\n6 NOT GIVEN\n7 TRUE\n8 (wooden) pulleys\n9 stone\n10 (accomplished) sailors\n11 (modern) glider\n12 flight\n13 messages"
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "images": [],
+    "reason": "Physical page 93 contains one rectangular photograph of an Egyptian pyramid. It is decorative and supplies no label, spatial relation, mechanism, answer evidence or other information needed to understand the passage or answer Questions 1–13; no crop should be retained."
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": true,
+    "sourcePageCount": 3,
+    "bodyParagraphCount": 9,
+    "sentenceCount": 49,
+    "sentenceReconstruction": "Every body paragraph exactly equals its mapped sentence slice joined with single spaces.",
+    "questionCount": 13,
+    "questionNumbers": "1–13 continuous",
+    "officialAnswerCount": 13,
+    "explicitWrongOptionDistractorCount": 14,
+    "trueFalseNotGivenAlternativeCount": 14,
+    "summaryWrongOptionCount": 0,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 11,
+    "missingnessEvidenceCount": 2,
+    "allEvidenceContinuous": true,
+    "answerKeyVerifiedAsAcademicReading": true,
+    "semanticImagesRequired": false,
+    "independentBlindReviewAgainstAuthoritativePdf": true,
+    "authoritativePdfPhysicalPages": [
+      93,
+      94,
+      95,
+      163
+    ],
+    "adjacentBoundaryPhysicalPages": [
+      92,
+      96
+    ]
+  },
+  "blindAudit": {
+    "auditDate": "2026-07-21",
+    "auditType": "independent original-book blind audit",
+    "authoritativeSource": "data/Cambridge-IELTS-07.pdf",
+    "notConsultedDuringSourceLock": [
+      "pages.json",
+      "raw.md",
+      "bank files",
+      "old intensive-reading lessons",
+      "recovered sources",
+      "OCR"
+    ],
+    "physicalPagesReviewed": [
+      92,
+      93,
+      94,
+      95,
+      96,
+      163
+    ],
+    "renderingMethod": "PyMuPDF 1.28 direct rendering from the authoritative PDF at 300 DPI equivalent, followed by visual inspection of full pages and readable overlapping bands, including the page-93 photograph.",
+    "crossPageBreaks": [
+      {
+        "fromPhysicalPage": 93,
+        "toPhysicalPage": 94,
+        "location": "Between body paragraphs 3 and 4",
+        "beforeBreak": "The idea was that as one end of the column rose, the base would roll across the ground on a trolley.",
+        "afterBreak": "Earlier this year, the team put Clemmons’s unlikely theory to the test, using a 40-square-metre rectangular nylon sail."
+      }
+    ],
+    "sentenceSplitAcrossBodyPages": false,
+    "typographyAudit": "Lead instruction and standfirst italics, title reversal, curly quotations, apostrophes, compounds, units and the en dash were checked visually. No Passage 1 footnote is present.",
+    "finding": "Passage 1 occupies physical pages 93–95 only: body on 93–94, all Questions 1–13 on 95, and the verified official Test 4 Academic Reading answers on physical page 163 (printed page 159)."
+  }
+}

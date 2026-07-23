@@ -1,0 +1,720 @@
+{
+  "book": 8,
+  "test": 2,
+  "passage": 2,
+  "calibrationStatus": "independently_visual_blind_reaudited_against_original_pdf",
+  "calibrationDate": "2026-07-22",
+  "pdf": "data/Cambridge-IELTS-08.pdf",
+  "calibrationMethod": "Fresh two-pass manual visual blind audit against the original scanned book PDF. Physical pages 44–47 were opened and read page by page before the candidate JSON was inspected: page 44 for Questions 14–17 and headings i–ix, pages 45–46 for the title and complete A–F article, and page 47 for Questions 18–26 and all printed options. Physical page 154 was then read independently for the Test 2 Academic Reading answer key, including the 18&19 IN EITHER ORDER rule. The candidate JSON was checked only after this visual transcription pass. pages.json, raw.md, bank data, old lessons, recovered files and OCR-only output were not used as authorities.",
+  "reviewedPhysicalPages": [
+    44,
+    45,
+    46,
+    47,
+    154
+  ],
+  "boundaryPages": [
+    43,
+    48
+  ],
+  "sourcePages": [
+    44,
+    45,
+    46,
+    47
+  ],
+  "sourcePrintedPages": [
+    45,
+    46,
+    47,
+    48
+  ],
+  "printedPageMap": {
+    "43": 44,
+    "44": 45,
+    "45": 46,
+    "46": 47,
+    "47": 48,
+    "48": 49,
+    "154": 155
+  },
+  "passagePages": [
+    45,
+    46
+  ],
+  "passagePrintedPages": [
+    46,
+    47
+  ],
+  "questionPages": [
+    44,
+    47
+  ],
+  "questionPrintedPages": [
+    45,
+    48
+  ],
+  "answerPage": 154,
+  "answerKeyPage": 154,
+  "answerKeyPrintedPage": 155,
+  "answerKey": "Test 2 Academic Reading — Reading Passage 2, Questions 14–26",
+  "sectionHeading": "READING PASSAGE 2",
+  "leadInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.",
+  "title": "THE LITTLE ICE AGE",
+  "titleLineation": [
+    "THE LITTLE ICE AGE"
+  ],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": "A",
+      "sourcePages": [
+        45
+      ],
+      "paragraphs": [
+        "This book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world’s first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high."
+      ]
+    },
+    {
+      "label": "B",
+      "sourcePages": [
+        45
+      ],
+      "paragraphs": [
+        "The Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves."
+      ]
+    },
+    {
+      "label": "C",
+      "sourcePages": [
+        45
+      ],
+      "paragraphs": [
+        "Reconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years."
+      ]
+    },
+    {
+      "label": "D",
+      "sourcePages": [
+        46
+      ],
+      "paragraphs": [
+        "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler."
+      ]
+    },
+    {
+      "label": "E",
+      "sourcePages": [
+        46
+      ],
+      "paragraphs": [
+        "It is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine."
+      ]
+    },
+    {
+      "label": "F",
+      "sourcePages": [
+        46
+      ],
+      "paragraphs": [
+        "Global temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent."
+      ]
+    }
+  ],
+  "footnotes": [],
+  "sentences": [
+    "This book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context.",
+    "We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years.",
+    "Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism.",
+    "They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world’s first pre-industrial civilisations in Egypt, Mesopotamia and the Americas.",
+    "But the price of sudden climate change, in famine, disease and suffering, was often high.",
+    "The Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century.",
+    "Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year.",
+    "The climatic events of the Little Ice Age did more than help shape the modern world.",
+    "They are the deeply important context for the current unprecedented global warming.",
+    "The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean.",
+    "The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.",
+    "Reconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America.",
+    "Records from India and tropical Africa are even more recent.",
+    "For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts.",
+    "We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations.",
+    "We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years.",
+    "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them.",
+    "Part One describes the Medieval Warm Period, roughly 900 to 1200.",
+    "During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America.",
+    "It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature.",
+    "Mean European temperatures were about the same as today, perhaps slightly cooler.",
+    "It is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200.",
+    "As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether.",
+    "Storminess increased in the North Atlantic and North Sea.",
+    "Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine.",
+    "By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century.",
+    "Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern.",
+    "Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore.",
+    "The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic.",
+    "A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations.",
+    "The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops.",
+    "The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine.",
+    "Global temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period.",
+    "There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa.",
+    "Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world.",
+    "The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming.",
+    "Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar.",
+    "The rise has been even steeper since the early 1980s.",
+    "The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming.",
+    "At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent."
+  ],
+  "sentenceParagraphMap": [
+    {
+      "paragraphIndex": 0,
+      "section": "A",
+      "sentenceStart": 0,
+      "sentenceEndExclusive": 5
+    },
+    {
+      "paragraphIndex": 1,
+      "section": "B",
+      "sentenceStart": 5,
+      "sentenceEndExclusive": 11
+    },
+    {
+      "paragraphIndex": 2,
+      "section": "C",
+      "sentenceStart": 11,
+      "sentenceEndExclusive": 16
+    },
+    {
+      "paragraphIndex": 3,
+      "section": "D",
+      "sentenceStart": 16,
+      "sentenceEndExclusive": 21
+    },
+    {
+      "paragraphIndex": 4,
+      "section": "E",
+      "sentenceStart": 21,
+      "sentenceEndExclusive": 32
+    },
+    {
+      "paragraphIndex": 5,
+      "section": "F",
+      "sentenceStart": 32,
+      "sentenceEndExclusive": 40
+    }
+  ],
+  "typography": {
+    "bodyStructure": "The single-line all-capitals title is reversed in white type on a solid black rectangular banner. The article is a single wide column with bold A–F paragraph labels; A–C occupy physical page 45 and D–F occupy physical page 46.",
+    "semanticItalics": [],
+    "questionItalics": [
+      "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.",
+      "Choose the correct heading for paragraphs B and D–F from the list of headings below.",
+      "Write the correct number, i–ix, in boxes 14–17 on your answer sheet.",
+      "Complete the summary using the list of words, A–I, below.",
+      "Write the correct letter, A–I, in boxes 18–22 on your answer sheet.",
+      "Classify the following events as occurring during the",
+      "Write the correct letter, A, B or C, in boxes 23–26 on your answer sheet."
+    ],
+    "quotation": "Curly quotation marks are retained around ‘proxy records’; curly apostrophes are retained in world’s and newcomers’.",
+    "dashes": "En dashes are retained in ranges and in ‘climate – as opposed to weather –’; printed compound-word hyphens are retained.",
+    "numbersAndUnits": [
+      "730,000 years",
+      "10,000 years",
+      "1300",
+      "900 to 1200",
+      "600 years",
+      "1315 and 1319",
+      "1850 and 1890",
+      "early 1980s",
+      "Category 5"
+    ],
+    "superscripts": []
+  },
+  "questionGroups": [
+    {
+      "range": "14–17",
+      "type": "matching_headings",
+      "sourcePages": [
+        44
+      ],
+      "instructions": [
+        "Reading Passage 2 has six paragraphs, A–F.",
+        "Choose the correct heading for paragraphs B and D–F from the list of headings below.",
+        "Write the correct number, i–ix, in boxes 14–17 on your answer sheet."
+      ],
+      "listTitle": "List of Headings",
+      "options": {
+        "i": "Predicting climatic changes",
+        "ii": "The relevance of the Little Ice Age today",
+        "iii": "How cities contribute to climate change",
+        "iv": "Human impact on the climate",
+        "v": "How past climatic conditions can be determined",
+        "vi": "A growing need for weather records",
+        "vii": "A study covering a thousand years",
+        "viii": "People have always responded to climate change",
+        "ix": "Enough food at last"
+      },
+      "prompts": {
+        "14": "Paragraph B",
+        "15": "Paragraph D",
+        "16": "Paragraph E",
+        "17": "Paragraph F"
+      },
+      "examples": [
+        {
+          "prompt": "Paragraph A",
+          "answer": "viii"
+        },
+        {
+          "prompt": "Paragraph C",
+          "answer": "v"
+        }
+      ]
+    },
+    {
+      "range": "18–22",
+      "type": "summary_completion_from_word_list",
+      "sourcePages": [
+        47
+      ],
+      "instructions": [
+        "Complete the summary using the list of words, A–I, below.",
+        "Write the correct letter, A–I, in boxes 18–22 on your answer sheet."
+      ],
+      "summaryTitle": "Weather during the Little Ice Age",
+      "summary": "Documentation of past weather conditions is limited: our main sources of knowledge of conditions in the distant past are 18 ______ and 19 ______. We can deduce that the Little Ice Age was a time of 20 ______, rather than of consistent freezing. Within it there were some periods of very cold winters, others of 21 ______ and heavy rain, and yet others that saw 22 ______ with no rain at all.",
+      "options": {
+        "A": "climatic shifts",
+        "B": "ice cores",
+        "C": "tree rings",
+        "D": "glaciers",
+        "E": "interactions",
+        "F": "weather observations",
+        "G": "heat waves",
+        "H": "storms",
+        "I": "written accounts"
+      },
+      "prompts": {
+        "18": "our main sources of knowledge of conditions in the distant past are ______",
+        "19": "and ______",
+        "20": "the Little Ice Age was a time of ______, rather than of consistent freezing",
+        "21": "others of ______ and heavy rain",
+        "22": "yet others that saw ______ with no rain at all"
+      },
+      "pairedAnswerRule": "Questions 18 and 19 take B and C IN EITHER ORDER."
+    },
+    {
+      "range": "23–26",
+      "type": "classification",
+      "sourcePages": [
+        47
+      ],
+      "instructions": [
+        "Classify the following events as occurring during the",
+        "Write the correct letter, A, B or C, in boxes 23–26 on your answer sheet."
+      ],
+      "options": {
+        "A": "Medieval Warm Period",
+        "B": "Little Ice Age",
+        "C": "Modern Warm Period"
+      },
+      "prompts": {
+        "23": "Many Europeans started farming abroad.",
+        "24": "The cutting down of trees began to affect the climate.",
+        "25": "Europeans discovered other lands.",
+        "26": "Changes took place in fishing patterns."
+      }
+    }
+  ],
+  "answers": {
+    "14": "ii",
+    "15": "vii",
+    "16": "ix",
+    "17": "iv",
+    "18": "B/C (IN EITHER ORDER with 19)",
+    "19": "B/C (IN EITHER ORDER with 18)",
+    "20": "A",
+    "21": "H",
+    "22": "G",
+    "23": "C",
+    "24": "C",
+    "25": "A",
+    "26": "B"
+  },
+  "acceptedForms": {
+    "14": [
+      "ii"
+    ],
+    "15": [
+      "vii"
+    ],
+    "16": [
+      "ix"
+    ],
+    "17": [
+      "iv"
+    ],
+    "18": [
+      "B",
+      "C"
+    ],
+    "19": [
+      "B",
+      "C"
+    ],
+    "20": [
+      "A"
+    ],
+    "21": [
+      "H"
+    ],
+    "22": [
+      "G"
+    ],
+    "23": [
+      "C"
+    ],
+    "24": [
+      "C"
+    ],
+    "25": [
+      "A"
+    ],
+    "26": [
+      "B"
+    ]
+  },
+  "officialAnswerSequence": [
+    "ii",
+    "vii",
+    "ix",
+    "iv",
+    "C/B IN EITHER ORDER",
+    "C/B IN EITHER ORDER",
+    "A",
+    "H",
+    "G",
+    "C",
+    "C",
+    "A",
+    "B"
+  ],
+  "answerEvidence": [
+    {
+      "number": 14,
+      "answer": "ii",
+      "section": "B",
+      "evidence": "The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming.",
+      "reason": "Paragraph B explicitly connects the Little Ice Age with understanding current global warming.",
+      "distractors": {
+        "i": "The paragraph does not predict future climatic changes.",
+        "iii": "The paragraph does not explain how cities contribute to climate change.",
+        "iv": "Human-caused warming is developed in paragraph F, not this paragraph.",
+        "v": "Methods for reconstructing past climate are explained in paragraph C, not this paragraph.",
+        "vi": "No growing demand for additional weather records is argued.",
+        "vii": "The ten-century scope is stated in paragraph D, not this paragraph.",
+        "viii": "Human adaptation across climate change is the main idea of paragraph A, already used as an example.",
+        "ix": "Improved food security is the concluding idea of paragraph E, not this paragraph."
+      }
+    },
+    {
+      "number": 15,
+      "answer": "vii",
+      "section": "D",
+      "evidence": "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them.",
+      "reason": "Paragraph D defines the book as a history spanning the past ten centuries, i.e. roughly a thousand years.",
+      "distractors": {
+        "i": "The paragraph does not predict future climatic changes.",
+        "ii": "The present-day relevance of the Little Ice Age is the main idea of paragraph B, not this paragraph.",
+        "iii": "The paragraph does not explain how cities contribute to climate change.",
+        "iv": "Human-caused warming is developed in paragraph F, not this paragraph.",
+        "v": "Methods for reconstructing past climate are explained in paragraph C, not this paragraph.",
+        "vi": "No growing demand for additional weather records is argued.",
+        "viii": "Human adaptation across climate change is the main idea of paragraph A, already used as an example.",
+        "ix": "Improved food security is the concluding idea of paragraph E, not this paragraph."
+      }
+    },
+    {
+      "number": 16,
+      "answer": "ix",
+      "section": "E",
+      "evidence": "A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine.",
+      "reason": "Paragraph E ends with agricultural productivity finally producing reliable food supplies and protection from famine.",
+      "distractors": {
+        "i": "The paragraph does not predict future climatic changes.",
+        "ii": "The present-day relevance of the Little Ice Age is the main idea of paragraph B, not this paragraph.",
+        "iii": "The paragraph does not explain how cities contribute to climate change.",
+        "iv": "Human-caused warming is developed in paragraph F, not this paragraph.",
+        "v": "Methods for reconstructing past climate are explained in paragraph C, not this paragraph.",
+        "vi": "No growing demand for additional weather records is argued.",
+        "vii": "The ten-century scope is stated in paragraph D, not this paragraph.",
+        "viii": "Human adaptation across climate change is the main idea of paragraph A, already used as an example."
+      }
+    },
+    {
+      "number": 17,
+      "answer": "iv",
+      "section": "F",
+      "evidence": "The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar.",
+      "reason": "Paragraph F directly explains human land clearance and fossil-fuel use changing the climate.",
+      "distractors": {
+        "i": "The paragraph does not predict future climatic changes.",
+        "ii": "The present-day relevance of the Little Ice Age is the main idea of paragraph B, not this paragraph.",
+        "iii": "The paragraph concerns worldwide land clearance and fuel use, not a specific contribution by cities.",
+        "v": "Methods for reconstructing past climate are explained in paragraph C, not this paragraph.",
+        "vi": "No growing demand for additional weather records is argued.",
+        "vii": "The ten-century scope is stated in paragraph D, not this paragraph.",
+        "viii": "Human adaptation across climate change is the main idea of paragraph A, already used as an example.",
+        "ix": "Improved food security is the concluding idea of paragraph E, not this paragraph."
+      }
+    },
+    {
+      "number": 18,
+      "answer": "B/C (paired with 19, either order)",
+      "section": "C",
+      "evidence": "For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts.",
+      "reason": "The two principal distant-past proxy sources are tree rings and ice cores; B and C may occupy Questions 18 and 19 in either order.",
+      "distractors": {
+        "A": "Climatic shifts are the reconstructed phenomenon, not one of the two main physical source types.",
+        "D": "The passage specifically names ice cores, not glaciers themselves, as records.",
+        "E": "Atmosphere–ocean interactions drive climatic shifts; they are not historical records.",
+        "F": "Systematic weather observations began only a few centuries ago and therefore are not the main sources for the distant past.",
+        "G": "Heat waves are a type of weather experienced during the period, not a source of knowledge.",
+        "H": "Storms are a weather condition, not documentary or proxy evidence.",
+        "I": "Written accounts are described as only a few, incomplete supplements, not one of the two main sources."
+      }
+    },
+    {
+      "number": 19,
+      "answer": "C/B (paired with 18, either order)",
+      "section": "C",
+      "evidence": "For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts.",
+      "reason": "The second blank takes the other member of the pair tree rings/ice cores; the official key explicitly allows either order.",
+      "distractors": {
+        "A": "Climatic shifts are the reconstructed phenomenon, not one of the two main physical source types.",
+        "D": "The passage specifically names ice cores, not glaciers themselves, as records.",
+        "E": "Atmosphere–ocean interactions drive climatic shifts; they are not historical records.",
+        "F": "Systematic weather observations began only a few centuries ago and therefore are not the main sources for the distant past.",
+        "G": "Heat waves are a type of weather experienced during the period, not a source of knowledge.",
+        "H": "Storms are a weather condition, not documentary or proxy evidence.",
+        "I": "Written accounts are described as only a few, incomplete supplements, not one of the two main sources."
+      }
+    },
+    {
+      "number": 20,
+      "answer": "A",
+      "section": "B",
+      "evidence": "The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean.",
+      "reason": "The summary contrasts climatic shifts with consistent freezing.",
+      "distractors": {
+        "B": "Ice cores are evidence sources for Questions 18–19, not a description of the period.",
+        "C": "Tree rings are evidence sources for Questions 18–19, not a description of the period.",
+        "D": "Glaciers are mentioned as a climate indicator, but the paragraph says the period was not a continuous deep freeze.",
+        "E": "Interactions explain what drove shifts; the blank requires the shifts themselves.",
+        "F": "Weather observations are records, not the defining character of the period.",
+        "G": "Heat waves were one recurring condition, not the general contrast with consistent freezing.",
+        "H": "Storms were one recurring condition, not the broad pattern covering the whole period.",
+        "I": "Written accounts are evidence sources, not climatic conditions."
+      }
+    },
+    {
+      "number": 21,
+      "answer": "H",
+      "section": "B",
+      "evidence": "The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.",
+      "reason": "Frequent Atlantic storms occurred in the same periods as heavy rain.",
+      "distractors": {
+        "A": "Climatic shifts describe the overall pattern for Question 20, not the rain-associated event required here.",
+        "B": "Ice cores are records, not weather.",
+        "C": "Tree rings are records, not weather.",
+        "D": "Glaciers do not grammatically or semantically pair with ‘and heavy rain’ in the summary.",
+        "E": "Interactions are causal mechanisms, not weather events.",
+        "F": "Weather observations are evidence, not a period of weather.",
+        "G": "Heat waves belong to the no-rain contrast in Question 22.",
+        "I": "Written accounts are records, not weather."
+      }
+    },
+    {
+      "number": 22,
+      "answer": "G",
+      "section": "B",
+      "evidence": "The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.",
+      "reason": "Summer heat waves occur in the drought periods described as having no rain.",
+      "distractors": {
+        "A": "Climatic shifts are the overall pattern, not the dry-weather event required after ‘saw’.",
+        "B": "Ice cores are records, not weather events.",
+        "C": "Tree rings are records, not weather events.",
+        "D": "Glaciers are not the event paired with drought in the passage.",
+        "E": "Interactions drive the changes but are not dry-weather events.",
+        "F": "Weather observations are evidence, not an event.",
+        "H": "Storms are associated with heavy rain and therefore contradict ‘with no rain at all’.",
+        "I": "Written accounts are evidence, not an event."
+      }
+    },
+    {
+      "number": 23,
+      "answer": "C",
+      "section": "F",
+      "evidence": "There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa.",
+      "reason": "The migration of European farmers abroad is placed after 1850 in the Modern Warm Period.",
+      "distractors": {
+        "A": "The Medieval Warm Period describes Norse exploration, not mass migration by land-hungry European farmers.",
+        "B": "The farming migration is introduced after the Little Ice Age, not during it."
+      }
+    },
+    {
+      "number": 24,
+      "answer": "C",
+      "section": "F",
+      "evidence": "Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming.",
+      "reason": "Tree clearance began affecting climate after 1850, within the Modern Warm Period.",
+      "distractors": {
+        "A": "Paragraph D gives no climate effect from tree cutting during the Medieval Warm Period.",
+        "B": "The passage does not place this carbon-releasing clearance in the Little Ice Age."
+      }
+    },
+    {
+      "number": 25,
+      "answer": "A",
+      "section": "D",
+      "evidence": "During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America.",
+      "reason": "European discovery and settlement of other lands are explicitly placed in the Medieval Warm Period.",
+      "distractors": {
+        "B": "The Little Ice Age instead rerouted and ultimately ended Norse western voyages.",
+        "C": "Modern Warm Period migration is later farming abroad, not the stated Norse discoveries."
+      }
+    },
+    {
+      "number": 26,
+      "answer": "B",
+      "section": "E",
+      "evidence": "Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic.",
+      "reason": "The fishing-pattern changes are consequences of colder Little Ice Age waters.",
+      "distractors": {
+        "A": "No altered fishing pattern is described in the Medieval Warm Period paragraph.",
+        "C": "The Modern Warm Period paragraph concerns migration, land clearance and warming, not fishing."
+      }
+    }
+  ],
+  "rawPages": {
+    "44": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.\nQuestions 14–17\nReading Passage 2 has six paragraphs, A–F.\nChoose the correct heading for paragraphs B and D–F from the list of headings below.\nWrite the correct number, i–ix, in boxes 14–17 on your answer sheet.\nList of Headings\ni Predicting climatic changes\nii The relevance of the Little Ice Age today\niii How cities contribute to climate change\niv Human impact on the climate\nv How past climatic conditions can be determined\nvi A growing need for weather records\nvii A study covering a thousand years\nviii People have always responded to climate change\nix Enough food at last\nExample | Answer\nParagraph A | viii\n14 Paragraph B\nExample | Answer\nParagraph C | v\n15 Paragraph D\n16 Paragraph E\n17 Paragraph F",
+    "45": "THE LITTLE ICE AGE\nA\nThis book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world’s first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high.\nB\nThe Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.\nC\nReconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years.",
+    "46": "D\nThis book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler.\nE\nIt is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine.\nF\nGlobal temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent.",
+    "47": "Questions 18–22\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 18–22 on your answer sheet.\nWeather during the Little Ice Age\nDocumentation of past weather conditions is limited: our main sources of knowledge of conditions in the distant past are 18 ______ and 19 ______. We can deduce that the Little Ice Age was a time of 20 ______, rather than of consistent freezing. Within it there were some periods of very cold winters, others of 21 ______ and heavy rain, and yet others that saw 22 ______ with no rain at all.\nA climatic shifts\nB ice cores\nC tree rings\nD glaciers\nE interactions\nF weather observations\nG heat waves\nH storms\nI written accounts\nQuestions 23–26\nClassify the following events as occurring during the\nA Medieval Warm Period\nB Little Ice Age\nC Modern Warm Period\nWrite the correct letter, A, B or C, in boxes 23–26 on your answer sheet.\n23 Many Europeans started farming abroad.\n24 The cutting down of trees began to affect the climate.\n25 Europeans discovered other lands.\n26 Changes took place in fishing patterns.",
+    "154": "ACADEMIC READING\nReading Passage 2, Questions 14–26\n14 ii\n15 vii\n16 ix\n17 iv\n18&19 IN EITHER ORDER\nC\nB\n20 A\n21 H\n22 G\n23 C\n24 C\n25 A\n26 B"
+  },
+  "sourceAudit": {
+    "type": "independent_visual_blind_reaudit",
+    "authority": "data/Cambridge-IELTS-08.pdf",
+    "reviewedPhysicalPages": [
+      44,
+      45,
+      46,
+      47,
+      154
+    ],
+    "auxiliarySourcesAfterVisualPass": [],
+    "excludedAuthorities": [
+      "candidate calibration JSON until the visual transcription pass was complete",
+      "data/generated/page-json/cambridge-ielts-08.pages.json",
+      "data/generated/text-pages/cambridge-ielts-08.raw.md",
+      "bank data",
+      "old intensive-reading lessons",
+      "recovered lessons",
+      "OCR-only output"
+    ],
+    "pageResponsibilities": {
+      "44": "Passage 2 heading; lead instruction; Questions 14–17; all nine headings; examples for A and C; prompts for B and D–F.",
+      "45": "Title THE LITTLE ICE AGE and complete paragraphs A–C.",
+      "46": "Complete paragraphs D–F and article end.",
+      "47": "Questions 18–22 summary with A–I word list; Questions 23–26 classification labels, instruction and four prompts.",
+      "154": "Test 2 Academic Reading answer key, printed page 155; Questions 14–26 including 18&19 IN EITHER ORDER."
+    },
+    "pageTransitions": [
+      "44→45: Heading task ends; article title and paragraph A begin.",
+      "45→46: Paragraph C ends on physical page 45; paragraph D begins at the top of physical page 46.",
+      "46→47: Paragraph F and the article end; Questions 18–26 begin."
+    ],
+    "columnTransitions": [],
+    "transcriptionRepairsAgainstAuxiliaryOCR": [],
+    "blindAuditResult": {
+      "auditMode": "Fresh first-pass transcription from independently rendered original-book physical pages 44–47 and 154, followed by a second visual comparison against the candidate JSON.",
+      "contentFinding": "No body, question, option, answer, evidence or distractor content error remained. The title, six A–F paragraphs, 40 complete sentence boundaries, all wording for Questions 14–26, headings i–ix, word-list options A–I, classification options A–C, two printed examples, 13 official answers, the 18/19 either-order rule, 13 continuous evidence records and 78 explicit formal distractor reasons all match the original pages.",
+      "repairsDuringBlindAudit": [
+        "Removed stale audit provenance that claimed physical pages 43 and 48 were part of this visual pass.",
+        "Removed stale audit provenance that claimed pages.json and raw.md were used as transcription aids; neither was consulted for this audit.",
+        "Confirmed that physical page 45 ends after paragraph C and physical page 46 starts with paragraph D; no sentence crosses that page boundary.",
+        "Confirmed lower-case ‘northern Europe’ in paragraph E and curly possessive ‘newcomers’ axes’ in paragraph F.",
+        "Confirmed that Questions 18 and 19 accept C and B in either order; neither blank has a single fixed letter.",
+        "Confirmed that the black title banner is decorative and no answer-essential image exists."
+      ],
+      "sharedSourcesConsulted": false,
+      "result": "PASS"
+    }
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "reason": "All Questions 14–26 depend on the article text and printed text lists. The black title banner is decorative; there is no table, map, process diagram, chart or other answer-essential visual on physical pages 44–47.",
+    "images": []
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 4,
+    "passagePageCount": 2,
+    "questionPageCount": 2,
+    "bodyParagraphCount": 6,
+    "sentenceCount": 40,
+    "sentenceReconstruction": "PASS: every mapped sentence slice exactly reproduces its body paragraph",
+    "questionCount": 13,
+    "questionNumbers": "PASS: 14–26 continuous",
+    "officialAnswerCount": 13,
+    "officialAnswerSequenceMatchesPhysicalPage154": true,
+    "pairedAnswerRuleVerified": true,
+    "matchingHeadingWrongOptionsCovered": 32,
+    "summaryWrongOptionsCovered": 38,
+    "classificationWrongOptionsCovered": 8,
+    "explicitFormalDistractorCount": 78,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 13,
+    "rawPagesEqualPages": true,
+    "acceptedFormsVerified": true,
+    "answerKeyVerifiedAsTest2AcademicReading": true,
+    "semanticImagesRequired": false,
+    "semanticImageCount": 0,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditResult": "PASS",
+    "sharedFilesModified": false,
+    "evidenceValidation": "PASS: every evidence quotation is a continuous substring of its cited paragraph and every formal wrong option has one specific reason.",
+    "semanticImageCropVisualCheck": "NOT APPLICABLE: no answer-essential semantic image exists."
+  },
+  "bodyParagraphs": [
+    "This book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world’s first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high.",
+    "The Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.",
+    "Reconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years.",
+    "This book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler.",
+    "It is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine.",
+    "Global temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent."
+  ],
+  "pages": {
+    "44": "READING PASSAGE 2\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.\nQuestions 14–17\nReading Passage 2 has six paragraphs, A–F.\nChoose the correct heading for paragraphs B and D–F from the list of headings below.\nWrite the correct number, i–ix, in boxes 14–17 on your answer sheet.\nList of Headings\ni Predicting climatic changes\nii The relevance of the Little Ice Age today\niii How cities contribute to climate change\niv Human impact on the climate\nv How past climatic conditions can be determined\nvi A growing need for weather records\nvii A study covering a thousand years\nviii People have always responded to climate change\nix Enough food at last\nExample | Answer\nParagraph A | viii\n14 Paragraph B\nExample | Answer\nParagraph C | v\n15 Paragraph D\n16 Paragraph E\n17 Paragraph F",
+    "45": "THE LITTLE ICE AGE\nA\nThis book will provide a detailed examination of the Little Ice Age and other climatic shifts, but, before I embark on that, let me provide a historical context. We tend to think of climate – as opposed to weather – as something unchanging, yet humanity has been at the mercy of climate change for its entire existence, with at least eight glacial episodes in the past 730,000 years. Our ancestors adapted to the universal but irregular global warming since the end of the last great Ice Age, around 10,000 years ago, with dazzling opportunism. They developed strategies for surviving harsh drought cycles, decades of heavy rainfall or unaccustomed cold; adopted agriculture and stock-raising, which revolutionised human life; and founded the world’s first pre-industrial civilisations in Egypt, Mesopotamia and the Americas. But the price of sudden climate change, in famine, disease and suffering, was often high.\nB\nThe Little Ice Age lasted from roughly 1300 until the middle of the nineteenth century. Only two centuries ago, Europe experienced a cycle of bitterly cold winters; mountain glaciers in the Swiss Alps were the lowest in recorded memory, and pack ice surrounded Iceland for much of the year. The climatic events of the Little Ice Age did more than help shape the modern world. They are the deeply important context for the current unprecedented global warming. The Little Ice Age was far from a deep freeze, however; rather an irregular seesaw of rapid climatic shifts, few lasting more than a quarter-century, driven by complex and still little understood interactions between the atmosphere and the ocean. The seesaw brought cycles of intensely cold winters and easterly winds, then switched abruptly to years of heavy spring and early summer rains, mild winters, and frequent Atlantic storms, or to periods of droughts, light northeasterly winds, and summer heat waves.\nC\nReconstructing the climate changes of the past is extremely difficult, because systematic weather observations began only a few centuries ago, in Europe and North America. Records from India and tropical Africa are even more recent. For the time before records began, we have only ‘proxy records’ reconstructed largely from tree rings and ice cores, supplemented by a few incomplete written accounts. We now have hundreds of tree-ring records from throughout the northern hemisphere, and many from south of the equator, too, amplified with a growing body of temperature data from ice cores drilled in Antarctica, Greenland, the Peruvian Andes, and other locations. We are close to a knowledge of annual summer and winter temperature variations over much of the northern hemisphere going back 600 years.",
+    "46": "D\nThis book is a narrative history of climatic shifts during the past ten centuries, and some of the ways in which people in Europe adapted to them. Part One describes the Medieval Warm Period, roughly 900 to 1200. During these three centuries, Norse voyagers from Northern Europe explored northern seas, settled Greenland, and visited North America. It was not a time of uniform warmth, for then, as always since the Great Ice Age, there were constant shifts in rainfall and temperature. Mean European temperatures were about the same as today, perhaps slightly cooler.\nE\nIt is known that the Little Ice Age cooling began in Greenland and the Arctic in about 1200. As the Arctic ice pack spread southward, Norse voyages to the west were rerouted into the open Atlantic, then ended altogether. Storminess increased in the North Atlantic and North Sea. Colder, much wetter weather descended on Europe between 1315 and 1319, when thousands perished in a continent-wide famine. By 1400, the weather had become decidedly more unpredictable and stormier, with sudden shifts and lower temperatures that culminated in the cold decades of the late sixteenth century. Fish were a vital commodity in growing towns and cities, where food supplies were a constant concern. Dried cod and herring were already the staples of the European fish trade, but changes in water temperatures forced fishing fleets to work further offshore. The Basques, Dutch, and English developed the first offshore fishing boats adapted to a colder and stormier Atlantic. A gradual agricultural revolution in northern Europe stemmed from concerns over food supplies at a time of rising populations. The revolution involved intensive commercial farming and the growing of animal fodder on land not previously used for crops. The increased productivity from farmland made some countries self-sufficient in grain and livestock and offered effective protection against famine.\nF\nGlobal temperatures began to rise slowly after 1850, with the beginning of the Modern Warm Period. There was a vast migration from Europe by land-hungry farmers and others, to which the famine caused by the Irish potato blight contributed, to North America, Australia, New Zealand, and southern Africa. Millions of hectares of forest and woodland fell before the newcomers’ axes between 1850 and 1890, as intensive European farming methods expanded across the world. The unprecedented land clearance released vast quantities of carbon dioxide into the atmosphere, triggering for the first time humanly caused global warming. Temperatures climbed more rapidly in the twentieth century as the use of fossil fuels proliferated and greenhouse gas levels continued to soar. The rise has been even steeper since the early 1980s. The Little Ice Age has given way to a new climatic regime, marked by prolonged and steady warming. At the same time, extreme weather events like Category 5 hurricanes are becoming more frequent.",
+    "47": "Questions 18–22\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 18–22 on your answer sheet.\nWeather during the Little Ice Age\nDocumentation of past weather conditions is limited: our main sources of knowledge of conditions in the distant past are 18 ______ and 19 ______. We can deduce that the Little Ice Age was a time of 20 ______, rather than of consistent freezing. Within it there were some periods of very cold winters, others of 21 ______ and heavy rain, and yet others that saw 22 ______ with no rain at all.\nA climatic shifts\nB ice cores\nC tree rings\nD glaciers\nE interactions\nF weather observations\nG heat waves\nH storms\nI written accounts\nQuestions 23–26\nClassify the following events as occurring during the\nA Medieval Warm Period\nB Little Ice Age\nC Modern Warm Period\nWrite the correct letter, A, B or C, in boxes 23–26 on your answer sheet.\n23 Many Europeans started farming abroad.\n24 The cutting down of trees began to affect the climate.\n25 Europeans discovered other lands.\n26 Changes took place in fishing patterns.",
+    "154": "ACADEMIC READING\nReading Passage 2, Questions 14–26\n14 ii\n15 vii\n16 ix\n17 iv\n18&19 IN EITHER ORDER\nC\nB\n20 A\n21 H\n22 G\n23 C\n24 C\n25 A\n26 B"
+  },
+  "pairedAnswerSets": [
+    {
+      "questions": [
+        18,
+        19
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "mode": "in_either_order",
+      "officialKeyText": "18&19 IN EITHER ORDER: C, B"
+    }
+  ]
+}

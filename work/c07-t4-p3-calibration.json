@@ -1,0 +1,427 @@
+{
+  "book": 7,
+  "test": 4,
+  "passage": 3,
+  "calibrationStatus": "complete",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-07.pdf",
+  "calibrationMethod": "Second-reviewer independent blind visual audit against the original PDF only. Physical pages 99-105 and 163 were rendered at 400 DPI and checked visually; no OCR, PDF text extraction, pages.json, raw.md, bank, prior intensive-reading material, recovered source, or prior calibration was used as content evidence.",
+  "reviewedPhysicalPages": [99, 100, 101, 102, 103, 104, 105, 163],
+  "boundaryPages": [
+    {"physicalPage": 99, "printedPageNumber": 95, "position": "before", "finding": "Questions 21-26 for Reading Passage 2; not part of Passage 3."},
+    {"physicalPage": 105, "printedPageNumber": 101, "position": "after", "finding": "Writing Task 1 begins; Reading Passage 3 has ended."}
+  ],
+  "sourcePhysicalPages": [100, 101, 102, 103, 104],
+  "sourcePages": [100, 101, 102, 103, 104],
+  "passagePages": [100, 101],
+  "questionPages": [102, 103, 104],
+  "printedSourcePages": [96, 97, 98, 99, 100],
+  "answerPhysicalPage": 163,
+  "answerPage": 163,
+  "answerKeyPage": 163,
+  "answerKeyPrintedPage": 159,
+  "answerKey": {
+    "actualPdfPhysicalPage": 163,
+    "printedPageNumber": 159,
+    "section": "ACADEMIC READING",
+    "heading": "Reading Passage 3, Questions 27–40",
+    "finding": "Verified visually on physical page 163 (printed page 159) under ACADEMIC READING; the complete Questions 27–40 answer sequence is present."
+  },
+  "sectionHeading": "READING PASSAGE 3",
+  "leadInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "title": "EFFECTS OF NOISE",
+  "titleFinding": "Centered uppercase bold display title between horizontal rules on printed page 96.",
+  "standfirst": null,
+  "authorNote": null,
+  "bodyParagraphs": [
+    "In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially ‘too quiet’, an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects.",
+    "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject’s ability to track a moving line with a steering wheel, but it did interfere with the subject’s ability to repeat numbers while tracking (Finkelman and Glass, 1970).",
+    "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to ‘tune out’ chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise. Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance.",
+    "Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient.",
+    "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles’s busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+  ],
+  "sentences": [
+    "In general, it is plausible to suppose that we should prefer peace and quiet to noise.",
+    "And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially ‘too quiet’, an experience that suggests that humans are capable of adapting to a wide range of noise levels.",
+    "Research supports this view.",
+    "For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise.",
+    "The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise.",
+    "Their physiological arousal also declined quickly to the same levels as those of the control subjects.",
+    "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task.",
+    "For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957).",
+    "Similarly, noise did not affect a subject’s ability to track a moving line with a steering wheel, but it did interfere with the subject’s ability to repeat numbers while tracking (Finkelman and Glass, 1970).",
+    "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is.",
+    "We are much more able to ‘tune out’ chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise.",
+    "In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts.",
+    "For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise).",
+    "Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment.",
+    "But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise.",
+    "As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise.",
+    "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance.",
+    "Predictability is not the only variable that reduces or eliminates the negative effects of noise.",
+    "Another is control.",
+    "If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects.",
+    "This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972).",
+    "Just the knowledge that one has control is sufficient.",
+    "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied.",
+    "But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects.",
+    "One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles’s busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980).",
+    "It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools.",
+    "Moreover, there was no evidence of adaptability to the noise.",
+    "In fact, the longer the children had attended the noisy schools, the more distractible they became.",
+    "The effects also seem to be long lasting.",
+    "A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981).",
+    "It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraph": 1, "physicalPage": 100, "sentences": [1, 2, 3, 4, 5, 6]},
+    {"paragraph": 2, "physicalPage": 100, "sentences": [7, 8, 9]},
+    {"paragraph": 3, "physicalPages": [100, 101], "sentences": [10, 11, 12, 13, 14, 15, 16, 17]},
+    {"paragraph": 4, "physicalPage": 101, "sentences": [18, 19, 20, 21, 22]},
+    {"paragraph": 5, "physicalPage": 101, "sentences": [23, 24, 25, 26, 27, 28, 29, 30, 31]}
+  ],
+  "sentenceClauseMap": [
+    {"sentence": 1, "clauses": ["it is plausible to suppose that we should prefer peace and quiet to noise"]},
+    {"sentence": 2, "clauses": ["most of us have had the experience of having to adjust to sleeping in the mountains or the countryside", "it was initially ‘too quiet’", "the experience suggests that humans are capable of adapting to a wide range of noise levels"]},
+    {"sentence": 3, "clauses": ["Research supports this view"]},
+    {"sentence": 4, "clauses": ["Glass and Singer (1972) exposed people to short bursts of very loud noise", "Glass and Singer then measured their ability to work out problems and their physiological reactions to the noise"]},
+    {"sentence": 5, "clauses": ["The noise was quite disruptive at first", "after about four minutes the subjects were doing just as well on their tasks as control subjects", "the control subjects were not exposed to noise"]},
+    {"sentence": 6, "clauses": ["Their physiological arousal also declined quickly to the same levels as those of the control subjects"]},
+    {"sentence": 7, "clauses": ["there are limits to adaptation", "loud noise becomes more troublesome", "the person is required to concentrate on more than one task"]},
+    {"sentence": 8, "clauses": ["high noise levels interfered with the performance of subjects", "the subjects were required to monitor three dials at a time"]},
+    {"sentence": 9, "clauses": ["noise did not affect a subject’s ability to track a moving line with a steering wheel", "noise did interfere with the subject’s ability to repeat numbers while tracking"]},
+    {"sentence": 10, "clauses": ["its predictability is more important than how loud it is"]},
+    {"sentence": 11, "clauses": ["We are much more able to ‘tune out’ chronic background noise than to work under circumstances with unexpected intrusions of noise", "the chronic background noise may be quite loud"]},
+    {"sentence": 12, "clauses": ["subjects were exposed to bursts of noise as they worked on a task", "some subjects heard loud bursts", "others heard soft bursts"]},
+    {"sentence": 13, "clauses": ["the bursts were spaced exactly one minute apart for some subjects", "others heard the same amount of noise overall", "the bursts occurred at random intervals for the others"]},
+    {"sentence": 14, "clauses": ["Subjects reported finding the predictable and unpredictable noise equally annoying", "all subjects performed at about the same level during the noise portion of the experiment"]},
+    {"sentence": 15, "clauses": ["the different noise conditions had quite different after-effects", "the subjects were required to proofread written material under conditions of no noise"]},
+    {"sentence": 16, "clauses": ["the unpredictable noise produced more errors in the later proofreading task than predictable noise", "soft, unpredictable noise produced slightly more errors on this task than the loud, predictable noise"]},
+    {"sentence": 17, "clauses": ["unpredictable noise produces more fatigue than predictable noise", "it takes a while for this fatigue to take its toll on performance"]},
+    {"sentence": 18, "clauses": ["Predictability is not the only variable that reduces or eliminates the negative effects of noise"]},
+    {"sentence": 19, "clauses": ["Another variable is control"]},
+    {"sentence": 20, "clauses": ["the individual knows that he or she can control the noise", "this knowledge seems to eliminate both the negative effects at the time and the after-effects"]},
+    {"sentence": 21, "clauses": ["This is true", "the individual may never actually exercise his or her option to turn the noise off"]},
+    {"sentence": 22, "clauses": ["Just the knowledge that one has control is sufficient"]},
+    {"sentence": 23, "clauses": ["The studies discussed so far exposed people to noise for only short periods", "only transient effects were studied"]},
+    {"sentence": 24, "clauses": ["living day after day with chronic noise may produce serious, lasting effects"]},
+    {"sentence": 25, "clauses": ["One study compared elementary school pupils near Los Angeles’s busiest airport with students in quiet neighbourhoods", "the study suggested that the worry was realistic"]},
+    {"sentence": 26, "clauses": ["children from the noisy schools had higher blood pressure", "children from the noisy schools were more easily distracted than those in the quiet schools"]},
+    {"sentence": 27, "clauses": ["there was no evidence of adaptability to the noise"]},
+    {"sentence": 28, "clauses": ["the longer the children had attended the noisy schools", "the more distractible they became"]},
+    {"sentence": 29, "clauses": ["The effects also seem to be long lasting"]},
+    {"sentence": 30, "clauses": ["children moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools"]},
+    {"sentence": 31, "clauses": ["the two groups of children had been carefully matched by the investigators", "they were comparable in age, ethnicity, race, and social class"]}
+  ],
+  "pageBreaks": [
+    {"fromPhysicalPage": 100, "toPhysicalPage": 101, "position": "mid-sentence and mid-paragraph", "afterSentence": 12, "withinSentence": 13, "afterText": "but the bursts", "beforeText": "occurred at random intervals (unpredictable noise).", "finding": "Paragraph 3 and sentence 13 continue across the page break."}
+  ],
+  "typography": [
+    {"feature": "section heading", "physicalPage": 100, "finding": "READING PASSAGE 3 in spaced bold uppercase."},
+    {"feature": "lead instruction", "physicalPage": 100, "finding": "Italic, with Questions 27-40 bold italic."},
+    {"feature": "title", "physicalPage": 100, "finding": "EFFECTS OF NOISE in large bold uppercase between horizontal rules."},
+    {"feature": "body", "physicalPages": [100, 101], "finding": "Five unlabelled justified serif paragraphs."},
+    {"feature": "quotation marks", "physicalPage": 100, "finding": "Curly single quotation marks around ‘too quiet’ and ‘tune out’."},
+    {"feature": "table", "physicalPage": 100, "finding": "Ruled data table; caption ‘Table 1: Proofreading Errors and Noise’ has a bold-italic title."},
+    {"feature": "question layout", "physicalPages": [102, 103, 104], "finding": "Question-range headings and instructions use bold/italic hierarchy; shared option lists are ruled boxes."},
+    {"feature": "citation punctuation", "physicalPages": [100, 101], "finding": "Cohen et al., 1980 includes a full stop after al.; Cohen et al, 1981 is printed without it and is retained exactly."}
+  ],
+  "tables": [
+    {
+      "number": 1,
+      "title": "Proofreading Errors and Noise",
+      "physicalPage": 100,
+      "printedPageNumber": 96,
+      "columns": ["", "Unpredictable Noise", "Predictable Noise", "Average"],
+      "rows": [["Loud noise", "40.1", "31.8", "35.9"], ["Soft noise", "36.7", "27.4", "32.1"], ["Average", "38.4", "29.6", ""]],
+      "semanticFinding": "Unpredictable conditions have higher error averages than predictable conditions; soft unpredictable noise (36.7) also exceeds loud predictable noise (31.8).",
+      "representation": "structured_text",
+      "imageRequired": false
+    }
+  ],
+  "questionGroups": [
+    {
+      "range": "27–29",
+      "sourcePages": [102],
+      "type": "multiple_choice_single_answer",
+      "instructions": ["Questions 27–29", "Choose the correct letter, A, B, C or D.", "Write the correct letter in boxes 27–29 on your answer sheet."],
+      "questions": [
+        {"number": 27, "prompt": "The writer suggests that people may have difficulty sleeping in the mountains because", "options": {"A": "humans do not prefer peace and quiet to noise.", "B": "they may be exposed to short bursts of very strange sounds.", "C": "humans prefer to hear a certain amount of noise while they sleep.", "D": "they may have adapted to a higher noise level in the city."}},
+        {"number": 28, "prompt": "In noise experiments, Glass and Singer found that", "options": {"A": "problem-solving is much easier under quiet conditions.", "B": "physiological arousal prevents the ability to work.", "C": "bursts of noise do not seriously disrupt problem-solving in the long term.", "D": "the physiological arousal of control subjects declined quickly."}},
+        {"number": 29, "prompt": "Researchers discovered that high noise levels are not likely to interfere with the", "options": {"A": "successful performance of a single task.", "B": "tasks of pilots or air traffic controllers.", "C": "ability to repeat numbers while tracking moving lines.", "D": "ability to monitor three dials at once."}}
+      ]
+    },
+    {
+      "range": "30–34",
+      "sourcePages": [103],
+      "type": "summary_completion_from_shared_list",
+      "instructions": ["Questions 30–34", "Complete the summary using the list of words and phrases, A–J, below.", "Write the correct letter, A–J, in boxes 30–34 on your answer sheet.", "NB You may use any letter more than once."],
+      "summary": "Glass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which 30 ................. noise occurs. Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to 31 ................. noise. The predictable noise group 32 ................. the unpredictable noise group on this task. In the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors. The group which had been exposed to unpredictable noise 33 ................. the group which had been exposed to predictable noise. The group which had been exposed to loud predictable noise performed better than those who had heard soft, unpredictable bursts. The results suggest that 34 ................. noise produces fatigue but that this manifests itself later.",
+      "options": {"A": "no control over", "B": "unexpected", "C": "intense", "D": "the same amount of", "E": "performed better than", "F": "performed at about the same level as", "G": "no", "H": "showed more irritation than", "I": "made more mistakes than", "J": "different types of"},
+      "prompts": [
+        {"number": 30, "prompt": "circumstances in which ___ noise occurs"},
+        {"number": 31, "prompt": "All groups were exposed to ___ noise."},
+        {"number": 32, "prompt": "The predictable noise group ___ the unpredictable noise group on this task."},
+        {"number": 33, "prompt": "The group exposed to unpredictable noise ___ the group exposed to predictable noise."},
+        {"number": 34, "prompt": "The results suggest that ___ noise produces fatigue but that this manifests itself later."}
+      ]
+    },
+    {
+      "range": "35–40",
+      "sourcePages": [104],
+      "type": "matching_researchers",
+      "instructions": ["Questions 35–40", "Look at the following statements (Questions 35–40) and the list of researchers below.", "Match each statement with the correct researcher(s), A–E.", "Write the correct letter, A–E, in boxes 35–40 on your answer sheet.", "NB You may use any letter more than once."],
+      "researchers": {"A": "Glass and Singer", "B": "Broadbent", "C": "Finkelman and Glass", "D": "Cohen et al.", "E": "None of the above"},
+      "researcherListRepresentation": "structured_text",
+      "researcherListImageRequired": false,
+      "questions": [
+        {"number": 35, "prompt": "Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks."},
+        {"number": 36, "prompt": "Long-term exposure to noise can produce changes in behaviour which can still be observed a year later."},
+        {"number": 37, "prompt": "The problems associated with exposure to noise do not arise if the subject knows they can make it stop."},
+        {"number": 38, "prompt": "Exposure to high-pitched noise results in more errors than exposure to low-pitched noise."},
+        {"number": 39, "prompt": "Subjects find it difficult to perform three tasks at the same time when exposed to noise."},
+        {"number": 40, "prompt": "Noise affects a subject’s capacity to repeat numbers while carrying out another task."}
+      ]
+    }
+  ],
+  "answers": {"27": "D", "28": "C", "29": "A", "30": "B", "31": "D", "32": "F", "33": "I", "34": "B", "35": "A", "36": "D", "37": "A", "38": "E", "39": "B", "40": "C"},
+  "acceptedForms": {"27": ["D"], "28": ["C"], "29": ["A"], "30": ["B"], "31": ["D"], "32": ["F"], "33": ["I"], "34": ["B"], "35": ["A"], "36": ["D"], "37": ["A"], "38": ["E"], "39": ["B"], "40": ["C"]},
+  "officialAnswerSequence": ["D", "C", "A", "B", "D", "F", "I", "B", "A", "D", "A", "E", "B", "C"],
+  "answerEvidence": [
+    {
+      "number": 27, "answer": "D", "evidenceType": "continuous inferential evidence",
+      "evidence": "Paragraph 1 says people adjust to sleeping in the mountains or countryside because it is initially ‘too quiet’, and that humans adapt to a wide range of noise levels.",
+      "reason": "The difficulty follows from prior adaptation to a noisier environment, represented by the city in D.",
+      "distractors": [
+        {"label": "A", "reason": "The opening says it is plausible that people prefer peace and quiet; it does not deny that preference."},
+        {"label": "B", "reason": "No strange short bursts occur in the mountain example; bursts belong to the later laboratory study."},
+        {"label": "C", "reason": "The explanation is adaptation to a prior noise level, not an inherent preference for a fixed amount of noise during sleep."}
+      ]
+    },
+    {
+      "number": 28, "answer": "C", "evidenceType": "continuous direct evidence",
+      "evidence": "The noise was disruptive at first, but after about four minutes exposed subjects performed as well as controls.",
+      "reason": "The initial disruption did not remain serious for problem-solving performance.",
+      "distractors": [
+        {"label": "A", "reason": "Exposed subjects soon matched controls, so the study does not show problem-solving is much easier in quiet."},
+        {"label": "B", "reason": "Arousal declined and did not prevent subjects from working."},
+        {"label": "D", "reason": "The exposed subjects’ arousal declined to control levels; the controls’ arousal is not said to decline."}
+      ]
+    },
+    {
+      "number": 29, "answer": "A", "evidenceType": "continuous synthesis across paragraph 2",
+      "evidence": "Noise becomes troublesome when a person must concentrate on more than one task; the examples show failures under simultaneous-task conditions.",
+      "reason": "A single task is therefore least likely to be impaired.",
+      "distractors": [
+        {"label": "B", "reason": "Three-dial monitoring, analogous to pilot or controller work, was impaired."},
+        {"label": "C", "reason": "Repeating numbers while tracking was explicitly impaired."},
+        {"label": "D", "reason": "Monitoring three dials at once was explicitly impaired."}
+      ]
+    },
+    {
+      "number": 30, "answer": "B", "evidenceType": "continuous paraphrase",
+      "evidence": "Paragraph 3 contrasts tuning out even loud chronic noise with unexpected intrusions of noise.",
+      "reason": "‘unexpected’ completes the contrast.",
+      "distractors": [
+        {"label": "A", "reason": "Lack of control is a separate paragraph 4 variable, not this contrast."},
+        {"label": "C", "reason": "Repeating ‘intense’ removes the predictability contrast."},
+        {"label": "D", "reason": "Equal amount describes experimental exposure, not the kind of occurrence contrasted here."},
+        {"label": "E", "reason": "The performance verb phrase cannot modify ‘noise occurs’."},
+        {"label": "F", "reason": "This belongs to question 32 and cannot modify ‘noise occurs’."},
+        {"label": "G", "reason": "The contrast is unexpected versus chronic noise, not noise versus silence."},
+        {"label": "H", "reason": "Irritation is a later result and the phrase cannot fit this slot."},
+        {"label": "I", "reason": "Mistakes are a later proofreading result and the phrase cannot fit this slot."},
+        {"label": "J", "reason": "The text specifies unexpected intrusions, not unspecified different types."}
+      ]
+    },
+    {
+      "number": 31, "answer": "D", "evidenceType": "continuous direct evidence",
+      "evidence": "The random-interval group heard the same amount of noise overall as the predictable group.",
+      "reason": "The controlled total exposure was the same amount.",
+      "distractors": [
+        {"label": "A", "reason": "All groups are not stated to lack control; control is discussed separately."},
+        {"label": "B", "reason": "Predictable groups were included, so not all exposure was unexpected."},
+        {"label": "C", "reason": "Some subjects heard soft bursts, so not all exposure was intense."},
+        {"label": "E", "reason": "A performance verb phrase cannot follow ‘were exposed to’."},
+        {"label": "F", "reason": "A performance comparison cannot name an exposure."},
+        {"label": "G", "reason": "All groups received noise in the first phase."},
+        {"label": "H", "reason": "An irritation comparison cannot name an exposure."},
+        {"label": "I", "reason": "A mistakes comparison cannot name an exposure."},
+        {"label": "J", "reason": "Conditions differed, but the summary’s controlled detail is equal total amount."}
+      ]
+    },
+    {
+      "number": 32, "answer": "F", "evidenceType": "continuous direct evidence",
+      "evidence": "All subjects performed at about the same level during the noise portion.",
+      "reason": "The predictable group matched the unpredictable group on the initial task.",
+      "distractors": [
+        {"label": "A", "reason": "It supplies no verb and does not compare group performance."},
+        {"label": "B", "reason": "It supplies no predicate."},
+        {"label": "C", "reason": "It supplies no predicate and not all noise was intense."},
+        {"label": "D", "reason": "It is incomplete here and describes exposure quantity, not performance."},
+        {"label": "E", "reason": "The predictable group did not perform better during this phase."},
+        {"label": "G", "reason": "It cannot complete the comparison."},
+        {"label": "H", "reason": "Both noise types were equally annoying, not more irritating for one group."},
+        {"label": "I", "reason": "No initial-task mistake difference is reported; errors diverged later."},
+        {"label": "J", "reason": "It supplies no predicate and does not express performance."}
+      ]
+    },
+    {
+      "number": 33, "answer": "I", "evidenceType": "continuous direct evidence with table support",
+      "evidence": "Paragraph 3 and Table 1 state that unpredictable noise produced more later proofreading errors than predictable noise.",
+      "reason": "More errors means more mistakes.",
+      "distractors": [
+        {"label": "A", "reason": "It lacks the comparison verb and control was not this result’s variable."},
+        {"label": "B", "reason": "It cannot complete a group comparison."},
+        {"label": "C", "reason": "It cannot complete the sentence and the result crossed loud and soft conditions."},
+        {"label": "D", "reason": "It is incomplete and refers to exposure quantity, not proofreading outcome."},
+        {"label": "E", "reason": "The unpredictable group performed worse, not better."},
+        {"label": "F", "reason": "Groups were equal during exposure but differed on later proofreading."},
+        {"label": "G", "reason": "It cannot grammatically complete the sentence."},
+        {"label": "H", "reason": "The later measure was errors; both noise types had been equally annoying."},
+        {"label": "J", "reason": "It supplies no predicate and does not express the error result."}
+      ]
+    },
+    {
+      "number": 34, "answer": "B", "evidenceType": "continuous direct conclusion",
+      "evidence": "Unpredictable noise produces more fatigue than predictable noise, with a delayed performance effect.",
+      "reason": "‘unexpected’ is the summary synonym for unpredictable.",
+      "distractors": [
+        {"label": "A", "reason": "Control is a separate paragraph 4 variable, not the fatigue conclusion here."},
+        {"label": "C", "reason": "Intensity is not identified as the cause; loud predictable noise beat soft unpredictable noise."},
+        {"label": "D", "reason": "Equal amount does not identify the condition responsible and mismatches the intended conclusion."},
+        {"label": "E", "reason": "A performance predicate cannot modify ‘noise’."},
+        {"label": "F", "reason": "A group-performance phrase cannot modify ‘noise’."},
+        {"label": "G", "reason": "The passage says unpredictable noise, not no noise, produces fatigue."},
+        {"label": "H", "reason": "It cannot modify ‘noise’, and irritation was equal."},
+        {"label": "I", "reason": "It cannot modify ‘noise’; mistakes are the delayed manifestation."},
+        {"label": "J", "reason": "The conclusion is specifically about unexpected noise, not different types generally."}
+      ]
+    },
+    {
+      "number": 35, "answer": "A", "evidenceType": "continuous direct attribution",
+      "evidence": "Glass and Singer’s problem-solving subjects found the noise quite disruptive at first.",
+      "reason": "This directly matches initial concentration difficulty.",
+      "distractors": [
+        {"label": "B", "reason": "Broadbent studied three-dial monitoring, not initial problem-solving adaptation."},
+        {"label": "C", "reason": "Finkelman and Glass studied tracking plus number repetition."},
+        {"label": "D", "reason": "Cohen et al. studied long-term child distractibility."},
+        {"label": "E", "reason": "Glass and Singer explicitly support the statement."}
+      ]
+    },
+    {
+      "number": 36, "answer": "D", "evidenceType": "continuous direct attribution",
+      "evidence": "Cohen et al.’s follow-up found greater distractibility one year after children moved to quieter classrooms.",
+      "reason": "The behavioural effect remained observable one year later.",
+      "distractors": [
+        {"label": "A", "reason": "Glass and Singer did not conduct the one-year follow-up."},
+        {"label": "B", "reason": "Broadbent’s experiment provides no year-later observation."},
+        {"label": "C", "reason": "Finkelman and Glass measured concurrent dual-task performance."},
+        {"label": "E", "reason": "Cohen et al. are explicitly cited for the follow-up."}
+      ]
+    },
+    {
+      "number": 37, "answer": "A", "evidenceType": "continuous direct attribution",
+      "evidence": "Glass and Singer found that knowing one can control the noise eliminates immediate effects and after-effects even if the option is unused.",
+      "reason": "Knowing the noise can be stopped is sufficient.",
+      "distractors": [
+        {"label": "B", "reason": "Broadbent manipulated task load, not control over stopping noise."},
+        {"label": "C", "reason": "Finkelman and Glass examined concurrent tasks, not a stop-noise option."},
+        {"label": "D", "reason": "Cohen et al. did not manipulate controllability."},
+        {"label": "E", "reason": "Glass and Singer are explicitly cited for control."}
+      ]
+    },
+    {
+      "number": 38, "answer": "E", "evidenceType": "missing evidence",
+      "evidence": "No study compares high-pitched with low-pitched noise. The passage distinguishes loud/soft intensity, timing predictability, control, and chronic exposure, not pitch.",
+      "reason": "No listed researcher supports the pitch claim.",
+      "distractors": [
+        {"label": "A", "reason": "Glass and Singer compared loud/soft and predictable/unpredictable conditions, not pitch."},
+        {"label": "B", "reason": "Broadbent studied high noise levels and multitasking, not pitch."},
+        {"label": "C", "reason": "Finkelman and Glass studied tracking and number repetition, not pitch."},
+        {"label": "D", "reason": "Cohen et al. studied chronic airport noise and children, not pitch-dependent errors."}
+      ]
+    },
+    {
+      "number": 39, "answer": "B", "evidenceType": "continuous direct attribution",
+      "evidence": "Broadbent (1957) found high noise interfered when subjects monitored three dials at a time.",
+      "reason": "The three dials are the passage’s three-simultaneous-task example.",
+      "distractors": [
+        {"label": "A", "reason": "Glass and Singer used problem-solving under bursts, not three simultaneous tasks."},
+        {"label": "C", "reason": "Finkelman and Glass tested two concurrent activities."},
+        {"label": "D", "reason": "Cohen et al. studied chronic school-noise effects."},
+        {"label": "E", "reason": "Broadbent is explicitly cited for the three-dial result."}
+      ]
+    },
+    {
+      "number": 40, "answer": "C", "evidenceType": "continuous direct attribution",
+      "evidence": "Finkelman and Glass (1970) found noise interfered with repeating numbers while tracking a moving line.",
+      "reason": "This exactly matches number repetition during another task.",
+      "distractors": [
+        {"label": "A", "reason": "Glass and Singer measured problem-solving and arousal."},
+        {"label": "B", "reason": "Broadbent’s subjects monitored three dials; they did not repeat numbers."},
+        {"label": "D", "reason": "Cohen et al. measured chronic effects on children."},
+        {"label": "E", "reason": "Finkelman and Glass are explicitly cited for the result."}
+      ]
+    }
+  ],
+  "rawPages": {
+    "100": "Test 4\n\nREADING PASSAGE 3\n\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.\n\nEFFECTS OF NOISE\n\nIn general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially ‘too quiet’, an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects.\n\nBut there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject’s ability to track a moving line with a steering wheel, but it did interfere with the subject’s ability to repeat numbers while tracking (Finkelman and Glass, 1970).\n\nProbably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to ‘tune out’ chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts\n\n[Table 1: Proofreading Errors and Noise]\n| | Unpredictable Noise | Predictable Noise | Average |\n| Loud noise | 40.1 | 31.8 | 35.9 |\n| Soft noise | 36.7 | 27.4 | 32.1 |\n| Average | 38.4 | 29.6 | |",
+    "101": "occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise.\n\nApparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance.\n\nPredictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient.\n\nThe studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles’s busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class.",
+    "102": "Questions 27–29\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in boxes 27–29 on your answer sheet.\n\n27 The writer suggests that people may have difficulty sleeping in the mountains because\nA humans do not prefer peace and quiet to noise.\nB they may be exposed to short bursts of very strange sounds.\nC humans prefer to hear a certain amount of noise while they sleep.\nD they may have adapted to a higher noise level in the city.\n\n28 In noise experiments, Glass and Singer found that\nA problem-solving is much easier under quiet conditions.\nB physiological arousal prevents the ability to work.\nC bursts of noise do not seriously disrupt problem-solving in the long term.\nD the physiological arousal of control subjects declined quickly.\n\n29 Researchers discovered that high noise levels are not likely to interfere with the\nA successful performance of a single task.\nB tasks of pilots or air traffic controllers.\nC ability to repeat numbers while tracking moving lines.\nD ability to monitor three dials at once.",
+    "103": "Questions 30–34\n\nComplete the summary using the list of words and phrases, A–J, below.\n\nWrite the correct letter, A–J, in boxes 30–34 on your answer sheet.\n\nNB You may use any letter more than once.\n\nGlass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which 30 ................. noise occurs. Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to 31 ................. noise. The predictable noise group 32 ................. the unpredictable noise group on this task.\n\nIn the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors. The group which had been exposed to unpredictable noise 33 ................. the group which had been exposed to predictable noise. The group which had been exposed to loud predictable noise performed better than those who had heard soft, unpredictable bursts. The results suggest that 34 ................. noise produces fatigue but that this manifests itself later.\n\nA no control over\nB unexpected\nC intense\nD the same amount of\nE performed better than\nF performed at about the same level as\nG no\nH showed more irritation than\nI made more mistakes than\nJ different types of",
+    "104": "Questions 35–40\n\nLook at the following statements (Questions 35–40) and the list of researchers below.\n\nMatch each statement with the correct researcher(s), A–E.\n\nWrite the correct letter, A–E, in boxes 35–40 on your answer sheet.\n\nNB You may use any letter more than once.\n\n35 Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks.\n36 Long-term exposure to noise can produce changes in behaviour which can still be observed a year later.\n37 The problems associated with exposure to noise do not arise if the subject knows they can make it stop.\n38 Exposure to high-pitched noise results in more errors than exposure to low-pitched noise.\n39 Subjects find it difficult to perform three tasks at the same time when exposed to noise.\n40 Noise affects a subject’s capacity to repeat numbers while carrying out another task.\n\nList of Researchers\nA Glass and Singer\nB Broadbent\nC Finkelman and Glass\nD Cohen et al.\nE None of the above",
+    "163": "ACADEMIC READING\n\nReading Passage 3, Questions 27–40\n27 D\n28 C\n29 A\n30 B\n31 D\n32 F\n33 I\n34 B\n35 A\n36 D\n37 A\n38 E\n39 B\n40 C"
+  },
+  "pages": [
+    {"physicalPage": 99, "printedPageNumber": 95, "role": "leading boundary", "included": false, "finding": "Reading Passage 2 questions 21-26."},
+    {"physicalPage": 100, "printedPageNumber": 96, "role": "passage start/body/table", "included": true, "rawPageKey": "100"},
+    {"physicalPage": 101, "printedPageNumber": 97, "role": "passage continuation/end", "included": true, "rawPageKey": "101"},
+    {"physicalPage": 102, "printedPageNumber": 98, "role": "questions 27-29", "included": true, "rawPageKey": "102"},
+    {"physicalPage": 103, "printedPageNumber": 99, "role": "questions 30-34", "included": true, "rawPageKey": "103"},
+    {"physicalPage": 104, "printedPageNumber": 100, "role": "questions 35-40", "included": true, "rawPageKey": "104"},
+    {"physicalPage": 105, "printedPageNumber": 101, "role": "trailing boundary", "included": false, "finding": "Writing Task 1."},
+    {"physicalPage": 163, "printedPageNumber": 159, "role": "official Test 4 Academic Reading answer key", "included": true, "rawPageKey": "163"}
+  ],
+  "sourceAudit": {
+    "authority": "data/Cambridge-IELTS-07.pdf",
+    "originalOnlyReview": true,
+    "blindAuditResult": "PASS",
+    "forbiddenSourcesUsed": [],
+    "visualResolution": "400 DPI",
+    "textLayerFinding": "Not used; all content evidence came from visual inspection of the 400 DPI page renders."
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "count": 0,
+    "finding": "No image is required. Table 1 and the Questions 35–40 researcher list are ordinary ruled text/data layouts that are completely reconstructed as structured JSON; neither should be retained as a semantic image. No photograph, illustration, map, diagram, or other non-textual figure occurs.",
+    "tightCropPlan": []
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 5,
+    "passagePageCount": 2,
+    "questionPageCount": 3,
+    "bodyParagraphCount": 5,
+    "sentenceCount": 31,
+    "sentenceClauseEntries": 31,
+    "sentenceReconstruction": "verified visually",
+    "questionCount": 14,
+    "questionNumbers": "27-40 continuous",
+    "officialAnswerCount": 14,
+    "officialAnswerSequenceVerified": true,
+    "multipleChoiceWrongOptionsCovered": 9,
+    "summaryListWrongOptionsCovered": 45,
+    "matchingResearchersWrongOptionsCovered": 24,
+    "totalDistractorCount": 78,
+    "explicitWrongOptionsAllCovered": true,
+    "missingEvidenceQuestions": [38],
+    "answerKeyVerifiedAsTest4AcademicReading": true,
+    "semanticImagesRequired": 0,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditMetadataClean": true,
+    "authoritativePdfPhysicalPages": [100, 101, 102, 103, 104, 163],
+    "boundaryPhysicalPages": [99, 105]
+  }
+}

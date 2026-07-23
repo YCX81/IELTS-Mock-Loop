@@ -1,0 +1,580 @@
+{
+  "book": 8,
+  "test": 3,
+  "passage": 1,
+  "calibrationStatus": "independently_blind_audited_from_original_pdf",
+  "calibrationDate": "2026-07-23",
+  "pdf": "data/Cambridge-IELTS-08.pdf",
+  "calibrationMethod": "The original PDF was rendered page by page and read visually before any auxiliary text was consulted. Physical pages 63 and 69 established the boundaries; physical pages 64–65 were reread for the title, two subheadings, ten body paragraphs, 47 complete sentences and the sentence crossing the 64→65 page break; physical pages 66–68 were reread for every instruction, stem, option and blank in Questions 1–13; physical page 156 was read directly as the Test 3 Academic Reading answer page. After the candidate JSON was created, all authoritative pages were reviewed again from the beginning as an independent blind audit. OCR, raw.md, pages.json, bank data and prior lessons were not treated as authorities.",
+  "reviewedPhysicalPages": [63, 64, 65, 66, 67, 68, 69, 156],
+  "boundaryPages": [
+    {
+      "physicalPage": 63,
+      "printedPage": 64,
+      "finding": "Physical page 63 is the final question page of Reading Passage 3 in Test 2 (Questions 35–40); Test 3 Reading Passage 1 begins on physical page 64."
+    },
+    {
+      "physicalPage": 69,
+      "printedPage": 70,
+      "finding": "Physical page 69 begins Test 3 Reading Passage 2; Reading Passage 1 ends on physical page 68."
+    }
+  ],
+  "sourcePages": [64, 65, 66, 67, 68],
+  "sourcePrintedPages": [65, 66, 67, 68, 69],
+  "printedPageMap": {
+    "63": 64,
+    "64": 65,
+    "65": 66,
+    "66": 67,
+    "67": 68,
+    "68": 69,
+    "69": 70,
+    "156": 157
+  },
+  "passagePages": [64, 65],
+  "passagePrintedPages": [65, 66],
+  "questionPages": [66, 67, 68],
+  "questionPrintedPages": [67, 68, 69],
+  "answerPage": 156,
+  "answerKeyPage": 156,
+  "answerKeyPrintedPage": 157,
+  "answerKey": {
+    "section": "ACADEMIC READING",
+    "heading": "Reading Passage 1, Questions 1–13",
+    "actualPdfPhysicalPage": 156,
+    "printedPageNumber": 157,
+    "finding": "Physical page 156, printed page 157, contains the Test 3 Academic Reading key; Questions 1–13 are in the upper left column."
+  },
+  "sectionHeading": "READING PASSAGE 1",
+  "leadInstruction": "You should spend about 20 minutes on Questions 1–13 which are based on Reading Passage 1 below.",
+  "title": "Striking Back at Lightning With Lasers",
+  "titleLineation": ["Striking Back at Lightning", "With Lasers"],
+  "standfirst": null,
+  "authorNote": null,
+  "sections": [
+    {
+      "label": null,
+      "paragraphs": [
+        "Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt’s most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.",
+        "But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.",
+        "The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes. ‘We can cause the lightning to strike where we want it to using rockets,’ says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up."
+      ]
+    },
+    {
+      "label": "Bad behaviour",
+      "paragraphs": [
+        "But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. ‘Lightning is not perfectly well behaved,’ says Bernstein. ‘Occasionally, it will take a branch and go someplace it wasn’t supposed to go.’",
+        "And anyway, who would want to fire streams of rockets in a populated area? ‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory.",
+        "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds."
+      ]
+    },
+    {
+      "label": "A stumbling block",
+      "paragraphs": [
+        "However, there is still a big stumbling block. The laser is no nifty portable: it’s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.",
+        "Bernstein says that Diels’s system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. ‘I cannot say I have money yet, but I’m working on it,’ says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news. Bernstein predicts ‘an avalanche of interest and support’ if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.",
+        "Other scientists could also benefit. With a lightning ‘switch’ at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it. ‘If we could discharge clouds, we might affect the weather,’ he says.",
+        "And perhaps, says Diels, we’ll be able to confront some other meteorological menaces. ‘We think we could prevent hail by inducing lightning,’ he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+      ]
+    }
+  ],
+  "footnotes": [],
+  "sentences": [
+    "Seldom is the weather more dramatic than when thunderstorms strike.",
+    "Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone.",
+    "As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt’s most inviting target.",
+    "And there is damage to property too.",
+    "Lightning damage costs American power companies more than $100 million a year.",
+    "But researchers in the United States and Japan are planning to hit back.",
+    "Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.",
+    "The idea of forcing storm clouds to discharge their lightning on command is not new.",
+    "In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate.",
+    "The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California.",
+    "EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes.",
+    "‘We can cause the lightning to strike where we want it to using rockets,’ says Ralph Bernstein, manager of lightning projects at EPRI.",
+    "The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.",
+    "But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for.",
+    "The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent.",
+    "And even when they do trigger lightning, things still do not always go according to plan.",
+    "‘Lightning is not perfectly well behaved,’ says Bernstein.",
+    "‘Occasionally, it will take a branch and go someplace it wasn’t supposed to go.’",
+    "And anyway, who would want to fire streams of rockets in a populated area?",
+    "‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico.",
+    "Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk.",
+    "With around $500,000 invested so far, a promising system is just emerging from the laboratory.",
+    "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions.",
+    "If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge.",
+    "To stop the laser itself being struck, it would not be pointed straight at the clouds.",
+    "Instead it would be directed at a mirror, and from there into the sky.",
+    "The mirror would be protected by placing lightning conductors close by.",
+    "Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.",
+    "However, there is still a big stumbling block.",
+    "The laser is no nifty portable: it’s a monster that takes up a whole room.",
+    "Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing.",
+    "He plans to test this more manageable system on live thunderclouds next summer.",
+    "Bernstein says that Diels’s system is attracting lots of interest from the power companies.",
+    "But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper.",
+    "‘I cannot say I have money yet, but I’m working on it,’ says Bernstein.",
+    "He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news.",
+    "Bernstein predicts ‘an avalanche of interest and support’ if all goes well.",
+    "He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.",
+    "Other scientists could also benefit.",
+    "With a lightning ‘switch’ at their fingertips, materials scientists could find out what happens when mighty currents meet matter.",
+    "Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it.",
+    "‘If we could discharge clouds, we might affect the weather,’ he says.",
+    "And perhaps, says Diels, we’ll be able to confront some other meteorological menaces.",
+    "‘We think we could prevent hail by inducing lightning,’ he says.",
+    "Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms.",
+    "A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops.",
+    "With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraphIndex": 0, "section": null, "sentenceStart": 0, "sentenceEndExclusive": 5},
+    {"paragraphIndex": 1, "section": null, "sentenceStart": 5, "sentenceEndExclusive": 7},
+    {"paragraphIndex": 2, "section": null, "sentenceStart": 7, "sentenceEndExclusive": 13},
+    {"paragraphIndex": 3, "section": "Bad behaviour", "sentenceStart": 13, "sentenceEndExclusive": 18},
+    {"paragraphIndex": 4, "section": "Bad behaviour", "sentenceStart": 18, "sentenceEndExclusive": 22},
+    {"paragraphIndex": 5, "section": "Bad behaviour", "sentenceStart": 22, "sentenceEndExclusive": 28},
+    {"paragraphIndex": 6, "section": "A stumbling block", "sentenceStart": 28, "sentenceEndExclusive": 32},
+    {"paragraphIndex": 7, "section": "A stumbling block", "sentenceStart": 32, "sentenceEndExclusive": 38},
+    {"paragraphIndex": 8, "section": "A stumbling block", "sentenceStart": 38, "sentenceEndExclusive": 42},
+    {"paragraphIndex": 9, "section": "A stumbling block", "sentenceStart": 42, "sentenceEndExclusive": 47}
+  ],
+  "sentencePageMap": [
+    {"physicalPage": 64, "printedPage": 65, "sentenceStart": 0, "sentenceEndExclusive": 21, "note": "Sentence index 20 starts on this page and crosses the page break."},
+    {"physicalPage": 65, "printedPage": 66, "sentenceStart": 20, "sentenceEndExclusive": 47, "note": "Sentence index 20 continues at the top of this page before sentence index 21 begins."}
+  ],
+  "pageBreaks": [
+    {
+      "afterPhysicalPage": 64,
+      "beforePhysicalPage": 65,
+      "paragraphIndex": 4,
+      "sentenceIndex": 20,
+      "textBeforeBreak": "Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely",
+      "textAfterBreak": "– and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk.",
+      "finding": "The page break falls inside one complete sentence; the dash-led continuation on physical page 65 must not be split into a new sentence."
+    }
+  ],
+  "typography": {
+    "title": "large bold serif title centred on two lines",
+    "subheadings": "bold serif headings: Bad behaviour; A stumbling block",
+    "questionHeadings": "italic",
+    "answerBlanks": "dotted rules",
+    "summaryWordList": "boxed three-column A–I word list"
+  },
+  "questionGroups": [
+    {
+      "range": "1–3",
+      "type": "multiple_choice",
+      "sourcePages": [66],
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 1–3 on your answer sheet."
+      ],
+      "questions": {
+        "1": {
+          "stem": "The main topic discussed in the text is",
+          "options": {
+            "A": "the damage caused to US golf courses and golf players by lightning strikes.",
+            "B": "the effect of lightning on power supplies in the US and in Japan.",
+            "C": "a variety of methods used in trying to control lightning strikes.",
+            "D": "a laser technique used in trying to control lightning strikes."
+          }
+        },
+        "2": {
+          "stem": "According to the text, every year lightning",
+          "options": {
+            "A": "does considerable damage to buildings during thunderstorms.",
+            "B": "kills or injures mainly golfers in the United States.",
+            "C": "kills or injures around 500 people throughout the world.",
+            "D": "damages more than 100 American power companies."
+          }
+        },
+        "3": {
+          "stem": "Researchers at the University of Florida and at the University of New Mexico",
+          "options": {
+            "A": "receive funds from the same source.",
+            "B": "are using the same techniques.",
+            "C": "are employed by commercial companies.",
+            "D": "are in opposition to each other."
+          }
+        }
+      }
+    },
+    {
+      "range": "4–6",
+      "type": "sentence_completion",
+      "sourcePages": [66],
+      "instructions": [
+        "Complete the sentences below.",
+        "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "Write your answers in boxes 4–6 on your answer sheet."
+      ],
+      "prompts": {
+        "4": "EPRI receives financial support from ______.",
+        "5": "The advantage of the technique being developed by Diels is that it can be used ______.",
+        "6": "The main difficulty associated with using the laser equipment is related to its ______."
+      },
+      "printedOptions": null,
+      "formalDistractors": null
+    },
+    {
+      "range": "7–10",
+      "type": "summary_completion_from_word_list",
+      "sourcePages": [67],
+      "instructions": [
+        "Complete the summary using the list of words, A–I, below.",
+        "Write the correct letter, A–I, in boxes 7–10 on your answer sheet."
+      ],
+      "summary": "In this method, a laser is used to create a line of ionisation by removing electrons from 7 ______. This laser is then directed at 8 ______ in order to control electrical charges, a method which is less dangerous than using 9 ______. As a protection for the lasers, the beams are aimed firstly at 10 ______.",
+      "options": {
+        "A": "cloud-zappers",
+        "B": "atoms",
+        "C": "storm clouds",
+        "D": "mirrors",
+        "E": "technique",
+        "F": "ions",
+        "G": "rockets",
+        "H": "conductors",
+        "I": "thunder"
+      },
+      "prompts": {
+        "7": "removing electrons from ______",
+        "8": "directed at ______ in order to control electrical charges",
+        "9": "less dangerous than using ______",
+        "10": "the beams are aimed firstly at ______"
+      }
+    },
+    {
+      "range": "11–13",
+      "type": "yes_no_not_given",
+      "sourcePages": [68],
+      "instructions": [
+        "Do the following statements agree with the information given in Reading Passage 1?",
+        "In boxes 11–13 on your answer sheet write"
+      ],
+      "definitions": {
+        "YES": "if the statement agrees with the claims of the writer",
+        "NO": "if the statement contradicts the claims of the writer",
+        "NOT GIVEN": "if it is impossible to say what the writer thinks about this"
+      },
+      "prompts": {
+        "11": "Power companies have given Diels enough money to develop his laser.",
+        "12": "Obtaining money to improve the lasers will depend on tests in real storms.",
+        "13": "Weather forecasters are intensely interested in Diels’s system."
+      }
+    }
+  ],
+  "answers": {
+    "1": "D",
+    "2": "A",
+    "3": "A",
+    "4": "power companies",
+    "5": "safely",
+    "6": "size",
+    "7": "B",
+    "8": "C",
+    "9": "G",
+    "10": "D",
+    "11": "NO",
+    "12": "YES",
+    "13": "NOT GIVEN"
+  },
+  "acceptedForms": {
+    "1": ["D"],
+    "2": ["A"],
+    "3": ["A"],
+    "4": ["power companies"],
+    "5": ["safely"],
+    "6": ["size"],
+    "7": ["B"],
+    "8": ["C"],
+    "9": ["G"],
+    "10": ["D"],
+    "11": ["NO"],
+    "12": ["YES"],
+    "13": ["NOT GIVEN"]
+  },
+  "officialAnswerSequence": ["D", "A", "A", "power companies", "safely", "size", "B", "C", "G", "D", "NO", "YES", "NOT GIVEN"],
+  "answerEvidence": [
+    {
+      "number": 1,
+      "answer": "D",
+      "section": "title and whole passage",
+      "evidence": "Striking Back at Lightning With Lasers",
+      "reason": "The title states the article’s controlling subject, and the body develops the laser method, its mechanism, limitations, funding and proposed uses.",
+      "distractors": {
+        "A": "Golf appears only as an opening example of personal danger; the article does not discuss damage to golf courses as its main subject.",
+        "B": "Power-grid protection is one motivation, but the article does not compare effects on US and Japanese power supplies.",
+        "C": "The rocket method supplies background and contrast; the sustained focus is the laser technique, not a survey of many control methods."
+      }
+    },
+    {
+      "number": 2,
+      "answer": "A",
+      "section": null,
+      "paragraphIndex": 0,
+      "evidence": "And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.",
+      "reason": "The passage explicitly describes major annual property damage and quantifies the cost to American power companies.",
+      "distractors": {
+        "B": "A golfer is used as one vivid example; the passage says around 500 people, not mainly golfers, are killed or seriously injured.",
+        "C": "The figure of around 500 applies to the United States alone, not the whole world.",
+        "D": "The text gives a monetary loss of more than $100 million, not a count of more than 100 companies."
+      }
+    },
+    {
+      "number": 3,
+      "answer": "A",
+      "section": "cross-paragraph comparison",
+      "evidence": "The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California.",
+      "corroboratingEvidence": "Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk.",
+      "reason": "Both university projects receive support from EPRI, so they share the same funding source.",
+      "distractors": {
+        "B": "Florida uses rockets trailing wires, whereas New Mexico is developing a laser system.",
+        "C": "The researchers are university-based; commercial power companies fund EPRI but do not employ both research groups.",
+        "D": "The projects pursue related protective aims and share EPRI support; no opposition is stated."
+      }
+    },
+    {
+      "number": 4,
+      "answer": "power companies",
+      "section": null,
+      "paragraphIndex": 2,
+      "evidence": "EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes.",
+      "reason": "The exact source words completing ‘financial support from’ are ‘power companies’ and satisfy the two-word limit.",
+      "distractors": {}
+    },
+    {
+      "number": 5,
+      "answer": "safely",
+      "section": "Bad behaviour",
+      "paragraphIndex": 4,
+      "evidence": "Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk.",
+      "reason": "The adverb ‘safely’ states the technique’s advantage and grammatically completes ‘can be used safely’.",
+      "distractors": {}
+    },
+    {
+      "number": 6,
+      "answer": "size",
+      "section": "A stumbling block",
+      "paragraphIndex": 6,
+      "evidence": "The laser is no nifty portable: it’s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing.",
+      "reason": "The obstacle is the equipment’s room-filling size, and ‘size’ directly completes the possessive phrase ‘its size’.",
+      "distractors": {}
+    },
+    {
+      "number": 7,
+      "answer": "B",
+      "section": "Bad behaviour",
+      "paragraphIndex": 5,
+      "evidence": "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions.",
+      "reason": "The passage directly states that electrons are extracted from atoms; option B is ‘atoms’.",
+      "distractors": {
+        "A": "Cloud-zappers are the proposed laser devices, not matter from which electrons are removed.",
+        "C": "Storm clouds are the distant target reached by the ionised path, not the source of the extracted electrons.",
+        "D": "Mirrors redirect the beam; electrons are not removed from them.",
+        "E": "‘Technique’ is an abstract method and cannot supply atoms whose electrons are extracted.",
+        "F": "Ions are created after electrons are removed from atoms; they are the result, not the source.",
+        "G": "Rockets belong to the older triggering method and are not ionised by this laser description.",
+        "H": "Conductors protect the mirror; the passage does not say the laser removes electrons from them.",
+        "I": "Thunder is a shock wave discussed later and is not the material being ionised."
+      }
+    },
+    {
+      "number": 8,
+      "answer": "C",
+      "section": "Bad behaviour",
+      "paragraphIndex": 5,
+      "evidence": "If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge.",
+      "reason": "The ionised path extends to a storm cloud so that its electrical charge can be discharged; option C is ‘storm clouds’.",
+      "distractors": {
+        "A": "A cloud-zapper is the laser apparatus itself, not the target at which the laser is directed.",
+        "B": "Atoms are the source of electrons in the ionisation process, not the atmospheric target.",
+        "D": "The beam is aimed at a mirror first for protection, but the method’s electrical target is the storm cloud; mirrors answer Q10.",
+        "E": "A technique is not a physical target for a laser beam.",
+        "F": "Ions are created in the air and form the conducting path; the beam is not described as being directed at ions.",
+        "G": "Rockets are the older alternative method, not the laser’s target.",
+        "H": "Lightning conductors are placed near the mirror for protection, not targeted to control cloud charges.",
+        "I": "Thunder is a sound shock wave and is not where the laser is directed."
+      }
+    },
+    {
+      "number": 9,
+      "answer": "G",
+      "section": "Bad behaviour",
+      "paragraphIndex": 4,
+      "evidence": "And anyway, who would want to fire streams of rockets in a populated area? ‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk.",
+      "reason": "The text contrasts hazardous streams of rockets with Diels’s aim of discharging lightning safely; option G is ‘rockets’.",
+      "distractors": {
+        "A": "Cloud-zappers are the laser devices being developed, so they are not the older, more dangerous comparison method.",
+        "B": "Atoms are involved in ionisation, not used as a competing lightning-control method.",
+        "C": "Storm clouds are acted upon; they are not a method that people ‘use’.",
+        "D": "Mirrors are a protective component of the laser setup, not the dangerous alternative.",
+        "E": "‘Technique’ is too generic and does not identify the explicitly criticised method.",
+        "F": "Ions form the conducting path and are not a separate control technology.",
+        "H": "Conductors protect the mirror and are not presented as dangerous.",
+        "I": "Thunder is a natural shock wave, not a method used to control electrical charges."
+      }
+    },
+    {
+      "number": 10,
+      "answer": "D",
+      "section": "Bad behaviour",
+      "paragraphIndex": 5,
+      "evidence": "To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky.",
+      "reason": "The beam is aimed first at a mirror to protect the laser; option D is ‘mirrors’.",
+      "distractors": {
+        "A": "Cloud-zappers are the laser systems being protected, not the first object struck by their beams.",
+        "B": "Atoms lose electrons during ionisation, but they are not named as the first aiming point.",
+        "C": "The beam ultimately goes towards storm clouds, but it is deliberately not pointed straight at them; ‘firstly’ requires mirrors.",
+        "E": "A technique cannot serve as a physical aiming point.",
+        "F": "Ions are produced by the beam and are not the first target.",
+        "G": "Rockets belong to a different method and do not redirect the laser beam.",
+        "H": "Conductors are placed close to the mirror to protect it; the beam is not aimed at them.",
+        "I": "Thunder is a sound effect and cannot redirect or protect the laser."
+      }
+    },
+    {
+      "number": 11,
+      "answer": "NO",
+      "section": "A stumbling block",
+      "paragraphIndex": 7,
+      "evidence": "But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper.",
+      "reason": "The statement says enough development money has been provided, whereas the passage explicitly says the required $5 million has not yet been found.",
+      "distractors": {
+        "YES": "This reverses the passage’s explicit ‘have not yet come up with’ statement.",
+        "NOT GIVEN": "The funding shortfall is directly stated, so the claim is decidably false rather than absent."
+      }
+    },
+    {
+      "number": 12,
+      "answer": "YES",
+      "section": "A stumbling block",
+      "paragraphIndex": 7,
+      "evidence": "He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news. Bernstein predicts ‘an avalanche of interest and support’ if all goes well.",
+      "reason": "Future support is conditional on successful forthcoming field tests, matching the statement that funding will depend on tests in real storms.",
+      "distractors": {
+        "NO": "The passage supports rather than contradicts the dependency: support is predicted only ‘if all goes well’ in the field tests.",
+        "NOT GIVEN": "The connection between field-test success and subsequent support is explicitly stated."
+      }
+    },
+    {
+      "number": 13,
+      "answer": "NOT GIVEN",
+      "section": "A stumbling block",
+      "paragraphIndex": 8,
+      "evidence": "Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it.",
+      "reason": "The passage discusses Diels’s hope for interactive meteorology but never states whether weather forecasters are interested, intensely or otherwise, in his system.",
+      "distractors": {
+        "YES": "No sentence attributes intense interest to weather forecasters; the explicit interested group is power companies.",
+        "NO": "The passage also does not state that weather forecasters lack interest, so the claim is not contradicted."
+      }
+    }
+  ],
+  "rawPages": {
+    "64": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13 which are based on Reading Passage 1 below.\nStriking Back at Lightning With Lasers\nSeldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt’s most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.\nBut researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.\nThe idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes. ‘We can cause the lightning to strike where we want it to using rockets,’ says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.\nBad behaviour\nBut while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. ‘Lightning is not perfectly well behaved,’ says Bernstein. ‘Occasionally, it will take a branch and go someplace it wasn’t supposed to go.’\nAnd anyway, who would want to fire streams of rockets in a populated area? ‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely",
+    "65": "– and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory.\nThe idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.\nA stumbling block\nHowever, there is still a big stumbling block. The laser is no nifty portable: it’s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.\nBernstein says that Diels’s system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. ‘I cannot say I have money yet, but I’m working on it,’ says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news. Bernstein predicts ‘an avalanche of interest and support’ if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.\nOther scientists could also benefit. With a lightning ‘switch’ at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it. ‘If we could discharge clouds, we might affect the weather,’ he says.\nAnd perhaps, says Diels, we’ll be able to confront some other meteorological menaces. ‘We think we could prevent hail by inducing lightning,’ he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back.",
+    "66": "Questions 1–3\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 1–3 on your answer sheet.\n1 The main topic discussed in the text is\nA the damage caused to US golf courses and golf players by lightning strikes.\nB the effect of lightning on power supplies in the US and in Japan.\nC a variety of methods used in trying to control lightning strikes.\nD a laser technique used in trying to control lightning strikes.\n2 According to the text, every year lightning\nA does considerable damage to buildings during thunderstorms.\nB kills or injures mainly golfers in the United States.\nC kills or injures around 500 people throughout the world.\nD damages more than 100 American power companies.\n3 Researchers at the University of Florida and at the University of New Mexico\nA receive funds from the same source.\nB are using the same techniques.\nC are employed by commercial companies.\nD are in opposition to each other.\nQuestions 4–6\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 4–6 on your answer sheet.\n4 EPRI receives financial support from ______.\n5 The advantage of the technique being developed by Diels is that it can be used ______.\n6 The main difficulty associated with using the laser equipment is related to its ______.",
+    "67": "Questions 7–10\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 7–10 on your answer sheet.\nIn this method, a laser is used to create a line of ionisation by removing electrons from 7 ______. This laser is then directed at 8 ______ in order to control electrical charges, a method which is less dangerous than using 9 ______. As a protection for the lasers, the beams are aimed firstly at 10 ______.\nA cloud-zappers\nB atoms\nC storm clouds\nD mirrors\nE technique\nF ions\nG rockets\nH conductors\nI thunder",
+    "68": "Questions 11–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 11–13 on your answer sheet write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n11 Power companies have given Diels enough money to develop his laser.\n12 Obtaining money to improve the lasers will depend on tests in real storms.\n13 Weather forecasters are intensely interested in Diels’s system.",
+    "156": "ACADEMIC READING\nReading Passage 1, Questions 1–13\n1 D\n2 A\n3 A\n4 power companies\n5 safely\n6 size\n7 B\n8 C\n9 G\n10 D\n11 NO\n12 YES\n13 NOT GIVEN"
+  },
+  "sourceAudit": {
+    "type": "independent_visual_blind_audit",
+    "authority": "data/Cambridge-IELTS-08.pdf",
+    "reviewedPhysicalPages": [63, 64, 65, 66, 67, 68, 69, 156],
+    "authoritativeContentPages": [64, 65, 66, 67, 68, 156],
+    "auxiliarySourcesAfterVisualPass": ["data/generated/text-pages/cambridge-ielts-08.raw.md was consulted only after the first visual pass to accelerate transcription; every retained character and page transition was then checked against the rendered original."],
+    "excludedAuthorities": [
+      "data/generated/page-json/cambridge-ielts-08.pages.json",
+      "data/generated/text-pages/cambridge-ielts-08.raw.md",
+      "bank data",
+      "old intensive-reading lessons",
+      "recovered lessons",
+      "OCR-only output"
+    ],
+    "pageResponsibilities": {
+      "63": "Boundary page: Test 2 Reading Passage 3 Questions 35–40.",
+      "64": "Test 3 Passage 1 heading, lead, two-line title, body paragraphs 1–5 and the start of a sentence crossing to page 65.",
+      "65": "Continuation of the cross-page sentence, body paragraphs 5–10, subheading A stumbling block and article ending.",
+      "66": "Questions 1–6 with all instructions, multiple-choice options and sentence-completion blanks.",
+      "67": "Questions 7–10 with summary and complete boxed A–I word list.",
+      "68": "Questions 11–13 with YES/NO/NOT GIVEN definitions and all statements.",
+      "69": "Boundary page: Test 3 Reading Passage 2 begins.",
+      "156": "Test 3 Academic Reading answer key, printed page 157, including all answers for Questions 1–13."
+    },
+    "pageTransitions": [
+      "63→64: Test 2 Reading ends; Test 3 Reading Passage 1 begins.",
+      "64→65: one sentence crosses the page after ‘safely’ and resumes with ‘– and safety’; it remains one sentence.",
+      "65→66: article ends; Questions 1–6 begin.",
+      "66→67: Question 6 ends; Questions 7–10 begin.",
+      "67→68: Question 10 and the A–I list end; Questions 11–13 begin.",
+      "68→69: Reading Passage 1 ends; Reading Passage 2 begins."
+    ],
+    "blindAuditResult": {
+      "auditMode": "After creating the candidate JSON, the rendered original-book pages were reviewed again from the beginning without consulting pages.json, raw.md, bank files or prior lessons.",
+      "contentFinding": "The two-line title, two subheadings, ten paragraphs, 47 complete sentences, one cross-page sentence, every word of Questions 1–13, all 13 official answers, all accepted forms, 13 evidence records and 47 explicit formal distractor reasons match the original pages.",
+      "repairsDuringBlindAudit": [],
+      "sharedSourcesConsulted": false,
+      "result": "PASS"
+    }
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "reason": "The source pages contain text only. The dotted blanks and the boxed A–I word list are typographic layouts fully represented as structured text; no map, chart, process diagram, labelled figure or other answer-essential visual exists.",
+    "images": []
+  },
+  "images": [],
+  "bodyParagraphs": [
+    "Seldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt’s most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.",
+    "But researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.",
+    "The idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes. ‘We can cause the lightning to strike where we want it to using rockets,’ says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.",
+    "But while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. ‘Lightning is not perfectly well behaved,’ says Bernstein. ‘Occasionally, it will take a branch and go someplace it wasn’t supposed to go.’",
+    "And anyway, who would want to fire streams of rockets in a populated area? ‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely – and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory.",
+    "The idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.",
+    "However, there is still a big stumbling block. The laser is no nifty portable: it’s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.",
+    "Bernstein says that Diels’s system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. ‘I cannot say I have money yet, but I’m working on it,’ says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news. Bernstein predicts ‘an avalanche of interest and support’ if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.",
+    "Other scientists could also benefit. With a lightning ‘switch’ at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it. ‘If we could discharge clouds, we might affect the weather,’ he says.",
+    "And perhaps, says Diels, we’ll be able to confront some other meteorological menaces. ‘We think we could prevent hail by inducing lightning,’ he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back."
+  ],
+  "pages": {
+    "64": "READING PASSAGE 1\nYou should spend about 20 minutes on Questions 1–13 which are based on Reading Passage 1 below.\nStriking Back at Lightning With Lasers\nSeldom is the weather more dramatic than when thunderstorms strike. Their electrical fury inflicts death or serious injury on around 500 people each year in the United States alone. As the clouds roll in, a leisurely round of golf can become a terrifying dice with death – out in the open, a lone golfer may be a lightning bolt’s most inviting target. And there is damage to property too. Lightning damage costs American power companies more than $100 million a year.\nBut researchers in the United States and Japan are planning to hit back. Already in laboratory trials they have tested strategies for neutralising the power of thunderstorms, and this winter they will brave real storms, equipped with an armoury of lasers that they will be pointing towards the heavens to discharge thunderclouds before lightning can strike.\nThe idea of forcing storm clouds to discharge their lightning on command is not new. In the early 1960s, researchers tried firing rockets trailing wires into thunderclouds to set up an easy discharge path for the huge electric charges that these clouds generate. The technique survives to this day at a test site in Florida run by the University of Florida, with support from the Electrical Power Research Institute (EPRI), based in California. EPRI, which is funded by power companies, is looking at ways to protect the United States’ power grid from lightning strikes. ‘We can cause the lightning to strike where we want it to using rockets,’ says Ralph Bernstein, manager of lightning projects at EPRI. The rocket site is providing precise measurements of lightning voltages and allowing engineers to check how electrical equipment bears up.\nBad behaviour\nBut while rockets are fine for research, they cannot provide the protection from lightning strikes that everyone is looking for. The rockets cost around $1,200 each, can only be fired at a limited frequency and their failure rate is about 40 per cent. And even when they do trigger lightning, things still do not always go according to plan. ‘Lightning is not perfectly well behaved,’ says Bernstein. ‘Occasionally, it will take a branch and go someplace it wasn’t supposed to go.’\nAnd anyway, who would want to fire streams of rockets in a populated area? ‘What goes up must come down,’ points out Jean-Claude Diels of the University of New Mexico. Diels is leading a project, which is backed by EPRI, to try to use lasers to discharge lightning safely",
+    "65": "– and safety is a basic requirement since no one wants to put themselves or their expensive equipment at risk. With around $500,000 invested so far, a promising system is just emerging from the laboratory.\nThe idea began some 20 years ago, when high-powered lasers were revealing their ability to extract electrons out of atoms and create ions. If a laser could generate a line of ionisation in the air all the way up to a storm cloud, this conducting path could be used to guide lightning to Earth, before the electric field becomes strong enough to break down the air in an uncontrollable surge. To stop the laser itself being struck, it would not be pointed straight at the clouds. Instead it would be directed at a mirror, and from there into the sky. The mirror would be protected by placing lightning conductors close by. Ideally, the cloud-zapper (gun) would be cheap enough to be installed around all key power installations, and portable enough to be taken to international sporting events to beam up at brewing storm clouds.\nA stumbling block\nHowever, there is still a big stumbling block. The laser is no nifty portable: it’s a monster that takes up a whole room. Diels is trying to cut down the size and says that a laser around the size of a small table is in the offing. He plans to test this more manageable system on live thunderclouds next summer.\nBernstein says that Diels’s system is attracting lots of interest from the power companies. But they have not yet come up with the $5 million that EPRI says will be needed to develop a commercial system, by making the lasers yet smaller and cheaper. ‘I cannot say I have money yet, but I’m working on it,’ says Bernstein. He reckons that the forthcoming field tests will be the turning point – and he’s hoping for good news. Bernstein predicts ‘an avalanche of interest and support’ if all goes well. He expects to see cloud-zappers eventually costing $50,000 to $100,000 each.\nOther scientists could also benefit. With a lightning ‘switch’ at their fingertips, materials scientists could find out what happens when mighty currents meet matter. Diels also hopes to see the birth of ‘interactive meteorology’ – not just forecasting the weather but controlling it. ‘If we could discharge clouds, we might affect the weather,’ he says.\nAnd perhaps, says Diels, we’ll be able to confront some other meteorological menaces. ‘We think we could prevent hail by inducing lightning,’ he says. Thunder, the shock wave that comes from a lightning flash, is thought to be the trigger for the torrential rain that is typical of storms. A laser thunder factory could shake the moisture out of clouds, perhaps preventing the formation of the giant hailstones that threaten crops. With luck, as the storm clouds gather this winter, laser-toting researchers could, for the first time, strike back.",
+    "66": "Questions 1–3\nChoose the correct letter, A, B, C or D.\nWrite the correct letter in boxes 1–3 on your answer sheet.\n1 The main topic discussed in the text is\nA the damage caused to US golf courses and golf players by lightning strikes.\nB the effect of lightning on power supplies in the US and in Japan.\nC a variety of methods used in trying to control lightning strikes.\nD a laser technique used in trying to control lightning strikes.\n2 According to the text, every year lightning\nA does considerable damage to buildings during thunderstorms.\nB kills or injures mainly golfers in the United States.\nC kills or injures around 500 people throughout the world.\nD damages more than 100 American power companies.\n3 Researchers at the University of Florida and at the University of New Mexico\nA receive funds from the same source.\nB are using the same techniques.\nC are employed by commercial companies.\nD are in opposition to each other.\nQuestions 4–6\nComplete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.\nWrite your answers in boxes 4–6 on your answer sheet.\n4 EPRI receives financial support from ______.\n5 The advantage of the technique being developed by Diels is that it can be used ______.\n6 The main difficulty associated with using the laser equipment is related to its ______.",
+    "67": "Questions 7–10\nComplete the summary using the list of words, A–I, below.\nWrite the correct letter, A–I, in boxes 7–10 on your answer sheet.\nIn this method, a laser is used to create a line of ionisation by removing electrons from 7 ______. This laser is then directed at 8 ______ in order to control electrical charges, a method which is less dangerous than using 9 ______. As a protection for the lasers, the beams are aimed firstly at 10 ______.\nA cloud-zappers\nB atoms\nC storm clouds\nD mirrors\nE technique\nF ions\nG rockets\nH conductors\nI thunder",
+    "68": "Questions 11–13\nDo the following statements agree with the information given in Reading Passage 1?\nIn boxes 11–13 on your answer sheet write\nYES if the statement agrees with the claims of the writer\nNO if the statement contradicts the claims of the writer\nNOT GIVEN if it is impossible to say what the writer thinks about this\n11 Power companies have given Diels enough money to develop his laser.\n12 Obtaining money to improve the lasers will depend on tests in real storms.\n13 Weather forecasters are intensely interested in Diels’s system.",
+    "156": "ACADEMIC READING\nReading Passage 1, Questions 1–13\n1 D\n2 A\n3 A\n4 power companies\n5 safely\n6 size\n7 B\n8 C\n9 G\n10 D\n11 NO\n12 YES\n13 NOT GIVEN"
+  },
+  "selfCheck": {
+    "jsonParse": "PASS",
+    "sourcePageCount": 5,
+    "passagePageCount": 2,
+    "questionPageCount": 3,
+    "bodyParagraphCount": 10,
+    "bodySentenceCount": 47,
+    "crossPageSentenceCount": 1,
+    "sentenceReconstruction": "PASS: every sentence slice exactly reproduces its body paragraph; sentence index 20 is retained as one complete sentence across physical pages 64–65",
+    "questionCount": 13,
+    "questionNumbers": "PASS: 1–13 continuous",
+    "officialAnswerCount": 13,
+    "officialAnswerSequenceMatchesPhysicalPage156": true,
+    "multipleChoiceWrongOptionsCovered": 9,
+    "sentenceCompletionPrintedDistractors": 0,
+    "summaryWordListWrongOptionsCovered": 32,
+    "yesNoNotGivenWrongJudgmentsCovered": 6,
+    "explicitFormalDistractorCount": 47,
+    "explicitWrongOptionsAllCovered": true,
+    "continuousEvidenceCount": 13,
+    "notGivenAbsenceEvidenceCount": 1,
+    "rawPagesEqualPages": true,
+    "acceptedFormsVerified": true,
+    "answerKeyVerifiedAsTest3AcademicReading": true,
+    "semanticImagesRequired": false,
+    "semanticImageCount": 0,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditResult": "PASS",
+    "sharedFilesModified": false,
+    "evidenceValidation": "PASS: all 13 evidence records use continuous original quotations; Question 3 includes a second independently continuous corroborating quotation; all 47 printed wrong options or judgments have specific reasons.",
+    "semanticImageCropVisualCheck": "NOT APPLICABLE: no answer-essential semantic image exists."
+  }
+}

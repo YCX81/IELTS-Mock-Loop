@@ -1,0 +1,496 @@
+{
+  "book": 16,
+  "test": 2,
+  "passage": 2,
+  "calibrationStatus": "authoritative_manual_visual_calibration_against_original_pdf",
+  "calibrationDate": "2026-07-23",
+  "pdf": "data/Cambridge-IELTS-16.pdf",
+  "calibrationMethod": "The original PDF was rendered and inspected visually before auxiliary OCR was consulted. PDF 1-based page 43 was checked as the end of Passage 1, pages 44–45 contain the complete Passage 2 article, pages 46–48 contain Questions 14–26, and page 49 begins Passage 3. The Test 2 Academic Reading answer key was located and read visually on PDF 1-based page 126 (printed page 124). Raw text was used only after the visual pass as a transcription comparison aid.",
+  "reviewedPdfPages1Based": [43, 44, 45, 46, 47, 48, 49, 125, 126, 127],
+  "boundaryPages": [
+    {
+      "pdfPage1Based": 43,
+      "printedPage": 41,
+      "finding": "Questions 9–13 conclude Reading Passage 1; Passage 2 has not started."
+    },
+    {
+      "pdfPage1Based": 44,
+      "printedPage": 42,
+      "finding": "READING PASSAGE 2, its lead instruction, title, standfirst and first five body paragraphs begin here."
+    },
+    {
+      "pdfPage1Based": 48,
+      "printedPage": 46,
+      "finding": "Questions 21–26 conclude Reading Passage 2."
+    },
+    {
+      "pdfPage1Based": 49,
+      "printedPage": 47,
+      "finding": "READING PASSAGE 3 begins; no Passage 2 material crosses this boundary."
+    }
+  ],
+  "sourcePages": [44, 45, 46, 47, 48],
+  "sourcePrintedPages": [42, 43, 44, 45, 46],
+  "printedPageMap": {
+    "43": 41,
+    "44": 42,
+    "45": 43,
+    "46": 44,
+    "47": 45,
+    "48": 46,
+    "49": 47,
+    "125": 123,
+    "126": 124,
+    "127": 125
+  },
+  "passagePages": [44, 45],
+  "passagePrintedPages": [42, 43],
+  "questionPages": [46, 47, 48],
+  "questionPrintedPages": [44, 45, 46],
+  "answerPage": 126,
+  "answerKeyPage": 126,
+  "answerKeyPrintedPage": 124,
+  "answerKey": {
+    "section": "TEST 2 READING",
+    "heading": "Reading Passage 2, Questions 14–26",
+    "actualPdfPage1Based": 126,
+    "printedPageNumber": 124,
+    "finding": "The visually inspected key prints 14 D, 15 C, 16 A, 17 G, 18 B, 19 H, 20 E, 21 YES, 22 NO, 23 NOT GIVEN, 24 YES, 25 NOT GIVEN and 26 NO."
+  },
+  "sectionHeading": "READING PASSAGE 2",
+  "leadInstruction": "You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.",
+  "title": "I contain multitudes",
+  "titleLineation": ["I contain multitudes"],
+  "standfirst": "Wendy Moore reviews Ed Yong’s book about microbes",
+  "authorNote": null,
+  "sections": [
+    {
+      "label": null,
+      "sourcePages": [44],
+      "paragraphs": [
+        "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us. Invisible to the naked eye, they are ubiquitous. They inhabit the soil, air, rocks and water and are present within every form of life, from seaweed and coral to dogs and humans. And, as Yong explains in his utterly absorbing and hugely important book, we mess with them at our peril.",
+        "Every species has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual. What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion. At best, Yong informs us, we are only 50 per cent human. Indeed, some scientists even suggest we should think of each species and its microbes as a single unit, dubbed a ‘holobiont’.",
+        "In each human there are microbes that live only in the stomach, the mouth or the armpit and by and large they do so peacefully. So ‘bad’ microbes are just microbes out of context. Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) can become deadly if they find their way into the bloodstream. These communities are constantly changing too. The right hand shares just one sixth of its microbes with the left hand. And, of course, we are surrounded by microbes. Every time we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large.",
+        "It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide. Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling. Yong is on a mission. Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them as much as he does. By the end, we do.",
+        "For most of human history we had no idea that microbes existed. The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’. It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease. It was Pasteur’s ‘germ theory’ that gave bacteria the poor image that endures today."
+      ]
+    },
+    {
+      "label": null,
+      "sourcePages": [45],
+      "paragraphs": [
+        "Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health. The book also acknowledges that our attitude towards bacteria is not a simple one. We tend to see the dangers posed by bacteria, yet at the same time we are sold yoghurts and drinks that supposedly nurture ‘friendly’ bacteria. In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes. Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive.",
+        "What then do these millions of organisms do? The answer is pretty much everything. New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity. ‘They actually help us become who we are,’ says Yong. But we are facing a growing problem. Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD).",
+        "The most recent research actually turns accepted norms upside down. For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay. Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later.",
+        "The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent bacteria that protect them against predators. However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear. The microbial world is a place of wonder. Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease. In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life."
+      ]
+    }
+  ],
+  "footnotes": [],
+  "sentences": [
+    "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us.",
+    "Invisible to the naked eye, they are ubiquitous.",
+    "They inhabit the soil, air, rocks and water and are present within every form of life, from seaweed and coral to dogs and humans.",
+    "And, as Yong explains in his utterly absorbing and hugely important book, we mess with them at our peril.",
+    "Every species has its own colony of microbes, called a ‘microbiome’, and these microbes vary not only between species but also between individuals and within different parts of each individual.",
+    "What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion.",
+    "At best, Yong informs us, we are only 50 per cent human.",
+    "Indeed, some scientists even suggest we should think of each species and its microbes as a single unit, dubbed a ‘holobiont’.",
+    "In each human there are microbes that live only in the stomach, the mouth or the armpit and by and large they do so peacefully.",
+    "So ‘bad’ microbes are just microbes out of context.",
+    "Microbes that sit contentedly in the human gut (where there are more microbes than there are stars in the galaxy) can become deadly if they find their way into the bloodstream.",
+    "These communities are constantly changing too.",
+    "The right hand shares just one sixth of its microbes with the left hand.",
+    "And, of course, we are surrounded by microbes.",
+    "Every time we eat, we swallow a million microbes in each gram of food; we are continually swapping microbes with other humans, pets and the world at large.",
+    "It’s a fascinating topic and Yong, a young British science journalist, is an extraordinarily adept guide.",
+    "Writing with lightness and panache, he has a knack of explaining complex science in terms that are both easy to understand and totally enthralling.",
+    "Yong is on a mission.",
+    "Leading us gently by the hand, he takes us into the world of microbes – a bizarre, alien planet – in a bid to persuade us to love them as much as he does.",
+    "By the end, we do.",
+    "For most of human history we had no idea that microbes existed.",
+    "The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s.",
+    "Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’.",
+    "It wasn’t until nearly two hundred years later that the research of French biologist Louis Pasteur indicated that some microbes caused disease.",
+    "It was Pasteur’s ‘germ theory’ that gave bacteria the poor image that endures today.",
+    "Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health.",
+    "The book also acknowledges that our attitude towards bacteria is not a simple one.",
+    "We tend to see the dangers posed by bacteria, yet at the same time we are sold yoghurts and drinks that supposedly nurture ‘friendly’ bacteria.",
+    "In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes.",
+    "Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive.",
+    "What then do these millions of organisms do?",
+    "The answer is pretty much everything.",
+    "New research is now unravelling the ways in which bacteria aid digestion, regulate our immune systems, eliminate toxins, produce vitamins, affect our behaviour and even combat obesity.",
+    "‘They actually help us become who we are,’ says Yong.",
+    "But we are facing a growing problem.",
+    "Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD).",
+    "The most recent research actually turns accepted norms upside down.",
+    "For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay.",
+    "Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later.",
+    "The readers of Yong’s book must be prepared for a decidedly unglamorous world.",
+    "Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium.",
+    "Another is about squid that carry luminescent bacteria that protect them against predators.",
+    "However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear.",
+    "The microbial world is a place of wonder.",
+    "Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease.",
+    "In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections.",
+    "Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraph": 1, "sentenceStart": 0, "sentenceEndExclusive": 4},
+    {"paragraph": 2, "sentenceStart": 4, "sentenceEndExclusive": 8},
+    {"paragraph": 3, "sentenceStart": 8, "sentenceEndExclusive": 15},
+    {"paragraph": 4, "sentenceStart": 15, "sentenceEndExclusive": 20},
+    {"paragraph": 5, "sentenceStart": 20, "sentenceEndExclusive": 25},
+    {"paragraph": 6, "sentenceStart": 25, "sentenceEndExclusive": 30},
+    {"paragraph": 7, "sentenceStart": 30, "sentenceEndExclusive": 36},
+    {"paragraph": 8, "sentenceStart": 36, "sentenceEndExclusive": 39},
+    {"paragraph": 9, "sentenceStart": 39, "sentenceEndExclusive": 47}
+  ],
+  "sentencePageMap": [
+    {"pdfPage1Based": 44, "printedPage": 42, "sentenceStart": 0, "sentenceEndExclusive": 25},
+    {"pdfPage1Based": 45, "printedPage": 43, "sentenceStart": 25, "sentenceEndExclusive": 47}
+  ],
+  "pageBreaks": [
+    {
+      "afterPdfPage1Based": 44,
+      "beforePdfPage1Based": 45,
+      "finding": "The page break falls between paragraphs 5 and 6; no body sentence crosses the page boundary."
+    }
+  ],
+  "typography": {
+    "bodyStructure": "A centred title and italic standfirst are followed by nine unlabelled body paragraphs. Paragraphs 1–5 are on PDF page 44 and paragraphs 6–9 are on PDF page 45.",
+    "questionStructure": "PDF page 46 contains Questions 14–16, page 47 contains Questions 17–20 and their A–H word list, and page 48 contains Questions 21–26.",
+    "quotation": "Curly quotation marks and apostrophes are retained exactly.",
+    "dashes": "Printed ranges and parenthetical interruptions use en dashes; low-fibre and lens-maker retain their source hyphens.",
+    "spelling": "British spellings such as realise, behaviour, yoghurts and unravelling are retained.",
+    "excludedVisuals": "Page furniture, answer lines, the word-list border and Resource Bank/page-turn icons are layout elements rather than semantic images."
+  },
+  "questionGroups": [
+    {
+      "range": "14–16",
+      "type": "multiple_choice_single_answer",
+      "sourcePages": [46],
+      "instructions": [
+        "Choose the correct letter, A, B, C or D.",
+        "Write the correct letter in boxes 14–16 on your answer sheet."
+      ],
+      "questions": [
+        {
+          "number": 14,
+          "stem": "What point does the writer make about microbes in the first paragraph?",
+          "options": {
+            "A": "They adapt quickly to their environment.",
+            "B": "The risk they pose has been exaggerated.",
+            "C": "They are more plentiful in animal life than plant life.",
+            "D": "They will continue to exist for longer than the human race."
+          },
+          "answer": "D",
+          "evidence": "Microbes, most of them bacteria, have populated this planet since long before animal life developed and they will outlive us.",
+          "evidenceSentenceIndices": [0],
+          "distractors": ["A", "B", "C"],
+          "optionAnalysis": {
+            "A": "The paragraph says microbes are ubiquitous and inhabit many environments, not that they adapt quickly.",
+            "B": "The writer warns that interfering with microbes is perilous; the risk is not described as exaggerated.",
+            "C": "The paragraph lists both plant and animal life but makes no numerical comparison between them.",
+            "D": "Correct: ‘they will outlive us’ directly states that microbes will exist longer than humans."
+          }
+        },
+        {
+          "number": 15,
+          "stem": "In the second paragraph, the writer is impressed by the fact that",
+          "options": {
+            "A": "each species tends to have vastly different microbes.",
+            "B": "some parts of the body contain relatively few microbes.",
+            "C": "the average individual has more microbial cells than human ones.",
+            "D": "scientists have limited understanding of how microbial cells behave."
+          },
+          "answer": "C",
+          "evidence": "What is amazing is that while the number of human cells in the average person is about 30 trillion, the number of microbial ones is higher – about 39 trillion.",
+          "evidenceSentenceIndices": [5],
+          "distractors": ["A", "B", "D"],
+          "optionAnalysis": {
+            "A": "The microbes vary between and within individuals as well as between species; the paragraph does not say each species differs vastly.",
+            "B": "Variation between body parts is mentioned, but no part is said to contain relatively few microbes.",
+            "C": "Correct: 39 trillion microbial cells are contrasted with about 30 trillion human cells.",
+            "D": "The paragraph proposes viewing a species and its microbes as one unit, not that scientists have limited understanding of microbial behaviour."
+          }
+        },
+        {
+          "number": 16,
+          "stem": "What is the writer doing in the fifth paragraph?",
+          "options": {
+            "A": "explaining how a discovery was made",
+            "B": "comparing scientists’ theories about microbes",
+            "C": "describing confusion among scientists",
+            "D": "giving details of how microbes cause disease"
+          },
+          "answer": "A",
+          "evidence": "The first man to see these extraordinarily potent creatures was a Dutch lens-maker called Antony van Leeuwenhoek in the 1670s. Using microscopes of his own design that could magnify up to 270 times, he examined a drop of water from a nearby lake and found it teeming with tiny creatures he called ‘animalcules’.",
+          "evidenceSentenceIndices": [21, 22],
+          "distractors": ["B", "C", "D"],
+          "optionAnalysis": {
+            "A": "Correct: the paragraph recounts how Leeuwenhoek first saw microbes using his microscope and a lake-water sample.",
+            "B": "Leeuwenhoek’s observation and Pasteur’s later research are chronological discoveries, not competing theories.",
+            "C": "No scientific confusion is described.",
+            "D": "Pasteur’s research indicated that some microbes caused disease, but the biological mechanism is not explained."
+          }
+        }
+      ]
+    },
+    {
+      "range": "17–20",
+      "type": "summary_completion_from_word_list",
+      "sourcePages": [47],
+      "instructions": [
+        "Complete the summary using the list of words, A–H, below.",
+        "Write the correct letter, A–H, in boxes 17–20 on your answer sheet."
+      ],
+      "summaryTitle": "We should be more tolerant of microbes",
+      "summaryText": [
+        "Yong’s book argues that we should be more tolerant of microbes. Many have a beneficial effect, and only a relatively small number lead to 17 __________. And although it is misleading to think of microbes as ‘friendly’, we should also stop thinking of them as the enemy. In fact, we should accept that our relationship with microbes is one based on 18 __________.",
+        "New research shows that microbes have numerous benefits for humans. Amongst other things, they aid digestion, remove poisons, produce vitamins and may even help reduce obesity. However, there is a growing problem. Our poor 19 __________, our overuse of antibiotics, and our excessive focus on 20 __________ are upsetting the bacterial balance and may be contributing to the huge increase in allergies and immune system problems."
+      ],
+      "options": {
+        "A": "solution",
+        "B": "partnership",
+        "C": "destruction",
+        "D": "exaggeration",
+        "E": "cleanliness",
+        "F": "regulations",
+        "G": "illness",
+        "H": "nutrition"
+      },
+      "questions": [
+        {
+          "number": 17,
+          "stem": "Many have a beneficial effect, and only a relatively small number lead to 17 __________.",
+          "answer": "G",
+          "answerText": "illness",
+          "evidence": "Yong’s book is in many ways a plea for microbial tolerance, pointing out that while fewer than one hundred species of bacteria bring disease, many thousands more play a vital role in maintaining our health.",
+          "evidenceSentenceIndices": [25],
+          "distractors": ["A", "B", "C", "D", "E", "F", "H"]
+        },
+        {
+          "number": 18,
+          "stem": "In fact, we should accept that our relationship with microbes is one based on 18 __________.",
+          "answer": "B",
+          "answerText": "partnership",
+          "evidence": "In reality, says Yong, bacteria should not be viewed as either friends or foes, villains or heroes. Instead we should realise we have a symbiotic relationship, that can be mutually beneficial or mutually destructive.",
+          "evidenceSentenceIndices": [28, 29],
+          "distractors": ["A", "C", "D", "E", "F", "G", "H"]
+        },
+        {
+          "number": 19,
+          "stem": "Our poor 19 __________, our overuse of antibiotics, and our excessive focus on 20 __________ are upsetting the bacterial balance",
+          "answer": "H",
+          "answerText": "nutrition",
+          "evidence": "Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD).",
+          "evidenceSentenceIndices": [35],
+          "distractors": ["A", "B", "C", "D", "E", "F", "G"]
+        },
+        {
+          "number": 20,
+          "stem": "Our poor 19 __________, our overuse of antibiotics, and our excessive focus on 20 __________ are upsetting the bacterial balance",
+          "answer": "E",
+          "answerText": "cleanliness",
+          "evidence": "Our obsession with hygiene, our overuse of antibiotics and our unhealthy, low-fibre diets are disrupting the bacterial balance and may be responsible for soaring rates of allergies and immune problems, such as inflammatory bowel disease (IBD).",
+          "evidenceSentenceIndices": [35],
+          "distractors": ["A", "B", "C", "D", "F", "G", "H"]
+        }
+      ],
+      "optionAnalysis": {
+        "17": {
+          "A": "No problem is said to lead to a solution.",
+          "B": "Partnership describes the human–microbe relationship, not the harmful result caused by a minority of microbes.",
+          "C": "The passage says some bacteria bring disease, not destruction.",
+          "D": "No exaggeration is caused by microbes.",
+          "E": "Cleanliness belongs to the later hygiene idea.",
+          "F": "Regulations are not discussed.",
+          "G": "Correct: ‘bring disease’ is paraphrased as ‘lead to illness’.",
+          "H": "Nutrition belongs to the later reference to unhealthy diets."
+        },
+        "18": {
+          "A": "The relationship is not called a solution.",
+          "B": "Correct: a symbiotic relationship is a form of partnership.",
+          "C": "Destructive is only one possible effect of the relationship, not the basis of it.",
+          "D": "Exaggeration is not used to characterise the relationship.",
+          "E": "Cleanliness is a later source of imbalance.",
+          "F": "Regulations are not discussed.",
+          "G": "Illness is caused by a small minority of bacteria, not the basis of the overall relationship.",
+          "H": "Nutrition is a later dietary issue."
+        },
+        "19": {
+          "A": "The passage does not identify a poor solution.",
+          "B": "The passage does not identify a poor partnership in this list of causes.",
+          "C": "Destruction does not paraphrase unhealthy, low-fibre diets.",
+          "D": "Exaggeration does not paraphrase diet.",
+          "E": "Cleanliness answers blank 20, not blank 19.",
+          "F": "Regulations are not discussed.",
+          "G": "Illness is an outcome, not the dietary cause.",
+          "H": "Correct: unhealthy, low-fibre diets are poor nutrition."
+        },
+        "20": {
+          "A": "No excessive focus on solutions is mentioned.",
+          "B": "Partnership describes the overall relationship, not excessive hygiene.",
+          "C": "No excessive focus on destruction is mentioned.",
+          "D": "No excessive focus on exaggeration is mentioned.",
+          "E": "Correct: an obsession with hygiene is an excessive focus on cleanliness.",
+          "F": "Regulations are not discussed.",
+          "G": "Illness is an outcome, not the focus causing imbalance.",
+          "H": "Nutrition answers blank 19, not blank 20."
+        }
+      }
+    },
+    {
+      "range": "21–26",
+      "type": "yes_no_not_given",
+      "sourcePages": [48],
+      "instructions": [
+        "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+        "In boxes 21–26 on your answer sheet, write",
+        "YES if the statement agrees with the claims of the writer",
+        "NO if the statement contradicts the claims of the writer",
+        "NOT GIVEN if it is impossible to say what the writer thinks about this"
+      ],
+      "questions": [
+        {
+          "number": 21,
+          "stem": "It is possible that using antibacterial products in the home fails to have the desired effect.",
+          "answer": "YES",
+          "evidence": "For example, there are studies indicating that the excessive use of household detergents and antibacterial products actually destroys the microbes that normally keep the more dangerous germs at bay.",
+          "evidenceSentenceIndices": [37],
+          "distractors": ["NO", "NOT GIVEN"],
+          "rationale": "The products may remove protective microbes and therefore produce the opposite of the desired protective effect."
+        },
+        {
+          "number": 22,
+          "stem": "It is a good idea to ensure that children come into contact with as few bacteria as possible.",
+          "answer": "NO",
+          "evidence": "Other studies show that keeping a dog as a pet gives children early exposure to a diverse range of bacteria, which may help protect them against allergies later.",
+          "evidenceSentenceIndices": [38],
+          "distractors": ["YES", "NOT GIVEN"],
+          "rationale": "The passage supports early exposure to a diverse range of bacteria, contradicting the claim that contact should be minimised."
+        },
+        {
+          "number": 23,
+          "stem": "Yong’s book contains more case studies than are necessary.",
+          "answer": "NOT GIVEN",
+          "evidence": "The readers of Yong’s book must be prepared for a decidedly unglamorous world. Among the less appealing case studies is one about a fungus that is wiping out entire populations of frogs and that can be halted by a rare microbial bacterium. Another is about squid that carry luminescent bacteria that protect them against predators.",
+          "evidenceSentenceIndices": [39, 40, 41],
+          "distractors": ["YES", "NO"],
+          "rationale": "The closest passage discusses the nature of some case studies, but it never evaluates their number as excessive or necessary."
+        },
+        {
+          "number": 24,
+          "stem": "The case study about bacteria that prevent squid from being attacked may have limited appeal.",
+          "answer": "YES",
+          "evidence": "Another is about squid that carry luminescent bacteria that protect them against predators. However, if you can overcome your distaste for some of the investigations, the reasons for Yong’s enthusiasm become clear.",
+          "evidenceSentenceIndices": [41, 42],
+          "distractors": ["NO", "NOT GIVEN"],
+          "rationale": "The squid study is among investigations for which readers may need to overcome distaste, so its appeal may be limited."
+        },
+        {
+          "number": 25,
+          "stem": "Efforts to control dengue fever have been surprisingly successful.",
+          "answer": "NOT GIVEN",
+          "evidence": "Already, in an attempt to stop mosquitoes spreading dengue fever – a disease that infects 400 million people a year – mosquitoes are being loaded with a bacterium to block the disease.",
+          "evidenceSentenceIndices": [44],
+          "distractors": ["YES", "NO"],
+          "rationale": "The passage describes an attempt but gives no result and makes no claim that it has been surprisingly successful."
+        },
+        {
+          "number": 26,
+          "stem": "Microbes that reduce the risk of infection have already been put inside the walls of some hospital wards.",
+          "answer": "NO",
+          "evidence": "In the future, our ability to manipulate microbes means we could construct buildings with useful microbes built into their walls to fight off infections. Just imagine a neonatal hospital ward coated in a specially mixed cocktail of microbes so that babies get the best start in life.",
+          "evidenceSentenceIndices": [45, 46],
+          "distractors": ["YES", "NOT GIVEN"],
+          "rationale": "This is presented as a future possibility to imagine, not something already implemented."
+        }
+      ]
+    }
+  ],
+  "officialAnswers": {
+    "14": "D",
+    "15": "C",
+    "16": "A",
+    "17": "G",
+    "18": "B",
+    "19": "H",
+    "20": "E",
+    "21": "YES",
+    "22": "NO",
+    "23": "NOT GIVEN",
+    "24": "YES",
+    "25": "NOT GIVEN",
+    "26": "NO"
+  },
+  "officialAnswerSequence": ["D", "C", "A", "G", "B", "H", "E", "YES", "NO", "NOT GIVEN", "YES", "NOT GIVEN", "NO"],
+  "distractorOccurrences": [
+    {"question": 14, "option": "A"}, {"question": 14, "option": "B"}, {"question": 14, "option": "C"},
+    {"question": 15, "option": "A"}, {"question": 15, "option": "B"}, {"question": 15, "option": "D"},
+    {"question": 16, "option": "B"}, {"question": 16, "option": "C"}, {"question": 16, "option": "D"},
+    {"question": 17, "option": "A"}, {"question": 17, "option": "B"}, {"question": 17, "option": "C"}, {"question": 17, "option": "D"}, {"question": 17, "option": "E"}, {"question": 17, "option": "F"}, {"question": 17, "option": "H"},
+    {"question": 18, "option": "A"}, {"question": 18, "option": "C"}, {"question": 18, "option": "D"}, {"question": 18, "option": "E"}, {"question": 18, "option": "F"}, {"question": 18, "option": "G"}, {"question": 18, "option": "H"},
+    {"question": 19, "option": "A"}, {"question": 19, "option": "B"}, {"question": 19, "option": "C"}, {"question": 19, "option": "D"}, {"question": 19, "option": "E"}, {"question": 19, "option": "F"}, {"question": 19, "option": "G"},
+    {"question": 20, "option": "A"}, {"question": 20, "option": "B"}, {"question": 20, "option": "C"}, {"question": 20, "option": "D"}, {"question": 20, "option": "F"}, {"question": 20, "option": "G"}, {"question": 20, "option": "H"},
+    {"question": 21, "option": "NO"}, {"question": 21, "option": "NOT GIVEN"},
+    {"question": 22, "option": "YES"}, {"question": 22, "option": "NOT GIVEN"},
+    {"question": 23, "option": "YES"}, {"question": 23, "option": "NO"},
+    {"question": 24, "option": "NO"}, {"question": 24, "option": "NOT GIVEN"},
+    {"question": 25, "option": "YES"}, {"question": 25, "option": "NO"},
+    {"question": 26, "option": "YES"}, {"question": 26, "option": "NOT GIVEN"}
+  ],
+  "semanticImages": [],
+  "images": [],
+  "bodyParagraphs": 9,
+  "sourceAudit": {
+    "visualPdfFirst": true,
+    "bodyComparedWithRawAfterVisualPass": true,
+    "questionsComparedWithRawAfterVisualPass": true,
+    "answersReadDirectlyFromAnswerPage": true,
+    "rawPageConvention": "one_based_physical_pdf_page_matching_raw/Page_N",
+    "knownRawCorrections": [],
+    "excludedNonBookContent": []
+  },
+  "semanticImageDecision": "No semantic image is present in Passage 2 or Questions 14–26. The A–H option border, answer lines, page-turn icon and Resource Bank icon are layout/decorative elements and are excluded.",
+  "imageDecision": {
+    "count": 0,
+    "finding": "No semantic image is needed. The A–H word list is fully preserved as structured text; borders, icons and page furniture are not content images. No whole-page screenshot is retained."
+  },
+  "pages": [
+    {"page": 44, "printedPage": 42, "content": "Passage heading, lead instruction, title, standfirst and body paragraphs 1–5."},
+    {"page": 45, "printedPage": 43, "content": "Body paragraphs 6–9; article concludes."},
+    {"page": 46, "printedPage": 44, "content": "Questions 14–16 with four options each."},
+    {"page": 47, "printedPage": 45, "content": "Questions 17–20, full summary and options A–H."},
+    {"page": 48, "printedPage": 46, "content": "Questions 21–26 and complete YES/NO/NOT GIVEN instructions."},
+    {"page": 126, "printedPage": 124, "content": "Official Test 2 Academic Reading answer key for Questions 14–26."}
+  ],
+  "validation": {
+    "paragraphCount": 9,
+    "sentenceCount": 47,
+    "questionCount": 13,
+    "questionRange": "14–26",
+    "questionNumbers": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26],
+    "formalDistractorOccurrenceCount": 49,
+    "semanticImageCount": 0,
+    "paragraphsReconstructFromSentences": true,
+    "allEvidenceIndicesValid": true,
+    "allEvidenceIsContinuousOriginalText": true,
+    "officialAnswersVisuallyVerified": true,
+    "rawUsedOnlyAsAuxiliaryAfterVisualInspection": true
+  },
+  "selfCheck": {
+    "sentenceCount": 47,
+    "sentenceNumbering": "1–47 continuous; title and standfirst excluded",
+    "paragraphCoverage": "nine unlabelled paragraphs complete",
+    "questionCoverage": "14–26 complete",
+    "questionCount": 13,
+    "formalDistractorOccurrences": 49,
+    "formalDistractorCounting": "Questions 14–16 each expose three non-answer choices (9 occurrences). Questions 17–20 each expose seven non-answer choices from A–H (28 occurrences). Questions 21–26 each expose the two non-answer YES/NO/NOT GIVEN branches (12 occurrences).",
+    "imageCount": 0,
+    "sourcePages": [44, 45, 46, 47, 48],
+    "answerKeyPage": 126
+  }
+}

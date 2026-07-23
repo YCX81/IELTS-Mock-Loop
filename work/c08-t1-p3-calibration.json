@@ -1,0 +1,371 @@
+{
+  "book": 8,
+  "test": 1,
+  "passage": 3,
+  "calibrationStatus": "independently_verified_from_original_pdf",
+  "calibrationDate": "2026-07-21",
+  "pdf": "data/Cambridge-IELTS-08.pdf",
+  "calibrationMethod": "Blind, original-only review from fresh 240–300 dpi renders of the authoritative PDF. Physical pages 24–29 and answer physical page 152 were visually checked; embedded PDF text was unusable and no OCR, page JSON, raw Markdown, bank, prior intensive reading, recovered source, or prior calibration was used as content authority.",
+  "reviewedPhysicalPages": [24, 25, 26, 27, 28, 29, 152],
+  "boundaryPages": [
+    {"physicalPage": 24, "printedPageNumber": 25, "position": "before", "finding": "This page contains Reading Passage 2 Questions 20–26 and is outside Reading Passage 3."},
+    {"physicalPage": 29, "printedPageNumber": 30, "position": "after", "finding": "This page begins Writing Task 1 and is outside Reading Passage 3."}
+  ],
+  "sourcePhysicalPages": [25, 26, 27, 28],
+  "sourcePages": [25, 26, 27, 28],
+  "passagePages": [25, 26],
+  "questionPages": [27, 28],
+  "printedSourcePages": [26, 27, 28, 29],
+  "pages": [
+    {"physicalPage": 25, "printedPageNumber": 26, "role": "passage_start", "rawPageKey": "25"},
+    {"physicalPage": 26, "printedPageNumber": 27, "role": "passage_end", "rawPageKey": "26"},
+    {"physicalPage": 27, "printedPageNumber": 28, "role": "questions_27_30", "rawPageKey": "27"},
+    {"physicalPage": 28, "printedPageNumber": 29, "role": "questions_31_40", "rawPageKey": "28"},
+    {"physicalPage": 152, "printedPageNumber": 153, "role": "official_answer_key", "rawPageKey": "152"}
+  ],
+  "answerPhysicalPage": 152,
+  "answerPage": 152,
+  "answerKeyPage": 152,
+  "answerKeyPrintedPage": 153,
+  "answerKey": {
+    "actualPdfPhysicalPage": 152,
+    "printedPageNumber": 153,
+    "section": "ACADEMIC READING",
+    "heading": "Reading Passage 3, Questions 27–40",
+    "finding": "The Test 1 Academic Reading answer key gives 27 E; 28 B; 29 A; 30 F; 31 sender; 32 picture/image; 33 receiver; 34 and 35, in either order, sensory leakage and (outright) fraud; 36 computers; 37 human involvement; 38 meta-analysis; 39 lack of consistency; 40 big/large enough."
+  },
+  "sectionHeading": "READING PASSAGE 3",
+  "leadInstruction": "You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.",
+  "title": "TELEPATHY",
+  "titleFinding": "The title is printed in uppercase inside a decorative black-and-white banner.",
+  "standfirst": "Can human beings communicate by thought alone? For more than a century the issue of telepathy has divided the scientific community, and even today it still sparks bitter controversy among top academics.",
+  "authorNote": "",
+  "bodyParagraphs": [
+    "Since the 1970s, parapsychologists at leading universities and research institutes around the world have risked the derision of sceptical colleagues by putting the various claims for telepathy to the test in dozens of rigorous scientific studies. The results and their implications are dividing even the researchers who uncovered them.",
+    "Some researchers say the results constitute compelling evidence that telepathy is genuine. Other parapsychologists believe the field is on the brink of collapse, having tried to produce definitive scientific proof and failed. Sceptics and advocates alike do concur on one issue, however: that the most impressive evidence so far has come from the so-called ‘ganzfeld’ experiments, a German term that means ‘whole field’. Reports of telepathic experiences had by people during meditation led parapsychologists to suspect that telepathy might involve ‘signals’ passing between people that were so faint that they were usually swamped by normal brain activity. In this case, such signals might be more easily detected by those experiencing meditation-like tranquillity in a relaxing ‘whole field’ of light, sound and warmth.",
+    "The ganzfeld experiment tries to recreate these conditions with participants sitting in soft reclining chairs in a sealed room, listening to relaxing sounds while their eyes are covered with special filters letting in only soft pink light. In early ganzfeld experiments, the telepathy test involved identification of a picture chosen from a random selection of four taken from a large image bank. The idea was that a person acting as a ‘sender’ would attempt to beam the image over to the ‘receiver’ relaxing in the sealed room. Once the session was over, this person was asked to identify which of the four images had been used. Random guessing would give a hit-rate of 25 per cent; if telepathy is real, however, the hit-rate would be higher. In 1982, the results from the first ganzfeld studies were analysed by one of its pioneers, the American parapsychologist Charles Honorton. They pointed to typical hit-rates of better than 30 per cent – a small effect, but one which statistical tests suggested could not be put down to chance.",
+    "The implication was that the ganzfeld method had revealed real evidence for telepathy. But there was a crucial flaw in this argument – one routinely overlooked in more conventional areas of science. Just because chance had been ruled out as an explanation did not prove telepathy must exist; there were many other ways of getting positive results. These ranged from ‘sensory leakage’ – where clues about the pictures accidentally reach the receiver – to outright fraud. In response, the researchers issued a review of all the ganzfeld studies done up to 1985 to show that 80 per cent had found statistically significant evidence. However, they also agreed that there were still too many problems in the experiments which could lead to positive results, and they drew up a list demanding new standards for future research.",
+    "After this, many researchers switched to autoganzfeld tests – an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images. By minimising human involvement, the idea was to minimise the risk of flawed results. In 1987, results from hundreds of autoganzfeld tests were studied by Honorton in a ‘meta-analysis’, a statistical technique for finding the overall results from a set of studies. Though less compelling than before, the outcome was still impressive.",
+    "Yet some parapsychologists remain disturbed by the lack of consistency between individual ganzfeld studies. Defenders of telepathy point out that demanding impressive evidence from every study ignores one basic statistical fact: it takes large samples to detect small effects. If, as current results suggest, telepathy produces hit-rates only marginally above the 25 per cent expected by chance, it’s unlikely to be detected by a typical ganzfeld study involving around 40 people: the group is just not big enough. Only when many studies are combined in a meta-analysis will the faint signal of telepathy really become apparent. And that is what researchers do seem to be finding.",
+    "What they are certainly not finding, however, is any change in attitude of mainstream scientists: most still totally reject the very idea of telepathy. The problem stems at least in part from the lack of any plausible mechanism for telepathy.",
+    "Various theories have been put forward, many focusing on esoteric ideas from theoretical physics. They include ‘quantum entanglement’, in which events affecting one group of atoms instantly affect another group, no matter how far apart they may be. While physicists have demonstrated entanglement with specially prepared atoms, no-one knows if it also exists between atoms making up human minds. Answering such questions would transform parapsychology. This has prompted some researchers to argue that the future lies not in collecting more evidence for telepathy, but in probing possible mechanisms. Some work has begun already, with researchers trying to identify people who are particularly successful in autoganzfeld trials. Early results show that creative and artistic people do much better than average: in one study at the University of Edinburgh, musicians achieved a hit-rate of 56 per cent. Perhaps more tests like these will eventually give the researchers the evidence they are seeking and strengthen the case for the existence of telepathy."
+  ],
+  "sentences": [
+    "Since the 1970s, parapsychologists at leading universities and research institutes around the world have risked the derision of sceptical colleagues by putting the various claims for telepathy to the test in dozens of rigorous scientific studies.",
+    "The results and their implications are dividing even the researchers who uncovered them.",
+    "Some researchers say the results constitute compelling evidence that telepathy is genuine.",
+    "Other parapsychologists believe the field is on the brink of collapse, having tried to produce definitive scientific proof and failed.",
+    "Sceptics and advocates alike do concur on one issue, however: that the most impressive evidence so far has come from the so-called ‘ganzfeld’ experiments, a German term that means ‘whole field’.",
+    "Reports of telepathic experiences had by people during meditation led parapsychologists to suspect that telepathy might involve ‘signals’ passing between people that were so faint that they were usually swamped by normal brain activity.",
+    "In this case, such signals might be more easily detected by those experiencing meditation-like tranquillity in a relaxing ‘whole field’ of light, sound and warmth.",
+    "The ganzfeld experiment tries to recreate these conditions with participants sitting in soft reclining chairs in a sealed room, listening to relaxing sounds while their eyes are covered with special filters letting in only soft pink light.",
+    "In early ganzfeld experiments, the telepathy test involved identification of a picture chosen from a random selection of four taken from a large image bank.",
+    "The idea was that a person acting as a ‘sender’ would attempt to beam the image over to the ‘receiver’ relaxing in the sealed room.",
+    "Once the session was over, this person was asked to identify which of the four images had been used.",
+    "Random guessing would give a hit-rate of 25 per cent; if telepathy is real, however, the hit-rate would be higher.",
+    "In 1982, the results from the first ganzfeld studies were analysed by one of its pioneers, the American parapsychologist Charles Honorton.",
+    "They pointed to typical hit-rates of better than 30 per cent – a small effect, but one which statistical tests suggested could not be put down to chance.",
+    "The implication was that the ganzfeld method had revealed real evidence for telepathy.",
+    "But there was a crucial flaw in this argument – one routinely overlooked in more conventional areas of science.",
+    "Just because chance had been ruled out as an explanation did not prove telepathy must exist; there were many other ways of getting positive results.",
+    "These ranged from ‘sensory leakage’ – where clues about the pictures accidentally reach the receiver – to outright fraud.",
+    "In response, the researchers issued a review of all the ganzfeld studies done up to 1985 to show that 80 per cent had found statistically significant evidence.",
+    "However, they also agreed that there were still too many problems in the experiments which could lead to positive results, and they drew up a list demanding new standards for future research.",
+    "After this, many researchers switched to autoganzfeld tests – an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images.",
+    "By minimising human involvement, the idea was to minimise the risk of flawed results.",
+    "In 1987, results from hundreds of autoganzfeld tests were studied by Honorton in a ‘meta-analysis’, a statistical technique for finding the overall results from a set of studies.",
+    "Though less compelling than before, the outcome was still impressive.",
+    "Yet some parapsychologists remain disturbed by the lack of consistency between individual ganzfeld studies.",
+    "Defenders of telepathy point out that demanding impressive evidence from every study ignores one basic statistical fact: it takes large samples to detect small effects.",
+    "If, as current results suggest, telepathy produces hit-rates only marginally above the 25 per cent expected by chance, it’s unlikely to be detected by a typical ganzfeld study involving around 40 people: the group is just not big enough.",
+    "Only when many studies are combined in a meta-analysis will the faint signal of telepathy really become apparent.",
+    "And that is what researchers do seem to be finding.",
+    "What they are certainly not finding, however, is any change in attitude of mainstream scientists: most still totally reject the very idea of telepathy.",
+    "The problem stems at least in part from the lack of any plausible mechanism for telepathy.",
+    "Various theories have been put forward, many focusing on esoteric ideas from theoretical physics.",
+    "They include ‘quantum entanglement’, in which events affecting one group of atoms instantly affect another group, no matter how far apart they may be.",
+    "While physicists have demonstrated entanglement with specially prepared atoms, no-one knows if it also exists between atoms making up human minds.",
+    "Answering such questions would transform parapsychology.",
+    "This has prompted some researchers to argue that the future lies not in collecting more evidence for telepathy, but in probing possible mechanisms.",
+    "Some work has begun already, with researchers trying to identify people who are particularly successful in autoganzfeld trials.",
+    "Early results show that creative and artistic people do much better than average: in one study at the University of Edinburgh, musicians achieved a hit-rate of 56 per cent.",
+    "Perhaps more tests like these will eventually give the researchers the evidence they are seeking and strengthen the case for the existence of telepathy."
+  ],
+  "sentenceParagraphMap": [
+    {"paragraph": 1, "physicalPage": 25, "sentences": [1, 2]},
+    {"paragraph": 2, "physicalPage": 25, "sentences": [3, 4, 5, 6, 7]},
+    {"paragraph": 3, "physicalPage": 25, "sentences": [8, 9, 10, 11, 12, 13, 14]},
+    {"paragraph": 4, "physicalPages": [25, 26], "sentences": [15, 16, 17, 18, 19, 20]},
+    {"paragraph": 5, "physicalPage": 26, "sentences": [21, 22, 23, 24]},
+    {"paragraph": 6, "physicalPage": 26, "sentences": [25, 26, 27, 28, 29]},
+    {"paragraph": 7, "physicalPage": 26, "sentences": [30, 31]},
+    {"paragraph": 8, "physicalPage": 26, "sentences": [32, 33, 34, 35, 36, 37, 38, 39]}
+  ],
+  "pageBreaks": [
+    {"fromPhysicalPage": 25, "toPhysicalPage": 26, "position": "within_sentence", "afterSentence": 16, "beforeSentence": 17, "withinSentence": 17, "afterWord": "positive", "beforeWord": "results", "finding": "The sentence beginning ‘Just because chance ...’ starts on physical page 25 and continues on physical page 26; the printed break falls between ‘positive’ and ‘results.’"}
+  ],
+  "typography": [
+    {"feature": "passage lead typography", "physicalPage": 25, "finding": "The lead instruction is italic; ‘Questions 27–40’ is additionally bold italic."},
+    {"feature": "title treatment", "physicalPage": 25, "finding": "‘TELEPATHY’ is bold uppercase inside a decorative black-and-white banner; the banner is typographic decoration, not a semantic image."},
+    {"feature": "standfirst", "physicalPage": 25, "finding": "The two-sentence standfirst is italic; the eight body paragraphs are roman."},
+    {"feature": "quotation marks", "finding": "Curly single quotation marks are preserved around ‘ganzfeld’, ‘whole field’, ‘signals’, ‘sender’, ‘receiver’, ‘sensory leakage’, ‘meta-analysis’ and ‘quantum entanglement’."},
+    {"feature": "dashes and lexical hyphens", "finding": "Spaced en dashes are preserved in explanatory interruptions. Lexical forms preserved include so-called, meditation-like, hit-rate/hit-rates, autoganzfeld, meta-analysis and no-one."},
+    {"feature": "question typography", "physicalPages": [27, 28], "finding": "The range headings and directions are italic as printed; A–G sentence endings are enclosed in a ruled box. Questions 31–40 use a ruled four-column table titled ‘Telepathy Experiments’."},
+    {"feature": "footnotes", "finding": "No footnotes, source notes or author byline belong to the passage or questions."},
+    {"feature": "non-source overlay", "physicalPages": [24, 25, 26, 27, 28, 29, 152], "finding": "Chinese study-copy notices and a club URL are later page overlays/watermarks and are excluded from the calibrated Cambridge content."}
+  ],
+  "questionGroups": [
+    {
+      "range": "27–30",
+      "sourcePages": [27],
+      "type": "matching_sentence_endings",
+      "instructions": ["Complete each sentence with the correct ending, A–G, below.", "Write the correct letter, A–G, in boxes 27–30 on your answer sheet."],
+      "prompts": [
+        {"number": 27, "prompt": "Researchers with differing attitudes towards telepathy agree on"},
+        {"number": 28, "prompt": "Reports of experiences during meditation indicated"},
+        {"number": 29, "prompt": "Attitudes to parapsychology would alter drastically with"},
+        {"number": 30, "prompt": "Recent autoganzfeld trials suggest that success rates will improve with"}
+      ],
+      "options": {
+        "A": "the discovery of a mechanism for telepathy.",
+        "B": "the need to create a suitable environment for telepathy.",
+        "C": "their claims of a high success rate.",
+        "D": "a solution to the problem posed by random guessing.",
+        "E": "the significance of the ganzfeld experiments.",
+        "F": "a more careful selection of subjects.",
+        "G": "a need to keep altering conditions."
+      }
+    },
+    {
+      "range": "31–40",
+      "sourcePages": [28],
+      "type": "table_completion",
+      "instructions": ["Complete the table below.", "Choose NO MORE THAN THREE WORDS from the passage for each answer.", "Write your answers in boxes 31–40 on your answer sheet."],
+      "table": {
+        "title": "Telepathy Experiments",
+        "columns": ["Name/Date", "Description", "Result", "Flaw"],
+        "rows": [
+          {"nameDate": "Ganzfeld studies / 1982", "description": "Involved a person acting as a 31 ______ who picked out one 32 ______ from a random selection of four, and a 33 ______ who then tried to identify it.", "result": "Hit-rates were higher than with random guessing.", "flaw": "Positive results could be produced by factors such as 34 ______ or 35 ______."},
+          {"nameDate": "Autoganzfeld studies / 1987", "description": "36 ______ were used for key tasks to limit the amount of 37 ______ in carrying out the tests.", "result": "The results were then subjected to a 38 ______.", "flaw": "The 39 ______ between different test results was put down to the fact that sample groups were not 40 ______ (as with most ganzfeld studies)."}
+        ]
+      },
+      "prompts": [
+        {"number": 31, "prompt": "a person acting as a ______"},
+        {"number": 32, "prompt": "picked out one ______ from a random selection of four"},
+        {"number": 33, "prompt": "and a ______ who then tried to identify it"},
+        {"number": 34, "prompt": "factors such as ______"},
+        {"number": 35, "prompt": "or ______"},
+        {"number": 36, "prompt": "______ were used for key tasks"},
+        {"number": 37, "prompt": "to limit the amount of ______ in carrying out the tests"},
+        {"number": 38, "prompt": "subjected to a ______"},
+        {"number": 39, "prompt": "The ______ between different test results"},
+        {"number": 40, "prompt": "sample groups were not ______"}
+      ]
+    }
+  ],
+  "answers": {
+    "27": "E", "28": "B", "29": "A", "30": "F", "31": "sender", "32": "picture/image", "33": "receiver",
+    "34": "sensory leakage / (outright) fraud (IN EITHER ORDER with 35)",
+    "35": "sensory leakage / (outright) fraud (IN EITHER ORDER with 34)",
+    "36": "computers", "37": "human involvement", "38": "meta-analysis", "39": "lack of consistency", "40": "big/large enough"
+  },
+  "acceptedForms": {
+    "27": ["E"], "28": ["B"], "29": ["A"], "30": ["F"], "31": ["sender"], "32": ["picture", "image"], "33": ["receiver"],
+    "34": ["sensory leakage", "outright fraud", "fraud"],
+    "35": ["sensory leakage", "outright fraud", "fraud"],
+    "36": ["computers"], "37": ["human involvement"], "38": ["meta-analysis"], "39": ["lack of consistency"], "40": ["big enough", "large enough"]
+  },
+  "officialAnswerSequence": [
+    "E", "B", "A", "F", "sender", "picture/image", "receiver",
+    "sensory leakage OR (outright) fraud (IN EITHER ORDER)",
+    "sensory leakage OR (outright) fraud (IN EITHER ORDER)",
+    "computers", "human involvement", "meta-analysis", "lack of consistency", "big/large enough"
+  ],
+  "answerEvidence": [
+    {
+      "number": 27,
+      "answer": "E",
+      "evidenceType": "continuous",
+      "evidence": "Sceptics and advocates alike do concur on one issue, however: that the most impressive evidence so far has come from the so-called ‘ganzfeld’ experiments",
+      "reason": "Researchers on opposing sides agree about the importance of the ganzfeld evidence, which matches E.",
+      "distractors": [
+        {"label": "A", "option": "the discovery of a mechanism for telepathy.", "reason": "A concerns the later mechanism debate; the passage does not say sceptics and advocates agree that a mechanism has been discovered."},
+        {"label": "B", "option": "the need to create a suitable environment for telepathy.", "reason": "B explains why meditation reports inspired ganzfeld conditions, not the point shared by sceptics and advocates."},
+        {"label": "C", "option": "their claims of a high success rate.", "reason": "C is unsupported: the sides dispute the strength of the results rather than agree on a high success rate."},
+        {"label": "D", "option": "a solution to the problem posed by random guessing.", "reason": "D misstates the passage: random guessing supplies the 25 per cent baseline, not the agreed issue."},
+        {"label": "F", "option": "a more careful selection of subjects.", "reason": "F belongs to recent work identifying unusually successful participants, not the shared view of sceptics and advocates."},
+        {"label": "G", "option": "a need to keep altering conditions.", "reason": "G is never proposed; researchers standardised conditions rather than agreeing that they should continually change them."}
+      ]
+    },
+    {
+      "number": 28,
+      "answer": "B",
+      "evidenceType": "continuous",
+      "evidence": "Reports of telepathic experiences had by people during meditation led parapsychologists to suspect that telepathy might involve ‘signals’ ... more easily detected by those experiencing meditation-like tranquillity in a relaxing ‘whole field’ of light, sound and warmth.",
+      "reason": "The meditation reports suggested that faint signals required a specially calm, low-stimulation environment, matching B.",
+      "distractors": [
+        {"label": "A", "option": "the discovery of a mechanism for telepathy.", "reason": "The reports suggested test conditions, not a physical mechanism."},
+        {"label": "C", "option": "their claims of a high success rate.", "reason": "No success rate is attached to the meditation reports."},
+        {"label": "D", "option": "a solution to the problem posed by random guessing.", "reason": "Random guessing is discussed only after the ganzfeld procedure is described."},
+        {"label": "E", "option": "the significance of the ganzfeld experiments.", "reason": "E is the agreement between sceptics and advocates in Q27; the reports instead motivated the environment used by the experiments."},
+        {"label": "F", "option": "a more careful selection of subjects.", "reason": "Participant selection is a later finding from autoganzfeld trials, not an implication of meditation reports."},
+        {"label": "G", "option": "a need to keep altering conditions.", "reason": "The passage identifies a particular relaxing condition, not continual alteration of conditions."}
+      ]
+    },
+    {
+      "number": 29,
+      "answer": "A",
+      "evidenceType": "continuous",
+      "evidence": "The problem stems at least in part from the lack of any plausible mechanism for telepathy. ... Answering such questions would transform parapsychology.",
+      "reason": "Finding a plausible mechanism would transform the field and therefore drastically alter attitudes, matching A.",
+      "distractors": [
+        {"label": "B", "option": "the need to create a suitable environment for telepathy.", "reason": "The suitable environment explains ganzfeld test design but is not said to transform attitudes to the field."},
+        {"label": "C", "option": "their claims of a high success rate.", "reason": "Claims of success already exist and have not changed mainstream rejection."},
+        {"label": "D", "option": "a solution to the problem posed by random guessing.", "reason": "Statistical comparison with random guessing already exists; the stated obstacle is the lack of a plausible mechanism."},
+        {"label": "E", "option": "the significance of the ganzfeld experiments.", "reason": "The significance of ganzfeld is already recognised by both camps and is not what would transform parapsychology."},
+        {"label": "F", "option": "a more careful selection of subjects.", "reason": "Better subject selection may improve results but the passage explicitly links transformation to answering mechanism questions."},
+        {"label": "G", "option": "a need to keep altering conditions.", "reason": "No such need is stated or linked to changing attitudes."}
+      ]
+    },
+    {
+      "number": 30,
+      "answer": "F",
+      "evidenceType": "continuous",
+      "evidence": "Some work has begun already, with researchers trying to identify people who are particularly successful in autoganzfeld trials. Early results show that creative and artistic people do much better than average",
+      "reason": "Recent trials indicate that choosing participants with traits associated with higher hit-rates can improve success, matching F.",
+      "distractors": [
+        {"label": "A", "option": "the discovery of a mechanism for telepathy.", "reason": "A is a hoped-for theoretical breakthrough, not what recent trial results say will improve hit-rates."},
+        {"label": "B", "option": "the need to create a suitable environment for telepathy.", "reason": "The ganzfeld environment predates the recent autoganzfeld participant findings."},
+        {"label": "C", "option": "their claims of a high success rate.", "reason": "C is circular and does not identify the factor that improves success."},
+        {"label": "D", "option": "a solution to the problem posed by random guessing.", "reason": "The result concerns above-average groups, not changing the random-guessing baseline."},
+        {"label": "E", "option": "the significance of the ganzfeld experiments.", "reason": "E concerns the experiments’ evidential status, not the means of improving recent success rates."},
+        {"label": "G", "option": "a need to keep altering conditions.", "reason": "The passage points to participant characteristics, not repeated changes in experimental conditions."}
+      ]
+    },
+    {
+      "number": 31, "answer": "sender", "evidenceType": "continuous",
+      "evidence": "a person acting as a ‘sender’ would attempt to beam the image over to the ‘receiver’",
+      "reason": "The person who chooses and transmits the target image is explicitly called the sender.",
+      "distractors": [{"label": "receiver", "reason": "The receiver is the other participant who later identifies the image, so it cannot fill the first role."}]
+    },
+    {
+      "number": 32, "answer": "picture/image", "evidenceType": "continuous",
+      "evidence": "identification of a picture chosen from a random selection of four taken from a large image bank",
+      "reason": "The selected target is called a picture and subsequently an image; the official key accepts either word.",
+      "distractors": [
+        {"label": "image bank", "reason": "The bank is the larger source collection; the person selects one picture/image, not one bank."},
+        {"label": "four images", "reason": "The grammar requires the single item picked from the four, and this form does not name that single target."}
+      ]
+    },
+    {
+      "number": 33, "answer": "receiver", "evidenceType": "continuous",
+      "evidence": "the ‘receiver’ relaxing in the sealed room. Once the session was over, this person was asked to identify which of the four images had been used.",
+      "reason": "The participant who tries to identify the transmitted image is the receiver.",
+      "distractors": [{"label": "sender", "reason": "The sender selects and transmits the image; the receiver identifies it."}]
+    },
+    {
+      "number": 34, "answer": "sensory leakage (paired with 35: (outright) fraud; either order)", "evidenceType": "continuous",
+      "evidence": "These ranged from ‘sensory leakage’ – where clues about the pictures accidentally reach the receiver – to outright fraud.",
+      "reason": "The passage names sensory leakage and outright fraud as two non-telepathic causes of positive results; the key allows the pair in either order and makes outright optional.",
+      "distractors": [
+        {"label": "chance", "reason": "The preceding sentence says chance had been ruled out; the flaw was that other explanations remained."},
+        {"label": "random guessing", "reason": "Random guessing is the statistical baseline, not one of the two flaws named in this sentence."}
+      ]
+    },
+    {
+      "number": 35, "answer": "(outright) fraud (paired with 34: sensory leakage; either order)", "evidenceType": "continuous",
+      "evidence": "These ranged from ‘sensory leakage’ – where clues about the pictures accidentally reach the receiver – to outright fraud.",
+      "reason": "Outright fraud is the second named source of false positive results; the official key makes outright optional, and this answer may exchange places with sensory leakage across 34 and 35.",
+      "distractors": [
+        {"label": "chance", "reason": "Chance was excluded statistically and is not one of the two remaining flaws requested."},
+        {"label": "positive results", "reason": "This is the outcome being explained, not a causal flaw."}
+      ]
+    },
+    {
+      "number": 36, "answer": "computers", "evidenceType": "continuous",
+      "evidence": "an automated variant of the technique which used computers to perform many of the key tasks",
+      "reason": "Computers performed the key tasks in autoganzfeld tests.",
+      "distractors": [
+        {"label": "automated variant", "reason": "This names the form of the technique, not the plural agent used to perform key tasks."},
+        {"label": "random selection", "reason": "Random selection is one task performed by computers, not what was used for the tasks."}
+      ]
+    },
+    {
+      "number": 37, "answer": "human involvement", "evidenceType": "continuous",
+      "evidence": "By minimising human involvement, the idea was to minimise the risk of flawed results.",
+      "reason": "Automation limits human involvement in carrying out the tests.",
+      "distractors": [
+        {"label": "flawed results", "reason": "Flawed results are the risk being reduced, while the table asks what amount was limited during test operation."},
+        {"label": "key tasks", "reason": "Key tasks were transferred to computers; they are not the human factor being limited."}
+      ]
+    },
+    {
+      "number": 38, "answer": "meta-analysis", "evidenceType": "continuous",
+      "evidence": "results from hundreds of autoganzfeld tests were studied by Honorton in a ‘meta-analysis’",
+      "reason": "The combined test results were subjected to a meta-analysis.",
+      "distractors": [
+        {"label": "statistical technique", "reason": "This explains what a meta-analysis is, but the table requires the named procedure after the article ‘a’."},
+        {"label": "set of studies", "reason": "The studies are the data combined by the analysis, not the analysis itself."}
+      ]
+    },
+    {
+      "number": 39, "answer": "lack of consistency", "evidenceType": "continuous",
+      "evidence": "the lack of consistency between individual ganzfeld studies",
+      "reason": "This phrase exactly describes the variation between different test results.",
+      "distractors": [
+        {"label": "small effects", "reason": "Small effects explain why consistency is difficult to obtain, but do not name the difference between results."},
+        {"label": "flawed results", "reason": "The passage does not attribute the between-study variation here to flaws; it explains it through sample size and small effects."}
+      ]
+    },
+    {
+      "number": 40, "answer": "big/large enough", "evidenceType": "continuous",
+      "evidence": "it takes large samples to detect small effects ... a typical ganzfeld study involving around 40 people: the group is just not big enough.",
+      "reason": "The sample groups were too small; the official key accepts big enough or large enough after the table’s printed ‘not’.",
+      "distractors": [
+        {"label": "large samples", "reason": "The table reads ‘were not ______’, so inserting ‘large samples’ is ungrammatical and does not reproduce the predicate describing the groups."},
+        {"label": "around 40 people", "reason": "This gives the typical group size but does not complete the adjective phrase after ‘not’."}
+      ]
+    }
+  ],
+  "rawPages": {
+    "25": "Test 1\n\nREADING PASSAGE 3\n\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 below.\n\nTELEPATHY\n\nCan human beings communicate by thought alone? For more than a century the issue of telepathy has divided the scientific community, and even today it still sparks bitter controversy among top academics.\n\nSince the 1970s, parapsychologists at leading universities and research institutes around the world have risked the derision of sceptical colleagues by putting the various claims for telepathy to the test in dozens of rigorous scientific studies. The results and their implications are dividing even the researchers who uncovered them.\n\nSome researchers say the results constitute compelling evidence that telepathy is genuine. Other parapsychologists believe the field is on the brink of collapse, having tried to produce definitive scientific proof and failed. Sceptics and advocates alike do concur on one issue, however: that the most impressive evidence so far has come from the so-called ‘ganzfeld’ experiments, a German term that means ‘whole field’. Reports of telepathic experiences had by people during meditation led parapsychologists to suspect that telepathy might involve ‘signals’ passing between people that were so faint that they were usually swamped by normal brain activity. In this case, such signals might be more easily detected by those experiencing meditation-like tranquillity in a relaxing ‘whole field’ of light, sound and warmth.\n\nThe ganzfeld experiment tries to recreate these conditions with participants sitting in soft reclining chairs in a sealed room, listening to relaxing sounds while their eyes are covered with special filters letting in only soft pink light. In early ganzfeld experiments, the telepathy test involved identification of a picture chosen from a random selection of four taken from a large image bank. The idea was that a person acting as a ‘sender’ would attempt to beam the image over to the ‘receiver’ relaxing in the sealed room. Once the session was over, this person was asked to identify which of the four images had been used. Random guessing would give a hit-rate of 25 per cent; if telepathy is real, however, the hit-rate would be higher. In 1982, the results from the first ganzfeld studies were analysed by one of its pioneers, the American parapsychologist Charles Honorton. They pointed to typical hit-rates of better than 30 per cent – a small effect, but one which statistical tests suggested could not be put down to chance.\n\nThe implication was that the ganzfeld method had revealed real evidence for telepathy. But there was a crucial flaw in this argument – one routinely overlooked in more conventional areas of science. Just because chance had been ruled out as an explanation did not prove telepathy must exist; there were many other ways of getting positive",
+    "26": "results. These ranged from ‘sensory leakage’ – where clues about the pictures accidentally reach the receiver – to outright fraud. In response, the researchers issued a review of all the ganzfeld studies done up to 1985 to show that 80 per cent had found statistically significant evidence. However, they also agreed that there were still too many problems in the experiments which could lead to positive results, and they drew up a list demanding new standards for future research.\n\nAfter this, many researchers switched to autoganzfeld tests – an automated variant of the technique which used computers to perform many of the key tasks such as the random selection of images. By minimising human involvement, the idea was to minimise the risk of flawed results. In 1987, results from hundreds of autoganzfeld tests were studied by Honorton in a ‘meta-analysis’, a statistical technique for finding the overall results from a set of studies. Though less compelling than before, the outcome was still impressive.\n\nYet some parapsychologists remain disturbed by the lack of consistency between individual ganzfeld studies. Defenders of telepathy point out that demanding impressive evidence from every study ignores one basic statistical fact: it takes large samples to detect small effects. If, as current results suggest, telepathy produces hit-rates only marginally above the 25 per cent expected by chance, it’s unlikely to be detected by a typical ganzfeld study involving around 40 people: the group is just not big enough. Only when many studies are combined in a meta-analysis will the faint signal of telepathy really become apparent. And that is what researchers do seem to be finding.\n\nWhat they are certainly not finding, however, is any change in attitude of mainstream scientists: most still totally reject the very idea of telepathy. The problem stems at least in part from the lack of any plausible mechanism for telepathy.\n\nVarious theories have been put forward, many focusing on esoteric ideas from theoretical physics. They include ‘quantum entanglement’, in which events affecting one group of atoms instantly affect another group, no matter how far apart they may be. While physicists have demonstrated entanglement with specially prepared atoms, no-one knows if it also exists between atoms making up human minds. Answering such questions would transform parapsychology. This has prompted some researchers to argue that the future lies not in collecting more evidence for telepathy, but in probing possible mechanisms. Some work has begun already, with researchers trying to identify people who are particularly successful in autoganzfeld trials. Early results show that creative and artistic people do much better than average: in one study at the University of Edinburgh, musicians achieved a hit-rate of 56 per cent. Perhaps more tests like these will eventually give the researchers the evidence they are seeking and strengthen the case for the existence of telepathy.",
+    "27": "Test 1\n\nQuestions 27–30\n\nComplete each sentence with the correct ending, A–G, below.\n\nWrite the correct letter, A–G, in boxes 27–30 on your answer sheet.\n\n27 Researchers with differing attitudes towards telepathy agree on\n28 Reports of experiences during meditation indicated\n29 Attitudes to parapsychology would alter drastically with\n30 Recent autoganzfeld trials suggest that success rates will improve with\n\nA the discovery of a mechanism for telepathy.\nB the need to create a suitable environment for telepathy.\nC their claims of a high success rate.\nD a solution to the problem posed by random guessing.\nE the significance of the ganzfeld experiments.\nF a more careful selection of subjects.\nG a need to keep altering conditions.",
+    "28": "Questions 31–40\n\nComplete the table below.\n\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\n\nWrite your answers in boxes 31–40 on your answer sheet.\n\nTelepathy Experiments\n\nName/Date | Description | Result | Flaw\nGanzfeld studies / 1982 | Involved a person acting as a 31 ______ who picked out one 32 ______ from a random selection of four, and a 33 ______ who then tried to identify it. | Hit-rates were higher than with random guessing. | Positive results could be produced by factors such as 34 ______ or 35 ______.\nAutoganzfeld studies / 1987 | 36 ______ were used for key tasks to limit the amount of 37 ______ in carrying out the tests. | The results were then subjected to a 38 ______. | The 39 ______ between different test results was put down to the fact that sample groups were not 40 ______ (as with most ganzfeld studies).",
+    "152": "Listening and Reading Answer Keys\n\nACADEMIC READING\n\nReading Passage 3, Questions 27–40\n27 E\n28 B\n29 A\n30 F\n31 sender\n32 picture/image\n33 receiver\n34/35 IN EITHER ORDER\n    sensory leakage (or)\n    (outright) fraud\n36 computers\n37 human involvement\n38 meta-analysis\n39 lack of consistency\n40 big/large enough"
+  },
+  "sourceAudit": {
+    "authority": "data/Cambridge-IELTS-08.pdf",
+    "originalOnlyReview": "All wording, layout, punctuation, typography, physical-page boundaries, question content and official answers were independently checked from fresh renders of the original PDF only. The PDF’s own extractable text was unusable; no OCR or downstream source supplied content.",
+    "blindAuditResult": "Passage 3 occupies physical pages 25–28, bounded by Passage 2 questions on page 24 and Writing Task 1 on page 29. The official Test 1 Academic Reading answers were directly verified on physical page 152 (printed 153)."
+  },
+  "semanticImageDecision": {
+    "required": false,
+    "count": 0,
+    "finding": "No photograph, diagram, chart, map or labelled illustration is needed to understand the passage or answer Questions 27–40. The TELEPATHY title banner is decorative typography. The Q31–40 ruled table is fully representable as structured text and has been reconstructed rather than cropped.",
+    "tightCropPlan": []
+  },
+  "images": [],
+  "selfCheck": {
+    "jsonParse": true,
+    "sourcePageCount": 4,
+    "bodyParagraphCount": 8,
+    "standfirstSentenceCount": 2,
+    "sentenceCount": 39,
+    "sentenceReconstruction": "Each of the eight body paragraphs is exactly reconstructable by joining its mapped sentence slice with one space; sentence 17 crosses the physical-page boundary between ‘positive’ and ‘results.’",
+    "questionCount": 14,
+    "questionNumbers": "27–40 contiguous",
+    "officialAnswerCount": 14,
+    "officialAnswerSequenceVerified": true,
+    "matchingSentenceEndingWrongOptionsCovered": 24,
+    "tableCompletionAlternativeJudgmentsCovered": 18,
+    "totalDistractorCount": 42,
+    "explicitWrongOptionsAllCovered": true,
+    "answerKeyVerifiedAsTest1AcademicReading": true,
+    "semanticImagesRequired": false,
+    "independentVisualReviewAgainstAuthoritativePdf": true,
+    "blindAuditMetadataClean": true,
+    "authoritativePdfPhysicalPages": [25, 26, 27, 28, 152],
+    "boundaryPhysicalPages": [24, 29]
+  }
+}

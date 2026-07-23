@@ -1,0 +1,442 @@
+{
+  "book": 6,
+  "test": 4,
+  "passage": 2,
+  "title": "Do literate women make better mothers?",
+  "pdf": "data/Cambridge-IELTS-06.pdf",
+  "calibrationMethod": "independent_manual_visual_blind_review",
+  "reviewedPhysicalPages": [90, 91, 92, 93, 94, 159],
+  "sourcePages": [90, 91, 92, 93],
+  "boundaryPage": 94,
+  "answerKeyPage": {
+    "printedPage": 158,
+    "physicalPage": 159,
+    "verifiedSection": "ACADEMIC READING — Reading Passage 2, Questions 14–26",
+    "note": "The authoritative Test 4 Academic Reading answer key is on PDF physical page 159 (printed page 158)."
+  },
+  "pages": {
+    "90": "READING PASSAGE 2\n\nYou should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below.\n\nDo literate women make better mothers?\n\nChildren in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman's ability to read in itself improves her children's chances of survival.\n\nMost literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival.\n\nIn 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers.\n\nDuring this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were.\n\nThe investigators' findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand.",
+    "91": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read.\n\nWhy are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women's lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children.\n\nThe Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is 'an important health intervention in its own right'. The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health.\n\n'We've known for a long time that maternal education is important,' says John Cleland of the London School of Hygiene and Tropical Medicine. 'But we thought that even if we started educating girls today, we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.'\n\nCleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful. 'The crusade was part of a larger effort to bring a better life to the people,' says Cleland. Replicating these conditions in other countries will be a major challenge for development workers.",
+    "92": "Questions 14–18\n\nComplete the summary using the list of words, A–J, below.\n\nWrite the correct letter, A–J, in boxes 14–18 on your answer sheet.\n\nNB    You may use any letter more than once.\n\nThe Nicaraguan National Literacy Crusade aimed to teach large numbers of illiterate 14 .................... to read and write. Public health experts have known for many years that there is a connection between child health and 15 .................... . However, it has not previously been known whether these two factors were directly linked or not. This question has been investigated by 16 .................... in Nicaragua. As a result, factors such as 17 .................... and attitudes to children have been eliminated, and it has been shown that 18 .................... can in itself improve infant health and survival.\n\nA    child literacy\nB    men and women\nC    an international research team\nD    medical care\nE    mortality\nF    maternal literacy\nG    adults and children\nH    paternal literacy\nI    a National Literacy Crusade\nJ    family wealth",
+    "93": "Questions 19–24\n\nDo the following statements agree with the claims of the writer in Reading Passage 2?\n\nIn boxes 19–24 on your answer sheet, write\n\nYES          if the statement agrees with the claims of the writer\nNO           if the statement contradicts the claims of the writer\nNOT GIVEN    if it is impossible to say what the writer thinks about this\n\n19    About a thousand of the women interviewed by the researchers had learnt to read when they were children.\n20    Before the National Literacy Crusade, illiterate women had approximately the same levels of infant mortality as those who had learnt to read in primary school.\n21    Before and after the National Literacy Crusade, the child mortality rate for the illiterate women stayed at about 110 deaths for each thousand live births.\n22    The women who had learnt to read through the National Literacy Crusade showed the greatest change in infant mortality levels.\n23    The women who had learnt to read through the National Literacy Crusade had the lowest rates of child mortality.\n24    After the National Literacy Crusade, the children of the women who remained illiterate were found to be severely malnourished.\n\nQuestions 25 and 26\n\nChoose TWO letters, A–E.\n\nWrite the correct letters in boxes 25 and 26 on your answer sheet.\n\nWhich TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?\n\nA    It is better to educate mature women than young girls.\nB    Similar campaigns in other countries would be equally successful.\nC    The effects of maternal literacy programmes can be seen very quickly.\nD    Improving child health can quickly affect a country's economy.\nE    Money spent on female education will improve child health.",
+    "94": "READING PASSAGE 3\n\nYou should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.\n\nQuestions 27–30\n\nReading Passage 3 has six sections, A–F.\n\nChoose the correct heading for sections A–D from the list of headings below.\n\nWrite the correct number, i–vii, in boxes 27–30 on your answer sheet.\n\nList of Headings\n\ni      The role of video violence\nii     The failure of government policy\niii    Reasons for the increased rate of bullying\niv     Research into how common bullying is in British schools\nv      The reaction from schools to enquiries about bullying\nvi     The effect of bullying on the children involved\nvii    Developments that have led to a new approach by schools\n\n27    Section A\n28    Section B\n29    Section C\n30    Section D",
+    "159": "ACADEMIC READING\n\nReading Passage 1, Questions 1–13\n\n1    v\n2    vi\n3    iii\n4    ix\n5    i\n6    vii\n7    x\n8    NO\n9    YES\n10   NO\n11   YES\n12   NOT GIVEN\n13   YES\n\nReading Passage 2, Questions 14–26\n\n14   B\n15   F\n16   C\n17   J\n18   F\n19   NOT GIVEN\n20   NO\n21   YES\n22   YES\n23   NO\n24   NOT GIVEN\n25&26 IN EITHER ORDER\n     C\n     E\n\nReading Passage 3, Questions 27–40\n\n27   iv\n28   vi\n29   v\n30   vii\n31   B\n32   D\n33   D\n34   A\n35   policy\n36   (explicit) guidelines\n37   (school) curriculum\n38   victims\n39   playful fighting\n40   D\n\nIf you score ...\n\n0–12\n\nyou are unlikely to get an acceptable score under examination conditions and we recommend that you spend a lot of time improving your English before you take IELTS.\n\n13–29\n\nyou may get an acceptable score under examination conditions but we recommend that you think about having more practice or lessons before you take IELTS.\n\n30–40\n\nyou are likely to get an acceptable score under examination conditions but remember that different institutions will find different scores acceptable."
+  },
+  "bodyParagraphs": [
+    {
+      "sourcePage": 90,
+      "text": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write. Experts in public health accepted this idea decades ago, but until now no one has been able to show that a woman's ability to read in itself improves her children's chances of survival."
+    },
+    {
+      "sourcePage": 90,
+      "text": "Most literate women learnt to read in primary school, and the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors by showing that teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival."
+    },
+    {
+      "sourcePage": 90,
+      "text": "In 1979, the government of Nicaragua established a number of social programmes, including a National Literacy Crusade. By 1985, about 300,000 illiterate adults from all over the country, many of whom had never attended primary school, had learnt how to read, write and use numbers."
+    },
+    {
+      "sourcePage": 90,
+      "text": "During this period, researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all. The women were asked how many children they had given birth to and how many of them had died in infancy. The research teams also examined the surviving children to find out how well-nourished they were."
+    },
+    {
+      "sourcePage": 90,
+      "text": "The investigators' findings were striking. In the late 1970s, the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births. At this point in their lives, those mothers who later went on to learn to read had a similar level of child mortality (105/1000). For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand."
+    },
+    {
+      "sourcePage": 91,
+      "text": "In 1985, after the National Literacy Crusade had ended, the infant mortality figures for those who remained illiterate and for those educated in primary school remained more or less unchanged. For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand, an impressive 21 points lower than for those women who were still illiterate. The children of the newly-literate mothers were also better nourished than those of women who could not read."
+    },
+    {
+      "sourcePage": 91,
+      "text": "Why are the children of literate mothers better off? According to Peter Sandiford of the Liverpool School of Tropical Medicine, no one knows for certain. Child health was not on the curriculum during the women's lessons, so he and his colleagues are looking at other factors. They are working with the same group of 3,000 women, to try to find out whether reading mothers make better use of hospitals and clinics, opt for smaller families, exert more control at home, learn modern childcare techniques more quickly, or whether they merely have more respect for themselves and their children."
+    },
+    {
+      "sourcePage": 91,
+      "text": "The Nicaraguan study may have important implications for governments and aid agencies that need to know where to direct their resources. Sandiford says that there is increasing evidence that female education, at any age, is 'an important health intervention in its own right'. The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health."
+    },
+    {
+      "sourcePage": 91,
+      "text": "'We've known for a long time that maternal education is important,' says John Cleland of the London School of Hygiene and Tropical Medicine. 'But we thought that even if we started educating girls today, we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that.'"
+    },
+    {
+      "sourcePage": 91,
+      "text": "Cleland warns that the Nicaraguan crusade was special in many ways, and similar campaigns elsewhere might not work as well. It is notoriously difficult to teach adults skills that do not have an immediate impact on their everyday lives, and many literacy campaigns in other countries have been much less successful. 'The crusade was part of a larger effort to bring a better life to the people,' says Cleland. Replicating these conditions in other countries will be a major challenge for development workers."
+    }
+  ],
+  "questionGroups": [
+    {
+      "range": "14-18",
+      "sourcePage": 92,
+      "type": "summary_completion_with_list",
+      "instructions": [
+        "Complete the summary using the list of words, A–J, below.",
+        "Write the correct letter, A–J, in boxes 14–18 on your answer sheet.",
+        "NB    You may use any letter more than once."
+      ],
+      "summary": "The Nicaraguan National Literacy Crusade aimed to teach large numbers of illiterate 14 .................... to read and write. Public health experts have known for many years that there is a connection between child health and 15 .................... . However, it has not previously been known whether these two factors were directly linked or not. This question has been investigated by 16 .................... in Nicaragua. As a result, factors such as 17 .................... and attitudes to children have been eliminated, and it has been shown that 18 .................... can in itself improve infant health and survival.",
+      "prompts": [
+        { "number": 14, "text": "large numbers of illiterate 14 .................... to read and write" },
+        { "number": 15, "text": "a connection between child health and 15 ...................." },
+        { "number": 16, "text": "This question has been investigated by 16 .................... in Nicaragua." },
+        { "number": 17, "text": "factors such as 17 .................... and attitudes to children have been eliminated" },
+        { "number": 18, "text": "18 .................... can in itself improve infant health and survival" }
+      ],
+      "options": [
+        { "label": "A", "text": "child literacy" },
+        { "label": "B", "text": "men and women" },
+        { "label": "C", "text": "an international research team" },
+        { "label": "D", "text": "medical care" },
+        { "label": "E", "text": "mortality" },
+        { "label": "F", "text": "maternal literacy" },
+        { "label": "G", "text": "adults and children" },
+        { "label": "H", "text": "paternal literacy" },
+        { "label": "I", "text": "a National Literacy Crusade" },
+        { "label": "J", "text": "family wealth" }
+      ]
+    },
+    {
+      "range": "19-24",
+      "sourcePage": 93,
+      "type": "yes_no_not_given",
+      "instructions": [
+        "Do the following statements agree with the claims of the writer in Reading Passage 2?",
+        "In boxes 19–24 on your answer sheet, write"
+      ],
+      "options": [
+        { "label": "YES", "text": "if the statement agrees with the claims of the writer" },
+        { "label": "NO", "text": "if the statement contradicts the claims of the writer" },
+        { "label": "NOT GIVEN", "text": "if it is impossible to say what the writer thinks about this" }
+      ],
+      "prompts": [
+        { "number": 19, "text": "About a thousand of the women interviewed by the researchers had learnt to read when they were children." },
+        { "number": 20, "text": "Before the National Literacy Crusade, illiterate women had approximately the same levels of infant mortality as those who had learnt to read in primary school." },
+        { "number": 21, "text": "Before and after the National Literacy Crusade, the child mortality rate for the illiterate women stayed at about 110 deaths for each thousand live births." },
+        { "number": 22, "text": "The women who had learnt to read through the National Literacy Crusade showed the greatest change in infant mortality levels." },
+        { "number": 23, "text": "The women who had learnt to read through the National Literacy Crusade had the lowest rates of child mortality." },
+        { "number": 24, "text": "After the National Literacy Crusade, the children of the women who remained illiterate were found to be severely malnourished." }
+      ]
+    },
+    {
+      "range": "25-26",
+      "sourcePage": 93,
+      "type": "multiple_response",
+      "instructions": [
+        "Choose TWO letters, A–E.",
+        "Write the correct letters in boxes 25 and 26 on your answer sheet."
+      ],
+      "prompt": "Which TWO important implications drawn from the Nicaraguan study are mentioned by the writer of the passage?",
+      "options": [
+        { "label": "A", "text": "It is better to educate mature women than young girls." },
+        { "label": "B", "text": "Similar campaigns in other countries would be equally successful." },
+        { "label": "C", "text": "The effects of maternal literacy programmes can be seen very quickly." },
+        { "label": "D", "text": "Improving child health can quickly affect a country's economy." },
+        { "label": "E", "text": "Money spent on female education will improve child health." }
+      ]
+    }
+  ],
+  "answers": {
+    "14": {
+      "answer": "B",
+      "answerText": "men and women",
+      "evidence": { "sourcePage": 90, "text": "By 1985, about 300,000 illiterate adults from all over the country ... had learnt how to read, write and use numbers." },
+      "reason": "The crusade taught illiterate adults nationally; option B is the only list item that denotes the adult male and female population without adding children.",
+      "distractors": {
+        "A": "Child literacy is a type of literacy, not a group of illiterate people taught by the crusade.",
+        "C": "The international research team investigated the effects; it was not the population taught.",
+        "D": "Medical care is neither a group of people nor the object population of the crusade.",
+        "E": "Mortality is an outcome measure, not a group of learners.",
+        "F": "Maternal literacy is the explanatory factor studied, not the full population taught by the national campaign.",
+        "G": "The passage says illiterate adults; it does not say the crusade taught children.",
+        "H": "Paternal literacy is a type of literacy, not a group of learners.",
+        "I": "A National Literacy Crusade is the programme itself, not the people it taught.",
+        "J": "Family wealth is a possible confounding factor, not a group of learners."
+      }
+    },
+    "15": {
+      "answer": "F",
+      "answerText": "maternal literacy",
+      "evidence": { "sourcePage": 90, "text": "Children in developing countries are healthier and more likely to survive past the age of five when their mothers can read and write." },
+      "reason": "The known connection is between child health and mothers' ability to read and write, i.e. maternal literacy.",
+      "distractors": {
+        "A": "The passage discusses mothers' literacy, not children's literacy.",
+        "B": "Men and women names a population and does not complete the causal connection.",
+        "C": "The research team investigated the question; it is not the factor connected with child health.",
+        "D": "Medical care is explored as one possible mechanism, not the long-known correlation stated here.",
+        "E": "Mortality is one measure of child health, not the maternal factor connected with it.",
+        "G": "Adults and children names people, not the relevant literacy variable.",
+        "H": "The passage gives no connection between paternal literacy and child health.",
+        "I": "The crusade supplied the natural experiment; it is not the long-known health factor.",
+        "J": "Family wealth is a confounder that the study sought to eliminate, not the target connection."
+      }
+    },
+    "16": {
+      "answer": "C",
+      "answerText": "an international research team",
+      "evidence": { "sourcePage": 90, "text": "researchers from the Liverpool School of Tropical Medicine, the Central American Institute of Health in Nicaragua, the National Autonomous University of Nicaragua and the Costa Rican Institute of Health interviewed nearly 3,000 women" },
+      "reason": "Researchers from institutions in Britain, Nicaragua and Costa Rica jointly investigated the question, so they form an international research team.",
+      "distractors": {
+        "A": "Child literacy is a topic, not an investigating agent.",
+        "B": "Men and women were participants in the literacy campaign, not the named investigators.",
+        "D": "Medical care is a possible explanatory mechanism, not an investigator.",
+        "E": "Mortality is measured by the study and cannot perform an investigation.",
+        "F": "Maternal literacy is the variable being investigated, not the agent.",
+        "G": "Adults and children are population groups, not the named investigators.",
+        "H": "Paternal literacy is neither the investigator nor a focus of this study.",
+        "I": "The National Literacy Crusade created the study conditions but did not itself conduct the research described.",
+        "J": "Family wealth is a factor controlled for, not an investigating body."
+      }
+    },
+    "17": {
+      "answer": "J",
+      "answerText": "family wealth",
+      "evidence": { "sourcePage": 90, "text": "the fact that a woman has had an education may simply indicate her family's wealth or that it values its children more highly. Now a long-term study carried out in Nicaragua has eliminated these factors" },
+      "reason": "The summary pairs the blank with 'attitudes to children'; the original names the two confounders as family wealth and how highly the family values its children.",
+      "distractors": {
+        "A": "Child literacy is not one of the confounders named and eliminated.",
+        "B": "Men and women are people taught, not an eliminated explanatory factor.",
+        "C": "The research team performs the investigation; it is not eliminated from it.",
+        "D": "Medical care is considered later as a possible mechanism and is not the factor paired with attitudes here.",
+        "E": "Mortality is the measured outcome, not a confounder eliminated by the study design.",
+        "F": "Maternal literacy is the variable whose independent effect the study is trying to establish, not eliminate.",
+        "G": "Adults and children are participant groups, not a confounding factor.",
+        "H": "Paternal literacy is not mentioned as an eliminated factor.",
+        "I": "The crusade enables comparison and is not eliminated."
+      }
+    },
+    "18": {
+      "answer": "F",
+      "answerText": "maternal literacy",
+      "evidence": { "sourcePage": 90, "text": "teaching reading to poor adult women, who would otherwise have remained illiterate, has a direct effect on their children's health and survival" },
+      "reason": "After confounders are removed, the study shows that mothers' literacy itself can improve infant health and survival.",
+      "distractors": {
+        "A": "The study did not test whether children's own literacy improves infant survival.",
+        "B": "Men and women is a population description and cannot denote the causal factor.",
+        "C": "A research team can demonstrate an effect but is not the factor that improves infant health.",
+        "D": "Medical care is only one possible pathway being investigated and is not the demonstrated intervention in this sentence.",
+        "E": "Mortality is an outcome and does not improve health or survival.",
+        "G": "Adults and children is a population description, not the causal variable.",
+        "H": "Paternal literacy is not studied or shown to have this effect.",
+        "I": "The crusade was the delivery mechanism; the conclusion isolates literacy acquired by mothers rather than the campaign label itself.",
+        "J": "Family wealth was eliminated as a confounder rather than shown to be the independent intervention."
+      }
+    },
+    "19": {
+      "answer": "NOT GIVEN",
+      "evidence": { "sourcePage": 90, "text": "interviewed nearly 3,000 women, some of whom had learnt to read as children, some during the literacy crusade and some who had never learnt at all" },
+      "reason": "The total sample and three categories are given, but the number in the childhood-literacy category is not stated.",
+      "distractors": {
+        "YES": "'Some' does not establish that the subgroup numbered about one thousand.",
+        "NO": "The passage does not give a different number for that subgroup, so the claim is not contradicted either."
+      }
+    },
+    "20": {
+      "answer": "NO",
+      "evidence": { "sourcePage": 90, "text": "the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births ... For women educated in primary school, however, the infant mortality rate was significantly lower, at 80 per thousand." },
+      "reason": "The passage explicitly contrasts about 110 per thousand with a significantly lower 80 per thousand, so the levels were not approximately the same.",
+      "distractors": {
+        "YES": "The figures and the word 'significantly' directly oppose the statement.",
+        "NOT GIVEN": "Both comparison figures are explicitly supplied."
+      }
+    },
+    "21": {
+      "answer": "YES",
+      "evidence": { "sourcePages": [90, 91], "text": "the infant mortality rate for the children of illiterate mothers was around 110 deaths per thousand live births ... [in 1985] the infant mortality figures for those who remained illiterate ... remained more or less unchanged" },
+      "reason": "The pre-crusade rate was about 110 and the later figure for women who stayed illiterate was described as more or less unchanged.",
+      "distractors": {
+        "NO": "No later rise or fall for the still-illiterate group is reported; the passage says unchanged.",
+        "NOT GIVEN": "The before figure and the after-change description are both stated."
+      }
+    },
+    "22": {
+      "answer": "YES",
+      "evidence": { "sourcePages": [90, 91], "text": "those mothers who later went on to learn to read had ... child mortality (105/1000) ... [later] 84 per thousand, an impressive 21 points lower ... [the other groups] remained more or less unchanged" },
+      "reason": "The campaign group fell by 21 points while the illiterate and primary-school groups remained broadly unchanged, making this the greatest change.",
+      "distractors": {
+        "NO": "The comparison across all three groups confirms rather than contradicts the greatest change.",
+        "NOT GIVEN": "The before and after figures and the unchanged comparison groups are supplied."
+      }
+    },
+    "23": {
+      "answer": "NO",
+      "evidence": { "sourcePages": [90, 91], "text": "For women educated in primary school ... 80 per thousand ... For those women who learnt to read through the campaign, the infant mortality rate was 84 per thousand" },
+      "reason": "The campaign group's 84 per thousand was higher, not lower, than the primary-school group's unchanged rate of about 80.",
+      "distractors": {
+        "YES": "A large improvement does not make 84 the lowest rate when another group is at 80.",
+        "NOT GIVEN": "The necessary rates for both groups are explicitly available."
+      }
+    },
+    "24": {
+      "answer": "NOT GIVEN",
+      "evidence": { "sourcePage": 91, "text": "The children of the newly-literate mothers were also better nourished than those of women who could not read." },
+      "reason": "The passage gives only a relative comparison. It does not classify the illiterate mothers' children as severely malnourished.",
+      "distractors": {
+        "YES": "'Less well nourished' than another group does not entail 'severely malnourished'.",
+        "NO": "The passage does not state that these children were not severely malnourished; it simply omits the severity classification."
+      }
+    },
+    "25": {
+      "answer": "C",
+      "answerText": "The effects of maternal literacy programmes can be seen very quickly.",
+      "selectedPartner": "E",
+      "evidence": { "sourcePage": 91, "text": "we'd have to wait a generation for the pay-off. The Nicaraguan study suggests we may be able to bypass that." },
+      "reason": "The study suggests the health benefit need not wait for the next generation, so programme effects may appear quickly.",
+      "distractors": {
+        "A": "The passage does not say educating mature women is better than educating girls; it says adult education may produce benefits sooner than previously expected.",
+        "B": "Cleland explicitly warns that similar campaigns elsewhere might not work as well.",
+        "D": "The passage recommends education for both economic and child-health benefits, but does not say improved child health quickly changes the economy."
+      }
+    },
+    "26": {
+      "answer": "E",
+      "answerText": "Money spent on female education will improve child health.",
+      "selectedPartner": "C",
+      "evidence": { "sourcePage": 91, "text": "The results of the study lend support to the World Bank's recommendation that education budgets in developing countries should be increased, not just to help their economies, but also to improve child health." },
+      "reason": "The stated policy implication is that increased education spending, specifically female education in context, can improve child health.",
+      "distractors": {
+        "A": "No superiority claim is made between adult women and young girls.",
+        "B": "The final paragraph warns that the special Nicaraguan conditions may not be replicable elsewhere.",
+        "D": "The causal direction and speed claimed in D are absent; the text says education spending can improve both economies and child health."
+      }
+    }
+  },
+  "officialAnswerSequence": [
+    "B",
+    "F",
+    "C",
+    "J",
+    "F",
+    "NOT GIVEN",
+    "NO",
+    "YES",
+    "YES",
+    "NO",
+    "NOT GIVEN",
+    "C",
+    "E"
+  ],
+  "sourceAudit": {
+    "pagesJsonPath": "data/generated/page-json/cambridge-ielts-06.pages.json",
+    "rawMdPath": "data/generated/text-pages/cambridge-ielts-06.raw.md",
+    "relationship": "pages.json and raw.md were treated only as non-authoritative downstream targets; all corrected replacement text in this file was checked against the rendered PDF.",
+    "pagesJsonErrors": [
+      { "page": 90, "errors": ["Header garbage '7=311' is not book content.", "'3,O00' must be '3,000'.", "'level óf child mortality' must be 'level of child mortality'.", "Trailing '~.' is OCR garbage.", "Printed paragraph structure is lost, including the single paragraph beginning 'Most literate women' and continuing 'Now a long-term study'."] },
+      { "page": 91, "errors": ["Leading '7' is OCR garbage.", "'more or less com unchanged' must be 'more or less unchanged'.", "'3,oo0 women' must be '3,000 women'.", "Printed paragraph boundaries, especially the separate John Cleland quotation and warning paragraphs, need restoration."] },
+      { "page": 92, "errors": ["'Public heallth' must be 'Public health'.", "The summary text after Question 16 is severely truncated: blanks 17 and 18 and the clauses about attitudes to children, eliminated factors, and infant health/survival are missing.", "Question 16's dotted blank is split into OCR fragments.", "Options G and H are merged and must be separate entries.", "The printed option box is structural decoration and should be represented as text, not an image."] },
+      { "page": 93, "errors": ["Question 21 has '1 10' instead of '110'.", "A stray dot appears before option C in Questions 25-26.", "Option/page layout is flattened, and the page footer is attached to option E in the structured bank."] },
+      { "page": 94, "errors": ["A stray '31' appears near the page header in OCR.", "'i-vii,in' must be 'i-vii, in'.", "This page belongs entirely to Passage 3 and must not be assigned to Questions 25-26 or Passage 2."] },
+      { "page": 158, "errors": ["This is the Test 4 Listening answer page, not the Academic Reading answer page requested by the current bank metadata."] },
+      { "page": 159, "errors": ["This is the actual Test 4 Academic Reading answer page (printed page 158) and should be used for Questions 14-26."] }
+    ],
+    "rawMdErrors": [
+      "Page 90 repeats the same header garbage, numeric OCR errors, accented 'ó', trailing garbage and paragraph-boundary loss as pages.json.",
+      "Page 91 repeats the same leading garbage, inserted 'com', malformed '3,oo0' and paragraph-boundary loss as pages.json.",
+      "Page 92 repeats the same missing Questions 17-18 summary content, 'heallth' typo, split blank and merged G/H options as pages.json.",
+      "Page 93 repeats the same '1 10' error, stray dot and flattened option layout as pages.json.",
+      "Page 94 repeats the same header garbage and missing space in 'i-vii, in'; it also proves the Passage 2 boundary ends on page 93.",
+      "Page 158 is Listening; the actual Academic Reading answers are on physical page 159."
+    ],
+    "exactReplacementReference": "Use the strings in this file's pages object verbatim for physical pages 90–94 and 159. Page 94 is retained only as the Passage 3 boundary confirmation."
+  },
+  "bankAudit": {
+    "paths": [
+      "data/cambridge-test-bank.json",
+      "data/cambridge-test-bank.js",
+      "data/generated/reports/cambridge-test-bank.json"
+    ],
+    "testId": "cambridge-06-reading-test-4",
+    "currentStatus": {
+      "draftStatus": "structured_ocr_draft",
+      "parseConfidence": "detected"
+    },
+    "errors": [
+      "The entry is still an OCR draft and is not marked manually calibrated.",
+      "answerKeyPages points to an unrelated broad range (108-125), and answerKeyText contains General Training material rather than the Test 4 Academic Reading key; the authoritative page is physical 159.",
+      "The Passage 2 reading section carries all page 90-91 OCR defects: '3,O00', 'level óf', '~. 7', 'com unchanged' and '3,oo0'.",
+      "The printed title is merged into the first body paragraph instead of being represented as the passage title.",
+      "The printed paragraph structure is not preserved: page-boundary garbage is merged into body text and the separate John Cleland paragraphs are collapsed.",
+      "Questions 14-18 omit almost all text for blanks 17 and 18, contain 'Public heallth' and 'healtand', split the Question 16 blank, and merge options G/H.",
+      "Questions 19-24 flatten the full instructions, answer-category definitions and Question 19 into one paragraph; Question 21 contains '1 10'.",
+      "Questions 25-26 contain a stray dot before C, attach page/header garbage to option E, and are incorrectly assigned to pages 93 and 94 even though all content is on physical page 93.",
+      "The questions array contains generic completion placeholders with empty answers/evidence instead of the actual three task types and calibrated Questions 14-26.",
+      "Official answers B, F, C, J, F, NOT GIVEN, NO, YES, YES, NO, NOT GIVEN, C and E are absent from the structured questions.",
+      "The bank does not contain per-question evidence or distractor analysis.",
+      "Passage 3 content is entangled with Passage 2 boundary handling through the erroneous page-94 assignment."
+    ],
+    "recommendedStructure": {
+      "draftStatus": "calibrated",
+      "parseConfidence": "manually_calibrated",
+      "readingPages": [90, 91],
+      "questionPages": [92, 93],
+      "answerKeyPages": [159],
+      "questionTypes": {
+        "14-18": "summary_completion_with_list",
+        "19-24": "yes_no_not_given",
+        "25-26": "multiple_response"
+      }
+    }
+  },
+  "independentBlindReview": {
+    "authority": "data/Cambridge-IELTS-06.pdf only",
+    "reviewedPhysicalPages": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      159
+    ],
+    "pageRoles": {
+      "94": "boundary confirmation only; begins Reading Passage 3",
+      "159": "Academic Reading answer key",
+      "90-91": "Passage 2 title and ten body paragraphs",
+      "92-93": "Questions 14–26"
+    },
+    "bodyParagraphCount": 10,
+    "bodySentenceCount": 30,
+    "questionCount": 13,
+    "wrongChoiceOrLabelReasonCount": 63,
+    "exactAnswerSequence": [
+      "B",
+      "F",
+      "C",
+      "J",
+      "F",
+      "NOT GIVEN",
+      "NO",
+      "YES",
+      "YES",
+      "NO",
+      "NOT GIVEN",
+      "C",
+      "E"
+    ],
+    "verified": [
+      "Printed title, all ten paragraph boundaries, and every cross-line continuation",
+      "Questions 14–18 summary and A–J list",
+      "Questions 19–24 statements and all YES/NO/NOT GIVEN definitions",
+      "Questions 25–26 shared prompt and A–E options",
+      "Official answer key, per-question evidence, and every incorrect choice or judgment label",
+      "No semantically necessary image"
+    ],
+    "repairs": [
+      "Restored printed en dashes in question ranges and option ranges",
+      "Removed physical page 158 from the reviewed-page claim",
+      "Added the complete physical-page-159 Academic Reading answer-page transcription to pages"
+    ]
+  },
+  "imageAssessment": {
+    "hasSemanticImage": false,
+    "required": false,
+    "decision": "No image should be inserted into the intensive-reading lesson for this passage.",
+    "page90Photo": "The small photograph of a woman and child above the title is purely illustrative. It contains no labels, data, spatial relation or information needed to understand the passage or answer any question, so it must not be included.",
+    "questionBoxes": "The bordered option list on page 92 is ordinary text layout and must be reconstructed as text, not cropped as an image.",
+    "recommendedCrops": [],
+    "prohibited": [
+      "whole-page screenshots",
+      "the decorative mother-and-child photograph",
+      "question-option boxes rendered as images",
+      "watermarks, page headers and page footers"
+    ]
+  }
+}
