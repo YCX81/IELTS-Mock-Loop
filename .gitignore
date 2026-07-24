@@ -6,11 +6,11 @@ __pycache__/
 *.py[cod]
 
 # Local IELTS source materials and generated OCR/audio artifacts.
-data/**/*.pdf
-data/**/*.zip
-data/**/*.mp3
-data/**/*.m4a
-data/**/*.wav
+*.pdf
+*.mp3
+*.m4a
+*.wma
+*.wav
 data/**/*.png
 data/**/*.jpg
 data/**/*.jpeg
