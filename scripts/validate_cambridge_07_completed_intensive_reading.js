@@ -343,6 +343,22 @@ function normalize(value) {
   return String(value || "").replace(/\s+/g, " ").trim();
 }
 
+function normalizeComparable(value) {
+  return normalize(value)
+    .replace(/[*_`]/g, "")
+    .replace(/[‘’]/g, "'")
+    .replace(/[“”]/g, '"')
+    .replace(/[–—]/g, "-");
+}
+
+function normalizeAnswer(value) {
+  return normalize(value)
+    .toLowerCase()
+    .replace(/\s*\/\s*/g, "/")
+    .replace(/\s*\(in either order\)\s*/gi, "")
+    .replace("farmers/consumers", "farmers and consumers");
+}
+
 function assertIncludes(text, needle, label) {
   if (!text.includes(needle)) {
     fail(`${label}: missing ${needle}`);
@@ -374,6 +390,48 @@ function assertSections(markdown, spec) {
   assertIncludes(markdown, "## 05 答案汇总", spec.file);
 }
 
+function assertCanonicalSectionOrder(markdown, spec) {
+  const headings = [...markdown.matchAll(/^## (0[1-5]) .+$/gm)].map(
+    (match) => match[0],
+  );
+  const expected = [
+    "## 01 逐句精读",
+    "## 02 题目与选项精讲",
+    "## 03 B1+ 词汇深讲总表",
+    "## 04 IELTS 阅读提醒",
+    "## 05 答案汇总",
+  ];
+  if (JSON.stringify(headings) !== JSON.stringify(expected)) {
+    fail(`${spec.file}: numbered section headings are duplicated or out of order`);
+  }
+}
+
+function assertVocabularyTable(markdown, spec) {
+  const section = markdown.match(
+    /^## 03 B1\+ 词汇深讲总表\s*$([\s\S]*?)(?=^## 04 IELTS 阅读提醒\s*$)/m,
+  )?.[1];
+  if (!section) {
+    fail(`${spec.file}: missing B1+ vocabulary table body`);
+    return;
+  }
+
+  const rows = section
+    .split(/\r?\n/)
+    .filter((line) => /^\| .+ \| (?:B1|B2|C1|C2) \| .+ \|$/.test(line));
+  if (rows.length < 20) {
+    fail(`${spec.file}: B1+ vocabulary table has only ${rows.length} data rows`);
+  }
+  for (const row of rows) {
+    if (
+      /\| (?:`|\*\*)/.test(row) ||
+      /https?:\/\/|www\./i.test(row) ||
+      /\]\*\*|第\s*\d+\s*次/.test(row)
+    ) {
+      fail(`${spec.file}: malformed B1+ vocabulary row: ${row.slice(0, 100)}`);
+    }
+  }
+}
+
 function assertImages(markdown, spec, filePath) {
   if (/!\[[^\]]*\]\([^)]*(?:answer-)?page-\d{3}\.png\)/i.test(markdown)) {
     fail(`${spec.file}: full-page source screenshots must not be embedded`);
@@ -389,6 +447,84 @@ function assertAnswers(markdown, spec) {
   }
 }
 
+function collectStrings(value, output = []) {
+  if (typeof value === "string") {
+    output.push(value);
+  } else if (Array.isArray(value)) {
+    for (const item of value) {
+      collectStrings(item, output);
+    }
+  } else if (value && typeof value === "object") {
+    for (const item of Object.values(value)) {
+      collectStrings(item, output);
+    }
+  }
+  return output;
+}
+
+function assertCalibration(markdown, spec) {
+  const match = spec.file.match(/Test-(\d+)-Passage-(\d+)/);
+  if (!match) {
+    fail(`${spec.file}: cannot derive calibration path`);
+    return;
+  }
+
+  const calibrationPath = path.join(
+    repoRoot,
+    "work",
+    `c07-t${match[1]}-p${match[2]}-calibration.json`,
+  );
+  if (!fs.existsSync(calibrationPath)) {
+    fail(`${spec.file}: missing calibration JSON`);
+    return;
+  }
+
+  const calibration = JSON.parse(fs.readFileSync(calibrationPath, "utf8"));
+  const comparableMarkdown = normalizeComparable(markdown);
+  const sentences = (calibration.sentences || []).flat(Infinity);
+  for (const [index, sentence] of sentences.entries()) {
+    if (!comparableMarkdown.includes(normalizeComparable(sentence))) {
+      fail(`${spec.file}: calibrated sentence ${index + 1} is missing`);
+    }
+  }
+
+  for (const group of calibration.questionGroups || []) {
+    const optionText = [
+      ...collectStrings(group.options),
+      ...collectStrings(group.researchers),
+      ...collectStrings(group.headings),
+      ...collectStrings(group.sentenceEndings),
+    ].filter((item) => !/^Paragraph [A-Z]$/i.test(normalize(item)));
+    const promptText =
+      group.summaryText || group.summary
+        ? [group.summaryText || group.summary]
+        : [
+            ...collectStrings(group.prompts),
+            ...collectStrings(group.questions),
+          ];
+    const requiredQuestionText = [
+      ...collectStrings(group.instructions),
+      ...optionText,
+      ...promptText,
+    ];
+    for (const item of requiredQuestionText) {
+      if (!comparableMarkdown.includes(normalizeComparable(item))) {
+        fail(
+          `${spec.file}: calibrated question text is missing: ${normalize(item).slice(0, 80)}`,
+        );
+      }
+    }
+  }
+
+  for (const [question, answer] of Object.entries(calibration.answers || {})) {
+    if (normalizeAnswer(spec.answers[question]) !== normalizeAnswer(answer)) {
+      fail(
+        `${spec.file}: validator answer ${question} disagrees with calibration JSON`,
+      );
+    }
+  }
+}
+
 for (const spec of specs) {
   const filePath = path.join(groupDir, spec.file);
   if (!fs.existsSync(filePath)) {
@@ -399,8 +535,11 @@ for (const spec of specs) {
   const markdown = fs.readFileSync(filePath, "utf8");
   assertNoBanned(markdown, spec);
   assertSections(markdown, spec);
+  assertCanonicalSectionOrder(markdown, spec);
+  assertVocabularyTable(markdown, spec);
   assertImages(markdown, spec, filePath);
   assertAnswers(markdown, spec);
+  assertCalibration(markdown, spec);
 }
 
 if (errors.length > 0) {

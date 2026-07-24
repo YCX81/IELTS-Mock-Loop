@@ -1,5 +1,9 @@
 # Pulling strings to build pyramids｜牵动绳索，建起金字塔
 
+## Pulling strings to build pyramids
+
+## 01 逐句精读
+
 *No one knows exactly how the pyramids were built. Marcus Chown reckons the answer could be ‘hanging in the air’.*
 
 没有人确切知道金字塔是怎样建成的。马库斯·乔恩认为，答案也许正“悬在空中”。
@@ -546,7 +550,9 @@
 
 文章最终留下了一条清楚的证据边界：风筝起吊实验让“古人可能做到”变得可信，却没有让“古人确实这样做过”成为事实。第31句和第49句都用让步与情态表达守住这条边界；也正因为没有把猜想写成定论，现代应用的转向才显得可靠。
 
-# Questions 1–13｜题目、答案与定位推理
+## 02 题目与选项精讲
+
+### Questions 1–13｜题目、答案与定位推理
 
 考试总指令：
 
@@ -556,7 +562,7 @@
 
 指令词汇：`be based on` [B1]，以……为依据；`passage` [考试术语｜B1]，阅读文章；`spend`、`minute`、`question` 为基础词/基础表达。
 
-## Questions 1–7｜TRUE / FALSE / NOT GIVEN
+### Questions 1–7｜TRUE / FALSE / NOT GIVEN
 
 完整指令：
 
@@ -704,7 +710,7 @@
 - **错误判断 FALSE：** 原文直接得出风筝可吊起巨石的可行性结论，不能判为相反。
 - **错误判断 NOT GIVEN：** 连续两句给出300吨估算和明确结论，信息充分。
 
-## Questions 8–13｜Summary Completion
+### Questions 8–13｜Summary Completion
 
 完整指令：
 
@@ -826,7 +832,7 @@
 
 **选项与干扰项：** 原题无备选项；本题没有印刷干扰项。
 
-## 答案总览
+### 答案总览
 
 1. `TRUE`
 2. `FALSE`
@@ -843,3 +849,280 @@
 13. `messages`
 
 这组题的核心区分也正是全文的论证边界：Q1、Q4、Q7考同义改写；Q2、Q5考原文明确反向；Q3、Q6考关系缺失。摘要填空则集中在第37至42句，依靠 `harness → use the energy`、`blocks → pieces`、`looks like → resembled`、`developing ideas → experimented with`、`deliver → sending` 等改写完成定位。
+
+<!-- C07-QUESTION-VOCAB-START -->
+### B1+ 词汇查漏补充
+
+- `exactly`（**B1**）：究竟、到底；放在疑问词 how 后加强追问的精确程度。
+- `reckon`（**B2**）：认为、估计；这里接 that 从句表示研究者提出自己的判断，语气比 prove 弱。
+- `hang in the air`（**B2**）：悬在空中；既描写巨石的视觉效果，也突出建造方法令人难以置信。
+<!-- C07-QUESTION-VOCAB-END -->
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| pull the strings | C1 | 字面“拉绳”，习语“幕后操纵” |
+| pyramid | B1 | 金字塔 |
+| conventional | B2 | 传统的、通常接受的 |
+| picture | B1 | 此处指“总体印象或设想” |
+| tens of thousands of | B2 | 数以万计的 |
+| slave | B1 | 奴隶 |
+| drag | B1 | 费力拖动 |
+| sledge | C1 | 无轮拖板或雪橇 |
+| evidence | B1 | 用来证明判断的证据 |
+| back ... up | B2 | 以事实支持某一说法 |
+| Californian | B1 | 加利福尼亚的 |
+| software consultant | B2 | 软件顾问 |
+| suggest | B1 | 此处为“提出一种可能解释” |
+| kite | B1 | 风筝 |
+| be involved | B1 | 参与、牵涉其中 |
+| might have done | B2 | 对过去情况作不确定推测 |
+| peruse | C1 | 仔细阅读或翻阅 |
+| monument | B2 | 纪念性建筑或古迹 |
+| notice | B1 | 注意到 |
+| hieroglyph | C2 | 象形文字或象形文字图像 |
+| a row of | B1 | 一排 |
+| odd | B1 | 奇怪的 |
+| posture | B2 | 身体姿势 |
+| rope | B1 | 粗绳 |
+| lead to | B1 | 此处指物理上通向、连接到 |
+| via | B2 | 经由 |
+| mechanical system | B2 | 机械系统 |
+| giant | B1 | 巨大的 |
+| wonder if | B1 | 想知道是否、猜想是否 |
+| perhaps | B1 | 也许 |
+| actually | B1 | 实际上 |
+| lift | B1 | 提起、吊起 |
+| object | B1 | 物体 |
+| intrigued | C1 | 被强烈勾起好奇心的 |
+| contact | B1 | 联系 |
+| aeronautics | C2 | 航空学 |
+| professor | B1 | 教授 |
+| institute | B2 | 研究或教育机构 |
+| fascinated | B2 | 深感着迷的 |
+| keen interest | B2 | 浓厚兴趣 |
+| Middle Eastern | B2 | 中东的 |
+| puzzled | B1 | 困惑的 |
+| spark | B2 | 引发、激起 |
+| interest | B1 | 兴趣 |
+| apparently | B2 | 看来、显然，据现象判断 |
+| far too | B1 | 远远过于 |
+| possibility | B1 | 可能性 |
+| exist | B1 | 存在 |
+| certainly | B1 | 确实、无疑 |
+| summer project | B1 | 暑期研究项目 |
+| investigate | B2 | 系统调查、研究 |
+| heavy lifter | C1 | 用于吊运重物的设备或力量 |
+| set oneself the task of | B2 | 给自己定下做某事的任务 |
+| raise | B1 | 抬起、升起 |
+| stone column | B2 | 石柱 |
+| horizontal | B2 | 水平的 |
+| vertical | B2 | 垂直的 |
+| source of energy | B1 | 能源来源 |
+| except | B1 | 除……之外 |
+| initial | B2 | 最初的 |
+| calculation | B1 | 计算 |
+| scale-model | C1 | 按比例缩小的模型 |
+| wind-tunnel experiment | C1 | 风洞实验 |
+| convince | B1 | 使确信 |
+| tonne | B1 | 公吨 |
+| column | B2 | 柱体，本次重复独立解释 |
+| modest | B2 | 此处指幅度不大的 |
+| force | B1 | 力 |
+| sustain | B2 | 使持续 |
+| would do | B1 | 足够、能奏效 |
+| the key | B1 | 关键所在 |
+| pulley system | B2 | 滑轮系统 |
+| magnify | B2 | 放大、增强 |
+| applied force | B2 | 施加力 |
+| rig up | C1 | 临时搭建或装配 |
+| tent-shaped | B2 | 帐篷形的 |
+| scaffold | C1 | 脚手架 |
+| tip | B1 | 尖端、顶端 |
+| pulley | B2 | 滑轮 |
+| suspend | B2 | 悬挂 |
+| apex | C2 | 最高点或顶点 |
+| the idea was that | B1 | 其构想是…… |
+| base | B1 | 底部、基座 |
+| roll across | B1 | 滚过 |
+| trolley | B2 | 小型有轮运载车 |
+| put ... to the test | B2 | 把……付诸检验 |
+| unlikely | B1 | 不太可能的 |
+| theory | B1 | 理论或解释性假说 |
+| square metre | B1 | 平方米 |
+| rectangular | B2 | 长方形的 |
+| nylon | B2 | 尼龙 |
+| sail | B1 | 帆 |
+| clean off | C1 | 完全离开 |
+| absolutely | B1 | 完全地，用于强烈强调 |
+| stunned | B2 | 震惊得一时反应不过来 |
+| the instant | B2 | 一……就…… |
+| open into the wind | B2 | 迎风展开 |
+| generate | B2 | 产生 |
+| mere | B2 | 仅仅的，用于强调数量之少 |
+| gentle | B1 | 此处形容风力温和 |
+| kilometres an hour | B1 | 每小时多少公里 |
+| little more than | B2 | 仅略多于 |
+| fail to | B1 | 未能做某事 |
+| reckon with | C1 | 预先考虑并应对一个重要或棘手因素 |
+| initial force | B2 | 初始力 |
+| steady state force | C1 | 系统稳定后保持的稳态力 |
+| five times larger than | B2 | 比……大五倍 |
+| jerk | C1 | 此处指突然的猛拉或冲力 |
+| mean that | B1 | 意味着 |
+| weight | B1 | 此处指重物 |
+| realise | B1 | 意识到 |
+| lift ... to the vertical | B2 | 把……竖至垂直 |
+| or so | B1 | 大约 |
+| could have been | B2 | 过去本可能或据推断可以 |
+| pyramid builder | B1 | 金字塔建造者 |
+| could have used | B2 | 过去可能使用过或具备用的条件 |
+| lift ... into place | B2 | 把……吊装到位 |
+| massive | B2 | 巨大而沉重的 |
+| whether | B1 | 是否 |
+| be another matter | B2 | 是另一回事 |
+| construction | B2 | 建造过程 |
+| there is no way to | B1 | 无法做…… |
+| tell | B1 | 此处指判断、辨明 |
+| evidence for | B1 | 支持风筝方法的证据 |
+| no better or worse than | B2 | 不优于也不劣于 |
+| brute force method | C1 | 单靠蛮力或大量人力的方法 |
+| method | B1 | 方法 |
+| indeed | B2 | 的确，用于加强或确认 |
+| experiment | B1 | 实验，本次出现独立解释 |
+| specialist | B2 | 专家 |
+| unconvinced | C1 | 未被说服的 |
+| leave ... unconvinced | C1 | 未能使……信服 |
+| kite-lifting | C1 | 利用风筝起吊 |
+| non-existent | C1 | 不存在的 |
+| associate professor | B2 | 副教授 |
+| Egyptology | C2 | 埃及学 |
+| there is a case for | C1 | 有理由支持 |
+| more of a case | C1 | 依据比表面看起来更充分 |
+| feel | B1 | 此处指认为 |
+| harness | C1 | 控制并利用自然力量 |
+| would not have been | B2 | 推断过去不会构成 |
+| accomplished | C1 | 技艺高超的 |
+| sailor | B1 | 水手、航海者 |
+| Egyptian | B1 | 古埃及人 |
+| be known to have done | B2 | 据知曾做过 |
+| wooden pulley | B2 | 木制滑轮 |
+| could have been made | B2 | 过去本可以被制成 |
+| bear the weight of | B2 | 承受……重量 |
+| block of stone | B1 | 石块 |
+| in addition | B1 | 此外 |
+| physical evidence | B2 | 实物证据 |
+| ancient | B1 | 古代的 |
+| flight | B1 | 飞行 |
+| wooden | B1 | 木制的 |
+| artefact | C1 | 人工制品 |
+| step pyramid | C1 | 阶梯金字塔 |
+| uncannily | C2 | 异乎寻常地、惊人地 |
+| modern glider | B2 | 现代滑翔机 |
+| date from | B1 | 始于某年代、可追溯到 |
+| the building of | B1 | ……的建造 |
+| sophistication | C1 | 复杂精巧或成熟程度 |
+| might have been developing | B2 | 过去可能一直在发展 |
+| ancient civilisation | B2 | 古代文明 |
+| as early as | B2 | 早在 |
+| BC | B1 | 公元前 |
+| deliver a message | B1 | 传递信息 |
+| dump | B2 | 倾倒 |
+| flaming debris | C1 | 燃烧的碎片 |
+| foe | C1 | 敌人，偏文学或正式语体 |
+| practical use | B1 | 实际用途 |
+| nowadays | B1 | 如今 |
+| plenty of | B1 | 大量 |
+| around the globe | B2 | 世界各地 |
+| have access to | B1 | 有机会或条件使用 |
+| heavy machinery | B2 | 重型机械 |
+| deal with | B1 | 处理、运用 |
+| sailing | B1 | 航行技术 |
+| mechanical principle | B2 | 机械原理 |
+| civil engineer | B2 | 土木工程师 |
+| put up a building | B2 | 建造建筑 |
+| adobe roof | C2 | 土坯屋顶 |
+| support | B1 | 支撑 |
+| concrete arch | B2 | 混凝土拱券 |
+| site | B1 | 施工地点 |
+| heavy equipment | B2 | 重型设备 |
+| arch | B2 | 拱券，本次重复独立解释 |
+| horizontally | B2 | 水平地 |
+| design hint | B1 | 设计提示或建议 |
+| report back | B2 | 回来汇报或反馈结果 |
+| whether ... or not | B1 | 无论是否 |
+| it seems that | B1 | 看来，表示谨慎判断 |
+| sensible | B2 | 合理且实用的 |
+| construction tool | B2 | 施工工具 |
+| AD | B1 | 公元 |
+| be based on | B1 | 以……为依据 |
+| passage | B1 | 阅读文章 |
+| statement | B1 | 待判断的陈述 |
+| agree with | B1 | 与……一致 |
+| information | B1 | 信息 |
+| answer sheet | B1 | 答题纸 |
+| contradict | C1 | 与……相矛盾 |
+| not given | B1 | 相关信息未提供 |
+| generally | B1 | 普遍地 |
+| believe | B1 | 相信、认为 |
+| large numbers of | B2 | 大量的 |
+| be needed to | B1 | 做……需要 |
+| strange | B1 | 奇怪的 |
+| previously | B1 | 先前 |
+| do an experiment on | B1 | 对……做实验 |
+| bird flight | B1 | 鸟类飞行 |
+| test a theory | B1 | 检验理论 |
+| apply | B2 | 把理论或方法付诸实际 |
+| success | B1 | 成功 |
+| actual experiment | B1 | 实际进行的实验 |
+| be due to | B1 | 由……造成 |
+| high speed | B1 | 高速 |
+| find that | B1 | 发现 |
+| as | B1 | 此处表示“随着” |
+| wind force | B1 | 风力 |
+| decide that | B1 | 作出判断 |
+| possible | B1 | 可能、可行 |
+| complete | B1 | 补全 |
+| summary | B1 | 摘要 |
+| no more than | B1 | 不超过 |
+| additional | B1 | 补充的 |
+| energy | B1 | 能量 |
+| skill | B1 | 技能 |
+| discovery | B1 | 发现 |
+| resemble | B2 | 与……相似 |
+| experiment with | B2 | 试验、尝试 |
+| weapon | B1 | 武器 |
+| as well as | B1 | 除……之外还 |
+| large piece of | B1 | 大块的 |
+| use the energy of the wind | B1 | 利用风能 |
+| may have done | B2 | 可能曾经做过 |
+| exactly | B1 | 究竟、到底 |
+| reckon | B2 | 认为、估计 |
+| hang in the air | B2 | 悬在空中 |
+
+## 04 IELTS 阅读提醒
+
+- 处理 TRUE FALSE NOT GIVEN 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 处理 SUMMARY COMPLETION 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 1 | TRUE |
+| 2 | FALSE |
+| 3 | NOT GIVEN |
+| 4 | TRUE |
+| 5 | FALSE |
+| 6 | NOT GIVEN |
+| 7 | TRUE |
+| 8 | (wooden) pulleys |
+| 9 | stone |
+| 10 | (accomplished) sailors |
+| 11 | (modern) glider |
+| 12 | flight |
+| 13 | messages |

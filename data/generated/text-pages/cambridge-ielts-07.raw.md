@@ -2228,52 +2228,36 @@ The linguist Joseph Greenberg has, since the 1950s, argued that all Native Ameri
 
 ## Page 76
 
-Test 3
 Questions 20 and 21
-The discussion of Williams's research indicates the periods at which early people are thought
-to have migrated along certain routes. There are six routes, A-F, marked on the map below.
-
+The discussion of Williams’s research indicates the periods at which early people are thought to have migrated along certain routes. There are six routes, A–F, marked on the map below.
 Complete the table below.
-Write the correct letter, A-F, in boxes 20 and 21 on your answer sheet.
-
-| Route | Period (number of years ago) |
-| --- | --- |
-| 20 ______ | 15,000 or more |
-| 21 ______ | 600 to 700 |
-
-Map: Early Population Movement to the Americas
-Route labels: A, B, C, D, E, F.
-Map labels: Asia, Bering Strait, Alaska, Canada, U.S.A., Central America, South America, Greenland.
-The route arrows show movements from Asia/Bering Strait into North, Central, and South America.
+Write the correct letter, A–F, in boxes 20 and 21 on your answer sheet.
+Route | Period (number of years ago)
+20 ______ | 15,000 or more
+21 ______ | 600 to 700
+Early Population Movement to the Americas
+[Map labels: A, B, C, D, E, F; Asia; Bering Strait; Alaska; Canada; U.S.A.; Central America; South America; Greenland.]
 
 ![Cambridge IELTS 07 page 076 figure](data/generated/image-review/cambridge-ielts-07/page-076-reading-early-population-movement-map.png)
 
 ## Page 77
 
-Questions 22-25
+Questions 22–25
 Reading Passage 2 refers to the three-wave theory of early migration to the Americas. It also suggests in which of these three waves the ancestors of various groups of modern native Americans first reached the continent.
-
 Classify the groups named in the table below as originating from
-
 A the first wave
 B the second wave
 C the third wave
-
-Write the correct letter, A, B or C, in boxes 22-25 on your answer sheet.
-
-| Name of group | Wave number |
-| --- | --- |
-| Inuit | 22 __________ |
-| Apache | 23 __________ |
-| Pima-Papago | 24 __________ |
-| Ticuna | 25 __________ |
-
+Write the correct letter, A, B or C, in boxes 22–25 on your answer sheet.
+Name of group | Wave number
+Inuit | 22 ______
+Apache | 23 ______
+Pima-Papago | 24 ______
+Ticuna | 25 ______
 Question 26
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 26 on your answer sheet.
-
-Christy Turner's research involved the examination of
-
+Christy Turner’s research involved the examination of
 A teeth from both prehistoric and modern Americans and Asians.
 B thousands of people who live in either the New or the Old World.
 C dental specimens from the majority of prehistoric Americans.
@@ -2883,14 +2867,6 @@ Probably the most significant finding from research on noise is that its predict
 
 [Table 1: Proofreading Errors and Noise]
 | | Unpredictable Noise | Predictable Noise | Average |
-| Loud noise | 40.1 | 31.8 | 35.9 |
-| Soft noise | 36.7 | 27.4 | 32.1 |
-| Average | 38.4 | 29.6 | |
-
-Structured reconstruction of Table 1: Proofreading Errors and Noise
-
-| Noise level | Unpredictable noise | Predictable noise | Average |
-| --- | ---: | ---: | ---: |
 | Loud noise | 40.1 | 31.8 | 35.9 |
 | Soft noise | 36.7 | 27.4 | 32.1 |
 | Average | 38.4 | 29.6 | |

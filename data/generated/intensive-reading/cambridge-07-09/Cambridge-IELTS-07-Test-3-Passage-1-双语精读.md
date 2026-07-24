@@ -1,4 +1,8 @@
 
+
+## Ant Intelligence
+
+## 01 逐句精读
 # 蚂蚁的智慧｜Cambridge IELTS 7 Test 3 Passage 1 双语精读
 
 ## 标题：Ant Intelligence
@@ -392,7 +396,9 @@ Be careful of little lives.’
 ---
 
 
-## Questions 1–6｜TRUE / FALSE / NOT GIVEN
+## 02 题目与选项精讲
+
+### Questions 1–6｜TRUE / FALSE / NOT GIVEN
 
 **题组指令**
 
@@ -492,7 +498,7 @@ In boxes 1–6 on your answer sheet, write
 
 **每个判断独立排除：** TRUE 错在没有主题证据；FALSE 也不能选，因为原文没说随笔不谈交流；NOT GIVEN 对，因为作品范围未知。
 
-## Questions 7–13｜选词完成摘要
+### Questions 7–13｜选词完成摘要
 
 **题组指令**
 
@@ -634,3 +640,343 @@ Ants have sophisticated methods of farming, including herding livestock and grow
 
 文章最终没有把蚂蚁强行塞进人类式智慧的定义。它展示的是另一条证据链：复杂行为可能受基因编码，却仍能表现出适应、学习、导航和信息传递。标题提出的 `Ant Intelligence` 因而不是一句结论，而是一道在全文证据之后更难轻率回答的问题。
 
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| intelligence | B1 | 指理解、学习和解决问题的能力，在这里不是“情报” |
+| intelligent | B1 | 有智慧的 |
+| animal kingdom | B2 | 动物界 |
+| creature | B1 | 生物 |
+| ape | B2 | 类人猿 |
+| in fact | B1 | 事实上 |
+| social life | B1 | 社会生活 |
+| insect kingdom | B2 | 昆虫界 |
+| sufficiently | B2 | 充分地 |
+| complex | B1 | 复杂的 |
+| suggest | B1 | 表明 |
+| more than a hint of | B2 | 不只一点迹象 |
+| come in for | C2 | 受到 |
+| considerable | B2 | 相当大的 |
+| scrutiny | C2 | 严密审视 |
+| lately | B1 | 近来 |
+| demonstrate | B2 | 显示 |
+| spark | B2 | 一闪而现的迹象 |
+| cognition | C1 | 认知 |
+| certainly | B1 | 显然 |
+| reject | B1 | 否定 |
+| be involved in | B1 | 参与 |
+| investigation | B2 | 研究 |
+| store | B1 | 储存 |
+| repel | C1 | 击退 |
+| attacker | B1 | 攻击者 |
+| chemical signal | B2 | 化学信号 |
+| contact | B1 | 联系 |
+| one another | B1 | 彼此 |
+| in case of attack | B1 | 在遭受攻击时 |
+| chemical communication | B2 | 化学交流 |
+| be compared to | B1 | 与……比较 |
+| visual | B2 | 视觉的 |
+| auditory | C1 | 听觉的 |
+| channel | B2 | 渠道 |
+| religious chant | B2 | 宗教吟唱 |
+| advertising image | B1 | 广告图像 |
+| jingle | C1 | 广告短歌 |
+| political slogan | B2 | 政治口号 |
+| martial music | C1 | 军乐 |
+| arouse | C1 | 唤起 |
+| propagate | C1 | 传播 |
+| mood | B1 | 情绪 |
+| attitude | B1 | 态度 |
+| biologist | B2 | 生物学家 |
+| human being | B1 | 人类 |
+| so much like ... as to | C1 | 相似到足以…… |
+| embarrassment | B2 | 令人难堪之事 |
+| farm | B1 | 耕种 |
+| fungi | B2 | 真菌 |
+| aphid | C1 | 蚜虫 |
+| raise ... as livestock | B2 | 作为牲畜饲养 |
+| launch armies to war | B2 | 派军队开战 |
+| chemical spray | B2 | 化学喷雾 |
+| alarm | B2 | 使惊恐、惊慌 |
+| confuse | B1 | 使迷惑 |
+| capture | B1 | 俘获 |
+| slave | B2 | 奴隶 |
+| engage in | B2 | 从事 |
+| child labour | B2 | 童工 |
+| exchange information | B1 | 交换信息 |
+| ceaselessly | C1 | 不停地 |
+| do everything but | B2 | 表示“唯独不做某事” |
+| however | B1 | 然而 |
+| cultural transmission | C1 | 文化传递 |
+| encode | C1 | 编码 |
+| gene | B2 | 基因 |
+| whereas | B2 | 而 |
+| the opposite is true | B2 | 情况相反 |
+| instinct | B2 | 本能 |
+| be carried in the genes | B2 | 由基因携带 |
+| newborn | B2 | 新生的 |
+| skill | B1 | 技能 |
+| community | B1 | 群体 |
+| cultural continuity | C1 | 文化延续 |
+| huge | B1 | 巨大的 |
+| advantage over | B1 | 相对于……的优势 |
+| may seem | B1 | 表面看来 |
+| master | B2 | 掌握 |
+| nor | B2 | 也不 |
+| progress | B1 | 进步 |
+| fungus farming | C1 | 真菌种植 |
+| aphid herding | C1 | 放养蚜虫 |
+| craft | B2 | 技艺 |
+| sophisticated | B2 | 精巧的 |
+| when compared to | B1 | 与……相比 |
+| agricultural | B2 | 农业的 |
+| totally | B1 | 完全地 |
+| overtake | B2 | 超过 |
+| agribusiness | C1 | 农业产业 |
+| Or have they? | B1 | 用于反转前述判断，是全文转折轴 |
+| farming method | B1 | 耕作方法 |
+| at least | B1 | 至少 |
+| sustainable | B2 | 可持续的 |
+| ruin | B1 | 严重破坏 |
+| environment | B1 | 环境 |
+| enormous | B1 | 巨大的 |
+| amount of energy | B1 | 能源数量 |
+| moreover | B2 | 此外 |
+| recent evidence | B2 | 近期证据 |
+| crop farming | B2 | 作物种植 |
+| adaptable | C1 | 适应力强的 |
+| than was thought | B2 | 比原先设想的 |
+| fifty million years before | B1 | 早于五千万年 |
+| digest | B2 | 消化 |
+| cellulose | C1 | 纤维素 |
+| therefore | B1 | 因此 |
+| cultivate | C1 | 培育 |
+| nest | B1 | 巢 |
+| feed on | B1 | 以……为食 |
+| source of food | B1 | 食物来源 |
+| farmer ant | B2 | 农耕蚁 |
+| secrete | C1 | 分泌 |
+| antibiotic | B2 | 抗生素 |
+| control | B1 | 控制 |
+| act as | B1 | 充当 |
+| weed | B2 | 杂草 |
+| spread waste | B1 | 铺撒废料 |
+| fertilise | C1 | 施肥 |
+| crop | B1 | 作物 |
+| it was once thought that | B2 | 人们一度认为 |
+| fungus | B2 | 真菌 |
+| single type | B1 | 单一类型 |
+| essentially | B2 | 基本上 |
+| unchanged | B1 | 未改变的 |
+| distant past | B2 | 遥远过去 |
+| not so | B2 | 用来干脆否定前述观点 |
+| colleague | B1 | 同事 |
+| genetically | C1 | 从遗传层面 |
+| screen | C1 | 筛查 |
+| turn out to be | B2 | 结果是 |
+| highly | B1 | 高度地 |
+| diverse | B2 | 多样的 |
+| it seems that | B1 | 似乎 |
+| continually | B2 | 持续反复地 |
+| domesticate | C1 | 驯化 |
+| species | B2 | 物种 |
+| impressively | C1 | 令人赞叹地 |
+| DNA analysis | B2 | DNA分析 |
+| improve | B1 | 改良 |
+| modify | B2 | 调整 |
+| regularly | B1 | 定期地 |
+| swap | B2 | 交换 |
+| strain | C1 | 菌株 |
+| neighbouring | B2 | 邻近的 |
+| ant colony | B2 | 蚁群 |
+| prehistoric | C1 | 史前的 |
+| exposure to | B2 | 接触 |
+| urban lifestyle | B2 | 城市生活方式 |
+| evidence | B1 | 证据 |
+| urban setting | B2 | 城市式环境 |
+| close on | C1 | 接近 |
+| develop | B1 | 建造、发展 |
+| maintain | B2 | 维持 |
+| underground | B1 | 地下的 |
+| specialised | B2 | 专门化的 |
+| chamber | C1 | 洞室 |
+| tunnel | B1 | 隧道 |
+| survey | B2 | 纵览 |
+| be amazed at | B1 | 对……惊叹 |
+| accomplish | B2 | 成就 |
+| yet | B1 | 然而 |
+| magnificent | B2 | 杰出的 |
+| ant lover | B1 | 蚂蚁爱好者 |
+| describe | B1 | 描述 |
+| supercolony | C1 | 超级蚁群 |
+| Formica yessensis | C1 | 日本红蚁 |
+| coast | B1 | 海岸 |
+| megalopolis | C1 | 巨型都市 |
+| be reported to | B2 | 据报道 |
+| be composed of | B2 | 由……组成 |
+| worker | B2 | 工蚁 |
+| queen | B2 | 蚁后 |
+| interconnected | C1 | 相互连接的 |
+| territory | B2 | 区域 |
+| square kilometre | B1 | 平方公里 |
+| enduring | C1 | 持久的 |
+| intricately | C1 | 错综复杂地 |
+| meshed | C1 | 交织的 |
+| level of technical achievement | B2 | 技术成就的层次 |
+| outstrip | C1 | 大幅超过 |
+| by far | B2 | 远远 |
+| achieve | B1 | 取得、实现 |
+| distant ancestor | B2 | 远祖 |
+| hail ... as | C1 | 誉为 |
+| masterpiece | B2 | 杰作 |
+| cave painting | B2 | 洞穴壁画 |
+| elsewhere | B2 | 别处 |
+| date back | B2 | 追溯到 |
+| society | B1 | 群体社会 |
+| something like | B2 | 近似 |
+| present form | B2 | 现今形态 |
+| exist | B1 | 存在 |
+| beside this | B2 | 与此相比 |
+| prehistoric man | C1 | 史前人类 |
+| technologically | B2 | 在技术上 |
+| primitive | B2 | 原始的 |
+| some kind of | B1 | 某种 |
+| albeit | C1 | 尽管 |
+| conduct research | B2 | 开展研究 |
+| desert ant | B2 | 沙漠蚁 |
+| foraging trip | C1 | 觅食行程 |
+| navigate | B2 | 导航 |
+| integrate | B2 | 整合 |
+| bearing | C1 | 方位 |
+| distance | B1 | 距离 |
+| continuously | B2 | 持续地 |
+| update | B1 | 更新 |
+| combine ... with | B1 | 结合 |
+| visual landmark | B2 | 视觉地标 |
+| mental library | C1 | 头脑资料库 |
+| local direction | B1 | 本地方向 |
+| all within | B2 | 全都置于……之中 |
+| framework | B2 | 框架 |
+| consult | B2 | 调用 |
+| programme of work | B2 | 研究计划 |
+| find evidence that | B2 | 找到证据表明 |
+| transmit | B2 | 传递 |
+| scout | B2 | 侦察蚁 |
+| locate | B1 | 找到 |
+| maze | B2 | 迷宫 |
+| mobilise | C1 | 动员 |
+| foraging team | C1 | 觅食队伍 |
+| contact session | B2 | 接触时段 |
+| at the end of which | B2 | 在其结束时 |
+| remove | B1 | 移走 |
+| in order to | B1 | 为了 |
+| observe | B2 | 观察 |
+| forager | C1 | 觅食蚁 |
+| proceed to | B2 | 前往 |
+| exact spot | B1 | 准确地点 |
+| elaborate | C1 | 精心设计的 |
+| precaution | B2 | 预防措施 |
+| take precautions | B2 | 采取预防措施 |
+| prevent ... doing | B2 | 阻止……做 |
+| odour clue | C1 | 气味线索 |
+| centre on | B2 | 集中于 |
+| whether ... or ... | B1 | 是……还是…… |
+| route | B1 | 路线 |
+| communicate | B1 | 传达 |
+| sequence | B2 | 序列 |
+| compass bearing | C1 | 罗盘方位 |
+| distance message | B2 | 距离信息 |
+| during the course of | B2 | 在……过程中 |
+| exhaustive | C1 | 详尽全面的 |
+| grow attached to | C1 | 逐渐依恋 |
+| laboratory | B1 | 实验室 |
+| individual | B2 | 独立个体 |
+| paint spot | B1 | 颜料点 |
+| mark | B1 | 标记 |
+| it is no surprise that | B2 | ……并不意外 |
+| essay | B2 | 随笔 |
+| in the company of | B2 | 与……相伴 |
+| advise | B1 | 建议 |
+| watch where you step | B2 | 留心脚下 |
+| little lives | B1 | 微小生命 |
+| following statement | B1 | 下列陈述 |
+| agree with | B1 | 与……一致 |
+| information | B1 | 信息 |
+| answer sheet | B1 | 答题纸 |
+| contradict | C1 | 与……矛盾 |
+| the same ... as | B1 | 与……相同 |
+| channel of communication | B2 | 沟通渠道 |
+| factor | B1 | 因素 |
+| encourage | B1 | 促进 |
+| development | B1 | 发展 |
+| more quickly than | B1 | 比……更快 |
+| find one’s way | B1 | 找到路线 |
+| calculation | B2 | 计算 |
+| be based on | B1 | 基于 |
+| position | B1 | 位置 |
+| experiment | B1 | 实验 |
+| sense of smell | B1 | 嗅觉 |
+| explore | B2 | 探讨 |
+| communication | B1 | 交流 |
+| summary | B1 | 摘要 |
+| including | B1 | 包括 |
+| herd livestock | B2 | 放牧牲畜 |
+| in many ways | B1 | 在许多方面 |
+| be similar to | B1 | 与……相似 |
+| human agriculture | B2 | 人类农业 |
+| edible | C1 | 可食用的 |
+| convert ... into | B2 | 转化为 |
+| weed-killer | B2 | 除草剂 |
+| unwanted material | B2 | 废弃材料 |
+| genetic analysis | B2 | 遗传分析 |
+| constantly | B2 | 不断地 |
+| upgrade | B2 | 改良 |
+| neighbouring colony | B2 | 邻近蚁群 |
+| could be said to | B2 | 可以说 |
+| advanced | B1 | 先进的 |
+| affect | B1 | 影响 |
+| waste | B1 | 浪费 |
+| aphids | C1 | 蚜虫 |
+| exchanging | B1 | 交换 |
+| energy | B1 | 能源 |
+| fertilizers | B2 | 肥料 |
+| interbreeding | C1 | 杂交、交配繁殖 |
+| natural | B1 | 天然的 |
+| other species | B2 | 其他物种 |
+| secretions | C1 | 分泌物 |
+| a large number of | B1 | 大量 |
+| edible fungi | C1 | 可食用真菌 |
+| one’s own | B1 | 自身的 |
+| unwanted | B2 | 不需要的 |
+| material | B1 | 材料 |
+| use ... as | B1 | 把……用作 |
+| neighbouring ant colony | B2 | 邻近蚁群 |
+| since | B1 | 因为 |
+| method | B1 | 方法 |
+
+## 04 IELTS 阅读提醒
+
+- TRUE / FALSE / NOT GIVEN 只比较题干与原文事实：一致、矛盾、未说明三种状态必须严格分开。
+- 处理 summary completion with list 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 1 | FALSE |
+| 2 | TRUE |
+| 3 | NOT GIVEN |
+| 4 | TRUE |
+| 5 | FALSE |
+| 6 | NOT GIVEN |
+| 7 | C |
+| 8 | M |
+| 9 | F |
+| 10 | D |
+| 11 | N |
+| 12 | O |
+| 13 | E |

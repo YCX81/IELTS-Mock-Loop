@@ -1,5 +1,9 @@
 # 欧洲森林保护计划｜双语精读
 
+## Plans to protect the forests of Europe
+
+## 01 逐句精读
+
 这篇文章在原书中没有标题。它从欧洲森林面临的跨境威胁写起，介绍 1990 年斯特拉斯堡部长级会议为何召开，继而说明森林的三重功能，并把重点落在一份总宣言和六项具体决议上。
 
 全文真正的逻辑不是简单罗列森林知识，而是层层回答三个问题：为什么单个国家无法独自处理森林危机，森林政策为什么必须跨越国界与世代，以及欧洲最终把共同意愿落实成了哪些监测、保护与研究机制。
@@ -490,7 +494,9 @@ Their final text commits them to on-going discussion between government represen
 
 文章至此完成闭环：共同威胁促成共同会议，森林的生态、经济和休闲价值说明了保护必要性，而六项决议则把抽象的跨国责任落成监测、数据库、遗传保护、重点研究和长期协作。
 
-## Questions 27–33｜TRUE / FALSE / NOT GIVEN
+## 02 题目与选项精讲
+
+### Questions 27–33｜TRUE / FALSE / NOT GIVEN
 
 **Do the following statements agree with the information given in Reading Passage 3?**
 
@@ -620,7 +626,7 @@ Their final text commits them to on-going discussion between government represen
 
 **干扰理由 14｜NOT GIVEN：** `must allow for` 在原文中直接出现，证据并不缺失。
 
-## Questions 34–39｜Matching Resolutions
+### Questions 34–39｜Matching Resolutions
 
 **Look at the following statements issued by the conference.**
 
@@ -884,6 +890,349 @@ Their final text commits them to on-going discussion between government represen
 
 **干扰理由 71｜D：** 原文始终讨论欧洲 31 国及欧洲研究网络，没有提出全球政策；`world-wide` 把地域范围错误扩大。
 
-## 答案总览
+### 答案总览
 
 27 **NOT GIVEN**；28 **FALSE**；29 **TRUE**；30 **FALSE**；31 **FALSE**；32 **FALSE**；33 **TRUE**；34 **J**；35 **A**；36 **E**；37 **B**；38 **G**；39 **D**；40 **B**。
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| element | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| natural heritage | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| decline | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| a decade and a half | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| lead to | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| increasing awareness | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| understanding | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| serious imbalance | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| threaten | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| increasingly | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be concerned by | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| major threat | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| know no frontiers | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| other than | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| geography | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| climate | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| air pollution | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| soil deterioration | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| the increasing number of | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest fire | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| mismanagement | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| woodland | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest heritage | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| growing awareness | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| the need for ... to ... | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| get together | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| co-ordinate | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| policy | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| host | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| ministerial | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| conference | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| protection | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| bring together | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Western Europe | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Eastern Europe | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| topic | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| discuss | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| include | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| co-ordinated study | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| destruction | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| as well as | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| combat | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| extension | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| research program | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest ecosystem | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| preparatory | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| undertake | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| expert | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| initial | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| task | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest problem | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| of concern to | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| involve | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| the subject of | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| joint action | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be confined to | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| particular | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| geographical | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| border | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Mediterranean | B2 | 的 |
+| Nordic countries | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| therefore | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| discard | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| however | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| in future | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| ignore | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| as a whole | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| see ... as | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| perform a function | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| triple | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| biological | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| economic | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| recreational | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| act as | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| green lung | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| planet | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| by means of | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| photosynthesis | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| produce | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| oxygen | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| transformation | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| solar energy | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| thus | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| fulfil a role | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| human | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| essential | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| immense | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| non-polluting | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| power plant | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| at the same time | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| provide ... for ... | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| raw material | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| human activity | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| constantly | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| renewed production | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| offer | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be condemned to do | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| urban environment | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| unrivalled | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| freedom | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| unwind | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| take part in | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| a range of | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| leisure activity | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| hunting | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| hiking | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| economic importance | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| the dawn of man | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| fuel | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| aspect | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| recognise | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| hence | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| concern | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| throughout | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| damage to | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest environment | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| basic role | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| myth | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| natural forest | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| survive | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| yet | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| effectively | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| remaining | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| primary forest | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| artificial | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| adapt | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| exploit | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| for thousands of years | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest policy | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| vital | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| transcend | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| national frontier | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| generation | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| allow for | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| inevitable | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| take place | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| event | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| on such a scale | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| reach a conclusion | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| general declaration | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| give a central place to | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| ecologically coherent | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| continuity over time | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| possible effect | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| unforeseen event | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| ensure | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| full potential | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| maintain | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be accompanied by | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| detailed resolution | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| assist | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| national policy-making | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| propose | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| systematisation | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| surveillance site | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| monitor | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest decline | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| poorly understood | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| loss | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| a high proportion of | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| needle | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| entire | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| continent | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| majority | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| species | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be affected | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| tree population | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| condition | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| appear to | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| result from | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| cumulative effect | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| factor | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| atmospheric pollutant | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| principal | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| culprit | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| compound | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| nitrogen | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| sulphur dioxide | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| particularly | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| closely watch | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| effect | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| accentuate | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| climatic factor | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| drought | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| hard winter | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| soil imbalance | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| soil acidification | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| damage | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| resolution | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| concentrate on | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| preserve | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| genetic diversity | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| aim | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| reverse the decline | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| tree species | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| genetic material | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| although | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| affect | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| to the same extent | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| amount of damage | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| cause somebody to do | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| consider | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| establishment | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| European databank | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| on the subject | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| development | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| national preventative policy | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| generally available | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| subject | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| minister | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| mountain forest | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| undoubtedly | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| mountain ecosystem | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| rapidly | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| at risk | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| thinly scattered | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| permanent population | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| result in | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| significant | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| long-term | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| local ecosystem | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| proposed development | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| preferential | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| relaunch | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| research network | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| physiology of trees | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| support | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| joint European research | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| tree disease | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| physiological | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| biochemical | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| country concerned | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| increase | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| scholarship | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| financial support | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| doctoral thesis | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| research project | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| in this area | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| establish | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| framework | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| harmonise activities | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| individual country | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| identify | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| priority research topic | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| relate to | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| main concern | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| provide for the future | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| initial motivation | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| share a motivation | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| participant | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| represent | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| final text | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| commit somebody to | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| on-going discussion | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| government representative | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| with responsibility for | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| following | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| statement | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| agree with | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| given | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Reading Passage | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| answer sheet | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| contradict | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Mediterranean country | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be to be discussed | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| meeting of experts | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| Nordic country | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| exclude | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| European Economic Community | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| renewable | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| source | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| biological function | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| exist | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| in parts of | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be limited by | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| national boundary | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| possibility | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| issue | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| following statement | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| refer to | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| match ... with ... | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| appropriate | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| fragile | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be given priority | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| surviving | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| priority treatment | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| research | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be to do | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| throughout | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| collect | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| loss of leaves | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| extensively | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| resource | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| allocate ... to ... | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| research into | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| encourage | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| thinly populated | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| acidification | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| be treated with | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| sulphur | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| systematically | C1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| gather | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| role | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| protect | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| priority | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| European | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| ecosystem | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| proposal | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| world-wide | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| forest management | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+
+## 04 IELTS 阅读提醒
+
+- TRUE / FALSE / NOT GIVEN 只比较题干与原文事实：一致、矛盾、未说明三种状态必须严格分开。
+- 处理 matching resolutions 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 处理 multiple choice best title 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 27 | NOT GIVEN |
+| 28 | FALSE |
+| 29 | TRUE |
+| 30 | FALSE |
+| 31 | FALSE |
+| 32 | FALSE |
+| 33 | TRUE |
+| 34 | J |
+| 35 | A |
+| 36 | E |
+| 37 | B |
+| 38 | G |
+| 39 | D |
+| 40 | B |

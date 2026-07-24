@@ -1,12 +1,16 @@
 # Makete Integrated Rural Transport Project｜马凯特综合农村运输项目
 
+## Makete Integrated Rural Transport Project
+
+## 01 逐句精读
+
 这篇文章追踪的不是一条公路，而是一套发展思路的形成过程：项目先调查偏远地区家庭每天真正承受的运输负担，再同时改进道路、小径、运输工具和地方协作机制，最后检验哪些措施有效、哪些仍受贫困制约。文章最值得读懂的，是“技术上更先进”并不自动等于“当地人用得起、修得了、愿意接受”；真正可持续的方案必须从居民的现实条件出发。
 
 标题中的 `integrated rural transport`（交通规划，B2）指把道路、小径、运输工具与家庭实际需求放在同一体系中考虑；`project` (B1) 指有明确目标和阶段的“项目”。这里是标题中的独立出现，正文再次出现时仍会按各句语境重新讲解。
 
 下面按原书 A–F 六节、18段、51个完整句子逐句精读。
 
-## 正文逐句精读
+### 原文逐句展开
 
 ## Section A
 
@@ -56,6 +60,9 @@ A request for help in improving the availability of transport within the remote 
 - district（行政区划，B2）：地区、行政区。
 - present an opportunity (B1)：带来一个机会。
 - approach (B2)：方法、思路。
+<!-- C07-SENTENCE-VOCAB-START 2 -->
+- within (B1)：在……范围内；这里限定马凯特区内部。
+<!-- C07-SENTENCE-VOCAB-END 2 -->
 
 ### 第2段
 
@@ -127,6 +134,9 @@ The Makete Integrated Rural Transport Project (MIRTP) started in 1985 with finan
 - co-ordinate (B2)：协调。
 - with the help of (B1)：在……帮助下。
 - government（基础词）：政府。
+<!-- C07-SENTENCE-VOCAB-START 6 -->
+- project (B1)：项目；这里是 MIRTP 全称中的核心名词。
+<!-- C07-SENTENCE-VOCAB-END 6 -->
 
 ## Section B
 
@@ -247,6 +257,9 @@ The socio-economic survey of more than 400 households in the district indicated 
 - obtain (B2)：获得。
 - survey (B1，第2次)：调查。
 - rural area (B2)：农村地区。
+<!-- C07-SENTENCE-VOCAB-START 13 -->
+- goods (B1)：货物；本句指家庭日常运输的物资。
+<!-- C07-SENTENCE-VOCAB-END 13 -->
 
 #### 14
 
@@ -285,6 +298,9 @@ Having determined the main transport needs, possible solutions were identified w
 - identify (B2)：识别、找出。
 - reduce (B1)：减少。
 - burden (C1)：负担。
+<!-- C07-SENTENCE-VOCAB-START 15 -->
+- solutions (B1)：解决方案；复数表示需要比较多种可行办法。
+<!-- C07-SENTENCE-VOCAB-END 15 -->
 
 #### 16
 
@@ -322,6 +338,9 @@ An improvement of the road network was considered necessary to ensure the import
 - export（经济学，B1）：出口、输出。
 - goods (B1)：货物。
 - district (B2)：行政区。
+<!-- C07-SENTENCE-VOCAB-START 17 -->
+- improvement (B1)：改善；这里具体指公路网络的改进。
+<!-- C07-SENTENCE-VOCAB-END 17 -->
 
 #### 18
 
@@ -336,6 +355,9 @@ These improvements were carried out using methods that were heavily dependent on
 - method（基础词）：方法。
 - heavily dependent on (B2)：高度依赖。
 - labour（经济学，B2）：劳动力。
+<!-- C07-SENTENCE-VOCAB-START 18 -->
+- improvements (B1)：改善工程；复数回指上一句的道路改进措施。
+<!-- C07-SENTENCE-VOCAB-END 18 -->
 
 #### 19
 
@@ -352,6 +374,9 @@ In addition to the improvement of roads, these methods provided training in the 
 - operation (B2)：运营、操作。
 - mechanical workshop（机械工程，B2）：机械维修车间。
 - truck service（交通运营，B1）：卡车运输服务。
+<!-- C07-SENTENCE-VOCAB-START 19 -->
+- improvement (B1)：改善；in addition to 引出道路改善以外的培训。
+<!-- C07-SENTENCE-VOCAB-END 19 -->
 
 #### 20
 
@@ -391,6 +416,10 @@ Most goods were transported along the paths that provide short-cuts up and down 
 - journey（基础词）：行程。
 - on foot (B1)：步行。
 - arduous (C1)：艰苦费力的。
+<!-- C07-SENTENCE-VOCAB-START 21 -->
+- goods (B1)：货物；作 transported 的运输对象。
+- paths (B1)：小路；本句两次出现，既是运输捷径也是安全风险。
+<!-- C07-SENTENCE-VOCAB-END 21 -->
 
 #### 22
 
@@ -405,6 +434,9 @@ It made sense to improve the paths by building steps, handrails and footbridges.
 - improve（基础词）：改善。
 - handrail（工程设施，B2）：扶手。
 - footbridge（交通设施，B2）：人行桥。
+<!-- C07-SENTENCE-VOCAB-START 22 -->
+- paths (B1)：小路；这里是 improve 的直接宾语。
+<!-- C07-SENTENCE-VOCAB-END 22 -->
 
 ### 第8段
 
@@ -488,6 +520,10 @@ After careful consideration, the project chose the promotion of donkeys – a do
 - locally (B1)：在当地。
 - manufacturable（制造业，C1）：可制造的。
 - wheelbarrow（工具，B2）：独轮车。
+<!-- C07-SENTENCE-VOCAB-START 27 -->
+- project (B1)：项目；本句把 MIRTP 作为决策主体。
+- costs (B1)：价格为；cost 作动词，第三人称单数形式不加 to。
+<!-- C07-SENTENCE-VOCAB-END 27 -->
 
 ## Section D
 
@@ -507,6 +543,9 @@ At the end of Phase II, it was clear that the selected approaches to Makete’s 
 - transport problem (B1)：运输问题。
 - degree (B1)：程度。
 - success（基础词）：成功。
+<!-- C07-SENTENCE-VOCAB-START 28 -->
+- Phase II (B2)：第二阶段；用于标示项目时间和工作分期。
+<!-- C07-SENTENCE-VOCAB-END 28 -->
 
 #### 29
 
@@ -522,6 +561,9 @@ Phase III, from March 1991 to March 1993, focused on the refinement and institut
 - refinement (C1)：完善、改进。
 - institutionalisation（项目管理，C1）：制度化。
 - activity（基础词）：活动。
+<!-- C07-SENTENCE-VOCAB-START 29 -->
+- phase (B2)：阶段；Phase III 是项目第三阶段。
+<!-- C07-SENTENCE-VOCAB-END 29 -->
 
 ### 第11段
 
@@ -539,6 +581,9 @@ The road improvements and accompanying maintenance system had helped make the di
 - district centre (B2)：区中心。
 - accessible (B2)：可到达的。
 - throughout (B1)：贯穿整个期间。
+<!-- C07-SENTENCE-VOCAB-START 30 -->
+- improvements (B1)：改善工程；具体指道路改造及配套维护。
+<!-- C07-SENTENCE-VOCAB-END 30 -->
 
 #### 31
 
@@ -574,6 +619,9 @@ Paths and secondary roads were improved only at the request of communities who w
 - participate in (B1)：参与。
 - construction (B2)：建设。
 - maintenance (B2)：维护。
+<!-- C07-SENTENCE-VOCAB-START 32 -->
+- paths (B1)：小路；与 secondary roads 并列作被改善对象。
+<!-- C07-SENTENCE-VOCAB-END 32 -->
 
 #### 33
 
@@ -593,6 +641,10 @@ However, the improved paths impressed the inhabitants, and requests for assistan
 - increase (B1)：增加。
 - improvement (B1)：改善项目。
 - complete（基础词）：完成。
+<!-- C07-SENTENCE-VOCAB-START 33 -->
+- paths (B1)：小路；improved paths 指已经修整的小路。
+- improvements (B1)：改善项目；few 强调完成数量仍少。
+<!-- C07-SENTENCE-VOCAB-END 33 -->
 
 ### 第13段
 
@@ -614,6 +666,9 @@ The efforts to improve the efficiency of the existing transport services were no
 - break down (B1)：发生故障。
 - resource (B1)：资源。
 - repair（基础词）：修理。
+<!-- C07-SENTENCE-VOCAB-START 34 -->
+- district (B1)：地区；限定车辆发生故障的地理范围。
+<!-- C07-SENTENCE-VOCAB-END 34 -->
 
 #### 35
 
@@ -660,6 +715,9 @@ Modifications to the original design by local carpenters cut production time and
 - carpenter（职业，B2）：木匠。
 - production time（制造业，B2）：生产时间。
 - cost（基础词）：成本。
+<!-- C07-SENTENCE-VOCAB-START 37 -->
+- costs (B1)：成本；production time and costs 是并列宾语。
+<!-- C07-SENTENCE-VOCAB-END 37 -->
 
 #### 38
 
@@ -697,6 +755,9 @@ Nevertheless, a locally produced wooden wheelbarrow which costs around 5000 Tanz
 - metal（基础词）：金属的。
 - wheelbarrow（工具，B2，第2次）：独轮车。
 - expensive（基础词）：昂贵的。
+<!-- C07-SENTENCE-VOCAB-START 39 -->
+- cost / costs (B1)：费用、售价；本句两次作动词、一次作名词。
+<!-- C07-SENTENCE-VOCAB-END 39 -->
 
 ### 第14段
 
@@ -767,6 +828,9 @@ It should be noted, however, that a donkey, which at 20,000 Tanzanian shillings 
 - equal to（基础表达）：等同于。
 - average（基础词）：平均的、普通水平的。
 - household income（经济学，B2）：家庭收入。
+<!-- C07-SENTENCE-VOCAB-START 43 -->
+- costs (B1)：价格为；这里比较驴与自行车的购置价格。
+<!-- C07-SENTENCE-VOCAB-END 43 -->
 
 #### 44
 
@@ -856,6 +920,9 @@ Today, nobody in the district argues about the importance of improved paths and 
 - improved（基础词）：改善后的。
 - inexpensive (B2)：价格低廉的。
 - means of transport（基础词）：运输工具。
+<!-- C07-SENTENCE-VOCAB-START 47 -->
+- paths (B1)：小路；improved paths 指已获得当地认可的改良道路。
+<!-- C07-SENTENCE-VOCAB-END 47 -->
 
 #### 48
 
@@ -932,7 +999,9 @@ The experiences from Makete will help in this initiative, and Makete District wi
 - reference (B2)：参照、范例。
 - future（基础词）：未来的。
 
-## Questions 27–40 完整精讲
+## 02 题目与选项精讲
+
+### Questions 27–40 完整精讲
 
 原书总说明：You should spend about 20 minutes on Questions 27–40, which are based on Reading Passage 3 on the following pages.
 
@@ -1347,7 +1416,335 @@ Which of the following phrases best describes the main aim of Reading Passage 3?
 - C：`examine` (B2)“考察”；`promote` (B2)“推广”。
 - D：`warn` (B1)“警告”；`project` (B1，第2次)“项目”；`be likely to` (B1)“很可能”；`serious problem` (B1)“严重问题”。
 
-## 文章回收
+### 文章回收
 
 MIRTP的价值不在于某一种工具绝对成功，而在于它建立了一条从调查真实负担、选择适用技术、检验成效，到形成地方认同和制度支持的完整路径。道路改善解决了季节性隔绝，小径工程获得了社区响应；机动车维护和低成本工具却继续受到资源与贫困限制。结尾因此没有把项目包装成完美答案，而是把马凯特的经验作为未来工作的参照。
 
+<!-- C07-QUESTION-VOCAB-START -->
+### B1+ 词汇查漏补充
+
+- `within`（**B1**）：在……范围内；本文既可指时间期限，也可指项目或地区范围。
+- `project`（**B1**）：项目、工程；本文指有目标、阶段和资源安排的农村交通计划。
+- `goods`（**B1**）：货物、商品；是复数形式，强调需要运输的物资。
+- `solution`（**B1**）：解决方案；常与 problem 搭配，指可执行的处理办法。
+- `improvement`（**B1**）：改善、改进；既可指过程，也可指具体改善成果。
+- `path`（**B1**）：小路、通道；本文多指村庄日常步行和运输使用的道路。
+- `phase`（**B2**）：阶段；项目管理中指具有独立目标和任务的一段时期。
+- `district`（**B1**）：地区、行政区；本文用于界定项目实施的地理范围。
+- `cost`（**B1**）：成本、费用；既可作名词，也可作动词表示“花费”。
+<!-- C07-QUESTION-VOCAB-END -->
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| integrated rural transport | B2 | 指把道路、小径、运输工具与家庭实际需求放在同一体系中考虑 |
+| project | B1 | 指有明确目标和阶段的“项目” |
+| disappointing | B1 | 令人失望的 |
+| conventional | B2 | 传统的、常规的 |
+| transport project | B1 | 运输项目 |
+| expert | B1 | 专家 |
+| rethink | C1 | 重新思考 |
+| strategy | B2 | 策略 |
+| rural | B2 | 农村的 |
+| tackle | B2 | 着手处理棘手问题 |
+| at the beginning of | B1 | 在……之初 |
+| deal with | B2 | Cambridge Dictionary: tackle |
+| request | B1 | 请求 |
+| availability | B2 | 可获得性、可用程度 |
+| remote | B1 | 偏远的 |
+| district | B2 | 地区、行政区 |
+| present an opportunity | B1 | 带来一个机会 |
+| approach | B2 | 方法、思路 |
+| within | B1 | 在……范围内 |
+| concept | B2 | 概念、理念 |
+| integrated | B2 | 综合的、一体化的 |
+| rural transport | B2 | 农村运输 |
+| adopt | B2 | 采用 |
+| task | B1 | 任务 |
+| examine | B2 | 调查、审视 |
+| transport needs | B1 | 运输需求 |
+| rural household | B2 | 农村家庭 |
+| objective | B2 | 目标 |
+| reduce | B1 | 减少 |
+| effort | B1 | 精力、努力 |
+| obtain access to | B2 | 获得使用或取得……的机会 |
+| essential | B1 | 必需的 |
+| goods and services | B1 | 商品与服务 |
+| rural transport system | B2 | 农村运输系统 |
+| underlying | B2 | 潜在的、构成基础的 |
+| assumption | B2 | 假设 |
+| instead | B1 | 转而、代替 |
+| social development | B2 | 社会发展 |
+| economic development | B2 | 经济发展 |
+| community | B1 | 社区 |
+| financial support | B1 | 资金支持 |
+| corporation | B2 | 公司、机构 |
+| co-ordinate | B2 | 协调 |
+| with the help of | B1 | 在……帮助下 |
+| virtually | B2 | 几乎、实际上 |
+| isolated | B2 | 与外界隔绝的 |
+| regional | B2 | 地区性的 |
+| in bad shape | B2 | 状况很差 |
+| access | B1 | 进入、到达的通道 |
+| extremely | B1 | 极其 |
+| rare | B1 | 罕见的 |
+| alternative | B2 | 替代性的 |
+| be restricted to | B2 | 仅限于 |
+| rely on | B2 | 依靠 |
+| primarily | B2 | 主要地 |
+| path | B1 | 小路 |
+| slippery | B2 | 湿滑的 |
+| solution | B1 | 解决方案 |
+| propose | B2 | 提出 |
+| transport demand | B2 | 运输需求 |
+| phase | B2 | 阶段 |
+| focus on | B1 | 集中于 |
+| research | B1 | 研究 |
+| socio-economic | B2 | 社会经济的 |
+| survey | B1 | 调查 |
+| household | B2 | 家庭、住户 |
+| indicate | B2 | 表明 |
+| on average | B1 | 平均 |
+| figure | B1 | 数字 |
+| extreme | B2 | 极端的 |
+| obtain | B2 | 获得 |
+| rural area | B2 | 农村地区 |
+| goods | B1 | 货物 |
+| regarding | B2 | 关于 |
+| on foot | B1 | 步行 |
+| locality | C1 | 当地、附近地区 |
+| be related to | B1 | 与……有关 |
+| collection | B2 | 收集、取用 |
+| firewood | B2 | 柴火 |
+| grinding mill | C1 | 磨坊 |
+| determine | B2 | 确定 |
+| transport need | B1 | 运输需求 |
+| identify | B2 | 识别、找出 |
+| burden | C1 | 负担 |
+| solutions | B1 | 解决方案 |
+| a number of | B1 | 若干 |
+| implement | B2 | 实施 |
+| in an effort to | B2 | 为了 |
+| mobility | B2 | 流动能力 |
+| access to transport | B1 | 获得交通工具的机会 |
+| road network | B2 | 道路网络 |
+| consider | B1 | 认为 |
+| necessary | B1 | 必要的 |
+| ensure | B2 | 确保 |
+| import | B1 | 进口、输入 |
+| export | B1 | 出口、输出 |
+| improvement | B1 | 改善 |
+| carry out | B1 | 执行、开展 |
+| heavily dependent on | B2 | 高度依赖 |
+| labour | B2 | 劳动力 |
+| improvements | B1 | 改善工程 |
+| in addition to | B1 | 除……之外还 |
+| training | B1 | 培训 |
+| operation | B2 | 运营、操作 |
+| mechanical workshop | B2 | 机械维修车间 |
+| truck service | B1 | 卡车运输服务 |
+| however | B1 | 然而 |
+| consideration | B2 | 考虑 |
+| give consideration to | B2 | 考虑 |
+| local transport needs | B1 | 本地运输需求 |
+| short-cut | B2 | 捷径 |
+| hillside | B2 | 山坡 |
+| safety risk | B2 | 安全风险 |
+| arduous | C1 | 艰苦费力的 |
+| paths | B1 | 小路 |
+| make sense | B1 | 合理、有道理 |
+| handrail | B2 | 扶手 |
+| footbridge | B2 | 人行桥 |
+| uncommon | B2 | 不常见的 |
+| efficient | B1 | 高效的 |
+| technologically advanced | B2 | 技术先进的 |
+| motor vehicle | B2 | 机动车 |
+| constrain | C1 | 限制、约束 |
+| lack of | B1 | 缺少 |
+| spare part | B2 | 零部件、备件 |
+| ox | B2 | 牛，复数 oxen |
+| northern | B1 | 北部的 |
+| appropriate | B2 | 合适的 |
+| inhabitant | B2 | 居民 |
+| in terms of | B2 | 从……方面看 |
+| afford | B1 | 负担得起 |
+| be willing to | B1 | 愿意 |
+| careful consideration | B2 | 慎重考虑 |
+| promotion | B2 | 推广 |
+| introduction | B2 | 引入 |
+| locally | B1 | 在当地 |
+| manufacturable | C1 | 可制造的 |
+| wheelbarrow | B2 | 独轮车 |
+| costs | B1 | 价格为 |
+| selected | B1 | 选定的 |
+| transport problem | B1 | 运输问题 |
+| degree | B1 | 程度 |
+| Phase II | B2 | 第二阶段 |
+| refinement | C1 | 完善、改进 |
+| institutionalisation | C1 | 制度化 |
+| accompanying | B2 | 配套的、伴随的 |
+| maintenance system | B2 | 维护体系 |
+| district centre | B2 | 区中心 |
+| accessible | B2 | 可到达的 |
+| throughout | B1 | 贯穿整个期间 |
+| essential goods | B1 | 基本商品 |
+| readily available | B2 | 容易获得的 |
+| fluctuate | C1 | 波动 |
+| secondary road | B2 | 次级道路 |
+| at the request of | B2 | 应……请求 |
+| participate in | B1 | 参与 |
+| construction | B2 | 建设 |
+| maintenance | B2 | 维护 |
+| impress | B2 | 给……留下深刻印象 |
+| assistance | B2 | 援助 |
+| greatly | B1 | 大幅地 |
+| increase | B1 | 增加 |
+| efficiency | B2 | 效率 |
+| existing | B1 | 现有的 |
+| transport service | B1 | 运输服务 |
+| motorised vehicle | B2 | 机动车 |
+| break down | B1 | 发生故障 |
+| resource | B1 | 资源 |
+| district | B1 | 地区 |
+| low-cost | B2 | 低成本的 |
+| general poverty | B2 | 普遍贫困 |
+| locally manufactured | B2 | 当地制造的 |
+| all but | B2 | 除……以外全部 |
+| modification | B2 | 修改 |
+| carpenter | B2 | 木匠 |
+| production time | B2 | 生产时间 |
+| local | B1 | 当地的 |
+| so that | B1 | 以便 |
+| respond to | B1 | 回应 |
+| nevertheless | B2 | 尽管如此 |
+| locally produced | B2 | 当地生产的 |
+| contribute to | B2 | 有助于 |
+| in particular | B1 | 尤其 |
+| transportation | B2 | 运输 |
+| crop | B1 | 农作物 |
+| increased | B1 | 增加的 |
+| supply | B1 | 供给 |
+| local breeding | B2 | 本地繁育 |
+| affordable | B2 | 负担得起的 |
+| meanwhile | B1 | 与此同时 |
+| local initiative | B2 | 地方行动、倡议 |
+| promote | B2 | 推动、促进 |
+| rent out | B1 | 出租 |
+| note | B1 | 指出、提醒注意 |
+| investment | B2 | 投资 |
+| household income | B2 | 家庭收入 |
+| illustrate | B2 | 说明、阐明 |
+| supplementary | C1 | 补充的、配套的 |
+| measure | B2 | 措施 |
+| assist | B1 | 帮助 |
+| rural poor | B2 | 农村贫困人口 |
+| criticise | B2 | 批评 |
+| top-down | C1 | 自上而下的 |
+| official | B2 | 官员 |
+| hand down | B2 | 由上级下达 |
+| process | B1 | 过程 |
+| governmental authority | C1 | 政府主管部门 |
+| villager | B2 | 村民 |
+| rural inhabitant | B2 | 农村居民 |
+| support | B1 | 支持 |
+| understanding | B1 | 理解 |
+| district authority | C1 | 地区主管部门 |
+| argue about | B1 | 对……持异议、争论 |
+| importance | B1 | 重要性 |
+| inexpensive | B2 | 价格低廉的 |
+| dedicated | B2 | 投入的、尽心的 |
+| over a long period | B1 | 长期以来 |
+| particularly | B1 | 尤其 |
+| officer | B2 | 官员、工作人员 |
+| in charge of | B1 | 负责 |
+| community development | B2 | 社区发展 |
+| play an essential role in | B2 | 在……中发挥关键作用 |
+| raise awareness | B2 | 提高认识 |
+| rural community | B2 | 农村社区 |
+| well established | B2 | 已牢固确立的 |
+| major | B2 | 大型的、重要的 |
+| be about to | B1 | 即将 |
+| experience | B1 | 经验 |
+| initiative | B2 | 行动、倡议 |
+| act as | B2 | 充当 |
+| reference | B2 | 参照、范例 |
+| be based on | B1 | “以……为依据” |
+| passage | B2 | “阅读文章、篇章” |
+| section(s) | B1 | “章节” |
+| heading | B1 | “标题” |
+| model | B2 | “可供仿效的范例” |
+| identify | B1 | “识别” |
+| preference | B2 | “偏好” |
+| authority | B2 | “主管部门” |
+| initial | B2 | “初期的” |
+| transport mode | B2 | “运输方式” |
+| transport improvement | B1 | “运输改善” |
+| rail network | B2 | “铁路网络” |
+| effect | B1 | “效果” |
+| co-operation | B2 | “合作” |
+| role | B1 | “作用” |
+| section | B1 | 均指文章中的“节” |
+| statement(s) | B1 | “陈述” |
+| agree with | B1 | “与……一致” |
+| claim(s) | B2 | “观点、主张” |
+| contradict | B2 | “与……矛盾” |
+| be divided into | B1 | “被划分为” |
+| prior to | B2 | “在……之前” |
+| inaccessible | B2 | “无法进入的” |
+| consist of | B1 | “由……组成” |
+| expenditure | C1 | “支出” |
+| conclude | B1 | “得出结论” |
+| transport requirement | B2 | “运输需求” |
+| local area | B1 | “本地区域” |
+| movement | B1 | “运输、移动” |
+| capital | B1 | “首都” |
+| ending | B1 | “句尾、结尾” |
+| frequent | B1 | “频繁的” |
+| breakdown | B2 | “故障” |
+| isolation | B2 | “隔绝” |
+| run ... services | B1 | “运营……服务” |
+| especially | B1 | “尤其” |
+| differ from | B1 | “与……不同” |
+| actively involved | B2 | “积极参与” |
+| no longer | B1 | “不再” |
+| lend a hand | B2 | “出力、帮忙” |
+| hinder | C1 | “阻碍” |
+| attempt | B2 | “尝试” |
+| phrase | B1 | “短语” |
+| describe | B1 | “描述” |
+| main aim | B1 | “主要目的” |
+| suggest | B1 | “提出、认为” |
+| warn | B1 | “警告” |
+| be likely to | B1 | “很可能” |
+| serious problem | B1 | “严重问题” |
+| cost | B1 | 成本、费用 |
+
+## 04 IELTS 阅读提醒
+
+- 段落标题匹配先提炼每段的主功能，再排除只复述局部细节的标题；同义改写比原词复现更可靠。
+- YES / NO / NOT GIVEN 判断的是作者观点：同义支持选 YES，明确冲突选 NO，原文没有足够信息才选 NOT GIVEN。
+- 句尾匹配先独立预测语义，再检查语法和逻辑是否都能闭合，避免只凭表面搭配。
+- 选择题先确定题干限定词，再回原文比较完整含义；不要因选项复现个别原词就直接作答。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 27 | ii |
+| 28 | v |
+| 29 | x |
+| 30 | i |
+| 31 | NO |
+| 32 | YES |
+| 33 | NO |
+| 34 | YES |
+| 35 | NOT GIVEN |
+| 36 | D |
+| 37 | I |
+| 38 | G |
+| 39 | E |
+| 40 | B |

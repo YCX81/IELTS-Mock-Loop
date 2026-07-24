@@ -1,5 +1,9 @@
 # Endless Harvest｜无尽的收获
 
+## Endless Harvest
+
+## 01 逐句精读
+
 ## 标题精讲
 
 `Endless Harvest` 表面可译为“无尽的收获”，真正的问题却是：自然资源被不断捕捞，为什么还能持续产出？全文沿“资源丰饶 -> 过度捕捞造成崩溃 -> 可持续管理促成恢复 -> 危机检验制度 -> 获得认证”的路线推进。所谓“无尽”不是自然界自动补足损耗，而是实时监测、即时停捕和持续复审共同创造的结果。
@@ -12,7 +16,7 @@
 
 `Good soil management can turn a short boom into an endless harvest.` 良好的土壤管理能把短期丰收变成长期稳定的收获。`A platform cannot promise an endless harvest of user attention.` 平台不能假定用户注意力可以被无休止地收割。相近表达中，`sustainable yield` 偏技术指标；`steady supply` 不说明生态代价；`renewable resource` 指资源类别，也不保证实际利用方式可持续。
 
-## 逐句精读
+### 原文逐句展开
 
 ### 第一段
 
@@ -440,7 +444,9 @@ Certification is for an initial period of five years, with an annual review to e
 - `**` — `spawn: release eggs`，即“排卵”。`spawn`（鱼类学领域，C1）指鱼类、蛙类等产卵；脚注用基础表达解释这个专业动词。
 - `***` — `MSC: a joint venture between WWF (World Wildlife Fund) and Unilever, a Dutch-based multi-national`，即“世界自然基金会（WWF）与联合利华共同设立的项目；联合利华是一家总部设在荷兰的跨国公司”。`joint venture`（商业/机构领域，C1）合资或联合项目；`wildlife fund`（自然保护领域，B2）野生生物基金；`Dutch-based`（商业领域，B2）总部设在荷兰的；`multi-national`（商业领域，B2）跨国公司。
 
-## Questions 14–20
+## 02 题目与选项精讲
+
+### Questions 14–20
 
 ### 完整指令
 
@@ -580,7 +586,7 @@ In boxes 14-20 on your answer sheet, write
 - 干扰理由 13（TRUE）：`well in excess of 100 million` 不是“等于一亿”，而且数年超过两亿。
 - 干扰理由 14（NOT GIVEN）：原文直接描述了 90 年代每年的捕捞水平，足以比较，不是未提供数据。
 
-## Questions 21–26
+### Questions 21–26
 
 ### 完整指令
 
@@ -792,8 +798,328 @@ Write the correct letter, A-K, in boxes 21-26 on your answer sheet.
 - 干扰理由 73（J）：阿拉斯加渔业已经符合认证资格，与“拒绝认证”含义相反。
 - 干扰理由 74（K）：关闭渔场是州政府较早的紧急行动，不是 MSC 授予公司的权力。
 
-## 答案总表
+### 答案总表
 
 14 FALSE；15 NOT GIVEN；16 TRUE；17 NOT GIVEN；18 TRUE；19 TRUE；20 FALSE；21 G；22 E；23 B；24 A；25 K；26 F。
 
 全文真正说明的是：可持续并非“永远不会出问题”，而是制度能否在资源丰足时限制捕捞、在危机发生时果断收缩，并在获得认可后继续接受复审。标题中的“无尽”，最终落在持续管理，而非无限索取上。
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| endless | B2 | 意为“无尽的、似乎不会结束的” |
+| explorer | B1 | 探险者 |
+| fur hunter | B1 | 毛皮猎人 |
+| land on | B1 | 登上、登陆 |
+| volcanic | B2 | 火山的 |
+| archipelago | C1 | 群岛 |
+| land mass | B2 | 大片连续陆地 |
+| farther to the north | B1 | 在更北面 |
+| learn of | B2 | 得知、获悉 |
+| native inhabitant | B2 | 原住民 |
+| call A B | B1 | 把 A 称为 B |
+| know A as B | B1 | 以 B 这个名称认识 A |
+| the forty-ninth state to join | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| fully | B2 | 在数字前强调“足足” |
+| one-fifth the size of | B2 | 面积是……的五分之一 |
+| mainland 48 states combined | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| share ... with ... | B1 | 与……共享…… |
+| river system | B2 | 河流体系 |
+| coastline | B2 | 海岸线 |
+| feed into | B2 | 汇入 |
+| gulf | B1 | 海湾 |
+| nutrient-rich | B2 | 营养物丰富的 |
+| support | B2 | 维持、养育 |
+| tens of millions of | B2 | 数千万 |
+| seabird | B1 | 海鸟 |
+| species | B1 | 物种 |
+| shellfish | B2 | 贝类和甲壳类水产 |
+| crustacean | C1 | 甲壳动物 |
+| mollusc | C1 | 软体动物 |
+| take advantage of | B1 | 利用 |
+| rich | B1 | 丰富的 |
+| bounty | C1 | 丰厚的自然产出 |
+| commercial fishery | B2 | 商业渔业 |
+| develop into | B1 | 发展成为 |
+| some of the largest | B1 | 规模最大的一批……之一 |
+| according to | B1 | 根据 |
+| department | B1 | 政府部门 |
+| fish and game | B2 | 鱼类与猎物资源 |
+| land | B2 | 捕获并卸岸 |
+| hundreds of thousands of | B2 | 数十万 |
+| tonne | B1 | 公吨 |
+| herring | B2 | 鲱鱼 |
+| well over | B2 | 远远超过 |
+| groundfish | C1 | 底层鱼 |
+| cod | B2 | 鳕鱼 |
+| sole | B2 | 鳎鱼 |
+| perch | B2 | 鲈鱼 |
+| pollock | B2 | 狭鳕 |
+| cultural | B1 | 文化上的 |
+| heart and soul | B2 | 最核心、最有生命力的部分 |
+| fishery | B2 | 渔业体系 |
+| however | B1 | 然而 |
+| salmon | B1 | 鲑鱼，单复数通常同形 |
+| note | B2 | 指出、写道 |
+| factbook | B2 | 资料手册 |
+| pump through | B2 | 有力地流经 |
+| rhythmic | B2 | 有节律的 |
+| circulating | B2 | 循环流动的 |
+| nourishment | B2 | 维持生命的滋养 |
+| predictable | B1 | 可预期的 |
+| abundance | C1 | 丰盛、充足 |
+| allow ... to flourish | B2 | 使……蓬勃发展 |
+| native culture | B2 | 原住民文化 |
+| spawner | C1 | 已完成产卵的鱼 |
+| eagle | B1 | 鹰 |
+| feed | B1 | 为……提供食物 |
+| ultimately | B2 | 最终 |
+| soil | B1 | 土壤 |
+| Pacific salmon | B1 | 太平洋鲑鱼 |
+| chinook | C1 | 帝王鲑 |
+| chum | C1 | 狗鲑 |
+| coho | C1 | 银鲑 |
+| sockeye | C1 | 红鲑 |
+| humpback | C1 | 驼背鲑 |
+| spawn | C1 | 产卵 |
+| Alaskan waters | B2 | 阿拉斯加水域 |
+| commercially caught | B2 | 以商业目的捕获的 |
+| produce | B1 | 出产 |
+| indeed | B2 | 确实、事实上 |
+| independent nation | B2 | 独立国家 |
+| producer | B1 | 生产者或生产地区 |
+| wild salmon | B2 | 野生鲑鱼 |
+| commercial catch | B2 | 商业渔获 |
+| exceed | B2 | 超过 |
+| ex-vessel value | C1 | 渔获卸船时支付给捕捞者的价值 |
+| catch | B1 | 渔获量 |
+| not always | B1 | 并非一直 |
+| healthy | B1 | 状况良好的、稳健的 |
+| overfishing | B2 | 超过鱼群再生能力的过度捕捞 |
+| lead to | B1 | 导致 |
+| crash | B2 | 数量急剧崩溃 |
+| salmon population | B2 | 鲑鱼种群 |
+| severe | B2 | 严重的 |
+| declare | B2 | 正式宣布 |
+| federal disaster area | C1 | 联邦灾区 |
+| onset | C1 | 开始 |
+| statehood | C1 | 成为州的法律地位 |
+| the State of Alaska | B1 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| take over management of | B2 | 接管……的管理 |
+| guided by | B2 | 受……指导 |
+| state constitution | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| mandate | C1 | 明文规定 |
+| natural resource | B1 | 自然资源 |
+| on a sustainable basis | B2 | 以可持续方式 |
+| statewide | B2 | 全州范围的 |
+| harvest | B2 | 捕捞量 |
+| total | B1 | 合计达到 |
+| decade | B1 | 十年 |
+| average catch | B2 | 平均捕捞量 |
+| steadily | B2 | 稳定地 |
+| as a result of | B1 | 由于 |
+| policy | B1 | 政策 |
+| sustainable management | B2 | 可持续管理 |
+| annual harvest | B2 | 年度捕捞量 |
+| well in excess of | C1 | 远远超过 |
+| on several occasions | B2 | 有好几次 |
+| primary | B2 | 首要的 |
+| increase | B1 | 增长 |
+| what is known as | B2 | 所谓的、被称作 |
+| in-season | C1 | 在当季进行的 |
+| abundance-based management | C1 | 依据资源数量决定捕捞强度的管理 |
+| biologist | B2 | 生物学家 |
+| throughout | B2 | 遍及 |
+| constantly | B2 | 持续不断地 |
+| monitor | B2 | 持续观察并记录 |
+| adult fish | B1 | 成鱼 |
+| show up | B1 | 出现、到来 |
+| streamside | B2 | 溪流边的 |
+| counting tower | B2 | 观察和计数洄游鱼类的塔台 |
+| sonar | C1 | 声呐 |
+| aeroplane | B1 | 飞机 |
+| fisherman | B1 | 渔民 |
+| salmon season | B2 | 允许捕捞鲑鱼的季节 |
+| pre-set | B2 | 预先设定的 |
+| approximate | B2 | 大致的 |
+| be allowed to | B1 | 被允许 |
+| on any given day | B2 | 在任何一个具体日子 |
+| field biologist | B2 | 野外生物学家 |
+| particular area | B1 | 特定区域 |
+| put a halt to | C1 | 叫停 |
+| sport fishing | B2 | 休闲垂钓 |
+| bring ... to a halt | C1 | 使……停止 |
+| management mechanism | B2 | 管理机制 |
+| salmon stock | C1 | 作为管理单位的鲑鱼资源群体 |
+| accordingly | C1 | 因此、相应地 |
+| even as | C1 | 恰在……同时，常带对照 |
+| be considered | B1 | 被认为 |
+| increasingly | B2 | 越来越多地 |
+| threatened | B2 | 受威胁 |
+| endangered | B2 | 濒危 |
+| Marine Stewardship Council | C1 | 海洋管理委员会 |
+| stewardship | C1 | 负责任地管理受托资源 |
+| commission | C1 | 委托进行 |
+| review | B2 | 系统评审 |
+| salmon fishery | B2 | 鲑鱼渔业 |
+| council | B2 | 委员会 |
+| found | B2 | 创立 |
+| certify | C1 | 正式证明达到标准 |
+| meet standards | B2 | 达到标准 |
+| environmental standard | B2 | 环境标准 |
+| enable ... to | B2 | 使……能够 |
+| label | B1 | 认证标识 |
+| recognise | B2 | 正式认可 |
+| environmental responsibility | B2 | 环境责任表现 |
+| establish | B2 | 建立、制定 |
+| a set of criteria | B2 | 一套标准 |
+| criteria | B2 | 是 |
+| criterion | B2 | 的复数形式 |
+| judge by | B1 | 依据……评判 |
+| potential benefit | B2 | 潜在好处 |
+| identify ... as ... | B2 | 把……认定为…… |
+| environmentally responsible | B2 | 对环境负责的 |
+| approach | B2 | 接洽 |
+| request to | B2 | 请求做 |
+| undergo | C1 | 接受某一正式过程 |
+| certification process | B2 | 认证流程 |
+| appoint | B2 | 正式任命 |
+| certification committee | B2 | 认证委员会 |
+| be composed of | B2 | 由……组成 |
+| panel | B2 | 专家小组 |
+| fisheries expert | B2 | 渔业专家 |
+| gather information and opinions | B2 | 收集信息与意见 |
+| government official | B2 | 政府官员 |
+| industry representative | B2 | 行业代表 |
+| non-governmental organisation | B2 | 非政府组织 |
+| observer | B2 | 观察者/评论人士 |
+| have a chance of | B1 | 有……的机会 |
+| certification | B2 | 认证 |
+| lead up to | B2 | 临近并导向 |
+| final decision | B1 | 最终决定 |
+| salmon run | C1 | 鲑鱼洄游过程或数量 |
+| completely | B1 | 完全地 |
+| collapse | B2 | 彻底崩溃 |
+| the poorest since | B2 | 自……以来最差 |
+| probably | B1 | 很可能 |
+| community | C1 | 依靠当地资源维持基本生活的社区 |
+| throughout the region | B2 | 遍及该地区 |
+| normally | B1 | 通常 |
+| have priority over | B2 | 优先于 |
+| commercial fishing | B2 | 商业捕捞 |
+| devastated | C1 | 遭到毁灭性打击的 |
+| crisis | B2 | 危机 |
+| unexpected | B1 | 出乎意料的 |
+| researcher | B1 | 研究人员 |
+| believe | B1 | 相信、认为 |
+| have nothing to do with | B2 | 与……无关 |
+| impact | B2 | 影响 |
+| rather | B2 | 相反、而是 |
+| contend | C1 | 主张 |
+| almost certainly | B2 | 几乎可以确定 |
+| the result of | B1 | ……的结果 |
+| climatic shift | C1 | 气候状态变化 |
+| prompt | C1 | 促成 |
+| in part | B1 | 部分地 |
+| cumulative effect | C1 | 累积效应 |
+| Pacific Ocean temperatures | B1 | 太平洋水温 |
+| culminate in | C1 | 最终导致 |
+| harsh winter | B2 | 严冬 |
+| huge numbers of | B2 | 大量 |
+| salmon egg | B1 | 鲑鱼卵 |
+| be frozen | B1 | 被严寒冻住 |
+| could have meant | B2 | 本来可能意味着 |
+| mean the end | B2 | 意味着终结 |
+| as far as ... be concerned | B2 | 就……而言 |
+| react | B1 | 作出反应 |
+| close down | B2 | 关闭 |
+| necessary for | B1 | 为……所必需 |
+| purpose | B1 | 用途 |
+| subsistence purpose | C1 | 维持基本生活的用途 |
+| announce | B1 | 正式宣布 |
+| qualify for | B2 | 符合……资格 |
+| company producing ... | B1 | 生产某产品的公司 |
+| immediately | B1 | 立即 |
+| grant permission to | B2 | 正式准许 |
+| display | B1 | 展示 |
+| logo | B1 | 机构或品牌标志 |
+| initial period | B2 | 初始期限 |
+| annual review | B2 | 年度复审 |
+| ensure | B2 | 确保 |
+| continue to meet | B1 | 持续达到 |
+| required standard | B2 | 规定标准 |
+| release eggs | B1 | 排卵 |
+| joint venture | C1 | 合资或联合项目 |
+| wildlife fund | B2 | 野生生物基金 |
+| Dutch-based | B2 | 总部设在荷兰的 |
+| multi-national | B2 | 跨国公司 |
+| statement | B1 | 陈述 |
+| agree with | B1 | 与……一致 |
+| information | B1 | 信息 |
+| answer sheet | B1 | 答题纸 |
+| contradict | B2 | 与……矛盾 |
+| NOT GIVEN | B1 | 原文未提供足够信息 |
+| inhabitant | B2 | 居民 |
+| rename | B1 | 重新命名 |
+| be owned by | B1 | 由……拥有 |
+| some of the world’s largest companies | B1 | 世界上最大的一些公司 |
+| be dependent on | B2 | 依赖 |
+| ninety per cent of | B1 | ……的 90% |
+| caught | B1 | 被捕获的 |
+| pink salmon | B2 | 粉鲑 |
+| be caught | B1 | 被捕获 |
+| sharp decrease | B2 | 急剧下降 |
+| during the 1990s | B1 | 在 20 世纪 90 年代 |
+| average number | B1 | 平均数量 |
+| caught each year | B1 | 每年捕获的 |
+| complete | B1 | 补全 |
+| sentence ending | B1 | 句尾 |
+| care for the environment | B1 | 重视并保护环境 |
+| successful | B1 | 成功的 |
+| stop ... from doing | B1 | 阻止……做 |
+| set up | B1 | 建立、制定 |
+| environmental protection law | B2 | 环境保护法 |
+| fish for sport | B2 | 为娱乐而垂钓 |
+| sufficient | B2 | 足够的 |
+| permit | B2 | 允许 |
+| assist | B2 | 协助 |
+| subsistence community | C1 | 依靠当地资源维持基本生活的社区 |
+| region | B1 | 地区 |
+| freeze | B1 | 使结冰、冻住 |
+| a huge number of | B2 | 大量 |
+| deny ... to ... | B2 | 拒绝给予 |
+| keep a check on | B2 | 持续检查、监控 |
+| have the authority | B2 | 有权、有权限 |
+| in-season abundance-based management | C1 | 捕捞季内基于资源丰度的管理 |
+| allow ... to | B1 | 使……能够 |
+| be established | B2 | 被成立、建立 |
+| the state | B1 | 州政府 |
+| allow | B1 | 允许 |
+| salmon company | B1 | 鲑鱼产品公司 |
+
+## 04 IELTS 阅读提醒
+
+- 处理 TRUE FALSE NOT GIVEN 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 处理 MATCHING SENTENCE ENDINGS 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 14 | FALSE |
+| 15 | NOT GIVEN |
+| 16 | TRUE |
+| 17 | NOT GIVEN |
+| 18 | TRUE |
+| 19 | TRUE |
+| 20 | FALSE |
+| 21 | G |
+| 22 | E |
+| 23 | B |
+| 24 | A |
+| 25 | K |
+| 26 | F |

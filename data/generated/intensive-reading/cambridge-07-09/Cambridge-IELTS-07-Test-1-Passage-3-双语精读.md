@@ -1,10 +1,14 @@
 # EDUCATING PSYCHE｜教育心灵
 
+## Educating Psyche
+
+## 01 逐句精读
+
 这篇文章讨论的不是一种简单的“听音乐背单词法”，而是一套建立在暗示、无意识加工和心理预期之上的教学理论。文章先用日常记忆说明：人越是用力抓住中心内容，有时反而越容易记住边缘细节；随后介绍 Lozanov 的暗示教学课堂，最后把成效重新拉回仪式、权威与信念所产生的安慰剂效应。
 
 真正需要抓住的逻辑是：**无意识记忆更持久 → 主动把注意力从课程移开 → 借助音乐、仪式和预期唤起大脑的储备能力 → 方法能否复制，取决于学习者是否相信这套安排。**
 
-## 正文逐句精读
+### 原文逐句展开
 
 ### 第一段
 
@@ -735,7 +739,9 @@ Lozanov 承认，自己体系中围绕暗示设置的仪式同样是一种安慰
 - `learn to believe`（**B2**）：逐渐学会并接受某种信念。
 - `essential to`（**B1**）：对……必不可少；本文再次出现。
 
-## Questions 27–40 完整精讲
+## 02 题目与选项精讲
+
+### Questions 27–40 完整精讲
 
 ### Questions 27–30
 
@@ -1195,3 +1201,304 @@ Lozanov 的方法已经变得相当 39 ______。
 - **错误项 J — appropriate：** *appropriate* 修饰所需的心理状态，不评价结果质量。
 - **错误项 K — well known：** *well known* 概括方法的名气，不表示其他教师的成果如何。
 
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| look at | B1 | 研究、探讨 |
+| educating | B1 | 教育、培养 |
+| psyche | C2 | 心灵、精神、心理整体，不只是日常所说的 *mind* |
+| radical | C1 | 根本性的、激进的 |
+| approach to | B2 | 处理或研究某事的方法 |
+| describe | B1 | 描述、说明 |
+| effect of A on B | B1 | A 对 B 的影响 |
+| emotion | B1 | 情感、情绪 |
+| imagination | B1 | 想象力 |
+| the unconscious | C1 | 无意识心理 |
+| theory | B1 | 理论、学说 |
+| discuss | B1 | 讨论 |
+| propose | B2 | 提出观点、理论或方案 |
+| focus on | B1 | 集中讨论、关注 |
+| the power of suggestion | B2 | 暗示所具有的影响力 |
+| instructional | C1 | 教学的、用于指导的 |
+| technique | B1 | 具体技术或方法 |
+| be based on | B1 | 以……为依据 |
+| evidence | B1 | 证据 |
+| connection | B1 | 连接、联系 |
+| unconscious processing | C1 | 无意识加工 |
+| non-specific mental reactivity | C2 | 非特异性心理反应 |
+| durable | C2 | 持久的、耐久的 |
+| conscious processing | C1 | 有意识加工 |
+| besides | B1 | 除……之外还 |
+| laboratory evidence | B2 | 实验室证据 |
+| experience | B1 | 经验 |
+| perceive | C1 | 感知、察觉 |
+| peripherally | C2 | 从注意或感知的边缘、非中心地 |
+| long after | B1 | 在……很久以后 |
+| set out to do | B2 | 着手、原本打算做某事 |
+| recall | B2 | 回忆起、想起 |
+| detail | B1 | 细节 |
+| peripheral detail | C1 | 处于注意中心之外的细节 |
+| binding | C2 | 书籍的装帧、封皮与装订 |
+| typeface | C2 | 字体设计、字型 |
+| concentrate on | B1 | 专注于 |
+| content | B1 | 内容 |
+| lecture | B1 | 讲座、大学授课 |
+| with great concentration | B2 | 高度专注地 |
+| appearance | B1 | 外貌 |
+| mannerism | C2 | 个人反复出现的习惯性动作或说话方式 |
+| auditorium | C1 | 礼堂、演讲厅 |
+| failure | B1 | 故障、失灵 |
+| air-conditioning | B1 | 空调系统 |
+| peripheral | C1 | 边缘的、非核心的 |
+| even if | B1 | 即使、纵然 |
+| elusive | C2 | 难以捕捉、回想或界定的 |
+| come back readily | B2 | 很容易重新浮现 |
+| hypnosis | C2 | 催眠状态 |
+| relive | C1 | 在记忆或想象中重新经历 |
+| event | B1 | 事件、经历 |
+| imaginatively | C1 | 凭借想象地 |
+| psychodrama | C2 | 心理剧，通过角色扮演重现经历 |
+| on the other hand | B1 | 另一方面，用于提出对照 |
+| seem to have done | B2 | 似乎已经做了某事 |
+| forever | B1 | 永远 |
+| phenomenon | B2 | 现象 |
+| partly | B1 | 部分地，在一定程度上 |
+| attribute A to B | C1 | 把 A 归因于 B |
+| counterproductive | C2 | 事与愿违的、产生反效果的 |
+| approach to study | B2 | 学习方式 |
+| extreme effort | B2 | 极大的努力 |
+| memorise | B1 | 记住、背熟，英式拼写 |
+| tense muscles | C1 | 绷紧肌肉 |
+| induce fatigue | C1 | 引发疲劳，正式搭配 |
+| reflect | B2 | 反映、体现 |
+| function | B1 | 运作、发挥功能 |
+| therefore | B1 | 因此，用于引出结论 |
+| indirect instruction | B2 | 间接教学或间接指引 |
+| suggestion | B2 | 暗示 |
+| central to | B2 | 对……至关重要、处于……核心 |
+| teaching system | B1 | 教学体系 |
+| suggestopedia | C2 | 暗示教学法，以暗示、音乐和放松环境促进学习 |
+| method | B1 | 方法 |
+| consciousness | C1 | 意识 |
+| shift away from | B2 | 从……转移开 |
+| curriculum | B1 | 课程及课程内容 |
+| deal with | B1 | 处理 |
+| reserve capacity | C1 | 尚未被常规使用的储备能力 |
+| capacity | B2 | 能力、容量 |
+| suggestopedic | C2 | 暗示教学法的 |
+| foreign language learning | B1 | 外语学习 |
+| provide | B1 | 提供 |
+| illustration | B2 | 用于说明观点的例证，不是此处的“插图” |
+| recent | B1 | 近期的、较新的 |
+| variant | C1 | 变体、不同版本 |
+| consist of | B1 | 由……组成 |
+| vocabulary | B1 | 词汇 |
+| text | B1 | 课文、文本 |
+| session | B1 | 一段有明确目的的课程或活动时段 |
+| classical music | B1 | 古典音乐 |
+| solemnly | C1 | 庄重而严肃地 |
+| with attention to | B2 | 留意、顾及 |
+| dynamics | C2 | 音乐的力度与强弱变化 |
+| follow the text | B1 | 跟读或顺着正在讲读的文字看 |
+| be followed by | B1 | 随后是、之后接着 |
+| several | B1 | 几个、数个 |
+| silence | B1 | 寂静、无声状态 |
+| baroque music | C2 | 巴洛克音乐 |
+| speaking voice | B2 | 正常说话的嗓音，相对于歌唱或庄严朗诵 |
+| have their books closed | B1 | 让书保持合上的状态 |
+| attention | B1 | 注意力 |
+| passive | C1 | 被动的、不主动参与的 |
+| make no attempt to do | B2 | 完全不尝试做某事 |
+| material | B1 | 学习材料 |
+| beforehand | B2 | 预先、事先 |
+| carefully | B1 | 仔细地、周密地 |
+| prepare sb for sth | B1 | 使某人为某事做好准备 |
+| language learning experience | B1 | 语言学习体验，其中 |
+| staff | B1 | 工作人员，全体用法通常不加复数词尾 |
+| satisfied | B1 | 感到满意的 |
+| develop an expectation | B2 | 逐渐形成一种预期 |
+| expectation | B2 | 预期、期待 |
+| pleasant | B1 | 令人愉快的 |
+| successfully | B1 | 成功地 |
+| several hundred | B1 | 数百 |
+| foreign language | B1 | 外语 |
+| preliminary | C1 | 初步的、预备性的 |
+| introduce sb to sth | B1 | 使某人初次接触某事物 |
+| cover | B1 | 讲授、涉及某项内容 |
+| likewise | B2 | 同样地、类似地 |
+| instruct sb to do | B2 | 正式指示某人做某事 |
+| introduction | B1 | 介绍、导入阶段 |
+| two-part | B1 | 由两部分组成的 |
+| follow-up class | B2 | 后续跟进课程 |
+| stimulate sb to do | C1 | 刺激、促使某人做某事 |
+| present | B1 | 呈现、展示 |
+| once again | B1 | 再一次 |
+| approach | B2 | 方法 |
+| indirect | B2 | 间接的 |
+| focus one’s attention on | B2 | 把注意力集中在…… |
+| communicate | B1 | 交流、传达信息 |
+| e.g. | B1 | 例如，拉丁语 *exempli gratia* 的缩写 |
+| improvised | C1 | 即兴创作的、没有预先排练的 |
+| dramatisation | C2 | 把情境改编并表演成戏剧 |
+| not unusual | B1 | 并不罕见，即较为常见 |
+| language teaching | B1 | 语言教学 |
+| distinctive | C1 | 有鲜明特色的、与众不同的 |
+| suggestopedic method | C2 | 暗示教学法 |
+| be devoted entirely to doing | B2 | 完全致力于、完全用于做某事 |
+| assist | B1 | 帮助，语气比 *help* 正式 |
+| assume | B2 | 假定、认为某事为真 |
+| automatic | B2 | 自动发生的，无须有意识控制 |
+| effortless | C1 | 不费力的 |
+| accomplish | B2 | 完成、实现 |
+| task | B1 | 任务、职责 |
+| assist sb to do | B1 | 帮助某人做某事 |
+| apply | B1 | 运用知识或方法 |
+| paraconsciously | C2 | 在伴意识或意识边缘状态下 |
+| in doing so | B2 | 在这样做的过程中 |
+| accessible to | B2 | 可由……获取或进入的 |
+| difference from | B1 | 与……的差异 |
+| conventional teaching | B2 | 传统教学 |
+| regularly | B1 | 经常地、通常能够稳定做到 |
+| as well as | B1 | 除……之外还 |
+| grammar | B1 | 语法 |
+| idiom | B2 | 习语、惯用表达 |
+| experiment with | B1 | 试用、试验某种方法 |
+| direct suggestion | B2 | 直接暗示 |
+| trance state | C2 | 恍惚、出神状态 |
+| procedure | B2 | 既定程序或操作步骤 |
+| unnecessary | B1 | 不必要的 |
+| Silva mind-control | C2 | Silva 意念控制法 |
+| religious | B1 | 宗教的 |
+| ceremony | B1 | 仪式、典礼 |
+| faith healing | C1 | 依靠信仰进行的治疗 |
+| be associated with | B2 | 与……有关联 |
+| successful | B1 | 成功的 |
+| essential to | B1 | 对……必不可少 |
+| ritual | C1 | 具有固定形式和象征意义的仪式 |
+| be seen as | B1 | 被视为 |
+| placebo | C2 | 安慰剂 |
+| acknowledge | B2 | 承认某个事实，常含“虽不情愿但接受”的语气 |
+| surrounding | B2 | 围绕、伴随 |
+| system | B1 | 体系 |
+| maintain that | C1 | 坚持主张、坚称 |
+| be unable or afraid to | B1 | 无法或不敢做某事 |
+| tap | C1 | 开发、利用某种潜在资源 |
+| dispense | C2 | 配发、给予药物 |
+| with authority | B2 | 带着权威感、以不容置疑的方式 |
+| effective | B1 | 有效的 |
+| call on the full power of | C1 | 充分调动……的力量 |
+| autocratic suggestion | C2 | 以绝对权威施加的专断式暗示 |
+| insist that | B2 | 坚持要求 |
+| precisely | B2 | 正是这一粒、毫无含糊地 |
+| patient | B1 | 患者、病人 |
+| capsule | C1 | 胶囊 |
+| categorical | C2 | 明确而不容商量的 |
+| suggestopedic session | C2 | 暗示教学课程 |
+| conduct | B2 | 组织、实施活动 |
+| in the manner designated | C1 | 按照指定的方式 |
+| trained | B1 | 受过专业训练的 |
+| accredited | C2 | 经官方认可或认证的 |
+| gain notoriety | C2 | 获得名声 |
+| through success in | B1 | 凭借在……方面的成功 |
+| modern language | B1 | 现代语言，相对于古典语言 |
+| be able to | B1 | 能够 |
+| emulate | C2 | 努力仿效并达到同样水平 |
+| spectacular | C1 | 非常惊人的、引人注目的 |
+| result | B1 | 结果、成果 |
+| associate | B2 | 同事、合作伙伴 |
+| perhaps | B1 | 也许 |
+| mediocre | C1 | 平庸的、低于期待的 |
+| inadequate | C1 | 不足的、不充分的 |
+| placebo effect | C1 | 安慰剂效应 |
+| develop | B1 | 逐渐形成 |
+| appropriate | B2 | 合适的、与情境相称的 |
+| mind set | B2 | 思维模式、心理定势 |
+| be motivated to do | B2 | 有动力做某事 |
+| through this method | B1 | 通过这种方法 |
+| faith | B1 | 信念、信任 |
+| have faith in | B1 | 相信、信任某人或某事 |
+| see A as B | B1 | 把 A 看作 B |
+| especially as | B2 | 尤其因为 |
+| seem to | B1 | 似乎 |
+| involve | B1 | 包含、涉及 |
+| learn to believe | B2 | 逐渐学会并接受某种信念 |
+| be mainly concerned with | B2 | 主要涉及、主要关注 |
+| particular | B1 | 特定的、某一种明确的 |
+| traditional | B1 | 传统的 |
+| claim that | B2 | 声称、主张…… |
+| unimportant | B1 | 不重要的 |
+| concentrate | B1 | 集中注意力 |
+| produce | B1 | 产生、带来 |
+| significant | B2 | 重要的、意义重大的 |
+| peripheral vision | C1 | 周边视觉，即视野中心之外的视觉 |
+| passage | B1 | 文章、阅读段落 |
+| illustrate | B2 | 用例子说明、阐明 |
+| concentration | B1 | 专注力 |
+| valid | B2 | 有根据的、站得住脚的 |
+| train sb to do | B1 | 训练某人做某事 |
+| avoid doing | B1 | 避免做某事 |
+| overload | C1 | 使负荷过重、使超载 |
+| statement | B1 | 指待判断的“陈述” |
+| agree with the information | B1 | 表示“与原文信息一致” |
+| contradict | C1 | 表示“与……相矛盾” |
+| suggestopedic teaching | C2 | 暗示教学 |
+| paragraph | B1 | 段落 |
+| variable | B2 | 变量，即实验中可能发生改变的因素 |
+| prior to | B2 | 在……之前，语气比 |
+| be made aware that | B2 | 被告知并意识到…… |
+| language experience | B1 | 语言学习体验 |
+| demanding | B2 | 费力的、要求很高的 |
+| teaching activity | B1 | 教学活动 |
+| be similar to | B1 | 与……相似 |
+| conventional | B2 | 常规的、传统的 |
+| benefit | B1 | 益处、收益 |
+| notice | B1 | 注意到、察觉到 |
+| improvement | B1 | 改善、提高 |
+| retain | B2 | 记住并保留，不只是短暂“学过” |
+| ordinary | B1 | 普通的、常规的 |
+| summary | B1 | 是“摘要、内容概括” |
+| direct | B1 | 直接的 |
+| however | B1 | 然而，引出限制或转折 |
+| admit that | B2 | 承认…… |
+| a certain amount of | B1 | 一定程度或一定数量的…… |
+| necessary | B1 | 必要的 |
+| convince | B1 | 使信服、说服 |
+| furthermore | B2 | 此外，用于递进补充 |
+| succeed | B1 | 成功、奏效 |
+| set procedure | B2 | 固定程序、规定步骤 |
+| although | B1 | 虽然，引出让步 |
+| teaching | B1 | 教学 |
+| authoritarian | C2 | 专断的、要求绝对服从的 |
+| unpopular | B1 | 不受欢迎的 |
+| unspectacular | C1 | 不出色的、不引人注目的 |
+| involved | B1 | 复杂的，或参与其中的 |
+| well known | B1 | 众所周知的 |
+
+## 04 IELTS 阅读提醒
+
+- 选择题先确定题干限定词，再回原文比较完整含义；不要因选项复现个别原词就直接作答。
+- TRUE / FALSE / NOT GIVEN 只比较题干与原文事实：一致、矛盾、未说明三种状态必须严格分开。
+- 处理 summary completion with list 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 27 | D |
+| 28 | A |
+| 29 | B |
+| 30 | C |
+| 31 | FALSE |
+| 32 | FALSE |
+| 33 | TRUE |
+| 34 | NOT GIVEN |
+| 35 | NOT GIVEN |
+| 36 | TRUE |
+| 37 | F |
+| 38 | H |
+| 39 | K |
+| 40 | G |

@@ -1,12 +1,16 @@
 # Why pagodas don’t fall down｜日本古塔为何屹立不倒
 
+## Why pagodas don't fall down
+
+## 01 逐句精读
+
 日本木塔身处台风与地震频繁的环境，却能跨越数百年而少有倒塌。文章并没有把答案归结为“木材更结实”，而是逐层拆开屋檐、楼层、立柱与心柱的协同运动：真正重要的不是让建筑纹丝不动，而是允许它有控制地摆动、错位并传走能量。
 
 标题中的 **pagoda**（建筑/宗教，C1）指东亚传统塔式建筑；**fall down (基础表达)** 表示建筑物“倒塌”。标题用最直接的问题先吊起读者胃口，正文再逐层拆解“不倒”的结构机制。
 
 下面按原书九个段落、45个完整句子逐句精读。
 
-## 正文逐句精读
+### 原文逐句展开
 
 ### 第1段
 
@@ -816,7 +820,9 @@ predict 主要是作出预测；expect 表普通预期；foresee 强调看见未
 
 使用时要注意：anticipate 后可接名词或动名词，如 anticipate difficulties、anticipate having to revise；不接 to do。例句：The design anticipates future changes in user demand. 这套设计预先考虑了用户需求的未来变化。Good policy anticipates unintended consequences instead of reacting after they appear. 好政策会预先考虑意外后果，而不是等问题出现后才应对。
 
-## Questions 1–4
+## 02 题目与选项精讲
+
+### Questions 1–4
 
 **Do the following statements agree with the claims of the writer in Reading Passage 1?**
 
@@ -897,7 +903,7 @@ predict 主要是作出预测；expect 表普通预期；foresee 强调看见未
 - **排除 NO：** 作者明确说木匠掌握了应对自然力量的结构诀窍，不能选 NO。
 - **排除 NOT GIVEN：** 摇摆并自行稳定的应对方式已经写出，不能选 NOT GIVEN。
 
-## Questions 5–10
+### Questions 5–10
 
 **Classify the following as typical of**
 
@@ -1006,7 +1012,7 @@ predict 主要是作出预测；expect 表普通预期；foresee 强调看见未
 - **排除 A：** unlike their counterparts elsewhere 排除中日共有的 A。
 - **排除 B：** 松散叠层明确是日本特色，不是中国独有，排除 B。
 
-## Questions 11–13
+### Questions 11–13
 
 **Choose the correct letter, A, B, C or D.**
 
@@ -1081,6 +1087,298 @@ predict 主要是作出预测；expect 表普通预期；foresee 强调看见未
 - **排除 B：** 各层独立移动，只在位移过大时撞到心柱，并非固定于心柱，排除 B。
 - **排除 D：** 屋檐提供平衡质量，但没有特殊配重连接楼层，排除 D。
 
-## 全文回收
+### 全文回收
 
 这篇文章的答案不是某个孤立零件，而是一套允许运动的结构逻辑：各层松散叠放，可以彼此反向移动；心柱不承重，却限制位移并传递能量；宽大沉重的屋檐像平衡杆，使剧烈冲击转化为较平顺的摆动。古代工匠依靠反复试验实现了后来才被现代结构工程明确表述的原则。
+
+<!-- C07-QUESTION-VOCAB-START -->
+### B1+ 词汇查漏补充
+
+- `yet`（**B1**）：然而、可是；放在句首引出与前文预期相反的事实。
+- `pagoda`（**B2**）：（东亚的）塔、宝塔；本文特指日本多层木塔。
+- `further`（**B1**）：更进一步地；用于在已有解释之外追加新的论据。
+- `even`（**B1**）：甚至；把后面的情况标成超出通常预期的极端例子。
+<!-- C07-QUESTION-VOCAB-END -->
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| pagoda | C1 | 指东亚传统塔式建筑 |
+| sweep | B2 | 横扫 |
+| typhoon | B2 | 台风 |
+| earthquake | B1 | 地震 |
+| seemingly | B2 | 看似 |
+| flimsy | C1 | 结构单薄、不牢固 |
+| or so | B1 | 大约、左右 |
+| remain standing | B2 | 仍然屹立 |
+| century | B1 | 世纪 |
+| record | B1 | 记录 |
+| collapse | B2 | 倒塌 |
+| during the past ... years | B1 | 在过去……年间 |
+| disappear | B1 | 消失 |
+| destroy | B1 | 摧毁 |
+| as a result of | B1 | 由于 |
+| lightning | B2 | 闪电、雷击 |
+| civil war | B2 | 内战 |
+| disastrous | B2 | 灾难性的 |
+| topple | C1 | 使倒塌 |
+| elevated highway | C1 | 高架公路 |
+| flatten | B2 | 夷平 |
+| office block | B1 | 办公楼 |
+| devastate | C1 | 严重摧毁 |
+| port area | B1 | 港区 |
+| yet | B1 | 然而 |
+| magnificent | B2 | 宏伟的 |
+| five-storey | B1 | 五层的 |
+| temple | B1 | 寺庙 |
+| nearby | B1 | 附近的 |
+| unscathed | C2 | 毫发无损的 |
+| though | B1 | 尽管 |
+| level | C1 | 夷平 |
+| a number of | B1 | 若干 |
+| neighbourhood | B1 | 街区、附近地区 |
+| scholar | B2 | 学者 |
+| be mystified | C1 | 感到困惑 |
+| for ages | B2 | 很久以来 |
+| slender | C2 | 细长的 |
+| stable | B2 | 稳固的 |
+| building industry | B2 | 本句中的具体含义、搭配和语气见对应逐句精读。 |
+| feel confident enough to do | B2 | 有足够信心做 |
+| erect | C1 | 建造、竖起 |
+| steel | B2 | 钢 |
+| reinforced concrete | C1 | 钢筋混凝土 |
+| more than a dozen | B2 | 十二个以上 |
+| shock absorber | C1 | 减震器 |
+| dampen | C2 | 减弱 |
+| effect | B1 | 影响 |
+| sudden | B1 | 突然的 |
+| sideways | B2 | 横向地 |
+| movement | B2 | 运动 |
+| thirty-six-storey | B1 | 36层的 |
+| central | B1 | 中心的 |
+| skyscraper | B2 | 摩天大楼 |
+| be considered | B1 | 被认为 |
+| masterpiece | C1 | 杰作 |
+| modern engineering | B2 | 现代工程 |
+| peg | C1 | 木钉 |
+| wedge | C1 | 楔子 |
+| structure | B2 | 结构 |
+| upright | B2 | 直立的 |
+| master builder | C1 | 建筑大师 |
+| have no hesitation in doing | C1 | 毫不犹豫地做 |
+| majestic | C1 | 雄伟的 |
+| soar | C1 | 高耸 |
+| nearly | B1 | 将近 |
+| some eleven centuries later | B2 | 约11个世纪之后 |
+| clearly | B1 | 显然 |
+| carpenter | B2 | 木匠 |
+| of the day | B2 | 当时的 |
+| trick | B1 | 诀窍 |
+| allow | B1 | 允许 |
+| sway | C1 | 摇摆 |
+| settle itself | B2 | 自行稳定 |
+| rather than | B1 | 而不是 |
+| force | B1 | 力量 |
+| what sort of | B1 | 哪一种 |
+| multi-storey | B2 | 多层的 |
+| introduce | B1 | 引入 |
+| Buddhism | B2 | 佛教 |
+| be attached to | B2 | 附属于 |
+| brick | B2 | 砖 |
+| inner | B2 | 内部的 |
+| staircase | B2 | 楼梯 |
+| in later centuries | B1 | 在后来的几个世纪 |
+| mainly | B1 | 主要地 |
+| watchtower | C1 | 瞭望塔 |
+| architecture | B1 | 建筑形式 |
+| however | B1 | 然而 |
+| reach | B1 | 传到、抵达 |
+| freely | B2 | 灵活地 |
+| adapt to | B2 | 适应 |
+| local conditions | B1 | 当地条件 |
+| typically | B2 | 通常 |
+| storey | B1 | 楼层 |
+| dispense with | C1 | 舍弃、不再使用 |
+| practical use | B1 | 实际用途 |
+| become more of | B2 | 更多地成为 |
+| art object | B2 | 艺术品 |
+| because of | B1 | 由于 |
+| batter | C1 | 反复猛烈袭击 |
+| builder | B1 | 建筑者 |
+| extend | B2 | 延伸 |
+| eaves | C1 | 屋檐 |
+| beyond | B1 | 超过、越出 |
+| prevent ... from doing | B1 | 防止……做 |
+| rainwater | B1 | 雨水 |
+| gush | C1 | 奔涌而下 |
+| have nothing like | B2 | 完全没有类似的 |
+| overhang | C1 | 悬挑、出檐 |
+| can be made to do | B2 | 可被设计或处理成做某事 |
+| overall | B2 | 总的、整体的 |
+| width | B2 | 宽度 |
+| for the same reason | B1 | 出于同样原因 |
+| seem to have done | B2 | 似乎已经做了 |
+| further | B2 | 进一步 |
+| increase | B1 | 增加 |
+| weight | B1 | 重量 |
+| extended | B2 | 延伸的 |
+| porcelain | C1 | 瓷 |
+| tile | B1 | 中国塔使用的瓷瓦 |
+| choose to do | B1 | 选择做某事 |
+| not ... but ... | B1 | 不是……而是…… |
+| earthenware | C2 | 陶器制的 |
+| totally | B1 | 完全地 |
+| resilience | C1 | 受力后恢复、抵抗破坏的韧性 |
+| pine tree | B2 | 松树 |
+| massive | B2 | 粗大而沉重的 |
+| trunk-like | C1 | 像树干的 |
+| central pillar | B2 | 中央柱 |
+| be known as | B1 | 被称为 |
+| shinbashira | C1 | 心柱 |
+| simply | B1 | 只是、不过 |
+| flex | C1 | 弯曲 |
+| for centuries | B1 | 几个世纪以来 |
+| think so | B1 | 这样认为 |
+| startling | C1 | 令人震惊的 |
+| actually | B1 | 实际上 |
+| carry a load | B2 | 承重 |
+| not ... at all | B1 | 根本不 |
+| in fact | B1 | 事实上 |
+| pagoda design | B2 | 某些塔的结构设计 |
+| even | B1 | 甚至 |
+| rest on | B1 | 落在、支撑于 |
+| be suspended from | C1 | 悬挂于 |
+| hang loosely | B2 | 松散地垂下 |
+| through the middle of | B1 | 穿过……中央 |
+| be supported by | B1 | 由……支撑 |
+| entirely | B2 | 完全地 |
+| outer | B2 | 外部的 |
+| column | B2 | 柱 |
+| role | B1 | 作用 |
+| the best way to ... is to ... | B1 | 做……的最佳方式是…… |
+| structural engineer | B2 | 结构工程师 |
+| institute of technology | B2 | 工艺/技术学院 |
+| passion | B2 | 热爱、强烈兴趣 |
+| a series of | B1 | 一系列 |
+| model | B1 | 模型 |
+| shake-table | C1 | 振动台 |
+| laboratory | B1 | 实验室 |
+| in short | B1 | 简言之 |
+| act like | B1 | 作用类似于 |
+| enormous | B1 | 巨大的 |
+| stationary | C1 | 位置固定的 |
+| pendulum | C1 | 摆锤 |
+| ancient | B1 | 古代的 |
+| craftsman | B2 | 工匠 |
+| apparently | B2 | 显然、看来 |
+| assistance | B2 | 帮助 |
+| advanced mathematics | B2 | 高等数学 |
+| seem to do | B1 | 似乎做了 |
+| grasp | C1 | 理解、掌握 |
+| principle | B2 | 原理 |
+| apply in | B1 | 应用于 |
+| construction | B2 | 建造 |
+| trial and error | B2 | 反复试验 |
+| under pressure | B2 | 受力状态 |
+| be made to do | B2 | 可被促使做某事 |
+| loose stack | C1 | 松散叠层 |
+| slither | C2 | 滑行 |
+| to and fro | C1 | 来回地 |
+| independent of | B2 | 不依赖于 |
+| one another | B1 | 彼此 |
+| viewed from the side | B2 | 从侧面看 |
+| seem to be doing | B1 | 看起来正在 |
+| consecutive | C1 | 连续相邻的 |
+| in the opposite direction | B1 | 朝相反方向 |
+| run up through | B2 | 向上贯穿 |
+| constrain | C1 | 限制 |
+| individual storey | B2 | 单独楼层 |
+| a certain distance | B1 | 一定距离 |
+| bang into | B2 | 猛撞 |
+| transmit energy | C1 | 传递能量 |
+| strange | B1 | 奇特的 |
+| feature | B2 | 特征 |
+| taper | C1 | 逐渐变窄 |
+| successive | C1 | 接连的 |
+| floor plan | B2 | 楼层平面 |
+| vertical pillar | B2 | 承担重量的竖柱 |
+| carry the weight | B2 | 承重 |
+| be connected to | B1 | 连接到 |
+| corresponding pillar | B2 | 上方位置相对应的柱子 |
+| none of | B1 | 一个也没有 |
+| in other words | B1 | 换句话说 |
+| contain | B1 | 包含、有 |
+| pillar | B2 | 柱 |
+| right up through | B2 | 一直贯穿 |
+| structural load | C1 | 结构荷载 |
+| surprising | B1 | 令人惊讶的 |
+| unlike | B1 | 不同于 |
+| counterpart | C1 | 对应事物 |
+| elsewhere | B2 | 在别处 |
+| stack | B2 | 堆叠 |
+| one on top of another | B1 | 一个叠在另一个上 |
+| a pile of | B1 | 一摞 |
+| interestingly | B2 | 有意思的是 |
+| permit | B1 | 准许 |
+| current | B1 | 现行的 |
+| under current building regulations | B2 | 依据现行建筑规范 |
+| extra-wide | B2 | 格外宽的 |
+| think of ... as ... | B1 | 把……看作 |
+| tightrope walker | C1 | 走钢丝者 |
+| balancing pole | C1 | 平衡杆 |
+| mass | B2 | 质量 |
+| the ..., the ... | B2 | 越……越…… |
+| maintain balance | B2 | 保持平衡 |
+| hold true for | B2 | 同样适用于 |
+| extend out | B2 | 向外伸展 |
+| respond to | B1 | 对……作出反应 |
+| powerful | B1 | 强烈的 |
+| jolt | C1 | 猛震、冲击 |
+| graceful | B2 | 平稳优雅的 |
+| swaying | C1 | 摆动 |
+| abrupt | C1 | 突然且猛烈的 |
+| shaking | B1 | 震动 |
+| anticipate | B2 | 预见、先于……采用 |
+| concept | B2 | 概念、理念 |
+| modern structural engineering | B2 | 现代结构工程 |
+| statement | B1 | 陈述 |
+| agree with | B1 | 与……一致 |
+| claim | B2 | 作者提出并主张为真的观点 |
+| contradict | C1 | 与……直接矛盾 |
+| pagodas | C1 | 指“塔” |
+| classify | B2 | 分类、归类 |
+| typical of | B1 | 是……的典型特征 |
+| interior | B2 | “内部” |
+| observation post | B2 | “瞭望点” |
+| original | B1 | “最初的” |
+| fit loosely | B2 | “松散套合” |
+| pagoda | B2 | （东亚的）塔、宝塔 |
+| further | B1 | 更进一步地 |
+
+## 04 IELTS 阅读提醒
+
+- YES / NO / NOT GIVEN 判断的是作者观点：同义支持选 YES，明确冲突选 NO，原文没有足够信息才选 NOT GIVEN。
+- 处理 classification 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 处理 multiple choice single 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 1 | YES |
+| 2 | NO |
+| 3 | NOT GIVEN |
+| 4 | YES |
+| 5 | B |
+| 6 | A |
+| 7 | B |
+| 8 | C |
+| 9 | A |
+| 10 | C |
+| 11 | D |
+| 12 | C |
+| 13 | C |

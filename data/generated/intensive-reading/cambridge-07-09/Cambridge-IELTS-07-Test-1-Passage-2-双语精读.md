@@ -1,5 +1,9 @@
 # MAKING EVERY DROP COUNT｜让每一滴水都发挥价值
 
+## Making Every Drop Count
+
+## 01 逐句精读
+
 人类文明史也是一部用水史：城市越大，调水工程越复杂；水坝、渡槽和灌溉曾带来粮食与电力，却也造成迁徙、生态破坏和资源冲突。文章真正关心的不是“还要建多少工程”，而是水资源政策能否从“让少数人得到更多”转向“让所有人至少得到一些”，并通过效率、责任与生态标准重新定义进步。
 
 ## A
@@ -613,7 +617,9 @@ where ... warranted 修饰 regions；主干是 we must find ways。respecting ..
 - criterion / criteria **B2**：标准；criteria 是复数。
 - budget **B2**：预算。
 
-## Questions 14–20
+## 02 题目与选项精讲
+
+### Questions 14–20
 
 **原书说明**
 
@@ -821,7 +827,7 @@ higher specifications、more accountability 和 ecological criteria 共同说明
 - ix：没有报告需求下降趋势。
 - xi：没有描述古代供水。
 
-## Questions 21–26
+### Questions 21–26
 
 **原书说明**
 
@@ -976,3 +982,231 @@ thanks to 表示技术是下降原因；conserve water in homes 对应 reduction
 - NO：文章也没有主张取消政府所有权或实行私有化。
 
 文章最终并未否定水利工程本身，而是要求改变默认逻辑：能先提高效率，就不要先扩大建设；确需建设时，则必须提高技术规范、公共问责和生态标准。标题 MAKING EVERY DROP COUNT 因而既指“提高每一滴水的产出”，也指让有限水资源更公平、更负责任地发挥作用。
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| civilisation | B2 | 文明 |
+| be entwined with | C1 | 与……紧密交织、难以分开 |
+| manipulate water resources | C1 | 调配、控制水资源 |
+| gradually | B1 | 逐渐地 |
+| expand | B1 | 扩大、扩张 |
+| increasingly | B2 | 越来越多地 |
+| remote | B1 | 遥远的 |
+| source | B1 | 来源 |
+| lead to | B1 | 导致、带来 |
+| sophisticated | B2 | 复杂而先进的 |
+| at the height of | B2 | 在……鼎盛时期 |
+| major | B1 | 主要的、重要的 |
+| innovative | B2 | 创新的 |
+| layout | B2 | 布局、配置 |
+| pipe | B1 | 管道 |
+| well-built | B2 | 建造牢固或完善的 |
+| occupant | B2 | 居住者、使用者 |
+| supply sb with sth | B1 | 向某人提供某物 |
+| provide | B1 | 提供 |
+| per person | B1 | 人均、每人 |
+| industrial world | B2 | 工业化世界、工业化地区 |
+| demand for | B1 | 对……的需求 |
+| rise dramatically | B2 | 急剧上升 |
+| unprecedented | C1 | 前所未有的 |
+| construction | B2 | 建设、建造 |
+| tens of thousands of | B2 | 数以万计的 |
+| monumental | C1 | 规模巨大的 |
+| be designed to do | B1 | 旨在做…… |
+| bring benefits to | B1 | 给……带来益处 |
+| hundreds of millions of | B2 | 数亿的 |
+| keep pace with | B2 | 跟上……的速度或发展 |
+| soaring | B2 | 迅猛上升的 |
+| mainly because of | B1 | 主要由于 |
+| expansion | B2 | 扩张、扩大 |
+| artificial | B2 | 人工的、人造的 |
+| make ... possible | B1 | 使……成为可能 |
+| nearly | B1 | 将近、差不多 |
+| produce | B1 | 生产、产生 |
+| worldwide | B1 | 在全世界 |
+| be spun by | B2 | 由……带动旋转 |
+| a dark side to | B2 | ……负面或危险的另一面 |
+| despite | B1 | 尽管 |
+| progress | B1 | 进步 |
+| suffer | B1 | 受苦、处境艰难 |
+| inferior to | B2 | 逊于、质量不及 |
+| population | B1 | 人口 |
+| ancient | B1 | 古代的 |
+| report | B1 | 报告 |
+| reiterate | C1 | 重申、再次强调 |
+| lack access to | B2 | 无法获得、缺乏使用……的机会 |
+| adequate | B2 | 足够且符合基本要求的 |
+| preventable | B2 | 可预防的 |
+| an estimated | B2 | 估计有…… |
+| the latest evidence | B2 | 最新证据 |
+| suggest that | B1 | 表明、暗示 |
+| fall behind | B2 | 落后、未能跟上 |
+| effort to do | B1 | 为做……所作的努力 |
+| consequence | B2 | 后果，尤指某项行为或政策造成的结果 |
+| extend beyond | B2 | 超出……范围 |
+| jeopardise | C1 | 危及、使……处于风险中 |
+| tens of millions of | B2 | 数千万的 |
+| be forced to do | B1 | 被迫做…… |
+| warning | B1 | 预先通知、警告 |
+| compensation | B2 | 补偿、赔偿 |
+| make way for | B2 | 为……让路或腾出空间 |
+| destroy | B1 | 破坏、摧毁 |
+| thrive | C1 | 茁壮生长、繁衍兴盛 |
+| certain | B1 | 某些、特定的 |
+| degrade | C1 | 使退化、使质量下降 |
+| agricultural | B2 | 农业的 |
+| productivity | B2 | 生产率、生产能力 |
+| reduce | B1 | 减少、降低 |
+| naturally | B1 | 自然地 |
+| replenish | C1 | 重新补充、恢复储量 |
+| elsewhere | B2 | 在别处、其他地方 |
+| dispute over | B2 | 围绕……的争端 |
+| lead to violence | B2 | 导致暴力 |
+| continue to do | B1 | 继续做…… |
+| local | B1 | 地方层面的 |
+| raise tensions | B2 | 加剧紧张局势 |
+| national | B1 | 国家层面的 |
+| international | B1 | 国际层面的 |
+| at the outset of | C1 | 在……开始之际 |
+| millennium | C1 | 一千年 |
+| however | B1 | 然而 |
+| begin to change | B1 | 开始改变 |
+| focus | B1 | 关注重点 |
+| slowly | B1 | 缓慢地、逐步地 |
+| shift back to | B2 | 转回到…… |
+| provision of | B2 | ……的提供或保障 |
+| top priority | B2 | 最高优先事项 |
+| ensure | B2 | 确保 |
+| instead of | B1 | 而不是 |
+| demand that ... be used | B2 | 强烈要求……得到使用 |
+| existing | B1 | 现有的 |
+| rather than | B1 | 而不是 |
+| facility | B1 | 设施 |
+| consider A B | B1 | 把A视为B |
+| option of last resort | C1 | 万不得已才采用的最后方案 |
+| shift in philosophy | B2 | 理念或指导思想的转变 |
+| universally | B2 | 普遍地、无一例外地 |
+| accept | B1 | 接受、认可 |
+| come with | B1 | 伴随着 |
+| strong opposition | B2 | 强烈反对 |
+| established organisation | B2 | 老牌且有地位的组织 |
+| nevertheless | B2 | 尽管如此 |
+| the only way to do | B1 | 做……的唯一办法 |
+| address a problem | B2 | 处理、应对问题 |
+| successfully | B1 | 成功地 |
+| pressing problem | C1 | 亟待解决的紧迫问题 |
+| provide sb with sth | B1 | 为某人提供某物 |
+| free from | B2 | 免受……影响的 |
+| fortunately | B1 | 幸运的是 |
+| unexpectedly | B2 | 出人意料地 |
+| rise rapidly | B2 | 迅速上升 |
+| predict | B1 | 预测 |
+| as a result | B1 | 因此 |
+| pressure to do | B2 | 做……的压力 |
+| diminish | C1 | 减弱、减少 |
+| over the past two decades | B2 | 在过去20年间 |
+| although | B1 | 尽管 |
+| continue to soar | B2 | 持续飙升 |
+| the rate at which | B2 | ……发生的速度 |
+| slow | B1 | 减慢、放缓 |
+| demand | B1 | 需求 |
+| fall | B1 | 下降 |
+| remarkable | B2 | 非凡的、引人注目的 |
+| turn of events | B2 | 事态的转变、事情的新发展 |
+| factor | B1 | 因素 |
+| figure out | B1 | 想明白、找到解决办法 |
+| efficiently | B2 | 高效地 |
+| community | B1 | 社区、群体 |
+| rethink | B2 | 重新思考 |
+| priority | B2 | 优先事项 |
+| throughout | B1 | 贯穿、在整个……期间 |
+| quantity | B1 | 数量 |
+| consume | B1 | 消耗 |
+| on average | B1 | 平均而言 |
+| double | B1 | 翻倍 |
+| while | B1 | 而、然而 |
+| tenfold | C1 | 十倍地、十倍的 |
+| quadruple | C1 | 增至四倍 |
+| decrease | B1 | 下降、减少 |
+| thanks to | B1 | 由于、多亏 |
+| a range of | B1 | 一系列 |
+| technology | B1 | 技术 |
+| industry | B1 | 工业 |
+| for instance | B1 | 例如 |
+| approximately | B1 | 大约 |
+| drop to | B1 | 下降到 |
+| account for | B2 | 把……考虑在内 |
+| quadrupling | C1 | 增至四倍 |
+| fall by | B1 | 下降了某一幅度 |
+| peak | B2 | 峰值、最高点 |
+| on the other hand | B1 | 另一方面 |
+| have to be built | B1 | 必须被建设 |
+| particularly | B1 | 尤其 |
+| meet needs | B1 | 满足需求 |
+| local people | B1 | 当地居民 |
+| than in the past | B1 | 比过去 |
+| region | B1 | 地区 |
+| warranted | C1 | 有充分理由的、确有必要的 |
+| find ways to do | B1 | 设法做…… |
+| meet demands | B2 | 满足需求 |
+| resource | B1 | 资源 |
+| respect criteria | B2 | 遵守标准 |
+| budget | B2 | 预算 |
+| correct heading | B1 | 正确的小标题 |
+| list of headings | B1 | 标题列表 |
+| paragraph | B1 | 段落 |
+| heading | B1 | 小标题 |
+| revision of policy | B2 | 政策修订 |
+| reduced water use | B1 | 减少的用水量 |
+| global challenge | B1 | 全球性挑战 |
+| meet a challenge | B2 | 应对、解决挑战 |
+| fall into disuse | C1 | 逐渐停用、废弃 |
+| relevance to | C1 | 与……的相关性 |
+| address a concern | B2 | 应对某种忧虑或问题 |
+| downward trend | B2 | 下降趋势 |
+| demand for water | B1 | 用水需求 |
+| raise standards | B2 | 提高标准 |
+| description | B1 | 描述、说明 |
+| statement | B1 | 陈述 |
+| agree with | B1 | 与……一致 |
+| claim | B2 | 观点、主张 |
+| contradict | C1 | 与……相矛盾 |
+| be impossible to say | B1 | 无法判断 |
+| water use per person | B1 | 人均用水量 |
+| feed a population | B1 | 为人口提供食物 |
+| increasing population | B1 | 不断增长的人口 |
+| due primarily to | B2 | 主要由于 |
+| imitate | B1 | 模仿 |
+| overall demand | B2 | 总体需求 |
+| increase | B1 | 增加 |
+| lead to a reduction in | B2 | 导致……减少 |
+| modern technology | B1 | 现代技术 |
+| maintain ownership of | B2 | 继续保有……的所有权 |
+
+## 04 IELTS 阅读提醒
+
+- 段落标题匹配先提炼每段的主功能，再排除只复述局部细节的标题；同义改写比原词复现更可靠。
+- YES / NO / NOT GIVEN 判断的是作者观点：同义支持选 YES，明确冲突选 NO，原文没有足够信息才选 NOT GIVEN。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 14 | xi |
+| 15 | vii |
+| 16 | v |
+| 17 | i |
+| 18 | ix |
+| 19 | ii |
+| 20 | x |
+| 21 | NO |
+| 22 | YES |
+| 23 | NOT GIVEN |
+| 24 | NO |
+| 25 | YES |
+| 26 | NOT GIVEN |

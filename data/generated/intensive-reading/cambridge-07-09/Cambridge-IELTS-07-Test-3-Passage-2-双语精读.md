@@ -1,5 +1,9 @@
 # Population movements and genetics｜人口迁徙与遗传学
 
+## Population movements and genetics
+
+## 01 逐句精读
+
 **READING PASSAGE 2**
 
 You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 on the following pages.
@@ -381,7 +385,9 @@ DNA 是储存遗传信息的物质。`substance`【B1】物质；`genetic inform
 `incisor`【牙科学·C1】门齿；`premolar`【牙科学·C1】前磨牙；`molar`【牙科学·C1】磨牙。正文比较的是它们的根数和表面形态，而非饮食习惯。
 
 
-## Questions 14–19
+## 02 题目与选项精讲
+
+### Questions 14–19
 
 **Reading Passage 2 has seven sections, A–G.**  
 阅读文章 2 分为 A–G 七个部分。
@@ -540,7 +546,7 @@ DNA 是储存遗传信息的物质。`substance`【B1】物质；`genetic inform
 - **干扰项理由（ix）：** 本段没有讨论迁徙原因。
 - **干扰项理由（x）：** 本段没有血液变体测量机制。
 
-## Questions 20–21
+### Questions 20–21
 
 **The discussion of Williams’s research indicates the periods at which early people are thought to have migrated along certain routes. There are six routes, A–F, marked on the map below.**  
 对 Williams 研究的讨论指出了早期人群被认为沿特定路线迁徙的年代。下图标出 A–F 六条路线。
@@ -604,7 +610,7 @@ DNA 是储存遗传信息的物质。`substance`【B1】物质；`genetic inform
 - **干扰项理由（E）：** E 对应 15,000 年或更早的第一次迁徙。
 - **干扰项理由（F）：** F 是从亚洲出发的北方路线，不是加拿大至美国路线。
 
-## Questions 22–25
+### Questions 22–25
 
 **Reading Passage 2 refers to the three-wave theory of early migration to the Americas. It also suggests in which of these three waves the ancestors of various groups of modern native Americans first reached the continent.**  
 阅读文章 2 提到早期人群迁往美洲的“三次迁徙理论”，并指出多个现代美洲原住民群体的祖先分别在哪一波中首次抵达美洲。
@@ -681,7 +687,7 @@ DNA 是储存遗传信息的物质。`substance`【B1】物质；`genetic inform
 - **干扰项理由（B）：** 第二波是 Na-Dene，不是 Ticuna。
 - **干扰项理由（C）：** 第三波是 Eskimo-Aleut，不是 Ticuna。
 
-## Question 26
+### Question 26
 
 **Choose the correct letter, A, B, C or D.**  
 选择正确字母 A、B、C 或 D。
@@ -714,8 +720,284 @@ DNA 是储存遗传信息的物质。`substance`【B1】物质；`genetic inform
 - **干扰项理由（C）：** `the majority of prehistoric Americans` 描述研究结论覆盖的群体，不是样本构成。
 - **干扰项理由（D）：** 研究对象是牙冠、牙根等牙齿性状，不是饮食习惯。
 
-## 全文回收
+### 全文回收
 
 全文的论证顺序很清楚：A 段建立“方法更新”，B 段提出“次数与年代”两个问题，C–E 段用血液蛋白与线粒体 DNA 建立并复核三波理论，F–G 段再用牙齿和语言证据交叉支持。最后一句没有推翻前文，而是划清证据边界：迁徙模式可以得到多条证据的共同支持，精确年代却仍须服从确凿考古证据。这正是本文的科学写作态度：证据增强可信度，但不应被写成超出证据能力的确定结论。
 
+## 03 B1+ 词汇深讲总表
 
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| be based on | B1 | 以……为依据 |
+| Reading Passage | B1 | 阅读文章 |
+| the following pages | B1 | 随后几页 |
+| population movement | B2 | 人口迁徙 |
+| genetics | B2 | 遗传学 |
+| origin | B2 | 起源 |
+| distribution | B2 | 分布 |
+| human population | B2 | 人类群体 |
+| used to be based on | B1 | 过去以……为依据 |
+| archaeological | C1 | 考古学的 |
+| fossil evidence | B2 | 化石证据 |
+| a number of | B1 | 若干 |
+| technique | B1 | 方法 |
+| developed since ... | B1 | 自……以来发展起来的 |
+| however | B1 | 不过 |
+| place ... on a ... footing | C1 | 使……处于某种基础 |
+| sound | B2 | 可靠的 |
+| objective | B2 | 客观的 |
+| subject | B1 | 课题 |
+| early population movements | B2 | 早期人口迁徙 |
+| be obtained from | B2 | 从……获得 |
+| archaeology of the living body | C1 | 借现存人体材料回溯历史 |
+| clue | B1 | 线索 |
+| genetic material | B2 | 遗传物质 |
+| recent work on | B1 | 近期关于……的研究 |
+| the problem of when ... | B1 | ……发生于何时的问题 |
+| the Americas | B1 | 南、北美洲 |
+| value | B2 | 价值 |
+| North-east Asia | B1 | 东北亚 |
+| Siberia | B1 | 西伯利亚 |
+| have long been accepted as | B2 | 长期被公认为 |
+| launching ground | C1 | 出发地 |
+| human coloniser | C1 | 迁入并定居新地区的人 |
+| New World | B2 | 新大陆 |
+| major wave of migration | B2 | 大规模的一波迁徙 |
+| migration | B2 | 迁徙 |
+| Bering Strait | B2 | 白令海峡 |
+| take place | B1 | 发生 |
+| in recent years | B1 | 近年来 |
+| research into | B2 | 对……的研究 |
+| genetic marker | C1 | 遗传标记 |
+| Native American | B2 | 美洲原住民 |
+| project | B1 | 研究项目 |
+| led by | B1 | 由……主持 |
+| biological anthropologist | C1 | 生物人类学家 |
+| focus on | B2 | 聚焦 |
+| variant | C1 | 变体 |
+| Gm allotype | C2 | Gm 同种异型 |
+| particular | B1 | 特定的 |
+| protein | B2 | 蛋白质 |
+| immunoglobin G | C2 | 原文所写“免疫球蛋白 G” |
+| fluid portion | B2 | 液体部分 |
+| drift | C1 | 发生遗传漂变 |
+| produce variants | B2 | 产生变体 |
+| over the generations | B2 | 经过一代又一代 |
+| interbreeding | C1 | 群体间通婚繁衍的 |
+| share a set of | B1 | 共享一组 |
+| thus | B2 | 因此 |
+| by comparing | B1 | 通过比较 |
+| population | B2 | 群体 |
+| e.g. | B1 | 例如 |
+| tribe | B2 | 部落 |
+| establish | B2 | 确定 |
+| genetic distance | C1 | 遗传距离 |
+| calibrate | C1 | 标定 |
+| give an indication of | B2 | 显示 |
+| the length of time since | B2 | 自……以来的时长 |
+| interbred | C1 | 相互繁衍 |
+| colleague | B1 | 同事 |
+| American Indian | B2 | 美洲印第安人 |
+| sample | B2 | 采集样本 |
+| western North America | B1 | 北美西部 |
+| during a twenty-year period | B2 | 在二十年期间 |
+| be divided into | B1 | 被分成 |
+| one of which | B2 | 其中之一 |
+| correspond to | B2 | 相对应 |
+| genetic typing | C1 | 遗传分型 |
+| Central and South American Indians | B2 | 中、南美洲印第安人 |
+| Inuit | B2 | 因纽特人 |
+| Eskimo | B2 | 原文旧称，现代使用需注意群体自称与语境 |
+| Aleut | B2 | 阿留申人 |
+| form a third group | B1 | 构成第三组 |
+| from this evidence | B2 | 根据这一证据 |
+| deduce | C1 | 推断 |
+| Paleo-Indian | C1 | 古印第安人 |
+| wave | B2 | 一波迁徙 |
+| be ancestral to | C1 | 是……的祖源 |
+| second wave | B2 | 第二波迁徙 |
+| Na-Dene | C1 | 纳-德内 |
+| hunter | B1 | 猎人 |
+| ancestor | B2 | 祖先 |
+| Navajo | B2 | 纳瓦霍人 |
+| Apache | B2 | 阿帕奇人 |
+| migrate south | B2 | 向南迁徙 |
+| third wave | B2 | 第三波迁徙 |
+| perhaps | B1 | 或许 |
+| see the migration of | B2 | 见证/发生迁徙 |
+| ancestral to | C1 | 为……祖源的 |
+| modern Eskimo and Aleut | B2 | 现代因纽特人和阿留申人 |
+| how far | B2 | 在多大程度上 |
+| research | B1 | 研究 |
+| support a conclusion | B2 | 支持结论 |
+| geneticist | C1 | 遗传学家 |
+| mitochondrial DNA | C1 | 线粒体 DNA |
+| blood sample | B2 | 血液样本 |
+| widely separated | B2 | 相距很远的 |
+| Native American group | B2 | 美洲原住民群体 |
+| Pima-Papago | C1 | 皮马-帕帕戈人 |
+| Arizona | B1 | 亚利桑那州 |
+| Maya | B2 | 玛雅人 |
+| Yucatán peninsula | C1 | 尤卡坦半岛 |
+| Ticuna | C1 | 蒂库纳人 |
+| Upper Amazon region | B2 | 亚马孙河上游地区 |
+| as would have been predicted | C1 | 正如按既有研究可以预料的那样 |
+| appear to | B1 | 似乎 |
+| be descended from | B2 | 源自 |
+| ancestral population | C1 | 祖先群体 |
+| kind of research | B1 | 研究类型 |
+| throw some light on | C1 | 帮助阐明 |
+| Native American population | B2 | 美洲原住民群体 |
+| involve | B1 | 涉及 |
+| the study of | B1 | 对……的研究 |
+| be an expert in | B1 | 是……方面的专家 |
+| analysis | B2 | 分析 |
+| changing physical characteristics | B2 | 变化中的形态特征 |
+| human teeth | B1 | 人类牙齿 |
+| argue that | B2 | 主张 |
+| tooth crown | B2 | 牙冠 |
+| root | B1 | 牙根 |
+| genetic component | C1 | 遗传成分 |
+| minimally | C1 | 极少地 |
+| be affected by | B2 | 受……影响 |
+| environmental factor | B2 | 环境因素 |
+| study carried out by | B2 | 由……开展的研究 |
+| New and Old World specimens | C1 | 新、旧大陆标本 |
+| ancient | B1 | 古代的 |
+| suggest that | B2 | 表明 |
+| the majority of | B2 | 大多数 |
+| prehistoric | C1 | 史前的 |
+| be linked to | B2 | 有关联 |
+| Northern Asian populations | B2 | 北亚人群 |
+| crown and root traits | C1 | 牙冠与牙根性状 |
+| incisor shoveling | C2 | 铲形门齿 |
+| scooping out | B2 | 挖成凹形 |
+| surface | B1 | 表面 |
+| single-rooted upper first premolars | C2 | 单根上颌第一前磨牙 |
+| triple-rooted lower first molars | C2 | 三根下颌第一磨牙 |
+| according to | B1 | 根据 |
+| tie in with | C1 | 相吻合 |
+| single Paleo-Indian migration | C1 | 单次古印第安人迁徙 |
+| set ... at | B2 | 把……确定在 |
+| calibrating | C1 | 标定 |
+| rate | B1 | 速率 |
+| dental micro-evolution | C2 | 牙齿微观进化 |
+| tooth analysis | B2 | 牙齿分析 |
+| later migration | B2 | 后来的迁徙 |
+| Na-Denes | C1 | 纳-德内人 |
+| Eskimo-Aleut | C1 | 因纽特-阿留申群体 |
+| linguist | B2 | 语言学家 |
+| since the 1950s | B1 | 自 20 世纪 50 年代以来 |
+| Native American languages | B2 | 美洲原住民语言 |
+| Amerind family | C1 | 文中所称“美洲印第安语系” |
+| except for | B1 | 除……之外 |
+| a view that | B2 | 一种……观点 |
+| give credence to | C1 | 使……更可信 |
+| main migration | B2 | 主要迁徙 |
+| be in a minority | C1 | 属于少数派 |
+| fellow linguist | B2 | 语言学同行 |
+| most of whom | B2 | 其中大多数 |
+| favour | B2 | 赞同 |
+| notion | C1 | 看法 |
+| a great many | B2 | 很多 |
+| wave of migration | B2 | 一波迁徙 |
+| account for | B2 | 解释 |
+| at one time | B2 | 一度 |
+| there is no doubt that | B2 | 毫无疑问 |
+| genetic evidence | B2 | 遗传证据 |
+| dental evidence | B2 | 牙齿证据 |
+| provide strong backing for | C1 | 提供有力支持 |
+| view | B1 | 观点 |
+| date given for | B1 | 为……给出的年代 |
+| nevertheless | B2 | 尽管如此 |
+| be treated with caution | C1 | 应谨慎对待 |
+| except where | B2 | 除非在……情况下 |
+| be supported by | B2 | 得到支持 |
+| hard archaeological evidence | C1 | 确凿考古证据 |
+| as opposed to | B2 | “与……相对” |
+| so-called | B2 | 提醒这是历史命名 |
+| continent | B1 | 大陆 |
+| native to | B2 | 原生于某地 |
+| ethnic group | B2 | 族群 |
+| northern region | B1 | 北部地区 |
+| i.e. | B2 | “也就是说”，用于精确改述范围 |
+| substance | B1 | 物质 |
+| genetic information | B2 | 遗传信息 |
+| crown | B2 | 牙冠 |
+| incisor | C1 | 门齿 |
+| premolar | C1 | 前磨牙 |
+| molar | C1 | 磨牙 |
+| section | B1 | 部分，在第一句和第二句各出现一次 |
+| heading | B1 | 标题，在“选择标题”指令中出现一次 |
+| list of headings | B1 | 标题列表，在同句和列表标题中各出现一次 |
+| answer sheet | B1 | 答题纸 |
+| result | B1 | 结果 |
+| blood-variant | C1 | 血液变体 |
+| linguistic evidence | B2 | 语言证据 |
+| development | B1 | 发展 |
+| method | B1 | 方法 |
+| early population movement | B2 | 早期人口迁徙 |
+| Indian | B2 | 美洲印第安人 |
+| further | B2 | 进一步的 |
+| relating to | B1 | 与……有关 |
+| three-wave theory | C1 | 三次迁徙理论 |
+| long-standing | C1 | 长期存在的 |
+| prehistoric migration | C1 | 史前迁徙 |
+| conflicting views | B2 | 相互冲突的观点 |
+| based on | B1 | 以……为依据 |
+| non-genetic evidence | C1 | 非遗传证据 |
+| cause | B2 | 原因 |
+| measure | B1 | 衡量 |
+| closeness | B2 | 亲近程度 |
+| relationship | B1 | 关系 |
+| discussion | B1 | 讨论 |
+| indicate | B2 | 指出 |
+| period | B1 | 时期 |
+| be thought to | B1 | 被认为 |
+| migrate | B2 | 迁徙 |
+| certain routes | B1 | 特定路线 |
+| six routes | B1 | 六条路线 |
+| be marked on | B1 | 标在……上 |
+| route | B1 | 路线和 |
+| refer to | B2 | 提到 |
+| early migration | B2 | 早期迁徙 |
+| suggest | B2 | 表明 |
+| these three waves | B2 | 这三波迁徙 |
+| various groups | B2 | 不同群体 |
+| reach the continent | B1 | 抵达该大陆 |
+| classify | C1 | 分类 |
+| groups named in the table | B1 | 表中列出的群体 |
+| originate from | B2 | 起源于 |
+| group | B1 | 群体 |
+| examination | B2 | 检查、考察 |
+| Old World | B2 | 旧大陆 |
+| dental specimen | C1 | 牙齿标本 |
+| eating habit | B1 | 饮食习惯 |
+
+## 04 IELTS 阅读提醒
+
+- 段落标题匹配先提炼每段的主功能，再排除只复述局部细节的标题；同义改写比原词复现更可靠。
+- 处理 map route matching 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 处理 classification 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 选择题先确定题干限定词，再回原文比较完整含义；不要因选项复现个别原词就直接作答。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 14 | iv |
+| 15 | vii |
+| 16 | x |
+| 17 | i |
+| 18 | vi |
+| 19 | ii |
+| 20 | E |
+| 21 | D |
+| 22 | C |
+| 23 | B |
+| 24 | A |
+| 25 | A |
+| 26 | A |

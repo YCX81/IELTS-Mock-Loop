@@ -2,11 +2,13 @@
 
 ## The True Cost of Food
 
+## 01 逐句精读
+
 超市价格只是食物成本最显眼的一层。本文追问：廉价食物在收银台之外还让社会付出了什么代价，又该怎样把环境、健康和公共财政成本重新纳入农业决策？
 
 文章先展示集约农业的损害，再用经济学概念 `externalities` 为隐藏成本命名，继而把损害换算成金额，最后提出一条介于维持现状与全面有机农业之间的改革路径。
 
-## 逐句精读
+### 原文逐句展开
 
 ### A
 
@@ -609,7 +611,9 @@ It could go a long way, he says, to shifting consumers as well as farmers toward
 
 `help` 最普通；`make a significant contribution to` 更正式并强调贡献；`be a step towards` 只表示迈出一步，力度通常更弱。[Cambridge Dictionary: go a long way](https://dictionary.cambridge.org/dictionary/english/go-a-long-way)
 
-## Questions 14–17
+## 02 题目与选项精讲
+
+### Questions 14–17
 
 **Reading Passage 2 has seven paragraphs, A–G.** 文章共有七段，标为 A–G。
 
@@ -697,7 +701,7 @@ It could go a long way, he says, to shifting consumers as well as farmers toward
 - **F**：提出政策方向，没有水体化学影响。
 - **G**：列标准范围，没有说明水源已经受到什么影响。
 
-## Questions 18–21
+### Questions 18–21
 
 **Do the following statements agree with the claims of the writer in Reading Passage 2?** 下列陈述是否与作者在文章中的观点一致？
 
@@ -769,7 +773,7 @@ It could go a long way, he says, to shifting consumers as well as farmers toward
 - **NO**：与明确列出的食物中毒成本相矛盾。
 - **NOT GIVEN**：原文直接列出 `food poisoning`，不是信息缺失。
 
-## Questions 22–26
+### Questions 22–26
 
 **Complete the summary below.** 完成下面的摘要。
 
@@ -827,6 +831,248 @@ Professor Pretty concludes that our 22 ______ are higher than most people realis
 
 `shifting ... towards` 被摘要改写成 `change the attitudes of`。`farmer` 是农民，基础词；`consumer (B2)` 是消费者。Q26 在同一句中有两个空，分别填 **farmers** 与 **consumers**；官方允许两者以任一顺序填写。
 
-## 答案汇总
+### 答案汇总
 
 14 **E**；15 **B**；16 **C**；17 **B**；18 **YES**；19 **NOT GIVEN**；20 **NO**；21 **YES**；22 **food bills / costs**；23 **(modern) intensive farming**；24 **organic farming**；25 **Greener Food Standard**；26 **farmers / consumers（两个空，顺序不限）**。
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| cost | B1 | 成本、代价 |
+| rise | B1 | 上升 |
+| reach a point where | B2 | 发展到……的地步 |
+| a growing number of | B1 | 越来越多的，修饰可数名词复数 |
+| far too high | B1 | 实在过高 |
+| bring ... down | B1 | 使……降低 |
+| challenge | B1 | 需要长期应对的难题 |
+| however | B1 | 然而，标出关键转折 |
+| immediate | B1 | 即时的、眼前的 |
+| the West | B1 | 西方国家或社会 |
+| in relative terms | B2 | 相对而言、按比例衡量 |
+| collateral damage | C1 | 附带损害 |
+| the very methods | B2 | 正是这些方法 |
+| food production | B2 | 食物生产 |
+| pollution | B1 | 污染 |
+| enervation | C2 | 衰弱、活力耗损 |
+| destruction | B2 | 破坏、毁灭，程度强于普通 |
+| wildlife | B2 | 野生生物 |
+| harm to | B2 | 对……的损害 |
+| threat to | B2 | 对……的威胁 |
+| human health | B1 | 人类健康 |
+| mass use | B2 | 大规模使用 |
+| livestock | B2 | 牲畜、农场饲养动物 |
+| onward march | C1 | 持续推进、一路扩张 |
+| unstoppable | B2 | 不可阻挡的 |
+| half-century | B2 | 半个世纪 |
+| yield | B2 | 产量 |
+| produce | B2 | 农产品 |
+| soar | C1 | 猛增、飙升 |
+| cause damage | B1 | 造成损害 |
+| colossal | C1 | 巨大的、惊人的 |
+| best-loved | B2 | 最受喜爱的 |
+| farmland | B2 | 农田、耕地 |
+| vanish | B2 | 消失 |
+| huge stretches of | C1 | 大片绵延的…… |
+| as have ... | B2 | ……也同样如此，助动词前置 |
+| direct result of | B1 | ……的直接结果 |
+| produce food | B1 | 生产食物 |
+| decade | B2 | 十年 |
+| pond | B1 | 池塘 |
+| disappear from | B1 | 从……消失 |
+| landscape | B1 | 景观、地貌 |
+| filth | C1 | 污秽物 |
+| drive ... from ... | B2 | 迫使……离开…… |
+| drop | B1 | 下降 |
+| continuous | B2 | 持续不断的 |
+| while | B1 | 与此同时 |
+| growth | B1 | 生长、增长 |
+| increase | B1 | 增加 |
+| put ... together | B1 | 综合考虑 |
+| battlefield | B2 | 战场 |
+| consumer | B2 | 消费者 |
+| rarely | B1 | 很少 |
+| make the connection | B2 | 看出联系 |
+| mainly | B1 | 主要地 |
+| damage | B1 | 损害 |
+| economist | B2 | 经济学家 |
+| refer to A as B | B2 | 把 A 称为 B |
+| transaction | B2 | 交易 |
+| wheat | B2 | 小麦 |
+| be borne by | C1 | 由……承担 |
+| directly | B1 | 直接地 |
+| producer | B2 | 生产者 |
+| appear to be | B1 | 看起来是…… |
+| financial | B2 | 财务的 |
+| not ... at all | B1 | 完全不…… |
+| merely | B2 | 仅仅、只不过，带缩小问题的语气 |
+| aesthetic | C1 | 审美的 |
+| a terrible shame | B1 | 非常遗憾的事 |
+| anyway | B1 | 不管怎样 |
+| as consumers of food | B2 | 作为食物消费者 |
+| certainly | B1 | 肯定 |
+| pay for | B1 | 为……付钱或承担代价 |
+| cost to society | B2 | 社会承担的成本 |
+| actually | B1 | 实际上 |
+| quantify | C1 | 量化 |
+| add up | B1 | 加总 |
+| amount to | B2 | 总计达到 |
+| staggering | C1 | 大得惊人的 |
+| sum | B2 | 金额 |
+| remarkable | B2 | 引人注目的、非凡的 |
+| exercise | B2 | 工作、尝试 |
+| carry out | B1 | 实施、开展 |
+| leading thinker | B2 | 领先的思想者或研究者 |
+| agriculture | B2 | 农业 |
+| director | B1 | 主任、负责人 |
+| society | B1 | 社会 |
+| colleague | B1 | 同事 |
+| calculate | B2 | 计算 |
+| British agriculture | B2 | 英国农业 |
+| particular | B1 | 特定的，强调不是多年累计 |
+| repair damage | B2 | 修复损害 |
+| come up with | B1 | 得出、提出 |
+| total figure | B2 | 总数、总金额 |
+| be equivalent to | B2 | 相当于 |
+| hectare | B2 | 公顷 |
+| almost as much again as | C1 | 几乎再多一倍 |
+| government spend | B2 | 政府支出 |
+| farming | B1 | 农业生产 |
+| according to | B1 | 根据、据……所说 |
+| conservative estimate | B2 | 保守估计 |
+| estimate | B2 | 估计值 |
+| removal | B2 | 清除 |
+| emission | B2 | 排放物或排放量 |
+| be likely to | B1 | 很可能…… |
+| contribute to | B2 | 促成、加剧 |
+| climate change | B1 | 气候变化 |
+| loss | B1 | 损失、流失 |
+| food poisoning | B2 | 食物中毒 |
+| cattle disease | B2 | 牛类疾病 |
+| draw a conclusion from | B2 | 从……得出结论 |
+| memorable | B2 | 令人难忘的 |
+| food bill | B1 | 食物账单 |
+| threefold | C1 | 三重的、由三部分构成的 |
+| supposedly | B2 | 所谓地、据称，暗示质疑 |
+| separate | B1 | 不同的 |
+| over the counter | B2 | 在柜台交易时 |
+| tax | B1 | 税款 |
+| provide | B1 | 提供 |
+| enormous | B1 | 巨大的 |
+| subsidy | B2 | 补贴 |
+| prop up | C1 | 支撑、勉强维持 |
+| clean up | B1 | 清理、治理 |
+| mess | B1 | 混乱、烂摊子 |
+| leave behind | B1 | 遗留、留下 |
+| true cost | B2 | 真实成本，包含市场价格之外的社会代价 |
+| break away from | B2 | 摆脱、脱离既有模式 |
+| solution to | B1 | ……的解决办法 |
+| hunger | B2 | 饥饿、粮食不足问题 |
+| supply food | B2 | 供应食物 |
+| urgent | B1 | 紧迫的 |
+| clearly | B1 | 清楚地 |
+| feasible | C1 | 现实条件允许实施的、可行的 |
+| government | B1 | 政府 |
+| sustainable | B2 | 可持续的 |
+| competitive | B2 | 有竞争力的 |
+| diverse | B2 | 多样化的 |
+| farming and food sectors | B2 | 农业与食品行业 |
+| thriving | C1 | 繁荣的、蓬勃发展的 |
+| rural economy | B2 | 农村经济 |
+| advance | B2 | 推进、促进实现 |
+| environmental | B1 | 环境方面的 |
+| economic | B2 | 经济方面的 |
+| goal | B1 | 目标 |
+| replace | B1 | 取代 |
+| viable | C1 | 切实可行且能持续运作的 |
+| alternative | B1 | 替代方案 |
+| feel that | B1 | 认为、觉得 |
+| too big a jump | B2 | 跨度过大、转变过猛 |
+| thinking | B1 | 观念、思维方式 |
+| practice | B2 | 做法、实践 |
+| furthermore | B2 | 此外、而且，正式递进连接词 |
+| put ... out of reach of | B2 | 使……超出某人的支付能力 |
+| recommend | B1 | 建议 |
+| immediate introduction | B2 | 立即引入、实施 |
+| push the market towards | B2 | 推动市场朝……发展 |
+| environmental practice | B2 | 环境实践 |
+| current norm | C1 | 当前通行标准或常态 |
+| require | B1 | 要求 |
+| full commitment to | B2 | 对……的完全投入或承诺 |
+| comprise | C1 | 由……构成、包括 |
+| standard | B2 | 标准、规范 |
+| agreed practice | B2 | 共同认可的做法 |
+| different kinds of farming | B1 | 不同农业类型 |
+| cover | B1 | 涵盖 |
+| go a long way to doing | C1 | 对做成某事大有帮助 |
+| shift ... towards ... | B2 | 推动……转向…… |
+| as well as | B1 | 以及、也包括 |
+| system of agriculture | B2 | 农业体系 |
+| passage | B2 | 是阅读文章 |
+| paragraph | B1 | 是段落 |
+| contain | B1 | 是“包含” |
+| be involved in | B1 | 指与某过程有关 |
+| purify | B2 | 是净化 |
+| domestic water | B2 | 指生活用水 |
+| stage | B1 | 是阶段 |
+| development | B1 | 是演进 |
+| farming industry | B1 | 是农业产业 |
+| term | B1 | 是术语 |
+| hidden cost | B2 | 是未显现在价格中的成本 |
+| effect on | B1 | 是“对……的影响” |
+| chemical | B1 | 是化学品 |
+| water source | B2 | 是水源 |
+| statement | B1 | 是陈述 |
+| agree with | B1 | 是一致 |
+| claim | B2 | 是作者观点 |
+| contradict | B2 | 是直接矛盾 |
+| impossible to say | B1 | 表示信息不足 |
+| species | B2 | 是物种，单复数同形 |
+| decline | B2 | 是数量或分布减少 |
+| deteriorate | C1 | 是恶化 |
+| in recent years | B1 | 是“近年来” |
+| financial cost | B2 | 是财务成本 |
+| environmental damage | B1 | 是环境损害 |
+| widely recognised | B2 | 是被广泛认识 |
+| illness | B1 | 是疾病 |
+| be caused by | B1 | 是由……引起 |
+| summary | B2 | 是摘要 |
+| conclude | B2 | 是得出结论 |
+| realise | B1 | 是意识到 |
+| payment | B1 | 是付款 |
+| realistic | B2 | 是现实可行的 |
+| suggest | B1 | 是提出建议 |
+| reduce reliance on | B2 | 是减少依赖 |
+| be unable to adapt to | B2 | 是无法适应 |
+| although | B1 | 是“虽然”，引出让步 |
+| initiate change | C1 | 是启动变革 |
+| establish | B2 | 是建立 |
+| refer to ... as ... | B2 | 是称为 |
+| attitude | B1 | 是态度 |
+
+## 04 IELTS 阅读提醒
+
+- 信息匹配先抓题干中的独特概念，再寻找同义改写；同一段可能被使用多次时不要自行排除。
+- YES / NO / NOT GIVEN 判断的是作者观点：同义支持选 YES，明确冲突选 NO，原文没有足够信息才选 NOT GIVEN。
+- 摘要填空先用语法判断词性和单复数，再用段落逻辑定位；最后检查题目规定的字数上限。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 14 | E |
+| 15 | B |
+| 16 | C |
+| 17 | B |
+| 18 | YES |
+| 19 | NOT GIVEN |
+| 20 | NO |
+| 21 | YES |
+| 22 | food bills/costs |
+| 23 | (modern) intensive farming |
+| 24 | organic farming |
+| 25 | Greener Food Standard |
+| 26 | farmers and consumers |

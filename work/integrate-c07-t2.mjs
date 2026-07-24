@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { applyC07CalibrationLedger } from './c07-calibration-ledger.mjs';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(scriptDir, '..');
@@ -782,9 +783,16 @@ assert.deepEqual(
 for (const pageNumber of [...sourcePages, answerKeyPage]) {
   const page = pageDocument.pages.find((item) => item.page === pageNumber);
   assert.ok(page, `Page JSON is missing physical page ${pageNumber}`);
-  page.text = calibratedPageTexts.get(pageNumber);
+  const applied = applyC07CalibrationLedger(
+    root,
+    pageNumber,
+    calibratedPageTexts.get(pageNumber),
+    calibrationMetadata,
+  );
+  calibratedPageTexts.set(pageNumber, applied.text);
+  page.text = applied.text;
   page.engine = 'manual_visual_calibration';
-  page.calibration = { ...calibrationMetadata };
+  page.calibration = applied.calibration;
 }
 
 const readingSections = [];

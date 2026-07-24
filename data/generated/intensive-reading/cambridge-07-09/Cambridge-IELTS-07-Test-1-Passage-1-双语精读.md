@@ -1,12 +1,16 @@
 # Let's Go Bats｜蝙蝠如何在黑暗中“看见”
 
+## Let's Go Bats
+
+## 01 逐句精读
+
 蝙蝠面对的并不只是一个动物学问题，而是一个工程问题：没有光，怎样定位、避障和捕食？文章先解释蝙蝠为什么占据夜间生态位，再逐步排除“自己制造光”这一方案，最后把盲人的“面部视觉”、军用声呐与蝙蝠的回声定位串成同一条技术逻辑。
 
 真正值得读懂的是作者的类比方式。他把自然选择写成市场竞争，把夜间捕食写成一门“行业”，又用人类工程史反过来解释蝙蝠早已完善的系统。题目也沿着这条线考查段落功能、回声机制、军事应用，以及 `radar` 与 `sonar` 的严格区别。
 
 标题 `Let's Go Bats` 一面是“我们来谈蝙蝠”，一面借用非正式表达 `go bats`（C1，“发疯、变得狂乱”）制造双关。正文并不说蝙蝠疯狂，而是用轻松标题引出它们高度精密的导航能力；这个表达语气口语化，不适合正式学术写作。
 
-## 逐句精读
+### 原文逐句展开
 
 ### A 段
 
@@ -338,7 +342,9 @@ The American zoologist Donald Griffin, who was largely responsible for the disco
 
 `zoologist`（动物学术语，C1）是动物学家；`be largely responsible for`（B2）表示作出主要贡献；`discovery`（B1）是发现；定语从句中的 `sonar`（声学术语，B2）独立出现；`coin a term`（语言学表达，C1）是创造术语；`echolocation`（动物声学术语，C1）是回声定位；`cover`（B2）表示涵盖；主句中的 `sonar`（声学术语，B2）再次独立出现；`radar`（雷达术语，B2）再次出现；`whether ... or ...`（B1）是无论……还是……；`human`（B1）在这里作形容词“人类的”；`instrument`（B2）再次指仪器。主干是 `Donald Griffin coined the term ...`，非限制性定语从句补充他的贡献，句末 `whether used ...` 是省略了主语和 `be` 的让步结构，限定该术语的涵盖范围。
 
-## Questions 1–13 完整精讲
+## 02 题目与选项精讲
+
+### Questions 1–13 完整精讲
 
 ### Questions 1–5
 
@@ -507,3 +513,283 @@ The American zoologist Donald Griffin, who was largely responsible for the disco
 `coined the term` 改写为 `was first used`；同位语给出职业。
 
 这四题同样没有原书选项，因此不添加虚构选项。整组答案依次为：**B, A, A, E, D, phantom, echoes/obstacles, depth, submarines, natural selection, radio waves/echoes, mathematical theories, zoologist**。
+
+<!-- C07-QUESTION-VOCAB-START -->
+### B1+ 词汇查漏补充
+
+- `wildlife`（**B1**）：野生动物的总称，不可数；题干用它概括蝙蝠以外的动物。
+- `rely on`（**B1**）：依赖、依靠；后接名词或动名词，语气比 use 更强调必要性。
+- `vision`（**B2**）：视觉能力；题干中的 rely on vision 指依靠眼睛导航。
+- `navigate`（**B2**）：辨认方向并行进；navigate by vision 表示借助视觉导航。
+- `mammal`（**B2**）：哺乳动物；early mammals 指早期哺乳动物群体。
+- `die out`（**B2**）：灭绝、完全消失；与单个生物 die 不同，主语通常是物种或群体。
+- `particular`（**B1**）：特定的；限定 discovery，提示定位某一项发现而非泛泛研究。
+- `discovery`（**B1**）：发现；how ... has helped 强调这项发现对理解蝙蝠的贡献。
+- `military`（**B2**）：军事的；early military uses 指回声定位原理早期的军用场景。
+- `echolocation`（**C1**）：回声定位；通过发声并分析回声判断物体位置。
+- `so-called`（**B2**）：所谓的；可中性标示名称，也可暗含对名称是否准确的保留。
+- `comparable to`（**B2**）：可与……相比；强调相似到足以比较，不等于完全相同。
+- `sensation`（**B2**）：感觉、感知；这里指面部仿佛被触碰的主观感觉。
+- `phantom`（**B2**）：幻觉般存在的；phantom limb 指截肢后仍感觉肢体存在的幻肢。
+- `perceive`（**C1**）：感知、察觉；比 notice 正式，强调感官或认知接收到信息。
+- `principle`（**B2**）：原理；题干指回声反射可用于测距这一基本机制。
+- `instrument`（**B1**）：仪器；这里是执行测量任务的技术设备，不是乐器。
+- `calculate`（**B1**）：计算、测定；calculate the depth 指根据回声测出深度。
+- `seabed`（**C1**）：海床、海底地面；depth of the seabed 即海底深度。
+- `wartime application`（**B2**）：战时应用；application 在这里是“用途”，不是申请。
+- `device`（**B1**）：装置、设备；比 instrument 更泛，可指用于探测的机械或电子设备。
+- `result in`（**B1**）：导致；后接结果，题干用过去完成时回溯雷达发明前的演化结果。
+- `sophisticated`（**B2**）：复杂而先进的；不只是 complicated，还含设计成熟、功能精密之意。
+- `inaccurate`（**B2**）：不准确的；题干要求解释 radar 一词为何不能精确描述蝙蝠系统。
+- `refer to`（**B1**）：指称、谈到；when referring to bats 表示在描述蝙蝠时。
+- `navigation system`（**B2**）：导航系统；指蝙蝠用于定位和避障的一整套感知机制。
+- `sonar`（**C1**）：声呐；利用声波及其回声探测水下物体或距离。
+- `theory`（**B2**）：理论；mathematical theories 指支撑雷达与声呐的数学理论。
+- `zoologist`（**B2**）：动物学家；由 zoology 加表示职业的 -ist 构成。
+<!-- C07-QUESTION-VOCAB-END -->
+
+## 03 B1+ 词汇深讲总表
+
+下表是逐句词汇讲解的检索索引；词义、搭配、语气边界和句中作用仍以对应逐句精读为准。
+
+| 表达 | CEFR | 本文义与使用提醒 |
+|---|---|---|
+| go bats | C1 | 制造双关 |
+| find one’s way around | B1 | 不是只找到某一条路，而是辨认方向并在环境中行动 |
+| hunt | B1 | 指捕猎 |
+| prey | B2 | 是被捕食的动物 |
+| avoid | B1 | 是避开 |
+| obstacle | B2 | 是妨碍通行的障碍物 |
+| of one’s own making | B2 | 表示由自己造成 |
+| simply | B1 | 表示只需、不过是 |
+| habit | B1 | 是长期形成的习惯或习性 |
+| economy | B2 | 通常指经济体系，这里隐喻白天可利用的生态资源 |
+| heavily | B2 | 是在很大程度上 |
+| exploit | C1 | 在生态语境中是充分利用，不一定含“剥削” |
+| creature | B1 | 指生物 |
+| given that | B2 | 都表示“鉴于”，构成平行原因 |
+| there is a living to be made | B2 | 表示有谋生空间 |
+| alternative | B1 | 表示可替代的 |
+| trade | B1 | 指行业 |
+| thoroughly | B2 | 是完全地 |
+| occupied | B2 | 表示机会被占用 |
+| natural selection | B2 | 是自然选择 |
+| favour | B2 | 指让某种特征获得生存优势 |
+| night-hunting trade | B2 | 是 |
+| probable | B2 | 比 |
+| nocturnal | C1 | 指夜间活动的 |
+| go way back | B2 | 表示追溯到很久以前 |
+| ancestry | C1 | 是祖先世系 |
+| mammal | B2 | 是哺乳动物 |
+| dinosaur | B1 | 是恐龙 |
+| dominate | B2 | 表示占据支配地位 |
+| daytime economy | B2 | 再次指白天资源体系 |
+| mammalian | C1 | 是哺乳动物的 |
+| ancestor | B2 | 指祖先 |
+| manage to survive | B1 | 强调克服困难后才活下来 |
+| at all | B1 | 加强“竟能、得以”的语气 |
+| find ways of doing | B1 | 是设法做某事 |
+| mysterious | B2 | 表示原因不明 |
+| mass extinction | C1 | 是大规模物种灭绝 |
+| emerge | B2 | 是从隐藏或受限状态中出现 |
+| daylight | B1 | 是白昼 |
+| in substantial numbers | C1 | 表示数量可观 |
+| engineering | B1 | 强调从技术角度看问题 |
+| find their way | B1 | 是导航，第二个 |
+| in the absence of | B2 | 是“在缺少……时” |
+| face a difficulty | B1 | 是面对困难 |
+| obviously | B1 | 表示显然 |
+| insect | B1 | 是昆虫 |
+| night-flying | B2 | 指夜间飞行的 |
+| prey on | B2 | 是捕食 |
+| find one’s way about | B1 | 再次表示导航 |
+| somehow | B1 | 表示以某种尚未说明的方式 |
+| deep-sea | B2 | 指深海的 |
+| little or no | B1 | 表示很少甚至完全没有 |
+| extremely | B1 | 表示程度极高 |
+| muddy | B1 | 指浑浊的 |
+| although | B1 | 引出让步 |
+| obstruct | C1 | 是阻挡 |
+| scatter | B2 | 在这里指光线散射 |
+| dirt | B1 | 是水中污物 |
+| plenty of | B1 | 表示许多 |
+| make one’s living | B1 | 在生态隐喻中指赖以生存 |
+| condition | B1 | 是环境条件 |
+| impossible | B1 | 表示不可能 |
+| given | B2 | 在这里是“考虑到、面对” |
+| manoeuvre | C1 | 指操控方向、灵活移动 |
+| solution | B1 | 是解决方案 |
+| engineer | B1 | 是工程师 |
+| consider | B1 | 表示认真考虑 |
+| occur to someone | B2 | 表示某人想到某事 |
+| manufacture | B2 | 在此指人工产生光 |
+| lantern | B2 | 是灯笼或提灯 |
+| searchlight | C1 | 是强力探照灯 |
+| firefly | B2 | 是萤火虫 |
+| bacteria | B2 | 是细菌 |
+| have the power to | B1 | 表示具备能力 |
+| process | B1 | 指过程 |
+| consume | B2 | 是消耗 |
+| a large amount of | B1 | 修饰大量不可数名词 |
+| energy | B1 | 是能量 |
+| attract | B1 | 是吸引 |
+| mate | B2 | 指交配对象 |
+| use ... for doing | B1 | 说明用途 |
+| require | B1 | 表示需要 |
+| prohibitive | C1 | 指成本高到足以阻止某事 |
+| amount of energy | B1 | 是能量的量 |
+| male | B1 | 与 |
+| female | B1 | 在这里分别指雄虫和雌虫 |
+| tiny | B1 | 是极小的 |
+| pinprick | C1 | 是针尖般的小光点 |
+| from some distance | B1 | 表示隔着一段距离 |
+| be exposed to | B2 | 表示暴露于、直接接触 |
+| directly | B1 | 是直接地 |
+| light source | B2 | 是光源 |
+| however | B1 | 标志转折 |
+| vastly | C1 | 意为大幅度地 |
+| detect | B2 | 是探测 |
+| fraction | B2 | 指一小部分 |
+| bounce off | B2 | 在这里指光被反射 |
+| scene | B1 | 是眼前整个环境 |
+| therefore | B1 | 表示结果 |
+| immensely | C1 | 表示程度极大 |
+| headlight | B2 | 是前灯 |
+| illuminate | C1 | 指照亮 |
+| path | B1 | 是行进道路 |
+| signal | B2 | 是信号 |
+| in any event | B2 | 是不管怎样 |
+| whether or not | B1 | 是无论是否 |
+| expense | B1 | 是代价 |
+| it seems to be the case that | B2 | 用于谨慎下结论 |
+| with the possible exception of | B2 | 表示可能例外 |
+| weird | B2 | 是奇异的 |
+| apart from | B1 | 是除……以外 |
+| manufactured | B2 | 是人造的 |
+| find its way about | B1 | 再次表示导航 |
+| think of | B1 | 表示想出、想到 |
+| blind | B1 | 表示失明的 |
+| human | B1 | 在这里作名词“人” |
+| uncanny | C1 | 指奇异得超出常理 |
+| sense | B1 | 在此是感知能力 |
+| in one’s path | B2 | 表示挡在前进路线上 |
+| facial vision | C1 | 是这种现象的历史称呼 |
+| report | B1 | 是描述、报告自身体验 |
+| sense of touch | B1 | 是触觉 |
+| totally | B1 | 是完全地 |
+| tricycle | B2 | 是三轮车 |
+| at good speed | B2 | 表示速度相当快 |
+| round the block | B1 | 是绕街区一圈 |
+| experiment | B1 | 指实验 |
+| in fact | B1 | 纠正表象 |
+| have nothing to do with | B1 | 是无关 |
+| touch | B1 | 在这里指触觉 |
+| sensation | B2 | 是身体感觉 |
+| be referred to | C1 | 在这里指感觉被定位到某个部位 |
+| referred pain | C1 | 是牵涉痛 |
+| phantom limb | C1 | 是幻肢 |
+| it turns out | B2 | 表示后来发现真实情况 |
+| be aware of | B1 | 是意识到 |
+| actually | B1 | 强调真实机制 |
+| echo | B2 | 是回声 |
+| footstep | B2 | 是脚步声 |
+| presence | B2 | 是存在 |
+| discover | B1 | 表示发现 |
+| instrument | B2 | 是测量仪器 |
+| principle | B2 | 是工作原理 |
+| measure | B1 | 是测量 |
+| depth | B2 | 是深度 |
+| technique | B1 | 指技术方法 |
+| invent | B1 | 是发明 |
+| it is only a matter of time before ... | B2 | 是某事迟早发生 |
+| weapon | B1 | 是武器 |
+| designer | B1 | 是设计者 |
+| adapt ... for | B2 | 是改作某用途 |
+| detection | B2 | 是探测 |
+| submarine | B2 | 是潜艇 |
+| rely heavily on | B2 | 是高度依赖 |
+| device | B2 | 指设备 |
+| codename | C1 | 是代号 |
+| Asdic | C1 | 与 |
+| Sonar | B2 | 在这里是声学探测系统的名称 |
+| as well as | B1 | 是以及 |
+| Radar | B2 | 与 |
+| RDF | C1 | 指无线电探测系统 |
+| radio echo | C1 | 是无线电回波 |
+| rather than | B1 | 是而不是 |
+| sound echo | B2 | 是声回波 |
+| pioneer | B2 | 是先驱 |
+| or rather | B2 | 用于纠正说法 |
+| work on | B1 | 在这里指自然选择作用于蝙蝠 |
+| perfect | C1 | 在此作动词“使完善” |
+| achieve | B1 | 是实现 |
+| feat | C1 | 是非凡成就 |
+| navigation | B2 | 是导航 |
+| admiration | B2 | 是钦佩 |
+| technically | B2 | 表示按严格技术定义 |
+| incorrect | B1 | 是不正确的 |
+| since | B1 | 在此表示原因 |
+| radio wave | B2 | 是无线电波 |
+| underlying | C1 | 是构成基础但不直接显现的 |
+| mathematical theories | B2 | 是数学理论 |
+| scientific understanding | B2 | 是科学认识 |
+| detail | B1 | 是细节 |
+| come from | B1 | 是源自 |
+| apply ... to ... | B1 | 是应用于 |
+| radar theory | B2 | 是再次出现的雷达理论 |
+| zoologist | C1 | 是动物学家 |
+| be largely responsible for | B2 | 表示作出主要贡献 |
+| discovery | B1 | 是发现 |
+| coin a term | C1 | 是创造术语 |
+| echolocation | C1 | 是回声定位 |
+| cover | B2 | 表示涵盖 |
+| whether ... or ... | B1 | 是无论……还是…… |
+| wildlife | B1 | 野生动物的总称，不可数 |
+| rely on | B1 | 依赖、依靠 |
+| vision | B2 | 视觉能力 |
+| navigate | B2 | 辨认方向并行进 |
+| die out | B2 | 灭绝、完全消失 |
+| particular | B1 | 特定的 |
+| military | B2 | 军事的 |
+| so-called | B2 | 所谓的 |
+| comparable to | B2 | 可与……相比 |
+| phantom | B2 | 幻觉般存在的 |
+| perceive | C1 | 感知、察觉 |
+| instrument | B1 | 仪器 |
+| calculate | B1 | 计算、测定 |
+| seabed | C1 | 海床、海底地面 |
+| wartime application | B2 | 战时应用 |
+| device | B1 | 装置、设备 |
+| result in | B1 | 导致 |
+| sophisticated | B2 | 复杂而先进的 |
+| inaccurate | B2 | 不准确的 |
+| refer to | B1 | 指称、谈到 |
+| navigation system | B2 | 导航系统 |
+| sonar | C1 | 声呐 |
+| theory | B2 | 理论 |
+| zoologist | B2 | 动物学家 |
+
+## 04 IELTS 阅读提醒
+
+- 处理 paragraph matching 时，先定位题干限定信息，再核对原文同义改写和逻辑关系。
+- 摘要填空先用语法判断词性和单复数，再用段落逻辑定位；最后检查题目规定的字数上限。
+- 句子填空同时核对语法衔接、语义搭配和字数限制，答案必须来自原文允许的词语。
+- 所有题做完后都要回到原文证据复核，尤其检查否定、比较、范围词和单复数。
+
+## 05 答案汇总
+
+| 题号 | 答案 |
+|---:|---|
+| 1 | B |
+| 2 | A |
+| 3 | A |
+| 4 | E |
+| 5 | D |
+| 6 | phantom |
+| 7 | echoes/obstacles |
+| 8 | depth |
+| 9 | submarines |
+| 10 | natural selection |
+| 11 | radio waves/echoes |
+| 12 | mathematical theories |
+| 13 | zoologist |
