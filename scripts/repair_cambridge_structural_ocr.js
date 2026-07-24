@@ -479,6 +479,123 @@ function repairIelts20TestBank(bank) {
   return changed;
 }
 
+function repairQuestionHeadingText(value, source = "") {
+  if (typeof value !== "string") return value;
+
+  let text = value.replace(
+    /\bQuestion(?=\s*\d{1,2}\s*[-–—]\s*\d{1,2}\b)/g,
+    "Questions"
+  );
+
+  text = text.replace(
+    /\bQuestions 13(?=\s*\nChoose the correct letter,\s*A,\s*B,\s*C or D\.\s*\nWrite your answer in box 13\b)/g,
+    "Question 13"
+  );
+  text = text.replace(
+    /\bQuestions 13(?=\s*\nChoose the correct letter,\s*A,\s*B,\s*C or D\.\s*\nWrite the correct letter in box 13\b)/g,
+    "Question 13"
+  );
+  text = text.replace(
+    /\bQuestions 26(?=\s*\nChoose the correct letter A,\s*B,\s*C or D\.\s*\nWrite the correct letter in box 26\b)/g,
+    "Question 26"
+  );
+
+  if (/cambridge-ielts-04|cambridge-04-/i.test(source)) {
+    text = text.replace(
+      /\bQuestions 13(?=\s*\nReading Passage 2 has four sections A[—-]D\.\s*\nChoose the correct heading for each section)/g,
+      "Questions 14–17"
+    );
+    text = text.replace(
+      /\bQuestions 1-3(?=\s*\nChoose the correct letter,\s*A,\s*B,\s*C or D\.\s*(?:\n| )Write your answer in box 13\b)/g,
+      "Question 13"
+    );
+    text = text.replace(
+      /\bQuestions 1-3(?=\s*\nReading Passage 2 has four sections A[—-]D\.\s*(?:\n| )Choose the correct heading for each section)/g,
+      "Questions 14–17"
+    );
+  }
+
+  if (/cambridge-ielts-09|cambridge-09-/i.test(source)) {
+    text = text.replace(/\babout 20 minutes an Questions\b/g, "about 20 minutes on Questions");
+    text = text.replace(/\bQuestions(?=\d{1,2}\s*[-–—])/g, "Questions ");
+  }
+
+  return text;
+}
+
+function repairQuestionHeadingsInValue(value, source = "") {
+  if (typeof value === "string") {
+    return repairQuestionHeadingText(value, source);
+  }
+  if (Array.isArray(value)) {
+    return value.map((item) => repairQuestionHeadingsInValue(item, source));
+  }
+  if (value && typeof value === "object") {
+    const nestedSource = String(value.id || value.source || source);
+    const context = Array.isArray(value.paragraphs) ? value.paragraphs.join("\n") : "";
+    if (
+      value.title === "Questions 26" &&
+      /\bWrite the correct letter in box 26\b/.test(context)
+    ) {
+      value.title = "Question 26";
+    }
+    if (
+      value.title === "Questions 13" &&
+      /\b(?:Write your answer|Write the correct letter) in box 13\b/.test(context)
+    ) {
+      value.title = "Question 13";
+    }
+    if (
+      value.title === "Questions 1-3" &&
+      /\bWrite your answer in box 13\b/.test(context)
+    ) {
+      value.title = "Question 13";
+    }
+    if (
+      value.title === "Questions 1-3" &&
+      /\bboxes 14-17\b/.test(context)
+    ) {
+      value.title = "Questions 14–17";
+    }
+    for (const [key, child] of Object.entries(value)) {
+      value[key] = repairQuestionHeadingsInValue(child, nestedSource);
+    }
+  }
+  return value;
+}
+
+function repairQuestionHeadingSources() {
+  let changed = 0;
+  for (const book of ["04", "09", "20"]) {
+    const rawFile = path.join(TEXT_PAGES, `cambridge-ielts-${book}.raw.md`);
+    const rawBefore = readText(rawFile);
+    const rawAfter = repairQuestionHeadingText(rawBefore, `cambridge-ielts-${book}`);
+    if (rawAfter !== rawBefore) {
+      writeText(rawFile, rawAfter);
+      changed += 1;
+    }
+
+    const pagesFile = path.join(PAGE_JSON, `cambridge-ielts-${book}.pages.json`);
+    const pagesBefore = readText(pagesFile);
+    const pagesDoc = repairQuestionHeadingsInValue(
+      JSON.parse(pagesBefore),
+      `cambridge-ielts-${book}`
+    );
+    const pagesAfter = `${JSON.stringify(pagesDoc, null, 2)}\n`;
+    if (pagesAfter !== pagesBefore) {
+      writeText(pagesFile, pagesAfter);
+      changed += 1;
+    }
+  }
+  return changed;
+}
+
+function repairQuestionHeadingBank(bank) {
+  const before = JSON.stringify(bank);
+  repairQuestionHeadingsInValue(bank);
+  return JSON.stringify(bank) === before ? 0 : 1;
+}
+
 function main() {
   const bankFile = path.join(REPORTS, "cambridge-test-bank.json");
   const bank = readJson(bankFile);
@@ -489,6 +606,8 @@ function main() {
   changes.push(["IELTS 10 test-bank", repairIelts10TestBank(bank)]);
   changes.push(["IELTS 20 raw/page-json", repairIelts20RawAndPages()]);
   changes.push(["IELTS 20 test-bank", repairIelts20TestBank(bank)]);
+  changes.push(["question headings in raw/page-json", repairQuestionHeadingSources()]);
+  changes.push(["question headings in test-bank", repairQuestionHeadingBank(bank)]);
 
   writeJson(bankFile, bank);
   writeJson(path.join(DATA, "cambridge-test-bank.json"), bank);

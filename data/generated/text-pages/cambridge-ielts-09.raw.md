@@ -468,7 +468,7 @@ sea turtles. And finally they returned yet again to the land as tortoises, some 
 now live in the driest of deserts.
 ## Page 21
 
-Question 27-30
+Questions 27-30
 Answer the questions below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 27-30 on your answer sheet.
@@ -477,7 +477,7 @@ Write your answers in boxes 27-30 on your answer sheet.
 big changes as they moved onto land?
 29 Which physical feature, possessed by their ancestors, do whales lack?
 30 Which animals might ichthyosaurs have resembled?
-Question 31-33
+Questions 31-33
 Do the following statements agree with the information given in Reading Passage 3?
 In boxes 31—33 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -775,7 +775,7 @@ Suitable employee: likes to work in groups
 
 READING
 READING PASSAGE 1
-You should spend about 20 minutes an Question 1—13, which are based on
+You should spend about 20 minutes on Questions 1—13, which are based on
 Reading Passage 1 below.
 A. Hearing impairment or other auditory function deficit in young children can have a
 major impact on their development of speech and communication, resulting in a
@@ -908,7 +908,7 @@ C cooling systems
 D large class sizes
 E loud-voiced teachers
 F playground games
-Questions 13
+Question 13
 Choose the correct letter, A, B, C or D.
 Write the correct letter in box 13 on your answer sheet.
 What is the writer’s overall purpose in writing this article?
@@ -920,7 +920,7 @@ D to promote New Zealand as a model for other countries to follow
 ## Page 41
 
 READING PASSAGE 2
-You should spend about 20 minutes on Question 14—26, which are based on
+You should spend about 20 minutes on Questions 14—26, which are based on
 Reading Passage 2 below.
 Venus in transit
 June 2004 saw the first passage, known as a ‘transit’, of the planet Venus across the
@@ -1309,7 +1309,7 @@ Direct phone line: 081260 543216
 ## Page 59
 
 SECTION 2 Questions 11-20
-Questions11-13
+Questions 11-13
 Choose the correct letter ,A ,B or C.
 Winridge Forest Railway Park
 11. Simon’s idea for a theme park came from
@@ -1381,7 +1381,7 @@ Next tutorial date : 30 January
 
 ## Page 62
 
-SECTION4 Questions31-40
+SECTION4 Questions 31-40
 Questions 31-32
 Choose the correct letter ,A ,B or C.
 31. The owners of the underground house
@@ -1392,7 +1392,7 @@ C wanted a professional project manager.
 A The land was quite cheap.
 B Stone was being extracted nearby.
 C It was in a completely unspoilt area.
-Questions33-40
+Questions 33-40
 Complete the notes below.
 Write ONE WORD AND/OR A NUMBER for each answer.
 The Underground House
@@ -1474,7 +1474,7 @@ because of the way they see all forms of usage as equally valid. Prescriptive
 grammarians have been presented as blind adherents to a historical tradition. The
 opposition has even been presented in quasi-political terms—of radical liberalism vs
 elitist conservatism.
-Question 1—8
+Questions 1—8
 Do the following statements agree with the information given in Reading Passage 1?
 In boxes 1—8 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -1493,7 +1493,7 @@ language.
 6 According to descriptivist it is pointless to try to stop language change.
 7 Descriptivism only appeared after the 18th century.
 8 Both descriptivists and prescriptivists have been misrepresented.
-Question 9-12
+Questions 9-12
 Complete the summary using the list of words, A—I, below.
 Write the correct letter, A—I, in boxes 9—12 on your answer sheet.
 The language debate
@@ -1521,7 +1521,7 @@ D to show how a certain view of language has been discredited.
 ## Page 69
 
 READING PASSAGE 2
-You should spend about 20 minutes on Question 14—26, which are based on
+You should spend about 20 minutes on Questions 14—26, which are based on
 Reading Passage 2 below.
 Tidal Power
 Undersea turbines which produce electricity from the tides are set to become an
@@ -1593,7 +1593,7 @@ we can do it are good.
 
 ## Page 72
 
-Question14-17
+Questions 14-17
 Reading Passage 2 has six paragraphs, A—F.
 Which paragraph contains the following information?
 Write the correct letter, A—F, in boxes 14—17 on your answer sheet.
@@ -1603,7 +1603,7 @@ NB You may use any letter more than once.
 16 a reference to a previous attempt by Britain to find an alternative source of
 energy
 17 mention of the possibility of applying technology from another industry
-Question18-22
+Questions 18-22
 Choose FIVE letters, A—J.
 Write the correct letters in boxes 18—22 on your answer sheet.
 Which FIVE of the following claims about tidal power are made by the writer?
@@ -1717,7 +1717,7 @@ correction, however, there’s a limit beyond which message become too
 ambiguous. Shannon showed how to calculate this limit, opening the way to the
 design of compression methods that cram maximum information into the
 minimum space.
-Question27-32
+Questions 27-32
 Reading Passage 3 has six paragraphs, A—F.
 Which paragraph contains the following information?
 Write the correct letter, A—F, in boxes 27—32 on your answer sheet.
@@ -1730,7 +1730,7 @@ Write the correct letter, A—F, in boxes 27—32 on your answer sheet.
 
 ## Page 78
 
-Question33-37
+Questions 33-37
 Complete the notes below.
 Choose NO MORE THAN TWO WORDS from the passage for each answer.
 Write your answers in boxes 33—37 on your answer sheet.
@@ -1748,7 +1748,7 @@ distance made communication with probe difficult.
 
 ## Page 79
 
-Question38-40
+Questions 38-40
 Do the following statements agree with the information given in Reading Passage 3?
 In boxes 38—40 on your answer sheet, write
 TRUE if the statement agrees with the information
@@ -1966,7 +1966,7 @@ familiar with?
 ## Page 91
 
 SECTION 4 Questions 31-40
-Questions31-36
+Questions 31-36
 Choose the correct letter, A ,B or C.
 Wildlife in city gardens
 31. What led the group to choose their topic?
@@ -2216,7 +2216,7 @@ before or after the tug-of-war: the children seemed to be disputing ownership
 rather than wanting to play with it. Although it may be less marked in other
 societies, the link between the sense of ‘self’ and of ‘ownership’ is a notable
 feature of childhood in Western societies.
-Question 14-19
+Questions 14-19
 Reading Passage 2 has eight paragraphs, A-H.
 Which paragraph contains the following information?
 Write the correct letter, A—H, in boxes 14-19 on your answer sheet.
@@ -2231,7 +2231,7 @@ NB You may use any letter more than once.
 
 ## Page 102
 
-Question 20-23
+Questions 20-23
 Look at the following findings (Questions 20-23) and the list of researchers below.
 Match each finding with the correct researcher or researchers. A—E.
 Write the correct letter, A—E, in boxes 20—23 on your answer sheet.
@@ -2373,7 +2373,7 @@ of the upper class of that era. No wonder that people who stroll around exhibiti
 are filled with nostalgia; the evidence in museums indicates that life was so much
 better in the past. This notion is induced by the bias in its representation in
 museums and heritage centers.
-Question 31-36
+Questions 31-36
 Choose the correct letter, A, B, C or D.
 Write the correct letter in boxes 31—36 on your answer sheet.
 31. Compared with today’s museums, those of the past

@@ -1735,7 +1735,7 @@ NOT GIVEN if it is impossible to say what the writer thinks about this
 
 11 Only one fixed loan should be given to each child.
 12 The children have to pay back slightly more money than they borrowed.
-Questions 13
+Question 13
 Choose the correct letter, A, B, C or D.
 Write your answer in box 13 on your answer sheet.
 The writers conclude that money should only be lent to street children
@@ -1749,7 +1749,7 @@ D if the projects planned are realistic and useful.
 READING PASSAGE 2
 You should spend about 20 minutes on Questions 14—26 which are based on
 Reading Passage 2 on the following pages.
-Questions 13
+Questions 14–17
 Reading Passage 2 has four sections A—D.
 Choose the correct heading for each section from the list of headings below.
 Write the correct number I — VI in the boxes 14—17 on your answer sheet.

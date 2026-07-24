@@ -2295,7 +2295,7 @@ from coral.
 
 Test 3
 READING PASSAGE 3
-You should spend about 20 minutes on Question 27 – 40, which are based on
+You should spend about 20 minutes on Questions 27 – 40, which are based on
 Reading Passage 3 below
 Robots and us
 Three leaders in their fields answer questions about our relationships with robot
@@ -2877,7 +2877,7 @@ Ways of protecting chickens from birds of prey
 Test 4
 READING
 READING PASSAGE 1
-You should spend about 20 minutes on Question 1 – 13, which are based on
+You should spend about 20 minutes on Questions 1 – 13, which are based on
 Reading Passage 1 below
 Georgia O'Keeffe
 For seven decades, Georgia O'Keeffe (1887-1986) was a major figure in American
@@ -3002,7 +3002,7 @@ at any other time in her life.
 
 Test 4
 READING PASSAGE 2
-You should spend about 20 minutes on Question 14 – 26, which are based on
+You should spend about 20 minutes on Questions 14 – 26, which are based on
 Reading Passage 2.
 Adapting to the effects of climate change
 A All around the world, nations are already preparing for, and adapting to,

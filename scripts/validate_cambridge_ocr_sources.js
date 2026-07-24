@@ -19,7 +19,6 @@ const fatalPatterns = [
   ["PART Questions missing number", /\bPART\s+Questions\s+\d{1,2}\s*[-–—]\s*\d{1,2}\b/gi],
   ["malformed equals question range", /\b(?:Questions|boxes)\s+\d{1,3}\s*[-–—]\s*\d{1,3}\s*=\s*\d{1,3}\b/gi],
   ["glued 3-4 digit question range", /\bQuestions\s+\d{3,4}(?!\s*[-–—]|\s+and\s+|\s+to\s+)/g],
-  ["glued 2 digit ascending question range", /\bQuestions\s+([1-9])([1-9])\b(?!\s*[-–—]|\s+and\s+|\s+to\s+)/g],
   ["glued boxes range", /\bboxes\s+\d{3,4}(?!\s*[-–—]|\s+and\s+|\s+to\s+)/gi],
   ["boxes capital-I range", /\bboxes\s+I[2-9]\b/g],
   ["singular box split", /\bbox\s+[1-9]-[1-9]\b/gi],
@@ -70,11 +69,6 @@ function collectMatches(file, text, patterns) {
   for (const [name, pattern] of patterns) {
     const re = new RegExp(pattern.source, pattern.flags.includes("g") ? pattern.flags : `${pattern.flags}g`);
     for (const match of text.matchAll(re)) {
-      if (name === "glued 2 digit ascending question range") {
-        const start = Number(match[1]);
-        const end = Number(match[2]);
-        if (!(start < end)) continue;
-      }
       const index = match.index || 0;
       const line = text.slice(0, index).split(/\r?\n/).length;
       const snippet = text.slice(Math.max(0, index - 80), Math.min(text.length, index + 160)).replace(/\s+/g, " ");

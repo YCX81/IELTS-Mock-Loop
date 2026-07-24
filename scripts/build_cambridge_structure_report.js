@@ -37,7 +37,6 @@ const residualPatterns = [
 ];
 
 const suspiciousRangePatterns = [
-  ["Questions glued range", /\bQuestions\s+([1-9])([1-9])\b(?!\s*[-–—]|\s+and\s+|\s+to\s+)/g],
   ["Questions long glued range", /\bQuestions\s+\d{3,4}(?!\s*[-–—]|\s+and\s+|\s+to\s+)/g],
   ["boxes capital-I range", /\bboxes\s+I[2-9]\b/g],
   ["singular box split", /\bbox\s+[1-9]-[1-9]\b/gi],
@@ -89,11 +88,6 @@ function collectMatches(text, patterns, limit = 30) {
     const flags = pattern.flags.includes("g") ? pattern.flags : `${pattern.flags}g`;
     const re = new RegExp(pattern.source, flags);
     for (const match of text.matchAll(re)) {
-      if (name === "Questions glued range") {
-        const start = Number(match[1]);
-        const end = Number(match[2]);
-        if (!(start < end)) continue;
-      }
       findings.push({ name, value: match[0] });
       if (findings.length >= limit) return findings;
     }

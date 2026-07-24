@@ -52,9 +52,6 @@ def fix_question_ranges(line: str) -> str:
     line = re.sub(r"\bQuestions\s*(\d+)\s*-\s*(\d+)\b", r"Questions \1-\2", line, flags=re.IGNORECASE)
     line = re.sub(r"\bQuestions\s*(\d+)\s+and\s+(\d+)\b", r"Questions \1 and \2", line, flags=re.IGNORECASE)
     line = re.sub(r"\b(SECTION|PART)\s*(\d+)\b", r"\1 \2", line, flags=re.IGNORECASE)
-    short = re.fullmatch(r"Questions\s+([1-9])([1-9])", line, flags=re.IGNORECASE)
-    if short and int(short.group(1)) < int(short.group(2)):
-        return f"Questions {short.group(1)}-{short.group(2)}"
     return line
 
 
