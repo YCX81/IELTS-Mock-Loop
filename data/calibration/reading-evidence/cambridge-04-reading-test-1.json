@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "testId": "cambridge-04-reading-test-1",
+  "source": {
+    "answerKey": "data/cambridge-test-bank.json#cambridge-04-reading-test-1.answerKeyText",
+    "passages": [
+      "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-1-Passage-1-双语精读.md",
+      "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-1-Passage-2-双语精读.md",
+      "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-1-Passage-3-双语精读.md"
+    ],
+    "verification": "Each current answer was checked against answerKeyText and the corresponding local passage/intensive-reading evidence."
+  },
+  "questions": {
+    "1": {
+      "answer": "FALSE",
+      "evidence": "Adults and children are frequently confronted with statements about the rainforest crisis, and the passage refers to frequent and often vivid media coverage.",
+      "evidenceLocation": "Reading Passage 1, opening paragraph",
+      "synonymSubstitutions": [
+        "largely ignored ↔ frequently confronted / frequent coverage (contradiction)"
+      ],
+      "distractors": "TRUE reverses the passage's explicit meaning; NOT GIVEN is excluded because the frequency of media coverage is stated."
+    },
+    "2": {
+      "answer": "FALSE",
+      "evidence": "Children will have formed ideas independent of any formal tuition and absorb ideas through the popular media.",
+      "evidenceLocation": "Reading Passage 1, opening paragraph",
+      "synonymSubstitutions": [
+        "classrooms ↔ formal tuition",
+        "only accept classroom opinions ↔ ideas formed independently through popular media (contradiction)"
+      ],
+      "distractors": "The absolute word 'only' is contradicted by the explicitly named non-classroom source."
+    },
+    "3": {
+      "answer": "TRUE",
+      "evidence": "Many studies have shown that children harbor misconceptions about 'pure', curriculum science.",
+      "evidenceLocation": "Reading Passage 1, paragraph beginning 'Many studies have shown'",
+      "synonymSubstitutions": [
+        "hold mistaken views ↔ harbor misconceptions",
+        "science studied at school ↔ curriculum science"
+      ],
+      "distractors": "The statement is a direct paraphrase, so neither FALSE nor NOT GIVEN fits."
+    },
+    "4": {
+      "answer": "TRUE",
+      "evidence": "The misconceptions become incorporated into a multifaceted conceptual framework that is more robust but also accessible to modification.",
+      "evidenceLocation": "Reading Passage 1, paragraph on children's conceptual frameworks",
+      "synonymSubstitutions": [
+        "form part of a larger framework ↔ become incorporated into a multifaceted conceptual framework",
+        "easier to change ↔ accessible to modification"
+      ],
+      "distractors": "The nearby phrase 'more robust' can tempt a FALSE answer, but the same sentence explicitly adds 'accessible to modification'."
+    },
+    "5": {
+      "answer": "FALSE",
+      "evidence": "The children completed a questionnaire containing five open-form questions.",
+      "evidenceLocation": "Reading Passage 1, methodology paragraph",
+      "synonymSubstitutions": [
+        "yes/no questions ↔ open-form questions (contradiction)"
+      ],
+      "distractors": "The example topic does not change the stated question format: open-form is not yes/no."
+    },
+    "6": {
+      "answer": "NOT GIVEN",
+      "evidence": "The passage compares girls' and boys' references to animal habitats (70% versus 60%) and human habitats (13% versus 5%), but does not compare their mistaken views about the causes of rainforest destruction.",
+      "evidenceLocation": "Reading Passage 1, results paragraph on habitat responses",
+      "synonymSubstitutions": [
+        "habitat responses ≠ mistaken views about destruction"
+      ],
+      "distractors": "The gender statistics concern habitats, so they support neither the statement nor its opposite."
+    },
+    "7": {
+      "answer": "TRUE",
+      "evidence": "The authors refer to 'our previous studies of pupils' views about the use and conservation of rainforests' and later mention results of similar studies about other environmental issues.",
+      "evidenceLocation": "Reading Passage 1, results discussion and concluding paragraph",
+      "synonymSubstitutions": [
+        "follows on from ↔ previous studies",
+        "children's understanding ↔ pupils' views about use and conservation"
+      ],
+      "distractors": "Previous related studies are explicitly identified; the passage is not silent about the research sequence."
+    },
+    "8": {
+      "answer": "NOT GIVEN",
+      "evidence": "The reported participants are secondary school children, and the passage mentions previous and similar studies; it gives no information about a planned second study of primary school children.",
+      "evidenceLocation": "Reading Passage 1, methodology and concluding discussion",
+      "synonymSubstitutions": [
+        "secondary school children ≠ primary school children",
+        "previous/similar studies ≠ a planned second study"
+      ],
+      "distractors": "There is no evidence either that such a study has been planned or that it will not be planned."
+    },
+    "9": {
+      "answer": "M",
+      "evidence": "For rainforest locations, Africa was given by 43% of children, South America by 30%, and Brazil by 25%; only some children gave the more general location near the Equator.",
+      "evidenceLocation": "Reading Passage 1, results for questionnaire question 2",
+      "synonymSubstitutions": [
+        "most frequent response ↔ highest percentage (43%)",
+        "M ↔ Rainforests are found in Africa"
+      ],
+      "distractors": "Brazil (D) was 25%, while near the Equator (C) was mentioned only by some children; neither was the most frequent response."
+    },
+    "10": {
+      "answer": "E",
+      "evidence": "The dominant idea, raised by 64% of the pupils, was that rainforests provide animals with habitats.",
+      "evidenceLocation": "Reading Passage 1, results for questionnaire question 3",
+      "synonymSubstitutions": [
+        "most common ↔ dominant idea / 64%",
+        "provide animals with habitats ↔ without rainforests some animals would have nowhere to live"
+      ],
+      "distractors": "Plants, oxygen and indigenous people were mentioned by fewer pupils; P answers why forests should be protected, not why they are important in this question."
+    },
+    "11": {
+      "answer": "G",
+      "evidence": "More than half of the pupils (59%) identified that it is human activities which are destroying rainforests.",
+      "evidenceLocation": "Reading Passage 1, results for questionnaire question 4",
+      "synonymSubstitutions": [
+        "people are responsible ↔ human activities are destroying rainforests"
+      ],
+      "distractors": "Logging (O) was specifically named by only 18%; acid rain and pollution were minority misconceptions."
+    },
+    "12": {
+      "answer": "P",
+      "evidence": "The majority of children simply said that we need rainforests to survive.",
+      "evidenceLocation": "Reading Passage 1, results for the final questionnaire question",
+      "synonymSubstitutions": [
+        "depend on rainforests for continuing existence ↔ need rainforests to survive"
+      ],
+      "distractors": "Animal, plant and human habitats occur elsewhere in the results, but the final question's majority response is specifically human survival."
+    },
+    "13": {
+      "answer": "J",
+      "evidence": "Only a few pupils (6%) mentioned that rainforest destruction may contribute to global warming; the author calls this surprising given the high level of media coverage.",
+      "evidenceLocation": "Reading Passage 1, results paragraph on global warming",
+      "synonymSubstitutions": [
+        "unexpectedly uncommon ↔ only 6% / surprising",
+        "world gets warmer ↔ contribute to global warming"
+      ],
+      "distractors": "Other minority responses were not linked by the author to both surprise and heavy newspaper/television coverage."
+    },
+    "14": {
+      "answer": "B",
+      "evidence": "The passage first examines children's ideas formed through media and tuition, reports their questionnaire responses, and then states that the findings should help teachers design educational strategies and curricula.",
+      "evidenceLocation": "Reading Passage 1, whole-passage purpose and conclusion",
+      "synonymSubstitutions": [
+        "implications for course design ↔ help teachers design educational strategies / plan curricula"
+      ],
+      "distractors": "A suggests a developed programme, C overstates media deception, D reduces the passage to research method, and E omits the central focus on children's ideas and teaching implications."
+    },
+    "15": {
+      "answer": "taste buds",
+      "evidence": "Although at least some cetaceans have taste buds, the nerves serving these have degenerated or are rudimentary.",
+      "evidenceLocation": "Reading Passage 2, taste paragraph",
+      "synonymSubstitutions": [
+        "nerves linked to ↔ nerves serving",
+        "underdeveloped ↔ rudimentary"
+      ],
+      "distractors": "'Nerves' is already the table subject, 'taste' is the given sense category, and 'rudimentary' describes the nerves rather than what they serve."
+    },
+    "16": {
+      "answer": "baleen species",
+      "evidence": "Baleen species have tracked objects with vision underwater; in baleen whales the eye position probably means they do not have stereoscopic vision.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on baleen species",
+      "synonymSubstitutions": [
+        "baleen species ↔ baleen whales"
+      ],
+      "distractors": "Dolphins and porpoises are linked to forward-and-downward stereoscopic vision, while freshwater dolphins are linked to forward-and-upward vision."
+    },
+    "17": {
+      "answer": "forward and downward",
+      "evidence": "Dolphins and porpoises have stereoscopic vision forward and downward.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on dolphins and porpoises",
+      "synonymSubstitutions": [
+        "direction blanks ↔ forward and downward"
+      ],
+      "distractors": "'Forward and upward' belongs to freshwater dolphins; swimming on the side or upside down describes posture, not visual direction."
+    },
+    "18": {
+      "answer": "freshwater dolphins",
+      "evidence": "Eye position in freshwater dolphins suggests that what vision they have is stereoscopic forward and upward.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on freshwater dolphins",
+      "synonymSubstitutions": [
+        "species with forward-and-upward stereoscopic vision ↔ freshwater dolphins"
+      ],
+      "distractors": "Dolphins and porpoises in general are assigned forward-and-downward vision; baleen species probably lack stereoscopic vision."
+    },
+    "19": {
+      "answer": "water",
+      "evidence": "The bottlenose dolphin has extremely keen vision in water and can see through the air-water interface well enough to track airborne flying fish.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on bottlenose dolphins",
+      "synonymSubstitutions": [
+        "exceptional ↔ extremely keen"
+      ],
+      "distractors": "'Air-water interface' is already supplied in the table; 'air' conflicts with the later statement that in-air vision is poor."
+    },
+    "20": {
+      "answer": "lower frequencies",
+      "evidence": "Large baleen whales primarily use the lower frequencies and are often limited in their repertoire.",
+      "evidenceLocation": "Reading Passage 2, hearing paragraph",
+      "synonymSubstitutions": [
+        "usually ↔ primarily",
+        "repertoire limited ↔ limited in their repertoire"
+      ],
+      "distractors": "A broader frequency spectrum and wider sound variety describe toothed species; high-energy clicks describe sperm whales."
+    },
+    "21": {
+      "answer": "bowhead and humpback",
+      "evidence": "The passage describes the nearly song-like choruses of bowhead whales and the complex, haunting utterances of humpback whales.",
+      "evidenceLocation": "Reading Passage 2, hearing paragraph",
+      "synonymSubstitutions": [
+        "song-like ↔ nearly song-like choruses / complex, haunting utterances"
+      ],
+      "distractors": "Large baleen and toothed whales are general categories; sperm whales are associated with monotonous high-energy clicks rather than song-like calls."
+    },
+    "22": {
+      "answer": "touch",
+      "evidence": "Stroking or touching are part of the courtship ritual in most cetacean species.",
+      "evidenceLocation": "Reading Passage 2, touch paragraph",
+      "synonymSubstitutions": [
+        "mating ↔ courtship ritual",
+        "sense of touch ↔ stroking or touching"
+      ],
+      "distractors": "'Stroking' and 'touching' are actions, but the question asks for the name of the sense."
+    },
+    "23": {
+      "answer": "freshwater dolphins",
+      "evidence": "Freshwater dolphins often swim on their side or upside down while feeding.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on freshwater dolphins",
+      "synonymSubstitutions": [
+        "eating ↔ feeding"
+      ],
+      "distractors": "Bottlenose dolphins track flying fish but are not described as swimming upside down; the broader dolphin-and-porpoise category occurs in a different visual comparison."
+    },
+    "24": {
+      "answer": "airborne flying fish",
+      "evidence": "A bottlenose dolphin watches and tracks airborne flying fish through the air-water interface.",
+      "evidenceLocation": "Reading Passage 2, vision paragraph on bottlenose dolphins",
+      "synonymSubstitutions": [
+        "follow ↔ watches and tracks"
+      ],
+      "distractors": "'Small fish' is taken from a trainer's hand after leaping out of the water; 'objects' describes baleen species generally."
+    },
+    "25": {
+      "answer": "clear open waters",
+      "evidence": "Vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains.",
+      "evidenceLocation": "Reading Passage 2, habitat comparison in the vision section",
+      "synonymSubstitutions": [
+        "good visual ability ↔ vision is more useful"
+      ],
+      "distractors": "Turbid rivers and flooded plains are the contrasting habitats where vision is less useful; 'water' alone is not the requested habitat type."
+    },
+    "26": {
+      "answer": "acoustic sense",
+      "evidence": "Other sensory weaknesses are more than compensated for by cetaceans' well-developed acoustic sense.",
+      "evidenceLocation": "Reading Passage 2, transition to the hearing section",
+      "synonymSubstitutions": [
+        "best developed ↔ well-developed / more than compensated for"
+      ],
+      "distractors": "Smell and taste are described as reduced, while vision varies by species and habitat."
+    },
+    "27": {
+      "answer": "C",
+      "evidence": "Blind people can appreciate the use of outlines and perspectives to describe the arrangement of objects and other surfaces in space.",
+      "evidenceLocation": "Reading Passage 3, Part 1 opening paragraph",
+      "synonymSubstitutions": [
+        "recognize conventions ↔ appreciate the use of outlines and perspectives"
+      ],
+      "distractors": "The passage says nothing about interest in studying art or accurate drawing, and understanding the use of outlines is not the same as being able to draw many objects."
+    },
+    "28": {
+      "answer": "C",
+      "evidence": "To show a spinning wheel's motion, the blind woman traced a curve inside the circle; the writer says he was taken aback.",
+      "evidenceLocation": "Reading Passage 3, Part 1 anecdote about the blind woman",
+      "synonymSubstitutions": [
+        "included a symbol representing movement ↔ traced a curve to show this motion"
+      ],
+      "distractors": "The surprise attaches to the motion symbol, not merely drawing a circle; the passage does not claim she invented motion lines."
+    },
+    "29": {
+      "answer": "A",
+      "evidence": "The blind subjects figured out meanings for each line of motion and generally reached the same meaning at least as frequently as sighted subjects.",
+      "evidenceLocation": "Reading Passage 3, Part 1 experiment results",
+      "synonymSubstitutions": [
+        "good understanding ↔ figured out meanings",
+        "symbols representing movement ↔ lines of motion"
+      ],
+      "distractors": "There were no real wheels to control and no teamwork task; 'at least as frequently' does not establish that blind subjects scored better."
+    },
+    "30": {
+      "answer": "E",
+      "evidence": "Spokes extending beyond the wheel's perimeter signified that the wheel had its brakes on; diagram 30 shows those projecting spokes.",
+      "evidenceLocation": "Reading Passage 3, Part 1 movement-line key and Question 30 diagram",
+      "synonymSubstitutions": [
+        "use of brakes ↔ had its brakes on"
+      ],
+      "distractors": "Curved spokes indicate steady spinning, bent spokes jerky movement, dashed spokes rapid spinning, and wavy spokes wobbling."
+    },
+    "31": {
+      "answer": "C",
+      "evidence": "Dashed spokes indicated that the wheel was spinning quickly; diagram 31 uses dashed spokes.",
+      "evidenceLocation": "Reading Passage 3, Part 1 movement-line key and Question 31 diagram",
+      "synonymSubstitutions": [
+        "rapid spinning ↔ spinning quickly"
+      ],
+      "distractors": "The other patterns are curved for steady spinning, bent for jerky movement, wavy for wobbling, and projecting beyond the perimeter for braking."
+    },
+    "32": {
+      "answer": "A",
+      "evidence": "Curved spokes indicated that the wheel was spinning steadily; diagram 32 shows smoothly curved spokes.",
+      "evidenceLocation": "Reading Passage 3, Part 1 movement-line key and Question 32 diagram",
+      "synonymSubstitutions": [
+        "steady spinning ↔ spinning steadily"
+      ],
+      "distractors": "Bent spokes with angles indicate jerky movement; dashed, wavy and perimeter-crossing spokes correspond to rapid spinning, wobbling and braking."
+    },
+    "33": {
+      "answer": "pairs",
+      "evidence": "The researchers gave sighted subjects a list of twenty pairs of words.",
+      "evidenceLocation": "Reading Passage 3, Part 2 experiment setup",
+      "synonymSubstitutions": [
+        "a set of word pairs ↔ a list of twenty pairs of words"
+      ],
+      "distractors": "'Associations' changes the experimental material, while 'words' would produce the ungrammatical phrase 'word words'."
+    },
+    "34": {
+      "answer": "shapes",
+      "evidence": "Part 2 investigates symbolism behind shapes such as hearts, and its conclusion refers to abstract shapes.",
+      "evidenceLocation": "Reading Passage 3, Part 2 introduction and conclusion",
+      "synonymSubstitutions": [
+        "symbolism in abstract shapes ↔ symbolism behind shapes"
+      ],
+      "distractors": "Pairs and words are the stimulus materials, not the abstract objects carrying the symbolism."
+    },
+    "35": {
+      "answer": "sighted",
+      "evidence": "The list was first given to sighted subjects, and all those subjects deemed the circle soft and the square hard.",
+      "evidenceLocation": "Reading Passage 3, Part 2 first volunteer group",
+      "synonymSubstitutions": [
+        "volunteers ↔ subjects",
+        "everyone ↔ all our subjects"
+      ],
+      "distractors": "Blind volunteers were tested later and are not the group associated with the unanimous soft-circle/hard-square result."
+    },
+    "36": {
+      "answer": "sighted",
+      "evidence": "Only 51% linked deep to circle and shallow to square, and the figure caption says these percentages show consensus among sighted subjects.",
+      "evidenceLocation": "Reading Passage 3, Part 2 results and Figure 2 caption",
+      "synonymSubstitutions": [
+        "volunteers ↔ subjects"
+      ],
+      "distractors": "The later blind group had four members and is not the group to which the 51% statistic belongs."
+    },
+    "37": {
+      "answer": "deep",
+      "evidence": "Only 51% of the sighted subjects linked deep to circle and shallow to square.",
+      "evidenceLocation": "Reading Passage 3, Part 2 results",
+      "synonymSubstitutions": [
+        "assigned a circle to deep ↔ linked deep to circle"
+      ],
+      "distractors": "'Shallow' was linked to the square; 'soft' was linked to the circle by everyone rather than by 51%."
+    },
+    "38": {
+      "answer": "blind",
+      "evidence": "The researchers then tested four totally blind volunteers using the same list.",
+      "evidenceLocation": "Reading Passage 3, Part 2 second volunteer group",
+      "synonymSubstitutions": [
+        "test was later repeated ↔ then tested using the same list"
+      ],
+      "distractors": "Sighted subjects were the first group, so they do not satisfy 'later repeated'."
+    },
+    "39": {
+      "answer": "similar",
+      "evidence": "The blind volunteers' choices closely resembled those made by the sighted subjects.",
+      "evidenceLocation": "Reading Passage 3, Part 2 blind-group results",
+      "synonymSubstitutions": [
+        "made similar choices ↔ choices closely resembled"
+      ],
+      "distractors": "'Identical' is too strong: the passage notes individual differences, so it establishes close resemblance rather than complete identity."
+    },
+    "40": {
+      "answer": "B",
+      "evidence": "In Part 1, blind and sighted subjects generally assigned the same meanings to motion lines; Part 2 concludes that the blind interpret abstract shapes as sighted people do.",
+      "evidenceLocation": "Reading Passage 3, conclusions of Parts 1 and 2",
+      "synonymSubstitutions": [
+        "comprehend visual metaphors in similar ways ↔ same meanings for motion lines / interpret abstract shapes as sighted people do"
+      ],
+      "distractors": "A emphasizes difference rather than the shared pattern, C overstates unusual symbol creation, and D introduces artistic training and success not tested in either experiment."
+    }
+  }
+}

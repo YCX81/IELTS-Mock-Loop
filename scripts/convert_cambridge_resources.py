@@ -10,6 +10,9 @@ import zipfile
 from datetime import datetime
 from pathlib import Path
 
+from canonical_reading_answers import apply_canonical_reading_answers
+from canonical_reading_calibrations import apply_canonical_reading_calibrations
+
 
 PDF_RE = re.compile(r"Cambridge-IELTS-(\d{2})\.pdf$", re.IGNORECASE)
 ZIP_RE = re.compile(r"Cambridge-IELTS---Listening-(\d{2})\.zip$", re.IGNORECASE)
@@ -520,6 +523,8 @@ def build_index(
 
     safe_write_text(reports_dir / "cambridge-resource-manifest.json", json.dumps(index, ensure_ascii=False, indent=2))
     test_bank = build_test_bank(books, project_root)
+    apply_canonical_reading_answers(test_bank, project_root)
+    apply_canonical_reading_calibrations(test_bank, project_root)
     safe_write_text(reports_dir / "cambridge-test-bank.json", json.dumps(test_bank, ensure_ascii=False, indent=2))
     js = "window.CAMBRIDGE_RESOURCE_INDEX = " + json.dumps(index, ensure_ascii=False, indent=2) + ";\n"
     safe_write_text(data_dir / "cambridge-resource-index.js", js)

@@ -1,0 +1,376 @@
+{
+  "testId": "cambridge-04-reading-test-2",
+  "source": [
+    "data/cambridge-test-bank.json",
+    "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-2-Passage-1-双语精读.md",
+    "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-2-Passage-2-双语精读.md",
+    "data/generated/intensive-reading/cambridge-04-06/Cambridge-IELTS-04-Test-2-Passage-3-双语精读.md"
+  ],
+  "questions": {
+    "1": {
+      "answer": "isolation",
+      "evidence": "Isolation breeds linguistic diversity.",
+      "evidenceLocation": "Passage 1, sentence 11",
+      "synonymSubstitutions": [
+        "great variety of languages ↔ linguistic diversity"
+      ],
+      "distractors": "“diversity”是结果；“separation”虽近义却不是原文用词，且答案必须取自原文。"
+    },
+    "2": {
+      "answer": "economic globalization",
+      "evidence": "The deadliest weapon is not government policy but economic globalization.",
+      "evidenceLocation": "Passage 1, sentence 25",
+      "synonymSubstitutions": [
+        "government initiatives ↔ government policy"
+      ],
+      "distractors": "“national unity”是政府政策声称的目的；“socio-economic pressures”是社群层面的表现，并非原文命名的并列因素。"
+    },
+    "3": {
+      "answer": "cultural identity",
+      "evidence": "A growing interest in cultural identity may prevent the direst predictions from coming true.",
+      "evidenceLocation": "Passage 1, sentence 38",
+      "synonymSubstitutions": [
+        "increasing appreciation ↔ a growing interest"
+      ],
+      "distractors": "“ancestral tongue”是需要学习的语言对象；“old traditions”来自年轻人可能拒绝的内容。"
+    },
+    "4": {
+      "answer": "traditional skill",
+      "evidence": "The master-speaker and apprentice meet regularly to learn a traditional skill such as basket weaving.",
+      "evidenceLocation": "Passage 1, sentence 44",
+      "synonymSubstitutions": [
+        "teach people ↔ apprentice ... learn"
+      ],
+      "distractors": "“basket weaving”只是传统技能的例子；“endangered language”是教学媒介，不是所教技能。"
+    },
+    "5": {
+      "answer": "E",
+      "evidence": "Most of these languages will not survive without a large degree of bilingualism.",
+      "evidenceLocation": "Passage 1, sentence 40, Doug Whalen",
+      "synonymSubstitutions": [
+        "unless people learn to speak more than one language ↔ without a large degree of bilingualism"
+      ],
+      "distractors": "Krauss谈使用者年龄；Mufwene谈保存与活态使用；Ostler谈年轻人拒绝旧传统；Pagel谈语言与认知。"
+    },
+    "6": {
+      "answer": "B",
+      "evidence": "Preventing a language dying out is not the same as giving it new life by using it every day.",
+      "evidenceLocation": "Passage 1, sentences 46–47, Salikoko Mufwene",
+      "synonymSubstitutions": [
+        "saving languages from extinction ↔ preventing a language dying out",
+        "not a satisfactory goal in itself ↔ not the same as giving it new life"
+      ],
+      "distractors": "其余人物分别讨论使用者年龄、旧传统、认知影响和双语存续条件，没有判断“仅保存还不够”。"
+    },
+    "7": {
+      "answer": "D",
+      "evidence": "The patterns of connections and the patterns of thought and perception may be structured by the linguistic habits of the community.",
+      "evidenceLocation": "Passage 1, sentences 35–36, Mark Pagel",
+      "synonymSubstitutions": [
+        "the way we think ↔ patterns of thought and perception",
+        "determined by our language ↔ structured by linguistic habits"
+      ],
+      "distractors": "其他人物没有把语言习惯与思维、感知的结构直接联系起来。"
+    },
+    "8": {
+      "answer": "C",
+      "evidence": "When the next generation reaches their teens, they might not want to be induced into the old traditions.",
+      "evidenceLocation": "Passage 1, sentence 21, Nicholas Ostler",
+      "synonymSubstitutions": [
+        "young people ↔ the next generation reaches their teens",
+        "reject the established way of life ↔ not want to be induced into the old traditions"
+      ],
+      "distractors": "其他人物谈代际年龄、经济压力、认知或双语学习，不涉及青少年拒绝旧传统。"
+    },
+    "9": {
+      "answer": "B",
+      "evidence": "Language and culture are intimately bound up with each other; changing from Navajo to English means losing something.",
+      "evidenceLocation": "Passage 1, sentences 31–32, Salikoko Mufwene",
+      "synonymSubstitutions": [
+        "a change of language ↔ changing from Navajo to English",
+        "a loss of traditional culture ↔ language and culture are intimately bound up; lose something"
+      ],
+      "distractors": "Ostler虽谈对文化失去信心，却没有明确连接换语言与文化损失；Pagel谈的是认知多样性损失。"
+    },
+    "10": {
+      "answer": "NO",
+      "evidence": "Navajo has 150,000 speakers yet is endangered; it is not just the number of speakers, but also their age.",
+      "evidenceLocation": "Passage 1, sentences 14–15",
+      "synonymSubstitutions": [
+        "currently has too few speakers ↔ not just the number of speakers, but also their age"
+      ],
+      "distractors": "题干把消亡原因归为人数太少，原文明确指出年龄也是关键，故不是 NOT GIVEN。"
+    },
+    "11": {
+      "answer": "YES",
+      "evidence": "Navajo has 150,000 speakers but is endangered because the age of the speakers also matters.",
+      "evidenceLocation": "Passage 1, sentences 14–15",
+      "synonymSubstitutions": [
+        "a large number of native speakers ↔ 150,000 speakers",
+        "fail to guarantee survival ↔ is endangered"
+      ],
+      "distractors": "纳瓦霍语的反例和对年龄因素的解释直接支持题干，不是 NOT GIVEN。"
+    },
+    "12": {
+      "answer": "NOT GIVEN",
+      "evidence": "The passage describes past government bans and English-only schooling, but gives no view on whether governments could now do more.",
+      "evidenceLocation": "Passage 1, sentences 23–24",
+      "synonymSubstitutions": [],
+      "distractors": "政府曾伤害少数族群语言，不能推出作者认为政府现在应该或不应该做更多保护工作。"
+    },
+    "13": {
+      "answer": "YES",
+      "evidence": "Many languages will disappear over the next century, even though growing cultural identity may avert the direst predictions.",
+      "evidenceLocation": "Passage 1, sentences 37–38",
+      "synonymSubstitutions": [
+        "loss of linguistic diversity ↔ many languages will disappear"
+      ],
+      "distractors": "“最坏预测可能不成真”不等于语言损失可被完全避免；原文仍直接预言许多语言会消失。"
+    },
+    "14": {
+      "answer": "C",
+      "evidence": "Australia has been unusual in having a very conservative attitude to natural or alternative therapies; doctors are loath to admit pretenders.",
+      "evidenceLocation": "Passage 2, opening paragraph",
+      "synonymSubstitutions": [
+        "reluctant to accept ↔ loath to allow",
+        "alternative therapists ↔ pretenders to their position"
+      ],
+      "distractors": "A挪用了德国药品信息；B是其他工业化国家的情况；D把欧洲可开草药处方偷换成澳大利亚经常开替代疗方。"
+    },
+    "15": {
+      "answer": "B",
+      "evidence": "Americans made more visits to alternative therapists than to orthodox doctors in 1990.",
+      "evidenceLocation": "Passage 2, opening paragraph",
+      "synonymSubstitutions": [
+        "consulted ... more often than ↔ made more visits to ... than"
+      ],
+      "distractors": "原文没有草药处方或投诉的年度比较；120亿美元只是替代疗法绝对支出，未与正统药物比较。"
+    },
+    "16": {
+      "answer": "YES",
+      "evidence": "The popularity of alternative therapies in Australia has climbed steadily during the past 20 years.",
+      "evidenceLocation": "Passage 2, survey-trend paragraph",
+      "synonymSubstitutions": [
+        "turning to ... in increasing numbers ↔ popularity ... climbed steadily"
+      ],
+      "distractors": "时间、对象和上升趋势均在原文直接出现。"
+    },
+    "17": {
+      "answer": "NO",
+      "evidence": "Use rose from 1.9% in 1983 to 2.6% in 1990; about an eighth refers to consultations, not an extra 8% of the population.",
+      "evidenceLocation": "Passage 2, 1983–1990 survey paragraph",
+      "synonymSubstitutions": [],
+      "distractors": "题干把0.7个百分点的增幅与约八分之一的就诊次数占比拼接成“新增8%人口”。"
+    },
+    "18": {
+      "answer": "YES",
+      "evidence": "The 550,000 consultations with alternative therapists were reported in the 1990 survey.",
+      "evidenceLocation": "Passage 2, 1990 survey paragraph",
+      "synonymSubstitutions": [
+        "survey related to ↔ reported in the survey"
+      ],
+      "distractors": "年份、55万次就诊及替代疗法对象完全一致。"
+    },
+    "19": {
+      "answer": "YES",
+      "evidence": "The high standing of professionals, including doctors, has been eroded.",
+      "evidenceLocation": "Passage 2, social-change paragraph",
+      "synonymSubstitutions": [
+        "had a higher opinion in the past ↔ high standing has been eroded"
+      ],
+      "distractors": "现在声望被削弱意味着过去评价更高，不是方向相反或未提及。"
+    },
+    "20": {
+      "answer": "YES",
+      "evidence": "Increasing numbers of doctors are taking courses themselves, particularly in acupuncture and herbalism.",
+      "evidenceLocation": "Passage 2, doctors' response paragraph",
+      "synonymSubstitutions": [
+        "retraining in alternative therapies ↔ taking courses in acupuncture and herbalism"
+      ],
+      "distractors": "原文直接描述医生参加相关课程，并非仅推测其学习意愿。"
+    },
+    "21": {
+      "answer": "NOT GIVEN",
+      "evidence": "The passage mentions doctors' financial incentive and clients going elsewhere, but never compares therapists' and doctors' salaries.",
+      "evidenceLocation": "Passage 2, doctors' response paragraph",
+      "synonymSubstitutions": [],
+      "distractors": "患者流失或商业动机既不能证明替代治疗师收入更高，也不能证明医生收入更高。"
+    },
+    "22": {
+      "answer": "NO",
+      "evidence": "The 289 patients attended eight clinics offering a wide range of alternative therapies from 25 therapists.",
+      "evidenceLocation": "Passage 2, 1993 Sydney survey paragraph",
+      "synonymSubstitutions": [
+        "involved 289 patients ↔ 289 patients attended",
+        "acupuncture treatment ↔ a wide range of alternative therapies (contradiction)"
+      ],
+      "distractors": "题干把多种替代疗法偷换成所有患者都接受针灸；原文范围信息足以反驳，不是 NOT GIVEN。"
+    },
+    "23": {
+      "answer": "YES",
+      "evidence": "Those surveyed had experienced chronic illnesses.",
+      "evidenceLocation": "Passage 2, 1993 Sydney survey paragraph",
+      "synonymSubstitutions": [
+        "all the patients ↔ those surveyed",
+        "long-term medical complaints ↔ chronic illnesses"
+      ],
+      "distractors": "“Those surveyed”覆盖全部受访者，原文没有限定为部分患者。"
+    },
+    "24": {
+      "answer": "emotional problems",
+      "evidence": "Twelve percent suffer from digestive problems, only one percent more than those suffering from emotional problems.",
+      "evidenceLocation": "Passage 2, medical-complaints statistics paragraph; chart position 11%",
+      "synonymSubstitutions": [
+        "11% ↔ 12% minus 1%"
+      ],
+      "distractors": "Digestive已是12%标签；musculo-skeletal为18%；respiratory和candida均为7%。"
+    },
+    "25": {
+      "answer": "headaches",
+      "evidence": "Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively.",
+      "evidenceLocation": "Passage 2, medical-complaints statistics paragraph; chart position 6%",
+      "synonymSubstitutions": [
+        "headaches ↔ headache sufferers"
+      ],
+      "distractors": "“respectively”使headaches对应6%，general ill health对应5%；其余图表类别比例不符。"
+    },
+    "26": {
+      "answer": "general ill health",
+      "evidence": "Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively.",
+      "evidenceLocation": "Passage 2, medical-complaints statistics paragraph; chart position 5%",
+      "synonymSubstitutions": [],
+      "distractors": "“respectively”使general ill health对应后一个5%；general health maintenance是已给的4%类别。"
+    },
+    "27": {
+      "answer": "H",
+      "evidence": "Play may create link-ups between brain areas that might not normally communicate and enhance creativity.",
+      "evidenceLocation": "Passage 3, paragraph H, sentence 53",
+      "synonymSubstitutions": [
+        "unusual connections ↔ link-ups between areas that might not normally communicate",
+        "beneficial ↔ enhance creativity"
+      ],
+      "distractors": "G只写多个脑区被激活和行为切换；只有H写通常不交流的脑区建立连接并带来创造力收益。"
+    },
+    "28": {
+      "answer": "F",
+      "evidence": "Researchers plot the amount of time a juvenile devotes to play each day and find a pattern associated with a sensitive period.",
+      "evidenceLocation": "Passage 3, paragraph F, sentence 36",
+      "synonymSubstitutions": [
+        "recording how much time ↔ plot the amount of time",
+        "young animals ↔ a juvenile"
+      ],
+      "distractors": "其他段落讨论能耗、脑容量、行为种类或机会减少，没有由每日玩耍时长曲线得出敏感期模式。"
+    },
+    "29": {
+      "answer": "A",
+      "evidence": "Play can get animals killed; 80% of young seal deaths occurred when playing animals failed to spot predators.",
+      "evidenceLocation": "Passage 3, paragraph A, sentences 4–5",
+      "synonymSubstitutions": [
+        "physical hazards ↔ get animals killed; fail to spot predators"
+      ],
+      "distractors": "其他段落主要讨论功能假说、脑容量、认知收益或缺少玩耍的后果，而非玩耍本身伴随的身体危险。"
+    },
+    "30": {
+      "answer": "H",
+      "evidence": "Play exercises higher cognitive processes, assessment of partners, reciprocity, signals and rules, behavioural flexibility and learning.",
+      "evidenceLocation": "Passage 3, paragraph H, sentences 45–48",
+      "synonymSubstitutions": [
+        "mental activities ↔ higher cognitive processes",
+        "exercised and developed ↔ behavioural flexibility and learning potential"
+      ],
+      "distractors": "G仅概述行为组合和脑区激活；H才集中列出评估、互惠、信号、规则和学习等心理活动。"
+    },
+    "31": {
+      "answer": "I",
+      "evidence": "Earlier schooling and exam pressure reduce children's play, and the writer asks what the consequences might be.",
+      "evidenceLocation": "Passage 3, paragraph I, sentences 54–57",
+      "synonymSubstitutions": [
+        "reduction in play opportunities ↔ earlier schooling and exam pressure leave less play",
+        "possible effects ↔ what might the consequences be"
+      ],
+      "distractors": "H写玩耍的认知收益；I才转向儿童玩耍机会减少并追问潜在后果。"
+    },
+    "32": {
+      "answer": "B",
+      "evidence": "Play is mainly found in mammals, though a few larger-brained birds also engage in it.",
+      "evidenceLocation": "Passage 3, paragraph B, sentence 14",
+      "synonymSubstitutions": [
+        "classes of animals ↔ mammals; larger-brained birds"
+      ],
+      "distractors": "其他段落只举个别物种或讨论哺乳动物内部差异，没有直接概括动物类别。"
+    },
+    "33": {
+      "answer": "A",
+      "evidence": "One traditional view is that play helps young animals develop skills needed for adult hunting, mating and socialising.",
+      "evidenceLocation": "Passage 3, paragraph B, sentence 16",
+      "synonymSubstitutions": [
+        "a rehearsal for later adult activities ↔ develop skills needed for adult hunting, mating and socialising"
+      ],
+      "distractors": "题目问文中“提到”的看法，即使后文质疑该解释仍应选择；原文没有向同伴证明自己或防御策略。"
+    },
+    "34": {
+      "answer": "C",
+      "evidence": "Another traditional view is that play gets animals in shape by improving respiratory endurance.",
+      "evidenceLocation": "Passage 3, paragraph B, sentence 17",
+      "synonymSubstitutions": [
+        "build up strength for adulthood ↔ get in shape; improve respiratory endurance"
+      ],
+      "distractors": "后文虽反驳体能训练说，但本题只问该看法是否被提到。"
+    },
+    "35": {
+      "answer": "F",
+      "evidence": "The passage links play with shaping a larger brain, neural growth and smaller brain structures when young rats are deprived of play.",
+      "evidenceLocation": "Passage 3, paragraphs B, H and I; sentences 12, 50 and 55",
+      "synonymSubstitutions": [
+        "assisting organ growth ↔ shaping a larger brain; stimulation and growth of nerve cells"
+      ],
+      "distractors": "“organ growth”是跨句概括，并非原文逐字短语；情感交流、同伴证明和防御策略均无对应论述。"
+    },
+    "36": {
+      "answer": "B",
+      "evidence": "Robert Barton says the brain needs play to shape itself and stresses environmental data during development.",
+      "evidenceLocation": "Passage 3, paragraph E, sentences 33–34",
+      "synonymSubstitutions": [
+        "input concerning physical surroundings ↔ environmental data"
+      ],
+      "distractors": "特定化学物质属于Siviy；脑较小玩得少属于Pellis；体能训练结论属于Byers；行为组合属于Bekoff。"
+    },
+    "37": {
+      "answer": "G",
+      "evidence": "Marc Bekoff calls play a behavioural kaleidoscope combining rapid switches among predatory, aggressive and reproductive actions.",
+      "evidenceLocation": "Passage 3, paragraph G, sentences 42–44",
+      "synonymSubstitutions": [
+        "a wide range of activities are combined ↔ behavioural kaleidoscope; rapid switches among actions"
+      ],
+      "distractors": "环境输入、脑容量、体能训练和脑内化学物质分别属于其他研究者。"
+    },
+    "38": {
+      "answer": "E",
+      "evidence": "John Byers notes training gains vanish after exercise stops and the play peak is mistimed for preparation for adult fitness.",
+      "evidenceLocation": "Passage 3, paragraph C, sentences 20–24",
+      "synonymSubstitutions": [
+        "not fitness training for the future ↔ gains vanish; play peak does not match preparation for adulthood"
+      ],
+      "distractors": "Byers研究的是锻炼收益和发育时间不匹配，不是环境输入、脑容量关系或行为组合。"
+    },
+    "39": {
+      "answer": "D",
+      "evidence": "Sergio Pellis found brain size positively related to playfulness; the converse was also true after controlling for body size.",
+      "evidenceLocation": "Passage 3, paragraph E, sentences 30–32",
+      "synonymSubstitutions": [
+        "smaller brains tend to play less ↔ positive relation; the converse was also true"
+      ],
+      "distractors": "Pellis研究多个哺乳动物目的脑容量与爱玩程度，不涉及鸟类、环境输入或体能训练。"
+    },
+    "40": {
+      "answer": "A",
+      "evidence": "Stephen Siviy studies how play affects levels of a particular chemical in the brain.",
+      "evidenceLocation": "Passage 3, paragraph H, sentence 50",
+      "synonymSubstitutions": [
+        "specific substance ↔ particular chemical",
+        "a link with playing ↔ how play affects levels"
+      ],
+      "distractors": "环境输入属于Barton；行为组合属于Bekoff；脑容量反向关系属于Pellis；体能训练结论属于Byers。"
+    }
+  }
+}

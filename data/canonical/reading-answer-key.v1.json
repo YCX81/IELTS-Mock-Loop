@@ -1,0 +1,9682 @@
+{
+  "schemaVersion": 1,
+  "kind": "ielts-reading-answer-key",
+  "description": "Canonical, version-controlled Reading answer source. Rebuild scripts must merge these answer fields into generated questions instead of deriving answers from Git history.",
+  "tests": {
+    "cambridge-04-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "M"
+        },
+        "10": {
+          "answer": "E"
+        },
+        "11": {
+          "answer": "G"
+        },
+        "12": {
+          "answer": "P"
+        },
+        "13": {
+          "answer": "J"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "taste buds"
+        },
+        "16": {
+          "answer": "baleen species"
+        },
+        "17": {
+          "answer": "forward and downward"
+        },
+        "18": {
+          "answer": "freshwater dolphins"
+        },
+        "19": {
+          "answer": "water"
+        },
+        "20": {
+          "answer": "lower frequencies"
+        },
+        "21": {
+          "answer": "bowhead and humpback"
+        },
+        "22": {
+          "answer": "touch"
+        },
+        "23": {
+          "answer": "freshwater dolphins"
+        },
+        "24": {
+          "answer": "airborne flying fish"
+        },
+        "25": {
+          "answer": "clear open waters"
+        },
+        "26": {
+          "answer": "acoustic sense"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "E"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "A"
+        },
+        "33": {
+          "answer": "pairs"
+        },
+        "34": {
+          "answer": "shapes"
+        },
+        "35": {
+          "answer": "sighted"
+        },
+        "36": {
+          "answer": "sighted"
+        },
+        "37": {
+          "answer": "deep"
+        },
+        "38": {
+          "answer": "blind"
+        },
+        "39": {
+          "answer": "similar"
+        },
+        "40": {
+          "answer": "B"
+        }
+      }
+    },
+    "cambridge-04-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "isolation"
+        },
+        "2": {
+          "answer": "economic globalization",
+          "acceptedAnswers": [
+            "economic globalisation"
+          ]
+        },
+        "3": {
+          "answer": "cultural identity"
+        },
+        "4": {
+          "answer": "traditional skill"
+        },
+        "5": {
+          "answer": "E"
+        },
+        "6": {
+          "answer": "B"
+        },
+        "7": {
+          "answer": "D"
+        },
+        "8": {
+          "answer": "C"
+        },
+        "9": {
+          "answer": "B"
+        },
+        "10": {
+          "answer": "NO"
+        },
+        "11": {
+          "answer": "YES"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "YES"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "YES"
+        },
+        "17": {
+          "answer": "NO"
+        },
+        "18": {
+          "answer": "YES"
+        },
+        "19": {
+          "answer": "YES"
+        },
+        "20": {
+          "answer": "YES"
+        },
+        "21": {
+          "answer": "NOT GIVEN"
+        },
+        "22": {
+          "answer": "NO"
+        },
+        "23": {
+          "answer": "YES"
+        },
+        "24": {
+          "answer": "emotional problems",
+          "acceptedAnswers": [
+            "emotional"
+          ]
+        },
+        "25": {
+          "answer": "headaches",
+          "acceptedAnswers": [
+            "headache"
+          ]
+        },
+        "26": {
+          "answer": "general ill health"
+        },
+        "27": {
+          "answer": "H"
+        },
+        "28": {
+          "answer": "F"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "H"
+        },
+        "31": {
+          "answer": "I"
+        },
+        "32": {
+          "answer": "B"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "C"
+        },
+        "35": {
+          "answer": "F"
+        },
+        "36": {
+          "answer": "B"
+        },
+        "37": {
+          "answer": "G"
+        },
+        "38": {
+          "answer": "E"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-04-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "A"
+        },
+        "2": {
+          "answer": "D"
+        },
+        "3": {
+          "answer": "C"
+        },
+        "4": {
+          "answer": "C"
+        },
+        "5": {
+          "answer": "Sudan and India",
+          "acceptedAnswers": [
+            "India and Sudan"
+          ]
+        },
+        "6": {
+          "answer": "bicycles"
+        },
+        "7": {
+          "answer": "Shoe Shine Collective",
+          "acceptedAnswers": [
+            "Shoe Shine"
+          ]
+        },
+        "8": {
+          "answer": "life skills"
+        },
+        "9": {
+          "answer": "NO"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "NO"
+        },
+        "12": {
+          "answer": "YES"
+        },
+        "13": {
+          "answer": "A"
+        },
+        "14": {
+          "answer": "III"
+        },
+        "15": {
+          "answer": "I"
+        },
+        "16": {
+          "answer": "IV"
+        },
+        "17": {
+          "answer": "VI"
+        },
+        "18": {
+          "answer": "plates",
+          "acceptedAnswers": [
+            "the plates",
+            "tectonic plates"
+          ]
+        },
+        "19": {
+          "answer": "magma"
+        },
+        "20": {
+          "answer": "ring of fire",
+          "acceptedAnswers": [
+            "the ring of fire"
+          ]
+        },
+        "21": {
+          "answer": "600 years",
+          "acceptedAnswers": [
+            "600"
+          ]
+        },
+        "22": {
+          "answer": "water",
+          "acceptedAnswers": [
+            "the water",
+            "oceans",
+            "the oceans"
+          ]
+        },
+        "23": {
+          "answer": "magma",
+          "acceptedAnswers": [
+            "lava",
+            "molten rock"
+          ]
+        },
+        "24": {
+          "answer": "India",
+          "acceptedAnswers": [
+            "western India"
+          ]
+        },
+        "25": {
+          "answer": "explodes"
+        },
+        "26": {
+          "answer": "gases",
+          "acceptedAnswers": [
+            "the gases",
+            "trapped gases"
+          ]
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "E"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "F"
+        },
+        "32": {
+          "answer": "linguist",
+          "acceptedAnswers": [
+            "linguists"
+          ]
+        },
+        "33": {
+          "answer": "foreign languages"
+        },
+        "34": {
+          "answer": "quality",
+          "acceptedAnswers": [
+            "the quality",
+            "poor quality"
+          ]
+        },
+        "35": {
+          "answer": "non-verbal behavior",
+          "acceptedAnswers": [
+            "non-verbal behaviour",
+            "facial expression",
+            "facial expressions"
+          ]
+        },
+        "36": {
+          "answer": "camera",
+          "acceptedAnswers": [
+            "the camera",
+            "video camera",
+            "recording",
+            "video recording"
+          ]
+        },
+        "37": {
+          "answer": "frequency of usage",
+          "acceptedAnswers": [
+            "usage frequency"
+          ]
+        },
+        "38": {
+          "answer": "particular linguistic feature"
+        },
+        "39": {
+          "answer": "size"
+        },
+        "40": {
+          "answer": "intuitions"
+        }
+      }
+    },
+    "cambridge-04-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "genetics"
+        },
+        "8": {
+          "answer": "power"
+        },
+        "9": {
+          "answer": "injuries"
+        },
+        "10": {
+          "answer": "training"
+        },
+        "11": {
+          "answer": "A"
+        },
+        "12": {
+          "answer": "D"
+        },
+        "13": {
+          "answer": "B"
+        },
+        "14": {
+          "answer": "YES"
+        },
+        "15": {
+          "answer": "NOT GIVEN"
+        },
+        "16": {
+          "answer": "NO"
+        },
+        "17": {
+          "answer": "YES"
+        },
+        "18": {
+          "answer": "NOT GIVEN"
+        },
+        "19": {
+          "answer": "NO"
+        },
+        "20": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "E"
+          ]
+        },
+        "21": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "22": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "23": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "24": {
+          "answer": "oral histories"
+        },
+        "25": {
+          "answer": "humanistic study",
+          "acceptedAnswers": [
+            "historical discipline"
+          ]
+        },
+        "26": {
+          "answer": "historical discipline",
+          "acceptedAnswers": [
+            "humanistic study"
+          ]
+        },
+        "27": {
+          "answer": "scientist"
+        },
+        "28": {
+          "answer": "iv"
+        },
+        "29": {
+          "answer": "i"
+        },
+        "30": {
+          "answer": "iii"
+        },
+        "31": {
+          "answer": "v"
+        },
+        "32": {
+          "answer": "B"
+        },
+        "33": {
+          "answer": "B"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "YES"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-05-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "E",
+            "G"
+          ]
+        },
+        "2": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "D",
+            "G"
+          ]
+        },
+        "3": {
+          "answer": "G",
+          "acceptedAnswers": [
+            "D",
+            "E"
+          ]
+        },
+        "4": {
+          "answer": "clerks",
+          "acceptedAnswers": [
+            "copying clerks"
+          ]
+        },
+        "5": {
+          "answer": "library"
+        },
+        "6": {
+          "answer": "stability"
+        },
+        "7": {
+          "answer": "pension"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "F"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "I"
+        },
+        "19": {
+          "answer": "C"
+        },
+        "20": {
+          "answer": "B"
+        },
+        "21": {
+          "answer": "D"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "NOT GIVEN"
+        },
+        "24": {
+          "answer": "TRUE"
+        },
+        "25": {
+          "answer": "FALSE"
+        },
+        "26": {
+          "answer": "FALSE"
+        },
+        "27": {
+          "answer": "YES"
+        },
+        "28": {
+          "answer": "NOT GIVEN"
+        },
+        "29": {
+          "answer": "NO"
+        },
+        "30": {
+          "answer": "NOT GIVEN"
+        },
+        "31": {
+          "answer": "YES"
+        },
+        "32": {
+          "answer": "NO"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "B"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "E"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "I"
+        }
+      }
+    },
+    "cambridge-05-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "candlewax"
+        },
+        "2": {
+          "answer": "synthetic"
+        },
+        "3": {
+          "answer": "chemistry"
+        },
+        "4": {
+          "answer": "Novalak"
+        },
+        "5": {
+          "answer": "fillers"
+        },
+        "6": {
+          "answer": "hexa"
+        },
+        "7": {
+          "answer": "raw"
+        },
+        "8": {
+          "answer": "pressure"
+        },
+        "9": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "10": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "FALSE"
+        },
+        "14": {
+          "answer": "FALSE"
+        },
+        "15": {
+          "answer": "NOT GIVEN"
+        },
+        "16": {
+          "answer": "TRUE"
+        },
+        "17": {
+          "answer": "FALSE"
+        },
+        "18": {
+          "answer": "TRUE"
+        },
+        "19": {
+          "answer": "NOT GIVEN"
+        },
+        "20": {
+          "answer": "TRUE"
+        },
+        "21": {
+          "answer": "problem solving"
+        },
+        "22": {
+          "answer": "temporal lobes"
+        },
+        "23": {
+          "answer": "evaluating information"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "F"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "Latin"
+        },
+        "29": {
+          "answer": "doctors"
+        },
+        "30": {
+          "answer": "technical vocabulary",
+          "acceptedAnswers": [
+            "grammatical resources"
+          ]
+        },
+        "31": {
+          "answer": "grammatical resources",
+          "acceptedAnswers": [
+            "technical vocabulary"
+          ]
+        },
+        "32": {
+          "answer": "Royal Society"
+        },
+        "33": {
+          "answer": "German"
+        },
+        "34": {
+          "answer": "industrial revolution"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "FALSE"
+        },
+        "37": {
+          "answer": "TRUE"
+        },
+        "38": {
+          "answer": "popular"
+        },
+        "39": {
+          "answer": "Principia",
+          "acceptedAnswers": [
+            "the Principia",
+            "Newton’s Principia",
+            "mathematical treatise"
+          ]
+        },
+        "40": {
+          "answer": "local",
+          "acceptedAnswers": [
+            "more local",
+            "local audience"
+          ]
+        }
+      }
+    },
+    "cambridge-05-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "D"
+        },
+        "2": {
+          "answer": "B"
+        },
+        "3": {
+          "answer": "C"
+        },
+        "4": {
+          "answer": "E"
+        },
+        "5": {
+          "answer": "B"
+        },
+        "6": {
+          "answer": "D"
+        },
+        "7": {
+          "answer": "A"
+        },
+        "8": {
+          "answer": "B"
+        },
+        "9": {
+          "answer": "D"
+        },
+        "10": {
+          "answer": "C"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "i"
+        },
+        "16": {
+          "answer": "v"
+        },
+        "17": {
+          "answer": "viii"
+        },
+        "18": {
+          "answer": "YES"
+        },
+        "19": {
+          "answer": "NOT GIVEN"
+        },
+        "20": {
+          "answer": "NO"
+        },
+        "21": {
+          "answer": "YES"
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "YES"
+        },
+        "24": {
+          "answer": "F"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "B"
+        },
+        "27": {
+          "answer": "E"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "F"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "NOT GIVEN"
+        },
+        "33": {
+          "answer": "FALSE"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "TRUE"
+        },
+        "36": {
+          "answer": "FALSE"
+        },
+        "37": {
+          "answer": "TRUE"
+        },
+        "38": {
+          "answer": "B"
+        },
+        "39": {
+          "answer": "A"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-05-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "iii"
+        },
+        "2": {
+          "answer": "v"
+        },
+        "3": {
+          "answer": "ii"
+        },
+        "4": {
+          "answer": "YES"
+        },
+        "5": {
+          "answer": "YES"
+        },
+        "6": {
+          "answer": "NO"
+        },
+        "7": {
+          "answer": "YES"
+        },
+        "8": {
+          "answer": "NO"
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "cheese"
+        },
+        "11": {
+          "answer": "tourism",
+          "acceptedAnswers": [
+            "tourist",
+            "tour"
+          ]
+        },
+        "12": {
+          "answer": "pottery"
+        },
+        "13": {
+          "answer": "jewellery",
+          "acceptedAnswers": [
+            "jewelry"
+          ]
+        },
+        "14": {
+          "answer": "G"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "H"
+        },
+        "17": {
+          "answer": "C"
+        },
+        "18": {
+          "answer": "F"
+        },
+        "19": {
+          "answer": "I"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "K"
+        },
+        "22": {
+          "answer": "E"
+        },
+        "23": {
+          "answer": "L"
+        },
+        "24": {
+          "answer": "TRUE"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "FALSE"
+        },
+        "27": {
+          "answer": "TRUE"
+        },
+        "28": {
+          "answer": "TRUE"
+        },
+        "29": {
+          "answer": "NOT GIVEN"
+        },
+        "30": {
+          "answer": "FALSE"
+        },
+        "31": {
+          "answer": "FALSE"
+        },
+        "32": {
+          "answer": "TRUE"
+        },
+        "33": {
+          "answer": "FALSE"
+        },
+        "34": {
+          "answer": "temperatures"
+        },
+        "35": {
+          "answer": "day-neutral",
+          "acceptedAnswers": [
+            "day-neutral plants"
+          ]
+        },
+        "36": {
+          "answer": "food",
+          "acceptedAnswers": [
+            "food resources",
+            "adequate food",
+            "adequate food resources"
+          ]
+        },
+        "37": {
+          "answer": "insects",
+          "acceptedAnswers": [
+            "fertilization by insects"
+          ]
+        },
+        "38": {
+          "answer": "rainfall",
+          "acceptedAnswers": [
+            "suitable rainfall"
+          ]
+        },
+        "39": {
+          "answer": "sugarcane"
+        },
+        "40": {
+          "answer": "classification"
+        }
+      }
+    },
+    "cambridge-06-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "B"
+        },
+        "2": {
+          "answer": "C"
+        },
+        "3": {
+          "answer": "B"
+        },
+        "4": {
+          "answer": "F"
+        },
+        "5": {
+          "answer": "D"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "E"
+        },
+        "8": {
+          "answer": "A"
+        },
+        "9": {
+          "answer": "B"
+        },
+        "10": {
+          "answer": "A"
+        },
+        "11": {
+          "answer": "C"
+        },
+        "12": {
+          "answer": "competition model",
+          "acceptedAnswers": [
+            "a competition model"
+          ]
+        },
+        "13": {
+          "answer": "2 per cent",
+          "acceptedAnswers": [
+            "2%",
+            "by 2 per cent",
+            "by 2%"
+          ]
+        },
+        "14": {
+          "answer": "I"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "TRUE"
+        },
+        "19": {
+          "answer": "FALSE"
+        },
+        "20": {
+          "answer": "NOT GIVEN"
+        },
+        "21": {
+          "answer": "TRUE"
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "G"
+        },
+        "24": {
+          "answer": "B"
+        },
+        "25": {
+          "answer": "C"
+        },
+        "26": {
+          "answer": "A"
+        },
+        "27": {
+          "answer": "i"
+        },
+        "28": {
+          "answer": "vi"
+        },
+        "29": {
+          "answer": "iii"
+        },
+        "30": {
+          "answer": "vii"
+        },
+        "31": {
+          "answer": "iv"
+        },
+        "32": {
+          "answer": "ii"
+        },
+        "33": {
+          "answer": "farming"
+        },
+        "34": {
+          "answer": "sea mammals",
+          "acceptedAnswers": [
+            "fish"
+          ]
+        },
+        "35": {
+          "answer": "fish",
+          "acceptedAnswers": [
+            "sea mammals"
+          ]
+        },
+        "36": {
+          "answer": "Thule",
+          "acceptedAnswers": [
+            "thule"
+          ]
+        },
+        "37": {
+          "answer": "islands"
+        },
+        "38": {
+          "answer": "nomadic"
+        },
+        "39": {
+          "answer": "nature"
+        },
+        "40": {
+          "answer": "Imported",
+          "acceptedAnswers": [
+            "imported"
+          ]
+        }
+      }
+    },
+    "cambridge-06-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "ii"
+        },
+        "2": {
+          "answer": "vii"
+        },
+        "3": {
+          "answer": "iv"
+        },
+        "4": {
+          "answer": "i"
+        },
+        "5": {
+          "answer": "iii"
+        },
+        "6": {
+          "answer": "FALSE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "F"
+        },
+        "12": {
+          "answer": "D"
+        },
+        "13": {
+          "answer": "C"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "I"
+        },
+        "16": {
+          "answer": "F"
+        },
+        "17": {
+          "answer": "M"
+        },
+        "18": {
+          "answer": "J"
+        },
+        "19": {
+          "answer": "N"
+        },
+        "20": {
+          "answer": "K"
+        },
+        "21": {
+          "answer": "G"
+        },
+        "22": {
+          "answer": "A"
+        },
+        "23": {
+          "answer": "G"
+        },
+        "24": {
+          "answer": "E"
+        },
+        "25": {
+          "answer": "H"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "E"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "G"
+        },
+        "32": {
+          "answer": "TRUE"
+        },
+        "33": {
+          "answer": "FALSE"
+        },
+        "34": {
+          "answer": "TRUE"
+        },
+        "35": {
+          "answer": "FALSE"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "TRUE"
+        },
+        "38": {
+          "answer": "FALSE"
+        },
+        "39": {
+          "answer": "TRUE"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-06-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "A"
+        },
+        "2": {
+          "answer": "I"
+        },
+        "3": {
+          "answer": "J"
+        },
+        "4": {
+          "answer": "E"
+        },
+        "5": {
+          "answer": "G"
+        },
+        "6": {
+          "answer": "YES"
+        },
+        "7": {
+          "answer": "NOT GIVEN"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "NO"
+        },
+        "10": {
+          "answer": "B"
+        },
+        "11": {
+          "answer": "C"
+        },
+        "12": {
+          "answer": "D"
+        },
+        "13": {
+          "answer": "D"
+        },
+        "14": {
+          "answer": "vii"
+        },
+        "15": {
+          "answer": "iii"
+        },
+        "16": {
+          "answer": "ii"
+        },
+        "17": {
+          "answer": "iv"
+        },
+        "18": {
+          "answer": "i"
+        },
+        "19": {
+          "answer": "NO"
+        },
+        "20": {
+          "answer": "NOT GIVEN"
+        },
+        "21": {
+          "answer": "NO"
+        },
+        "22": {
+          "answer": "YES"
+        },
+        "23": {
+          "answer": "NOT GIVEN"
+        },
+        "24": {
+          "answer": "YES"
+        },
+        "25": {
+          "answer": "B"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "A"
+        },
+        "28": {
+          "answer": "NO"
+        },
+        "29": {
+          "answer": "YES"
+        },
+        "30": {
+          "answer": "YES"
+        },
+        "31": {
+          "answer": "NOT GIVEN"
+        },
+        "32": {
+          "answer": "YES"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "A"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "glucose"
+        },
+        "39": {
+          "answer": "free radicals"
+        },
+        "40": {
+          "answer": "preservation"
+        }
+      }
+    },
+    "cambridge-06-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "v"
+        },
+        "2": {
+          "answer": "vi"
+        },
+        "3": {
+          "answer": "iii"
+        },
+        "4": {
+          "answer": "ix"
+        },
+        "5": {
+          "answer": "i"
+        },
+        "6": {
+          "answer": "vii"
+        },
+        "7": {
+          "answer": "x"
+        },
+        "8": {
+          "answer": "NO"
+        },
+        "9": {
+          "answer": "YES"
+        },
+        "10": {
+          "answer": "NO"
+        },
+        "11": {
+          "answer": "YES"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "YES"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "J"
+        },
+        "18": {
+          "answer": "F"
+        },
+        "19": {
+          "answer": "NOT GIVEN"
+        },
+        "20": {
+          "answer": "NO"
+        },
+        "21": {
+          "answer": "YES"
+        },
+        "22": {
+          "answer": "YES"
+        },
+        "23": {
+          "answer": "NO"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "C"
+        },
+        "26": {
+          "answer": "E"
+        },
+        "27": {
+          "answer": "iv"
+        },
+        "28": {
+          "answer": "vi"
+        },
+        "29": {
+          "answer": "v"
+        },
+        "30": {
+          "answer": "vii"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "D"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "policy"
+        },
+        "36": {
+          "answer": "(explicit) guidelines",
+          "acceptedAnswers": [
+            "explicit guidelines",
+            "guidelines"
+          ]
+        },
+        "37": {
+          "answer": "(school) curriculum",
+          "acceptedAnswers": [
+            "school curriculum",
+            "curriculum"
+          ]
+        },
+        "38": {
+          "answer": "victims"
+        },
+        "39": {
+          "answer": "playful fighting"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-07-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "B"
+        },
+        "2": {
+          "answer": "A"
+        },
+        "3": {
+          "answer": "A"
+        },
+        "4": {
+          "answer": "E"
+        },
+        "5": {
+          "answer": "D"
+        },
+        "6": {
+          "answer": "phantom"
+        },
+        "7": {
+          "answer": "echoes/obstacles",
+          "acceptedAnswers": [
+            "echoes",
+            "obstacles"
+          ]
+        },
+        "8": {
+          "answer": "depth"
+        },
+        "9": {
+          "answer": "submarines"
+        },
+        "10": {
+          "answer": "natural selection"
+        },
+        "11": {
+          "answer": "radio waves/echoes",
+          "acceptedAnswers": [
+            "radio waves",
+            "radio echoes"
+          ]
+        },
+        "12": {
+          "answer": "mathematical theories"
+        },
+        "13": {
+          "answer": "zoologist"
+        },
+        "14": {
+          "answer": "xi"
+        },
+        "15": {
+          "answer": "vii"
+        },
+        "16": {
+          "answer": "v"
+        },
+        "17": {
+          "answer": "i"
+        },
+        "18": {
+          "answer": "ix"
+        },
+        "19": {
+          "answer": "ii"
+        },
+        "20": {
+          "answer": "x"
+        },
+        "21": {
+          "answer": "NO"
+        },
+        "22": {
+          "answer": "YES"
+        },
+        "23": {
+          "answer": "NOT GIVEN"
+        },
+        "24": {
+          "answer": "NO"
+        },
+        "25": {
+          "answer": "YES"
+        },
+        "26": {
+          "answer": "NOT GIVEN"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "FALSE"
+        },
+        "32": {
+          "answer": "FALSE"
+        },
+        "33": {
+          "answer": "TRUE"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "TRUE"
+        },
+        "37": {
+          "answer": "F"
+        },
+        "38": {
+          "answer": "H"
+        },
+        "39": {
+          "answer": "K"
+        },
+        "40": {
+          "answer": "G"
+        }
+      }
+    },
+    "cambridge-07-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "YES"
+        },
+        "2": {
+          "answer": "NO"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "YES"
+        },
+        "5": {
+          "answer": "B"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "B"
+        },
+        "8": {
+          "answer": "C"
+        },
+        "9": {
+          "answer": "A"
+        },
+        "10": {
+          "answer": "C"
+        },
+        "11": {
+          "answer": "D"
+        },
+        "12": {
+          "answer": "C"
+        },
+        "13": {
+          "answer": "C"
+        },
+        "14": {
+          "answer": "E"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "YES"
+        },
+        "19": {
+          "answer": "NOT GIVEN"
+        },
+        "20": {
+          "answer": "NO"
+        },
+        "21": {
+          "answer": "YES"
+        },
+        "22": {
+          "answer": "food bills / costs",
+          "acceptedAnswers": [
+            "food bills",
+            "costs"
+          ]
+        },
+        "23": {
+          "answer": "(modern) intensive farming",
+          "acceptedAnswers": [
+            "intensive farming",
+            "modern intensive farming"
+          ]
+        },
+        "24": {
+          "answer": "organic farming"
+        },
+        "25": {
+          "answer": "Greener Food Standard"
+        },
+        "26": {
+          "answer": "farmers / consumers (IN EITHER ORDER)",
+          "acceptedAnswers": [
+            "farmers consumers",
+            "consumers farmers",
+            "farmers and consumers",
+            "consumers and farmers",
+            "farmers/consumers",
+            "consumers/farmers"
+          ]
+        },
+        "27": {
+          "answer": "ii"
+        },
+        "28": {
+          "answer": "v"
+        },
+        "29": {
+          "answer": "x"
+        },
+        "30": {
+          "answer": "i"
+        },
+        "31": {
+          "answer": "NO"
+        },
+        "32": {
+          "answer": "YES"
+        },
+        "33": {
+          "answer": "NO"
+        },
+        "34": {
+          "answer": "YES"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "I"
+        },
+        "38": {
+          "answer": "G"
+        },
+        "39": {
+          "answer": "E"
+        },
+        "40": {
+          "answer": "B"
+        }
+      }
+    },
+    "cambridge-07-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "TRUE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "C"
+        },
+        "8": {
+          "answer": "M"
+        },
+        "9": {
+          "answer": "F"
+        },
+        "10": {
+          "answer": "D"
+        },
+        "11": {
+          "answer": "N"
+        },
+        "12": {
+          "answer": "O"
+        },
+        "13": {
+          "answer": "E"
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "vii"
+        },
+        "16": {
+          "answer": "x"
+        },
+        "17": {
+          "answer": "i"
+        },
+        "18": {
+          "answer": "vi"
+        },
+        "19": {
+          "answer": "ii"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "D"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "A"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "A"
+        },
+        "27": {
+          "answer": "NOT GIVEN"
+        },
+        "28": {
+          "answer": "FALSE"
+        },
+        "29": {
+          "answer": "TRUE"
+        },
+        "30": {
+          "answer": "FALSE"
+        },
+        "31": {
+          "answer": "FALSE"
+        },
+        "32": {
+          "answer": "FALSE"
+        },
+        "33": {
+          "answer": "TRUE"
+        },
+        "34": {
+          "answer": "J"
+        },
+        "35": {
+          "answer": "A"
+        },
+        "36": {
+          "answer": "E"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "G"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "B"
+        }
+      }
+    },
+    "cambridge-07-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "(wooden) pulleys",
+          "acceptedAnswers": [
+            "wooden pulleys",
+            "pulleys"
+          ]
+        },
+        "9": {
+          "answer": "stone"
+        },
+        "10": {
+          "answer": "(accomplished) sailors",
+          "acceptedAnswers": [
+            "accomplished sailors",
+            "sailors"
+          ]
+        },
+        "11": {
+          "answer": "(modern) glider",
+          "acceptedAnswers": [
+            "modern glider",
+            "glider"
+          ]
+        },
+        "12": {
+          "answer": "flight"
+        },
+        "13": {
+          "answer": "messages"
+        },
+        "14": {
+          "answer": "FALSE"
+        },
+        "15": {
+          "answer": "NOT GIVEN"
+        },
+        "16": {
+          "answer": "TRUE"
+        },
+        "17": {
+          "answer": "NOT GIVEN"
+        },
+        "18": {
+          "answer": "TRUE"
+        },
+        "19": {
+          "answer": "TRUE"
+        },
+        "20": {
+          "answer": "FALSE"
+        },
+        "21": {
+          "answer": "G"
+        },
+        "22": {
+          "answer": "E"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "A"
+        },
+        "25": {
+          "answer": "K"
+        },
+        "26": {
+          "answer": "F"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "F"
+        },
+        "33": {
+          "answer": "I"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "A"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "A"
+        },
+        "38": {
+          "answer": "E"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-08-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "D"
+        },
+        "2": {
+          "answer": "B"
+        },
+        "3": {
+          "answer": "F"
+        },
+        "4": {
+          "answer": "E"
+        },
+        "5": {
+          "answer": "B"
+        },
+        "6": {
+          "answer": "F"
+        },
+        "7": {
+          "answer": "D"
+        },
+        "8": {
+          "answer": "A"
+        },
+        "9": {
+          "answer": "(ship's) anchor/(an/the) anchor",
+          "acceptedAnswers": [
+            "ship's anchor",
+            "anchor",
+            "an anchor",
+            "the anchor"
+          ]
+        },
+        "10": {
+          "answer": "(escape) wheel",
+          "acceptedAnswers": [
+            "escape wheel",
+            "wheel"
+          ]
+        },
+        "11": {
+          "answer": "tooth"
+        },
+        "12": {
+          "answer": "(long) pendulum",
+          "acceptedAnswers": [
+            "long pendulum",
+            "pendulum"
+          ]
+        },
+        "13": {
+          "answer": "second"
+        },
+        "14": {
+          "answer": "ii"
+        },
+        "15": {
+          "answer": "iii"
+        },
+        "16": {
+          "answer": "v"
+        },
+        "17": {
+          "answer": "iv"
+        },
+        "18": {
+          "answer": "viii"
+        },
+        "19": {
+          "answer": "vii"
+        },
+        "20": {
+          "answer": "FALSE"
+        },
+        "21": {
+          "answer": "FALSE"
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "TRUE"
+        },
+        "24": {
+          "answer": "TRUE"
+        },
+        "25": {
+          "answer": "FALSE"
+        },
+        "26": {
+          "answer": "TRUE"
+        },
+        "27": {
+          "answer": "E"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "F"
+        },
+        "31": {
+          "answer": "sender"
+        },
+        "32": {
+          "answer": "picture/image",
+          "acceptedAnswers": [
+            "picture",
+            "image"
+          ]
+        },
+        "33": {
+          "answer": "receiver"
+        },
+        "34": {
+          "answer": "sensory leakage / (outright) fraud (IN EITHER ORDER with 35)",
+          "acceptedAnswers": [
+            "sensory leakage",
+            "outright fraud",
+            "fraud"
+          ]
+        },
+        "35": {
+          "answer": "sensory leakage / (outright) fraud (IN EITHER ORDER with 34)",
+          "acceptedAnswers": [
+            "sensory leakage",
+            "outright fraud",
+            "fraud"
+          ]
+        },
+        "36": {
+          "answer": "computers"
+        },
+        "37": {
+          "answer": "human involvement"
+        },
+        "38": {
+          "answer": "meta-analysis"
+        },
+        "39": {
+          "answer": "lack of consistency"
+        },
+        "40": {
+          "answer": "big/large enough",
+          "acceptedAnswers": [
+            "big enough",
+            "large enough"
+          ]
+        }
+      }
+    },
+    "cambridge-08-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "spinning"
+        },
+        "2": {
+          "answer": "unblemished",
+          "acceptedAnswers": [
+            "perfectly unblemished"
+          ]
+        },
+        "3": {
+          "answer": "labour-intensive",
+          "acceptedAnswers": [
+            "labor-intensive"
+          ]
+        },
+        "4": {
+          "answer": "thickness"
+        },
+        "5": {
+          "answer": "marked"
+        },
+        "6": {
+          "answer": "glass",
+          "acceptedAnswers": [
+            "molten glass"
+          ]
+        },
+        "7": {
+          "answer": "tin",
+          "acceptedAnswers": [
+            "molten tin",
+            "metal",
+            "molten metal"
+          ]
+        },
+        "8": {
+          "answer": "rollers"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "ii"
+        },
+        "15": {
+          "answer": "vii"
+        },
+        "16": {
+          "answer": "ix"
+        },
+        "17": {
+          "answer": "iv"
+        },
+        "18": {
+          "answer": "B/C (IN EITHER ORDER with 19)",
+          "acceptedAnswers": [
+            "B",
+            "C"
+          ]
+        },
+        "19": {
+          "answer": "B/C (IN EITHER ORDER with 18)",
+          "acceptedAnswers": [
+            "B",
+            "C"
+          ]
+        },
+        "20": {
+          "answer": "A"
+        },
+        "21": {
+          "answer": "H"
+        },
+        "22": {
+          "answer": "G"
+        },
+        "23": {
+          "answer": "C"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "B"
+        },
+        "27": {
+          "answer": "viii"
+        },
+        "28": {
+          "answer": "ii"
+        },
+        "29": {
+          "answer": "vi"
+        },
+        "30": {
+          "answer": "i"
+        },
+        "31": {
+          "answer": "iii"
+        },
+        "32": {
+          "answer": "v"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "clothing"
+        },
+        "38": {
+          "answer": "vocabulary"
+        },
+        "39": {
+          "answer": "chemicals"
+        },
+        "40": {
+          "answer": "cultures"
+        }
+      }
+    },
+    "cambridge-08-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "D"
+        },
+        "2": {
+          "answer": "A"
+        },
+        "3": {
+          "answer": "A"
+        },
+        "4": {
+          "answer": "power companies"
+        },
+        "5": {
+          "answer": "safely"
+        },
+        "6": {
+          "answer": "size"
+        },
+        "7": {
+          "answer": "B"
+        },
+        "8": {
+          "answer": "C"
+        },
+        "9": {
+          "answer": "G"
+        },
+        "10": {
+          "answer": "D"
+        },
+        "11": {
+          "answer": "NO"
+        },
+        "12": {
+          "answer": "YES"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "C",
+            "F",
+            "H",
+            "J"
+          ]
+        },
+        "15": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "B",
+            "F",
+            "H",
+            "J"
+          ]
+        },
+        "16": {
+          "answer": "F",
+          "acceptedAnswers": [
+            "B",
+            "C",
+            "H",
+            "J"
+          ]
+        },
+        "17": {
+          "answer": "H",
+          "acceptedAnswers": [
+            "B",
+            "C",
+            "F",
+            "J"
+          ]
+        },
+        "18": {
+          "answer": "J",
+          "acceptedAnswers": [
+            "B",
+            "C",
+            "F",
+            "H"
+          ]
+        },
+        "19": {
+          "answer": "TRUE"
+        },
+        "20": {
+          "answer": "FALSE"
+        },
+        "21": {
+          "answer": "FALSE"
+        },
+        "22": {
+          "answer": "TRUE"
+        },
+        "23": {
+          "answer": "TRUE"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "TRUE"
+        },
+        "26": {
+          "answer": "NOT GIVEN"
+        },
+        "27": {
+          "answer": "ix"
+        },
+        "28": {
+          "answer": "ii"
+        },
+        "29": {
+          "answer": "vii"
+        },
+        "30": {
+          "answer": "i"
+        },
+        "31": {
+          "answer": "viii"
+        },
+        "32": {
+          "answer": "iv"
+        },
+        "33": {
+          "answer": "physical chemistry/thermodynamics (IN EITHER ORDER with 34)",
+          "acceptedAnswers": [
+            "physical chemistry",
+            "thermodynamics"
+          ]
+        },
+        "34": {
+          "answer": "thermodynamics/physical chemistry (IN EITHER ORDER with 33)",
+          "acceptedAnswers": [
+            "thermodynamics",
+            "physical chemistry"
+          ]
+        },
+        "35": {
+          "answer": "adapt"
+        },
+        "36": {
+          "answer": "immortality"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-08-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "vii"
+        },
+        "2": {
+          "answer": "i"
+        },
+        "3": {
+          "answer": "v"
+        },
+        "4": {
+          "answer": "ii"
+        },
+        "5": {
+          "answer": "viii"
+        },
+        "6": {
+          "answer": "YES"
+        },
+        "7": {
+          "answer": "NO"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "NO"
+        },
+        "10": {
+          "answer": "B"
+        },
+        "11": {
+          "answer": "C"
+        },
+        "12": {
+          "answer": "A"
+        },
+        "13": {
+          "answer": "C"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "NOT GIVEN"
+        },
+        "19": {
+          "answer": "YES"
+        },
+        "20": {
+          "answer": "NO"
+        },
+        "21": {
+          "answer": "YES"
+        },
+        "22": {
+          "answer": "D"
+        },
+        "23": {
+          "answer": "H"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "E"
+        },
+        "26": {
+          "answer": "B"
+        },
+        "27": {
+          "answer": "TRUE"
+        },
+        "28": {
+          "answer": "NOT GIVEN"
+        },
+        "29": {
+          "answer": "TRUE"
+        },
+        "30": {
+          "answer": "FALSE"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "C"
+        },
+        "33": {
+          "answer": "B"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "A"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "heat"
+        },
+        "38": {
+          "answer": "leaf litter"
+        },
+        "39": {
+          "answer": "screen"
+        },
+        "40": {
+          "answer": "alcohol"
+        }
+      }
+    },
+    "cambridge-09-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "NOT GIVEN"
+        },
+        "8": {
+          "answer": "(the / only) rich",
+          "acceptedAnswers": [
+            "rich",
+            "the rich",
+            "only rich"
+          ]
+        },
+        "9": {
+          "answer": "commercial (possibilities)",
+          "acceptedAnswers": [
+            "commercial",
+            "commercial possibilities"
+          ]
+        },
+        "10": {
+          "answer": "mauve (was/is)",
+          "acceptedAnswers": [
+            "mauve",
+            "mauve was",
+            "mauve is"
+          ]
+        },
+        "11": {
+          "answer": "(Robert) Pullar",
+          "acceptedAnswers": [
+            "Pullar",
+            "Robert Pullar"
+          ]
+        },
+        "12": {
+          "answer": "(in) France",
+          "acceptedAnswers": [
+            "France",
+            "in France"
+          ]
+        },
+        "13": {
+          "answer": "malaria (is)",
+          "acceptedAnswers": [
+            "malaria",
+            "malaria is"
+          ]
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "vii"
+        },
+        "16": {
+          "answer": "i"
+        },
+        "17": {
+          "answer": "ii"
+        },
+        "18": {
+          "answer": "several billion years"
+        },
+        "19": {
+          "answer": "radio (waves/signals)",
+          "acceptedAnswers": [
+            "radio",
+            "radio waves",
+            "radio signals"
+          ]
+        },
+        "20": {
+          "answer": "1000 (stars)",
+          "acceptedAnswers": [
+            "1000",
+            "1000 stars"
+          ]
+        },
+        "21": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "22": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "23": {
+          "answer": "NOT GIVEN"
+        },
+        "24": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "27": {
+          "answer": "plants"
+        },
+        "28": {
+          "answer": "breathing; reproduction",
+          "acceptedAnswers": [
+            "reproduction; breathing"
+          ]
+        },
+        "29": {
+          "answer": "gills"
+        },
+        "30": {
+          "answer": "dolphins"
+        },
+        "31": {
+          "answer": "NOT GIVEN"
+        },
+        "32": {
+          "answer": "FALSE"
+        },
+        "33": {
+          "answer": "TRUE"
+        },
+        "34": {
+          "answer": "3 measurements",
+          "acceptedAnswers": [
+            "three measurements"
+          ]
+        },
+        "35": {
+          "answer": "(triangular) graph",
+          "acceptedAnswers": [
+            "graph",
+            "triangular graph"
+          ]
+        },
+        "36": {
+          "answer": "cluster"
+        },
+        "37": {
+          "answer": "amphibious"
+        },
+        "38": {
+          "answer": "half way"
+        },
+        "39": {
+          "answer": "dry-land tortoises"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-09-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "H"
+        },
+        "2": {
+          "answer": "C"
+        },
+        "3": {
+          "answer": "B"
+        },
+        "4": {
+          "answer": "I"
+        },
+        "5": {
+          "answer": "D"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "two decades"
+        },
+        "8": {
+          "answer": "crowd (noise)",
+          "acceptedAnswers": [
+            "crowd",
+            "crowd noise"
+          ]
+        },
+        "9": {
+          "answer": "invisible (disabilities/disability)",
+          "acceptedAnswers": [
+            "invisible",
+            "invisible disabilities",
+            "invisible disability"
+          ]
+        },
+        "10": {
+          "answer": "Objective 3"
+        },
+        "11": {
+          "answer": "A",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "12": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "A"
+          ]
+        },
+        "13": {
+          "answer": "C"
+        },
+        "14": {
+          "answer": "F"
+        },
+        "15": {
+          "answer": "D"
+        },
+        "16": {
+          "answer": "G"
+        },
+        "17": {
+          "answer": "E"
+        },
+        "18": {
+          "answer": "D"
+        },
+        "19": {
+          "answer": "A"
+        },
+        "20": {
+          "answer": "B"
+        },
+        "21": {
+          "answer": "C"
+        },
+        "22": {
+          "answer": "FALSE"
+        },
+        "23": {
+          "answer": "FALSE"
+        },
+        "24": {
+          "answer": "TRUE"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "TRUE"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "D"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "33": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "38": {
+          "answer": "A"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-09-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "2": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "3": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "6": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "7": {
+          "answer": "NO",
+          "acceptedAnswers": [
+            "FALSE"
+          ]
+        },
+        "8": {
+          "answer": "YES",
+          "acceptedAnswers": [
+            "TRUE"
+          ]
+        },
+        "9": {
+          "answer": "H"
+        },
+        "10": {
+          "answer": "F"
+        },
+        "11": {
+          "answer": "A"
+        },
+        "12": {
+          "answer": "C"
+        },
+        "13": {
+          "answer": "B"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "E"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "C"
+        },
+        "18": {
+          "answer": "A",
+          "acceptedAnswers": [
+            "D",
+            "E",
+            "F",
+            "J"
+          ]
+        },
+        "19": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "A",
+            "E",
+            "F",
+            "J"
+          ]
+        },
+        "20": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "A",
+            "D",
+            "F",
+            "J"
+          ]
+        },
+        "21": {
+          "answer": "F",
+          "acceptedAnswers": [
+            "A",
+            "D",
+            "E",
+            "J"
+          ]
+        },
+        "22": {
+          "answer": "J",
+          "acceptedAnswers": [
+            "A",
+            "D",
+            "E",
+            "F"
+          ]
+        },
+        "23": {
+          "answer": "maintenance"
+        },
+        "24": {
+          "answer": "slow (turning)",
+          "acceptedAnswers": [
+            "slow",
+            "slow turning",
+            "slow-turning"
+          ]
+        },
+        "25": {
+          "answer": "low pressure"
+        },
+        "26": {
+          "answer": "cavitation"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "F"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "E"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "C"
+        },
+        "33": {
+          "answer": "Jupiter; Saturn",
+          "acceptedAnswers": [
+            "Saturn; Jupiter"
+          ]
+        },
+        "34": {
+          "answer": "Solar System"
+        },
+        "35": {
+          "answer": "sensors; circuits",
+          "acceptedAnswers": [
+            "circuits; sensors"
+          ]
+        },
+        "36": {
+          "answer": "spares"
+        },
+        "37": {
+          "answer": "radio dish"
+        },
+        "38": {
+          "answer": "TRUE"
+        },
+        "39": {
+          "answer": "TRUE"
+        },
+        "40": {
+          "answer": "FALSE"
+        }
+      }
+    },
+    "cambridge-09-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "thorium"
+        },
+        "8": {
+          "answer": "pitchblende"
+        },
+        "9": {
+          "answer": "radium"
+        },
+        "10": {
+          "answer": "soldiers"
+        },
+        "11": {
+          "answer": "illness"
+        },
+        "12": {
+          "answer": "neutron"
+        },
+        "13": {
+          "answer": "leukaemia",
+          "acceptedAnswers": [
+            "leukemia"
+          ]
+        },
+        "14": {
+          "answer": "G"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "G"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "H"
+        },
+        "19": {
+          "answer": "E"
+        },
+        "20": {
+          "answer": "D"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "E"
+        },
+        "23": {
+          "answer": "C"
+        },
+        "24": {
+          "answer": "mirror"
+        },
+        "25": {
+          "answer": "communication"
+        },
+        "26": {
+          "answer": "ownership"
+        },
+        "27": {
+          "answer": "ii"
+        },
+        "28": {
+          "answer": "vi"
+        },
+        "29": {
+          "answer": "i"
+        },
+        "30": {
+          "answer": "iii"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "A"
+        },
+        "33": {
+          "answer": "D"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "B"
+        },
+        "37": {
+          "answer": "FALSE"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "FALSE"
+        },
+        "40": {
+          "answer": "TRUE"
+        }
+      }
+    },
+    "cambridge-10-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "TRUE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "pavilions"
+        },
+        "7": {
+          "answer": "drought"
+        },
+        "8": {
+          "answer": "tourists"
+        },
+        "9": {
+          "answer": "earthquake"
+        },
+        "10": {
+          "answer": "4 sides",
+          "acceptedAnswers": [
+            "four sides"
+          ]
+        },
+        "11": {
+          "answer": "tank"
+        },
+        "12": {
+          "answer": "verandas"
+        },
+        "13": {
+          "answer": "underwater"
+        },
+        "14": {
+          "answer": "viii"
+        },
+        "15": {
+          "answer": "iii"
+        },
+        "16": {
+          "answer": "xi"
+        },
+        "17": {
+          "answer": "i"
+        },
+        "18": {
+          "answer": "v"
+        },
+        "19": {
+          "answer": "x"
+        },
+        "20": {
+          "answer": "ii"
+        },
+        "21": {
+          "answer": "iv"
+        },
+        "22": {
+          "answer": "TRUE"
+        },
+        "23": {
+          "answer": "FALSE"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "FALSE"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "D"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "G"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "F"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "YES"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-10-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "iv"
+        },
+        "2": {
+          "answer": "viii"
+        },
+        "3": {
+          "answer": "vii"
+        },
+        "4": {
+          "answer": "i"
+        },
+        "5": {
+          "answer": "vi"
+        },
+        "6": {
+          "answer": "ix"
+        },
+        "7": {
+          "answer": "ii"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "A"
+        },
+        "15": {
+          "answer": "D"
+        },
+        "16": {
+          "answer": "F"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "D"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "A"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "books; activities",
+          "acceptedAnswers": [
+            "activities; books"
+          ]
+        },
+        "24": {
+          "answer": "internal regulation",
+          "acceptedAnswers": [
+            "self-regulation"
+          ]
+        },
+        "25": {
+          "answer": "emotional awareness"
+        },
+        "26": {
+          "answer": "spoon-feeding"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "H"
+        },
+        "29": {
+          "answer": "L"
+        },
+        "30": {
+          "answer": "G"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "C"
+        },
+        "33": {
+          "answer": "D"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "D"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-10-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "ii"
+        },
+        "2": {
+          "answer": "i"
+        },
+        "3": {
+          "answer": "v"
+        },
+        "4": {
+          "answer": "vii"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "NOT GIVEN"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "source of income",
+          "acceptedAnswers": [
+            "industry"
+          ]
+        },
+        "12": {
+          "answer": "employer"
+        },
+        "13": {
+          "answer": "domestic tourism"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "H"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "E"
+        },
+        "19": {
+          "answer": "sun",
+          "acceptedAnswers": [
+            "sunlight"
+          ]
+        },
+        "20": {
+          "answer": "upper"
+        },
+        "21": {
+          "answer": "dry"
+        },
+        "22": {
+          "answer": "north"
+        },
+        "23": {
+          "answer": "FALSE"
+        },
+        "24": {
+          "answer": "TRUE"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "B"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "F"
+        },
+        "29": {
+          "answer": "I"
+        },
+        "30": {
+          "answer": "G"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "C"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "YES"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "YES"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-10-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "spread"
+        },
+        "2": {
+          "answer": "10 times",
+          "acceptedAnswers": [
+            "ten times"
+          ]
+        },
+        "3": {
+          "answer": "below"
+        },
+        "4": {
+          "answer": "fuel"
+        },
+        "5": {
+          "answer": "seasons"
+        },
+        "6": {
+          "answer": "homes",
+          "acceptedAnswers": [
+            "housing"
+          ]
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "FALSE"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "FALSE"
+        },
+        "14": {
+          "answer": "transformation",
+          "acceptedAnswers": [
+            "change"
+          ]
+        },
+        "15": {
+          "answer": "young age"
+        },
+        "16": {
+          "answer": "optimism"
+        },
+        "17": {
+          "answer": "skills",
+          "acceptedAnswers": [
+            "techniques"
+          ]
+        },
+        "18": {
+          "answer": "negative emotions",
+          "acceptedAnswers": [
+            "negative feelings"
+          ]
+        },
+        "19": {
+          "answer": "E"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "G"
+        },
+        "22": {
+          "answer": "A"
+        },
+        "23": {
+          "answer": "E"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "G"
+        },
+        "26": {
+          "answer": "H"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "D"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "F"
+        },
+        "33": {
+          "answer": "G"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-11-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "tomatoes"
+        },
+        "2": {
+          "answer": "urban centres/centers",
+          "acceptedAnswers": [
+            "urban centres",
+            "urban centers"
+          ]
+        },
+        "3": {
+          "answer": "energy"
+        },
+        "4": {
+          "answer": "fossil fuel"
+        },
+        "5": {
+          "answer": "artificial"
+        },
+        "6": {
+          "answer": "(stacked) trays",
+          "acceptedAnswers": [
+            "trays",
+            "stacked trays"
+          ]
+        },
+        "7": {
+          "answer": "(urban) rooftops",
+          "acceptedAnswers": [
+            "rooftops",
+            "urban rooftops"
+          ]
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "FALSE"
+        },
+        "15": {
+          "answer": "NOT GIVEN"
+        },
+        "16": {
+          "answer": "TRUE"
+        },
+        "17": {
+          "answer": "NOT GIVEN"
+        },
+        "18": {
+          "answer": "FALSE"
+        },
+        "19": {
+          "answer": "TRUE"
+        },
+        "20": {
+          "answer": "gates"
+        },
+        "21": {
+          "answer": "clamp"
+        },
+        "22": {
+          "answer": "axle"
+        },
+        "23": {
+          "answer": "cogs"
+        },
+        "24": {
+          "answer": "aqueduct"
+        },
+        "25": {
+          "answer": "wall"
+        },
+        "26": {
+          "answer": "locks"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "sunshade"
+        },
+        "31": {
+          "answer": "iron"
+        },
+        "32": {
+          "answer": "algae"
+        },
+        "33": {
+          "answer": "clouds"
+        },
+        "34": {
+          "answer": "cables"
+        },
+        "35": {
+          "answer": "snow"
+        },
+        "36": {
+          "answer": "rivers"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "D"
+        },
+        "39": {
+          "answer": "C"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-11-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "C"
+        },
+        "6": {
+          "answer": "B"
+        },
+        "7": {
+          "answer": "G"
+        },
+        "8": {
+          "answer": "A"
+        },
+        "9": {
+          "answer": "(lifting) frame",
+          "acceptedAnswers": [
+            "frame",
+            "lifting frame"
+          ]
+        },
+        "10": {
+          "answer": "hydraulic jacks"
+        },
+        "11": {
+          "answer": "stabbing guides"
+        },
+        "12": {
+          "answer": "(lifting) cradle",
+          "acceptedAnswers": [
+            "cradle",
+            "lifting cradle"
+          ]
+        },
+        "13": {
+          "answer": "air bags"
+        },
+        "14": {
+          "answer": "ii"
+        },
+        "15": {
+          "answer": "ix"
+        },
+        "16": {
+          "answer": "viii"
+        },
+        "17": {
+          "answer": "i"
+        },
+        "18": {
+          "answer": "iv"
+        },
+        "19": {
+          "answer": "vii"
+        },
+        "20": {
+          "answer": "vi"
+        },
+        "21": {
+          "answer": "farming"
+        },
+        "22": {
+          "answer": "canoes"
+        },
+        "23": {
+          "answer": "birds"
+        },
+        "24": {
+          "answer": "wood"
+        },
+        "25": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "26": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "D"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "B"
+        },
+        "33": {
+          "answer": "H"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "YES"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-11-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "tea"
+        },
+        "2": {
+          "answer": "reel"
+        },
+        "3": {
+          "answer": "women"
+        },
+        "4": {
+          "answer": "royalty"
+        },
+        "5": {
+          "answer": "currency"
+        },
+        "6": {
+          "answer": "paper"
+        },
+        "7": {
+          "answer": "wool"
+        },
+        "8": {
+          "answer": "monks"
+        },
+        "9": {
+          "answer": "nylon"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "FALSE"
+        },
+        "15": {
+          "answer": "TRUE"
+        },
+        "16": {
+          "answer": "NOT GIVEN"
+        },
+        "17": {
+          "answer": "TRUE"
+        },
+        "18": {
+          "answer": "FALSE"
+        },
+        "19": {
+          "answer": "G"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "A"
+        },
+        "22": {
+          "answer": "E"
+        },
+        "23": {
+          "answer": "speed"
+        },
+        "24": {
+          "answer": "plains"
+        },
+        "25": {
+          "answer": "bottlenecks"
+        },
+        "26": {
+          "answer": "corridor/passageway",
+          "acceptedAnswers": [
+            "corridor",
+            "passageway"
+          ]
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "G"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "F"
+        },
+        "35": {
+          "answer": "beginner"
+        },
+        "36": {
+          "answer": "arithmetic"
+        },
+        "37": {
+          "answer": "intuitive"
+        },
+        "38": {
+          "answer": "scientists"
+        },
+        "39": {
+          "answer": "experiments"
+        },
+        "40": {
+          "answer": "theorems"
+        }
+      }
+    },
+    "cambridge-11-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "A"
+        },
+        "6": {
+          "answer": "C"
+        },
+        "7": {
+          "answer": "B"
+        },
+        "8": {
+          "answer": "A"
+        },
+        "9": {
+          "answer": "A"
+        },
+        "10": {
+          "answer": "D"
+        },
+        "11": {
+          "answer": "B"
+        },
+        "12": {
+          "answer": "E"
+        },
+        "13": {
+          "answer": "F"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "D"
+        },
+        "20": {
+          "answer": "TRUE"
+        },
+        "21": {
+          "answer": "TRUE"
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "TRUE"
+        },
+        "24": {
+          "answer": "FALSE"
+        },
+        "25": {
+          "answer": "C"
+        },
+        "26": {
+          "answer": "A"
+        },
+        "27": {
+          "answer": "vi"
+        },
+        "28": {
+          "answer": "iv"
+        },
+        "29": {
+          "answer": "ii"
+        },
+        "30": {
+          "answer": "vii"
+        },
+        "31": {
+          "answer": "i"
+        },
+        "32": {
+          "answer": "v"
+        },
+        "33": {
+          "answer": "E"
+        },
+        "34": {
+          "answer": "G"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "F"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-12-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "NOT GIVEN"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "taste"
+        },
+        "7": {
+          "answer": "cheaper"
+        },
+        "8": {
+          "answer": "convenient"
+        },
+        "9": {
+          "answer": "image"
+        },
+        "10": {
+          "answer": "sustainable"
+        },
+        "11": {
+          "answer": "recycled"
+        },
+        "12": {
+          "answer": "biodiversity"
+        },
+        "13": {
+          "answer": "desertification"
+        },
+        "14": {
+          "answer": "antiques"
+        },
+        "15": {
+          "answer": "triumph"
+        },
+        "16": {
+          "answer": "information"
+        },
+        "17": {
+          "answer": "contact",
+          "acceptedAnswers": [
+            "meetings"
+          ]
+        },
+        "18": {
+          "answer": "hunt",
+          "acceptedAnswers": [
+            "desire"
+          ]
+        },
+        "19": {
+          "answer": "aimless",
+          "acceptedAnswers": [
+            "empty"
+          ]
+        },
+        "20": {
+          "answer": "educational"
+        },
+        "21": {
+          "answer": "Trainspotting",
+          "acceptedAnswers": [
+            "trainspotting"
+          ]
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "FALSE"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "TRUE"
+        },
+        "26": {
+          "answer": "TRUE"
+        },
+        "27": {
+          "answer": "vi"
+        },
+        "28": {
+          "answer": "viii"
+        },
+        "29": {
+          "answer": "ii"
+        },
+        "30": {
+          "answer": "iv"
+        },
+        "31": {
+          "answer": "iii"
+        },
+        "32": {
+          "answer": "vii"
+        },
+        "33": {
+          "answer": "fire science"
+        },
+        "34": {
+          "answer": "investigators"
+        },
+        "35": {
+          "answer": "evidence"
+        },
+        "36": {
+          "answer": "prosecution"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-12-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "A"
+        },
+        "2": {
+          "answer": "B"
+        },
+        "3": {
+          "answer": "H"
+        },
+        "4": {
+          "answer": "D"
+        },
+        "5": {
+          "answer": "B"
+        },
+        "6": {
+          "answer": "C"
+        },
+        "7": {
+          "answer": "G"
+        },
+        "8": {
+          "answer": "B"
+        },
+        "9": {
+          "answer": "A"
+        },
+        "10": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "E"
+          ]
+        },
+        "11": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "12": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "13": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "vi"
+        },
+        "16": {
+          "answer": "viii"
+        },
+        "17": {
+          "answer": "v"
+        },
+        "18": {
+          "answer": "i"
+        },
+        "19": {
+          "answer": "vii"
+        },
+        "20": {
+          "answer": "iii"
+        },
+        "21": {
+          "answer": "TRUE"
+        },
+        "22": {
+          "answer": "FALSE"
+        },
+        "23": {
+          "answer": "FALSE"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "rubber"
+        },
+        "26": {
+          "answer": "farmer"
+        },
+        "27": {
+          "answer": "eye movements"
+        },
+        "28": {
+          "answer": "language co-activation"
+        },
+        "29": {
+          "answer": "Stroop Task"
+        },
+        "30": {
+          "answer": "conflict management"
+        },
+        "31": {
+          "answer": "cognitive control"
+        },
+        "32": {
+          "answer": "YES"
+        },
+        "33": {
+          "answer": "NOT GIVEN"
+        },
+        "34": {
+          "answer": "NO"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "D"
+        },
+        "38": {
+          "answer": "G"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-12-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "v"
+        },
+        "2": {
+          "answer": "iii"
+        },
+        "3": {
+          "answer": "viii"
+        },
+        "4": {
+          "answer": "i"
+        },
+        "5": {
+          "answer": "iv"
+        },
+        "6": {
+          "answer": "vi"
+        },
+        "7": {
+          "answer": "ii"
+        },
+        "8": {
+          "answer": "pirates"
+        },
+        "9": {
+          "answer": "food"
+        },
+        "10": {
+          "answer": "oil"
+        },
+        "11": {
+          "answer": "settlers"
+        },
+        "12": {
+          "answer": "species"
+        },
+        "13": {
+          "answer": "eggs"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "F"
+        },
+        "17": {
+          "answer": "G"
+        },
+        "18": {
+          "answer": "D"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "vaccinations"
+        },
+        "21": {
+          "answer": "antibiotics"
+        },
+        "22": {
+          "answer": "mosquito(e)s",
+          "acceptedAnswers": [
+            "mosquitoes",
+            "mosquitos"
+          ]
+        },
+        "23": {
+          "answer": "factories"
+        },
+        "24": {
+          "answer": "forests"
+        },
+        "25": {
+          "answer": "Polio"
+        },
+        "26": {
+          "answer": "mountain"
+        },
+        "27": {
+          "answer": "dopamine"
+        },
+        "28": {
+          "answer": "pleasure"
+        },
+        "29": {
+          "answer": "caudate"
+        },
+        "30": {
+          "answer": "anticipatory phase"
+        },
+        "31": {
+          "answer": "food"
+        },
+        "32": {
+          "answer": "B"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "F"
+        },
+        "38": {
+          "answer": "B"
+        },
+        "39": {
+          "answer": "E"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-12-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "obsidian"
+        },
+        "2": {
+          "answer": "spears"
+        },
+        "3": {
+          "answer": "beads"
+        },
+        "4": {
+          "answer": "impurities"
+        },
+        "5": {
+          "answer": "Romans"
+        },
+        "6": {
+          "answer": "lead"
+        },
+        "7": {
+          "answer": "clouding"
+        },
+        "8": {
+          "answer": "taxes"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "FALSE"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "A"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "E"
+        },
+        "20": {
+          "answer": "D"
+        },
+        "21": {
+          "answer": "F"
+        },
+        "22": {
+          "answer": "A"
+        },
+        "23": {
+          "answer": "NO"
+        },
+        "24": {
+          "answer": "NOT GIVEN"
+        },
+        "25": {
+          "answer": "YES"
+        },
+        "26": {
+          "answer": "YES"
+        },
+        "27": {
+          "answer": "iv"
+        },
+        "28": {
+          "answer": "ii"
+        },
+        "29": {
+          "answer": "vi"
+        },
+        "30": {
+          "answer": "viii"
+        },
+        "31": {
+          "answer": "vii"
+        },
+        "32": {
+          "answer": "i"
+        },
+        "33": {
+          "answer": "iii"
+        },
+        "34": {
+          "answer": "YES"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "information"
+        },
+        "39": {
+          "answer": "financial"
+        },
+        "40": {
+          "answer": "shareholders",
+          "acceptedAnswers": [
+            "investors"
+          ]
+        }
+      }
+    },
+    "cambridge-13-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "update"
+        },
+        "2": {
+          "answer": "environment"
+        },
+        "3": {
+          "answer": "captain"
+        },
+        "4": {
+          "answer": "films"
+        },
+        "5": {
+          "answer": "season"
+        },
+        "6": {
+          "answer": "accommodation"
+        },
+        "7": {
+          "answer": "blog"
+        },
+        "8": {
+          "answer": "FALSE"
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "vi"
+        },
+        "16": {
+          "answer": "i"
+        },
+        "17": {
+          "answer": "v"
+        },
+        "18": {
+          "answer": "viii"
+        },
+        "19": {
+          "answer": "iii"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "D"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "focus"
+        },
+        "25": {
+          "answer": "pleasure"
+        },
+        "26": {
+          "answer": "curiosity"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "E"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "G"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-13-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "oils"
+        },
+        "2": {
+          "answer": "friendship"
+        },
+        "3": {
+          "answer": "funerals"
+        },
+        "4": {
+          "answer": "wealth"
+        },
+        "5": {
+          "answer": "indigestion"
+        },
+        "6": {
+          "answer": "India"
+        },
+        "7": {
+          "answer": "camels"
+        },
+        "8": {
+          "answer": "Alexandria"
+        },
+        "9": {
+          "answer": "Venice"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "FALSE"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "E"
+        },
+        "18": {
+          "answer": "A"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "animals"
+        },
+        "22": {
+          "answer": "childbirth"
+        },
+        "23": {
+          "answer": "placebo"
+        },
+        "24": {
+          "answer": "game"
+        },
+        "25": {
+          "answer": "strangers"
+        },
+        "26": {
+          "answer": "names"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "A"
+        },
+        "36": {
+          "answer": "C"
+        },
+        "37": {
+          "answer": "A"
+        },
+        "38": {
+          "answer": "B"
+        },
+        "39": {
+          "answer": "C"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-13-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "furniture"
+        },
+        "2": {
+          "answer": "sugar"
+        },
+        "3": {
+          "answer": "ropes"
+        },
+        "4": {
+          "answer": "charcoal"
+        },
+        "5": {
+          "answer": "bowls"
+        },
+        "6": {
+          "answer": "hormones"
+        },
+        "7": {
+          "answer": "cosmetics"
+        },
+        "8": {
+          "answer": "dynamite"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "recording devices"
+        },
+        "19": {
+          "answer": "fathers",
+          "acceptedAnswers": [
+            "dads"
+          ]
+        },
+        "20": {
+          "answer": "bridge hypothesis"
+        },
+        "21": {
+          "answer": "repertoire"
+        },
+        "22": {
+          "answer": "vests",
+          "acceptedAnswers": [
+            "audio-recording vests"
+          ]
+        },
+        "23": {
+          "answer": "vocabulary"
+        },
+        "24": {
+          "answer": "F"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "E"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "H"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "shells"
+        },
+        "33": {
+          "answer": "lake"
+        },
+        "34": {
+          "answer": "rainfall"
+        },
+        "35": {
+          "answer": "grains"
+        },
+        "36": {
+          "answer": "pottery"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "A"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-13-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "NOT GIVEN"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "wool"
+        },
+        "10": {
+          "answer": "navigator"
+        },
+        "11": {
+          "answer": "gale"
+        },
+        "12": {
+          "answer": "training"
+        },
+        "13": {
+          "answer": "fire"
+        },
+        "14": {
+          "answer": "minerals"
+        },
+        "15": {
+          "answer": "carbon"
+        },
+        "16": {
+          "answer": "water"
+        },
+        "17": {
+          "answer": "agriculture"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "E"
+        },
+        "20": {
+          "answer": "A"
+        },
+        "21": {
+          "answer": "D"
+        },
+        "22": {
+          "answer": "E"
+        },
+        "23": {
+          "answer": "C"
+        },
+        "24": {
+          "answer": "F"
+        },
+        "25": {
+          "answer": "G"
+        },
+        "26": {
+          "answer": "F"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "F"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "G"
+        },
+        "33": {
+          "answer": "E"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "YES"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "YES"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-14-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "creativity"
+        },
+        "2": {
+          "answer": "rules"
+        },
+        "3": {
+          "answer": "cities"
+        },
+        "4": {
+          "answer": "traffic",
+          "acceptedAnswers": [
+            "crime"
+          ]
+        },
+        "5": {
+          "answer": "crime",
+          "acceptedAnswers": [
+            "traffic"
+          ]
+        },
+        "6": {
+          "answer": "competition"
+        },
+        "7": {
+          "answer": "evidence"
+        },
+        "8": {
+          "answer": "life"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "E"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "F"
+        },
+        "17": {
+          "answer": "C"
+        },
+        "18": {
+          "answer": "A"
+        },
+        "19": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "20": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "21": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "E"
+          ]
+        },
+        "22": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "23": {
+          "answer": "activists"
+        },
+        "24": {
+          "answer": "consumerism"
+        },
+        "25": {
+          "answer": "leaflets"
+        },
+        "26": {
+          "answer": "police"
+        },
+        "27": {
+          "answer": "E"
+        },
+        "28": {
+          "answer": "D"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "YES"
+        },
+        "33": {
+          "answer": "NO"
+        },
+        "34": {
+          "answer": "NO"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "restaurants"
+        },
+        "37": {
+          "answer": "performance"
+        },
+        "38": {
+          "answer": "turnover"
+        },
+        "39": {
+          "answer": "goals"
+        },
+        "40": {
+          "answer": "characteristics"
+        }
+      }
+    },
+    "cambridge-14-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "TRUE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "merchant"
+        },
+        "10": {
+          "answer": "equipment"
+        },
+        "11": {
+          "answer": "gifts"
+        },
+        "12": {
+          "answer": "canoe"
+        },
+        "13": {
+          "answer": "mountains"
+        },
+        "14": {
+          "answer": "F"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "design(s)",
+          "acceptedAnswers": [
+            "design",
+            "designs"
+          ]
+        },
+        "20": {
+          "answer": "pathogens"
+        },
+        "21": {
+          "answer": "tuberculosis"
+        },
+        "22": {
+          "answer": "wards"
+        },
+        "23": {
+          "answer": "communal"
+        },
+        "24": {
+          "answer": "public"
+        },
+        "25": {
+          "answer": "miasmas"
+        },
+        "26": {
+          "answer": "cholera"
+        },
+        "27": {
+          "answer": "vi"
+        },
+        "28": {
+          "answer": "i"
+        },
+        "29": {
+          "answer": "iii"
+        },
+        "30": {
+          "answer": "ii"
+        },
+        "31": {
+          "answer": "ix"
+        },
+        "32": {
+          "answer": "vii"
+        },
+        "33": {
+          "answer": "iv"
+        },
+        "34": {
+          "answer": "viii"
+        },
+        "35": {
+          "answer": "productive"
+        },
+        "36": {
+          "answer": "perfectionists"
+        },
+        "37": {
+          "answer": "dissatisfied"
+        },
+        "38": {
+          "answer": "TRUE"
+        },
+        "39": {
+          "answer": "FALSE"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-14-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "B"
+        },
+        "2": {
+          "answer": "A"
+        },
+        "3": {
+          "answer": "D"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "NO"
+        },
+        "6": {
+          "answer": "YES"
+        },
+        "7": {
+          "answer": "B"
+        },
+        "8": {
+          "answer": "C"
+        },
+        "9": {
+          "answer": "B"
+        },
+        "10": {
+          "answer": "A"
+        },
+        "11": {
+          "answer": "A"
+        },
+        "12": {
+          "answer": "C"
+        },
+        "13": {
+          "answer": "A"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "H"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "F"
+        },
+        "18": {
+          "answer": "I"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "22": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "23": {
+          "answer": "ecology"
+        },
+        "24": {
+          "answer": "prey"
+        },
+        "25": {
+          "answer": "habitats"
+        },
+        "26": {
+          "answer": "antibiotics"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "G"
+        },
+        "29": {
+          "answer": "F"
+        },
+        "30": {
+          "answer": "E"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "NO"
+        },
+        "33": {
+          "answer": "YES"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "YES"
+        },
+        "37": {
+          "answer": "encouraging"
+        },
+        "38": {
+          "answer": "desire"
+        },
+        "39": {
+          "answer": "autonomy"
+        },
+        "40": {
+          "answer": "targeted"
+        }
+      }
+    },
+    "cambridge-14-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "four",
+          "acceptedAnswers": [
+            "4"
+          ]
+        },
+        "2": {
+          "answer": "young"
+        },
+        "3": {
+          "answer": "food"
+        },
+        "4": {
+          "answer": "light"
+        },
+        "5": {
+          "answer": "aggressively"
+        },
+        "6": {
+          "answer": "location"
+        },
+        "7": {
+          "answer": "neurons"
+        },
+        "8": {
+          "answer": "chemicals"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "E"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "A"
+        },
+        "18": {
+          "answer": "TRUE"
+        },
+        "19": {
+          "answer": "TRUE"
+        },
+        "20": {
+          "answer": "NOT GIVEN"
+        },
+        "21": {
+          "answer": "FALSE"
+        },
+        "22": {
+          "answer": "NOT GIVEN"
+        },
+        "23": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "24": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "25": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "E"
+          ]
+        },
+        "26": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "27": {
+          "answer": "FALSE"
+        },
+        "28": {
+          "answer": "NOT GIVEN"
+        },
+        "29": {
+          "answer": "FALSE"
+        },
+        "30": {
+          "answer": "TRUE"
+        },
+        "31": {
+          "answer": "FALSE"
+        },
+        "32": {
+          "answer": "TRUE"
+        },
+        "33": {
+          "answer": "NOT GIVEN"
+        },
+        "34": {
+          "answer": "large"
+        },
+        "35": {
+          "answer": "microplastic"
+        },
+        "36": {
+          "answer": "populations"
+        },
+        "37": {
+          "answer": "concentrations"
+        },
+        "38": {
+          "answer": "predators"
+        },
+        "39": {
+          "answer": "disasters"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-15-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "oval"
+        },
+        "2": {
+          "answer": "husk"
+        },
+        "3": {
+          "answer": "seed"
+        },
+        "4": {
+          "answer": "mace"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "Arabs"
+        },
+        "9": {
+          "answer": "plague"
+        },
+        "10": {
+          "answer": "lime"
+        },
+        "11": {
+          "answer": "Run"
+        },
+        "12": {
+          "answer": "Mauritius"
+        },
+        "13": {
+          "answer": "tsunami"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "G"
+        },
+        "18": {
+          "answer": "D"
+        },
+        "19": {
+          "answer": "human error"
+        },
+        "20": {
+          "answer": "car-sharing",
+          "acceptedAnswers": [
+            "car sharing"
+          ]
+        },
+        "21": {
+          "answer": "ownership"
+        },
+        "22": {
+          "answer": "mileage"
+        },
+        "23": {
+          "answer": "C / D",
+          "acceptedAnswers": [
+            "C",
+            "D"
+          ]
+        },
+        "24": {
+          "answer": "C / D",
+          "acceptedAnswers": [
+            "C",
+            "D"
+          ]
+        },
+        "25": {
+          "answer": "A / E",
+          "acceptedAnswers": [
+            "A",
+            "E"
+          ]
+        },
+        "26": {
+          "answer": "A / E",
+          "acceptedAnswers": [
+            "A",
+            "E"
+          ]
+        },
+        "27": {
+          "answer": "A"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "B"
+        },
+        "33": {
+          "answer": "E"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "D"
+        },
+        "36": {
+          "answer": "E"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "expeditions",
+          "acceptedAnswers": [
+            "unique expeditions"
+          ]
+        },
+        "39": {
+          "answer": "uncontacted",
+          "acceptedAnswers": [
+            "isolated"
+          ]
+        },
+        "40": {
+          "answer": "surface",
+          "acceptedAnswers": [
+            "land surface"
+          ]
+        }
+      }
+    },
+    "cambridge-15-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "B"
+        },
+        "2": {
+          "answer": "C"
+        },
+        "3": {
+          "answer": "F"
+        },
+        "4": {
+          "answer": "D"
+        },
+        "5": {
+          "answer": "E"
+        },
+        "6": {
+          "answer": "A"
+        },
+        "7": {
+          "answer": "safety"
+        },
+        "8": {
+          "answer": "traffic"
+        },
+        "9": {
+          "answer": "carriageway"
+        },
+        "10": {
+          "answer": "mobile"
+        },
+        "11": {
+          "answer": "dangerous"
+        },
+        "12": {
+          "answer": "communities"
+        },
+        "13": {
+          "answer": "healthy"
+        },
+        "14": {
+          "answer": "F"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "A"
+        },
+        "18": {
+          "answer": "genetic traits"
+        },
+        "19": {
+          "answer": "heat loss"
+        },
+        "20": {
+          "answer": "ears"
+        },
+        "21": {
+          "answer": "(insulating) fat",
+          "acceptedAnswers": [
+            "fat",
+            "insulating fat"
+          ]
+        },
+        "22": {
+          "answer": "(carbon) emissions",
+          "acceptedAnswers": [
+            "emissions",
+            "carbon emissions"
+          ]
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "F"
+        },
+        "33": {
+          "answer": "H"
+        },
+        "34": {
+          "answer": "C"
+        },
+        "35": {
+          "answer": "D"
+        },
+        "36": {
+          "answer": "E"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-15-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "FALSE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "resignation"
+        },
+        "9": {
+          "answer": "materials"
+        },
+        "10": {
+          "answer": "miners"
+        },
+        "11": {
+          "answer": "family"
+        },
+        "12": {
+          "answer": "collectors"
+        },
+        "13": {
+          "answer": "income"
+        },
+        "14": {
+          "answer": "iii"
+        },
+        "15": {
+          "answer": "vi"
+        },
+        "16": {
+          "answer": "v"
+        },
+        "17": {
+          "answer": "x"
+        },
+        "18": {
+          "answer": "iv"
+        },
+        "19": {
+          "answer": "viii"
+        },
+        "20": {
+          "answer": "i"
+        },
+        "21": {
+          "answer": "wheels"
+        },
+        "22": {
+          "answer": "film"
+        },
+        "23": {
+          "answer": "filter"
+        },
+        "24": {
+          "answer": "waste"
+        },
+        "25": {
+          "answer": "performance"
+        },
+        "26": {
+          "answer": "servicing"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "F"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "E"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "F"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "G"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "D"
+        },
+        "39": {
+          "answer": "A"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-15-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "water"
+        },
+        "2": {
+          "answer": "diet"
+        },
+        "3": {
+          "answer": "drought"
+        },
+        "4": {
+          "answer": "erosion"
+        },
+        "5": {
+          "answer": "desert"
+        },
+        "6": {
+          "answer": "(its / huarango / the) branches",
+          "acceptedAnswers": [
+            "branches",
+            "its branches",
+            "huarango branches",
+            "the branches"
+          ]
+        },
+        "7": {
+          "answer": "leaves (and) bark [IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK]",
+          "acceptedAnswers": [
+            "leaves and bark",
+            "bark and leaves",
+            "leaves / bark",
+            "bark / leaves",
+            "leaves; bark",
+            "bark; leaves"
+          ]
+        },
+        "8": {
+          "answer": "(its / huarango / the) trunk",
+          "acceptedAnswers": [
+            "trunk",
+            "its trunk",
+            "huarango trunk",
+            "the trunk"
+          ]
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "NOT GIVEN"
+        },
+        "15": {
+          "answer": "FALSE"
+        },
+        "16": {
+          "answer": "TRUE"
+        },
+        "17": {
+          "answer": "FALSE"
+        },
+        "18": {
+          "answer": "FALSE"
+        },
+        "19": {
+          "answer": "TRUE"
+        },
+        "20": {
+          "answer": "words"
+        },
+        "21": {
+          "answer": "finger"
+        },
+        "22": {
+          "answer": "direction"
+        },
+        "23": {
+          "answer": "commands"
+        },
+        "24": {
+          "answer": "fires"
+        },
+        "25": {
+          "answer": "technology"
+        },
+        "26": {
+          "answer": "award"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "E"
+        },
+        "29": {
+          "answer": "F"
+        },
+        "30": {
+          "answer": "H"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "C"
+        },
+        "33": {
+          "answer": "D"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "YES"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-16-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "FALSE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "violent"
+        },
+        "9": {
+          "answer": "tool"
+        },
+        "10": {
+          "answer": "meat"
+        },
+        "11": {
+          "answer": "photographer"
+        },
+        "12": {
+          "answer": "game"
+        },
+        "13": {
+          "answer": "frustration"
+        },
+        "14": {
+          "answer": "iv"
+        },
+        "15": {
+          "answer": "vii"
+        },
+        "16": {
+          "answer": "ii"
+        },
+        "17": {
+          "answer": "v"
+        },
+        "18": {
+          "answer": "i"
+        },
+        "19": {
+          "answer": "viii"
+        },
+        "20": {
+          "answer": "vi"
+        },
+        "21": {
+          "answer": "city"
+        },
+        "22": {
+          "answer": "priests"
+        },
+        "23": {
+          "answer": "trench"
+        },
+        "24": {
+          "answer": "location"
+        },
+        "25": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "26": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "D"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "G"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "F"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "A"
+        },
+        "37": {
+          "answer": "C"
+        },
+        "38": {
+          "answer": "A"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-16-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "Ridgeway"
+        },
+        "10": {
+          "answer": "documents"
+        },
+        "11": {
+          "answer": "soil"
+        },
+        "12": {
+          "answer": "fertility"
+        },
+        "13": {
+          "answer": "Rhiannon"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "G"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "H"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "YES"
+        },
+        "22": {
+          "answer": "NO"
+        },
+        "23": {
+          "answer": "NOT GIVEN"
+        },
+        "24": {
+          "answer": "YES"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "NO"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "A"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "F"
+        },
+        "35": {
+          "answer": "G"
+        },
+        "36": {
+          "answer": "FALSE"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "TRUE"
+        },
+        "40": {
+          "answer": "TRUE"
+        }
+      }
+    },
+    "cambridge-16-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "NOT GIVEN"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "lightweight"
+        },
+        "7": {
+          "answer": "bronze"
+        },
+        "8": {
+          "answer": "levels"
+        },
+        "9": {
+          "answer": "hull"
+        },
+        "10": {
+          "answer": "triangular"
+        },
+        "11": {
+          "answer": "music"
+        },
+        "12": {
+          "answer": "grain"
+        },
+        "13": {
+          "answer": "towboats"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "F"
+        },
+        "17": {
+          "answer": "H"
+        },
+        "18": {
+          "answer": "G"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "microorganisms / micro-organisms"
+        },
+        "21": {
+          "answer": "reindeer"
+        },
+        "22": {
+          "answer": "insects"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "NOT GIVEN"
+        },
+        "28": {
+          "answer": "TRUE"
+        },
+        "29": {
+          "answer": "TRUE"
+        },
+        "30": {
+          "answer": "NOT GIVEN"
+        },
+        "31": {
+          "answer": "FALSE"
+        },
+        "32": {
+          "answer": "FALSE"
+        },
+        "33": {
+          "answer": "H"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "G"
+        },
+        "36": {
+          "answer": "C"
+        },
+        "37": {
+          "answer": "A"
+        },
+        "38": {
+          "answer": "warm (winter)"
+        },
+        "39": {
+          "answer": "summer"
+        },
+        "40": {
+          "answer": "mustard plant(s) / mustard"
+        }
+      }
+    },
+    "cambridge-16-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "posts"
+        },
+        "2": {
+          "answer": "canal"
+        },
+        "3": {
+          "answer": "ventilation"
+        },
+        "4": {
+          "answer": "lid"
+        },
+        "5": {
+          "answer": "weight"
+        },
+        "6": {
+          "answer": "climbing"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "gold"
+        },
+        "12": {
+          "answer": "(the) architect(’s) (name)"
+        },
+        "13": {
+          "answer": "(the) harbour / harbor"
+        },
+        "14": {
+          "answer": "A"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "D"
+        },
+        "19": {
+          "answer": "H"
+        },
+        "20": {
+          "answer": "F"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "YES"
+        },
+        "24": {
+          "answer": "NO"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "YES"
+        },
+        "27": {
+          "answer": "iii"
+        },
+        "28": {
+          "answer": "vi"
+        },
+        "29": {
+          "answer": "ii"
+        },
+        "30": {
+          "answer": "i"
+        },
+        "31": {
+          "answer": "vii"
+        },
+        "32": {
+          "answer": "v"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "A"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-17-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "population"
+        },
+        "2": {
+          "answer": "suburbs"
+        },
+        "3": {
+          "answer": "businessmen"
+        },
+        "4": {
+          "answer": "funding"
+        },
+        "5": {
+          "answer": "press"
+        },
+        "6": {
+          "answer": "soil"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "A"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "fortress"
+        },
+        "19": {
+          "answer": "bullfights"
+        },
+        "20": {
+          "answer": "opera"
+        },
+        "21": {
+          "answer": "salt"
+        },
+        "22": {
+          "answer": "shops"
+        },
+        "23": {
+          "answer": "C",
+          "acceptedAnswers": [
+            "D"
+          ]
+        },
+        "24": {
+          "answer": "D",
+          "acceptedAnswers": [
+            "C"
+          ]
+        },
+        "25": {
+          "answer": "B",
+          "acceptedAnswers": [
+            "E"
+          ]
+        },
+        "26": {
+          "answer": "E",
+          "acceptedAnswers": [
+            "B"
+          ]
+        },
+        "27": {
+          "answer": "H"
+        },
+        "28": {
+          "answer": "J"
+        },
+        "29": {
+          "answer": "F"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "D"
+        },
+        "32": {
+          "answer": "NOT GIVEN"
+        },
+        "33": {
+          "answer": "NO"
+        },
+        "34": {
+          "answer": "NO"
+        },
+        "35": {
+          "answer": "YES"
+        },
+        "36": {
+          "answer": "B"
+        },
+        "37": {
+          "answer": "C"
+        },
+        "38": {
+          "answer": "A"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-17-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "rock"
+        },
+        "2": {
+          "answer": "cave"
+        },
+        "3": {
+          "answer": "clay"
+        },
+        "4": {
+          "answer": "Essenes"
+        },
+        "5": {
+          "answer": "Hebrew"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "A"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "D"
+        },
+        "21": {
+          "answer": "A"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "flavour / flavor"
+        },
+        "25": {
+          "answer": "size"
+        },
+        "26": {
+          "answer": "salt"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "NO"
+        },
+        "33": {
+          "answer": "NOT GIVEN"
+        },
+        "34": {
+          "answer": "YES"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "F"
+        },
+        "38": {
+          "answer": "D"
+        },
+        "39": {
+          "answer": "E"
+        },
+        "40": {
+          "answer": "B"
+        }
+      }
+    },
+    "cambridge-17-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "carnivorous"
+        },
+        "2": {
+          "answer": "scent"
+        },
+        "3": {
+          "answer": "pouch"
+        },
+        "4": {
+          "answer": "fossil"
+        },
+        "5": {
+          "answer": "habitat"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "F"
+        },
+        "15": {
+          "answer": "G"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "H"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "E"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "solid"
+        },
+        "24": {
+          "answer": "(Sumatran) orangutan / orang-utan"
+        },
+        "25": {
+          "answer": "carbon stocks"
+        },
+        "26": {
+          "answer": "biodiversity"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "B"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "NO"
+        },
+        "33": {
+          "answer": "YES"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "H"
+        },
+        "37": {
+          "answer": "D"
+        },
+        "38": {
+          "answer": "I"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "F"
+        }
+      }
+    },
+    "cambridge-17-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "TRUE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "droppings"
+        },
+        "8": {
+          "answer": "coffee"
+        },
+        "9": {
+          "answer": "mosquitoes"
+        },
+        "10": {
+          "answer": "protein"
+        },
+        "11": {
+          "answer": "unclean"
+        },
+        "12": {
+          "answer": "culture"
+        },
+        "13": {
+          "answer": "houses"
+        },
+        "14": {
+          "answer": "E"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "F"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "descendants"
+        },
+        "20": {
+          "answer": "sermon"
+        },
+        "21": {
+          "answer": "fine"
+        },
+        "22": {
+          "answer": "innovation"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "E"
+        },
+        "25": {
+          "answer": "B"
+        },
+        "26": {
+          "answer": "D"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "E"
+        },
+        "29": {
+          "answer": "F"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "H"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "FALSE"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "TRUE"
+        },
+        "37": {
+          "answer": "memory"
+        },
+        "38": {
+          "answer": "numbers"
+        },
+        "39": {
+          "answer": "communication"
+        },
+        "40": {
+          "answer": "visual"
+        }
+      }
+    },
+    "cambridge-18-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "lettuces"
+        },
+        "2": {
+          "answer": "1,000 kg"
+        },
+        "3": {
+          "answer": "(food) consumption"
+        },
+        "4": {
+          "answer": "pesticides"
+        },
+        "5": {
+          "answer": "journeys"
+        },
+        "6": {
+          "answer": "producers"
+        },
+        "7": {
+          "answer": "flavour / flavor"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "E"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "C"
+        },
+        "22": {
+          "answer": "fire"
+        },
+        "23": {
+          "answer": "nutrients"
+        },
+        "24": {
+          "answer": "cavities"
+        },
+        "25": {
+          "answer": "hawthorn"
+        },
+        "26": {
+          "answer": "rare"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "F"
+        },
+        "29": {
+          "answer": "A"
+        },
+        "30": {
+          "answer": "E"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "sustainability"
+        },
+        "33": {
+          "answer": "fuel"
+        },
+        "34": {
+          "answer": "explosions"
+        },
+        "35": {
+          "answer": "bankrupt"
+        },
+        "36": {
+          "answer": "C"
+        },
+        "37": {
+          "answer": "D"
+        },
+        "38": {
+          "answer": "B"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    },
+    "cambridge-18-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "(deer) antlers"
+        },
+        "2": {
+          "answer": "(timber) posts"
+        },
+        "3": {
+          "answer": "tree trunks"
+        },
+        "4": {
+          "answer": "oxen"
+        },
+        "5": {
+          "answer": "glaciers"
+        },
+        "6": {
+          "answer": "druids"
+        },
+        "7": {
+          "answer": "burial"
+        },
+        "8": {
+          "answer": "calendar"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "D"
+        },
+        "20": {
+          "answer": "YES"
+        },
+        "21": {
+          "answer": "NOT GIVEN"
+        },
+        "22": {
+          "answer": "NO"
+        },
+        "23": {
+          "answer": "YES"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "E"
+        },
+        "27": {
+          "answer": "NOT GIVEN"
+        },
+        "28": {
+          "answer": "NOT GIVEN"
+        },
+        "29": {
+          "answer": "TRUE"
+        },
+        "30": {
+          "answer": "FALSE"
+        },
+        "31": {
+          "answer": "TRUE"
+        },
+        "32": {
+          "answer": "NOT GIVEN"
+        },
+        "33": {
+          "answer": "FALSE"
+        },
+        "34": {
+          "answer": "transport"
+        },
+        "35": {
+          "answer": "staircases"
+        },
+        "36": {
+          "answer": "engineering"
+        },
+        "37": {
+          "answer": "rule"
+        },
+        "38": {
+          "answer": "Roman"
+        },
+        "39": {
+          "answer": "Paris"
+        },
+        "40": {
+          "answer": "outwards"
+        }
+      }
+    },
+    "cambridge-18-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "G"
+        },
+        "2": {
+          "answer": "D"
+        },
+        "3": {
+          "answer": "C"
+        },
+        "4": {
+          "answer": "F"
+        },
+        "5": {
+          "answer": "architects"
+        },
+        "6": {
+          "answer": "moisture"
+        },
+        "7": {
+          "answer": "layers"
+        },
+        "8": {
+          "answer": "speed"
+        },
+        "9": {
+          "answer": "C"
+        },
+        "10": {
+          "answer": "A"
+        },
+        "11": {
+          "answer": "B"
+        },
+        "12": {
+          "answer": "D"
+        },
+        "13": {
+          "answer": "A"
+        },
+        "14": {
+          "answer": "iii"
+        },
+        "15": {
+          "answer": "viii"
+        },
+        "16": {
+          "answer": "vi"
+        },
+        "17": {
+          "answer": "v"
+        },
+        "18": {
+          "answer": "vii"
+        },
+        "19": {
+          "answer": "i"
+        },
+        "20": {
+          "answer": "iv"
+        },
+        "21": {
+          "answer": "A"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "speed"
+        },
+        "25": {
+          "answer": "fifty / 50",
+          "acceptedAnswers": [
+            "fifty",
+            "50"
+          ]
+        },
+        "26": {
+          "answer": "strict"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "H"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "F"
+        },
+        "34": {
+          "answer": "E"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-18-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "D"
+        },
+        "2": {
+          "answer": "C"
+        },
+        "3": {
+          "answer": "E"
+        },
+        "4": {
+          "answer": "B"
+        },
+        "5": {
+          "answer": "D"
+        },
+        "6": {
+          "answer": "energy"
+        },
+        "7": {
+          "answer": "food"
+        },
+        "8": {
+          "answer": "gardening"
+        },
+        "9": {
+          "answer": "obesity"
+        },
+        "10": {
+          "answer": "C"
+        },
+        "11": {
+          "answer": "D"
+        },
+        "12": {
+          "answer": "A"
+        },
+        "13": {
+          "answer": "D"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "C"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "C"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "A"
+        },
+        "20": {
+          "answer": "E"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "D"
+        },
+        "23": {
+          "answer": "YES"
+        },
+        "24": {
+          "answer": "NO"
+        },
+        "25": {
+          "answer": "NOT GIVEN"
+        },
+        "26": {
+          "answer": "YES"
+        },
+        "27": {
+          "answer": "YES"
+        },
+        "28": {
+          "answer": "NOT GIVEN"
+        },
+        "29": {
+          "answer": "NO"
+        },
+        "30": {
+          "answer": "NO"
+        },
+        "31": {
+          "answer": "I"
+        },
+        "32": {
+          "answer": "F"
+        },
+        "33": {
+          "answer": "A"
+        },
+        "34": {
+          "answer": "C"
+        },
+        "35": {
+          "answer": "H"
+        },
+        "36": {
+          "answer": "E"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "A"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-19-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "NOT GIVEN"
+        },
+        "4": {
+          "answer": "FALSE"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "paint"
+        },
+        "9": {
+          "answer": "topspin"
+        },
+        "10": {
+          "answer": "training"
+        },
+        "11": {
+          "answer": "intestines / gut",
+          "acceptedAnswers": [
+            "intestines",
+            "gut"
+          ]
+        },
+        "12": {
+          "answer": "weights"
+        },
+        "13": {
+          "answer": "grips"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "G"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "A"
+        },
+        "18": {
+          "answer": "G"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "21": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "22": {
+          "answer": "C / E",
+          "acceptedAnswers": [
+            "C",
+            "E"
+          ]
+        },
+        "23": {
+          "answer": "C / E",
+          "acceptedAnswers": [
+            "C",
+            "E"
+          ]
+        },
+        "24": {
+          "answer": "grain"
+        },
+        "25": {
+          "answer": "punishment"
+        },
+        "26": {
+          "answer": "ransom"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "D"
+        },
+        "31": {
+          "answer": "G"
+        },
+        "32": {
+          "answer": "J"
+        },
+        "33": {
+          "answer": "H"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "E"
+        },
+        "36": {
+          "answer": "C"
+        },
+        "37": {
+          "answer": "YES"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "NOT GIVEN"
+        }
+      }
+    },
+    "cambridge-19-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "piston"
+        },
+        "2": {
+          "answer": "coal"
+        },
+        "3": {
+          "answer": "workshops"
+        },
+        "4": {
+          "answer": "labour / labor",
+          "acceptedAnswers": [
+            "labour",
+            "labor"
+          ]
+        },
+        "5": {
+          "answer": "quality"
+        },
+        "6": {
+          "answer": "railway(s)",
+          "acceptedAnswers": [
+            "railway",
+            "railways"
+          ]
+        },
+        "7": {
+          "answer": "sanitation"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "D"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "C"
+        },
+        "18": {
+          "answer": "F"
+        },
+        "19": {
+          "answer": "injury"
+        },
+        "20": {
+          "answer": "serves"
+        },
+        "21": {
+          "answer": "excitement"
+        },
+        "22": {
+          "answer": "Visualisation",
+          "acceptedAnswers": [
+            "Visualization"
+          ]
+        },
+        "23": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "24": {
+          "answer": "B / D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "25": {
+          "answer": "A / E",
+          "acceptedAnswers": [
+            "A",
+            "E"
+          ]
+        },
+        "26": {
+          "answer": "A / E",
+          "acceptedAnswers": [
+            "A",
+            "E"
+          ]
+        },
+        "27": {
+          "answer": "H"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "J"
+        },
+        "32": {
+          "answer": "I"
+        },
+        "33": {
+          "answer": "YES"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "YES"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "C"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "D"
+        }
+      }
+    },
+    "cambridge-19-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "NOT GIVEN"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "caves"
+        },
+        "9": {
+          "answer": "stone"
+        },
+        "10": {
+          "answer": "bones"
+        },
+        "11": {
+          "answer": "beads"
+        },
+        "12": {
+          "answer": "pottery"
+        },
+        "13": {
+          "answer": "spices"
+        },
+        "14": {
+          "answer": "G"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "H"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "carbon"
+        },
+        "19": {
+          "answer": "fires"
+        },
+        "20": {
+          "answer": "biodiversity"
+        },
+        "21": {
+          "answer": "ditches"
+        },
+        "22": {
+          "answer": "subsidence"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "D"
+        },
+        "26": {
+          "answer": "B"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "B"
+        },
+        "31": {
+          "answer": "C"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "F"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "YES"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-19-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "TRUE"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "FALSE"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "colonies"
+        },
+        "8": {
+          "answer": "spring"
+        },
+        "9": {
+          "answer": "endangered"
+        },
+        "10": {
+          "answer": "habitat(s)",
+          "acceptedAnswers": [
+            "habitat",
+            "habitats"
+          ]
+        },
+        "11": {
+          "answer": "Europe"
+        },
+        "12": {
+          "answer": "southern"
+        },
+        "13": {
+          "answer": "diet"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "E"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "D"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "A"
+        },
+        "21": {
+          "answer": "E"
+        },
+        "22": {
+          "answer": "B"
+        },
+        "23": {
+          "answer": "C"
+        },
+        "24": {
+          "answer": "waste"
+        },
+        "25": {
+          "answer": "machinery"
+        },
+        "26": {
+          "answer": "caution"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "egalitarianism"
+        },
+        "32": {
+          "answer": "status"
+        },
+        "33": {
+          "answer": "hunting"
+        },
+        "34": {
+          "answer": "domineering"
+        },
+        "35": {
+          "answer": "autonomy"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NO"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "NOT GIVEN"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-20-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "FALSE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "FALSE"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "TRUE"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "Bulbs"
+        },
+        "8": {
+          "answer": "Soil"
+        },
+        "9": {
+          "answer": "feathers"
+        },
+        "10": {
+          "answer": "Deer"
+        },
+        "11": {
+          "answer": "1980"
+        },
+        "12": {
+          "answer": "Funding"
+        },
+        "13": {
+          "answer": "stakeholders"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "G"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "E"
+        },
+        "18": {
+          "answer": "C"
+        },
+        "19": {
+          "answer": "B"
+        },
+        "20": {
+          "answer": "A"
+        },
+        "21": {
+          "answer": "B"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "oak"
+        },
+        "25": {
+          "answer": "flooring"
+        },
+        "26": {
+          "answer": "keel"
+        },
+        "27": {
+          "answer": "C"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "D"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "G"
+        },
+        "33": {
+          "answer": "F"
+        },
+        "34": {
+          "answer": "E"
+        },
+        "35": {
+          "answer": "D"
+        },
+        "36": {
+          "answer": "YES"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "NO"
+        },
+        "39": {
+          "answer": "YES"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-20-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "tail"
+        },
+        "2": {
+          "answer": "flippers"
+        },
+        "3": {
+          "answer": "hair"
+        },
+        "4": {
+          "answer": "seagrasses"
+        },
+        "5": {
+          "answer": "lips"
+        },
+        "6": {
+          "answer": "buoyancy"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "NOT GIVEN"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "B"
+        },
+        "15": {
+          "answer": "F"
+        },
+        "16": {
+          "answer": "B"
+        },
+        "17": {
+          "answer": "laziness"
+        },
+        "18": {
+          "answer": "anxious"
+        },
+        "19": {
+          "answer": "threats"
+        },
+        "20": {
+          "answer": "exams"
+        },
+        "21": {
+          "answer": "perfectionists"
+        },
+        "22": {
+          "answer": "guilt"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "E"
+        },
+        "27": {
+          "answer": "NO"
+        },
+        "28": {
+          "answer": "YES"
+        },
+        "29": {
+          "answer": "NOT GIVEN"
+        },
+        "30": {
+          "answer": "NO"
+        },
+        "31": {
+          "answer": "NOT GIVEN"
+        },
+        "32": {
+          "answer": "YES"
+        },
+        "33": {
+          "answer": "F"
+        },
+        "34": {
+          "answer": "D"
+        },
+        "35": {
+          "answer": "H"
+        },
+        "36": {
+          "answer": "B"
+        },
+        "37": {
+          "answer": "G"
+        },
+        "38": {
+          "answer": "B"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-20-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "potatoes"
+        },
+        "2": {
+          "answer": "butter"
+        },
+        "3": {
+          "answer": "meat"
+        },
+        "4": {
+          "answer": "crystals"
+        },
+        "5": {
+          "answer": "cellophane"
+        },
+        "6": {
+          "answer": "tin"
+        },
+        "7": {
+          "answer": "refrigerator"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "TRUE"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "TRUE"
+        },
+        "12": {
+          "answer": "FALSE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "v"
+        },
+        "15": {
+          "answer": "ii"
+        },
+        "16": {
+          "answer": "iv"
+        },
+        "17": {
+          "answer": "vii"
+        },
+        "18": {
+          "answer": "iii"
+        },
+        "19": {
+          "answer": "vi"
+        },
+        "20": {
+          "answer": "C"
+        },
+        "21": {
+          "answer": "E"
+        },
+        "22": {
+          "answer": "B"
+        },
+        "23": {
+          "answer": "D"
+        },
+        "24": {
+          "answer": "tentacles"
+        },
+        "25": {
+          "answer": "protection"
+        },
+        "26": {
+          "answer": "colour"
+        },
+        "27": {
+          "answer": "A"
+        },
+        "28": {
+          "answer": "C"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "A"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "C"
+        },
+        "35": {
+          "answer": "B"
+        },
+        "36": {
+          "answer": "D"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "C"
+        },
+        "39": {
+          "answer": "B"
+        },
+        "40": {
+          "answer": "C"
+        }
+      }
+    },
+    "cambridge-20-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "teacher"
+        },
+        "2": {
+          "answer": "charcoal"
+        },
+        "3": {
+          "answer": "skyscrapers"
+        },
+        "4": {
+          "answer": "flowers"
+        },
+        "5": {
+          "answer": "bones"
+        },
+        "6": {
+          "answer": "landscape"
+        },
+        "7": {
+          "answer": "rivers"
+        },
+        "8": {
+          "answer": "FALSE",
+          "acceptedAnswers": [
+            "F"
+          ]
+        },
+        "9": {
+          "answer": "TRUE",
+          "acceptedAnswers": [
+            "T"
+          ]
+        },
+        "10": {
+          "answer": "FALSE",
+          "acceptedAnswers": [
+            "F"
+          ]
+        },
+        "11": {
+          "answer": "TRUE",
+          "acceptedAnswers": [
+            "T"
+          ]
+        },
+        "12": {
+          "answer": "NOT GIVEN",
+          "acceptedAnswers": [
+            "NG"
+          ]
+        },
+        "13": {
+          "answer": "NOT GIVEN",
+          "acceptedAnswers": [
+            "NG"
+          ]
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "A"
+        },
+        "16": {
+          "answer": "D"
+        },
+        "17": {
+          "answer": "F"
+        },
+        "18": {
+          "answer": "pumps"
+        },
+        "19": {
+          "answer": "dams"
+        },
+        "20": {
+          "answer": "float"
+        },
+        "21": {
+          "answer": "crops"
+        },
+        "22": {
+          "answer": "trees"
+        },
+        "23": {
+          "answer": "B"
+        },
+        "24": {
+          "answer": "E"
+        },
+        "25": {
+          "answer": "A"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "D"
+        },
+        "28": {
+          "answer": "G"
+        },
+        "29": {
+          "answer": "B"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "B"
+        },
+        "32": {
+          "answer": "D"
+        },
+        "33": {
+          "answer": "E"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "C"
+        },
+        "36": {
+          "answer": "A"
+        },
+        "37": {
+          "answer": "jackals"
+        },
+        "38": {
+          "answer": "diseases"
+        },
+        "39": {
+          "answer": "food"
+        },
+        "40": {
+          "answer": "foxes"
+        }
+      }
+    },
+    "cambridge-21-reading-test-1": {
+      "answers": {
+        "1": {
+          "answer": "mining"
+        },
+        "2": {
+          "answer": "education"
+        },
+        "3": {
+          "answer": "notes"
+        },
+        "4": {
+          "answer": "journals"
+        },
+        "5": {
+          "answer": "Venice"
+        },
+        "6": {
+          "answer": "canteen"
+        },
+        "7": {
+          "answer": "friends"
+        },
+        "8": {
+          "answer": "TRUE"
+        },
+        "9": {
+          "answer": "NOT GIVEN"
+        },
+        "10": {
+          "answer": "FALSE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "TRUE"
+        },
+        "14": {
+          "answer": "C"
+        },
+        "15": {
+          "answer": "B"
+        },
+        "16": {
+          "answer": "A"
+        },
+        "17": {
+          "answer": "G"
+        },
+        "18": {
+          "answer": "breath"
+        },
+        "19": {
+          "answer": "questionnaire"
+        },
+        "20": {
+          "answer": "wellbeing"
+        },
+        "21": {
+          "answer": "depression"
+        },
+        "22": {
+          "answer": "C"
+        },
+        "23": {
+          "answer": "A"
+        },
+        "24": {
+          "answer": "B"
+        },
+        "25": {
+          "answer": "D"
+        },
+        "26": {
+          "answer": "C"
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "H"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "I"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "G"
+        },
+        "36": {
+          "answer": "C"
+        },
+        "37": {
+          "answer": "YES"
+        },
+        "38": {
+          "answer": "NOT GIVEN"
+        },
+        "39": {
+          "answer": "NO"
+        },
+        "40": {
+          "answer": "YES"
+        }
+      }
+    },
+    "cambridge-21-reading-test-2": {
+      "answers": {
+        "1": {
+          "answer": "rats"
+        },
+        "2": {
+          "answer": "visual"
+        },
+        "3": {
+          "answer": "half"
+        },
+        "4": {
+          "answer": "temperature"
+        },
+        "5": {
+          "answer": "vivid"
+        },
+        "6": {
+          "answer": "TRUE"
+        },
+        "7": {
+          "answer": "FALSE"
+        },
+        "8": {
+          "answer": "NOT GIVEN"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "FALSE"
+        },
+        "12": {
+          "answer": "NOT GIVEN"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "E"
+        },
+        "15": {
+          "answer": "G"
+        },
+        "16": {
+          "answer": "C"
+        },
+        "17": {
+          "answer": "D"
+        },
+        "18": {
+          "answer": "B"
+        },
+        "19": {
+          "answer": "A"
+        },
+        "20": {
+          "answer": "B/D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "21": {
+          "answer": "B/D",
+          "acceptedAnswers": [
+            "B",
+            "D"
+          ]
+        },
+        "22": {
+          "answer": "prosperity"
+        },
+        "23": {
+          "answer": "whistles"
+        },
+        "24": {
+          "answer": "bodies"
+        },
+        "25": {
+          "answer": "ancestors"
+        },
+        "26": {
+          "answer": "jewellery/jewelry",
+          "acceptedAnswers": [
+            "jewellery",
+            "jewelry"
+          ]
+        },
+        "27": {
+          "answer": "B"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "C"
+        },
+        "30": {
+          "answer": "F"
+        },
+        "31": {
+          "answer": "G"
+        },
+        "32": {
+          "answer": "I"
+        },
+        "33": {
+          "answer": "C"
+        },
+        "34": {
+          "answer": "A"
+        },
+        "35": {
+          "answer": "D"
+        },
+        "36": {
+          "answer": "NO"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "NO"
+        },
+        "39": {
+          "answer": "YES"
+        },
+        "40": {
+          "answer": "B"
+        }
+      }
+    },
+    "cambridge-21-reading-test-3": {
+      "answers": {
+        "1": {
+          "answer": "dust"
+        },
+        "2": {
+          "answer": "blood"
+        },
+        "3": {
+          "answer": "coat"
+        },
+        "4": {
+          "answer": "horns"
+        },
+        "5": {
+          "answer": "habitat"
+        },
+        "6": {
+          "answer": "routes"
+        },
+        "7": {
+          "answer": "streams"
+        },
+        "8": {
+          "answer": "FALSE"
+        },
+        "9": {
+          "answer": "FALSE"
+        },
+        "10": {
+          "answer": "TRUE"
+        },
+        "11": {
+          "answer": "NOT GIVEN"
+        },
+        "12": {
+          "answer": "TRUE"
+        },
+        "13": {
+          "answer": "NOT GIVEN"
+        },
+        "14": {
+          "answer": "NOT GIVEN"
+        },
+        "15": {
+          "answer": "FALSE"
+        },
+        "16": {
+          "answer": "NOT GIVEN"
+        },
+        "17": {
+          "answer": "TRUE"
+        },
+        "18": {
+          "answer": "FALSE"
+        },
+        "19": {
+          "answer": "lanes"
+        },
+        "20": {
+          "answer": "boarding"
+        },
+        "21": {
+          "answer": "wheelchairs"
+        },
+        "22": {
+          "answer": "fuel"
+        },
+        "23": {
+          "answer": "flood"
+        },
+        "24": {
+          "answer": "smartcards"
+        },
+        "25": {
+          "answer": "gates"
+        },
+        "26": {
+          "answer": "queues"
+        },
+        "27": {
+          "answer": "A"
+        },
+        "28": {
+          "answer": "A"
+        },
+        "29": {
+          "answer": "D"
+        },
+        "30": {
+          "answer": "A"
+        },
+        "31": {
+          "answer": "E"
+        },
+        "32": {
+          "answer": "F"
+        },
+        "33": {
+          "answer": "D"
+        },
+        "34": {
+          "answer": "B"
+        },
+        "35": {
+          "answer": "NO"
+        },
+        "36": {
+          "answer": "NOT GIVEN"
+        },
+        "37": {
+          "answer": "NOT GIVEN"
+        },
+        "38": {
+          "answer": "YES"
+        },
+        "39": {
+          "answer": "YES"
+        },
+        "40": {
+          "answer": "NO"
+        }
+      }
+    },
+    "cambridge-21-reading-test-4": {
+      "answers": {
+        "1": {
+          "answer": "TRUE"
+        },
+        "2": {
+          "answer": "FALSE"
+        },
+        "3": {
+          "answer": "TRUE"
+        },
+        "4": {
+          "answer": "NOT GIVEN"
+        },
+        "5": {
+          "answer": "NOT GIVEN"
+        },
+        "6": {
+          "answer": "FALSE"
+        },
+        "7": {
+          "answer": "TRUE"
+        },
+        "8": {
+          "answer": "cow dung"
+        },
+        "9": {
+          "answer": "fermentation (process)",
+          "acceptedAnswers": [
+            "fermentation",
+            "fermentation process"
+          ]
+        },
+        "10": {
+          "answer": "pipes"
+        },
+        "11": {
+          "answer": "time"
+        },
+        "12": {
+          "answer": "money"
+        },
+        "13": {
+          "answer": "price"
+        },
+        "14": {
+          "answer": "I"
+        },
+        "15": {
+          "answer": "J"
+        },
+        "16": {
+          "answer": "H"
+        },
+        "17": {
+          "answer": "B"
+        },
+        "18": {
+          "answer": "E"
+        },
+        "19": {
+          "answer": "F"
+        },
+        "20": {
+          "answer": "NO"
+        },
+        "21": {
+          "answer": "NOT GIVEN"
+        },
+        "22": {
+          "answer": "YES"
+        },
+        "23": {
+          "answer": "NO"
+        },
+        "24": {
+          "answer": "C"
+        },
+        "25": {
+          "answer": "D"
+        },
+        "26": {
+          "answer": "D"
+        },
+        "27": {
+          "answer": "G"
+        },
+        "28": {
+          "answer": "J"
+        },
+        "29": {
+          "answer": "I"
+        },
+        "30": {
+          "answer": "C"
+        },
+        "31": {
+          "answer": "A"
+        },
+        "32": {
+          "answer": "E"
+        },
+        "33": {
+          "answer": "NO"
+        },
+        "34": {
+          "answer": "NOT GIVEN"
+        },
+        "35": {
+          "answer": "NOT GIVEN"
+        },
+        "36": {
+          "answer": "YES"
+        },
+        "37": {
+          "answer": "B"
+        },
+        "38": {
+          "answer": "C"
+        },
+        "39": {
+          "answer": "D"
+        },
+        "40": {
+          "answer": "A"
+        }
+      }
+    }
+  }
+}

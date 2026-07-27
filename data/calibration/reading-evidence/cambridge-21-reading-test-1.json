@@ -1,0 +1,210 @@
+{
+  "testId": "cambridge-21-reading-test-1",
+  "source": [
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-1-双语精读.md",
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-2-双语精读.md",
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-1-Passage-3-双语精读.md"
+  ],
+  "questions": {
+    "1": {
+      "answer": "mining",
+      "evidence": "原文为 “a Welshman who amassed a fortune in the shipping and mining industries”。题干已用 transportation businesses 改写 shipping industries，剩余并列行业是 mining。",
+      "evidenceLocation": {"passage": 1, "section": "Question 1"}
+    },
+    "2": {
+      "answer": "education",
+      "evidence": "原文为 “the sisters’ education was rigorously geared toward such pursuits”。题干 was designed to give them an interest in 改写 was rigorously geared toward。",
+      "evidenceLocation": {"passage": 1, "section": "Question 2"}
+    },
+    "3": {
+      "answer": "notes",
+      "evidence": "原文为 “visiting art galleries and making extensive notes on the collections there”。题干 took lengthy notes 改写 making extensive notes。",
+      "evidenceLocation": {"passage": 1, "section": "Question 3"}
+    },
+    "4": {
+      "answer": "journals",
+      "evidence": "原文为 “The sisters’ journals reveal their preference for Old Master paintings.” show they liked 对应 reveal their preference for，载体是 journals。",
+      "evidenceLocation": {"passage": 1, "section": "Question 4"}
+    },
+    "5": {
+      "answer": "Venice",
+      "evidence": "原文说她们最早购入的印象派作品 “were scenes of Venice”。题干 showed places in 改写 were scenes of。",
+      "evidenceLocation": {"passage": 1, "section": "Question 5"}
+    },
+    "6": {
+      "answer": "canteen",
+      "evidence": "原文为 “both sisters decided to volunteer at a canteen for troops at Troyes, in northern France”。worked 概括 volunteer，soldiers 对应 troops。",
+      "evidenceLocation": {"passage": 1, "section": "Question 6"}
+    },
+    "7": {
+      "answer": "friends",
+      "evidence": "原文为 “they didn’t make friends with artists or gallery owners”。题干 did not have any ... who were artists 改写该信息，故填 friends。",
+      "evidenceLocation": {"passage": 1, "section": "Question 7"}
+    },
+    "8": {
+      "answer": "TRUE",
+      "evidence": "原文明示宗教家庭教育使她们形成强烈社会责任感，并选择把遗产用于文化与慈善目的；childhood/upbringing、wealth/inheritance 构成对应，陈述为 TRUE。",
+      "evidenceLocation": {"passage": 1, "section": "Question 8"}
+    },
+    "9": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文只说藏品包括法国画家 Corot 的作品，没有说明这些作品的购买地点或卖方；French artist 不能推出 from a gallery in France，因此为 NOT GIVEN。",
+      "evidenceLocation": {"passage": 1, "section": "Question 9"}
+    },
+    "10": {
+      "answer": "FALSE",
+      "evidence": "原文称 Hugh Blaker 是 contemporary French art 的 “champion”，且 “had a hand in the decision”；这与题干 opposed 方向相反，因此为 FALSE。",
+      "evidenceLocation": {"passage": 1, "section": "Question 10"}
+    },
+    "11": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文只说这些 Cézanne 作品首次在英国公共美术馆展出，没有观众数量、评价或受欢迎程度；public gallery 不等于 popular with the public。",
+      "evidenceLocation": {"passage": 1, "section": "Question 11"}
+    },
+    "12": {
+      "answer": "TRUE",
+      "evidence": "原文说战争造成的贫困和社会动荡使 Gwendoline 对继续购画越来越不安；随后她转向社会公益并最终停止购买，支持 reconsider her interest。",
+      "evidenceLocation": {"passage": 1, "section": "Question 12"}
+    },
+    "13": {
+      "answer": "TRUE",
+      "evidence": "原文为 “The sisters collected French Impressionist paintings at a time when such art was routinely ignored by individuals and institutions alike.” 与 very few people were doing so 一致。",
+      "evidenceLocation": {"passage": 1, "section": "Question 13"}
+    },
+    "14": {
+      "answer": "C",
+      "evidence": "C 节列举安静公交车、道路降噪、控制飞机噪声、降噪路面、绿化、吹叶机禁令和车辆改装罚款，正是多个 strategies to decrease the noise。",
+      "evidenceLocation": {"passage": 2, "section": "Question 14"}
+    },
+    "15": {
+      "answer": "B",
+      "evidence": "B 节给出夜间建议值 40 decibels，以及欧洲至少每五人中一人暴露于有害噪声的数据；这些数值量化了 problem 的 extent。",
+      "evidenceLocation": {"passage": 2, "section": "Question 15"}
+    },
+    "16": {
+      "answer": "A",
+      "evidence": "A 节写到意外噪声使体内化学状态改变、血压升高、肌肉绷紧、腺体释放激素，完整对应 sudden noises 引起 physiological changes。",
+      "evidenceLocation": {"passage": 2, "section": "Question 16"}
+    },
+    "17": {
+      "answer": "G",
+      "evidence": "G 节研究发现，参与者坐在户外花园时，比坐在完全无声房间里报告更多放松和更少无聊；relatively quiet 与 totally silent 的比较在此出现。",
+      "evidenceLocation": {"passage": 2, "section": "Question 17"}
+    },
+    "18": {
+      "answer": "breath",
+      "evidence": "D 节第 22 句为 “focus on the breath”，题干 concentrate on 同义替换 focus on，并说明这有助于进入 relaxed or meditative state。",
+      "evidenceLocation": {"passage": 2, "section": "Question 18"}
+    },
+    "19": {
+      "answer": "questionnaire",
+      "evidence": "E 节第 23 句说参与者在漂浮前后 “answer a questionnaire”。题干 were given ... to complete 把主动结构改为被动结构。",
+      "evidenceLocation": {"passage": 2, "section": "Question 19"}
+    },
+    "20": {
+      "answer": "wellbeing",
+      "evidence": "E 节第 24 句的 “overall wellbeing” 被摘要改写为 general wellbeing；an increase in 被转述为 improved。",
+      "evidenceLocation": {"passage": 2, "section": "Question 20"}
+    },
+    "21": {
+      "answer": "depression",
+      "evidence": "E 节第 28 句说默认模式网络中的脑区 “commonly linked with depression”；摘要用 parts of the brain associated with 改写。",
+      "evidenceLocation": {"passage": 2, "section": "Question 21"}
+    },
+    "22": {
+      "answer": "C",
+      "evidence": "F 节 Tal Dotan Ben-Soussan 说 “When people do not want silence, it can be very distressing.” against their will 对应 do not want，unpleasant and upsetting 对应 distressing。",
+      "evidenceLocation": {"passage": 2, "section": "Question 22"}
+    },
+    "23": {
+      "answer": "A",
+      "evidence": "C 节 Nick Antonio 说 “I expect we will see much more of this in the future.” is likely to increase 对应 expect ... much more，in the coming years 对应 in the future。",
+      "evidenceLocation": {"passage": 2, "section": "Question 23"}
+    },
+    "24": {
+      "answer": "B",
+      "evidence": "D 节 Justin Feinstein 先提到视觉效应和嗡鸣声，再解释外部感官刺激缺失时 “the brain tries to fill the void”，对应大脑以图像和声音幻觉补偿输入缺失。",
+      "evidenceLocation": {"passage": 2, "section": "Question 24"}
+    },
+    "25": {
+      "answer": "D",
+      "evidence": "G 节 Eric Pfeifer 强调不必数小时保持安静，每次 “a few minutes at a time” 且更频繁地获得安静就能 “make a big difference”。",
+      "evidenceLocation": {"passage": 2, "section": "Question 25"}
+    },
+    "26": {
+      "answer": "C",
+      "evidence": "F 节 Tal Dotan Ben-Soussan 说环境与内心安静使人 “more aware of what is happening around us”，从而提供更合适的回应，完整对应题干链条。",
+      "evidenceLocation": {"passage": 2, "section": "Question 26"}
+    },
+    "27": {
+      "answer": "B",
+      "evidence": "原文说甜菜糖获得大量补贴并以人为低价在世界市场销售，威胁蔗糖生产者生计；这支持评论者认为 beet sugar 对 cane sugar producers 不公平。",
+      "evidenceLocation": {"passage": 3, "section": "Question 27"}
+    },
+    "28": {
+      "answer": "A",
+      "evidence": "评论按时间追踪英国糖源：本国殖民种植园蔗糖、废奴后从古巴和巴西进口、19 世纪末欧洲大陆甜菜糖、20 世纪本国甜菜糖产业，体现 diverse origins。",
+      "evidenceLocation": {"passage": 3, "section": "Question 28"}
+    },
+    "29": {
+      "answer": "C",
+      "evidence": "原文为 “Contrary to popular belief, cane sugar production was never just restricted to large, dedicated plantations owned by rich men.” 明确纠正常见误解。",
+      "evidenceLocation": {"passage": 3, "section": "Question 29"}
+    },
+    "30": {
+      "answer": "A",
+      "evidence": "评论末尾说 “we could always have done without sugar” 且今天有多种替代甜味来源；前文还列举糖对牙齿、体重和肥胖的危害，支持该观点。",
+      "evidenceLocation": {"passage": 3, "section": "Question 30"}
+    },
+    "31": {
+      "answer": "H",
+      "evidence": "原文的 “imported labour” 由德国甜菜田中的波兰工人，以及美国糖业中的墨西哥人和西西里人具体化，对应 migrant workers。",
+      "evidenceLocation": {"passage": 3, "section": "Question 31"}
+    },
+    "32": {
+      "answer": "E",
+      "evidence": "原文为 “the continuity of the use of traditional methods on small farms”，且这种生产在 20 世纪中期主导南亚和拉丁美洲，对应 small-scale cultivation。",
+      "evidenceLocation": {"passage": 3, "section": "Question 32"}
+    },
+    "33": {
+      "answer": "I",
+      "evidence": "原文列出 “capitalists and sugar dynasties, as well as corporations” 以及 “Great firms and great interests”，对应 powerful individuals and businesses。",
+      "evidenceLocation": {"passage": 3, "section": "Question 33"}
+    },
+    "34": {
+      "answer": "A",
+      "evidence": "原文为 “Great firms and great interests have had profound influence on the policies of states.” states 对应 national governments。",
+      "evidenceLocation": {"passage": 3, "section": "Question 34"}
+    },
+    "35": {
+      "answer": "G",
+      "evidence": "原文说糖业利益 “were consequently protected by trade barriers and subsidies”，对应 financial controls。",
+      "evidenceLocation": {"passage": 3, "section": "Question 35"}
+    },
+    "36": {
+      "answer": "C",
+      "evidence": "原文为 “it was inevitably the poor countries which came off worse.”，对应 less wealthy nations。",
+      "evidenceLocation": {"passage": 3, "section": "Question 36"}
+    },
+    "37": {
+      "answer": "YES",
+      "evidence": "原文对比过去只能生产极少量糖与如今新技术、品种、肥料和灌溉系统使白糖无处不在，支持技术发展提高产量。",
+      "evidenceLocation": {"passage": 3, "section": "Question 37"}
+    },
+    "38": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文只说糖曾被视为奢侈品，后来被宣传为有价值的能量来源；没有说明把糖用于此目的是否源于对人类饮食需求的认识。",
+      "evidenceLocation": {"passage": 3, "section": "Question 38"}
+    },
+    "39": {
+      "answer": "NO",
+      "evidence": "作者把高果糖玉米糖浆称为 “worrying new developments in mass sweetening”，并说它被视为肥胖主因；这与题干的积极评价相反。",
+      "evidenceLocation": {"passage": 3, "section": "Question 39"}
+    },
+    "40": {
+      "answer": "YES",
+      "evidence": "原文为 “It is now widely consumed, having been adopted in the making of soft drinks and a large number of processed foods”，明确支持其广泛用于食品和饮料。",
+      "evidenceLocation": {"passage": 3, "section": "Question 40"}
+    }
+  }
+}

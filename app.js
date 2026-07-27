@@ -8,6 +8,7 @@
   const sourceLibrary = window.IELTS_SOURCE_LIBRARY;
   const cambridgeIndex = window.CAMBRIDGE_RESOURCE_INDEX || { books: [], summary: {} };
   const cambridgeTestBank = window.CAMBRIDGE_TEST_BANK || { tests: [], summary: {} };
+  const answerUtils = window.IELTS_ANSWER_UTILS;
   const generatedTests = Array.isArray(cambridgeTestBank.tests) ? cambridgeTestBank.tests : [];
 
   const defaultState = {
@@ -385,7 +386,9 @@
 
     for (const question of test.questions) {
       const userAnswer = session.answers[question.id] || "";
-      const isCorrect = normalize(userAnswer) === normalize(question.answer);
+      const isCorrect = answerUtils
+        ? answerUtils.answerMatches(question, userAnswer)
+        : normalize(userAnswer) === normalize(question.answer);
       if (isCorrect) {
         correct += 1;
       } else {

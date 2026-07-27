@@ -6,6 +6,9 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+from canonical_reading_answers import apply_canonical_reading_answers
+from canonical_reading_calibrations import apply_canonical_reading_calibrations
+
 
 BOOK_RE = re.compile(r"cambridge-ielts-(\d{2})\.pages\.json$", re.IGNORECASE)
 MODULES = ("listening", "reading", "writing")
@@ -614,6 +617,8 @@ def main() -> int:
         "summary": summary,
         "tests": all_tests,
     }
+    apply_canonical_reading_answers(payload, project_root)
+    apply_canonical_reading_calibrations(payload, project_root)
     safe_write_text(generated / "reports" / "cambridge-test-bank.json", json.dumps(payload, ensure_ascii=False, indent=2))
     safe_write_text(generated / "reports" / "cambridge-structured-debug.json", json.dumps(debug_items, ensure_ascii=False, indent=2))
     safe_write_text(data_dir / "cambridge-test-bank.js", "window.CAMBRIDGE_TEST_BANK = " + json.dumps(payload, ensure_ascii=False, indent=2) + ";\n")

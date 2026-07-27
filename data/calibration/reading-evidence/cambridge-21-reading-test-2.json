@@ -1,0 +1,210 @@
+{
+  "testId": "cambridge-21-reading-test-2",
+  "source": [
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-1-双语精读.md",
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-2-双语精读.md",
+    "data/generated/intensive-reading/cambridge-19-21/Cambridge-IELTS-21-Test-2-Passage-3-双语精读.md"
+  ],
+  "questions": {
+    "1": {
+      "answer": "rats",
+      "evidence": "原文说研究者比较 rats 清醒时跑迷宫与 REM 睡眠时的脑活动模式，随后说明两种模式十分相似，因此研究对象是 rats。",
+      "evidenceLocation": {"passage": 1, "section": "Question 1"}
+    },
+    "2": {
+      "answer": "visual",
+      "evidence": "原文为 “REM sleep activity was high in brain regions involved in processing visual information”，并特别提到与飞行有关的图像，对应 visual input。",
+      "evidenceLocation": {"passage": 1, "section": "Question 2"}
+    },
+    "3": {
+      "answer": "half",
+      "evidence": "原文说鲸和海豚睡眠时不会关闭整个大脑，而是 “only half of it, keeping the rest awake”，故填 half。",
+      "evidenceLocation": {"passage": 1, "section": "Question 3"}
+    },
+    "4": {
+      "answer": "temperature",
+      "evidence": "原文为 “during REM sleep animals are more vulnerable to extremes of temperature”，对应题干 sensitivity to temperature。",
+      "evidenceLocation": {"passage": 1, "section": "Question 4"}
+    },
+    "5": {
+      "answer": "vivid",
+      "evidence": "原文说鲸和海豚可能只经历非 REM 梦，而这种梦 “are less vivid”，所以其梦可能不太 vivid。",
+      "evidenceLocation": {"passage": 1, "section": "Question 5"}
+    },
+    "6": {
+      "answer": "TRUE",
+      "evidence": "原文明示 “when events are replayed in dreams, this helps to integrate memories into longer-term storage”，支持梦帮助长期记忆形成。",
+      "evidenceLocation": {"passage": 1, "section": "Question 6"}
+    },
+    "7": {
+      "answer": "FALSE",
+      "evidence": "原文说人们常把睡狗的动作解释为追兔子，但 “the truth is that we don’t know” 是否存在相应内在体验；题干把未知说成确定，故为 FALSE。",
+      "evidenceLocation": {"passage": 1, "section": "Question 7"}
+    },
+    "8": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文只说 Scheel 拍纪录片时把 Heidi 养在水箱中，随后另有关于 Costello 的报告；没有说明 Heidi 的视频影响了 Costello 研究。",
+      "evidenceLocation": {"passage": 1, "section": "Question 8"}
+    },
+    "9": {
+      "answer": "FALSE",
+      "evidence": "原文说 Costello “squirted ink as though he were being attacked by a predator”，即表现得像受到攻击，不是像在攻击另一只动物。",
+      "evidenceLocation": {"passage": 1, "section": "Question 9"}
+    },
+    "10": {
+      "answer": "TRUE",
+      "evidence": "Scheel 指出噩梦研究 “is only based on one animal”，并主张除外在行为外还需要 brain imaging，明确认为证据不足。",
+      "evidenceLocation": {"passage": 1, "section": "Question 10"}
+    },
+    "11": {
+      "answer": "FALSE",
+      "evidence": "原文为 “we will never be able to experience any animal’s dreams. That goes for other humans’ dreams too.”，明确否定直接体验他人梦境的可能。",
+      "evidenceLocation": {"passage": 1, "section": "Question 11"}
+    },
+    "12": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文举出人的 vision、狗的 smell 和蜘蛛依赖的 vibrations，没有谈狗的 hearing，无法判断听觉是否最重要。",
+      "evidenceLocation": {"passage": 1, "section": "Question 12"}
+    },
+    "13": {
+      "answer": "NOT GIVEN",
+      "evidence": "结尾只说更好理解动物做梦的多种作用可能帮助阐明人类做梦的真正目的，没有比较科学家过去与现在对此的关注程度。",
+      "evidenceLocation": {"passage": 1, "section": "Question 13"}
+    },
+    "14": {
+      "answer": "E",
+      "evidence": "E 段说 “The figures may have been used ... but their precise function is not known.”，uncertainty regarding the purpose 对应 precise function is not known。",
+      "evidenceLocation": {"passage": 2, "section": "Question 14", "paragraph": "E"}
+    },
+    "15": {
+      "answer": "G",
+      "evidence": "G 段说资源压力 “may have been brought to a crisis point by a series of droughts”；climatic factor 对应 droughts，increased the problems 对应 brought ... to a crisis point。",
+      "evidenceLocation": {"passage": 2, "section": "Question 15", "paragraph": "G"}
+    },
+    "16": {
+      "answer": "C",
+      "evidence": "C 段说较宏大的住宅位于 “around the outskirts of Babandyanalo”，并 “probably belonged to male relatives of the king”，给出了王室亲属推测居住的位置。",
+      "evidenceLocation": {"passage": 2, "section": "Question 16", "paragraph": "C"}
+    },
+    "17": {
+      "answer": "D",
+      "evidence": "D 段提到 “merchants travelling from India by sea”；people who brought goods 对应 merchants，by ship 对应 by sea。",
+      "evidenceLocation": {"passage": 2, "section": "Question 17", "paragraph": "D"}
+    },
+    "18": {
+      "answer": "B",
+      "evidence": "B 段说王国鼎盛期总人口 “was around 5,000 people”；estimate 对应近似词 around，community size 对应 total population at its peak。",
+      "evidenceLocation": {"passage": 2, "section": "Question 18", "paragraph": "B"}
+    },
+    "19": {
+      "answer": "A",
+      "evidence": "A 段说农业带来 “a surplus that could be traded for needed goods”；agricultural produce 对应 farming surplus，exchanged for 对应 traded for。",
+      "evidenceLocation": {"passage": 2, "section": "Question 19", "paragraph": "A"}
+    },
+    "20": {
+      "answer": "B/D",
+      "evidence": "B 的证据是金器 “found at the royal burial site”；D 的证据是这种黄金装饰方法 “found nowhere else except Great Zimbabwe”。两格合计必须选 B 和 D，顺序可互换。",
+      "evidenceLocation": {"passage": 2, "section": "Question 20", "paragraph": "F"}
+    },
+    "21": {
+      "answer": "B/D",
+      "evidence": "两项正确信息为 B 和 D：金器发现于王室墓葬地点，且相同装饰方法在另一王国 Great Zimbabwe 也使用。第 21 格填写两项中尚未用于第 20 格的一项。",
+      "evidenceLocation": {"passage": 2, "section": "Question 21", "paragraph": "F"}
+    },
+    "22": {
+      "answer": "prosperity",
+      "evidence": "E 段说大规模专业制陶 “is another indicator of the prosperity of Mapungubwe society”；题干 is indicated by 与 indicator of 词形互换。",
+      "evidenceLocation": {"passage": 2, "section": "Question 22", "paragraph": "E"}
+    },
+    "23": {
+      "answer": "whistles",
+      "evidence": "E 段为 “There are also ceramic discs, and whistles.” 摘要已用 round ceramic objects 改写 ceramic discs，另一并列项为 whistles。",
+      "evidenceLocation": {"passage": 2, "section": "Question 23", "paragraph": "E"}
+    },
+    "24": {
+      "answer": "bodies",
+      "evidence": "E 段为 “highly stylised humans with elongated bodies and short limbs”；models of people 对应 figures of humans，stretched 对应 elongated，故填 bodies。",
+      "evidenceLocation": {"passage": 2, "section": "Question 24", "paragraph": "E"}
+    },
+    "25": {
+      "answer": "ancestors",
+      "evidence": "E 段说小像可能在仪式中用作 “offerings to ancestors”；题干 to honour 概括献祭行为，接受祭献的对象是 ancestors。",
+      "evidenceLocation": {"passage": 2, "section": "Question 25", "paragraph": "E"}
+    },
+    "26": {
+      "answer": "jewellery/jewelry",
+      "evidence": "E 段为 “small jewellery items made from locally sourced copper”；a local metal 概括 locally sourced copper，物品类别是 jewellery，官方也接受 jewelry。",
+      "evidenceLocation": {"passage": 2, "section": "Question 26", "paragraph": "E"}
+    },
+    "27": {
+      "answer": "B",
+      "evidence": "开头用 “hysteria ... is everywhere”“sensationalist news” 和 “you might think” 描写舆论与公众印象，故 B 对应该段主旨。",
+      "evidenceLocation": {"passage": 3, "section": "Question 27"}
+    },
+    "28": {
+      "answer": "A",
+      "evidence": "作者说 AI solutionism 会 “jeopardise the value of machine intelligence”，忽视 AI 安全原则并制造不现实预期，故 A 概括其危害。",
+      "evidenceLocation": {"passage": 3, "section": "Question 28"}
+    },
+    "29": {
+      "answer": "C",
+      "evidence": "原文为 “they fail to realise the complexity around deploying advanced machine learning systems in the real world”，直接支持 C。",
+      "evidenceLocation": {"passage": 3, "section": "Question 29"}
+    },
+    "30": {
+      "answer": "F",
+      "evidence": "第 14 句说加入神经网络并不意味着政府体系会立即变得 “more inclusive or fair”；选项 F equality 对应 inclusive or fair。",
+      "evidenceLocation": {"passage": 3, "section": "Question 30"}
+    },
+    "31": {
+      "answer": "G",
+      "evidence": "第 15 句指出公共部门缺少适当的 “data infrastructure” 支撑机器学习；选项 G framework 概括这种基础体系。",
+      "evidenceLocation": {"passage": 3, "section": "Question 31"}
+    },
+    "32": {
+      "answer": "I",
+      "evidence": "第 18 句说各部门数据 “require special permissions to be accessed”；选项 I approval 对应 special permissions。",
+      "evidenceLocation": {"passage": 3, "section": "Question 32"}
+    },
+    "33": {
+      "answer": "C",
+      "evidence": "第 19 句指出公共部门缺少具有适当 “technological capabilities” 的人才；选项 C skills 对应 capabilities。",
+      "evidenceLocation": {"passage": 3, "section": "Question 33"}
+    },
+    "34": {
+      "answer": "A",
+      "evidence": "医疗案例中，即使系统旨在提供最佳建议，人类专家仍 “found it hard to trust the machine”；选项 A reliability 对应信任问题。",
+      "evidenceLocation": {"passage": 3, "section": "Question 34"}
+    },
+    "35": {
+      "answer": "D",
+      "evidence": "司法案例说该系统会 “amplify structural racial discrimination”；选项 D prejudices 对应 racial discrimination。",
+      "evidenceLocation": {"passage": 3, "section": "Question 35"}
+    },
+    "36": {
+      "answer": "NO",
+      "evidence": "作者把 Rodney Brooks 的主张称为 “a more sensible and realistic approach”，即更明智且现实，并非题干所称不现实，因此为 NO。",
+      "evidenceLocation": {"passage": 3, "section": "Question 36"}
+    },
+    "37": {
+      "answer": "NOT GIVEN",
+      "evidence": "原文只呈现 Brooks 的观点：机器人与 AI 创新实现广泛部署所需时间远超人们想象；没有说明他是否低估公众对 AI 的兴趣。",
+      "evidenceLocation": {"passage": 3, "section": "Question 37"}
+    },
+    "38": {
+      "answer": "NO",
+      "evidence": "原文明示 “AI security remains an often overlooked topic when machine learning systems are installed”，与题干称安全受到足够重视相反。",
+      "evidenceLocation": {"passage": 3, "section": "Question 38"}
+    },
+    "39": {
+      "answer": "YES",
+      "evidence": "作者先提出 “reap the benefits and minimise the potential harms”，随后说需讨论 AI ethics 以及公众对机器学习的 distrust，支持公开讨论利弊与不信任。",
+      "evidenceLocation": {"passage": 3, "section": "Question 39"}
+    },
+    "40": {
+      "answer": "B",
+      "evidence": "第二段批评 AI solutionism，医疗和司法案例展示 AI 的失败与风险，结尾明确说 “there is no AI solution for everything” 和 “not every issue is best addressed” by AI，故 B 最准确。",
+      "evidenceLocation": {"passage": 3, "section": "Question 40"}
+    }
+  }
+}
