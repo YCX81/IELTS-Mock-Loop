@@ -3,6 +3,7 @@ const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const path = require("node:path");
 const vm = require("node:vm");
+const reviewUtils = require("../review-utils.js");
 
 const APP_SOURCE = fs.readFileSync(path.join(__dirname, "..", "app.js"), "utf8");
 const STORAGE_KEY = "ieltsMockLoopState.v1";
@@ -110,6 +111,7 @@ function boot(savedState = initialState()) {
     IELTS_SOURCE_LIBRARY: [],
     CAMBRIDGE_RESOURCE_INDEX: { books: [], summary: {} },
     CAMBRIDGE_TEST_BANK: { tests: [seedReading], summary: {} },
+    IELTS_REVIEW_UTILS: reviewUtils,
     addEventListener(type, handler) {
       windowListeners.set(type, handler);
     }
@@ -163,6 +165,16 @@ function boot(savedState = initialState()) {
       };
       documentListeners.get("click")({ target });
     },
+    input(action, dataset = {}, value = "") {
+      const target = {
+        dataset: { action, ...dataset },
+        value,
+        matches(selector) {
+          return selector === "[data-action]";
+        }
+      };
+      documentListeners.get("input")({ target });
+    },
     pagehide() {
       const handler = windowListeners.get("pagehide");
       assert.ok(handler, "pagehide should force a final save");
@@ -199,4 +211,37 @@ test("starting another module cannot overwrite an unfinished draft", () => {
   assert.equal(harness.saved().session.id, "draft-1");
   assert.equal(harness.saved().session.mode, "reading");
   assert.equal(harness.saved().view, "practice");
+});
+
+test("finishing reading creates a durable review card and one automatic Anki candidate", () => {
+  const harness = boot();
+  harness.click("finish-session");
+  harness.click("confirm-finish-session");
+
+  const completed = harness.saved();
+  assert.equal(completed.errors.length, 1);
+  assert.equal(completed.history[0].errors.length, 1);
+  assert.equal(completed.anki.length, 1);
+  assert.equal(completed.errors[0].prompt, "Statement");
+  assert.equal(completed.errors[0].errorType, "判断题证据边界");
+  assert.deepEqual(completed.errors[0].reviewSchedule.map((entry) => entry.day), [1, 3, 7]);
+  assert.match(harness.app.innerHTML, /data-review-errors/);
+  assert.match(harness.app.innerHTML, /data-question-prompt/);
+  assert.match(harness.app.innerHTML, /已自动加入 Anki/);
+
+  const errorId = completed.errors[0].id;
+  harness.input("error-field", { errorId, field: "learnerDiagnosis" }, "把 FALSE 当成了 NOT GIVEN。");
+  harness.click("mark-error-review", { errorId, reviewStage: "1" });
+  const edited = harness.saved();
+  assert.equal(edited.errors[0].learnerDiagnosis, "把 FALSE 当成了 NOT GIVEN。");
+  assert.equal(edited.history[0].errors[0].learnerDiagnosis, "把 FALSE 当成了 NOT GIVEN。");
+  assert.ok(edited.errors[0].reviewSchedule[0].completedAt);
+  assert.ok(edited.history[0].errors[0].reviewSchedule[0].completedAt);
+
+  const reloaded = boot(edited);
+  reloaded.input("error-field", { errorId, field: "learnerDiagnosis" }, "刷新后继续修改。");
+  reloaded.click("add-error-anki", { errorId });
+  assert.equal(reloaded.saved().errors[0].learnerDiagnosis, "刷新后继续修改。");
+  assert.equal(reloaded.saved().history[0].errors[0].learnerDiagnosis, "刷新后继续修改。");
+  assert.equal(reloaded.saved().anki.length, 1);
 });

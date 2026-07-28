@@ -1,5 +1,5 @@
 const assert = require("assert");
-const { answerMatches, acceptedAnswerVariants } = require("../answer-utils.js");
+const { answerMatches, answerMatchesInContext, acceptedAnswerVariants } = require("../answer-utils.js");
 
 assert(answerMatches({ answer: "NOT GIVEN" }, "not   given"));
 assert(answerMatches({ answer: "colour", acceptedAnswers: ["colour", "color"] }, "color"));
@@ -18,5 +18,15 @@ const variants = acceptedAnswerVariants({
 assert(variants.includes("harbour"));
 assert(variants.includes("harbor"));
 assert(variants.includes("the harbour"));
+
+const pairedQuestions = [
+  { id: "R23", number: 23, answer: "B", acceptedAnswers: ["B"], acceptedAnswerMode: "paired_blanks_in_either_order", pairedWith: 24 },
+  { id: "R24", number: 24, answer: "C", acceptedAnswers: ["C"], acceptedAnswerMode: "paired_blanks_in_either_order", pairedWith: 23 },
+];
+assert(answerMatchesInContext(pairedQuestions[0], "C", pairedQuestions, { R23: "C", R24: "B" }));
+assert(answerMatchesInContext(pairedQuestions[1], "B", pairedQuestions, { R23: "C", R24: "B" }));
+assert(answerMatchesInContext(pairedQuestions[0], "B", pairedQuestions, { R23: "B", R24: "B" }));
+assert(!answerMatchesInContext(pairedQuestions[1], "B", pairedQuestions, { R23: "B", R24: "B" }));
+assert(!answerMatchesInContext(pairedQuestions[1], "D", pairedQuestions, { R23: "B", R24: "D" }));
 
 console.log("PASS: official alternative and optional-word answer variants are accepted.");

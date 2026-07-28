@@ -9,6 +9,7 @@
   const cambridgeIndex = window.CAMBRIDGE_RESOURCE_INDEX || { books: [], summary: {} };
   const cambridgeTestBank = window.CAMBRIDGE_TEST_BANK || { tests: [], summary: {} };
   const answerUtils = window.IELTS_ANSWER_UTILS;
+  const reviewUtils = window.IELTS_REVIEW_UTILS;
   const generatedTests = Array.isArray(cambridgeTestBank.tests) ? cambridgeTestBank.tests : [];
 
   const defaultState = {
@@ -191,6 +192,11 @@
   function formatDate(value) {
     if (!value) return "";
     return new Date(value).toLocaleString("zh-CN", { hour12: false });
+  }
+
+  function formatCalendarDate(value) {
+    if (!value) return "";
+    return new Date(value).toLocaleDateString("zh-CN");
   }
 
   function formatTime(total) {
@@ -387,34 +393,75 @@
     for (const question of test.questions) {
       const userAnswer = session.answers[question.id] || "";
       const isCorrect = answerUtils
-        ? answerUtils.answerMatches(question, userAnswer)
+        ? answerUtils.answerMatchesInContext
+          ? answerUtils.answerMatchesInContext(question, userAnswer, test.questions, session.answers)
+          : answerUtils.answerMatches(question, userAnswer)
         : normalize(userAnswer) === normalize(question.answer);
       if (isCorrect) {
         correct += 1;
       } else {
-        const rootCause = inferReadingRootCause(question, userAnswer);
-        errors.push({
-          id: uid("err"),
-          createdAt: new Date().toISOString(),
+        const createdAt = new Date().toISOString();
+        const errorId = uid("err");
+        const reviewCard = reviewUtils
+          ? reviewUtils.buildReadingReviewCard(question, userAnswer, {
+              testId: test.id,
+              source: test.title,
+              createdAt
+            })
+          : {
+              number: question.number,
+              prompt: question.prompt || `Q${question.number}`,
+              userAnswer,
+              correctAnswer: question.answer,
+              errorType: inferReadingRootCause(question, userAnswer),
+              evidence: question.evidence,
+              evidenceLocation: "",
+              evidenceSentenceIds: [],
+              synonymSubstitutions: [],
+              distractorAnalysis: [],
+              learnerDiagnosis: "",
+              nextAction: "把题干表达和原文证据各抄一遍，标出同义替换。",
+              reviewSchedule: []
+            };
+        const error = {
+          id: errorId,
+          createdAt,
           mode: "reading",
           source: test.title,
           question: `Q${question.number}`,
-          userAnswer,
-          correctAnswer: question.answer,
-          errorType: rootCause,
-          evidence: question.evidence,
-          nextAction: "把题干表达和原文证据各抄一遍，标出同义替换。"
+          questionKey: reviewCard.questionKey || `${test.id}:Q${question.number}`,
+          prompt: reviewCard.prompt,
+          userAnswer: reviewCard.userAnswer,
+          correctAnswer: reviewCard.correctAnswer,
+          errorType: reviewCard.errorType,
+          evidence: reviewCard.evidence,
+          evidenceLocation: reviewCard.evidenceLocation,
+          evidenceSentenceIds: reviewCard.evidenceSentenceIds || [],
+          synonymSubstitutions: reviewCard.synonymSubstitutions || [],
+          distractorAnalysis: reviewCard.distractorAnalysis || [],
+          learnerDiagnosis: "",
+          nextAction: reviewCard.nextAction,
+          reviewSchedule: reviewCard.reviewSchedule || []
+        };
+        const candidate = reviewUtils
+          ? reviewUtils.buildReviewAnkiCandidate({ ...reviewCard, source: test.title })
+          : {
+              front: `${error.question}：${error.prompt}`,
+              back: `正确答案：${error.correctAnswer}\n证据：${error.evidence}`,
+              tags: "ielts reading wrong-answer",
+              source: test.title
+            };
+        const ankiId = uid("anki");
+        anki.push({
+          id: ankiId,
+          createdAt,
+          ...candidate,
+          errorId,
+          dedupeKey: `error:${errorId}`
         });
-        if (question.card) {
-          anki.push({
-            id: uid("anki"),
-            createdAt: new Date().toISOString(),
-            front: question.card.front,
-            back: `${question.card.back}\n错题：Q${question.number}；正确答案：${question.answer}；证据：${question.evidence}`,
-            tags: question.card.tags,
-            source: test.title
-          });
-        }
+        error.ankiId = ankiId;
+        error.ankiGeneratedAt = createdAt;
+        errors.push(error);
       }
     }
 
@@ -1568,7 +1615,7 @@
   function renderReview() {
     return `
       <section class="review-grid">
-        <div class="panel">
+        <aside class="panel">
           <div class="review-header">
             <div>
               <h2>练习记录</h2>
@@ -1583,11 +1630,20 @@
           <div class="review-list">
             ${state.history.length ? state.history.map(renderHistoryItem).join("") : `<div class="empty-state">还没有练习记录。先从阅读迷你测试开始。</div>`}
           </div>
-        </div>
-        <aside class="panel">
-          <h2>错题日志</h2>
-          ${renderErrorTable()}
         </aside>
+        <div class="panel">
+          <div class="review-header">
+            <div>
+              <h2>错题复盘卡片</h2>
+              <p class="panel-subtitle">先确认原文证据，再写下自己的真实错因；系统已自动生成 Anki 候选。</p>
+            </div>
+          </div>
+          ${renderErrorReview()}
+          <details class="error-log-details">
+            <summary>查看紧凑错题日志</summary>
+            ${renderErrorTable()}
+          </details>
+        </div>
       </section>
     `;
   }
@@ -1644,6 +1700,84 @@
     return true;
   }
 
+  function findErrorCopies(errorId) {
+    const copies = [];
+    const seen = new Set();
+    const addCopy = (entry) => {
+      if (entry?.id === errorId && !seen.has(entry)) {
+        seen.add(entry);
+        copies.push(entry);
+      }
+    };
+    state.errors.forEach(addCopy);
+    state.history.forEach((historyItem) => {
+      (historyItem.errors || []).forEach(addCopy);
+    });
+    return copies;
+  }
+
+  function updateErrorField(target) {
+    const field = target.dataset.field;
+    if (field !== "learnerDiagnosis") return false;
+    const copies = findErrorCopies(target.dataset.errorId);
+    if (!copies.length) return false;
+    copies.forEach((entry) => {
+      entry[field] = target.value;
+    });
+    saveState();
+    return true;
+  }
+
+  function addErrorAnki(errorId) {
+    const error = state.errors.find((entry) => entry.id === errorId);
+    if (!error) return;
+    const dedupeKey = `error:${error.id}`;
+    const existing = state.anki.find((entry) => entry.dedupeKey === dedupeKey || entry.errorId === error.id);
+    if (existing) {
+      findErrorCopies(error.id).forEach((entry) => {
+        entry.ankiId = existing.id;
+        entry.ankiGeneratedAt = existing.createdAt;
+      });
+      saveState();
+      render();
+      return;
+    }
+    const candidate = reviewUtils
+      ? reviewUtils.buildReviewAnkiCandidate(error)
+      : {
+          front: `${error.question}：${error.prompt || ""}`,
+          back: `正确答案：${error.correctAnswer || "—"}\n原文证据：${error.evidence || "—"}`,
+          tags: "ielts reading wrong-answer",
+          source: error.source
+        };
+    const createdAt = new Date().toISOString();
+    const anki = { id: uid("anki"), createdAt, ...candidate, errorId: error.id, dedupeKey };
+    state.anki.unshift(anki);
+    findErrorCopies(error.id).forEach((entry) => {
+      entry.ankiId = anki.id;
+      entry.ankiGeneratedAt = createdAt;
+    });
+    saveState();
+    render();
+  }
+
+  function markErrorReview(errorId, day) {
+    const completedAt = new Date().toISOString();
+    let changed = false;
+    findErrorCopies(errorId).forEach((entry) => {
+      const schedule = Array.isArray(entry.reviewSchedule) ? entry.reviewSchedule : [];
+      const stage = schedule.find((candidate) => Number(candidate.day) === Number(day));
+      if (stage) {
+        stage.completedAt = stage.completedAt ? "" : completedAt;
+        changed = true;
+      }
+    });
+    if (changed) {
+      saveState();
+      render();
+    }
+  }
+
   function addHistoryAnki(historyId) {
     const item = state.history.find((entry) => entry.id === historyId);
     if (!item || item.ankiGeneratedAt) return;
@@ -1660,6 +1794,108 @@
     item.ankiGeneratedAt = new Date().toISOString();
     saveState();
     render();
+  }
+
+  function renderOptionalReviewList(title, items, dataAttribute) {
+    if (!Array.isArray(items) || !items.length) return "";
+    return `
+      <section class="mistake-card__section" ${dataAttribute}>
+        <h4>${title}</h4>
+        <ul>${items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+      </section>
+    `;
+  }
+
+  function renderReviewSchedule(item) {
+    if (!Array.isArray(item.reviewSchedule) || !item.reviewSchedule.length) return "";
+    return `
+      <div class="review-schedule" aria-label="间隔复习计划">
+        ${item.reviewSchedule
+          .map((stage) => {
+            const completed = Boolean(stage.completedAt);
+            return `
+              <button
+                type="button"
+                class="review-stage ${completed ? "is-complete" : ""}"
+                data-action="mark-error-review"
+                data-error-id="${escapeHtml(item.id)}"
+                data-review-stage="${escapeHtml(stage.day)}"
+                aria-pressed="${completed}"
+              >
+                ${completed ? "✓ " : ""}${escapeHtml(stage.label || `第${stage.day}天`)}
+                <span data-review-due-date>${formatCalendarDate(stage.dueAt)}</span>
+              </button>
+            `;
+          })
+          .join("")}
+      </div>
+    `;
+  }
+
+  function renderErrorReview() {
+    if (!state.errors.length) return `<div class="empty-state">暂无错题。提交阅读练习后会自动生成复盘卡片。</div>`;
+    return `
+      <div class="mistake-review" data-review-errors>
+        ${state.errors
+          .slice(0, 30)
+          .map((item) => {
+            const sentenceIds = Array.isArray(item.evidenceSentenceIds) ? item.evidenceSentenceIds : [];
+            const ankiReady = Boolean(item.ankiGeneratedAt || state.anki.some((entry) => entry.errorId === item.id));
+            return `
+              <article class="mistake-card" data-error-id="${escapeHtml(item.id)}">
+                <div class="mistake-card__header">
+                  <div>
+                    <span class="tag">${escapeHtml(item.question || "Reading")}</span>
+                    <h3 data-question-prompt>${escapeHtml(item.prompt || item.question || "题目内容未保存")}</h3>
+                  </div>
+                  <span class="mistake-type">${escapeHtml(item.errorType || "待诊断")}</span>
+                </div>
+                <div class="mistake-answer-grid">
+                  <div class="answer-comparison is-user">
+                    <span>你的答案</span>
+                    <strong data-user-answer>${escapeHtml(item.userAnswer || "未作答")}</strong>
+                  </div>
+                  <div class="answer-comparison is-correct">
+                    <span>正确答案</span>
+                    <strong data-correct-answer>${escapeHtml(item.correctAnswer || "—")}</strong>
+                  </div>
+                </div>
+                ${
+                  item.evidence || sentenceIds.length
+                    ? `
+                      <blockquote class="evidence-block" data-evidence>
+                        ${item.evidence ? escapeHtml(item.evidence) : `证据句 ID：${escapeHtml(sentenceIds.join("、"))}`}
+                        ${item.evidenceLocation ? `<cite data-evidence-location>${escapeHtml(item.evidenceLocation)}</cite>` : ""}
+                      </blockquote>
+                    `
+                    : ""
+                }
+                ${renderOptionalReviewList("同义替换", item.synonymSubstitutions, "data-synonyms")}
+                ${renderOptionalReviewList("干扰项为什么不成立", item.distractorAnalysis, "data-distractors")}
+                <label class="learner-diagnosis">
+                  <span>我的真实错因</span>
+                  <textarea
+                    rows="3"
+                    data-action="error-field"
+                    data-error-id="${escapeHtml(item.id)}"
+                    data-field="learnerDiagnosis"
+                    placeholder="例如：只看到关键词就选了，没有核对因果关系。"
+                  >${escapeHtml(item.learnerDiagnosis || "")}</textarea>
+                </label>
+                <p class="next-action"><strong>下一步：</strong>${escapeHtml(item.nextAction || defaultReviewNextAction(item.mode))}</p>
+                ${renderReviewSchedule(item)}
+                <div class="mistake-card__footer">
+                  <button type="button" class="ghost-button" data-action="add-error-anki" data-error-id="${escapeHtml(item.id)}" ${ankiReady ? "disabled" : ""}>
+                    ${ankiReady ? "已自动加入 Anki" : "加入 Anki 候选"}
+                  </button>
+                  <span class="panel-subtitle">${formatDate(item.createdAt)} · ${escapeHtml(item.source || "")}</span>
+                </div>
+              </article>
+            `;
+          })
+          .join("")}
+      </div>
+    `;
   }
 
   function renderErrorTable() {
@@ -1969,7 +2205,8 @@
       ...rows.map((row) =>
         fields
           .map((field) => {
-            const value = String(row[field] ?? "").replaceAll('"', '""');
+            const rawValue = row[field];
+            const value = String(rawValue && typeof rawValue === "object" ? JSON.stringify(rawValue) : rawValue ?? "").replaceAll('"', '""');
             return `"${value}"`;
           })
           .join(",")
@@ -2006,6 +2243,10 @@
   function handleInput(target) {
     if (target.dataset.action === "history-field") {
       updateHistoryField(target);
+      return;
+    }
+    if (target.dataset.action === "error-field") {
+      updateErrorField(target);
       return;
     }
     if (!state.session) return;
@@ -2151,8 +2392,10 @@
       render();
     }
     if (action === "add-history-anki") addHistoryAnki(target.dataset.historyId);
+    if (action === "add-error-anki") addErrorAnki(target.dataset.errorId);
+    if (action === "mark-error-review") markErrorReview(target.dataset.errorId, target.dataset.reviewStage);
     if (action === "export-errors") {
-      exportCsv(state.errors, "ielts-error-log.csv", ["createdAt", "mode", "source", "question", "userAnswer", "correctAnswer", "errorType", "evidence", "nextAction"]);
+      exportCsv(state.errors, "ielts-error-log.csv", ["createdAt", "mode", "source", "question", "prompt", "userAnswer", "correctAnswer", "errorType", "evidence", "evidenceLocation", "synonymSubstitutions", "distractorAnalysis", "learnerDiagnosis", "nextAction", "reviewSchedule"]);
     }
     if (action === "export-anki") {
       exportCsv(state.anki, "ielts-anki-candidates.csv", ["front", "back", "tags", "source", "createdAt"]);

@@ -62,9 +62,41 @@
     return Boolean(normalizedUserAnswer) && acceptedAnswerVariants(question).includes(normalizedUserAnswer);
   }
 
+  function submittedAnswer(question, answers) {
+    if (!question || !answers) return "";
+    const keys = [question.id, `Q${question.number}`, `R${question.number}`, String(question.number)].filter(Boolean);
+    const key = keys.find((candidate) => Object.prototype.hasOwnProperty.call(answers, candidate));
+    return key ? answers[key] : "";
+  }
+
+  function answerMatchesInContext(question, userAnswer, questions = [], answers = {}) {
+    if (question?.acceptedAnswerMode !== "paired_blanks_in_either_order" || !question?.pairedWith) {
+      return answerMatches(question, userAnswer);
+    }
+    const partner = questions.find((candidate) => Number(candidate.number) === Number(question.pairedWith));
+    if (!partner) return answerMatches(question, userAnswer);
+
+    const group = [question, partner].sort((a, b) => Number(a.number) - Number(b.number));
+    const officialGroups = group.map(acceptedAnswerVariants);
+    const normalizedUserAnswer = normalizeAnswer(userAnswer);
+    const matchedGroup = officialGroups.findIndex((variants) => variants.includes(normalizedUserAnswer));
+    if (matchedGroup < 0) return false;
+
+    const currentIndex = group.findIndex((candidate) => candidate === question || Number(candidate.number) === Number(question.number));
+    const matchedBeforeOrAt = group.slice(0, currentIndex + 1).filter((candidate) => {
+      const submitted = normalizeAnswer(submittedAnswer(candidate, answers));
+      return officialGroups[matchedGroup].includes(submitted);
+    }).length;
+    const available = officialGroups.filter((variants) =>
+      variants.some((variant) => officialGroups[matchedGroup].includes(variant))
+    ).length;
+    return matchedBeforeOrAt <= available;
+  }
+
   return {
     normalizeAnswer,
     acceptedAnswerVariants,
     answerMatches,
+    answerMatchesInContext,
   };
 });
