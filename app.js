@@ -8,8 +8,11 @@
   const sourceLibrary = window.IELTS_SOURCE_LIBRARY;
   const cambridgeIndex = window.CAMBRIDGE_RESOURCE_INDEX || { books: [], summary: {} };
   const cambridgeTestBank = window.CAMBRIDGE_TEST_BANK || { tests: [], summary: {} };
+  const intensiveCatalog = window.IELTS_INTENSIVE_READING_CATALOG || { summary: {}, items: [] };
   const answerUtils = window.IELTS_ANSWER_UTILS;
   const reviewUtils = window.IELTS_REVIEW_UTILS;
+  const intensiveParser = window.IELTS_INTENSIVE_READING_PARSER;
+  const intensiveUtils = window.IELTS_INTENSIVE_READING_UTILS;
   const generatedTests = Array.isArray(cambridgeTestBank.tests) ? cambridgeTestBank.tests : [];
 
   const defaultState = {
@@ -30,6 +33,16 @@
       speaking: "speaking-daily-cue"
     },
     importMessage: "",
+    intensiveReading: {
+      selectedId: "",
+      bookFilter: "all",
+      search: "",
+      displayMode: "english",
+      level: "B1-B2",
+      progressById: {},
+      expressions: [],
+      draftsById: {}
+    },
     settings: {
       targetBand: "7.0",
       examDate: ""
@@ -41,6 +54,9 @@
   let mediaRecorder = null;
   let recordedChunks = [];
   let saveError = "";
+  let intensiveDocument = null;
+  let intensiveLoadingId = "";
+  let intensiveLoadError = "";
 
   const sampleImportJson = JSON.stringify(
     {
@@ -137,6 +153,20 @@
     nextState.anki = Array.isArray(nextState.anki) ? nextState.anki : [];
     nextState.importMessage = nextState.importMessage || "";
     nextState.lastSavedAt = nextState.lastSavedAt || "";
+    const intensiveReading = nextState.intensiveReading || {};
+    nextState.intensiveReading = {
+      ...structuredClone(defaultState.intensiveReading),
+      ...intensiveReading,
+      progressById:
+        intensiveReading.progressById && typeof intensiveReading.progressById === "object"
+          ? intensiveReading.progressById
+          : {},
+      expressions: Array.isArray(intensiveReading.expressions) ? intensiveReading.expressions : [],
+      draftsById:
+        intensiveReading.draftsById && typeof intensiveReading.draftsById === "object"
+          ? intensiveReading.draftsById
+          : {}
+    };
     if (nextState.session) {
       nextState.session.answers = nextState.session.answers || {};
       nextState.session.flagged = nextState.session.flagged || {};
@@ -642,6 +672,8 @@
       app.innerHTML = renderDashboard();
     } else if (state.view === "practice") {
       app.innerHTML = renderPractice();
+    } else if (state.view === "intensive") {
+      app.innerHTML = renderIntensiveReading();
     } else if (state.view === "review") {
       app.innerHTML = renderReview();
     } else {
@@ -658,6 +690,7 @@
       : 0;
     const unresolved = state.errors.length;
     const cards = state.anki.length;
+    const intensiveDue = intensiveDueItems();
 
     return `
       <section class="dashboard-grid">
@@ -676,6 +709,7 @@
             <div class="metric"><span>近 7 天</span><strong>${lastSeven.length}</strong></div>
             <div class="metric"><span>阅读均分</span><strong>${readingAvg}%</strong></div>
             <div class="metric"><span>Anki 候选</span><strong>${cards}</strong></div>
+            <div class="metric"><span>精读待复习</span><strong>${intensiveDue.length}</strong></div>
           </div>
 
           <div class="focus-grid">
@@ -696,6 +730,7 @@
           <div class="empty-state">
             ${state.errors[0] ? escapeHtml(state.errors[0].nextAction) : "先做一轮阅读迷你测试；完成后检查错误类型是否集中在同义替换或 T/F/NG 证据边界。"}
           </div>
+          ${renderIntensiveDueQueue(intensiveDue.slice(0, 4))}
           <div class="source-list">
             ${sourceLibrary.slice(0, 3).map(renderSourceCard).join("")}
           </div>
@@ -1612,6 +1647,741 @@
     `;
   }
 
+  function intensiveCatalogItems() {
+    return Array.isArray(intensiveCatalog.items) ? intensiveCatalog.items : [];
+  }
+
+  function intensiveItemById(passageId) {
+    return intensiveCatalogItems().find((item) => item.id === passageId);
+  }
+
+  function fallbackIntensiveProgress(item) {
+    const now = new Date().toISOString();
+    return {
+      schemaVersion: 1,
+      passageId: item.id,
+      title: item.title || item.displayTitle,
+      stage: "pre-read",
+      createdAt: now,
+      stageHistory: [{ stage: "pre-read", startedAt: now, completedAt: "" }],
+      paragraphGists: {},
+      sentenceReveals: {},
+      savedExpressions: [],
+      outputs: { summary: "", retell: "", updatedAt: "" },
+      review: {
+        active: false,
+        dueAt: now,
+        mastery: "new",
+        attempts: [],
+        schedule: [0, 1, 3, 7].map((day) => ({
+          day,
+          label: day ? `第${day}天` : "今天",
+          dueAt: new Date(Date.now() + day * 86400000).toISOString()
+        }))
+      }
+    };
+  }
+
+  function normalizeIntensiveProgress(progress, item) {
+    if (intensiveUtils?.normalizePassageProgress) {
+      return intensiveUtils.normalizePassageProgress(progress, {
+        passageId: item.id,
+        title: item.title || item.displayTitle
+      });
+    }
+    return progress || fallbackIntensiveProgress(item);
+  }
+
+  function ensureIntensiveProgress(item) {
+    const current = state.intensiveReading.progressById[item.id];
+    const normalized = current
+      ? normalizeIntensiveProgress(current, item)
+      : intensiveUtils?.createPassageProgress
+        ? intensiveUtils.createPassageProgress(
+            { id: item.id, title: item.title || item.displayTitle },
+            { now: new Date().toISOString() }
+          )
+        : fallbackIntensiveProgress(item);
+    state.intensiveReading.progressById[item.id] = normalized;
+    if (!state.intensiveReading.draftsById[item.id]) {
+      state.intensiveReading.draftsById[item.id] = {
+        prediction: "",
+        reviewAnswers: {},
+        reviewReveals: {}
+      };
+    }
+    return normalized;
+  }
+
+  function intensiveDraft(passageId) {
+    return (
+      state.intensiveReading.draftsById[passageId] || {
+        prediction: "",
+        reviewAnswers: {},
+        reviewReveals: {}
+      }
+    );
+  }
+
+  function intensiveDueItems() {
+    const progresses = state.intensiveReading.progressById || {};
+    const due = intensiveUtils?.duePassageReviews
+      ? intensiveUtils.duePassageReviews(progresses, { asOf: new Date().toISOString() })
+      : Object.values(progresses).filter(
+          (progress) =>
+            progress?.review?.active &&
+            progress.review.dueAt &&
+            new Date(progress.review.dueAt).getTime() <= Date.now()
+        );
+    return due
+      .map((progress) => ({
+        progress,
+        item: intensiveItemById(progress.passageId)
+      }))
+      .filter((entry) => entry.item);
+  }
+
+  function renderIntensiveDueQueue(entries = intensiveDueItems()) {
+    if (!entries.length) return "";
+    return `
+      <section class="intensive-due-list" aria-label="今日精读复习">
+        <h3>今日精读复习</h3>
+        ${entries
+          .map(
+            ({ item, progress }) => `
+              <button type="button" class="intensive-due-item" data-action="open-intensive-passage" data-passage-id="${escapeHtml(item.id)}">
+                <span>${escapeHtml(item.displayTitle)}</span>
+                <strong>${escapeHtml(progress.review?.mastery || "learning")}</strong>
+              </button>
+            `
+          )
+          .join("")}
+      </section>
+    `;
+  }
+
+  function intensiveProgressMetrics() {
+    const progresses = Object.values(state.intensiveReading.progressById || {}).filter(Boolean);
+    const metrics = progresses.map((progress) =>
+      intensiveUtils?.passageMetrics
+        ? intensiveUtils.passageMetrics(progress, { asOf: new Date().toISOString() })
+        : {
+            stage: progress.stage,
+            reviewAttemptCount: progress.review?.attempts?.length || 0,
+            masteredReviewCount: (progress.review?.attempts || []).filter(
+              (attempt) => attempt.rating === "mastered"
+            ).length
+          }
+    );
+    const reviewAttempts = metrics.reduce((total, entry) => total + (entry.reviewAttemptCount || 0), 0);
+    const masteredAttempts = metrics.reduce((total, entry) => total + (entry.masteredReviewCount || 0), 0);
+    return {
+      started: progresses.length,
+      completed: metrics.filter((entry) => entry.stage === "review").length,
+      due: intensiveDueItems().length,
+      retention: reviewAttempts ? Math.round((masteredAttempts / reviewAttempts) * 100) : 0
+    };
+  }
+
+  function renderIntensiveProgressOverview() {
+    const metrics = intensiveProgressMetrics();
+    return `
+      <section class="intensive-progress-overview" aria-label="精读学习进度">
+        <div class="metrics-grid">
+          <div class="metric"><span>已开始</span><strong>${metrics.started}</strong></div>
+          <div class="metric"><span>完成闭环</span><strong>${metrics.completed}</strong></div>
+          <div class="metric"><span>今日待复习</span><strong>${metrics.due}</strong></div>
+          <div class="metric"><span>复习留存</span><strong>${metrics.retention}%</strong></div>
+        </div>
+      </section>
+    `;
+  }
+
+  function renderIntensiveExpressionBank() {
+    const expressions = state.intensiveReading.expressions || [];
+    return `
+      <section class="intensive-expression-bank">
+        <div class="panel-header">
+          <div>
+            <h3>个人表达库</h3>
+            <p class="panel-subtitle">从原句收藏，在摘要、复述和写作中主动迁移。</p>
+          </div>
+          ${
+            expressions.length
+              ? `<button type="button" class="ghost-button" data-action="export-intensive-expressions">导出 CSV</button>`
+              : ""
+          }
+        </div>
+        ${
+          expressions.length
+            ? `<div class="intensive-expression-list">
+                ${expressions
+                  .slice(0, 12)
+                  .map(
+                    (entry) => `
+                      <article>
+                        <strong>${escapeHtml(entry.text)}</strong>
+                        <span>${escapeHtml(entry.meaning || "暂无释义")}</span>
+                        <small>${escapeHtml(entry.source || entry.passageId || "")}</small>
+                      </article>
+                    `
+                  )
+                  .join("")}
+              </div>`
+            : `<p class="empty-state">精读时点击“收藏表达”，这里会形成你的可复用语言库。</p>`
+        }
+      </section>
+    `;
+  }
+
+  function filteredIntensiveItems() {
+    const bookFilter = state.intensiveReading.bookFilter;
+    const query = normalize(state.intensiveReading.search);
+    return intensiveCatalogItems().filter((item) => {
+      if (bookFilter !== "all" && String(item.book) !== String(bookFilter)) return false;
+      if (!query) return true;
+      return normalize(`${item.displayTitle} ${item.title} ${item.id}`).includes(query);
+    });
+  }
+
+  function renderIntensiveLibrary() {
+    const items = filteredIntensiveItems();
+    const books = [...new Set(intensiveCatalogItems().map((item) => item.book))].sort();
+    return `
+      <div class="intensive-library-header">
+        <div>
+          <h2>双语精读</h2>
+          <p class="panel-subtitle">216 篇唯一正式材料；旧版和恢复源保留审计，但不重复进入学习进度。</p>
+        </div>
+        <span class="tag">${items.length}/${intensiveCatalog.summary?.canonicalCount || 216}</span>
+      </div>
+      <div class="intensive-library-filters">
+        <label>
+          <span>Cambridge</span>
+          <select class="select-input" data-action="set-intensive-book">
+            <option value="all">04–21 全部</option>
+            ${books.map((book) => `<option value="${book}" ${String(book) === String(state.intensiveReading.bookFilter) ? "selected" : ""}>${book}</option>`).join("")}
+          </select>
+        </label>
+        <label>
+          <span>搜索篇目</span>
+          <div class="intensive-search-row">
+            <input class="text-input" data-action="intensive-search-field" value="${escapeHtml(state.intensiveReading.search)}" placeholder="Test、Passage 或标题" />
+            <button type="button" class="small-button" data-action="apply-intensive-filter">筛选</button>
+          </div>
+        </label>
+        <label>
+          <span>学习支架</span>
+          <select class="select-input" data-action="set-intensive-level">
+            ${["A2-B1", "B1-B2", "B2-C1"]
+              .map(
+                (level) =>
+                  `<option value="${level}" ${state.intensiveReading.level === level ? "selected" : ""}>${level}</option>`
+              )
+              .join("")}
+          </select>
+        </label>
+      </div>
+      <div class="intensive-catalog-list">
+        ${items
+          .slice(0, 48)
+          .map((item) => {
+            const progress = state.intensiveReading.progressById[item.id];
+            const metrics = progress && intensiveUtils?.passageMetrics
+              ? intensiveUtils.passageMetrics(progress, { asOf: new Date().toISOString() })
+              : null;
+            return `
+              <button type="button" class="intensive-catalog-item ${state.intensiveReading.selectedId === item.id ? "is-active" : ""}" data-action="open-intensive-passage" data-passage-id="${escapeHtml(item.id)}">
+                <span>${escapeHtml(item.displayTitle)}</span>
+                <small>${escapeHtml(item.title || "")}</small>
+                <span class="intensive-catalog-meta">
+                  ${progress ? `${escapeHtml(progress.stage)} · ${metrics?.stageProgressPercent || 0}%` : "未开始"}
+                  ${item.duplicate ? " · 已归并旧版本" : ""}
+                </span>
+              </button>
+            `;
+          })
+          .join("")}
+      </div>
+      ${items.length > 48 ? `<p class="panel-subtitle">当前显示前 48 篇；可按书号或标题缩小范围。</p>` : ""}
+    `;
+  }
+
+  function intensiveUnits() {
+    return Array.isArray(intensiveDocument?.units) ? intensiveDocument.units : [];
+  }
+
+  function unitRevealLayers(progress, unitId) {
+    return progress?.sentenceReveals?.[unitId]?.layers || [];
+  }
+
+  function renderIntensiveStageProgress(progress) {
+    const stages = intensiveUtils?.PASSAGE_STAGES || ["pre-read", "timed-read", "deep-read", "output", "review"];
+    const labels = {
+      "pre-read": "预读预测",
+      "timed-read": "限时通读",
+      "deep-read": "重点精读",
+      output: "输出迁移",
+      review: "间隔复习"
+    };
+    const activeIndex = Math.max(0, stages.indexOf(progress.stage));
+    return `
+      <ol class="intensive-stage-progress" aria-label="精读阶段">
+        ${stages
+          .map(
+            (stage, index) => `
+              <li class="${index < activeIndex ? "is-complete" : index === activeIndex ? "is-active" : ""}">
+                <span>${index < activeIndex ? "✓" : index + 1}</span>${labels[stage]}
+              </li>
+            `
+          )
+          .join("")}
+      </ol>
+    `;
+  }
+
+  function intensiveTimedReadMetrics(progress, item) {
+    const timedRead = (progress?.stageHistory || []).find((entry) => entry.stage === "timed-read");
+    if (!timedRead?.startedAt || !timedRead?.completedAt) return null;
+    const durationSec = Math.max(
+      1,
+      Math.round((new Date(timedRead.completedAt).getTime() - new Date(timedRead.startedAt).getTime()) / 1000)
+    );
+    const parsedWords = intensiveUnits().reduce((total, unit) => total + wordCount(unit.english), 0);
+    const words = Math.max(0, parsedWords || Number(item?.englishWordCount || 0));
+    return {
+      durationSec,
+      words,
+      sampleValid: durationSec >= 60,
+      wpm: words && durationSec >= 60 ? Math.round(words / (durationSec / 60)) : 0
+    };
+  }
+
+  function renderIntensiveTimedReadMetrics(progress, item) {
+    const metrics = intensiveTimedReadMetrics(progress, item);
+    if (!metrics) return "";
+    return `
+      <div class="intensive-reading-metrics" aria-label="限时通读结果">
+        <strong>${metrics.sampleValid ? `阅读速度 ${metrics.wpm} WPM` : "阅读速度 暂不计算"}</strong>
+        <span>${metrics.words} 词 · 用时 ${formatTime(metrics.durationSec)}${metrics.durationSec < 60 ? " · 少于 1 分钟，样本不足" : ""}</span>
+      </div>
+    `;
+  }
+
+  function renderIntensiveEnglishText() {
+    const units = intensiveUnits();
+    if (!units.length) return `<div class="empty-state">该版本暂未解析出逐句单元，可在“参考模式”查看标题与导语。</div>`;
+    return `
+      <div class="intensive-english-text">
+        ${units.map((unit, index) => `<p><span>句 ${index + 1}</span>${escapeHtml(unit.english)}</p>`).join("")}
+      </div>
+    `;
+  }
+
+  function renderIntensiveUnit(unit, progress, index) {
+    const displayMode = state.intensiveReading.displayMode;
+    const layers = unitRevealLayers(progress, unit.id);
+    const showTranslation = displayMode === "reference" || layers.includes("translation");
+    const showStructure = displayMode === "reference" || layers.includes("structure");
+    const saved = (progress.savedExpressions || []).some(
+      (entry) => normalize(entry.text) === normalize(unit.english)
+    );
+    return `
+      <article class="intensive-unit" data-unit-id="${escapeHtml(unit.id)}">
+        <div class="intensive-unit__heading">
+          <span>句 ${index + 1}</span>
+          <button type="button" class="small-button" data-action="save-intensive-expression" data-unit-id="${escapeHtml(unit.id)}" ${saved ? "disabled" : ""}>
+            ${saved ? "已收藏" : "收藏表达"}
+          </button>
+        </div>
+        <p class="intensive-english">${escapeHtml(unit.english)}</p>
+        ${
+          showTranslation
+            ? `<p class="intensive-chinese">${escapeHtml(unit.chinese || "暂无译文")}</p>`
+            : `<button type="button" class="ghost-button" data-action="reveal-intensive-unit" data-unit-id="${escapeHtml(unit.id)}" data-layer="translation">显示译文</button>`
+        }
+        ${
+          showStructure
+            ? `<div class="intensive-explanation">${escapeHtml(unit.explanation || "本句暂无结构讲解。")}</div>`
+            : showTranslation
+              ? `<button type="button" class="small-button" data-action="reveal-intensive-unit" data-unit-id="${escapeHtml(unit.id)}" data-layer="structure">显示讲解</button>`
+              : ""
+        }
+      </article>
+    `;
+  }
+
+  function renderParagraphGists(progress) {
+    const paragraphs = Array.isArray(intensiveDocument?.paragraphs) ? intensiveDocument.paragraphs : [];
+    if (!paragraphs.length) return "";
+    return `
+      <section class="intensive-gists">
+        <h3>段落主旨：先写再看精读</h3>
+        <p class="panel-subtitle">用自己的话写段落功能，避免只跟着中文译文走。</p>
+        ${paragraphs
+          .map(
+            (paragraph, index) => `
+              <label>
+                <span>${escapeHtml(paragraph.title || `第 ${index + 1} 段`)}</span>
+                <textarea rows="2" data-action="intensive-field" data-field="gist" data-paragraph-id="${escapeHtml(paragraph.id)}">${escapeHtml(progress.paragraphGists?.[paragraph.id]?.answer || "")}</textarea>
+              </label>
+            `
+          )
+          .join("")}
+      </section>
+    `;
+  }
+
+  function renderIntensiveQuestions(item) {
+    const testId = item.id.replace(/-passage-\d+$/, "");
+    const test = generatedTests.find((candidate) => candidate.id === testId);
+    const questions = (test?.questions || []).filter(
+      (question) => Number(question.passage) === Number(item.passageNo)
+    );
+    if (!questions.length) return "";
+    return `
+      <section class="intensive-question-links">
+        <h3>真题证据与同义替换</h3>
+        ${questions
+          .map(
+            (question) => `
+              <details>
+                <summary>Q${escapeHtml(question.number)} · ${escapeHtml(question.prompt || question.type || "Reading question")}</summary>
+                <p><strong>答案：</strong>${escapeHtml(question.answer || "—")}</p>
+                <p><strong>证据：</strong>${escapeHtml(question.evidenceData?.text || (Array.isArray(question.evidence) ? question.evidence.join("、") : question.evidence) || "—")}</p>
+                ${
+                  question.synonymSubstitutions?.length
+                    ? `<p><strong>同义替换：</strong>${escapeHtml(question.synonymSubstitutions.map((entry) => typeof entry === "string" ? entry : `${entry.question || ""} ↔ ${entry.passage || ""}`).join("；"))}</p>`
+                    : ""
+                }
+                ${
+                  question.distractorAnalysis
+                    ? `<p><strong>干扰项：</strong>${escapeHtml(typeof question.distractorAnalysis === "string" ? question.distractorAnalysis : JSON.stringify(question.distractorAnalysis))}</p>`
+                    : ""
+                }
+              </details>
+            `
+          )
+          .join("")}
+      </section>
+    `;
+  }
+
+  function renderIntensiveReviewExercises(item, progress) {
+    const draft = intensiveDraft(item.id);
+    const units = intensiveUnits().filter((unit) => unit.chinese && unit.english).slice(0, 5);
+    return `
+      <section class="intensive-review-exercises">
+        <h3>主动提取：先中译英，再揭示原句</h3>
+        ${units
+          .map((unit) => {
+            const revealed = Boolean(draft.reviewReveals?.[unit.id]);
+            return `
+              <article>
+                <p>${escapeHtml(unit.chinese)}</p>
+                <textarea rows="2" data-action="intensive-field" data-field="reviewAnswer" data-unit-id="${escapeHtml(unit.id)}" placeholder="先写出你的英文版本">${escapeHtml(draft.reviewAnswers?.[unit.id] || "")}</textarea>
+                <button type="button" class="small-button" data-action="reveal-intensive-review-answer" data-unit-id="${escapeHtml(unit.id)}">核对原句</button>
+                ${revealed ? `<p class="review-reference"><strong>原句：</strong>${escapeHtml(unit.english)}</p>` : ""}
+              </article>
+            `;
+          })
+          .join("")}
+        <label class="intensive-review-selfcheck">
+          <span>本轮回忆结果</span>
+          <div>
+            <button type="button" class="ghost-button" data-action="rate-intensive-review" data-rating="forgotten">忘记</button>
+            <button type="button" class="ghost-button" data-action="rate-intensive-review" data-rating="hard">困难</button>
+            <button type="button" class="primary-button" data-action="rate-intensive-review" data-rating="mastered">掌握</button>
+          </div>
+        </label>
+        <p class="panel-subtitle">当前掌握：${escapeHtml(progress.review?.mastery || "new")}；下次：${formatCalendarDate(progress.review?.dueAt)}</p>
+      </section>
+    `;
+  }
+
+  function renderIntensiveStage(item, progress) {
+    const draft = intensiveDraft(item.id);
+    const levelGuides = {
+      "A2-B1": "建议使用“逐层揭示”，每段先写一句主旨，再看译文与讲解。",
+      "B1-B2": "先用英文定位主干和逻辑，再按需揭示译文与讲解。",
+      "B2-C1": "尽量保持英文模式，只在卡点句揭示结构，重点做英文摘要与复述。"
+    };
+    const levelGuide = levelGuides[state.intensiveReading.level] || levelGuides["B1-B2"];
+    if (progress.stage === "pre-read") {
+      return `
+        <section class="intensive-stage-card">
+          <h3>先预测，再读正文</h3>
+          <p>${escapeHtml(intensiveDocument?.lead || "只看标题，用两三句话预测文章可能的主线与论证方向。")}</p>
+          <p class="intensive-level-guide"><strong>${escapeHtml(state.intensiveReading.level)}</strong> · ${escapeHtml(levelGuide)}</p>
+          <label>
+            <span>我的预测</span>
+            <textarea rows="4" data-action="intensive-field" data-field="prediction" placeholder="文章可能会讨论……">${escapeHtml(draft.prediction || "")}</textarea>
+          </label>
+          <button type="button" class="primary-button" data-action="complete-intensive-stage">进入限时通读</button>
+        </section>
+      `;
+    }
+    if (progress.stage === "timed-read") {
+      const parsedWords = intensiveUnits().reduce((total, unit) => total + wordCount(unit.english), 0);
+      return `
+        <section class="intensive-stage-card">
+          <h3>英文限时通读</h3>
+          <p class="panel-subtitle">这一轮不看中文，先抓每段主旨、转折与因果关系。正文约 ${parsedWords || Number(item.englishWordCount || 0)} 词，完成后记录用时与 WPM。</p>
+          ${renderIntensiveEnglishText()}
+          <button type="button" class="primary-button" data-action="complete-intensive-stage">完成通读，进入精读</button>
+        </section>
+      `;
+    }
+    if (progress.stage === "deep-read") {
+      return `
+        <section class="intensive-stage-card">
+          <div class="intensive-display-switch" role="group" aria-label="精读显示模式">
+            ${[
+              ["english", "英文"],
+              ["guided", "逐层揭示"],
+              ["reference", "完整参考"]
+            ]
+              .map(
+                ([mode, label]) => `
+                  <button type="button" class="${state.intensiveReading.displayMode === mode ? "is-active" : ""}" data-action="set-intensive-display" data-display-mode="${mode}">${label}</button>
+                `
+              )
+              .join("")}
+          </div>
+          ${renderParagraphGists(progress)}
+          <div class="intensive-units">${intensiveUnits().map((unit, index) => renderIntensiveUnit(unit, progress, index)).join("")}</div>
+          ${renderIntensiveQuestions(item)}
+          <button type="button" class="primary-button" data-action="complete-intensive-stage">完成精读，进入输出</button>
+        </section>
+      `;
+    }
+    if (progress.stage === "output") {
+      return `
+        <section class="intensive-stage-card intensive-output">
+          <h3>把“看懂”变成“会用”</h3>
+          <label>
+            <span>80–120 词英文摘要</span>
+            <textarea rows="7" data-action="intensive-field" data-field="summary" placeholder="Write the argument in your own words.">${escapeHtml(progress.outputs?.summary || "")}</textarea>
+          </label>
+          <label>
+            <span>一分钟英文复述提纲</span>
+            <textarea rows="5" data-action="intensive-field" data-field="retell" placeholder="First... Then... Finally...">${escapeHtml(progress.outputs?.retell || "")}</textarea>
+          </label>
+          <p class="panel-subtitle">已收藏 ${(progress.savedExpressions || []).length} 个可迁移表达。</p>
+          <button type="button" class="primary-button" data-action="complete-intensive-stage">完成输出，安排复习</button>
+        </section>
+      `;
+    }
+    return renderIntensiveReviewExercises(item, progress);
+  }
+
+  function renderIntensiveStudy(item) {
+    if (intensiveLoadingId === item.id) {
+      return `<div class="empty-state">正在加载并解析 ${escapeHtml(item.displayTitle)}…</div>`;
+    }
+    if (intensiveLoadError) {
+      return `
+        <div class="empty-state is-error">
+          ${escapeHtml(intensiveLoadError)}
+          <button type="button" class="ghost-button" data-action="open-intensive-passage" data-passage-id="${escapeHtml(item.id)}">重试</button>
+        </div>
+      `;
+    }
+    if (!intensiveDocument) {
+      return `
+        <div class="empty-state">
+          <p>这篇学习进度已恢复，正文需要重新载入。</p>
+          <button type="button" class="primary-button" data-action="open-intensive-passage" data-passage-id="${escapeHtml(item.id)}">载入并继续</button>
+        </div>
+      `;
+    }
+    const progress = normalizeIntensiveProgress(state.intensiveReading.progressById[item.id], item);
+    return `
+      <article class="intensive-reader">
+        <header class="intensive-reader__header">
+          <div>
+            <span class="tag">${escapeHtml(item.displayTitle)}</span>
+            <h1>${escapeHtml(intensiveDocument.title || item.title || item.displayTitle)}</h1>
+            <p>${escapeHtml(intensiveDocument.lead || "")}</p>
+          </div>
+          <div class="intensive-reader__actions">
+            <button type="button" class="ghost-button" data-action="close-intensive-passage">学习概览</button>
+            <a class="small-button" href="${escapeHtml(item.canonicalPath)}" target="_blank" rel="noreferrer">原始 Markdown</a>
+          </div>
+        </header>
+        ${renderIntensiveStageProgress(progress)}
+        ${renderIntensiveTimedReadMetrics(progress, item)}
+        ${renderIntensiveStage(item, progress)}
+      </article>
+    `;
+  }
+
+  function renderIntensiveReading() {
+    const selected = intensiveItemById(state.intensiveReading.selectedId);
+    return `
+      <section class="intensive-layout">
+        <aside class="panel intensive-library">
+          ${renderIntensiveLibrary()}
+        </aside>
+        <main class="panel intensive-study">
+          ${
+            selected
+              ? renderIntensiveStudy(selected)
+              : `
+                <div class="intensive-welcome">
+                  <h2>从“完整材料”进入主动学习</h2>
+                  <p>先预测和限时通读，再逐层揭示译文、句法与题目证据；最后用摘要、复述和间隔复习完成迁移。</p>
+                  ${renderIntensiveDueQueue()}
+                  ${renderIntensiveProgressOverview()}
+                  ${renderIntensiveExpressionBank()}
+                </div>
+              `
+          }
+        </main>
+      </section>
+    `;
+  }
+
+  async function openIntensivePassage(passageId) {
+    const item = intensiveItemById(passageId);
+    if (!item) return;
+    state.view = "intensive";
+    state.intensiveReading.selectedId = item.id;
+    ensureIntensiveProgress(item);
+    intensiveDocument = null;
+    intensiveLoadError = "";
+    intensiveLoadingId = item.id;
+    saveState();
+    render();
+    try {
+      const response = await fetch(item.canonicalPath);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      const markdown = await response.text();
+      if (state.intensiveReading.selectedId !== item.id) return;
+      intensiveDocument = intensiveParser?.parseIntensiveReadingMarkdown
+        ? intensiveParser.parseIntensiveReadingMarkdown(markdown, {
+            idPrefix: item.id,
+            title: item.title || item.displayTitle
+          })
+        : { title: item.title, lead: "", units: [], paragraphs: [] };
+      intensiveLoadingId = "";
+      render();
+    } catch (error) {
+      if (state.intensiveReading.selectedId !== item.id) return;
+      intensiveLoadingId = "";
+      intensiveLoadError = `精读材料加载失败：${error.message}`;
+      render();
+    }
+  }
+
+  function completeIntensiveStage() {
+    const item = intensiveItemById(state.intensiveReading.selectedId);
+    if (!item) return;
+    const progress = ensureIntensiveProgress(item);
+    try {
+      state.intensiveReading.progressById[item.id] = intensiveUtils?.transitionPassageStage
+        ? intensiveUtils.transitionPassageStage(progress, undefined, { now: new Date().toISOString() })
+        : progress;
+      saveState();
+      render();
+    } catch (error) {
+      intensiveLoadError = `无法进入下一阶段：${error.message}`;
+      render();
+    }
+  }
+
+  function revealIntensiveUnit(unitId, layer) {
+    const item = intensiveItemById(state.intensiveReading.selectedId);
+    if (!item) return;
+    const progress = ensureIntensiveProgress(item);
+    state.intensiveReading.progressById[item.id] = intensiveUtils?.revealSentence
+      ? intensiveUtils.revealSentence(progress, unitId, layer, { now: new Date().toISOString() })
+      : {
+          ...progress,
+          sentenceReveals: {
+            ...progress.sentenceReveals,
+            [unitId]: {
+              layers: [...new Set([...(progress.sentenceReveals?.[unitId]?.layers || []), layer])]
+            }
+          }
+        };
+    saveState();
+    render();
+  }
+
+  function saveIntensiveExpression(unitId) {
+    const item = intensiveItemById(state.intensiveReading.selectedId);
+    const unit = intensiveUnits().find((candidate) => candidate.id === unitId);
+    if (!item || !unit) return;
+    const progress = ensureIntensiveProgress(item);
+    const expression = {
+      text: unit.english,
+      meaning: unit.chinese,
+      sentenceId: unit.id,
+      note: unit.explanation
+    };
+    state.intensiveReading.progressById[item.id] = intensiveUtils?.saveExpression
+      ? intensiveUtils.saveExpression(progress, expression, { now: new Date().toISOString() })
+      : { ...progress, savedExpressions: [...(progress.savedExpressions || []), expression] };
+    const key = `${item.id}:${normalize(unit.english)}`;
+    if (!state.intensiveReading.expressions.some((entry) => entry.key === key)) {
+      state.intensiveReading.expressions.unshift({
+        key,
+        passageId: item.id,
+        source: item.displayTitle,
+        ...expression,
+        createdAt: new Date().toISOString()
+      });
+    }
+    saveState();
+    render();
+  }
+
+  function rateIntensiveReview(rating) {
+    const item = intensiveItemById(state.intensiveReading.selectedId);
+    if (!item) return;
+    const progress = ensureIntensiveProgress(item);
+    const draft = intensiveDraft(item.id);
+    const answer = Object.values(draft.reviewAnswers || {}).filter(Boolean).join("\n");
+    state.intensiveReading.progressById[item.id] = intensiveUtils?.recordReviewAttempt
+      ? intensiveUtils.recordReviewAttempt(progress, rating, {
+          now: new Date().toISOString(),
+          answer
+        })
+      : progress;
+    saveState();
+    render();
+  }
+
+  function updateIntensiveField(target) {
+    const item = intensiveItemById(state.intensiveReading.selectedId);
+    if (!item) return false;
+    const progress = ensureIntensiveProgress(item);
+    const draft = state.intensiveReading.draftsById[item.id];
+    const field = target.dataset.field;
+    if (field === "prediction") {
+      draft.prediction = target.value;
+    } else if (field === "reviewAnswer") {
+      draft.reviewAnswers[target.dataset.unitId] = target.value;
+    } else if (field === "gist") {
+      state.intensiveReading.progressById[item.id] = intensiveUtils?.recordParagraphGist
+        ? intensiveUtils.recordParagraphGist(progress, target.dataset.paragraphId, target.value, {
+            now: new Date().toISOString()
+          })
+        : progress;
+    } else if (field === "summary" || field === "retell") {
+      state.intensiveReading.progressById[item.id] = intensiveUtils?.recordPassageOutput
+        ? intensiveUtils.recordPassageOutput(progress, field, target.value, {
+            now: new Date().toISOString()
+          })
+        : { ...progress, outputs: { ...progress.outputs, [field]: target.value } };
+    } else {
+      return false;
+    }
+    saveState();
+    return true;
+  }
+
   function renderReview() {
     return `
       <section class="review-grid">
@@ -2249,6 +3019,29 @@
       updateErrorField(target);
       return;
     }
+    if (target.dataset.action === "intensive-search-field") {
+      state.intensiveReading.search = target.value;
+      saveState();
+      return;
+    }
+    if (target.dataset.action === "intensive-field") {
+      updateIntensiveField(target);
+      return;
+    }
+    if (target.dataset.action === "set-intensive-book") {
+      state.intensiveReading.bookFilter = target.value;
+      saveState();
+      render();
+      return;
+    }
+    if (target.dataset.action === "set-intensive-level") {
+      state.intensiveReading.level = target.value;
+      if (target.value === "A2-B1") state.intensiveReading.displayMode = "guided";
+      if (target.value === "B2-C1") state.intensiveReading.displayMode = "english";
+      saveState();
+      render();
+      return;
+    }
     if (!state.session) return;
     const action = target.dataset.action;
     if (action === "answer-input") {
@@ -2394,6 +3187,45 @@
     if (action === "add-history-anki") addHistoryAnki(target.dataset.historyId);
     if (action === "add-error-anki") addErrorAnki(target.dataset.errorId);
     if (action === "mark-error-review") markErrorReview(target.dataset.errorId, target.dataset.reviewStage);
+    if (action === "open-intensive-passage") openIntensivePassage(target.dataset.passageId);
+    if (action === "close-intensive-passage") {
+      state.intensiveReading.selectedId = "";
+      intensiveDocument = null;
+      intensiveLoadingId = "";
+      intensiveLoadError = "";
+      saveState();
+      render();
+    }
+    if (action === "apply-intensive-filter") render();
+    if (action === "set-intensive-display") {
+      state.intensiveReading.displayMode = target.dataset.displayMode || "english";
+      saveState();
+      render();
+    }
+    if (action === "complete-intensive-stage") completeIntensiveStage();
+    if (action === "reveal-intensive-unit") revealIntensiveUnit(target.dataset.unitId, target.dataset.layer);
+    if (action === "save-intensive-expression") saveIntensiveExpression(target.dataset.unitId);
+    if (action === "rate-intensive-review") rateIntensiveReview(target.dataset.rating);
+    if (action === "export-intensive-expressions") {
+      exportCsv(state.intensiveReading.expressions, "ielts-intensive-expressions.csv", [
+        "text",
+        "meaning",
+        "note",
+        "source",
+        "passageId",
+        "createdAt"
+      ]);
+    }
+    if (action === "reveal-intensive-review-answer") {
+      const selectedId = state.intensiveReading.selectedId;
+      const item = intensiveItemById(selectedId);
+      if (item) {
+        ensureIntensiveProgress(item);
+        state.intensiveReading.draftsById[selectedId].reviewReveals[target.dataset.unitId] = true;
+        saveState();
+        render();
+      }
+    }
     if (action === "export-errors") {
       exportCsv(state.errors, "ielts-error-log.csv", ["createdAt", "mode", "source", "question", "prompt", "userAnswer", "correctAnswer", "errorType", "evidence", "evidenceLocation", "synonymSubstitutions", "distractorAnalysis", "learnerDiagnosis", "nextAction", "reviewSchedule"]);
     }

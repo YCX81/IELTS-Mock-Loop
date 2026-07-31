@@ -139,9 +139,9 @@ const body = `# Cambridge IELTS Reading 双语精读索引
 
 生成时间：${generatedAt}
 
-本目录是从本地 Cambridge IELTS 04-21 Reading 题库生成的双语精读复盘材料。每本 4 套 Reading，每套 3 篇 Passage，共 ${total} 篇。部分 OCR/结构化漏切的 passage 已从 raw text 恢复到各批次的 \`recovered-sources/\`。
+本目录扫描到 ${total} 个 Markdown 文件，其中 216 篇是 Cambridge IELTS 04–21 的唯一正式 Passage（每本 4 套、每套 3 篇），其余为保留用于追溯的恢复稿、旧版本、索引或报告。学习入口以 \`canonical-catalog.json\` 为准；选择规则和重复项见 \`../../../reports/intensive-reading-canonical-audit.md\`。
 
-## 覆盖统计
+## 物理文件统计（包含恢复稿与旧版本）
 
 | Book | Count | Group | First file | Last file |
 |---|---:|---|---|---|
