@@ -333,6 +333,108 @@ assert.equal(h2DeepDiveModel.deepDives[0].unitId, h2DeepDiveModel.units[0].id);
 assert.match(h2DeepDiveModel.deepDives[0].content, /relationship 只说明变量相关/);
 assert.doesNotMatch(h2DeepDiveModel.deepDives[0].content, /Excellence does not emerge/);
 
+// Legacy completed lessons may keep their three A-layer explanations in a
+// standalone section after the sentence-by-sentence reading. Explicit sentence
+// numbers should reconnect those explanations to the intended source units.
+const standaloneDeepDiveSample = `# A prepared mind
+
+## 正文逐句精读
+
+### 1
+
+Chance favours the prepared mind.
+
+机会眷顾有准备的头脑。
+
+### 2
+
+The team lost no time in testing the result.
+
+团队立刻开始检验结果。
+
+### 3
+
+They eventually went back to the drawing board.
+
+他们最终回到起点重新设计。
+
+## 核心表达深挖
+
+### A层深挖：句 1 — favour the prepared mind
+
+这个表达把偶然与准备连接起来。The discovery favoured a prepared team. 这项发现眷顾了有准备的团队。Good opportunities often favour the prepared mind. 好机会往往眷顾有准备的头脑。
+
+### A层深挖：句 2 — lose no time in doing
+
+这个结构强调马上行动。The school lost no time in issuing a notice. 学校立即发布通知。The editor lost no time in correcting the error. 编辑立即更正错误。
+
+### A层深挖：句 3 — go back to the drawing board
+
+这个表达表示需要从设计阶段重新开始。The pilot failed, so we went back to the drawing board. 试点失败了，所以我们从头设计。If the interface remains confusing, the team must go back to the drawing board. 如果界面仍然难懂，团队就必须推倒重来。`;
+
+const standaloneDeepDiveModel = parseIntensiveReadingMarkdown(standaloneDeepDiveSample);
+assert.equal(standaloneDeepDiveModel.deepDives.length, 3);
+assert.deepEqual(
+  standaloneDeepDiveModel.deepDives.map((dive) => dive.unitId),
+  standaloneDeepDiveModel.units.map((unit) => unit.id)
+);
+
+// A title-level A-layer note may appear before the first numbered sentence.
+// It should remain available and attach to the first usable reading unit.
+const leadingDeepDiveSample = `# Endless Harvest｜无尽的收获
+
+**A层深挖 1/3：endless harvest**
+
+这个标题把可持续收获写成一种需要制度维持的承诺。Good soil management can create an endless harvest. 良好的土壤管理能够带来持续收获。No platform can expect an endless harvest of attention. 平台不能期待注意力永不枯竭。
+
+## 原文逐句展开
+
+### 第一段
+
+#### 1
+
+For centuries, salmon have provided food for communities.
+
+几个世纪以来，鲑鱼一直为社区提供食物。`;
+
+const leadingDeepDiveModel = parseIntensiveReadingMarkdown(leadingDeepDiveSample);
+assert.equal(leadingDeepDiveModel.deepDives.length, 1);
+assert.equal(leadingDeepDiveModel.deepDives[0].unitId, leadingDeepDiveModel.units[0].id);
+
+// Structural labels following a translated title are paragraph headings, not
+// English study units of their own.
+const structuralHeadingSample = `# Scarce resources
+
+## 01 逐句精读
+
+### 标题
+
+**The Problem of Scarce Resources**
+
+稀缺资源问题。
+
+### Section A
+
+**1. Health-care resources must be allocated fairly.**
+
+医疗资源必须得到公平分配。
+
+### Section B
+
+**2. Every system has to set priorities.**
+
+每个体系都必须确定优先事项。`;
+
+const structuralHeadingModel = parseIntensiveReadingMarkdown(structuralHeadingSample);
+assert.deepEqual(
+  structuralHeadingModel.units.map((unit) => unit.english),
+  [
+    "The Problem of Scarce Resources",
+    "Health-care resources must be allocated fairly.",
+    "Every system has to set priorities.",
+  ]
+);
+
 // Boundary and safety behavior: sparse content degrades safely and raw HTML/code is never emitted.
 const unsafeSample = `# <em>Safe lesson</em><script>globalThis.pwned = true</script>
 

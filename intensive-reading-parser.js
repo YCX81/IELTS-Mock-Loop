@@ -120,6 +120,12 @@
     return /(?:A\s*层\s*深挖|深挖表达|高价值表达)/i.test(String(value || ""));
   }
 
+  function isStructuralHeadingTitle(value) {
+    return /^(?:Section|Paragraph)\s+[A-Z](?:\s*[：:].*)?$/i.test(
+      stripInlineMarkdown(value)
+    );
+  }
+
   function unitHeadingInfo(heading) {
     if (!heading || heading.level < 2 || heading.level > 4) return null;
     let match = heading.title.match(
@@ -224,6 +230,139 @@
     });
     flush();
     return paragraphs.filter(Boolean).join("\n\n");
+  }
+
+  function deepDiveMarker(line) {
+    const heading = parseHeading(line);
+    if (heading && isDeepDiveTitle(heading.title)) {
+      return {
+        title: heading.title,
+        trailing: "",
+      };
+    }
+
+    const source = String(line || "");
+    const bold = source.match(/(\*\*|__)(.*?A\s*层\s*深挖.*?)\1/i);
+    if (!bold || !isDeepDiveTitle(bold[2])) return null;
+    return {
+      title: stripInlineMarkdown(bold[2]),
+      trailing: source
+        .slice((bold.index || 0) + bold[0].length)
+        .replace(/^[\s。，、；;：:—–-]+/, "")
+        .trim(),
+    };
+  }
+
+  function extractDeepDiveEntries(lines) {
+    const entries = [];
+    for (let index = 0; index < lines.length; index += 1) {
+      const marker = deepDiveMarker(lines[index]);
+      if (!marker) continue;
+
+      const contentLines = marker.trailing ? [marker.trailing] : [];
+      let cursor = index + 1;
+      for (; cursor < lines.length; cursor += 1) {
+        if (deepDiveMarker(lines[cursor])) break;
+        const heading = parseHeading(lines[cursor]);
+        if (heading) break;
+        contentLines.push(lines[cursor]);
+      }
+      entries.push({
+        title: marker.title,
+        content: linesToPlainText(contentLines),
+      });
+      index = cursor - 1;
+    }
+    return entries;
+  }
+
+  function deepDiveSentenceNumber(title) {
+    const match = stripInlineMarkdown(title).match(/句\s*(\d+)/i);
+    return match ? Number(match[1]) : null;
+  }
+
+  function deepDiveExpression(title) {
+    return stripInlineMarkdown(title)
+      .replace(
+        /^A\s*层\s*深挖(?:表达)?\s*(?:\d+(?:\s*\/\s*\d+)?)?\s*[：:｜|—–-]?\s*/i,
+        ""
+      )
+      .replace(/^句\s*\d+\s*[：:｜|—–-]?\s*/i, "")
+      .replace(/\s*[（(][A-C]\d[^）)]*[）)]\s*$/i, "")
+      .replace(/[。；;：:]+\s*$/, "")
+      .trim();
+  }
+
+  function searchableWords(value) {
+    const stopWords = new Set([
+      "a",
+      "an",
+      "and",
+      "at",
+      "be",
+      "been",
+      "being",
+      "in",
+      "of",
+      "on",
+      "one",
+      "someone",
+      "something",
+      "the",
+      "to",
+      "with",
+    ]);
+    const matches = String(value || "")
+      .toLowerCase()
+      .replace(/[’]/g, "'")
+      .match(/[a-z]+(?:'[a-z]+)?/g);
+    return matches ? matches.filter((word) => !stopWords.has(word)) : [];
+  }
+
+  function searchWordsMatch(left, right) {
+    if (left === right) return true;
+    if (
+      (left === "hold" && right === "held") ||
+      (left === "held" && right === "hold")
+    ) {
+      return true;
+    }
+    if (Math.min(left.length, right.length) < 4) return false;
+    return left.startsWith(right) || right.startsWith(left);
+  }
+
+  function findDeepDiveUnit(entry, units) {
+    if (!units.length) return null;
+    const sentenceNumber = deepDiveSentenceNumber(entry.title);
+    if (sentenceNumber !== null) {
+      const numberedUnit = units.find((unit) => unit.number === sentenceNumber);
+      if (numberedUnit) return numberedUnit;
+    }
+
+    const expressionWords = searchableWords(deepDiveExpression(entry.title));
+    if (expressionWords.length) {
+      let bestUnit = null;
+      let bestScore = 0;
+      units.forEach((unit) => {
+        const englishWords = searchableWords(unit.english);
+        const score = expressionWords.reduce(
+          (count, word) =>
+            count +
+            (englishWords.some((englishWord) => searchWordsMatch(word, englishWord)) ? 1 : 0),
+          0
+        );
+        if (score > bestScore) {
+          bestScore = score;
+          bestUnit = unit;
+        }
+      });
+      if (bestUnit && bestScore >= Math.min(2, expressionWords.length)) return bestUnit;
+    }
+
+    // Title-level explanations precede the first numbered sentence in several
+    // completed lessons. Keeping them on the first usable unit makes the
+    // explanation visible without inventing a synthetic source sentence.
+    return units[0];
   }
 
   function blockPlainText(block, includeTitle) {
@@ -347,6 +486,7 @@
       if (heading && heading.level >= 3) {
         if (
           looksEnglish(heading.title) &&
+          !isStructuralHeadingTitle(heading.title) &&
           currentParagraph &&
           /(?:标题|开场)/.test(currentParagraph.title)
         ) {
@@ -528,6 +668,22 @@
           .join("\n\n"),
         sections: questionBlocks,
       };
+    }
+
+    const extractedDeepDives = extractDeepDiveEntries(lines);
+    if (extractedDeepDives.length) {
+      model.deepDives = extractedDeepDives
+        .map((entry, index) => {
+          const unit = findDeepDiveUnit(entry, model.units);
+          if (!unit) return null;
+          return {
+            id: makeId(context.prefix, "deep-dive", index + 1),
+            title: entry.title,
+            unitId: unit.id,
+            content: entry.content,
+          };
+        })
+        .filter(Boolean);
     }
     return model;
   }
